@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HBE3|A0A1L8HBE3_XENLA -          Nup96                PF12110.5    9.4e-81  272.4   2.5   1.2e-80  272.0   2.5   1.1   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016499mg PE=1 SV=1
+tr|A0A1L8HJT4|A0A1L8HJT4_XENLA -          Nup96                PF12110.5    2.2e-63  215.4   3.2   3.4e-63  214.8   3.2   1.2   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013967mg PE=1 SV=1
+tr|A0A1L8GIC4|A0A1L8GIC4_XENLA -          Nup96                PF12110.5       0.51   10.7   1.0      0.98    9.8   0.2   1.8   2   0   0   2   2   2   0 INSC_LBD domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18021715mg PE=4 SV=1
+tr|A0A1L8ERR5|A0A1L8ERR5_XENLA -          Nup96                PF12110.5        1.6    9.1   0.1       2.3    8.6   0.1   1.1   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043116mg PE=3 SV=1
+tr|A0A1L8HG42|A0A1L8HG42_XENLA -          Nup96                PF12110.5        4.9    7.5   0.0       4.7    7.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012731mg PE=4 SV=1
+tr|A0A1L8GB76|A0A1L8GB76_XENLA -          Nup96                PF12110.5        5.1    7.4   0.1       5.2    7.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18027828mg PE=4 SV=1
+tr|A0A1L8GX82|A0A1L8GX82_XENLA -          Nup96                PF12110.5        8.3    6.7   0.0        13    6.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017083mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:43:35 2022
+# [ok]

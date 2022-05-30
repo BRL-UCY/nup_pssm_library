@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4JE34|F4JE34_ARATH -          NUP214               PF16755.2      0.033   14.5   0.1      0.04   14.3   0.1   1.1   1   0   0   1   1   1   0 Zim17-type zinc finger protein OS=Arabidopsis thaliana OX=3702 GN=ZR3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup214.txt --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:52 2022
+# [ok]

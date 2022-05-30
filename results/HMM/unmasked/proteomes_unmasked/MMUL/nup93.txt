@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QUG4|A0A1D5QUG4_MACMU -          Nic96                PF04097.11  5.8e-195  650.7   0.2  7.1e-195  650.4   0.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=3 SV=1
+tr|G7NPT2|G7NPT2_MACMU         -          Nic96                PF04097.11  8.9e-195  650.1   0.2  1.2e-194  649.6   0.2   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=2 SV=1
+tr|A0A1D5R2M9|A0A1D5R2M9_MACMU -          Nic96                PF04097.11  5.2e-175  584.8   0.2  7.7e-175  584.2   0.2   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=3 SV=1
+tr|A0A1D5RHX3|A0A1D5RHX3_MACMU -          Nic96                PF04097.11     2e-18   67.6   0.1     7e-14   52.5   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=3 SV=1
+tr|F7EYV8|F7EYV8_MACMU         -          Nic96                PF04097.11       1.1    8.9   0.8       1.7    8.3   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SLC13A5 PE=4 SV=2
+tr|F6RTR5|F6RTR5_MACMU         -          Nic96                PF04097.11       1.1    8.9   0.8       1.7    8.3   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SLC13A5 PE=4 SV=2
+tr|G0X6X6|G0X6X6_MACMU         -          Nic96                PF04097.11       1.3    8.8   0.8       1.9    8.2   0.8   1.1   1   0   0   1   1   1   0 Na(+)/citrate cotransporter OS=Macaca mulatta OX=9544 GN=SLC13A5 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup93.txt --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:53 2022
+# [ok]

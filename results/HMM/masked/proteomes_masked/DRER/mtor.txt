@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0R4IYL8|A0A0R4IYL8_DANRE -          TPR_MLP1_2           PF07926.9    5.7e-10   40.7   1.0   5.7e-10   40.7   1.0   3.0   3   0   0   3   3   3   1 Translocated promoter region a, nuclear basket protein OS=Danio rerio OX=7955 GN=tpra PE=1 SV=1
+tr|Q5RI09|Q5RI09_DANRE         -          TPR_MLP1_2           PF07926.9    6.6e-05   24.3   0.0   6.6e-05   24.3   0.0   2.7   4   0   0   4   4   2   1 Translocated promoter region b, nuclear basket protein OS=Danio rerio OX=7955 GN=tprb PE=1 SV=1
+tr|Q6DBU4|Q6DBU4_DANRE         -          TPR_MLP1_2           PF07926.9    0.00038   21.9   4.2      0.06   14.8   0.5   2.8   2   1   0   2   2   2   2 Zgc:92380 OS=Danio rerio OX=7955 GN=zgc:92380 PE=1 SV=1
+tr|Q6DHU3|Q6DHU3_DANRE         -          TPR_MLP1_2           PF07926.9     0.0048   18.3   1.5    0.0048   18.3   1.5   2.9   3   1   0   3   3   3   1 Keratin 97 OS=Danio rerio OX=7955 GN=krt97 PE=1 SV=1
+tr|F1QP28|F1QP28_DANRE         -          TPR_MLP1_2           PF07926.9       0.01   17.2   1.2      0.01   17.2   1.2   3.5   2   2   1   3   3   3   0 Keratin 96 (Fragment) OS=Danio rerio OX=7955 GN=krt96 PE=3 SV=1
+tr|E7FAL7|E7FAL7_DANRE         -          TPR_MLP1_2           PF07926.9      0.029   15.8   1.4        14    7.1   0.1   2.5   3   0   0   3   3   3   0 Zgc:92380 OS=Danio rerio OX=7955 GN=zgc:92380 PE=1 SV=4
+sp|Q7ZTS4|K1C18_DANRE          -          TPR_MLP1_2           PF07926.9      0.034   15.6   6.0      0.18   13.2   0.3   3.1   2   1   1   3   3   3   0 Keratin, type I cytoskeletal 18 OS=Danio rerio OX=7955 GN=krt18 PE=1 SV=2
+tr|E9QBD7|E9QBD7_DANRE         -          TPR_MLP1_2           PF07926.9      0.072   14.5   0.1       4.1    8.8   0.0   2.3   2   0   0   2   2   2   0 Keratin 5 (Fragment) OS=Danio rerio OX=7955 GN=krt5 PE=1 SV=1
+tr|E7F1G2|E7F1G2_DANRE         -          TPR_MLP1_2           PF07926.9       0.11   13.9   6.3       0.2   13.1   1.7   2.4   2   0   0   2   2   2   0 Coiled-coil domain-containing 170 OS=Danio rerio OX=7955 GN=ccdc170 PE=4 SV=1
+tr|E7F7F9|E7F7F9_DANRE         -          TPR_MLP1_2           PF07926.9       0.49   11.8   2.1       2.2    9.7   0.1   2.7   3   0   0   3   3   3   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=3
+tr|F1R8U0|F1R8U0_DANRE         -          TPR_MLP1_2           PF07926.9       0.57   11.6  16.0       0.1   14.0   1.3   3.6   3   1   0   3   3   3   0 Keratin 94 OS=Danio rerio OX=7955 GN=krt94 PE=1 SV=1
+tr|A0A2R8QI68|A0A2R8QI68_DANRE -          TPR_MLP1_2           PF07926.9          1   10.7  16.4       1.9    9.9   1.5   3.6   2   1   1   3   3   3   0 Kertain 95 OS=Danio rerio OX=7955 GN=krt95 PE=3 SV=1
+tr|F6P9T1|F6P9T1_DANRE         -          TPR_MLP1_2           PF07926.9        1.6   10.2  17.4         2    9.8   1.6   3.8   2   1   0   3   3   3   0 Kertain 95 OS=Danio rerio OX=7955 GN=krt95 PE=3 SV=2
+tr|A0A2R8Q670|A0A2R8Q670_DANRE -          TPR_MLP1_2           PF07926.9        1.8   10.0   2.3       2.8    9.4   0.2   2.1   2   0   0   2   2   2   0 Ubiquitin-conjugating enzyme E2Q family member 2 OS=Danio rerio OX=7955 GN=ube2q2 PE=1 SV=1
+tr|Q6DG66|Q6DG66_DANRE         -          TPR_MLP1_2           PF07926.9        1.9    9.9  17.4       2.3    9.6   1.6   3.7   2   1   2   4   4   4   0 Kertain 95 OS=Danio rerio OX=7955 GN=krt95 PE=2 SV=1
+tr|F1QAM8|F1QAM8_DANRE         -          TPR_MLP1_2           PF07926.9        4.4    8.7   9.4       2.2    9.7   1.0   3.6   3   1   2   5   5   5   0 Vimentin OS=Danio rerio OX=7955 GN=vim PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:42 2022
+# [ok]

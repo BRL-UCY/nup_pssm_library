@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1Z6H7|PO210_DROME          -          Big_2                PF02368.15    0.0082   16.3   6.1      0.51   10.5   0.0   4.9   5   0   0   5   5   5   1 Nuclear pore membrane glycoprotein 210 OS=Drosophila melanogaster OX=7227 GN=Gp210 PE=1 SV=1
+tr|X2JC14|X2JC14_DROME         -          Big_2                PF02368.15      0.12   12.6   1.7      0.33   11.2   1.7   1.8   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13375 PE=4 SV=1
+tr|Q9W5G7|Q9W5G7_DROME         -          Big_2                PF02368.15      0.14   12.4   1.7      0.38   10.9   1.7   1.8   1   0   0   1   1   1   0 EG:BACR37P7.8 protein OS=Drosophila melanogaster OX=7227 GN=EG:BACR37P7.8 PE=4 SV=2
+tr|Q8IMU1|Q8IMU1_DROME         -          Big_2                PF02368.15       1.1    9.5   0.5       1.7    8.8   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11791 PE=4 SV=1
+tr|Q9VBZ0|Q9VBZ0_DROME         -          Big_2                PF02368.15         2    8.7   0.5       3.3    7.9   0.5   1.3   1   0   0   1   1   1   0 GH19563p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11791 PE=2 SV=1
+tr|Q8IGP5|Q8IGP5_DROME         -          Big_2                PF02368.15       2.7    8.2   0.4        28    5.0   0.1   2.8   2   0   0   2   2   2   0 Chromatin-linked adaptor for MSL proteins, isoform B OS=Drosophila melanogaster OX=7227 GN=Clamp PE=1 SV=1
+sp|Q9VHX7|ELOVL_DROME          -          Big_2                PF02368.15       2.9    8.1   0.2       4.9    7.4   0.2   1.3   1   0   0   1   1   1   0 Elongation of very long chain fatty acids protein OS=Drosophila melanogaster OX=7227 GN=ELOVL PE=2 SV=2
+tr|Q9VWW2|Q9VWW2_DROME         -          Big_2                PF02368.15       3.7    7.8   3.4        18    5.6   0.0   3.2   3   0   0   3   3   3   0 GH13094p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6123 PE=2 SV=2
+sp|Q9I7K5|TMEDE_DROME          -          Big_2                PF02368.15       4.1    7.7   0.0       8.5    6.6   0.0   1.5   1   0   0   1   1   1   0 Transmembrane emp24 domain-containing protein eca OS=Drosophila melanogaster OX=7227 GN=eca PE=2 SV=2
+tr|R9PY48|R9PY48_DROME         -          Big_2                PF02368.15       4.2    7.6   0.1        11    6.3   0.0   1.7   2   0   0   2   2   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32507 PE=4 SV=1
+tr|Q8SYM9|Q8SYM9_DROME         -          Big_2                PF02368.15       4.4    7.6   0.1        13    6.1   0.1   1.8   1   0   0   1   1   1   0 FI04119p OS=Drosophila melanogaster OX=7227 GN=RpIIIC53 PE=2 SV=1
+tr|Q9V9N4|Q9V9N4_DROME         -          Big_2                PF02368.15       4.7    7.5   1.9        27    5.0   0.1   3.1   3   0   0   3   3   3   0 Chromatin-linked adaptor for MSL proteins, isoform A OS=Drosophila melanogaster OX=7227 GN=Clamp PE=1 SV=1
+tr|Q9VQY4|Q9VQY4_DROME         -          Big_2                PF02368.15       4.9    7.4   0.5        19    5.5   0.1   2.0   2   0   0   2   2   2   0 ABC transporter expressed in trachea, isoform A OS=Drosophila melanogaster OX=7227 GN=Atet PE=4 SV=1
+tr|Q86BA5|Q86BA5_DROME         -          Big_2                PF02368.15       5.2    7.3   0.0        10    6.4   0.0   1.5   1   0   0   1   1   1   0 LP01981p OS=Drosophila melanogaster OX=7227 GN=p24-2 PE=2 SV=1
+tr|Q8MZI3|Q8MZI3_DROME         -          Big_2                PF02368.15       6.4    7.0   4.3        20    5.5   4.3   1.8   1   0   0   1   1   1   0 GH10652p OS=Drosophila melanogaster OX=7227 GN=BcDNA:HL07910 PE=1 SV=1
+tr|Q9VHM0|Q9VHM0_DROME         -          Big_2                PF02368.15       6.7    7.0   0.2        24    5.2   0.2   1.9   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11768 PE=4 SV=1
+tr|Q9VW89|Q9VW89_DROME         -          Big_2                PF02368.15       7.9    6.7   0.1        16    5.8   0.1   1.4   1   0   0   1   1   1   0 LP10853p OS=Drosophila melanogaster OX=7227 GN=obst-F PE=2 SV=1
+tr|Q9VWT3|Q9VWT3_DROME         -          Big_2                PF02368.15       8.2    6.7   0.0        27    5.0   0.0   1.8   1   0   0   1   1   1   0 Gamma-glutamyl transpeptidase, isoform A OS=Drosophila melanogaster OX=7227 GN=Ggt-1 PE=2 SV=2
+tr|A2RVF0|A2RVF0_DROME         -          Big_2                PF02368.15       8.7    6.6   0.1        18    5.6   0.1   1.5   1   0   0   1   1   1   0 ABC transporter expressed in trachea, isoform C OS=Drosophila melanogaster OX=7227 GN=Atet PE=2 SV=1
+tr|Q9VN04|Q9VN04_DROME         -          Big_2                PF02368.15       8.9    6.6   0.1        27    5.0   0.1   1.8   1   0   0   1   1   1   0 AT15369p OS=Drosophila melanogaster OX=7227 GN=Syt14 PE=2 SV=1
+sp|Q9V3D6|CPSF2_DROME          -          Big_2                PF02368.15       9.2    6.5   0.3        48    4.2   0.0   2.2   2   0   0   2   2   2   0 Probable cleavage and polyadenylation specificity factor subunit 2 OS=Drosophila melanogaster OX=7227 GN=Cpsf100 PE=1 SV=1
+tr|Q8INQ6|Q8INQ6_DROME         -          Big_2                PF02368.15       9.5    6.5   0.1        36    4.6   0.1   2.0   1   0   0   1   1   1   0 5-hydroxytryptamine (Serotonin) receptor 2B, isoform D OS=Drosophila melanogaster OX=7227 GN=5-HT2B PE=2 SV=2
+tr|A0A0B4KFU6|A0A0B4KFU6_DROME -          Big_2                PF02368.15       9.9    6.4   0.1        38    4.6   0.1   2.0   1   0   0   1   1   1   0 5-hydroxytryptamine (Serotonin) receptor 2B, isoform E OS=Drosophila melanogaster OX=7227 GN=5-HT2B PE=3 SV=1
+tr|Q8IPZ6|Q8IPZ6_DROME         -          Big_2                PF02368.15       9.9    6.4   0.0        26    5.1   0.0   1.7   1   0   0   1   1   1   0 NTPase, isoform C OS=Drosophila melanogaster OX=7227 GN=NTPase PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:50:58 2022
+# [ok]

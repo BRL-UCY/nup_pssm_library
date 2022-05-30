@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q0WPZ7|GLE1_ARATH  -          GLE1                 PF07817.10   5.4e-28   99.0   0.3   9.1e-26   91.7   0.3   2.2   1   1   0   1   1   1   1 Protein GLE1 OS=Arabidopsis thaliana OX=3702 GN=GLE1 PE=1 SV=1
+sp|Q9S9N1|HSP7E_ARATH -          GLE1                 PF07817.10      0.19   12.1   0.0      0.32   11.3   0.0   1.2   1   0   0   1   1   1   0 Heat shock 70 kDa protein 5 OS=Arabidopsis thaliana OX=3702 GN=HSP70-5 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:31 2022
+# [ok]

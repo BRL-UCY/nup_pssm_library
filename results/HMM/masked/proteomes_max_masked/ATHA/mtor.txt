@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A4GSN8|NUA_ARATH            -          TPR_MLP1_2           PF07926.9    1.4e-15   58.6   7.9   1.4e-15   58.6   7.9   2.4   3   0   0   3   3   1   1 Nuclear-pore anchor OS=Arabidopsis thaliana OX=3702 GN=NUA PE=1 SV=1
+tr|Q8VYF2|Q8VYF2_ARATH         -          TPR_MLP1_2           PF07926.9      0.094   13.9   0.8      0.14   13.3   0.8   1.3   1   1   0   1   1   1   0 Uveal autoantigen with coiled-coil/ankyrin OS=Arabidopsis thaliana OX=3702 GN=At4g15790 PE=1 SV=1
+tr|A0A2H1ZEN2|A0A2H1ZEN2_ARATH -          TPR_MLP1_2           PF07926.9       0.53   11.4   0.3      0.84   10.8   0.3   1.3   1   0   0   1   1   1   0 Vesicle-associated membrane protein 724 OS=Arabidopsis thaliana OX=3702 GN=VAMP724 PE=3 SV=1
+sp|Q39160|MYO5_ARATH           -          TPR_MLP1_2           PF07926.9       0.58   11.3   0.4       1.3   10.2   0.4   1.5   1   0   0   1   1   1   0 Myosin-5 OS=Arabidopsis thaliana OX=3702 GN=XI-1 PE=1 SV=1
+sp|O23429|VA724_ARATH          -          TPR_MLP1_2           PF07926.9          1   10.6   0.2       1.4   10.1   0.2   1.2   1   0   0   1   1   1   0 Vesicle-associated membrane protein 724 OS=Arabidopsis thaliana OX=3702 GN=VAMP724 PE=2 SV=2
+tr|A0A1P8AS81|A0A1P8AS81_ARATH -          TPR_MLP1_2           PF07926.9        1.1   10.4   1.1       7.1    7.8   1.0   2.0   1   1   1   2   2   2   0 Vesicle-associated membrane protein 721 OS=Arabidopsis thaliana OX=3702 GN=VAMP721 PE=4 SV=1
+tr|A0A1P8AYB9|A0A1P8AYB9_ARATH -          TPR_MLP1_2           PF07926.9        1.4   10.1   2.0     1e+02    4.1   0.3   3.4   3   1   0   3   3   3   0 E3 ubiquitin protein ligase OS=Arabidopsis thaliana OX=3702 GN=HUB1 PE=3 SV=1
+tr|Q84JI2|Q84JI2_ARATH         -          TPR_MLP1_2           PF07926.9        1.8    9.7   0.3       2.5    9.3   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein At4g23770 OS=Arabidopsis thaliana OX=3702 GN=At4g23770 PE=2 SV=1
+sp|Q8RXD6|BRE1A_ARATH          -          TPR_MLP1_2           PF07926.9        2.5    9.3   2.0   1.3e+02    3.7   0.2   3.5   3   1   0   3   3   3   0 E3 ubiquitin-protein ligase BRE1-like 1 OS=Arabidopsis thaliana OX=3702 GN=HUB1 PE=1 SV=1
+sp|Q9ZTW3|VA721_ARATH          -          TPR_MLP1_2           PF07926.9        3.4    8.9   0.9        17    6.6   0.8   1.9   1   1   0   1   1   1   0 Vesicle-associated membrane protein 721 OS=Arabidopsis thaliana OX=3702 GN=VAMP721 PE=2 SV=1
+sp|O22763|BZP10_ARATH          -          TPR_MLP1_2           PF07926.9        3.7    8.7   0.3       6.2    8.0   0.3   1.3   1   0   0   1   1   1   0 Basic leucine zipper 10 OS=Arabidopsis thaliana OX=3702 GN=BZIP10 PE=1 SV=2
+tr|A0A1P8B7A6|A0A1P8B7A6_ARATH -          TPR_MLP1_2           PF07926.9        3.7    8.7   0.3       6.2    8.0   0.3   1.3   1   0   0   1   1   1   0 BZIP transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=BZO2H1 PE=4 SV=1
+tr|Q9FZ34|Q9FZ34_ARATH         -          TPR_MLP1_2           PF07926.9        4.1    8.6   0.0       7.2    7.8   0.0   1.3   1   0   0   1   1   1   0 Plant invertase/pectin methylesterase inhibitor superfamily protein OS=Arabidopsis thaliana OX=3702 GN=T24C10.9 PE=4 SV=1
+tr|Q8GW13|Q8GW13_ARATH         -          TPR_MLP1_2           PF07926.9        4.3    8.5   0.6       6.6    7.9   0.6   1.4   1   1   0   1   1   1   0 At2g14045 OS=Arabidopsis thaliana OX=3702 GN=At2g14045 PE=2 SV=1
+tr|A0A1I9LSY6|A0A1I9LSY6_ARATH -          TPR_MLP1_2           PF07926.9        4.4    8.5   0.2        12    7.1   0.0   1.7   2   0   0   2   2   1   0 Subunit of exocyst complex 8 OS=Arabidopsis thaliana OX=3702 GN=SEC8 PE=1 SV=1
+sp|Q93YU5|SEC8_ARATH           -          TPR_MLP1_2           PF07926.9        4.5    8.4   0.2        12    7.1   0.0   1.7   2   0   0   2   2   1   0 Exocyst complex component SEC8 OS=Arabidopsis thaliana OX=3702 GN=SEC8 PE=1 SV=1
+tr|A0A1P8AVM4|A0A1P8AVM4_ARATH -          TPR_MLP1_2           PF07926.9        4.7    8.4   0.2       4.9    8.3   0.2   1.2   1   0   0   1   1   1   0 Mutator-like transposase OS=Arabidopsis thaliana OX=3702 GN=At1g36085 PE=4 SV=1
+tr|A0A1I9LQK8|A0A1I9LQK8_ARATH -          TPR_MLP1_2           PF07926.9        5.2    8.2   0.1         8    7.6   0.1   1.2   1   0   0   1   1   1   0 Proline-rich receptor-like kinase, putative (DUF1421) OS=Arabidopsis thaliana OX=3702 GN=At3g01560 PE=4 SV=1
+tr|A0A1P8AY77|A0A1P8AY77_ARATH -          TPR_MLP1_2           PF07926.9        7.4    7.8   0.3        11    7.2   0.3   1.2   1   0   0   1   1   1   0 Vesicle-associated membrane protein 723 OS=Arabidopsis thaliana OX=3702 GN=VAMP723 PE=3 SV=1
+tr|A0A1P8BB55|A0A1P8BB55_ARATH -          TPR_MLP1_2           PF07926.9        7.4    7.7   0.3       9.8    7.4   0.3   1.2   1   0   0   1   1   1   0 Basic-leucine zipper (BZIP) transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=HY5 PE=1 SV=1
+tr|F4J3J5|F4J3J5_ARATH         -          TPR_MLP1_2           PF07926.9        7.5    7.7   0.1        11    7.2   0.1   1.2   1   0   0   1   1   1   0 Proline-rich receptor-like kinase, putative (DUF1421) OS=Arabidopsis thaliana OX=3702 GN=At3g01560 PE=1 SV=1
+tr|Q9C5M5|Q9C5M5_ARATH         -          TPR_MLP1_2           PF07926.9        7.8    7.7   2.1        25    6.0   2.1   1.8   1   1   0   1   1   1   0 At1g27000/T7N9_6 OS=Arabidopsis thaliana OX=3702 GN=At1g27000 PE=2 SV=1
+tr|Q52K99|Q52K99_ARATH         -          TPR_MLP1_2           PF07926.9        8.2    7.6   1.4        13    6.9   1.4   1.3   1   0   0   1   1   1   0 Acyl-CoA-binding domain protein OS=Arabidopsis thaliana OX=3702 GN=At2g37195 PE=2 SV=1
+sp|Q9CA64|PRE3_ARATH           -          TPR_MLP1_2           PF07926.9        8.6    7.5   0.2        19    6.4   0.1   1.4   1   1   0   1   1   1   0 Transcription factor PRE3 OS=Arabidopsis thaliana OX=3702 GN=PRE3 PE=1 SV=1
+tr|A0A1P8B002|A0A1P8B002_ARATH -          TPR_MLP1_2           PF07926.9        8.6    7.5   4.1        21    6.3   3.7   1.6   1   1   0   1   1   1   0 Di-glucose binding protein with Kinesin motor domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=At2g22610 PE=3 SV=1
+sp|F4IJK6|KN14R_ARATH          -          TPR_MLP1_2           PF07926.9        8.7    7.5   4.2        21    6.3   3.8   1.6   1   1   0   1   1   1   0 Kinesin-like protein KIN-14R OS=Arabidopsis thaliana OX=3702 GN=KIN14R PE=3 SV=1
+sp|P47192|VA722_ARATH          -          TPR_MLP1_2           PF07926.9          9    7.5   0.2        13    6.9   0.2   1.3   1   0   0   1   1   1   0 Vesicle-associated membrane protein 722 OS=Arabidopsis thaliana OX=3702 GN=VAMP722 PE=2 SV=2
+tr|A0A1P8AXB7|A0A1P8AXB7_ARATH -          TPR_MLP1_2           PF07926.9        9.3    7.4   1.4        15    6.8   1.4   1.3   1   0   0   1   1   1   0 Acyl-CoA-binding domain protein OS=Arabidopsis thaliana OX=3702 GN=At2g37195 PE=4 SV=1
+sp|Q8VY69|VA723_ARATH          -          TPR_MLP1_2           PF07926.9        9.4    7.4   0.3        14    6.8   0.3   1.2   1   0   0   1   1   1   0 Vesicle-associated membrane protein 723 OS=Arabidopsis thaliana OX=3702 GN=VAMP723 PE=2 SV=1
+tr|B9DH97|B9DH97_ARATH         -          TPR_MLP1_2           PF07926.9        9.6    7.4   0.2        14    6.8   0.2   1.3   1   0   0   1   1   1   0 AT2G33120 protein OS=Arabidopsis thaliana OX=3702 GN=SAR1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/mtor.txt --max --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:33:57 2022
+# [ok]

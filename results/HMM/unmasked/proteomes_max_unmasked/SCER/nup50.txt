@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P32499|NUP2_YEAST  -          NUP50                PF08911.8    3.8e-15   54.7   3.8   3.8e-15   54.7   3.8   4.2   3   1   0   3   3   3   1 Nucleoporin NUP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP2 PE=1 SV=2
+sp|Q12420|SNU66_YEAST -          NUP50                PF08911.8       0.28   10.3   3.2       6.5    5.9   0.2   3.4   2   0   0   2   2   2   0 66 kDa U4/U6.U5 small nuclear ribonucleoprotein component OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SNU66 PE=1 SV=1
+sp|Q04533|METX_YEAST  -          NUP50                PF08911.8       0.79    8.9   0.3       1.6    7.9   0.3   1.5   1   0   0   1   1   1   0 Putative cystathionine gamma-synthase YML082W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML082W PE=1 SV=1
+sp|P36160|RPF2_YEAST  -          NUP50                PF08911.8        4.8    6.4   0.1        15    4.8   0.0   1.7   1   1   0   1   1   1   0 Ribosome biogenesis protein RPF2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPF2 PE=1 SV=1
+sp|P50087|MIC26_YEAST -          NUP50                PF08911.8          8    5.7   0.0        19    4.4   0.0   1.6   1   0   0   1   1   1   0 MICOS subunit MIC26 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MIC26 PE=1 SV=1
+sp|P53150|LIF1_YEAST  -          NUP50                PF08911.8        8.5    5.6   1.0        26    4.0   0.3   2.2   1   1   1   2   2   2   0 Ligase-interacting factor 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LIF1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes/SCER/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 12:59:25 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V4W1|GLE1_DROME           -          GLE1                 PF07817.10   8.7e-63  212.2   0.0   1.1e-62  211.8   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Drosophila melanogaster OX=7227 GN=GLE1 PE=2 SV=1
+tr|A0A0B4LGT9|A0A0B4LGT9_DROME -          GLE1                 PF07817.10      0.77    9.2   0.0         1    8.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9667 PE=1 SV=1
+tr|Q9VHV6|Q9VHV6_DROME         -          GLE1                 PF07817.10       0.8    9.2   0.0       1.1    8.8   0.0   1.1   1   0   0   1   1   1   0 RE31520p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9667 PE=1 SV=2
+sp|Q8MSX2|MED6_DROME           -          GLE1                 PF07817.10         3    7.3   0.0         4    6.9   0.0   1.2   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 6 OS=Drosophila melanogaster OX=7227 GN=MED6 PE=1 SV=1
+tr|E1JIH5|E1JIH5_DROME         -          GLE1                 PF07817.10         3    7.3   0.0         4    6.9   0.0   1.2   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 6 OS=Drosophila melanogaster OX=7227 GN=MED6 PE=1 SV=1
+tr|Q8IQY1|Q8IQY1_DROME         -          GLE1                 PF07817.10       3.6    7.0   0.0       3.9    6.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32551 PE=4 SV=2
+tr|Q9VX04|Q9VX04_DROME         -          GLE1                 PF07817.10       5.3    6.5   1.6       8.5    5.8   1.6   1.2   1   0   0   1   1   1   0 LP06940p OS=Drosophila melanogaster OX=7227 GN=FBpp0074269 PE=2 SV=2
+sp|Q9VHQ2|OR85D_DROME          -          GLE1                 PF07817.10       8.6    5.8   0.0        13    5.2   0.0   1.2   1   0   0   1   1   1   0 Putative odorant receptor 85d OS=Drosophila melanogaster OX=7227 GN=Or85d PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:05:02 2022
+# [ok]

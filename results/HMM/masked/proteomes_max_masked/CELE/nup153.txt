@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0K3AUF2|A0A0K3AUF2_CAEEL -          Nup153               PF08604.7        2.2    7.5   0.0       3.4    7.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=B0432.7 PE=1 SV=1
+tr|A0A0K3AQW3|A0A0K3AQW3_CAEEL -          Nup153               PF08604.7        2.4    7.4   0.0       3.6    6.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=B0432.7 PE=1 SV=1
+sp|P34299|GLR1_CAEEL           -          Nup153               PF08604.7        5.2    6.3   0.0         8    5.7   0.0   1.1   1   0   0   1   1   1   0 Glutamate receptor 1 OS=Caenorhabditis elegans OX=6239 GN=glr-1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:38 2022
+# [ok]

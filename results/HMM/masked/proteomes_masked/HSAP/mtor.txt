@@ -1,0 +1,38 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P12270|TPR_HUMAN    -          TPR_MLP1_2           PF07926.9    1.4e-20   75.7   2.8   1.4e-20   75.7   2.8   4.5   5   0   0   5   5   4   1 Nucleoprotein TPR OS=Homo sapiens OX=9606 GN=TPR PE=1 SV=3
+sp|P02538|K2C6A_HUMAN  -          TPR_MLP1_2           PF07926.9    5.1e-06   28.5   0.8     0.075   15.1   0.0   2.5   2   0   0   2   2   2   2 Keratin, type II cytoskeletal 6A OS=Homo sapiens OX=9606 GN=KRT6A PE=1 SV=3
+sp|P04259|K2C6B_HUMAN  -          TPR_MLP1_2           PF07926.9    1.7e-05   26.9   1.2      0.15   14.2   0.0   2.4   2   0   0   2   2   2   2 Keratin, type II cytoskeletal 6B OS=Homo sapiens OX=9606 GN=KRT6B PE=1 SV=5
+sp|Q5XKE5|K2C79_HUMAN  -          TPR_MLP1_2           PF07926.9    2.3e-05   26.5   0.5     0.023   16.8   0.5   2.8   2   1   1   3   3   3   1 Keratin, type II cytoskeletal 79 OS=Homo sapiens OX=9606 GN=KRT79 PE=1 SV=2
+sp|Q9NSB2|KRT84_HUMAN  -          TPR_MLP1_2           PF07926.9    8.1e-05   24.7   1.0      0.77   11.8   0.4   2.2   2   0   0   2   2   2   2 Keratin, type II cuticular Hb4 OS=Homo sapiens OX=9606 GN=KRT84 PE=2 SV=2
+sp|P48668|K2C6C_HUMAN  -          TPR_MLP1_2           PF07926.9    0.00012   24.1   0.8      0.13   14.3   0.0   2.4   2   0   0   2   2   2   2 Keratin, type II cytoskeletal 6C OS=Homo sapiens OX=9606 GN=KRT6C PE=1 SV=3
+sp|P13647|K2C5_HUMAN   -          TPR_MLP1_2           PF07926.9    0.00016   23.7   2.0       0.9   11.6   1.2   2.4   2   0   0   2   2   2   2 Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3
+sp|P19013|K2C4_HUMAN   -          TPR_MLP1_2           PF07926.9    0.00068   21.7   0.4      0.24   13.4   0.1   2.4   2   0   0   2   2   2   1 Keratin, type II cytoskeletal 4 OS=Homo sapiens OX=9606 GN=KRT4 PE=1 SV=4
+sp|P08729|K2C7_HUMAN   -          TPR_MLP1_2           PF07926.9     0.0052   18.8   0.2      0.38   12.8   0.0   2.3   2   0   0   2   2   2   1 Keratin, type II cytoskeletal 7 OS=Homo sapiens OX=9606 GN=KRT7 PE=1 SV=5
+sp|P04264|K2C1_HUMAN   -          TPR_MLP1_2           PF07926.9     0.0053   18.8   0.0      0.18   13.9   0.2   2.2   2   0   0   2   2   2   1 Keratin, type II cytoskeletal 1 OS=Homo sapiens OX=9606 GN=KRT1 PE=1 SV=6
+sp|O95678|K2C75_HUMAN  -          TPR_MLP1_2           PF07926.9     0.0057   18.7   3.2     0.034   16.2   1.2   2.7   3   0   0   3   3   3   1 Keratin, type II cytoskeletal 75 OS=Homo sapiens OX=9606 GN=KRT75 PE=1 SV=2
+sp|Q01546|K22O_HUMAN   -          TPR_MLP1_2           PF07926.9      0.016   17.3   0.5      0.36   12.9   0.4   2.3   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 2 oral OS=Homo sapiens OX=9606 GN=KRT76 PE=1 SV=2
+sp|Q14CN4|K2C72_HUMAN  -          TPR_MLP1_2           PF07926.9      0.024   16.7   1.4       5.7    9.0   0.8   2.4   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 72 OS=Homo sapiens OX=9606 GN=KRT72 PE=1 SV=2
+sp|P12035|K2C3_HUMAN   -          TPR_MLP1_2           PF07926.9      0.043   15.9   0.3       2.5   10.1   0.4   2.3   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 3 OS=Homo sapiens OX=9606 GN=KRT3 PE=1 SV=3
+sp|Q9UJ71|CLC4K_HUMAN  -          TPR_MLP1_2           PF07926.9      0.077   15.0   3.9      0.12   14.5   1.8   2.0   1   1   1   2   2   2   0 C-type lectin domain family 4 member K OS=Homo sapiens OX=9606 GN=CD207 PE=1 SV=2
+tr|H0YI76|H0YI76_HUMAN -          TPR_MLP1_2           PF07926.9       0.16   14.0   1.1      0.16   14.0   1.1   1.9   2   1   1   3   3   3   0 Keratin, type II cytoskeletal 5 (Fragment) OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=1
+sp|Q86Y46|K2C73_HUMAN  -          TPR_MLP1_2           PF07926.9       0.36   12.9   0.2        19    7.3   0.0   2.3   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 73 OS=Homo sapiens OX=9606 GN=KRT73 PE=1 SV=1
+tr|K7EMD9|K7EMD9_HUMAN -          TPR_MLP1_2           PF07926.9       0.38   12.8   2.2       0.6   12.2   0.2   1.9   2   0   0   2   2   2   0 Keratin, type I cytoskeletal 13 (Fragment) OS=Homo sapiens OX=9606 GN=KRT13 PE=1 SV=1
+sp|Q7Z3Y8|K1C27_HUMAN  -          TPR_MLP1_2           PF07926.9       0.51   12.4   3.4        16    7.5   0.1   2.8   3   0   0   3   3   3   0 Keratin, type I cytoskeletal 27 OS=Homo sapiens OX=9606 GN=KRT27 PE=1 SV=2
+tr|H0YIM7|H0YIM7_HUMAN -          TPR_MLP1_2           PF07926.9       0.56   12.3   1.1      0.94   11.5   1.1   1.3   1   0   0   1   1   1   0 Kinesin-like protein (Fragment) OS=Homo sapiens OX=9606 GN=KIF21A PE=1 SV=1
+sp|Q2M2I5|K1C24_HUMAN  -          TPR_MLP1_2           PF07926.9        1.2   11.2   9.4       5.2    9.1   1.0   2.8   4   0   0   4   4   2   0 Keratin, type I cytoskeletal 24 OS=Homo sapiens OX=9606 GN=KRT24 PE=1 SV=1
+sp|P02533|K1C14_HUMAN  -          TPR_MLP1_2           PF07926.9        2.5   10.1   5.1       3.2    9.8   0.0   3.0   3   1   0   3   3   3   0 Keratin, type I cytoskeletal 14 OS=Homo sapiens OX=9606 GN=KRT14 PE=1 SV=4
+sp|Q7RTS7|K2C74_HUMAN  -          TPR_MLP1_2           PF07926.9        2.9   10.0  11.9       2.8   10.0   0.3   2.7   1   1   2   3   3   3   0 Keratin, type II cytoskeletal 74 OS=Homo sapiens OX=9606 GN=KRT74 PE=1 SV=2
+tr|C4AM86|C4AM86_HUMAN -          TPR_MLP1_2           PF07926.9        4.9    9.2   5.9        70    5.5   0.1   2.9   3   0   0   3   3   3   0 Keratin, type I cuticular Ha5 OS=Homo sapiens OX=9606 GN=KRT35 PE=1 SV=1
+sp|Q92764|KRT35_HUMAN  -          TPR_MLP1_2           PF07926.9        6.5    8.8   5.9        78    5.3   0.1   2.9   3   0   0   3   3   3   0 Keratin, type I cuticular Ha5 OS=Homo sapiens OX=9606 GN=KRT35 PE=2 SV=5
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:04 2022
+# [ok]

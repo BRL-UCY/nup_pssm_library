@@ -1,0 +1,53 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V466|NU107_DROME          -          Nup84_Nup100         PF04121.10  3.3e-189  630.7  10.8  3.9e-189  630.5  10.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          Nup84_Nup100         PF04121.10     0.014   13.9   0.4      0.12   10.8   0.0   2.5   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9XZ06|NU931_DROME          -          Nup84_Nup100         PF04121.10     0.022   13.3   0.5       1.6    7.1   0.0   2.8   2   1   0   2   2   2   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+tr|Q9V9T0|Q9V9T0_DROME         -          Nup84_Nup100         PF04121.10       0.6    8.5   0.1       1.1    7.7   0.0   1.4   2   0   0   2   2   2   0 LD03819p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1971 PE=2 SV=1
+tr|Q8MT78|Q8MT78_DROME         -          Nup84_Nup100         PF04121.10         1    7.7   1.1       1.5    7.2   1.1   1.2   1   0   0   1   1   1   0 LD24677p OS=Drosophila melanogaster OX=7227 GN=RalGPS PE=2 SV=1
+tr|A0A0B4LF63|A0A0B4LF63_DROME -          Nup84_Nup100         PF04121.10       1.1    7.7   2.5       1.4    7.3   2.5   1.1   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4, isoform B OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=4 SV=1
+tr|Q0E949|Q0E949_DROME         -          Nup84_Nup100         PF04121.10       1.2    7.5   1.2       1.7    7.0   1.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5522 PE=4 SV=1
+sp|A1Z8E9|BBS4_DROME           -          Nup84_Nup100         PF04121.10       1.2    7.5   2.5       1.6    7.1   2.5   1.1   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 protein homolog OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=3 SV=1
+tr|E1JJR7|E1JJR7_DROME         -          Nup84_Nup100         PF04121.10       1.4    7.3   0.1       1.7    7.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42583 PE=4 SV=1
+tr|Q9VAD1|Q9VAD1_DROME         -          Nup84_Nup100         PF04121.10       2.2    6.7   0.6       3.6    5.9   0.6   1.2   1   0   0   1   1   1   0 LD30178p OS=Drosophila melanogaster OX=7227 GN=capricious-like PE=2 SV=2
+tr|Q9VRX0|Q9VRX0_DROME         -          Nup84_Nup100         PF04121.10       2.3    6.6   0.1       3.3    6.1   0.1   1.2   1   0   0   1   1   1   0 IP01005p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10147 PE=2 SV=1
+tr|Q9VVD3|Q9VVD3_DROME         -          Nup84_Nup100         PF04121.10       2.7    6.4   0.1        26    3.1   0.0   2.0   2   0   0   2   2   2   0 LD31138p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7730 PE=2 SV=4
+tr|Q8T8W9|Q8T8W9_DROME         -          Nup84_Nup100         PF04121.10         4    5.8   0.1         5    5.5   0.1   1.1   1   0   0   1   1   1   0 AT19932p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17717 PE=2 SV=1
+tr|Q9W4M5|Q9W4M5_DROME         -          Nup84_Nup100         PF04121.10         4    5.8   0.0       4.8    5.5   0.0   1.2   1   0   0   1   1   1   0 GEO10373p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15571 PE=2 SV=1
+tr|Q9VC70|Q9VC70_DROME         -          Nup84_Nup100         PF04121.10       4.1    5.8   4.1       7.2    4.9   4.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13617 PE=4 SV=1
+tr|Q9VKY4|Q9VKY4_DROME         -          Nup84_Nup100         PF04121.10       4.2    5.7   0.2       5.4    5.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5367 PE=3 SV=2
+tr|A2VER2|A2VER2_DROME         -          Nup84_Nup100         PF04121.10       4.3    5.7   0.0       4.1    5.7   0.0   1.1   1   0   0   1   1   1   0 IP18228p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42495 PE=2 SV=1
+tr|Q7KT67|Q7KT67_DROME         -          Nup84_Nup100         PF04121.10       4.4    5.7   0.2         6    5.2   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12448 PE=4 SV=2
+sp|Q8T626|DLT_DROME            -          Nup84_Nup100         PF04121.10       4.6    5.6   0.8       8.4    4.7   0.8   1.4   1   0   0   1   1   1   0 Protein disks lost OS=Drosophila melanogaster OX=7227 GN=dlt PE=1 SV=2
+tr|Q9VDE4|Q9VDE4_DROME         -          Nup84_Nup100         PF04121.10       5.1    5.4   1.0       5.9    5.2   1.0   1.1   1   0   0   1   1   1   0 Bride of doubletime OS=Drosophila melanogaster OX=7227 GN=Bdbt PE=1 SV=1
+sp|Q86BY9|RIG_DROME            -          Nup84_Nup100         PF04121.10       5.3    5.4   0.4       8.8    4.7   0.4   1.3   1   0   0   1   1   1   0 Protein rigor mortis OS=Drosophila melanogaster OX=7227 GN=rig PE=1 SV=1
+tr|Q9W0V5|Q9W0V5_DROME         -          Nup84_Nup100         PF04121.10       5.3    5.4   1.8       5.8    5.3   1.8   1.1   1   0   0   1   1   1   0 AT11049p OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT11049 PE=2 SV=1
+tr|Q59E38|Q59E38_DROME         -          Nup84_Nup100         PF04121.10       5.9    5.2   0.2        10    4.5   0.1   1.3   1   1   0   1   1   1   0 FI03911p OS=Drosophila melanogaster OX=7227 GN=upd3 PE=2 SV=2
+tr|A1Z847|A1Z847_DROME         -          Nup84_Nup100         PF04121.10       6.5    5.1   0.5        15    3.9   0.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG2269 PE=1 SV=1
+tr|Q9VZV8|Q9VZV8_DROME         -          Nup84_Nup100         PF04121.10       6.6    5.1   5.5       8.3    4.7   5.5   1.0   1   0   0   1   1   1   0 LD46404p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16753 PE=2 SV=1
+tr|Q0E9D9|Q0E9D9_DROME         -          Nup84_Nup100         PF04121.10       6.8    5.0   0.5        17    3.7   0.5   1.6   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=anon-WO0118547.141 PE=1 SV=1
+tr|Q9VHG0|Q9VHG0_DROME         -          Nup84_Nup100         PF04121.10       6.8    5.0   0.2       8.6    4.7   0.2   1.1   1   0   0   1   1   1   0 Heterochromatin protein 1e OS=Drosophila melanogaster OX=7227 GN=HP1e PE=2 SV=2
+tr|Q9VK00|Q9VK00_DROME         -          Nup84_Nup100         PF04121.10       7.1    5.0   6.0        15    3.9   6.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16826 PE=1 SV=1
+tr|O77430|O77430_DROME         -          Nup84_Nup100         PF04121.10       7.1    5.0   0.1       7.8    4.8   0.1   1.0   1   0   0   1   1   1   0 GEO01111p1 OS=Drosophila melanogaster OX=7227 GN=SkpA PE=1 SV=1
+tr|B7Z0Y5|B7Z0Y5_DROME         -          Nup84_Nup100         PF04121.10       7.2    4.9   1.2        11    4.3   1.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14408 PE=4 SV=2
+sp|Q9W0P8|MED14_DROME          -          Nup84_Nup100         PF04121.10       7.7    4.8   0.0        12    4.2   0.0   1.2   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 14 OS=Drosophila melanogaster OX=7227 GN=MED14 PE=1 SV=4
+tr|Q9VYH1|Q9VYH1_DROME         -          Nup84_Nup100         PF04121.10       8.1    4.8   0.5        11    4.4   0.5   1.3   1   1   0   1   1   1   0 Ferritin OS=Drosophila melanogaster OX=7227 GN=Fer3HCH PE=2 SV=1
+tr|Q9VII8|Q9VII8_DROME         -          Nup84_Nup100         PF04121.10       8.2    4.8   0.2        14    4.0   0.2   1.3   1   0   0   1   1   1   0 Outer segment 5 OS=Drosophila melanogaster OX=7227 GN=Oseg5 PE=4 SV=2
+sp|Q9VWI4|NARYA_DROME          -          Nup84_Nup100         PF04121.10       8.3    4.7   0.4        10    4.4   0.4   1.0   1   0   0   1   1   1   0 RING finger protein narya OS=Drosophila melanogaster OX=7227 GN=narya PE=1 SV=1
+tr|Q9W262|Q9W262_DROME         -          Nup84_Nup100         PF04121.10       8.6    4.7   0.2       7.7    4.8   0.2   1.1   1   0   0   1   1   1   0 AT10824p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11298 PE=2 SV=1
+tr|A1Z7R8|A1Z7R8_DROME         -          Nup84_Nup100         PF04121.10       8.7    4.7   0.0        12    4.3   0.0   1.1   1   0   0   1   1   1   0 Rad51 recombinase D OS=Drosophila melanogaster OX=7227 GN=Rad51D PE=4 SV=2
+tr|Q9VPL4|Q9VPL4_DROME         -          Nup84_Nup100         PF04121.10       8.7    4.7   4.4        19    3.5   0.3   2.1   2   0   0   2   2   2   0 RE08174p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11617 PE=2 SV=1
+tr|Q9VRT6|Q9VRT6_DROME         -          Nup84_Nup100         PF04121.10         9    4.6   0.1        15    3.9   0.1   1.3   1   0   0   1   1   1   0 RE27477p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13295 PE=2 SV=1
+tr|Q9VWI2|Q9VWI2_DROME         -          Nup84_Nup100         PF04121.10       9.1    4.6   5.2         3    6.2   1.6   1.9   2   0   0   2   2   2   0 N(Alpha)-acetyltransferase 15/16, isoform A OS=Drosophila melanogaster OX=7227 GN=Naa15-16 PE=1 SV=1
+tr|Q9VWN3|Q9VWN3_DROME         -          Nup84_Nup100         PF04121.10       9.6    4.5   0.0        12    4.2   0.0   1.1   1   0   0   1   1   1   0 Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial OS=Drosophila melanogaster OX=7227 GN=SdhBL PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:47:32 2022
+# [ok]

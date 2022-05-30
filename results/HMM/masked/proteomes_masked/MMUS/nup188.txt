@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6ZQH8|NU188_MOUSE  -          Nup188               PF10487.6   1.9e-171  573.8   0.0  2.4e-171  573.5   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|J3JSA4|J3JSA4_MOUSE -          Nup188               PF10487.6      3e-11   43.6   0.1   3.4e-11   43.5   0.1   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|A2AWI5|A2AWI5_MOUSE -          Nup188               PF10487.6    1.1e-10   41.8   0.1   1.4e-10   41.5   0.1   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F2Z4A7|F2Z4A7_MOUSE -          Nup188               PF10487.6    1.9e-10   41.0   0.2   2.3e-10   40.7   0.2   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F7BCN9|F7BCN9_MOUSE -          Nup188               PF10487.6    6.1e-09   36.0   0.1   6.9e-09   35.8   0.1   1.0   1   0   0   1   1   1   1 Predicted gene, 28038 (Fragment) OS=Mus musculus OX=10090 GN=Gm28038 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup188.txt --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:49 2022
+# [ok]

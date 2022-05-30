@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38AE7|Q38AE7_TRYB2 -          Nucleoporin_N        PF08801.8    1.7e-55  187.5   0.0   2.2e-55  187.1   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein (NUP155), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.2350 PE=4 SV=1
+tr|Q384Q0|Q384Q0_TRYB2 -          Nucleoporin_N        PF08801.8      0.041   11.6   0.0     0.091   10.4   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.5550 PE=4 SV=1
+tr|Q57UT0|Q57UT0_TRYB2 -          Nucleoporin_N        PF08801.8      0.055   11.2   0.2      0.78    7.4   0.0   2.6   3   0   0   3   3   3   0 Coatomer subunit alpha OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.450 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TBRU/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:14 2022
+# [ok]

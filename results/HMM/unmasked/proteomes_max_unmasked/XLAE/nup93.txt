@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GKJ9|A0A1L8GKJ9_XENLA -          Nic96                PF04097.11    9e-194  646.7   0.3  1.4e-193  646.1   0.3   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Xenopus laevis OX=8355 GN=XELAEV_18022464mg PE=1 SV=1
+tr|A2RV69|A2RV69_XENLA         -          Nic96                PF04097.11    0.0025   17.7   0.9    0.0037   17.1   0.3   1.5   2   0   0   2   2   2   1 Nuclear pore complex protein OS=Xenopus laevis OX=8355 GN=nup107 PE=1 SV=1
+tr|A0A1L8FMF7|A0A1L8FMF7_XENLA -          Nic96                PF04097.11      0.19   11.5   0.0      0.22   11.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035751mg PE=4 SV=1
+tr|A0A1L8GPM1|A0A1L8GPM1_XENLA -          Nic96                PF04097.11      0.19   11.5   0.6        22    4.6   0.0   2.5   2   1   1   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=ift122 PE=1 SV=1
+tr|A0A1L8HKT0|A0A1L8HKT0_XENLA -          Nic96                PF04097.11      0.25   11.0   1.8      0.42   10.3   1.8   1.4   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008887mg PE=1 SV=1
+tr|A0JPH9|A0JPH9_XENLA         -          Nic96                PF04097.11      0.28   10.9   0.1       4.3    7.0   0.0   2.4   3   0   0   3   3   3   0 LOC100036801 protein OS=Xenopus laevis OX=8355 GN=xab2 PE=1 SV=1
+tr|A0A1L8GR13|A0A1L8GR13_XENLA -          Nic96                PF04097.11      0.45   10.2   0.0      0.95    9.1   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019987mg PE=1 SV=1
+tr|A0A1L8G5F0|A0A1L8G5F0_XENLA -          Nic96                PF04097.11      0.59    9.8   1.3      0.85    9.3   1.3   1.2   1   0   0   1   1   1   0 WD repeat-containing protein 35 OS=Xenopus laevis OX=8355 GN=wdr35 PE=1 SV=1
+tr|A0A1L8ELB7|A0A1L8ELB7_XENLA -          Nic96                PF04097.11       1.2    8.8   0.4       2.6    7.7   0.4   1.5   1   0   0   1   1   1   0 SEC7 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18046131mg PE=4 SV=1
+tr|A0A1L8HMP5|A0A1L8HMP5_XENLA -          Nic96                PF04097.11       1.3    8.7   0.7       1.5    8.5   0.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009583mg PE=4 SV=1
+tr|A0A1L8EYA4|A0A1L8EYA4_XENLA -          Nic96                PF04097.11       2.4    7.8   0.6       3.2    7.4   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045403mg PE=4 SV=1
+tr|A0A1L8HXP7|A0A1L8HXP7_XENLA -          Nic96                PF04097.11       2.7    7.6   0.2       3.9    7.1   0.2   1.3   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006654mg PE=1 SV=1
+tr|A0A1L8HTM3|A0A1L8HTM3_XENLA -          Nic96                PF04097.11       2.9    7.5   1.4        11    5.7   0.3   2.3   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr19 PE=1 SV=1
+tr|A0A1L8HKG9|A0A1L8HKG9_XENLA -          Nic96                PF04097.11       3.3    7.4   3.7       8.4    6.0   3.7   1.6   1   0   0   1   1   1   0 Exocyst complex component OS=Xenopus laevis OX=8355 GN=XELAEV_18008773mg PE=3 SV=1
+tr|A0A1L8HKM3|A0A1L8HKM3_XENLA -          Nic96                PF04097.11       3.8    7.1   0.0         5    6.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=maea PE=1 SV=1
+tr|A0A1L8GEL4|A0A1L8GEL4_XENLA -          Nic96                PF04097.11       4.2    7.0   0.0       4.8    6.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18024830mg PE=4 SV=1
+tr|A0A1L8HT23|A0A1L8HT23_XENLA -          Nic96                PF04097.11       4.3    7.0   0.0       5.2    6.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005019mg PE=4 SV=1
+tr|A0A1L8FXC6|A0A1L8FXC6_XENLA -          Nic96                PF04097.11       4.4    6.9   0.0         6    6.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18031428mg PE=4 SV=1
+tr|Q641I4|Q641I4_XENLA         -          Nic96                PF04097.11       5.3    6.7   0.3        11    5.7   0.3   1.4   1   0   0   1   1   1   0 Ogt-prov protein OS=Xenopus laevis OX=8355 GN=ogt PE=1 SV=1
+tr|A0A1L8I1P9|A0A1L8I1P9_XENLA -          Nic96                PF04097.11       5.3    6.7   3.4       2.3    7.9   0.5   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008065mg PE=1 SV=1
+tr|A0A1L8F8Q3|A0A1L8F8Q3_XENLA -          Nic96                PF04097.11       5.4    6.7   0.1       7.1    6.3   0.1   1.2   1   0   0   1   1   1   0 GIY-YIG domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039265mg PE=4 SV=1
+tr|A0A1L8HW09|A0A1L8HW09_XENLA -          Nic96                PF04097.11       5.6    6.6   0.0       9.3    5.9   0.0   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005996mg PE=4 SV=1
+tr|A0A1L8I291|A0A1L8I291_XENLA -          Nic96                PF04097.11         6    6.5   0.5       7.7    6.1   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008240mg PE=4 SV=1
+tr|A0A1L8HP24|A0A1L8HP24_XENLA -          Nic96                PF04097.11       6.3    6.4   0.0        11    5.6   0.0   1.3   1   0   0   1   1   1   0 ANK_REP_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010082mg PE=4 SV=1
+tr|A0A1L8H050|A0A1L8H050_XENLA -          Nic96                PF04097.11       6.4    6.4   1.0       6.6    6.4   1.0   1.2   1   0   0   1   1   1   0 COMM domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018100mg PE=4 SV=1
+tr|A0A1L8G8C8|A0A1L8G8C8_XENLA -          Nic96                PF04097.11       6.8    6.3   0.2       6.2    6.4   0.2   1.0   1   0   0   1   1   1   0 AKAP7_RIRII_bdg domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026972mg PE=4 SV=1
+tr|A0A1L8H081|A0A1L8H081_XENLA -          Nic96                PF04097.11       7.1    6.3   1.0       7.4    6.2   1.0   1.2   1   0   0   1   1   1   0 COMM domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018100mg PE=4 SV=1
+tr|Q6AZR8|Q6AZR8_XENLA         -          Nic96                PF04097.11       7.4    6.2   0.6       8.6    6.0   0.6   1.1   1   0   0   1   1   1   0 LOC594868 protein OS=Xenopus laevis OX=8355 GN=commd4 PE=1 SV=1
+tr|A0A1L8ENZ4|A0A1L8ENZ4_XENLA -          Nic96                PF04097.11       7.5    6.2   1.5        14    5.2   1.5   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047096mg PE=4 SV=1
+tr|A0A1L8HT62|A0A1L8HT62_XENLA -          Nic96                PF04097.11       8.1    6.1   4.4        11    5.6   4.1   1.5   1   1   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005058mg PE=3 SV=1
+tr|A0A1L8FJK4|A0A1L8FJK4_XENLA -          Nic96                PF04097.11       8.5    6.0   0.5        13    5.4   0.5   1.3   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034746mg PE=4 SV=1
+tr|A0A1L8FXE3|A0A1L8FXE3_XENLA -          Nic96                PF04097.11       8.8    6.0   0.1        14    5.3   0.1   1.2   1   0   0   1   1   1   0 AAA_6 domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180314428mg PE=4 SV=1
+tr|A0A1L8FUW1|A0A1L8FUW1_XENLA -          Nic96                PF04097.11         9    5.9   0.3        12    5.6   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030555mg PE=4 SV=1
+tr|Q2VPH9|Q2VPH9_XENLA         -          Nic96                PF04097.11       9.1    5.9   0.4        13    5.4   0.4   1.1   1   0   0   1   1   1   0 Protein arginine N-methyltransferase 5 OS=Xenopus laevis OX=8355 GN=prmt5 PE=1 SV=1
+tr|A0A1L8I1X9|A0A1L8I1X9_XENLA -          Nic96                PF04097.11       9.3    5.9   0.3        24    4.5   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008140mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 15:14:13 2022
+# [ok]

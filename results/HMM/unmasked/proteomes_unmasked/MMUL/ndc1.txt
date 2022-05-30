@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7EXN3|F7EXN3_MACMU         -          Ndc1_Nup             PF09531.7   3.5e-135  453.4  14.6  3.9e-135  453.3  14.6   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+tr|A0A1D5QE88|A0A1D5QE88_MACMU -          Ndc1_Nup             PF09531.7   6.5e-135  452.6  14.6  7.3e-135  452.4  14.6   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=1
+tr|H9H2X7|H9H2X7_MACMU         -          Ndc1_Nup             PF09531.7   3.9e-127  426.9  13.1  4.4e-127  426.7  13.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+tr|F7E2I8|F7E2I8_MACMU         -          Ndc1_Nup             PF09531.7        1.2    9.1   2.1         5    7.1   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SMCO2 PE=4 SV=2
+tr|A0A1D5QI45|A0A1D5QI45_MACMU -          Ndc1_Nup             PF09531.7        2.8    7.9   9.6       3.2    7.7   9.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TBP PE=4 SV=1
+tr|F6ZKC9|F6ZKC9_MACMU         -          Ndc1_Nup             PF09531.7        2.9    7.9   6.3         3    7.8   6.3   1.1   1   0   0   1   1   1   0 THAP-type domain-containing protein OS=Macaca mulatta OX=9544 GN=THAP11 PE=4 SV=1
+tr|F7GNT0|F7GNT0_MACMU         -          Ndc1_Nup             PF09531.7        3.5    7.6   9.8         4    7.4   9.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TBP PE=3 SV=2
+tr|F7AGR3|F7AGR3_MACMU         -          Ndc1_Nup             PF09531.7          4    7.4   3.7       4.6    7.2   3.7   1.2   1   0   0   1   1   1   0 PWI domain-containing protein OS=Macaca mulatta OX=9544 GN=RBM25 PE=4 SV=2
+tr|F7D8F1|F7D8F1_MACMU         -          Ndc1_Nup             PF09531.7        4.1    7.4   3.5        12    5.9   3.4   1.6   2   0   0   2   2   2   0 Non-specific serine/threonine protein kinase OS=Macaca mulatta OX=9544 GN=PAK6 PE=4 SV=1
+tr|F7GZH8|F7GZH8_MACMU         -          Ndc1_Nup             PF09531.7        5.3    7.0   5.6       5.2    7.0   5.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SPATA3 PE=4 SV=2
+tr|F6ZSF8|F6ZSF8_MACMU         -          Ndc1_Nup             PF09531.7        5.8    6.9  14.5       9.6    6.1  14.5   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PIGF PE=4 SV=2
+tr|A0A1D5Q0E1|A0A1D5Q0E1_MACMU -          Ndc1_Nup             PF09531.7        5.9    6.8   3.8       7.3    6.5   3.8   1.3   1   0   0   1   1   1   0 PWI domain-containing protein OS=Macaca mulatta OX=9544 GN=RBM25 PE=4 SV=1
+tr|F7AKV2|F7AKV2_MACMU         -          Ndc1_Nup             PF09531.7        6.1    6.8   8.0       6.6    6.7   8.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ARL6IP4 PE=4 SV=2
+tr|F6SEF6|F6SEF6_MACMU         -          Ndc1_Nup             PF09531.7        6.7    6.7  10.4       7.8    6.4  10.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TBP PE=3 SV=1
+tr|F6TWF0|F6TWF0_MACMU         -          Ndc1_Nup             PF09531.7        6.9    6.6   3.8        13    5.7   3.4   1.5   2   0   0   2   2   2   0 Non-specific serine/threonine protein kinase OS=Macaca mulatta OX=9544 GN=PAK6 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:03 2022
+# [ok]

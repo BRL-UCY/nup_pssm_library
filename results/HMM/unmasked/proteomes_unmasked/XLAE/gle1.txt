@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GMN3|A0A1L8GMN3_XENLA -          GLE1                 PF07817.10     0.041   14.4   2.0     0.089   13.3   2.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=lamc2 PE=4 SV=1
+tr|A0A1L8H7X0|A0A1L8H7X0_XENLA -          GLE1                 PF07817.10      0.89   10.0  10.5       1.5    9.3   0.1   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015260mg PE=4 SV=1
+tr|A0A1L8HFP3|A0A1L8HFP3_XENLA -          GLE1                 PF07817.10      0.95    9.9  10.0       1.5    9.3   0.1   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=maco1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:31 2022
+# [ok]

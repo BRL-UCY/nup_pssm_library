@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E7EXJ6|E7EXJ6_DANRE         -          Nup188               PF10487.6   2.7e-164  549.9   0.0  3.3e-164  549.6   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|F1QJ18|F1QJ18_DANRE         -          Nup188               PF10487.6       0.35   10.1   0.0      0.57    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          Nup188               PF10487.6       0.35   10.1   0.0      0.58    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          Nup188               PF10487.6       0.35   10.1   0.0      0.58    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          Nup188               PF10487.6       0.35   10.1   0.0      0.58    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          Nup188               PF10487.6       0.36   10.1   0.0      0.58    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          Nup188               PF10487.6       0.36   10.1   0.0      0.58    9.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A140LG39|A0A140LG39_DANRE -          Nup188               PF10487.6        1.4    8.1   0.0       1.6    7.9   0.0   1.0   1   0   0   1   1   1   0 Glutathione peroxidase 4a OS=Danio rerio OX=7955 GN=gpx4a PE=1 SV=1
+tr|F6NSX3|F6NSX3_DANRE         -          Nup188               PF10487.6        7.2    5.8   0.0       9.1    5.4   0.0   1.1   1   0   0   1   1   1   0 Glutathione peroxidase OS=Danio rerio OX=7955 GN=gpx4a PE=1 SV=1
+tr|A0A0R4IIS1|A0A0R4IIS1_DANRE -          Nup188               PF10487.6        7.7    5.7   0.2       8.5    5.5   0.2   1.2   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 7 (Fragment) OS=Danio rerio OX=7955 GN=ppp1r7 PE=1 SV=1
+tr|A0A0R4IH55|A0A0R4IH55_DANRE -          Nup188               PF10487.6        8.1    5.6   1.1        14    4.8   0.4   1.6   1   1   1   2   2   2   0 Myb-binding protein 1A-like protein OS=Danio rerio OX=7955 GN=mybbp1a PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:06:53 2022
+# [ok]

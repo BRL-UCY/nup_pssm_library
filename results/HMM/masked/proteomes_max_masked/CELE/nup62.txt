@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|O01576|O01576_CAEEL         -          Nsp1_C               PF05064.10   0.00018   21.9   0.2   0.00029   21.2   0.2   1.2   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-11 PE=1 SV=1
+tr|G5ECL3|G5ECL3_CAEEL         -          Nsp1_C               PF05064.10         3    8.3   0.1       5.9    7.3   0.1   1.4   1   0   0   1   1   1   0 Pre-RNA processing 21 OS=Caenorhabditis elegans OX=6239 GN=prp-21 PE=1 SV=1
+tr|Q19011|Q19011_CAEEL         -          Nsp1_C               PF05064.10       3.1    8.2   0.1   1.8e+02    2.5   0.0   3.0   3   0   0   3   3   3   0 GAR domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D2096.11 PE=4 SV=4
+sp|Q21993|PFD5_CAEEL           -          Nsp1_C               PF05064.10       3.6    8.0   0.1       7.6    7.0   0.0   1.6   2   0   0   2   2   2   0 Probable prefoldin subunit 5 OS=Caenorhabditis elegans OX=6239 GN=pfd-5 PE=2 SV=1
+sp|Q10006|HAL3_CAEEL           -          Nsp1_C               PF05064.10       3.7    8.0   0.5       7.9    6.9   0.5   1.6   1   0   0   1   1   1   0 Uncharacterized protein hal-3 OS=Caenorhabditis elegans OX=6239 GN=hal-3 PE=4 SV=1
+sp|Q20024|STX3_CAEEL           -          Nsp1_C               PF05064.10       7.5    7.0   0.5   1.2e+02    3.1   0.1   2.2   2   0   0   2   2   2   0 Putative syntaxin-3 OS=Caenorhabditis elegans OX=6239 GN=syx-3 PE=1 SV=3
+tr|Q965L0|Q965L0_CAEEL         -          Nsp1_C               PF05064.10       8.1    6.9   0.1   2.8e+02    1.9   0.0   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M116.5 PE=1 SV=4
+tr|O61929|O61929_CAEEL         -          Nsp1_C               PF05064.10       9.6    6.6   0.0        18    5.8   0.0   1.3   1   0   0   1   1   1   0 Glycosyltransferase family 92 protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T06A1.5 PE=1 SV=1
+tr|A0A131MBC0|A0A131MBC0_CAEEL -          Nsp1_C               PF05064.10       9.9    6.6   0.0        16    5.9   0.0   1.2   1   0   0   1   1   1   0 Sideroflexin-5 OS=Caenorhabditis elegans OX=6239 GN=sfxn-5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:59:05 2022
+# [ok]

@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1
+# Database: DB_masked/SCER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+tr|Q7K0D8|Q7K0D8_DROME	sp|P32499|NUP2_YEAST	4.01e-17	82.7	77	561	176	714
+tr|Q7K0D8|Q7K0D8_DROME	sp|P41920|YRB1_YEAST	7.96e-08	51.1	447	561	73	193
+tr|Q7K0D8|Q7K0D8_DROME	sp|P40517|YRB2_YEAST	1.63e-06	48.0	327	563	71	325
+tr|Q7K0D8|Q7K0D8_DROME	sp|P40164|PP4R3_YEAST	0.14	33.0	462	521	29	87
+tr|Q7K0D8|Q7K0D8_DROME	sp|P14907|NSP1_YEAST	2.6	28.7	288	457	153	331
+# BLAST processed 1 queries

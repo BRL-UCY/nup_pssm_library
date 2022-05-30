@@ -1,0 +1,59 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9I7D0|Q9I7D0_DROME         -          POM121               PF15229.3       0.12   12.4   7.6      0.18   11.8   7.6   1.2   1   0   0   1   1   1   0 GH22314p OS=Drosophila melanogaster OX=7227 GN=PhKgamma PE=2 SV=3
+tr|Q9VTF3|Q9VTF3_DROME         -          POM121               PF15229.3       0.18   11.8  15.4      0.22   11.5  15.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12522 PE=4 SV=3
+tr|A0A0B4K7U3|A0A0B4K7U3_DROME -          POM121               PF15229.3       0.18   11.8   0.2      0.28   11.2   0.2   1.2   1   0   0   1   1   1   0 Lysine (K)-specific demethylase 4A, isoform B OS=Drosophila melanogaster OX=7227 GN=Kdm4A PE=4 SV=1
+tr|E1JJ97|E1JJ97_DROME         -          POM121               PF15229.3       0.21   11.6   0.4      0.23   11.5   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42577 PE=4 SV=1
+sp|Q9V333|KDM4A_DROME          -          POM121               PF15229.3       0.28   11.2   0.2      0.44   10.5   0.2   1.2   1   0   0   1   1   1   0 Probable lysine-specific demethylase 4A OS=Drosophila melanogaster OX=7227 GN=Kdm4A PE=1 SV=1
+tr|Q9VHF4|Q9VHF4_DROME         -          POM121               PF15229.3       0.62   10.0   4.8      0.86    9.6   4.8   1.1   1   0   0   1   1   1   0 RE70963p OS=Drosophila melanogaster OX=7227 GN=anon-EST:fe2G11 PE=2 SV=2
+tr|E1JJS0|E1JJS0_DROME         -          POM121               PF15229.3       0.63   10.0   0.4      0.73    9.8   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42578 PE=4 SV=1
+tr|Q7JZ51|Q7JZ51_DROME         -          POM121               PF15229.3       0.89    9.5   5.4       1.3    9.0   5.4   1.2   1   0   0   1   1   1   0 Insensible, isoform A OS=Drosophila melanogaster OX=7227 GN=insb PE=1 SV=1
+tr|E1JHJ2|E1JHJ2_DROME         -          POM121               PF15229.3       0.96    9.4   3.1         3    7.8   3.1   1.8   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5953 PE=1 SV=1
+tr|Q6IK18|Q6IK18_DROME         -          POM121               PF15229.3        1.1    9.2  17.0       1.4    8.8  17.0   1.2   1   0   0   1   1   1   0 GEO11051p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG34273 PE=2 SV=1
+tr|Q9VTF1|Q9VTF1_DROME         -          POM121               PF15229.3        1.2    9.1  17.5       1.5    8.7  17.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32071 PE=4 SV=2
+tr|Q8SXZ5|Q8SXZ5_DROME         -          POM121               PF15229.3        1.5    8.8   3.9       1.7    8.6   3.9   1.1   1   0   0   1   1   1   0 RE39957p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32188 PE=2 SV=1
+tr|A1ZB17|A1ZB17_DROME         -          POM121               PF15229.3        1.6    8.7   2.1       2.8    7.9   2.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5084 PE=4 SV=1
+sp|P18459|TY3H_DROME           -          POM121               PF15229.3        1.9    8.4   1.2         2    8.4   0.0   1.6   2   0   0   2   2   1   0 Tyrosine 3-monooxygenase OS=Drosophila melanogaster OX=7227 GN=ple PE=2 SV=2
+tr|B5X0J4|B5X0J4_DROME         -          POM121               PF15229.3        1.9    8.4   1.2         2    8.4   0.0   1.6   2   0   0   2   2   1   0 FI04429p OS=Drosophila melanogaster OX=7227 GN=ple PE=1 SV=1
+sp|Q9W484|RTEL1_DROME          -          POM121               PF15229.3        2.2    8.2   2.9       4.1    7.3   2.9   1.4   1   0   0   1   1   1   0 Regulator of telomere elongation helicase 1 homolog OS=Drosophila melanogaster OX=7227 GN=CG4078 PE=1 SV=1
+tr|M9PGH6|M9PGH6_DROME         -          POM121               PF15229.3        2.2    8.2   2.9       4.1    7.3   2.9   1.4   1   0   0   1   1   1   0 Regulator of telomere elongation helicase 1 homolog OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4078 PE=3 SV=1
+tr|Q9VJM4|Q9VJM4_DROME         -          POM121               PF15229.3        2.8    7.9   0.4       6.3    6.7   0.4   1.5   1   0   0   1   1   1   0 Beaten path Ic OS=Drosophila melanogaster OX=7227 GN=beat-Ic PE=2 SV=2
+tr|Q6IHK7|Q6IHK7_DROME         -          POM121               PF15229.3        3.1    7.7   0.4       3.3    7.7   0.4   1.1   1   0   0   1   1   1   0 HDC02322 OS=Drosophila melanogaster OX=7227 GN=CG16824-RA PE=2 SV=1
+tr|Q9VR63|Q9VR63_DROME         -          POM121               PF15229.3        3.3    7.7   4.3        12    5.8   0.5   2.3   2   0   0   2   2   2   0 RE73905p OS=Drosophila melanogaster OX=7227 GN=CG17602 PE=2 SV=2
+sp|Q9VYI3|RM49_DROME           -          POM121               PF15229.3        3.3    7.6   0.0       4.2    7.3   0.0   1.1   1   0   0   1   1   1   0 Probable 39S ribosomal protein L49, mitochondrial OS=Drosophila melanogaster OX=7227 GN=mRpL49 PE=3 SV=1
+tr|F3YDM8|F3YDM8_DROME         -          POM121               PF15229.3        3.3    7.6   0.0       4.2    7.3   0.0   1.1   1   0   0   1   1   1   0 MIP20590p OS=Drosophila melanogaster OX=7227 GN=mRpL49 PE=1 SV=1
+sp|Q9VV36|RETIN_DROME          -          POM121               PF15229.3        3.7    7.5   0.5       5.3    7.0   0.5   1.3   1   0   0   1   1   1   0 Retinin OS=Drosophila melanogaster OX=7227 GN=retinin PE=1 SV=2
+tr|Q9VJK4|Q9VJK4_DROME         -          POM121               PF15229.3        3.8    7.4   4.2        11    5.9   4.2   1.7   1   0   0   1   1   1   0 RE18252p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5953 PE=1 SV=2
+tr|Q960Z4|Q960Z4_DROME         -          POM121               PF15229.3        4.5    7.2   3.6        15    5.5   3.6   1.9   1   0   0   1   1   1   0 Bruno 1, isoform A OS=Drosophila melanogaster OX=7227 GN=bru1 PE=2 SV=1
+tr|Q9VQA8|Q9VQA8_DROME         -          POM121               PF15229.3        4.6    7.2   1.5       6.1    6.8   1.5   1.2   1   0   0   1   1   1   0 LD01251p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9967 PE=2 SV=1
+sp|Q9V3B6|CWC15_DROME          -          POM121               PF15229.3        4.8    7.1   7.4       7.1    6.6   7.4   1.4   1   0   0   1   1   1   0 Protein CWC15 homolog OS=Drosophila melanogaster OX=7227 GN=c12.1 PE=2 SV=1
+tr|M9PDB0|M9PDB0_DROME         -          POM121               PF15229.3        4.8    7.1   3.8        15    5.5   3.8   1.8   1   0   0   1   1   1   0 Bruno 1, isoform H OS=Drosophila melanogaster OX=7227 GN=bru1 PE=4 SV=1
+tr|Q8IPU7|Q8IPU7_DROME         -          POM121               PF15229.3        5.3    7.0   0.3       6.1    6.8   0.3   1.2   1   0   0   1   1   1   0 RE54374p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5059 PE=2 SV=1
+tr|A1Z9B4|A1Z9B4_DROME         -          POM121               PF15229.3        5.4    6.9   2.6       5.8    6.9   2.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=BEST:GH18008 PE=4 SV=1
+tr|Q9VR61|Q9VR61_DROME         -          POM121               PF15229.3        5.4    6.9  12.8       9.3    6.2  12.8   1.3   1   0   0   1   1   1   0 Non-specific serine/threonine protein kinase OS=Drosophila melanogaster OX=7227 GN=S6kII PE=4 SV=1
+tr|Q8IQ76|Q8IQ76_DROME         -          POM121               PF15229.3        5.6    6.9   0.5       6.7    6.6   0.5   1.1   1   0   0   1   1   1   0 GEO12894p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14823 PE=2 SV=1
+tr|Q8IPU8|Q8IPU8_DROME         -          POM121               PF15229.3          6    6.8   0.3       7.2    6.5   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5059 PE=4 SV=1
+tr|Q8IQC6|Q8IQC6_DROME         -          POM121               PF15229.3        6.2    6.8   3.7       6.9    6.6   3.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE03722 PE=4 SV=1
+tr|Q9VPD6|Q9VPD6_DROME         -          POM121               PF15229.3        6.2    6.7   0.3       7.8    6.4   0.3   1.3   1   0   0   1   1   1   0 RE48077p OS=Drosophila melanogaster OX=7227 GN=BNIP3 PE=2 SV=1
+tr|Q8IP89|Q8IP89_DROME         -          POM121               PF15229.3        6.8    6.6   2.4        24    4.8   2.4   2.0   1   0   0   1   1   1   0 Bruno 1, isoform F OS=Drosophila melanogaster OX=7227 GN=bru1 PE=4 SV=2
+tr|Q95ST0|Q95ST0_DROME         -          POM121               PF15229.3        6.9    6.6   0.5       8.5    6.3   0.5   1.1   1   0   0   1   1   1   0 GEO04409p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14823 PE=2 SV=1
+sp|Q9VXT5|C19L2_DROME          -          POM121               PF15229.3          7    6.6  35.2      0.36   10.8   9.2   2.6   2   0   0   2   2   2   0 CWF19-like protein 2 homolog OS=Drosophila melanogaster OX=7227 GN=CG9213 PE=1 SV=2
+tr|X2JKF2|X2JKF2_DROME         -          POM121               PF15229.3          7    6.6  35.2      0.36   10.8   9.2   2.6   2   0   0   2   2   2   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9213 PE=4 SV=1
+tr|E1JGQ0|E1JGQ0_DROME         -          POM121               PF15229.3        7.3    6.5   1.5        14    5.6   1.5   1.4   1   0   0   1   1   1   0 RIC3 acetylcholine receptor chaperone, isoform O OS=Drosophila melanogaster OX=7227 GN=RIC-3 PE=1 SV=1
+tr|Q9VNN5|Q9VNN5_DROME         -          POM121               PF15229.3        7.5    6.5   0.0        21    5.0   0.0   1.7   2   0   0   2   2   1   0 Osiris 13 OS=Drosophila melanogaster OX=7227 GN=Osi13 PE=2 SV=1
+tr|Q9VXL9|Q9VXL9_DROME         -          POM121               PF15229.3        8.1    6.4   1.3        18    5.3   1.3   1.5   1   0   0   1   1   1   0 IP12579p OS=Drosophila melanogaster OX=7227 GN=Lcch-14A PE=2 SV=4
+tr|R9PY30|R9PY30_DROME         -          POM121               PF15229.3        8.3    6.3   6.5        10    6.1   6.5   1.1   1   0   0   1   1   1   0 GEO02658p1 OS=Drosophila melanogaster OX=7227 GN=chr3L_11128040_11128584.0 PE=2 SV=1
+tr|Q9VUZ8|Q9VUZ8_DROME         -          POM121               PF15229.3        8.5    6.3   1.8        11    6.0   1.6   1.3   1   1   0   1   1   1   0 GEO07442p1 OS=Drosophila melanogaster OX=7227 GN=PDCD-5 PE=1 SV=1
+tr|E1JGP3|E1JGP3_DROME         -          POM121               PF15229.3        8.5    6.3   1.5        16    5.4   1.5   1.3   1   0   0   1   1   1   0 RIC3 acetylcholine receptor chaperone, isoform H OS=Drosophila melanogaster OX=7227 GN=RIC-3 PE=1 SV=1
+tr|A1A6N9|A1A6N9_DROME         -          POM121               PF15229.3        9.3    6.2   4.0       9.5    6.2   4.0   1.1   1   0   0   1   1   1   0 GEO11021p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG34175 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/pom121.txt --max --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 01:01:58 2022
+# [ok]

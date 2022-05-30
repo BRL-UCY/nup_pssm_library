@@ -1,0 +1,50 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWE6|ELYS_DROME           -          ELYS                 PF13934.3    2.8e-40  138.9   1.3   4.6e-40  138.2   1.3   1.3   1   0   0   1   1   1   1 Protein ELYS homolog OS=Drosophila melanogaster OX=7227 GN=Elys PE=1 SV=2
+tr|X2JG50|X2JG50_DROME         -          ELYS                 PF13934.3    2.8e-40  138.9   1.3   4.6e-40  138.2   1.3   1.3   1   0   0   1   1   1   1 Elys, isoform B OS=Drosophila melanogaster OX=7227 GN=Elys PE=4 SV=1
+tr|Q9Y0Y5|Q9Y0Y5_DROME         -          ELYS                 PF13934.3      0.084   13.1   1.8      0.13   12.6   1.4   1.5   1   1   0   1   1   1   0 Coatomer subunit epsilon OS=Drosophila melanogaster OX=7227 GN=epsilonCOP PE=1 SV=1
+sp|A1Z9A8|PTCD3_DROME          -          ELYS                 PF13934.3       0.16   12.2   0.0      0.54   10.5   0.0   1.9   1   0   0   1   1   1   0 Protein PTCD3 homolog, mitochondrial OS=Drosophila melanogaster OX=7227 GN=CG4679 PE=2 SV=1
+sp|Q9XZ06|NU931_DROME          -          ELYS                 PF13934.3       0.45   10.7   0.1       1.3    9.2   0.1   1.8   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+tr|M9NDN6|M9NDN6_DROME         -          ELYS                 PF13934.3       0.49   10.6   0.1       0.5   10.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=lincRNA.946 PE=4 SV=1
+tr|Q9W1M7|Q9W1M7_DROME         -          ELYS                 PF13934.3        1.1    9.5   0.5       5.3    7.2   0.1   2.2   2   0   0   2   2   2   0 Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Drosophila melanogaster OX=7227 GN=Pi3K59F PE=1 SV=2
+tr|Q9VQJ7|Q9VQJ7_DROME         -          ELYS                 PF13934.3        1.3    9.3   0.0       2.8    8.2   0.0   1.5   1   0   0   1   1   1   0 LD40940p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3165 PE=2 SV=1
+tr|Q9VNC1|Q9VNC1_DROME         -          ELYS                 PF13934.3        1.5    9.1   0.0       5.1    7.3   0.0   1.6   1   1   0   1   1   1   0 Mitochondrial ribosomal protein L44 OS=Drosophila melanogaster OX=7227 GN=mRpL44 PE=1 SV=1
+tr|A8JUR3|A8JUR3_DROME         -          ELYS                 PF13934.3        1.6    9.0   0.1       2.6    8.3   0.1   1.3   1   0   0   1   1   1   0 Ionotropic receptor 10a (Fragment) OS=Drosophila melanogaster OX=7227 GN=Ir10a PE=4 SV=1
+tr|Q9W097|Q9W097_DROME         -          ELYS                 PF13934.3        1.6    8.9   2.4       3.1    8.0   2.4   1.4   1   0   0   1   1   1   0 LD29485p OS=Drosophila melanogaster OX=7227 GN=Oseg4 PE=2 SV=1
+sp|Q9VKJ3|NU160_DROME          -          ELYS                 PF13934.3        1.9    8.7   4.0        93    3.2   0.0   4.0   3   1   0   3   3   3   0 Nuclear pore complex protein Nup160 homolog OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=1 SV=1
+tr|X2J9F3|X2J9F3_DROME         -          ELYS                 PF13934.3        1.9    8.7   4.0        93    3.2   0.0   4.0   3   1   0   3   3   3   0 Nucleoporin 160kD, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=4 SV=1
+tr|A1ZBM3|A1ZBM3_DROME         -          ELYS                 PF13934.3        2.4    8.4   0.2        21    5.3   0.1   2.4   2   0   0   2   2   2   0 Outer segment 6 OS=Drosophila melanogaster OX=7227 GN=Oseg6 PE=4 SV=1
+tr|Q9VKU2|Q9VKU2_DROME         -          ELYS                 PF13934.3        2.4    8.4   0.0       4.1    7.6   0.0   1.4   1   0   0   1   1   1   0 LD46023p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7384 PE=2 SV=2
+tr|Q9VHW4|Q9VHW4_DROME         -          ELYS                 PF13934.3        2.7    8.2   0.1       9.8    6.4   0.1   2.0   1   0   0   1   1   1   0 FI21225p1 OS=Drosophila melanogaster OX=7227 GN=unc-45 PE=1 SV=1
+tr|Q4QPR8|Q4QPR8_DROME         -          ELYS                 PF13934.3          3    8.1   0.1       3.5    7.8   0.1   1.1   1   0   0   1   1   1   0 GEO10187p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14483 PE=2 SV=1
+tr|Q9W2C9|Q9W2C9_DROME         -          ELYS                 PF13934.3          3    8.1   0.5       8.2    6.6   0.0   1.8   2   0   0   2   2   2   0 Lysyl oxidase-like 2 OS=Drosophila melanogaster OX=7227 GN=Loxl2 PE=4 SV=1
+tr|A0A0B4LF63|A0A0B4LF63_DROME -          ELYS                 PF13934.3        3.1    8.0   0.2       6.1    7.0   0.2   1.6   1   1   0   1   1   1   0 Bardet-Biedl syndrome 4, isoform B OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=4 SV=1
+tr|Q9VWS1|Q9VWS1_DROME         -          ELYS                 PF13934.3        3.1    8.0   1.0       9.9    6.4   1.0   1.9   1   1   0   1   1   1   0 LD25271p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6617 PE=1 SV=1
+sp|A1Z8E9|BBS4_DROME           -          ELYS                 PF13934.3        3.3    7.9   0.2       6.8    6.9   0.2   1.6   1   1   0   1   1   1   0 Bardet-Biedl syndrome 4 protein homolog OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=3 SV=1
+tr|Q9VA15|Q9VA15_DROME         -          ELYS                 PF13934.3        4.7    7.4   0.0       6.5    7.0   0.0   1.2   1   0   0   1   1   1   0 GH02265p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11317 PE=2 SV=2
+tr|Q9VFE7|Q9VFE7_DROME         -          ELYS                 PF13934.3        4.8    7.4   0.1        22    5.3   0.0   2.1   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+tr|Q9W501|Q9W501_DROME         -          ELYS                 PF13934.3        5.2    7.3   0.6        11    6.2   0.6   1.5   1   0   0   1   1   1   0 LD45906p OS=Drosophila melanogaster OX=7227 GN=temp PE=1 SV=1
+sp|P49735|MCM2_DROME           -          ELYS                 PF13934.3        5.7    7.1   0.7        12    6.1   0.7   1.5   1   0   0   1   1   1   0 DNA replication licensing factor Mcm2 OS=Drosophila melanogaster OX=7227 GN=Mcm2 PE=1 SV=1
+tr|Q4V5A5|Q4V5A5_DROME         -          ELYS                 PF13934.3        5.7    7.1   0.2        16    5.7   0.2   1.7   1   0   0   1   1   1   0 IP14661p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8388 PE=2 SV=1
+tr|Q9W125|Q9W125_DROME         -          ELYS                 PF13934.3          6    7.1   0.0       7.7    6.7   0.0   1.2   1   0   0   1   1   1   0 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8 OS=Drosophila melanogaster OX=7227 GN=ND-19 PE=1 SV=1
+tr|A0A0B4KI67|A0A0B4KI67_DROME -          ELYS                 PF13934.3        6.2    7.0   0.0       8.6    6.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11317 PE=4 SV=1
+sp|Q7KTH8|CSN8_DROME           -          ELYS                 PF13934.3        6.2    7.0   1.0       8.1    6.6   1.0   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 8 OS=Drosophila melanogaster OX=7227 GN=CSN8 PE=1 SV=1
+tr|Q9VPR0|Q9VPR0_DROME         -          ELYS                 PF13934.3        6.5    7.0   0.3        48    4.1   0.1   2.4   2   0   0   2   2   2   0 LP14662p OS=Drosophila melanogaster OX=7227 GN=rempA PE=2 SV=2
+tr|Q4ABG0|Q4ABG0_DROME         -          ELYS                 PF13934.3        6.6    6.9   0.1     1e+02    3.1   0.0   2.0   2   0   0   2   2   2   0 FI17833p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG33641 PE=2 SV=1
+tr|Q9VX93|Q9VX93_DROME         -          ELYS                 PF13934.3        6.7    6.9   1.9       7.7    6.7   1.9   1.1   1   0   0   1   1   1   0 GEO02689p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13000 PE=2 SV=1
+tr|Q7KTZ4|Q7KTZ4_DROME         -          ELYS                 PF13934.3        6.8    6.9   0.3        50    4.1   0.1   2.4   2   0   0   2   2   2   0 Reduced mechanoreceptor potential A, isoform B OS=Drosophila melanogaster OX=7227 GN=rempA PE=4 SV=1
+tr|Q8SXB3|Q8SXB3_DROME         -          ELYS                 PF13934.3        8.2    6.6   0.0        13    6.0   0.0   1.4   1   0   0   1   1   1   0 GH12334p OS=Drosophila melanogaster OX=7227 GN=eap PE=2 SV=1
+tr|Q95R82|Q95R82_DROME         -          ELYS                 PF13934.3        9.1    6.5   0.0        15    5.7   0.0   1.2   1   0   0   1   1   1   0 SD02746p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14767 PE=2 SV=1
+tr|Q7KGU6|Q7KGU6_DROME         -          ELYS                 PF13934.3        9.2    6.5   0.0        16    5.7   0.0   1.2   1   0   0   1   1   1   0 Lysosomal-associated transmembrane protein OS=Drosophila melanogaster OX=7227 GN=dmCG14767 PE=2 SV=1
+tr|Q9W2N5|Q9W2N5_DROME         -          ELYS                 PF13934.3        9.8    6.4   0.2        20    5.3   0.2   1.5   1   0   0   1   1   1   0 GH10162p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3295 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 01:06:08 2022
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V463|NU154_DROME          -          Nucleoporin_N        PF08801.8   3.7e-102  342.6   0.2  6.3e-102  341.8   0.2   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein Nup154 OS=Drosophila melanogaster OX=7227 GN=Nup154 PE=1 SV=1
+sp|Q9VCW3|NU133_DROME          -          Nucleoporin_N        PF08801.8    4.1e-46  157.9   0.0   5.9e-46  157.4   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Drosophila melanogaster OX=7227 GN=Nup133 PE=2 SV=2
+tr|Q7JQT9|Q7JQT9_DROME         -          Nucleoporin_N        PF08801.8    2.4e-06   26.9   7.0    0.0013   17.9   0.1   5.6   2   1   3   6   6   6   1 LD47550p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1671 PE=1 SV=1
+sp|Q7KNS3|LIS1_DROME           -          Nucleoporin_N        PF08801.8    4.8e-06   25.9   0.8     0.023   13.7   0.0   3.7   1   1   2   3   3   3   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=1 SV=2
+tr|A0A0B4K812|A0A0B4K812_DROME -          Nucleoporin_N        PF08801.8    4.8e-06   25.9   0.8     0.023   13.7   0.0   3.7   1   1   2   3   3   3   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=3 SV=1
+tr|Q9VYQ9|Q9VYQ9_DROME         -          Nucleoporin_N        PF08801.8    5.4e-05   22.4   0.1      0.28   10.2   0.0   3.7   2   1   0   3   3   3   2 LD24662p OS=Drosophila melanogaster OX=7227 GN=Tango4 PE=1 SV=1
+sp|Q9W328|LST8_DROME           -          Nucleoporin_N        PF08801.8      0.001   18.2   0.1       1.4    7.9   0.1   3.5   3   1   0   4   4   4   1 Protein LST8 homolog OS=Drosophila melanogaster OX=7227 GN=Lst8 PE=1 SV=2
+sp|Q1LZ08|WDR48_DROME          -          Nucleoporin_N        PF08801.8     0.0012   18.0   2.3       1.3    8.0   0.0   3.2   2   1   0   3   3   3   2 WD repeat-containing protein 48 homolog OS=Drosophila melanogaster OX=7227 GN=CG9062 PE=2 SV=1
+tr|A0A0B4KET0|A0A0B4KET0_DROME -          Nucleoporin_N        PF08801.8     0.0013   17.9   2.3       1.3    8.0   0.0   3.2   2   1   0   3   3   3   2 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9062 PE=4 SV=1
+tr|Q9VML2|Q9VML2_DROME         -          Nucleoporin_N        PF08801.8     0.0057   15.8   0.5       2.8    6.9   0.3   2.6   2   0   0   2   2   2   2 Blue cheese OS=Drosophila melanogaster OX=7227 GN=bchs PE=4 SV=4
+tr|Q9VE73|Q9VE73_DROME         -          Nucleoporin_N        PF08801.8     0.0094   15.0   0.1       2.8    6.9   0.0   3.1   2   2   2   4   4   4   1 GH17724p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12333 PE=1 SV=1
+tr|Q9VUZ6|Q9VUZ6_DROME         -          Nucleoporin_N        PF08801.8      0.016   14.3   3.7     0.083   11.9   0.1   3.4   4   0   0   4   4   4   0 FI05332p OS=Drosophila melanogaster OX=7227 GN=l(3)72Dn PE=1 SV=1
+tr|M9PFG1|M9PFG1_DROME         -          Nucleoporin_N        PF08801.8      0.018   14.1   4.6     0.083   11.9   0.1   3.5   4   0   0   4   4   4   0 Lethal (3) 72Dn, isoform B OS=Drosophila melanogaster OX=7227 GN=l(3)72Dn PE=1 SV=1
+tr|Q9XZ19|Q9XZ19_DROME         -          Nucleoporin_N        PF08801.8      0.027   13.6   0.1       0.2   10.6   0.0   2.2   2   1   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3909 PE=1 SV=1
+tr|Q9VAK0|Q9VAK0_DROME         -          Nucleoporin_N        PF08801.8       0.08   12.0   0.0      0.59    9.1   0.0   2.1   1   1   2   3   3   3   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7568 PE=4 SV=3
+tr|A0A0B4KI55|A0A0B4KI55_DROME -          Nucleoporin_N        PF08801.8      0.087   11.9   0.0       0.5    9.4   0.0   2.1   1   1   2   3   3   3   0 Uncharacterized protein, isoform E OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7568 PE=4 SV=1
+tr|Q9VKW1|Q9VKW1_DROME         -          Nucleoporin_N        PF08801.8       0.12   11.4   0.1       1.7    7.6   0.0   2.6   3   0   0   3   3   3   0 LD41958p OS=Drosophila melanogaster OX=7227 GN=Wdfy2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:08 2022
+# [ok]

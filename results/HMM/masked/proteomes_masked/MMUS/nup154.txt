@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R0G9|NU133_MOUSE          -          Nucleoporin_C        PF03177.11   1.5e-14   55.3   0.9   4.1e-14   53.9   0.9   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Mus musculus OX=10090 GN=Nup133 PE=1 SV=2
+tr|A0A2R8VHH1|A0A2R8VHH1_MOUSE -          Nucleoporin_C        PF03177.11     2e-09   38.4   2.3     3e-09   37.8   2.3   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+sp|Q99P88|NU155_MOUSE          -          Nucleoporin_C        PF03177.11   2.6e-09   38.0   2.6     4e-09   37.4   2.6   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:48 2022
+# [ok]

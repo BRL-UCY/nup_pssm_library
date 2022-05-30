@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7AS82|F7AS82_MACMU         -          Nup84_Nup100         PF04121.10  2.5e-188  628.8  12.5  2.9e-188  628.7  12.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=2
+tr|F7AS65|F7AS65_MACMU         -          Nup84_Nup100         PF04121.10  3.7e-188  628.3  12.5  4.2e-188  628.1  12.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=2 SV=2
+tr|F6PUD9|F6PUD9_MACMU         -          Nup84_Nup100         PF04121.10  8.7e-157  524.6   8.6  1.3e-102  345.5   2.4   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=1
+tr|A0A1D5QG18|A0A1D5QG18_MACMU -          Nup84_Nup100         PF04121.10      0.46    9.9   0.0      0.57    9.6   0.0   1.0   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Macaca mulatta OX=9544 GN=TNPO1 PE=4 SV=1
+tr|F6T4T3|F6T4T3_MACMU         -          Nup84_Nup100         PF04121.10      0.58    9.6   0.2      0.83    9.1   0.2   1.2   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 40 OS=Macaca mulatta OX=9544 GN=LRRC40 PE=2 SV=1
+tr|F7GF88|F7GF88_MACMU         -          Nup84_Nup100         PF04121.10         3    7.3   0.0       3.1    7.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYL9 PE=4 SV=2
+tr|F7GXX5|F7GXX5_MACMU         -          Nup84_Nup100         PF04121.10       4.1    6.8   0.1       6.3    6.2   0.1   1.1   1   0   0   1   1   1   0 Exportin-T OS=Macaca mulatta OX=9544 PE=3 SV=2
+tr|F6V8H7|F6V8H7_MACMU         -          Nup84_Nup100         PF04121.10       8.1    5.8   0.1        11    5.4   0.1   1.0   1   0   0   1   1   1   0 Histone deacetylase complex subunit SAP130 isoform b OS=Macaca mulatta OX=9544 GN=SAP130 PE=2 SV=2
+tr|F6V8I9|F6V8I9_MACMU         -          Nup84_Nup100         PF04121.10       8.1    5.8   0.1        11    5.3   0.1   1.0   1   0   0   1   1   1   0 SAP130_C domain-containing protein OS=Macaca mulatta OX=9544 GN=SAP130 PE=4 SV=2
+tr|F7DUW2|F7DUW2_MACMU         -          Nup84_Nup100         PF04121.10       8.3    5.8   0.1        11    5.3   0.1   1.0   1   0   0   1   1   1   0 SAP130_C domain-containing protein OS=Macaca mulatta OX=9544 GN=SAP130 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:21:26 2022
+# [ok]

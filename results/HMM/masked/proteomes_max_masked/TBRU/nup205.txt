@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q583W5|Q583W5_TRYB2 -          Nup192               PF11894.5    2.3e-06   24.1   0.7   7.7e-05   19.1   0.0   3.2   4   0   0   4   4   4   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.2880 PE=4 SV=1
+tr|Q387G0|Q387G0_TRYB2 -          Nup192               PF11894.5        8.9    2.3   0.0        11    1.9   0.0   1.0   1   0   0   1   1   1   0 Isocitrate dehydrogenase [NADP] OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0230 PE=3 SV=1
+tr|Q57UT4|Q57UT4_TRYB2 -          Nup192               PF11894.5        9.2    2.2   0.1        38    0.2   0.0   1.6   1   1   0   1   1   1   0 Cell differentiation protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.410 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:47 2022
+# [ok]

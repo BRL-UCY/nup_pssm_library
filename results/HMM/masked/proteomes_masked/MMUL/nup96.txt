@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9FV00|H9FV00_MACMU -          Nup96                PF12110.5    2.1e-85  287.7   4.3   2.7e-85  287.4   4.3   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 isoform 1 OS=Macaca mulatta OX=9544 GN=NUP98 PE=2 SV=1
+tr|H9H2Z0|H9H2Z0_MACMU -          Nup96                PF12110.5    6.7e-71  240.1   1.4   1.1e-70  239.5   1.4   1.2   1   0   0   1   1   1   1 Nup96 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|F6ZG82|F6ZG82_MACMU -          Nup96                PF12110.5      1e-53  183.7   3.9   9.5e-42  144.4   0.3   2.1   1   1   1   2   2   2   2 Peptidase S59 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup96.txt --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:03 2022
+# [ok]

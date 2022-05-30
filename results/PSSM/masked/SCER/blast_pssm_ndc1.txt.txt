@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9VCG4|NDC1_DROME Nucleoporin Ndc1 OS=Drosophila melanogaster GN=Ndc1 PE=1 SV=1
+# Database: DB_masked/SCER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q9VCG4|NDC1_DROME	sp|P32500|NDC1_YEAST	1.55e-34	136	5	380	14	356
+sp|Q9VCG4|NDC1_DROME	sp|P34231|YKS7_YEAST	3.3	28.4	509	578	470	535
+sp|Q9VCG4|NDC1_DROME	sp|Q08225|DPP3_YEAST	4.4	28.1	542	578	245	281
+sp|Q9VCG4|NDC1_DROME	sp|Q04066|KFA_YEAST	8.6	26.9	510	569	187	248
+# BLAST processed 1 queries

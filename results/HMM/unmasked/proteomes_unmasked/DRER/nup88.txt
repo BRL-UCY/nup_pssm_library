@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2CEI4|A2CEI4_DANRE         -          Nup88                PF10168.6          0 1036.9   0.0         0 1036.7   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+tr|A0A2R8QUY6|A0A2R8QUY6_DANRE -          Nup88                PF10168.6          0 1035.8   0.0         0 1035.6   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+tr|A0A140LGG8|A0A140LGG8_DANRE -          Nup88                PF10168.6      0.077   12.2   7.5     0.093   11.9   7.5   1.0   1   0   0   1   1   1   0 Myosin, heavy chain 14, non-muscle (Fragment) OS=Danio rerio OX=7955 GN=myh14 PE=1 SV=1
+tr|E9QI09|E9QI09_DANRE         -          Nup88                PF10168.6      0.078   12.2   1.2     0.097   11.9   0.1   1.5   2   0   0   2   2   2   0 Transient receptor potential cation channel, subfamily C, member 5a OS=Danio rerio OX=7955 GN=trpc5a PE=3 SV=2
+tr|A0A286Y845|A0A286Y845_DANRE -          Nup88                PF10168.6      0.079   12.2   1.2     0.097   11.9   0.1   1.5   2   0   0   2   2   2   0 Transient receptor potential cation channel, subfamily C, member 5a OS=Danio rerio OX=7955 GN=trpc5a PE=3 SV=1
+tr|A0A2R8QRD4|A0A2R8QRD4_DANRE -          Nup88                PF10168.6      0.079   12.2   1.1     0.099   11.8   0.1   1.5   2   0   0   2   2   2   0 Transient receptor potential cation channel, subfamily C, member 5a OS=Danio rerio OX=7955 GN=trpc5a PE=3 SV=1
+tr|E9QHP2|E9QHP2_DANRE         -          Nup88                PF10168.6      0.093   11.9   3.0      0.11   11.6   3.0   1.1   1   0   0   1   1   1   0 Rapunzel 2 (Fragment) OS=Danio rerio OX=7955 GN=rpz2 PE=1 SV=1
+tr|Q1MT27|Q1MT27_DANRE         -          Nup88                PF10168.6       0.31   10.2   2.5      0.18   11.0   0.3   1.5   2   0   0   2   2   2   0 Transient receptor potential cation channel, subfamily C, member 5a OS=Danio rerio OX=7955 GN=trpc5a PE=3 SV=1
+tr|A0A2R8QF09|A0A2R8QF09_DANRE -          Nup88                PF10168.6        0.4    9.8   0.5      0.59    9.3   0.5   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|A5PMA3|A5PMA3_DANRE         -          Nup88                PF10168.6       0.41    9.8   0.5      0.62    9.2   0.5   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|A0A2R8QRA8|A0A2R8QRA8_DANRE -          Nup88                PF10168.6       0.42    9.8   0.5      0.62    9.2   0.5   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|F1Q8C4|F1Q8C4_DANRE         -          Nup88                PF10168.6       0.61    9.2  23.9     0.015   14.5  13.2   2.5   3   0   0   3   3   3   0 Trafficking protein, kinesin-binding 1a OS=Danio rerio OX=7955 GN=trak1a PE=4 SV=3
+sp|I6V1W0|BMBL_DANRE           -          Nup88                PF10168.6       0.78    8.9   8.8       1.2    8.3   8.8   1.1   1   0   0   1   1   1   0 Protein brambleberry OS=Danio rerio OX=7955 GN=bmb PE=2 SV=1
+tr|I3ITQ0|I3ITQ0_DANRE         -          Nup88                PF10168.6        1.4    8.0  14.3       1.8    7.7  14.3   1.1   1   0   0   1   1   1   0 Si:dkey-37m8.11 OS=Danio rerio OX=7955 GN=si:dkey-37m8.11 PE=4 SV=1
+tr|F1QZQ5|F1QZQ5_DANRE         -          Nup88                PF10168.6        1.6    7.8  13.4       2.5    7.2  13.4   1.3   1   0   0   1   1   1   0 Zmp:0000001316 OS=Danio rerio OX=7955 GN=zmp:0000001316 PE=4 SV=2
+tr|E9QJ68|E9QJ68_DANRE         -          Nup88                PF10168.6        1.7    7.7  23.8     0.029   13.6  13.3   2.3   3   0   0   3   3   3   0 Trafficking protein, kinesin-binding 1a OS=Danio rerio OX=7955 GN=trak1a PE=4 SV=1
+tr|F8W5K6|F8W5K6_DANRE         -          Nup88                PF10168.6        1.8    7.7   7.2       2.2    7.4   7.2   1.1   1   0   0   1   1   1   0 FinTRIM family, member 92 (Fragment) OS=Danio rerio OX=7955 GN=ftr92 PE=4 SV=1
+tr|A0A2R8QM81|A0A2R8QM81_DANRE -          Nup88                PF10168.6          2    7.5  13.3       2.7    7.1  13.3   1.1   1   0   0   1   1   1   0 Tripartite motif-containing 35-23 OS=Danio rerio OX=7955 GN=trim35-23 PE=4 SV=1
+tr|A0A0R4IM08|A0A0R4IM08_DANRE -          Nup88                PF10168.6        2.8    7.0  13.4       3.2    6.9  13.4   1.0   1   0   0   1   1   1   0 Si:ch211-175l6.2 OS=Danio rerio OX=7955 GN=si:ch211-175l6.2 PE=4 SV=2
+tr|A0A2R8QJ54|A0A2R8QJ54_DANRE -          Nup88                PF10168.6          7    5.7  15.5      0.29   10.3   8.4   1.7   1   1   1   2   2   2   0 Si:ch211-242b18.1 OS=Danio rerio OX=7955 GN=si:ch211-242b18.1 PE=4 SV=1
+tr|A0A0R4ITH8|A0A0R4ITH8_DANRE -          Nup88                PF10168.6        9.4    5.3  13.7        17    4.5  13.7   1.3   1   0   0   1   1   1   0 Si:dkeyp-72e1.9 OS=Danio rerio OX=7955 GN=si:dkeyp-72e1.9 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:26 2022
+# [ok]

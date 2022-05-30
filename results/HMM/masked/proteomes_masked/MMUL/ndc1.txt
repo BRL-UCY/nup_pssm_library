@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7EXN3|F7EXN3_MACMU         -          Ndc1_Nup             PF09531.7    1.2e-97  329.5   5.0   1.4e-97  329.3   5.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+tr|A0A1D5QE88|A0A1D5QE88_MACMU -          Ndc1_Nup             PF09531.7    2.2e-97  328.6   5.0   2.6e-97  328.4   5.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=1
+tr|H9H2X7|H9H2X7_MACMU         -          Ndc1_Nup             PF09531.7    1.1e-91  309.8   3.8   1.3e-91  309.6   3.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:03 2022
+# [ok]

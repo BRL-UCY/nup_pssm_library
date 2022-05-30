@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9XWV0|TMM33_CAEEL          -          UPF0121              PF03661.10   4.6e-85  285.4  14.1   5.2e-85  285.2  14.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 homolog OS=Caenorhabditis elegans OX=6239 GN=npp-25 PE=3 SV=1
+tr|A0A1N7SYQ5|A0A1N7SYQ5_CAEEL -          UPF0121              PF03661.10   1.9e-81  273.5  14.7   2.2e-81  273.3  14.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 homolog OS=Caenorhabditis elegans OX=6239 GN=npp-25 PE=1 SV=1
+tr|A0A1N7SYR4|A0A1N7SYR4_CAEEL -          UPF0121              PF03661.10   1.7e-49  168.9   2.6   1.9e-49  168.7   2.6   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 homolog OS=Caenorhabditis elegans OX=6239 GN=npp-25 PE=1 SV=1
+tr|A0A1N7SYS5|A0A1N7SYS5_CAEEL -          UPF0121              PF03661.10   6.7e-39  134.2   0.2     8e-39  134.0   0.2   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 homolog OS=Caenorhabditis elegans OX=6239 GN=npp-25 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/krh2.txt --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:03 2022
+# [ok]

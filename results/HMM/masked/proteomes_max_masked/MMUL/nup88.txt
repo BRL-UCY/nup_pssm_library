@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7BNM4|F7BNM4_MACMU         -          Nup88                PF10168.6   2.4e-267  889.8   0.0  2.7e-267  889.6   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP88 PE=4 SV=1
+tr|A0A1D5Q7V6|A0A1D5Q7V6_MACMU -          Nup88                PF10168.6   1.4e-171  573.3   0.1  6.5e-165  551.2   0.0   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP88 PE=4 SV=1
+tr|F6UQ21|F6UQ21_MACMU         -          Nup88                PF10168.6        1.1    8.4   0.4       1.4    7.9   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=C9H10orf88 PE=4 SV=1
+tr|F7HBM0|F7HBM0_MACMU         -          Nup88                PF10168.6        3.9    6.5   0.0       4.3    6.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PDHA1 PE=4 SV=2
+tr|A0A1D5QU47|A0A1D5QU47_MACMU -          Nup88                PF10168.6        6.2    5.8   0.0       7.7    5.5   0.0   1.1   1   0   0   1   1   1   0 Apolipoprotein A-I OS=Macaca mulatta OX=9544 GN=APOA1 PE=3 SV=1
+tr|A0A1D5QJF6|A0A1D5QJF6_MACMU -          Nup88                PF10168.6        6.5    5.8   0.0       7.9    5.5   0.0   1.1   1   0   0   1   1   1   0 Apolipoprotein A-I OS=Macaca mulatta OX=9544 GN=APOA1 PE=3 SV=1
+sp|F7FQM7|APOA1_MACMU          -          Nup88                PF10168.6        7.3    5.6   0.0       9.2    5.3   0.0   1.1   1   0   0   1   1   1   0 Apolipoprotein A-I OS=Macaca mulatta OX=9544 GN=APOA1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:21:49 2022
+# [ok]

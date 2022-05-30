@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1R0E4|F1R0E4_DANRE         -          NUP50                PF08911.8    7.2e-20   72.7  10.5   9.6e-20   72.3   6.9   3.1   2   1   0   2   2   2   1 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|A0A1L1QZM3|A0A1L1QZM3_DANRE -          NUP50                PF08911.8    1.8e-05   26.6   1.6   1.8e-05   26.6   1.6   1.0   1   0   0   1   1   1   1 Nucleoporin 50 (Fragment) OS=Danio rerio OX=7955 GN=nup50 PE=4 SV=1
+tr|B3DJI0|B3DJI0_DANRE         -          NUP50                PF08911.8        1.9   10.5   0.0        47    6.0   0.1   3.0   2   0   0   2   2   2   0 Daam1l protein OS=Danio rerio OX=7955 GN=daam1b PE=1 SV=1
+tr|Q5RHJ3|Q5RHJ3_DANRE         -          NUP50                PF08911.8          2   10.5   0.0        47    6.0   0.1   2.9   2   0   0   2   2   2   0 Dishevelled-associated activator of morphogenesis 1b OS=Danio rerio OX=7955 GN=daam1b PE=1 SV=1
+tr|Q6BDC4|Q6BDC4_DANRE         -          NUP50                PF08911.8          4    9.5   0.2        10    8.2   0.1   1.8   1   1   0   1   1   1   0 LIM homeobox 6 OS=Danio rerio OX=7955 GN=lhx6 PE=2 SV=1
+tr|U3JAV5|U3JAV5_DANRE         -          NUP50                PF08911.8        4.6    9.3   0.1       8.9    8.4   0.0   1.6   2   0   0   2   2   1   0 Regulator of G protein-signaling 7b (Fragment) OS=Danio rerio OX=7955 GN=rgs7b PE=4 SV=1
+tr|F1QUA2|F1QUA2_DANRE         -          NUP50                PF08911.8        5.3    9.1   0.1        10    8.1   0.1   1.4   1   0   0   1   1   1   0 TNF superfamily member 13b OS=Danio rerio OX=7955 GN=tnfsf13b PE=3 SV=3
+tr|Q6P0C5|Q6P0C5_DANRE         -          NUP50                PF08911.8        6.9    8.7   6.6       0.9   11.5   2.0   2.0   2   1   0   2   2   2   0 Brix domain containing 1 OS=Danio rerio OX=7955 GN=rpf2 PE=1 SV=1
+tr|E9QBX4|E9QBX4_DANRE         -          NUP50                PF08911.8        7.6    8.6   0.1        15    7.6   0.1   1.5   1   0   0   1   1   1   0 Poly(A)-binding protein, nuclear 1-like (cytoplasmic) (Fragment) OS=Danio rerio OX=7955 GN=pabpn1l PE=1 SV=1
+tr|E7EZ26|E7EZ26_DANRE         -          NUP50                PF08911.8        7.7    8.6   0.1        16    7.6   0.1   1.5   1   0   0   1   1   1   0 Poly(A)-binding protein, nuclear 1-like (cytoplasmic) OS=Danio rerio OX=7955 GN=pabpn1l PE=4 SV=1
+tr|Q5TYT5|Q5TYT5_DANRE         -          NUP50                PF08911.8        7.7    8.5   1.2        29    6.7   1.2   2.0   1   0   0   1   1   1   0 Checkpoint suppressor 1 OS=Danio rerio OX=7955 GN=ches1 PE=4 SV=2
+tr|A5PMV8|A5PMV8_DANRE         -          NUP50                PF08911.8        7.8    8.5   0.2        17    7.4   0.2   1.6   1   0   0   1   1   1   0 LIM homeobox 8a OS=Danio rerio OX=7955 GN=lhx8a PE=4 SV=1
+tr|F1QZ26|F1QZ26_DANRE         -          NUP50                PF08911.8        7.9    8.5   1.2        30    6.7   1.2   2.0   1   0   0   1   1   1   0 Checkpoint suppressor 1 OS=Danio rerio OX=7955 GN=ches1 PE=4 SV=2
+tr|F8W2C3|F8W2C3_DANRE         -          NUP50                PF08911.8        9.2    8.3   0.0        17    7.4   0.0   1.4   1   0   0   1   1   1   0 Sp4 transcription factor (Fragment) OS=Danio rerio OX=7955 GN=sp4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 02:24:54 2022
+# [ok]

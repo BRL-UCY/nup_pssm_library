@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XL37|F6XL37_MACMU         -          Nup35_RRM            PF05172.10   1.2e-24   87.5   0.1   1.8e-24   86.9   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=2
+tr|A0A1D5QUE9|A0A1D5QUE9_MACMU -          Nup35_RRM            PF05172.10   1.2e-24   87.4   0.1   1.9e-24   86.9   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=1
+tr|A0A1D5R653|A0A1D5R653_MACMU -          Nup35_RRM            PF05172.10   1.2e-24   87.4   0.1   1.9e-24   86.8   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=2 SV=1
+tr|F7ELI6|F7ELI6_MACMU         -          Nup35_RRM            PF05172.10     0.028   15.7   0.2      0.92   10.8   0.2   2.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAL1 PE=4 SV=2
+tr|H9EMX2|H9EMX2_MACMU         -          Nup35_RRM            PF05172.10     0.031   15.5   0.1       1.1   10.5   0.1   2.7   1   1   0   1   1   1   0 Nucleolysin TIAR isoform 1 OS=Macaca mulatta OX=9544 GN=TIAL1 PE=2 SV=1
+tr|F7A5K0|F7A5K0_MACMU         -          Nup35_RRM            PF05172.10     0.038   15.2   0.1      0.68   11.2   0.1   2.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIA1 PE=4 SV=2
+tr|F6TA00|F6TA00_MACMU         -          Nup35_RRM            PF05172.10     0.041   15.1   0.2      0.74   11.1   0.1   2.7   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIA1 PE=4 SV=2
+tr|A0A1D5R335|A0A1D5R335_MACMU -          Nup35_RRM            PF05172.10     0.047   14.9   0.1      0.84   10.9   0.1   2.7   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIA1 PE=4 SV=1
+tr|F7A9A7|F7A9A7_MACMU         -          Nup35_RRM            PF05172.10     0.084   14.1   0.0       1.9    9.8   0.0   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F6ZN62|F6ZN62_MACMU         -          Nup35_RRM            PF05172.10      0.31   12.3   0.0       7.4    7.9   0.0   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:59 2022
+# [ok]

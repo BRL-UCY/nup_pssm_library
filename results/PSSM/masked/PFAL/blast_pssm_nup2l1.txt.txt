@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|O15504|NUPL2_HUMAN Nucleoporin-like protein 2 OS=Homo sapiens GN=NUPL2 PE=1 SV=1
+# Database: DB_masked/PFAL_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+sp|O15504|NUPL2_HUMAN	tr|Q8IL08|Q8IL08_PLAF7	1.79e-08	55.1	200	367	1357	1556
+sp|O15504|NUPL2_HUMAN	tr|Q8I5U7|Q8I5U7_PLAF7	0.007	37.0	2	22	101	121
+sp|O15504|NUPL2_HUMAN	tr|Q8I3N4|Q8I3N4_PLAF7	0.12	33.1	2	22	396	416
+sp|O15504|NUPL2_HUMAN	tr|A0A144A1F0|A0A144A1F0_PLAF7	0.24	32.4	2	22	76	96
+sp|O15504|NUPL2_HUMAN	tr|C6KT67|C6KT67_PLAF7	0.28	32.0	12	23	555	566
+# BLAST processed 1 queries

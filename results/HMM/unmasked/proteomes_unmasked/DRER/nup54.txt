@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          Nup54                PF13874.3    1.4e-24   88.1   8.2   1.7e-24   87.9   8.2   1.0   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0R4IRV9|A0A0R4IRV9_DANRE -          Nup54                PF13874.3      0.023   16.1   1.6     0.039   15.4   1.6   1.3   1   0   0   1   1   1   0 Si:ch211-196c10.15 OS=Danio rerio OX=7955 GN=si:ch211-196c10.15 PE=4 SV=1
+tr|X1WC57|X1WC57_DANRE         -          Nup54                PF13874.3       0.04   15.4  13.8       5.3    8.5   6.6   3.6   1   1   2   3   3   3   0 Syntaxin 1A (brain) (Fragment) OS=Danio rerio OX=7955 GN=stx1a PE=3 SV=1
+tr|F1QDU1|F1QDU1_DANRE         -          Nup54                PF13874.3      0.072   14.5   8.7     0.081   14.4   7.6   1.6   2   0   0   2   2   2   0 Zmp:0000001103 OS=Danio rerio OX=7955 GN=zmp:0000001103 PE=4 SV=2
+tr|A0A0R4IBM4|A0A0R4IBM4_DANRE -          Nup54                PF13874.3       0.15   13.5  10.8       1.9    9.9   0.3   2.2   2   0   0   2   2   2   0 Si:ch73-345f18.3 OS=Danio rerio OX=7955 GN=si:ch73-345f18.3 PE=4 SV=1
+tr|F1R2Z5|F1R2Z5_DANRE         -          Nup54                PF13874.3       0.39   12.2   3.4      0.61   11.5   3.4   1.2   1   0   0   1   1   1   0 Si:ch73-343l4.2 (Fragment) OS=Danio rerio OX=7955 GN=si:ch73-343l4.2 PE=4 SV=1
+tr|A0A2R8RPV3|A0A2R8RPV3_DANRE -          Nup54                PF13874.3       0.76   11.2   6.9       1.7   10.1   6.9   1.5   1   0   0   1   1   1   0 Actin filament-associated protein 1 OS=Danio rerio OX=7955 GN=afap1 PE=4 SV=1
+tr|A0A2R8PW79|A0A2R8PW79_DANRE -          Nup54                PF13874.3       0.77   11.2   6.9       1.7   10.1   6.9   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=afap1 PE=4 SV=1
+tr|Q6NW89|Q6NW89_DANRE         -          Nup54                PF13874.3       0.81   11.1   8.4       1.2   10.6   8.4   1.2   1   0   0   1   1   1   0 Transcription factor mafG2 OS=Danio rerio OX=7955 GN=mafgb PE=2 SV=1
+tr|A0A2R8QKH8|A0A2R8QKH8_DANRE -          Nup54                PF13874.3       0.83   11.1   9.5       1.6   10.1   9.5   1.5   1   1   0   1   1   1   0 PRKG1_interact domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A2R8QH11|A0A2R8QH11_DANRE -          Nup54                PF13874.3        0.9   11.0   9.9        76    4.7   0.3   3.8   1   1   0   2   2   2   0 Syntaxin 1A (brain) OS=Danio rerio OX=7955 GN=stx1a PE=3 SV=1
+tr|A0A0R4IXG8|A0A0R4IXG8_DANRE -          Nup54                PF13874.3        1.3   10.5   6.4       1.2   10.6   4.1   2.1   1   1   1   2   2   2   0 Syntaxin 3A OS=Danio rerio OX=7955 GN=stx3a PE=3 SV=1
+tr|Q6PHV0|Q6PHV0_DANRE         -          Nup54                PF13874.3        1.3   10.4   6.6       1.3   10.5   4.2   2.2   1   1   0   2   2   2   0 Syntaxin 3A OS=Danio rerio OX=7955 GN=stx3a PE=2 SV=1
+tr|A0A2R8QFW8|A0A2R8QFW8_DANRE -          Nup54                PF13874.3        1.5   10.2   6.6       1.3   10.5   4.5   2.0   1   1   1   2   2   2   0 Syntaxin 3A OS=Danio rerio OX=7955 GN=stx3a PE=3 SV=1
+tr|Q6I6N2|Q6I6N2_DANRE         -          Nup54                PF13874.3        1.8   10.0   7.9       2.7    9.4   7.9   1.3   1   0   0   1   1   1   0 Transcription factor mafG1 OS=Danio rerio OX=7955 GN=mafga PE=2 SV=1
+tr|Q8UVZ0|Q8UVZ0_DANRE         -          Nup54                PF13874.3        3.4    9.1  10.0      0.66   11.4   5.7   1.8   2   1   0   2   2   2   0 CCAAT/enhancer-binding protein OS=Danio rerio OX=7955 GN=cebpb PE=2 SV=1
+tr|Q6NW91|Q6NW91_DANRE         -          Nup54                PF13874.3          5    8.6   8.7        10    7.5   2.4   2.3   2   0   0   2   2   2   0 Neuronal pentraxin 1-like OS=Danio rerio OX=7955 GN=nptx1l PE=2 SV=1
+tr|F1Q6D7|F1Q6D7_DANRE         -          Nup54                PF13874.3          8    7.9  14.9      0.88   11.0   6.4   2.1   1   1   2   3   3   3   0 BRCA1-associated protein OS=Danio rerio OX=7955 GN=brap PE=1 SV=1
+tr|F1QYL5|F1QYL5_DANRE         -          Nup54                PF13874.3        8.9    7.8   8.5        27    6.2   8.0   2.1   1   1   1   2   2   2   0 Angiopoietin-like 3 OS=Danio rerio OX=7955 GN=angptl3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:31 2022
+# [ok]

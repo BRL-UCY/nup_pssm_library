@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9GYU8|NUP88_DROME Nuclear pore complex protein Nup88 OS=Drosophila melanogaster GN=mbo PE=1 SV=2
+# Database: DB_masked/MMUL_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+sp|Q9GYU8|NUP88_DROME	tr|F7BNM4|F7BNM4_MACMU	0.0	582	9	701	18	740
+sp|Q9GYU8|NUP88_DROME	tr|A0A1D5Q7V6|A0A1D5Q7V6_MACMU	2.52e-108	337	100	499	1	405
+sp|Q9GYU8|NUP88_DROME	tr|F7FL86|F7FL86_MACMU	0.67	34.1	487	607	1291	1415
+sp|Q9GYU8|NUP88_DROME	tr|A0A1D5Q9T0|A0A1D5Q9T0_MACMU	0.76	34.1	487	607	1291	1415
+sp|Q9GYU8|NUP88_DROME	tr|F6RRW5|F6RRW5_MACMU	3.2	30.2	10	83	55	130
+# BLAST processed 1 queries

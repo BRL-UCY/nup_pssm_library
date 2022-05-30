@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          Nucleoporin_C        PF03177.11   8.1e-05   22.7   0.1   8.1e-05   22.7   0.1   2.7   3   1   0   3   3   3   1 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+sp|F4IGA5|NU133_ARATH          -          Nucleoporin_C        PF03177.11   0.00011   22.2   0.1   0.00011   22.2   0.1   2.4   3   1   0   3   3   3   1 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+sp|F4HXV6|NU155_ARATH          -          Nucleoporin_C        PF03177.11     0.005   16.8   0.2      0.85    9.4   0.0   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein NUP155 OS=Arabidopsis thaliana OX=3702 GN=NUP155 PE=1 SV=1
+tr|B3H4A1|B3H4A1_ARATH         -          Nucleoporin_C        PF03177.11         1    9.2   0.1       1.4    8.7   0.1   1.2   1   0   0   1   1   1   0 Mitochondrial inner membrane translocase complex, subunit Tim44-related protein OS=Arabidopsis thaliana OX=3702 GN=At5g27395 PE=4 SV=1
+tr|Q8GXP7|Q8GXP7_ARATH         -          Nucleoporin_C        PF03177.11       1.1    9.0   0.1       1.5    8.6   0.1   1.2   1   0   0   1   1   1   0 Mitochondrial inner membrane translocase complex, subunit Tim44-related protein OS=Arabidopsis thaliana OX=3702 GN=At5g27390/F21A20_100 PE=2 SV=1
+tr|F4ID86|F4ID86_ARATH         -          Nucleoporin_C        PF03177.11       5.3    6.8   0.5       7.5    6.3   0.5   1.1   1   0   0   1   1   1   0 RING-type E3 ubiquitin transferase OS=Arabidopsis thaliana OX=3702 GN=CMPG1 PE=4 SV=1
+sp|Q9C8D1|PUB20_ARATH          -          Nucleoporin_C        PF03177.11       5.6    6.7   0.5       8.1    6.2   0.5   1.1   1   0   0   1   1   1   0 U-box domain-containing protein 20 OS=Arabidopsis thaliana OX=3702 GN=PUB20 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:33:54 2022
+# [ok]

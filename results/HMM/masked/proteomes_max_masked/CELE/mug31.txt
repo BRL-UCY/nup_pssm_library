@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8I7G0|Q8I7G0_CAEEL         -          NPCC                 PF08058.8        1.2    9.8   0.1       1.5    9.4   0.1   1.2   1   0   0   1   1   1   0 Protein SYS1 homolog OS=Caenorhabditis elegans OX=6239 GN=CELE_T03F1.12 PE=1 SV=1
+tr|Q60F72|Q60F72_CAEEL         -          NPCC                 PF08058.8        2.1    9.0   0.5       4.7    7.8   0.5   1.5   1   0   0   1   1   1   0 Serpentine receptor class gamma OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.38 PE=3 SV=2
+tr|A0A0B7H0Y9|A0A0B7H0Y9_CAEEL -          NPCC                 PF08058.8        2.6    8.7   1.5       4.3    8.0   1.2   1.7   1   1   0   1   1   1   0 Serpentine Receptor, class E (Epsilon) OS=Caenorhabditis elegans OX=6239 GN=sre-10 PE=4 SV=1
+tr|O44823|O44823_CAEEL         -          NPCC                 PF08058.8        3.7    8.2   0.0        11    6.7   0.0   1.7   2   0   0   2   2   2   0 MULE domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F52C6.14 PE=4 SV=1
+tr|Q17912|Q17912_CAEEL         -          NPCC                 PF08058.8        4.4    8.0   0.1        11    6.7   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C11H1.2 PE=4 SV=2
+tr|Q965V4|Q965V4_CAEEL         -          NPCC                 PF08058.8        4.8    7.8   0.0   1.5e+02    3.0   0.0   2.6   2   0   0   2   2   2   0 EXPOrtin (Nuclear export receptor) OS=Caenorhabditis elegans OX=6239 GN=xpo-2 PE=1 SV=1
+tr|O16574|O16574_CAEEL         -          NPCC                 PF08058.8        7.8    7.1   0.0        16    6.1   0.0   1.5   1   0   0   1   1   1   0 WHiTe (Drosophila) related ABC transporter OS=Caenorhabditis elegans OX=6239 GN=wht-4 PE=4 SV=3
+tr|Q9U1S3|Q9U1S3_CAEEL         -          NPCC                 PF08058.8        8.1    7.1   0.0        16    6.1   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y75B8A.16 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:26 2022
+# [ok]

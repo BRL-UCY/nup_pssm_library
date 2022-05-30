@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8Q7N6|A0A2R8Q7N6_DANRE -          Nup35_RRM            PF05172.10   6.4e-23   82.0   0.0     1e-22   81.3   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+sp|Q6P6X9|NUP35_DANRE          -          Nup35_RRM            PF05172.10   6.8e-23   81.9   0.0   1.1e-22   81.3   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z3|B0R0Z3_DANRE         -          Nup35_RRM            PF05172.10   1.5e-18   68.0   0.1   2.3e-18   67.4   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z4|B0R0Z4_DANRE         -          Nup35_RRM            PF05172.10   5.7e-15   56.5   0.0   4.4e-09   37.5   0.0   2.2   1   1   1   2   2   2   2 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|A0A0R4IYE4|A0A0R4IYE4_DANRE -          Nup35_RRM            PF05172.10    0.0038   18.5   0.0       5.6    8.3   0.1   2.8   2   1   0   2   2   2   2 RNA-binding motif protein 26 OS=Danio rerio OX=7955 GN=rbm26 PE=1 SV=1
+tr|Q7SXQ1|Q7SXQ1_DANRE         -          Nup35_RRM            PF05172.10    0.0059   17.9   0.2      0.43   11.9   0.0   2.9   3   1   0   3   3   3   1 TIA1 cytotoxic granule-associated RNA-binding protein-like 1 OS=Danio rerio OX=7955 GN=tial1 PE=1 SV=1
+tr|E9QJJ0|E9QJJ0_DANRE         -          Nup35_RRM            PF05172.10    0.0069   17.7   0.1      0.47   11.8   0.0   2.9   3   1   0   3   3   3   1 TIA1 cytotoxic granule-associated RNA-binding protein-like 1 (Fragment) OS=Danio rerio OX=7955 GN=tial1 PE=1 SV=1
+tr|E9QEY1|E9QEY1_DANRE         -          Nup35_RRM            PF05172.10     0.014   16.6   0.0     0.042   15.1   0.0   1.7   1   1   0   1   1   1   0 TIA1 cytotoxic granule-associated RNA-binding protein-like 1 (Fragment) OS=Danio rerio OX=7955 GN=tial1 PE=1 SV=1
+tr|F8W2E8|F8W2E8_DANRE         -          Nup35_RRM            PF05172.10      0.16   13.3   1.8        22    6.4   0.3   3.1   2   2   0   2   2   2   0 RNA-binding motif protein 27 OS=Danio rerio OX=7955 GN=rbm27 PE=1 SV=1
+tr|A0A2R8RV99|A0A2R8RV99_DANRE -          Nup35_RRM            PF05172.10      0.19   13.1   0.0       0.3   12.4   0.0   1.3   1   0   0   1   1   1   0 USP domain-containing protein OS=Danio rerio OX=7955 PE=3 SV=1
+tr|A0A2R8QPL1|A0A2R8QPL1_DANRE -          Nup35_RRM            PF05172.10      0.22   12.9   0.1       2.5    9.4   0.1   2.4   1   1   0   1   1   1   0 TIA1 cytotoxic granule-associated RNA-binding protein OS=Danio rerio OX=7955 GN=tia1 PE=1 SV=1
+tr|Q7ZVY0|Q7ZVY0_DANRE         -          Nup35_RRM            PF05172.10      0.22   12.9   0.1       2.5    9.4   0.1   2.4   1   1   0   1   1   1   0 Cytotoxic granule-associated RNA binding protein 1 OS=Danio rerio OX=7955 GN=tia1 PE=1 SV=1
+tr|F1RA36|F1RA36_DANRE         -          Nup35_RRM            PF05172.10       0.3   12.4   0.0      0.65   11.3   0.0   1.5   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit B (Fragment) OS=Danio rerio OX=7955 GN=eif3bb PE=1 SV=1
+tr|F1QX66|F1QX66_DANRE         -          Nup35_RRM            PF05172.10      0.31   12.4   0.0      0.67   11.3   0.0   1.5   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit B OS=Danio rerio OX=7955 GN=eif3bb PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:45 2022
+# [ok]

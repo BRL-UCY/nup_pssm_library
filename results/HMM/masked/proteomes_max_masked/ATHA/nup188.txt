@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4JUG3|F4JUG3_ARATH         -          Nup188               PF10487.6    2.4e-21   76.6   4.2   3.7e-21   76.0   4.2   1.2   1   0   0   1   1   1   1 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          Nup188               PF10487.6    0.00018   20.7   0.2    0.0056   15.8   0.1   2.1   2   0   0   2   2   2   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          Nup188               PF10487.6     0.0002   20.6   0.1    0.0062   15.7   0.1   2.1   2   0   0   2   2   2   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          Nup188               PF10487.6      0.026   13.6   0.0       2.3    7.1   0.0   2.8   2   1   0   2   2   2   0 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          Nup188               PF10487.6      0.026   13.6   0.0       2.3    7.1   0.0   2.8   2   1   0   2   2   2   0 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|Q9SK36|Q9SK36_ARATH         -          Nup188               PF10487.6        4.1    6.3   0.4       4.5    6.2   0.4   1.0   1   0   0   1   1   1   0 At2g24970 OS=Arabidopsis thaliana OX=3702 GN=At2g24970 PE=2 SV=1
+sp|Q8W4L0|CML49_ARATH          -          Nup188               PF10487.6        5.7    5.8   0.0       6.9    5.6   0.0   1.0   1   0   0   1   1   1   0 Probable calcium-binding protein CML49 OS=Arabidopsis thaliana OX=3702 GN=CML49 PE=2 SV=1
+tr|A0A1P8BEH4|A0A1P8BEH4_ARATH -          Nup188               PF10487.6        6.2    5.7   0.2       8.6    5.3   0.2   1.2   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g49390 PE=4 SV=1
+tr|A0A1I9LQM2|A0A1I9LQM2_ARATH -          Nup188               PF10487.6        7.5    5.4   1.2       8.4    5.3   1.2   1.0   1   0   0   1   1   1   0 PPR containing protein (Fragment) OS=Arabidopsis thaliana OX=3702 GN=At3g58585 PE=4 SV=1
+tr|A0A1P8B5T7|A0A1P8B5T7_ARATH -          Nup188               PF10487.6        8.6    5.3   0.0       9.1    5.2   0.0   1.0   1   0   0   1   1   1   0 TBP-associated factor 8 OS=Arabidopsis thaliana OX=3702 GN=TAF8 PE=4 SV=1
+tr|A0A1I9LRS6|A0A1I9LRS6_ARATH -          Nup188               PF10487.6        9.1    5.2   0.0        11    4.8   0.0   1.0   1   0   0   1   1   1   0 Calcium-binding EF-hand family protein OS=Arabidopsis thaliana OX=3702 GN=At3g10300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:34:29 2022
+# [ok]

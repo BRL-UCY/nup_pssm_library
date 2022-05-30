@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q02455|MLP1_YEAST  -          TPR_MLP1_2           PF07926.9    4.4e-23   80.2   4.9   4.4e-23   80.2   4.9   5.2   4   0   0   4   4   4   1 Protein MLP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLP1 PE=1 SV=2
+sp|P43545|SNZ3_YEAST  -          TPR_MLP1_2           PF07926.9       0.95    8.0   0.1       1.5    7.4   0.1   1.2   1   0   0   1   1   1   0 Probable pyridoxal 5'-phosphate synthase subunit SNZ3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SNZ3 PE=2 SV=1
+sp|P50090|KEL2_YEAST  -          TPR_MLP1_2           PF07926.9       0.96    8.0   7.2      0.22   10.0   0.6   2.4   1   1   1   2   2   2   0 Kelch repeat-containing protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KEL2 PE=1 SV=1
+sp|P53824|SNZ2_YEAST  -          TPR_MLP1_2           PF07926.9       0.96    8.0   0.1       1.5    7.4   0.1   1.2   1   0   0   1   1   1   0 Probable pyridoxal 5'-phosphate synthase subunit SNZ2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SNZ2 PE=1 SV=1
+sp|Q00402|NUM1_YEAST  -          TPR_MLP1_2           PF07926.9          2    7.0   0.7         7    5.2   0.6   2.0   2   0   0   2   2   2   0 Nuclear migration protein NUM1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUM1 PE=1 SV=2
+sp|O13539|THP2_YEAST  -          TPR_MLP1_2           PF07926.9        6.2    5.4   2.6        20    3.7   0.5   2.6   2   1   0   2   2   2   0 THO complex subunit THP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=THP2 PE=1 SV=1
+sp|P33297|PRS6A_YEAST -          TPR_MLP1_2           PF07926.9        6.8    5.2   1.9        13    4.3   1.9   1.4   1   0   0   1   1   1   0 26S proteasome regulatory subunit 6A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPT5 PE=1 SV=3
+sp|P27895|CIN8_YEAST  -          TPR_MLP1_2           PF07926.9        6.9    5.2   1.2        20    3.7   0.1   2.0   1   1   0   1   1   1   0 Kinesin-like protein CIN8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CIN8 PE=1 SV=3
+sp|P53633|PRA1_YEAST  -          TPR_MLP1_2           PF07926.9        7.6    5.1   0.2        10    4.6   0.2   1.1   1   0   0   1   1   1   0 Prenylated Rab acceptor 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YIP3 PE=1 SV=2
+sp|P40215|NDH1_YEAST  -          TPR_MLP1_2           PF07926.9        8.3    5.0   0.1        17    3.9   0.1   1.5   1   0   0   1   1   1   0 External NADH-ubiquinone oxidoreductase 1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NDE1 PE=1 SV=1
+sp|P36131|SPC34_YEAST -          TPR_MLP1_2           PF07926.9        8.5    4.9   0.1        14    4.2   0.1   1.4   1   0   0   1   1   1   0 DASH complex subunit SPC34 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPC34 PE=1 SV=1
+sp|P36022|DYHC_YEAST  -          TPR_MLP1_2           PF07926.9        9.8    4.7   6.8        60    2.2   0.0   3.7   3   0   0   3   3   3   0 Dynein heavy chain, cytoplasmic OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DYN1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/mtor.txt --max --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:34:48 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HI99|F7HI99_MACMU         -          IR1-M                PF12185.5    4.9e-29  101.3   0.2   1.8e-14   54.7   0.0   2.5   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F6TI22|F6TI22_MACMU         -          IR1-M                PF12185.5        5.2    8.4   0.1        10    7.4   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VTA1 PE=4 SV=2
+tr|A0A1D5Q8N6|A0A1D5Q8N6_MACMU -          IR1-M                PF12185.5        5.3    8.4   0.1        10    7.4   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VTA1 PE=4 SV=1
+tr|F6TI07|F6TI07_MACMU         -          IR1-M                PF12185.5          6    8.2   0.0        13    7.1   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VTA1 PE=4 SV=2
+tr|A0A1D5R6T2|A0A1D5R6T2_MACMU -          IR1-M                PF12185.5        6.5    8.1   0.0        14    7.0   0.0   1.5   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein VTA1 homolog OS=Macaca mulatta OX=9544 GN=VTA1 PE=2 SV=1
+tr|F6X6J5|F6X6J5_MACMU         -          IR1-M                PF12185.5        9.6    7.5   0.0        26    6.1   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BIN1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:23:08 2022
+# [ok]

@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q803C2|Q803C2_DANRE         -          UPF0121              PF03661.10   7.8e-96  321.4  15.7   8.8e-96  321.2  15.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Danio rerio OX=7955 GN=tmem33 PE=1 SV=1
+tr|A0A0R4INK7|A0A0R4INK7_DANRE -          UPF0121              PF03661.10       0.1   13.2   0.4      0.13   13.0   0.4   1.1   1   0   0   1   1   1   0 Si:ch211-11c3.12 OS=Danio rerio OX=7955 GN=si:ch211-11c3.12 PE=4 SV=1
+tr|B8A4M2|B8A4M2_DANRE         -          UPF0121              PF03661.10      0.26   12.0   0.1      0.37   11.4   0.1   1.2   1   0   0   1   1   1   0 Transmembrane protein 234 OS=Danio rerio OX=7955 GN=tmem234 PE=4 SV=1
+tr|B8A4M3|B8A4M3_DANRE         -          UPF0121              PF03661.10      0.27   11.9   0.1      0.37   11.4   0.1   1.2   1   0   0   1   1   1   0 Transmembrane protein 234 OS=Danio rerio OX=7955 GN=tmem234 PE=4 SV=1
+tr|E7F3R9|E7F3R9_DANRE         -          UPF0121              PF03661.10       1.3    9.7   4.0       3.7    8.2   4.0   1.8   1   0   0   1   1   1   0 Solute carrier family 13 member 5b OS=Danio rerio OX=7955 GN=slc13a5b PE=4 SV=3
+tr|E7FGJ8|E7FGJ8_DANRE         -          UPF0121              PF03661.10       2.3    8.8   0.8        30    5.2   0.0   2.4   2   0   0   2   2   2   0 Glycerophosphodiester phosphodiesterase domain-containing 5a OS=Danio rerio OX=7955 GN=gdpd5a PE=4 SV=2
+tr|X1WE78|X1WE78_DANRE         -          UPF0121              PF03661.10       3.1    8.4   5.4       8.9    6.9   5.4   1.8   1   0   0   1   1   1   0 Solute carrier family 13 member 5b OS=Danio rerio OX=7955 GN=slc13a5b PE=4 SV=1
+sp|Q7T047|CX32_DANRE           -          UPF0121              PF03661.10       3.2    8.4   0.3       7.1    7.2   0.3   1.5   1   0   0   1   1   1   0 Gap junction Cx32.2 protein OS=Danio rerio OX=7955 GN=cx32.2 PE=2 SV=4
+tr|A0A2R8RPJ2|A0A2R8RPJ2_DANRE -          UPF0121              PF03661.10       3.4    8.3   0.0       6.6    7.3   0.0   1.4   1   0   0   1   1   1   0 Polycomb protein suz12-B OS=Danio rerio OX=7955 GN=suz12b PE=1 SV=1
+tr|U3JB08|U3JB08_DANRE         -          UPF0121              PF03661.10       3.5    8.2   0.0       8.8    6.9   0.0   1.6   1   0   0   1   1   1   0 Si:ch211-277e21.2 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-277e21.2 PE=4 SV=1
+tr|A0A2R8QH32|A0A2R8QH32_DANRE -          UPF0121              PF03661.10       3.7    8.2   0.0       6.6    7.3   0.0   1.3   1   0   0   1   1   1   0 Polycomb protein suz12-B OS=Danio rerio OX=7955 GN=suz12b PE=1 SV=1
+tr|A0A2R8Q3A6|A0A2R8Q3A6_DANRE -          UPF0121              PF03661.10       3.9    8.1   0.1       4.5    7.9   0.1   1.0   1   0   0   1   1   1   0 Vacuolar ATPase assembly integral membrane protein VMA21 OS=Danio rerio OX=7955 GN=vma21 PE=3 SV=1
+tr|A0A2R8QL90|A0A2R8QL90_DANRE -          UPF0121              PF03661.10       4.2    8.0   0.0       4.8    7.8   0.0   1.1   1   0   0   1   1   1   0 Interleukin 15 receptor subunit alpha OS=Danio rerio OX=7955 GN=il15ra PE=4 SV=1
+sp|B0R1D5|SZ12B_DANRE          -          UPF0121              PF03661.10       4.3    8.0   0.0       6.9    7.3   0.0   1.2   1   0   0   1   1   1   0 Polycomb protein suz12-B OS=Danio rerio OX=7955 GN=suz12b PE=2 SV=1
+tr|E7F3A3|E7F3A3_DANRE         -          UPF0121              PF03661.10       4.6    7.8   0.1       7.5    7.2   0.1   1.4   1   0   0   1   1   1   0 Anoctamin OS=Danio rerio OX=7955 GN=ano2a PE=3 SV=3
+tr|D0MQ51|D0MQ51_DANRE         -          UPF0121              PF03661.10       4.7    7.8   0.0        12    6.5   0.0   1.7   1   0   0   1   1   1   0 Endothelin receptor type A OS=Danio rerio OX=7955 GN=ednraa PE=2 SV=1
+tr|B3DLG5|B3DLG5_DANRE         -          UPF0121              PF03661.10       4.8    7.8   0.0        13    6.4   0.0   1.7   1   0   0   1   1   1   0 Endothelin receptor type A OS=Danio rerio OX=7955 GN=ednraa PE=2 SV=1
+tr|E7F3T7|E7F3T7_DANRE         -          UPF0121              PF03661.10       5.3    7.7   0.0       7.9    7.1   0.0   1.2   1   0   0   1   1   1   0 G protein-coupled receptor kinase OS=Danio rerio OX=7955 GN=grk6 PE=1 SV=1
+tr|A0A140LG58|A0A140LG58_DANRE -          UPF0121              PF03661.10       5.4    7.6   0.4       7.1    7.2   0.4   1.2   1   1   0   1   1   1   0 Small integral membrane protein 7 OS=Danio rerio OX=7955 GN=smim7 PE=4 SV=1
+tr|A2CEI8|A2CEI8_DANRE         -          UPF0121              PF03661.10       5.5    7.6   1.7       7.6    7.1   1.2   1.4   1   1   0   1   1   1   0 5-hydroxytryptamine (serotonin) receptor 7c (Fragment) OS=Danio rerio OX=7955 GN=htr7c PE=4 SV=2
+tr|F1R6U6|F1R6U6_DANRE         -          UPF0121              PF03661.10       6.2    7.4   0.1        14    6.2   0.1   1.6   1   0   0   1   1   1   0 Anoctamin (Fragment) OS=Danio rerio OX=7955 GN=ano2a PE=3 SV=1
+tr|X1WBQ6|X1WBQ6_DANRE         -          UPF0121              PF03661.10       7.7    7.1   5.3       1.7    9.3   0.2   2.0   1   1   1   2   2   2   0 Adenosine A4 receptor a OS=Danio rerio OX=7955 GN=adora4a PE=3 SV=1
+tr|A0A0J9YJK9|A0A0J9YJK9_DANRE -          UPF0121              PF03661.10         9    6.9   0.0        16    6.0   0.0   1.4   1   1   0   1   1   1   0 Sushi domain-containing 1 (Fragment) OS=Danio rerio OX=7955 GN=susd1 PE=4 SV=3
+tr|F1QPR0|F1QPR0_DANRE         -          UPF0121              PF03661.10         9    6.9   4.7       2.5    8.7   1.1   1.9   1   1   1   2   2   2   0 Adenosine A4 receptor a OS=Danio rerio OX=7955 GN=adora4a PE=3 SV=2
+tr|U3JAG6|U3JAG6_DANRE         -          UPF0121              PF03661.10       9.9    6.8   0.0        18    5.9   0.0   1.3   1   0   0   1   1   1   0 Guanylate cyclase OS=Danio rerio OX=7955 GN=si:ch73-139e5.4 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 02:22:28 2022
+# [ok]

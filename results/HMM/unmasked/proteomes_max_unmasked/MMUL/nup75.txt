@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RJP4|A0A1D5RJP4_MACMU -          Nucleopor_Nup85      PF07575.10  2.7e-177  592.2   8.3    3e-177  592.0   8.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|H9FZZ2|H9FZZ2_MACMU         -          Nucleopor_Nup85      PF07575.10  2.8e-177  592.1   8.3  3.2e-177  591.9   8.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=2 SV=1
+tr|F7DH68|F7DH68_MACMU         -          Nucleopor_Nup85      PF07575.10  8.8e-162  540.9  11.4  2.8e-160  536.0  11.4   2.0   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=2
+tr|A0A1D5RC65|A0A1D5RC65_MACMU -          Nucleopor_Nup85      PF07575.10  3.1e-158  529.2  10.8  1.7e-126  424.5   9.9   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|A0A1D5R0I2|A0A1D5R0I2_MACMU -          Nucleopor_Nup85      PF07575.10   5.5e-29  102.5   0.9   6.3e-29  102.3   0.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|F6U0X1|F6U0X1_MACMU         -          Nucleopor_Nup85      PF07575.10     0.014   15.4   8.0     0.047   13.6   1.7   3.3   3   1   1   4   4   4   0 Clathrin heavy chain linker domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=CLHC1 PE=4 SV=2
+tr|F7BZK1|F7BZK1_MACMU         -          Nucleopor_Nup85      PF07575.10      0.03   14.2   1.1      0.03   14.2   1.1   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PIK3R1 PE=4 SV=2
+tr|F7AE55|F7AE55_MACMU         -          Nucleopor_Nup85      PF07575.10     0.056   13.3   0.2     0.064   13.1   0.2   1.1   1   0   0   1   1   1   0 SCAN box domain-containing protein OS=Macaca mulatta OX=9544 GN=ZSCAN30 PE=4 SV=2
+tr|A0A1D5RBE7|A0A1D5RBE7_MACMU -          Nucleopor_Nup85      PF07575.10      0.29   11.0   0.6      0.42   10.5   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZSCAN30 PE=4 SV=1
+tr|F6WS99|F6WS99_MACMU         -          Nucleopor_Nup85      PF07575.10       1.1    9.0   0.4       2.1    8.1   0.4   1.4   1   0   0   1   1   1   0 Sec16_C domain-containing protein OS=Macaca mulatta OX=9544 GN=SEC31A PE=4 SV=1
+tr|F6TGH7|F6TGH7_MACMU         -          Nucleopor_Nup85      PF07575.10       1.6    8.5   0.4       2.9    7.7   0.4   1.3   1   0   0   1   1   1   0 Protein transport protein Sec31A isoform 1 OS=Macaca mulatta OX=9544 GN=SEC31A PE=2 SV=2
+tr|F6WSK8|F6WSK8_MACMU         -          Nucleopor_Nup85      PF07575.10       1.6    8.5   0.4       2.9    7.7   0.4   1.3   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=SEC31A PE=4 SV=1
+tr|F7DMN9|F7DMN9_MACMU         -          Nucleopor_Nup85      PF07575.10       2.2    8.1   0.8       3.8    7.3   0.1   1.7   2   0   0   2   2   2   0 J domain-containing protein OS=Macaca mulatta OX=9544 GN=DNAJC28 PE=4 SV=1
+tr|F7ERH2|F7ERH2_MACMU         -          Nucleopor_Nup85      PF07575.10       2.3    8.0   0.4       2.8    7.7   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=COMMD9 PE=4 SV=2
+tr|F6PUD9|F6PUD9_MACMU         -          Nucleopor_Nup85      PF07575.10       2.4    7.9   0.0       5.1    6.9   0.0   1.6   1   0   0   1   1   1   0 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=1
+tr|A0A1D5QYI2|A0A1D5QYI2_MACMU -          Nucleopor_Nup85      PF07575.10       2.5    7.9   0.4       3.3    7.5   0.4   1.2   1   0   0   1   1   1   0 COMM domain-containing protein 9 OS=Macaca mulatta OX=9544 GN=COMMD9 PE=2 SV=1
+tr|F7AS82|F7AS82_MACMU         -          Nucleopor_Nup85      PF07575.10       3.1    7.6   0.1       6.7    6.5   0.1   1.6   1   0   0   1   1   1   0 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=2
+tr|A0A1D5QL49|A0A1D5QL49_MACMU -          Nucleopor_Nup85      PF07575.10       3.5    7.4   0.3       4.5    7.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100423924 PE=4 SV=1
+tr|A0A1D5R731|A0A1D5R731_MACMU -          Nucleopor_Nup85      PF07575.10       3.6    7.4   0.3       4.2    7.2   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100423924 PE=4 SV=1
+tr|F7EGB2|F7EGB2_MACMU         -          Nucleopor_Nup85      PF07575.10       3.7    7.3   1.0       4.6    7.0   0.2   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZKSCAN3 PE=4 SV=1
+tr|F7AS65|F7AS65_MACMU         -          Nucleopor_Nup85      PF07575.10       3.7    7.3   0.0         8    6.2   0.0   1.6   1   0   0   1   1   1   0 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=2 SV=2
+tr|F7C9L6|F7C9L6_MACMU         -          Nucleopor_Nup85      PF07575.10       4.2    7.2   0.6        11    5.8   0.1   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SYCP2L PE=4 SV=2
+tr|A0A1D5RKR3|A0A1D5RKR3_MACMU -          Nucleopor_Nup85      PF07575.10       5.2    6.8   0.4        11    5.8   0.4   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MROH7 PE=4 SV=1
+tr|F6ZUF0|F6ZUF0_MACMU         -          Nucleopor_Nup85      PF07575.10       5.3    6.8   0.3       6.9    6.5   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100423924 PE=4 SV=2
+tr|A0A1D5R4L3|A0A1D5R4L3_MACMU -          Nucleopor_Nup85      PF07575.10       5.5    6.8   0.1        95    2.7   0.0   2.1   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 41 homolog OS=Macaca mulatta OX=9544 GN=VPS41 PE=3 SV=1
+tr|F6R657|F6R657_MACMU         -          Nucleopor_Nup85      PF07575.10       5.7    6.7   0.0        11    5.8   0.0   1.4   1   0   0   1   1   1   0 Integrator complex subunit 4 OS=Macaca mulatta OX=9544 GN=INTS4 PE=2 SV=1
+tr|G7MLG3|G7MLG3_MACMU         -          Nucleopor_Nup85      PF07575.10         6    6.6   0.1        99    2.6   0.0   2.1   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 41 homolog OS=Macaca mulatta OX=9544 GN=VPS41 PE=2 SV=1
+tr|F6TFN8|F6TFN8_MACMU         -          Nucleopor_Nup85      PF07575.10         6    6.6   0.1        99    2.6   0.0   2.1   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 41 homolog OS=Macaca mulatta OX=9544 GN=VPS41 PE=3 SV=2
+tr|A0A1D5QVG9|A0A1D5QVG9_MACMU -          Nucleopor_Nup85      PF07575.10       6.3    6.6   0.2       6.6    6.5   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HAUS2 PE=4 SV=1
+tr|A0A1D5QHR8|A0A1D5QHR8_MACMU -          Nucleopor_Nup85      PF07575.10       6.4    6.5   0.1        13    5.5   0.0   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LMBRD2 PE=4 SV=1
+tr|F6Z4L8|F6Z4L8_MACMU         -          Nucleopor_Nup85      PF07575.10       6.5    6.5   3.0       7.7    6.3   3.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZWINT PE=4 SV=2
+tr|F6VVU8|F6VVU8_MACMU         -          Nucleopor_Nup85      PF07575.10       6.7    6.5   0.1        14    5.5   0.0   1.5   2   0   0   2   2   2   0 LMBR1 domain-containing protein 2 OS=Macaca mulatta OX=9544 GN=LMBRD2 PE=2 SV=1
+tr|F7E9R0|F7E9R0_MACMU         -          Nucleopor_Nup85      PF07575.10       7.3    6.4   0.5        14    5.4   0.5   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MROH7 PE=4 SV=2
+tr|A0A1D5QJ16|A0A1D5QJ16_MACMU -          Nucleopor_Nup85      PF07575.10       7.3    6.4   0.0   1.5e+02    2.1   0.0   2.1   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 41 homolog OS=Macaca mulatta OX=9544 GN=VPS41 PE=3 SV=1
+tr|A0A1D5QIJ5|A0A1D5QIJ5_MACMU -          Nucleopor_Nup85      PF07575.10       7.9    6.3   0.2       9.9    5.9   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VEPH1 PE=4 SV=1
+tr|A0A1D5RA43|A0A1D5RA43_MACMU -          Nucleopor_Nup85      PF07575.10       8.1    6.2   0.2        11    5.8   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VEPH1 PE=4 SV=1
+tr|F7AVV4|F7AVV4_MACMU         -          Nucleopor_Nup85      PF07575.10       8.3    6.2   0.0        10    5.9   0.0   1.1   1   0   0   1   1   1   0 RING finger protein 141 OS=Macaca mulatta OX=9544 GN=RNF141 PE=2 SV=1
+tr|A0A1D5R3T5|A0A1D5R3T5_MACMU -          Nucleopor_Nup85      PF07575.10       8.5    6.1   0.4        17    5.2   0.4   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MROH7 PE=4 SV=1
+tr|A0A1D5RGI1|A0A1D5RGI1_MACMU -          Nucleopor_Nup85      PF07575.10       8.5    6.1   0.0        15    5.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MTERF1 PE=4 SV=1
+tr|F6SAD6|F6SAD6_MACMU         -          Nucleopor_Nup85      PF07575.10       8.6    6.1   0.8        17    5.2   0.8   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC706715 PE=4 SV=2
+tr|A0A1D5QT47|A0A1D5QT47_MACMU -          Nucleopor_Nup85      PF07575.10       8.7    6.1   2.6        10    5.9   2.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SSNA1 PE=4 SV=1
+tr|A0A1D5RD78|A0A1D5RD78_MACMU -          Nucleopor_Nup85      PF07575.10       8.9    6.1   0.7        16    5.2   0.1   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ORC6 PE=4 SV=1
+tr|A0A1D5RC29|A0A1D5RC29_MACMU -          Nucleopor_Nup85      PF07575.10       8.9    6.1   0.2        12    5.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VEPH1 PE=4 SV=1
+tr|A0A1D5R1L5|A0A1D5R1L5_MACMU -          Nucleopor_Nup85      PF07575.10       9.2    6.0   0.2        16    5.3   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=STXBP2 PE=3 SV=1
+tr|A0A1D5RCV4|A0A1D5RCV4_MACMU -          Nucleopor_Nup85      PF07575.10       9.2    6.0   0.2        16    5.3   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=STXBP2 PE=3 SV=1
+tr|F7BZL6|F7BZL6_MACMU         -          Nucleopor_Nup85      PF07575.10       9.3    6.0  12.5     0.036   14.0   1.1   2.1   2   0   0   2   2   2   0 Phosphatidylinositol 3-kinase regulatory subunit alpha isoform 1 OS=Macaca mulatta OX=9544 GN=PIK3R1 PE=2 SV=1
+tr|A0A1D5R3L1|A0A1D5R3L1_MACMU -          Nucleopor_Nup85      PF07575.10       9.4    6.0   0.9        17    5.2   0.2   1.9   2   0   0   2   2   2   0 PH domain-containing protein OS=Macaca mulatta OX=9544 GN=SPTBN1 PE=4 SV=1
+tr|F6STF7|F6STF7_MACMU         -          Nucleopor_Nup85      PF07575.10       9.5    6.0   0.0        13    5.6   0.0   1.1   1   0   0   1   1   1   0 BTB domain-containing protein OS=Macaca mulatta OX=9544 GN=KLHL38 PE=4 SV=2
+tr|F6RXE6|F6RXE6_MACMU         -          Nucleopor_Nup85      PF07575.10       9.8    5.9   0.0        17    5.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MTERF1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 07:43:52 2022
+# [ok]

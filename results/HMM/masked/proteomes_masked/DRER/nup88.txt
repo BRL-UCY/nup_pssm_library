@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2CEI4|A2CEI4_DANRE         -          Nup88                PF10168.6   4.1e-255  849.4   0.0  4.7e-255  849.2   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+tr|A0A2R8QUY6|A0A2R8QUY6_DANRE -          Nup88                PF10168.6     9e-255  848.2   0.0    1e-254  848.1   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:44 2022
+# [ok]

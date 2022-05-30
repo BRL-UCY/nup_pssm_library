@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09372|NPP24_CAEEL          -          Nup88                PF10168.6    6.1e-05   21.6   0.2   0.00014   20.4   0.0   1.6   2   0   0   2   2   2   1 Protein npp-24 OS=Caenorhabditis elegans OX=6239 GN=npp-24 PE=4 SV=2
+sp|Q95XD3|BL1S2_CAEEL          -          Nup88                PF10168.6      0.019   13.4   1.2     0.021   13.2   1.2   1.0   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 2 OS=Caenorhabditis elegans OX=6239 GN=blos-2 PE=1 SV=1
+tr|A8WI01|A8WI01_CAEEL         -          Nup88                PF10168.6       0.13   10.7   0.2      0.18   10.2   0.2   1.1   1   0   0   1   1   1   0 Cyclic Nucleotide Gated channel OS=Caenorhabditis elegans OX=6239 GN=cng-1 PE=4 SV=1
+tr|V6CLS1|V6CLS1_CAEEL         -          Nup88                PF10168.6       0.38    9.1   0.6      0.41    9.0   0.6   1.0   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 2 OS=Caenorhabditis elegans OX=6239 GN=blos-2 PE=1 SV=1
+sp|Q9XW12|CIAO1_CAEEL          -          Nup88                PF10168.6       0.76    8.1   0.2        12    4.2   0.0   2.0   2   0   0   2   2   2   0 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Caenorhabditis elegans OX=6239 GN=Y18D10A.9 PE=1 SV=2
+tr|A0A2K5ATZ8|A0A2K5ATZ8_CAEEL -          Nup88                PF10168.6       0.81    8.0   0.5       1.1    7.6   0.5   1.0   1   0   0   1   1   1   0 Zinc finger protein B0310.2 OS=Caenorhabditis elegans OX=6239 GN=B0310.2 PE=4 SV=1
+tr|M1ZJ43|M1ZJ43_CAEEL         -          Nup88                PF10168.6        4.7    5.5   0.1       5.2    5.3   0.1   1.0   1   0   0   1   1   1   0 ACB domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y41E3.7 PE=1 SV=1
+sp|Q10931|ATG12_CAEEL          -          Nup88                PF10168.6        5.4    5.3   0.0       5.7    5.2   0.0   1.0   1   0   0   1   1   1   0 Ubiquitin-like protein atg-12 OS=Caenorhabditis elegans OX=6239 GN=lgg-3 PE=1 SV=1
+tr|B5BM28|B5BM28_CAEEL         -          Nup88                PF10168.6        8.3    4.7   0.0        13    4.1   0.0   1.1   1   0   0   1   1   1   0 Receptor protein-tyrosine kinase OS=Caenorhabditis elegans OX=6239 GN=let-23 PE=1 SV=1
+sp|Q09248|DCTN2_CAEEL          -          Nup88                PF10168.6        8.5    4.6   0.6        11    4.2   0.6   1.1   1   0   0   1   1   1   0 Probable dynactin subunit 2 OS=Caenorhabditis elegans OX=6239 GN=dnc-2 PE=1 SV=1
+sp|P24348|LET23_CAEEL          -          Nup88                PF10168.6        8.8    4.6   0.0        13    4.0   0.0   1.1   1   0   0   1   1   1   0 Receptor tyrosine-protein kinase let-23 OS=Caenorhabditis elegans OX=6239 GN=let-23 PE=1 SV=3
+tr|B5BM27|B5BM27_CAEEL         -          Nup88                PF10168.6        8.8    4.6   0.0        14    4.0   0.0   1.1   1   0   0   1   1   1   0 Receptor protein-tyrosine kinase OS=Caenorhabditis elegans OX=6239 GN=let-23 PE=1 SV=1
+sp|Q09474|T23O_CAEEL           -          Nup88                PF10168.6        8.8    4.6   0.1        12    4.2   0.1   1.1   1   0   0   1   1   1   0 Tryptophan 2,3-dioxygenase OS=Caenorhabditis elegans OX=6239 GN=tdo-2 PE=1 SV=1
+tr|A0A0K3AX35|A0A0K3AX35_CAEEL -          Nup88                PF10168.6        8.9    4.6   0.0        14    4.0   0.0   1.1   1   0   0   1   1   1   0 Receptor protein-tyrosine kinase OS=Caenorhabditis elegans OX=6239 GN=let-23 PE=1 SV=1
+sp|O44476|RNZ_CAEEL            -          Nup88                PF10168.6        9.7    4.5   0.0        14    4.0   0.0   1.1   1   0   0   1   1   1   0 Ribonuclease Z OS=Caenorhabditis elegans OX=6239 GN=hoe-1 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:00:01 2022
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09601|NUP35_CAEEL          -          Nup35_RRM            PF05172.10   3.2e-24   85.4   0.0   6.8e-24   84.3   0.0   1.6   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Caenorhabditis elegans OX=6239 GN=npp-19 PE=1 SV=2
+sp|Q09295|YQO4_CAEEL           -          Nup35_RRM            PF05172.10    0.0024   18.4   0.0    0.0041   17.6   0.0   1.4   1   0   0   1   1   1   1 Putative RNA-binding protein EEED8.4 OS=Caenorhabditis elegans OX=6239 GN=EEED8.4 PE=4 SV=2
+sp|Q09301|YQOC_CAEEL           -          Nup35_RRM            PF05172.10     0.003   18.1   0.0    0.0052   17.3   0.0   1.4   1   0   0   1   1   1   1 Putative RNA-binding protein EEED8.12 OS=Caenorhabditis elegans OX=6239 GN=EEED8.12 PE=4 SV=1
+tr|A0A2K5ATT0|A0A2K5ATT0_CAEEL -          Nup35_RRM            PF05172.10     0.027   15.0   0.0      0.52   10.9   0.0   2.6   2   1   0   2   2   2   0 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-26 PE=1 SV=1
+tr|A0A2K5ATS4|A0A2K5ATS4_CAEEL -          Nup35_RRM            PF05172.10     0.033   14.7   0.0      0.58   10.7   0.0   2.6   2   1   0   2   2   2   0 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-26 PE=1 SV=1
+tr|Q10954|Q10954_CAEEL         -          Nup35_RRM            PF05172.10     0.034   14.7   0.0      0.58   10.7   0.0   2.6   2   1   0   2   2   2   0 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-26 PE=1 SV=2
+tr|A0A2K5ATS7|A0A2K5ATS7_CAEEL -          Nup35_RRM            PF05172.10     0.034   14.7   0.0      0.58   10.7   0.0   2.6   2   1   0   2   2   2   0 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-26 PE=1 SV=1
+tr|Q93194|Q93194_CAEEL         -          Nup35_RRM            PF05172.10     0.087   13.4   5.8      0.41   11.2   5.8   2.0   1   1   0   1   1   1   0 TIA-1/TIAL RNA binding protein homolog OS=Caenorhabditis elegans OX=6239 GN=tiar-3 PE=4 SV=4
+tr|Q18318|Q18318_CAEEL         -          Nup35_RRM            PF05172.10      0.17   12.4   0.0      0.39   11.3   0.0   1.6   1   0   0   1   1   1   0 RBMX2 ortholog OS=Caenorhabditis elegans OX=6239 GN=rbmx-2 PE=1 SV=1
+tr|H2L051|H2L051_CAEEL         -          Nup35_RRM            PF05172.10      0.27   11.8   0.0      0.41   11.2   0.0   1.2   1   0   0   1   1   1   0 SUPpressor OS=Caenorhabditis elegans OX=6239 GN=sup-12 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:02 2022
+# [ok]

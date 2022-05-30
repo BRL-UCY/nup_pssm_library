@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9ERU9|RBP2_MOUSE           -          IR1-M                PF12185.5    6.4e-35  120.5   0.0   9.1e-16   59.1   0.1   2.5   2   0   0   2   2   2   2 E3 SUMO-protein ligase RanBP2 OS=Mus musculus OX=10090 GN=Ranbp2 PE=1 SV=2
+tr|A0A0U1RPK5|A0A0U1RPK5_MOUSE -          IR1-M                PF12185.5        2.8    9.5   0.1       5.5    8.6   0.1   1.5   1   1   0   1   1   1   0 2-oxoisovalerate dehydrogenase subunit alpha (Fragment) OS=Mus musculus OX=10090 GN=Bckdha PE=1 SV=1
+tr|F8VPL2|F8VPL2_MOUSE         -          IR1-M                PF12185.5        6.7    8.3   0.0        15    7.2   0.0   1.5   1   0   0   1   1   1   0 Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha OS=Mus musculus OX=10090 GN=Pik3c2a PE=1 SV=1
+sp|Q61194|P3C2A_MOUSE          -          IR1-M                PF12185.5        6.7    8.3   0.0        15    7.2   0.0   1.5   1   0   0   1   1   1   0 Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha OS=Mus musculus OX=10090 GN=Pik3c2a PE=1 SV=2
+sp|Q921I6|SH3B4_MOUSE          -          IR1-M                PF12185.5        8.4    8.0   0.0   2.7e+02    3.1   0.0   2.3   2   0   0   2   2   2   0 SH3 domain-binding protein 4 OS=Mus musculus OX=10090 GN=Sh3bp4 PE=1 SV=1
+tr|A0A1W2P6J2|A0A1W2P6J2_MOUSE -          IR1-M                PF12185.5        9.1    7.9   0.0        17    7.0   0.0   1.4   1   0   0   1   1   1   0 Cactin (Fragment) OS=Mus musculus OX=10090 GN=Cactin PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:16:33 2022
+# [ok]

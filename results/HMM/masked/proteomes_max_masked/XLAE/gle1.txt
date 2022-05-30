@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HY77|A0A1L8HY77_XENLA -          GLE1                 PF07817.10      0.44   11.0   0.0      0.74   10.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006845mg PE=4 SV=1
+tr|A0A1L8ERU1|A0A1L8ERU1_XENLA -          GLE1                 PF07817.10       1.6    9.2   0.1       2.8    8.4   0.1   1.3   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043125mg PE=3 SV=1
+tr|A0A1L8FH89|A0A1L8FH89_XENLA -          GLE1                 PF07817.10       2.6    8.5   0.0       4.2    7.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037867mg PE=4 SV=1
+tr|A0A1L8H4C0|A0A1L8H4C0_XENLA -          GLE1                 PF07817.10       2.9    8.4   0.0       3.9    7.9   0.0   1.2   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019551mg PE=4 SV=1
+tr|A0A1L8G3D4|A0A1L8G3D4_XENLA -          GLE1                 PF07817.10       3.8    8.0   0.0       5.5    7.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029339mg PE=4 SV=1
+tr|A0A1L8G2Z4|A0A1L8G2Z4_XENLA -          GLE1                 PF07817.10       5.8    7.4   0.0       8.4    6.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029339mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:42:31 2022
+# [ok]

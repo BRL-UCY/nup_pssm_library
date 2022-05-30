@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8NFH5|NUP35_HUMAN          -          Nup35_RRM            PF05172.10     2e-24   87.4   0.1   3.1e-24   86.8   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+sp|P0CB38|PAB4L_HUMAN          -          Nup35_RRM            PF05172.10   9.3e-06   27.5   0.2     0.026   16.5   0.0   4.1   4   1   0   4   4   4   1 Polyadenylate-binding protein 4-like OS=Homo sapiens OX=9606 GN=PABPC4L PE=2 SV=1
+sp|Q01085|TIAR_HUMAN           -          Nup35_RRM            PF05172.10     0.051   15.5   0.1       1.9   10.5   0.1   2.7   1   1   0   1   1   1   0 Nucleolysin TIAR OS=Homo sapiens OX=9606 GN=TIAL1 PE=1 SV=1
+tr|F8W8I6|F8W8I6_HUMAN         -          Nup35_RRM            PF05172.10     0.079   14.9   0.1       1.4   10.9   0.1   2.7   2   1   0   2   2   2   0 Nucleolysin TIA-1 isoform p40 OS=Homo sapiens OX=9606 GN=TIA1 PE=1 SV=1
+sp|P31483|TIA1_HUMAN           -          Nup35_RRM            PF05172.10      0.08   14.9   0.1       1.4   10.9   0.1   2.7   2   1   0   2   2   2   0 Nucleolysin TIA-1 isoform p40 OS=Homo sapiens OX=9606 GN=TIA1 PE=1 SV=3
+tr|B1AM48|B1AM48_HUMAN         -          Nup35_RRM            PF05172.10      0.13   14.3   0.0       7.2    8.6   0.0   2.4   1   1   1   2   2   2   0 ELAV-like protein (Fragment) OS=Homo sapiens OX=9606 GN=ELAVL2 PE=1 SV=1
+tr|H0YJW7|H0YJW7_HUMAN         -          Nup35_RRM            PF05172.10      0.34   12.9   0.0      0.86   11.6   0.0   1.5   1   1   0   1   1   1   0 SRA stem-loop-interacting RNA-binding protein, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=SLIRP PE=1 SV=1
+tr|H0YJ40|H0YJ40_HUMAN         -          Nup35_RRM            PF05172.10      0.52   12.3   0.0       1.3   11.0   0.0   1.5   1   1   0   1   1   1   0 SRA stem-loop-interacting RNA-binding protein, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=SLIRP PE=1 SV=1
+tr|G3V4X6|G3V4X6_HUMAN         -          Nup35_RRM            PF05172.10       0.6   12.1   0.0       1.5   10.8   0.0   1.6   1   1   0   1   1   1   0 SRA stem-loop-interacting RNA-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=SLIRP PE=1 SV=1
+tr|A0A087WUN7|A0A087WUN7_HUMAN -          Nup35_RRM            PF05172.10      0.67   11.9   0.0       1.6   10.7   0.0   1.5   1   1   0   1   1   1   0 SRA stem-loop-interacting RNA-binding protein, mitochondrial OS=Homo sapiens OX=9606 GN=SLIRP PE=1 SV=1
+tr|C9JZG1|C9JZG1_HUMAN         -          Nup35_RRM            PF05172.10      0.78   11.7   0.0       1.3   11.0   0.0   1.3   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit B (Fragment) OS=Homo sapiens OX=9606 GN=EIF3B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:08 2022
+# [ok]

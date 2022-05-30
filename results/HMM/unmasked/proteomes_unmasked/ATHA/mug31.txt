@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9LDH9|Q9LDH9_ARATH -          NPCC                 PF08058.8      0.089   14.0   0.2      0.21   12.7   0.2   1.5   1   0   0   1   1   1   0 At3g12870 OS=Arabidopsis thaliana OX=3702 GN=MJM20.1 PE=2 SV=1
+sp|Q9LXF3|CASP5_ARATH  -          NPCC                 PF08058.8       0.54   11.4   7.4      0.29   12.3   1.9   2.0   1   1   1   2   2   2   0 Casparian strip membrane protein 5 OS=Arabidopsis thaliana OX=3702 GN=CASP5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/mug31.txt --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:56 2022
+# [ok]

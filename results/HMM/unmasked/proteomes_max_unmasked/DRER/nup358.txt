@@ -1,0 +1,52 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WCS8|X1WCS8_DANRE         -          Ran_BP1              PF00638.15    3e-208  681.1  18.3   1.3e-53  181.8   1.8   4.9   5   0   0   5   5   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|B8JMJ5|B8JMJ5_DANRE         -          Ran_BP1              PF00638.15  3.1e-208  681.0  18.3   1.3e-53  181.8   1.8   4.9   5   0   0   5   5   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          Ran_BP1              PF00638.15  3.1e-208  681.0  18.3   1.3e-53  181.8   1.8   4.9   5   0   0   5   5   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|Q6NWK3|Q6NWK3_DANRE         -          Ran_BP1              PF00638.15   1.4e-52  178.4   0.6   1.4e-52  178.4   0.6   1.5   2   0   0   2   2   1   1 RAN-binding protein 1 OS=Danio rerio OX=7955 GN=ranbp1 PE=1 SV=1
+tr|K7DY47|K7DY47_DANRE         -          Ran_BP1              PF00638.15   2.8e-34  119.4   0.0   7.4e-34  118.0   0.0   1.8   1   0   0   1   1   1   1 FinTRIM family, member 52, pseudogene OS=Danio rerio OX=7955 GN=ftr52p PE=4 SV=1
+tr|A0A2R8Q3A0|A0A2R8Q3A0_DANRE -          Ran_BP1              PF00638.15   4.4e-17   63.8   0.1   6.9e-17   63.2   0.1   1.3   1   0   0   1   1   1   1 Peptidyl-prolyl cis-trans isomerase OS=Danio rerio OX=7955 GN=ftr52p PE=3 SV=1
+tr|F1Q591|F1Q591_DANRE         -          Ran_BP1              PF00638.15     1e-15   59.4   0.0     2e-15   58.5   0.0   1.4   1   0   0   1   1   1   1 RAN-binding protein 3a OS=Danio rerio OX=7955 GN=ranbp3a PE=4 SV=1
+tr|Q6PCR4|Q6PCR4_DANRE         -          Ran_BP1              PF00638.15   2.3e-14   55.0   0.0   4.4e-14   54.2   0.0   1.4   1   0   0   1   1   1   1 RAN-binding protein 3b OS=Danio rerio OX=7955 GN=ranbp3b PE=1 SV=1
+tr|F1R0E4|F1R0E4_DANRE         -          Ran_BP1              PF00638.15   2.6e-09   38.7   0.0   4.1e-09   38.1   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|U3JAN8|U3JAN8_DANRE         -          Ran_BP1              PF00638.15   5.5e-05   24.8   0.0   0.00014   23.4   0.0   1.7   1   1   0   1   1   1   1 ENAH actin regulator (Fragment) OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|A0A2R8QMV4|A0A2R8QMV4_DANRE -          Ran_BP1              PF00638.15    0.0006   21.4   0.0   0.00097   20.7   0.0   1.4   1   1   0   1   1   1   1 WH1 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0R4IB53|A0A0R4IB53_DANRE -          Ran_BP1              PF00638.15    0.0011   20.5   0.0    0.0025   19.4   0.0   1.6   1   1   0   1   1   1   1 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|E9QFB8|E9QFB8_DANRE         -          Ran_BP1              PF00638.15    0.0013   20.3   0.1     0.003   19.1   0.1   1.6   1   1   0   1   1   1   1 Enah/Vasp-like a (Fragment) OS=Danio rerio OX=7955 GN=evla PE=4 SV=1
+tr|A0A2R8RIU8|A0A2R8RIU8_DANRE -          Ran_BP1              PF00638.15    0.0016   20.1   0.1    0.0033   19.0   0.1   1.5   1   1   0   1   1   1   1 Enah/Vasp-like a OS=Danio rerio OX=7955 GN=evla PE=4 SV=1
+tr|Q5TZC8|Q5TZC8_DANRE         -          Ran_BP1              PF00638.15    0.0023   19.5   0.0    0.0048   18.5   0.0   1.5   1   0   0   1   1   1   1 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|Q1LVK6|Q1LVK6_DANRE         -          Ran_BP1              PF00638.15    0.0046   18.6   0.0    0.0076   17.9   0.0   1.4   1   0   0   1   1   1   1 Vasodilator-stimulated phosphoprotein b OS=Danio rerio OX=7955 GN=vaspb PE=1 SV=2
+tr|Q7SZN7|Q7SZN7_DANRE         -          Ran_BP1              PF00638.15     0.005   18.4   0.1     0.011   17.4   0.1   1.5   1   1   0   1   1   1   1 Enah/Vasp-like a OS=Danio rerio OX=7955 GN=evla PE=2 SV=1
+tr|A0A0R4IZE4|A0A0R4IZE4_DANRE -          Ran_BP1              PF00638.15    0.0074   17.9   0.0     0.018   16.6   0.0   1.7   1   1   0   1   1   1   1 Vasodilator-stimulated phosphoprotein a OS=Danio rerio OX=7955 GN=vaspa PE=4 SV=2
+tr|F1QC11|F1QC11_DANRE         -          Ran_BP1              PF00638.15     0.011   17.4   0.0     0.031   15.9   0.0   1.8   1   1   0   1   1   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+sp|Q5SP90|PP4R3_DANRE          -          Ran_BP1              PF00638.15     0.022   16.3   0.0     0.057   15.0   0.0   1.7   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 3 OS=Danio rerio OX=7955 GN=smek1 PE=1 SV=1
+tr|R4GDZ3|R4GDZ3_DANRE         -          Ran_BP1              PF00638.15      0.73   11.4   0.1       1.2   10.7   0.1   1.3   1   0   0   1   1   1   0 G protein-coupled receptor 108 (Fragment) OS=Danio rerio OX=7955 GN=gpr108 PE=4 SV=1
+tr|A0A0R4II01|A0A0R4II01_DANRE -          Ran_BP1              PF00638.15      0.99   11.0   0.1       2.2    9.9   0.1   1.6   1   1   0   1   1   1   0 Enah/Vasp-like b OS=Danio rerio OX=7955 GN=evlb PE=4 SV=2
+tr|A0A0R4IIQ0|A0A0R4IIQ0_DANRE -          Ran_BP1              PF00638.15         1   11.0   0.0       2.1    9.9   0.0   1.6   1   1   0   1   1   1   0 Enah/Vasp-like b OS=Danio rerio OX=7955 GN=evlb PE=4 SV=2
+tr|A0A2R8RQX3|A0A2R8RQX3_DANRE -          Ran_BP1              PF00638.15       1.6   10.3   0.0       2.1   10.0   0.0   1.3   1   0   0   1   1   1   0 HTH_Tnp_Tc3_2 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A2R8QT59|A0A2R8QT59_DANRE -          Ran_BP1              PF00638.15       1.9   10.1   0.0       2.6    9.7   0.0   1.2   1   0   0   1   1   1   0 HTH_Tnp_Tc3_2 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0G2KC70|A0A0G2KC70_DANRE -          Ran_BP1              PF00638.15       1.9   10.1   0.0       5.4    8.6   0.0   1.9   1   1   0   1   1   1   0 Protein phosphatase 4, regulatory subunit 3B OS=Danio rerio OX=7955 GN=ppp4r3b PE=1 SV=2
+tr|A0A0G2L0J3|A0A0G2L0J3_DANRE -          Ran_BP1              PF00638.15       3.4    9.3   0.0       5.3    8.7   0.0   1.4   1   1   0   1   1   1   0 Homer scaffold protein 3a OS=Danio rerio OX=7955 GN=homer3a PE=4 SV=2
+tr|F1QBC1|F1QBC1_DANRE         -          Ran_BP1              PF00638.15       4.2    9.0   0.8        26    6.5   0.1   2.8   2   1   0   2   2   2   0 Homer scaffold protein 3b OS=Danio rerio OX=7955 GN=homer3b PE=1 SV=2
+tr|F1R1R1|F1R1R1_DANRE         -          Ran_BP1              PF00638.15       4.3    9.0   0.9        26    6.5   0.1   2.8   2   1   0   2   2   2   0 Homer scaffold protein 3b OS=Danio rerio OX=7955 GN=homer3b PE=1 SV=3
+tr|E7F3K4|E7F3K4_DANRE         -          Ran_BP1              PF00638.15       4.9    8.8   0.7   1.3e+02    4.2   0.4   2.8   2   1   0   2   2   2   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=3
+sp|Q6PC45|MED30_DANRE          -          Ran_BP1              PF00638.15       5.4    8.6   0.2        24    6.6   0.0   1.9   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 30 OS=Danio rerio OX=7955 GN=med30 PE=2 SV=1
+tr|A0A0R4IH45|A0A0R4IH45_DANRE -          Ran_BP1              PF00638.15       5.7    8.6   0.2        24    6.6   0.0   1.9   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 30 OS=Danio rerio OX=7955 GN=med30 PE=4 SV=1
+tr|A0A0R4INT7|A0A0R4INT7_DANRE -          Ran_BP1              PF00638.15       5.9    8.5   3.1       7.8    8.1   0.0   2.6   2   1   0   2   2   2   0 Homer scaffold protein 1b OS=Danio rerio OX=7955 GN=homer1b PE=4 SV=1
+tr|X1WEW8|X1WEW8_DANRE         -          Ran_BP1              PF00638.15       6.4    8.4   0.2   2.5e+02    3.3   0.0   2.5   2   2   0   2   2   2   0 Negative regulator of ubiquitin-like proteins 1 (Fragment) OS=Danio rerio OX=7955 GN=nub1 PE=1 SV=1
+tr|A0A0R4IQ52|A0A0R4IQ52_DANRE -          Ran_BP1              PF00638.15       6.5    8.4   0.0        12    7.5   0.0   1.4   1   0   0   1   1   1   0 Si:ch211-132g1.3 OS=Danio rerio OX=7955 GN=si:ch211-132g1.3 PE=4 SV=2
+tr|F8W4Y1|F8W4Y1_DANRE         -          Ran_BP1              PF00638.15       7.3    8.2   0.1        13    7.4   0.1   1.4   1   0   0   1   1   1   0 Xin actin-binding repeat-containing 2b (Fragment) OS=Danio rerio OX=7955 GN=xirp2b PE=4 SV=1
+tr|U3JB28|U3JB28_DANRE         -          Ran_BP1              PF00638.15       9.2    7.9   0.4        17    7.1   0.0   1.6   2   0   0   2   2   1   0 Essential meiotic structure-specific endonuclease 1 (Fragment) OS=Danio rerio OX=7955 GN=eme1 PE=4 SV=1
+tr|E7EYK3|E7EYK3_DANRE         -          Ran_BP1              PF00638.15       9.3    7.9   0.3        41    5.8   0.0   2.1   2   0   0   2   2   2   0 Sorting nexin 29 OS=Danio rerio OX=7955 GN=snx29 PE=4 SV=1
+tr|Q6PC13|Q6PC13_DANRE         -          Ran_BP1              PF00638.15       9.9    7.8   0.7        17    7.0   0.7   1.4   1   0   0   1   1   1   0 Prohibitin 2 OS=Danio rerio OX=7955 GN=phb2a PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 21:00:42 2022
+# [ok]

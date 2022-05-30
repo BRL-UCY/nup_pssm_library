@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4J284|NU93B_ARATH          -          Nic96                PF04097.11   6.7e-81  273.7   0.0   1.1e-80  273.0   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein NUP93B OS=Arabidopsis thaliana OX=3702 GN=NUP93B PE=1 SV=1
+sp|O22224|NP93A_ARATH          -          Nic96                PF04097.11   8.8e-80  270.0   0.0   2.1e-79  268.8   0.0   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein NUP93A OS=Arabidopsis thaliana OX=3702 GN=NUP93A PE=1 SV=2
+tr|F4KGU2|F4KGU2_ARATH         -          Nic96                PF04097.11       7.9    5.9   0.0       9.5    5.7   0.0   1.0   1   0   0   1   1   1   0 Ribosomal protein S6e OS=Arabidopsis thaliana OX=3702 GN=EMB3010 PE=1 SV=1
+sp|Q9SQG2|APY1_ARATH           -          Nic96                PF04097.11         8    5.9   0.0        11    5.4   0.0   1.1   1   0   0   1   1   1   0 Apyrase 1 OS=Arabidopsis thaliana OX=3702 GN=APY1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:34:55 2022
+# [ok]

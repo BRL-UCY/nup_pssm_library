@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VBU7|Q9VBU7_DROME Nucleoporin 358kD, isoform A OS=Drosophila melanogaster GN=Nup358 PE=1 SV=2
+# Database: DB_masked/CELE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+tr|Q9VBU7|Q9VBU7_DROME	tr|Q21021|Q21021_CAEEL	6.05e-64	236	1558	2148	210	859
+tr|Q9VBU7|Q9VBU7_DROME	tr|Q86G90|Q86G90_CAEEL	2.33e-59	222	1558	2148	210	883
+tr|Q9VBU7|Q9VBU7_DROME	sp|P41842|TTC27_CAEEL	0.054	38.6	58	94	450	484
+tr|Q9VBU7|Q9VBU7_DROME	tr|H2KYA0|H2KYA0_CAEEL	0.12	37.5	1707	1797	17	97
+tr|Q9VBU7|Q9VBU7_DROME	sp|Q20255|TTC21_CAEEL	0.16	37.5	713	774	673	732
+# BLAST processed 1 queries

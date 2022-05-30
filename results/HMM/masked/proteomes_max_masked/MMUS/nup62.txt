@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q63850|NUP62_MOUSE          -          Nsp1_C               PF05064.10     5e-30  105.3   0.5   9.7e-30  104.3   0.5   1.4   1   0   0   1   1   1   1 Nuclear pore glycoprotein p62 OS=Mus musculus OX=10090 GN=Nup62 PE=1 SV=2
+tr|A2AG11|A2AG11_MOUSE         -          Nsp1_C               PF05064.10   1.4e-21   78.1   0.3   2.7e-21   77.1   0.1   1.5   1   1   1   2   2   2   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG10|A2AG10_MOUSE         -          Nsp1_C               PF05064.10   2.5e-21   77.2   0.7     4e-21   76.6   0.1   1.6   2   0   0   2   2   2   1 Nucleoporin 62 C-terminal-like OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG12|A2AG12_MOUSE         -          Nsp1_C               PF05064.10   1.7e-20   74.5   0.1   2.2e-20   74.2   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=4 SV=1
+tr|A0A1Y7VMW4|A0A1Y7VMW4_MOUSE -          Nsp1_C               PF05064.10     0.062   14.7   3.9       0.1   14.0   0.6   2.4   1   1   1   2   2   2   0 Alpha-actinin-2 (Fragment) OS=Mus musculus OX=10090 GN=Actn2 PE=1 SV=2
+sp|Q9JI91|ACTN2_MOUSE          -          Nsp1_C               PF05064.10      0.37   12.2   1.1         1   10.7   0.5   2.1   1   1   1   2   2   2   0 Alpha-actinin-2 OS=Mus musculus OX=10090 GN=Actn2 PE=1 SV=2
+tr|A0A0A6YX61|A0A0A6YX61_MOUSE -          Nsp1_C               PF05064.10      0.53   11.7   1.3      0.81   11.1   1.3   1.2   1   0   0   1   1   1   0 Transport and Golgi organization protein 1 homolog (Fragment) OS=Mus musculus OX=10090 GN=Mia3 PE=1 SV=2
+tr|H3BKV6|H3BKV6_MOUSE         -          Nsp1_C               PF05064.10      0.87   11.0   0.1       1.3   10.4   0.1   1.4   1   0   0   1   1   1   0 Active breakpoint cluster region-related protein (Fragment) OS=Mus musculus OX=10090 GN=Abr PE=1 SV=1
+tr|Q3TR21|Q3TR21_MOUSE         -          Nsp1_C               PF05064.10       1.4   10.3   0.1       2.4    9.5   0.1   1.3   1   0   0   1   1   1   0 Testis-specific gene 10 protein OS=Mus musculus OX=10090 GN=Tsga10 PE=1 SV=1
+tr|F6SG45|F6SG45_MOUSE         -          Nsp1_C               PF05064.10       1.6   10.1   0.0       2.1    9.8   0.0   1.2   1   0   0   1   1   1   0 Fasciculation and elongation protein zeta-1 (Fragment) OS=Mus musculus OX=10090 GN=Fez1 PE=1 SV=1
+tr|D6RIK6|D6RIK6_MOUSE         -          Nsp1_C               PF05064.10       1.7   10.1   0.1       3.2    9.2   0.1   1.4   1   0   0   1   1   1   0 Testis-specific gene 10 protein OS=Mus musculus OX=10090 GN=Tsga10 PE=1 SV=1
+sp|Q61897|KT33B_MOUSE          -          Nsp1_C               PF05064.10       2.4    9.5   0.7        30    6.0   0.0   2.2   2   0   0   2   2   2   0 Keratin, type I cuticular Ha3-II OS=Mus musculus OX=10090 GN=Krt33b PE=1 SV=2
+tr|A0A2I3BQ69|A0A2I3BQ69_MOUSE -          Nsp1_C               PF05064.10       2.6    9.5   0.2       2.7    9.4   0.2   1.1   1   0   0   1   1   1   0 Predicted gene 4181 OS=Mus musculus OX=10090 GN=Gm4181 PE=4 SV=1
+tr|A0A0J9YV47|A0A0J9YV47_MOUSE -          Nsp1_C               PF05064.10       2.9    9.3   0.7         4    8.9   0.5   1.3   1   1   0   1   1   1   0 Cytospin-B OS=Mus musculus OX=10090 GN=Specc1 PE=1 SV=1
+tr|H3BKT3|H3BKT3_MOUSE         -          Nsp1_C               PF05064.10       3.4    9.1   0.0       4.6    8.7   0.0   1.2   1   0   0   1   1   1   0 Active breakpoint cluster region-related protein (Fragment) OS=Mus musculus OX=10090 GN=Abr PE=1 SV=1
+sp|Q6NY15|TSG10_MOUSE          -          Nsp1_C               PF05064.10       3.9    8.9   0.1        13    7.2   0.1   1.9   1   0   0   1   1   1   0 Testis-specific gene 10 protein OS=Mus musculus OX=10090 GN=Tsga10 PE=1 SV=1
+tr|V9GX42|V9GX42_MOUSE         -          Nsp1_C               PF05064.10       4.6    8.7   0.9        13    7.3   0.5   1.7   1   1   1   2   2   2   0 Chromatin modification-related protein MEAF6 OS=Mus musculus OX=10090 GN=Meaf6 PE=1 SV=1
+tr|E9Q7X3|E9Q7X3_MOUSE         -          Nsp1_C               PF05064.10       5.3    8.5   0.7        11    7.4   0.4   1.6   1   1   1   2   2   2   0 Predicted gene 4181 OS=Mus musculus OX=10090 GN=Gm4181 PE=4 SV=1
+sp|Q2VPQ9|EAF6_MOUSE           -          Nsp1_C               PF05064.10       5.6    8.4   1.0        14    7.1   0.5   1.7   1   1   1   2   2   2   0 Chromatin modification-related protein MEAF6 OS=Mus musculus OX=10090 GN=Meaf6 PE=1 SV=1
+sp|Q8K0Y2|KT33A_MOUSE          -          Nsp1_C               PF05064.10       5.8    8.3   0.6        13    7.2   0.1   1.8   2   0   0   2   2   2   0 Keratin, type I cuticular Ha3-I OS=Mus musculus OX=10090 GN=Krt33a PE=1 SV=1
+sp|Q8BKT8|HAUS7_MOUSE          -          Nsp1_C               PF05064.10         6    8.3   0.0       9.6    7.6   0.0   1.3   1   0   0   1   1   1   0 HAUS augmin-like complex subunit 7 OS=Mus musculus OX=10090 GN=Haus7 PE=1 SV=2
+tr|A3KFY5|A3KFY5_MOUSE         -          Nsp1_C               PF05064.10       6.9    8.1   0.0       9.8    7.6   0.0   1.2   1   0   0   1   1   1   0 Tektin-2 (Fragment) OS=Mus musculus OX=10090 GN=Tekt2 PE=1 SV=1
+sp|Q8CEZ1|SMCO1_MOUSE          -          Nsp1_C               PF05064.10       7.2    8.0   0.4        12    7.3   0.4   1.4   1   0   0   1   1   1   0 Single-pass membrane and coiled-coil domain-containing protein 1 OS=Mus musculus OX=10090 GN=Smco1 PE=2 SV=3
+sp|O70404|VAMP8_MOUSE          -          Nsp1_C               PF05064.10       9.1    7.7   0.5        56    5.2   0.1   1.8   1   1   1   2   2   2   0 Vesicle-associated membrane protein 8 OS=Mus musculus OX=10090 GN=Vamp8 PE=1 SV=1
+tr|A0A1L1SSG8|A0A1L1SSG8_MOUSE -          Nsp1_C               PF05064.10       9.1    7.7   0.0        11    7.5   0.0   1.1   1   0   0   1   1   1   0 Fasciculation and elongation protein zeta-1 (Fragment) OS=Mus musculus OX=10090 GN=Fez1 PE=1 SV=1
+tr|Q6P8I2|Q6P8I2_MOUSE         -          Nsp1_C               PF05064.10       9.4    7.7   0.2        14    7.1   0.2   1.3   1   0   0   1   1   1   0 MCG114023, isoform CRA_b OS=Mus musculus OX=10090 GN=BC061237 PE=2 SV=1
+tr|B1AUD9|B1AUD9_MOUSE         -          Nsp1_C               PF05064.10       9.5    7.6   0.0        13    7.2   0.0   1.2   1   0   0   1   1   1   0 Tax1-binding protein 3 OS=Mus musculus OX=10090 GN=Tax1bp3 PE=1 SV=1
+tr|A0A140LI28|A0A140LI28_MOUSE -          Nsp1_C               PF05064.10       9.9    7.6   1.5        28    6.1   0.1   2.2   2   0   0   2   2   2   0 Family with sequence similarity 81, member B OS=Mus musculus OX=10090 GN=Fam81b PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:13:25 2022
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8L7F7|NUP62_ARATH          -          Nsp1_C               PF05064.10   2.2e-13   51.2   0.1   3.3e-13   50.6   0.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein NUP62 OS=Arabidopsis thaliana OX=3702 GN=NUP62 PE=1 SV=1
+tr|F4J2B4|F4J2B4_ARATH         -          Nsp1_C               PF05064.10       1.3    9.9   0.2       2.6    9.0   0.2   1.5   1   0   0   1   1   1   0 Proteasome component (PCI) domain protein OS=Arabidopsis thaliana OX=3702 GN=At3g02200 PE=1 SV=1
+tr|Q8W4A0|Q8W4A0_ARATH         -          Nsp1_C               PF05064.10       1.5    9.8   0.2       3.1    8.7   0.2   1.5   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit M OS=Arabidopsis thaliana OX=3702 GN=F14P3.15 PE=1 SV=1
+tr|Q93VA9|Q93VA9_ARATH         -          Nsp1_C               PF05064.10       1.5    9.7   0.1       2.6    9.0   0.1   1.3   1   0   0   1   1   1   0 AT5g25080/T11H3_90 OS=Arabidopsis thaliana OX=3702 GN=At5g25080 PE=2 SV=1
+sp|Q84K90|RHIP1_ARATH          -          Nsp1_C               PF05064.10         2    9.3   0.0        11    6.9   0.0   2.1   2   0   0   2   2   2   0 RGS1-HXK1-interacting protein 1 OS=Arabidopsis thaliana OX=3702 GN=RHIP1 PE=1 SV=1
+sp|Q9FGX2|BZIP1_ARATH          -          Nsp1_C               PF05064.10       2.7    8.9   0.2       3.6    8.5   0.2   1.1   1   0   0   1   1   1   0 Basic leucine zipper 1 OS=Arabidopsis thaliana OX=3702 GN=BZIP1 PE=1 SV=1
+sp|Q8L838|COG4_ARATH           -          Nsp1_C               PF05064.10       3.2    8.7   0.1       6.6    7.7   0.1   1.5   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Arabidopsis thaliana OX=3702 GN=COG4 PE=2 SV=1
+tr|Q9LF21|Q9LF21_ARATH         -          Nsp1_C               PF05064.10       5.7    7.9   0.0        13    6.7   0.0   1.5   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit M OS=Arabidopsis thaliana OX=3702 GN=At5g15610 PE=1 SV=1
+tr|Q0WSE9|Q0WSE9_ARATH         -          Nsp1_C               PF05064.10         6    7.8   0.0        12    6.9   0.0   1.4   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit M OS=Arabidopsis thaliana OX=3702 GN=At5g15610 PE=1 SV=1
+tr|Q9ZUN8|Q9ZUN8_ARATH         -          Nsp1_C               PF05064.10       6.6    7.7   0.6        13    6.7   0.6   1.4   1   0   0   1   1   1   0 Putative WD-40 repeat protein OS=Arabidopsis thaliana OX=3702 GN=heat stress tolerant DWD 1 PE=1 SV=1
+tr|Q8VXX3|Q8VXX3_ARATH         -          Nsp1_C               PF05064.10       7.3    7.5   0.0        10    7.0   0.0   1.2   1   0   0   1   1   1   0 HSP20-like chaperones superfamily protein OS=Arabidopsis thaliana OX=3702 GN=MZN1.18 PE=2 SV=1
+sp|Q9LK09|SYP32_ARATH          -          Nsp1_C               PF05064.10         9    7.3   0.2        57    4.7   0.1   2.2   1   1   1   2   2   2   0 Syntaxin-32 OS=Arabidopsis thaliana OX=3702 GN=SYP32 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:34:32 2022
+# [ok]

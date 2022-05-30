@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q584I6|Q584I6_TRYB2 -          Nup54                PF13874.3      4e-22   77.8   2.2     4e-22   77.8   2.2   1.4   2   0   0   2   2   2   1 Nucleoporin (NUP54/57), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.5200 PE=4 SV=1
+tr|Q580B9|Q580B9_TRYB2 -          Nup54                PF13874.3      0.084   11.9  11.9      0.11   11.5   7.5   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.910 PE=4 SV=1
+tr|Q581W6|Q581W6_TRYB2 -          Nup54                PF13874.3       0.11   11.5   1.3       0.3   10.2   0.0   2.2   3   0   0   3   3   3   0 Multidrug resistance protein A OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.2160 PE=4 SV=1
+tr|Q384X5|Q384X5_TRYB2 -          Nup54                PF13874.3       0.18   10.8  23.4       7.1    5.7  11.1   2.7   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.4790 PE=4 SV=1
+tr|Q581A4|Q581A4_TRYB2 -          Nup54                PF13874.3       0.26   10.3   3.7      0.19   10.8   1.6   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.3840 PE=4 SV=1
+tr|Q57X90|Q57X90_TRYB2 -          Nup54                PF13874.3       0.36    9.9   6.7       1.5    7.9   1.4   2.5   1   1   1   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4740 PE=4 SV=1
+tr|Q57VS3|Q57VS3_TRYB2 -          Nup54                PF13874.3          1    8.4   6.6       2.6    7.1   6.3   1.7   1   1   0   1   1   1   0 RING-type domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.770 PE=4 SV=1
+tr|Q386I6|Q386I6_TRYB2 -          Nup54                PF13874.3        9.1    5.3  11.7       1.3    8.0   5.2   3.2   3   0   0   3   3   3   0 Dynein heavy chain, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0760 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes/TBRU/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:23 2022
+# [ok]

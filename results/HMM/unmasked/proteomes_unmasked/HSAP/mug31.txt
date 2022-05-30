@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C9JYX1|C9JYX1_HUMAN -          NPCC                 PF08058.8      0.015   17.4   0.0     0.025   16.6   0.0   1.3   1   1   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=8
+sp|Q96SK2|TM209_HUMAN  -          NPCC                 PF08058.8        0.1   14.7   0.0      0.23   13.5   0.0   1.6   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=2
+sp|P00403|COX2_HUMAN   -          NPCC                 PF08058.8       0.41   12.7   1.8      0.68   12.0   1.8   1.3   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Homo sapiens OX=9606 GN=MT-CO2 PE=1 SV=1
+sp|P59922|OR2B8_HUMAN  -          NPCC                 PF08058.8       0.51   12.4   0.4      0.98   11.5   0.4   1.5   1   0   0   1   1   1   0 Putative olfactory receptor 2B8 OS=Homo sapiens OX=9606 GN=OR2B8P PE=5 SV=1
+sp|B7ZAQ6|GPHRA_HUMAN  -          NPCC                 PF08058.8        1.9   10.5   0.0       1.9   10.5   0.0   3.5   3   1   0   3   3   3   0 Golgi pH regulator A OS=Homo sapiens OX=9606 GN=GPR89A PE=1 SV=2
+sp|P0CG08|GPHRB_HUMAN  -          NPCC                 PF08058.8        1.9   10.5   0.0       1.9   10.5   0.0   3.5   3   1   0   3   3   3   0 Golgi pH regulator B OS=Homo sapiens OX=9606 GN=GPR89B PE=1 SV=1
+tr|F2Z2Z6|F2Z2Z6_HUMAN -          NPCC                 PF08058.8        2.9    9.9   5.0        51    5.9   2.4   2.9   2   1   0   2   2   2   0 Prostaglandin F2-alpha receptor OS=Homo sapiens OX=9606 GN=PTGFR PE=4 SV=1
+sp|P43088|PF2R_HUMAN   -          NPCC                 PF08058.8          5    9.2   6.0        60    5.7   2.1   3.1   2   1   0   2   2   2   0 Prostaglandin F2-alpha receptor OS=Homo sapiens OX=9606 GN=PTGFR PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/mug31.txt --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:13 2022
+# [ok]

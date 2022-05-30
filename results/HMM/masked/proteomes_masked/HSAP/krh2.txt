@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57088|TMM33_HUMAN  -          UPF0121              PF03661.10   5.1e-81  273.6   8.1     6e-81  273.3   8.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=2
+tr|D6RAA6|D6RAA6_HUMAN -          UPF0121              PF03661.10   3.1e-72  244.8   5.5   3.6e-72  244.6   5.5   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|H0Y8N0|H0Y8N0_HUMAN -          UPF0121              PF03661.10   2.1e-49  170.1   1.7   2.5e-49  169.8   1.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|D6RBY2|D6RBY2_HUMAN -          UPF0121              PF03661.10   1.1e-05   26.9   0.0   1.2e-05   26.8   0.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|J3KN43|J3KN43_HUMAN -          UPF0121              PF03661.10   0.00017   23.0   0.0   0.00019   22.9   0.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/krh2.txt --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:10 2022
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22339|Q22339_CAEEL         -          NUP50                PF08911.8       0.43   11.8   2.3      0.49   11.6   0.5   2.1   2   1   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T08A9.13 PE=4 SV=2
+tr|Q95Q06|Q95Q06_CAEEL         -          NUP50                PF08911.8        1.5   10.0   4.1      0.63   11.3   1.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y66D12A.8 PE=1 SV=2
+tr|O45691|O45691_CAEEL         -          NUP50                PF08911.8        2.1    9.6   0.0       4.3    8.6   0.0   1.5   1   0   0   1   1   1   0 OBG-type G domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M01E5.2 PE=1 SV=1
+tr|Q7KX02|Q7KX02_CAEEL         -          NUP50                PF08911.8        2.9    9.1   0.1        15    6.9   0.1   2.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y97E10AR.2 PE=4 SV=1
+tr|H2L030|H2L030_CAEEL         -          NUP50                PF08911.8        3.4    8.9   0.1        16    6.8   0.1   2.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y97E10AR.2 PE=4 SV=1
+tr|O45987|O45987_CAEEL         -          NUP50                PF08911.8        5.2    8.3   0.3        13    7.1   0.3   1.7   1   0   0   1   1   1   0 Nuclear Hormone Receptor family OS=Caenorhabditis elegans OX=6239 GN=nhr-247 PE=3 SV=1
+tr|Q9U2F1|Q9U2F1_CAEEL         -          NUP50                PF08911.8        5.3    8.3   0.1        15    6.8   0.1   1.9   1   0   0   1   1   1   0 R3H-assoc domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y46G5A.18 PE=1 SV=1
+tr|A5HWA5|A5HWA5_CAEEL         -          NUP50                PF08911.8        5.3    8.3   0.1        14    6.9   0.1   1.8   1   0   0   1   1   1   0 R3H-assoc domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y46G5A.18 PE=1 SV=1
+tr|C7IVR7|C7IVR7_CAEEL         -          NUP50                PF08911.8        6.4    8.0   0.4        14    7.0   0.4   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H10E21.1 PE=4 SV=1
+tr|G2HK16|G2HK16_CAEEL         -          NUP50                PF08911.8        7.1    7.9   7.1      0.39   11.9   1.1   2.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y66D12A.8 PE=1 SV=2
+tr|Q5ZEQ0|Q5ZEQ0_CAEEL         -          NUP50                PF08911.8        7.7    7.8   2.4        11    7.3   0.3   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y60A3A.24 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:17:43 2022
+# [ok]

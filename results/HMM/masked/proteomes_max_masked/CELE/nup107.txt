@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q19131|NPP5_CAEEL           -          Nup84_Nup100         PF04121.10   3.2e-09   36.2   0.0     1e-08   34.5   0.0   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein 5 OS=Caenorhabditis elegans OX=6239 GN=npp-5 PE=1 SV=1
+tr|A8WHU4|A8WHU4_CAEEL         -          Nup84_Nup100         PF04121.10       3.5    6.3   0.1         5    5.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T08G11.4 PE=1 SV=1
+tr|Q94013|Q94013_CAEEL         -          Nup84_Nup100         PF04121.10       4.3    6.0   0.1       6.1    5.5   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T08G11.4 PE=1 SV=2
+tr|Q21592|Q21592_CAEEL         -          Nup84_Nup100         PF04121.10       5.7    5.6   0.0       9.3    4.9   0.0   1.2   1   0   0   1   1   1   0 Kinesin Light Chain OS=Caenorhabditis elegans OX=6239 GN=klc-1 PE=1 SV=2
+sp|P55163|GEX3_CAEEL           -          Nup84_Nup100         PF04121.10       5.8    5.5   0.1        12    4.5   0.1   1.4   1   0   0   1   1   1   0 Membrane-associated protein gex-3 OS=Caenorhabditis elegans OX=6239 GN=gex-3 PE=1 SV=2
+tr|H9G2T2|H9G2T2_CAEEL         -          Nup84_Nup100         PF04121.10       6.1    5.5   0.0       9.8    4.8   0.0   1.2   1   0   0   1   1   1   0 Kinesin Light Chain OS=Caenorhabditis elegans OX=6239 GN=klc-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:59:48 2022
+# [ok]

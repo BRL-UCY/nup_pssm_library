@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q4V9|E9Q4V9_MOUSE         -          Nup84_Nup100         PF04121.10    2e-214  715.4  18.8  2.4e-214  715.1  18.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8BH74|NU107_MOUSE          -          Nup84_Nup100         PF04121.10  2.1e-214  715.4  18.8  2.4e-214  715.1  18.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A1W2P7R1|A0A1W2P7R1_MOUSE -          Nup84_Nup100         PF04121.10     3e-20   73.6   2.4   3.9e-20   73.2   2.4   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A1D5RLQ0|A0A1D5RLQ0_MOUSE -          Nup84_Nup100         PF04121.10     0.005   16.7   0.2    0.0091   15.8   0.2   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+sp|Q8BJ71|NUP93_MOUSE          -          Nup84_Nup100         PF04121.10    0.0059   16.4   0.2     0.011   15.5   0.2   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup107.txt --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:40 2022
+# [ok]

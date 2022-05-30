@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7FYF6|F7FYF6_MACMU         -          ELYS                 PF13934.3    4.8e-51  175.2   0.1   6.7e-51  174.7   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=AHCTF1 PE=4 SV=1
+tr|F7DI84|F7DI84_MACMU         -          ELYS                 PF13934.3       0.83   10.9   0.0       1.8    9.8   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO1G PE=3 SV=2
+tr|F7DI64|F7DI64_MACMU         -          ELYS                 PF13934.3       0.83   10.9   0.0       1.7    9.9   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO1G PE=3 SV=2
+tr|F6Q6W1|F6Q6W1_MACMU         -          ELYS                 PF13934.3       0.93   10.7   2.8      0.98   10.7   0.4   2.3   3   0   0   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=IFT140 PE=4 SV=2
+tr|A0A1D5QSG5|A0A1D5QSG5_MACMU -          ELYS                 PF13934.3        2.3    9.5   0.0       4.4    8.5   0.0   1.4   1   0   0   1   1   1   0 PPM-type phosphatase domain-containing protein OS=Macaca mulatta OX=9544 GN=PDP2 PE=4 SV=1
+tr|F6X309|F6X309_MACMU         -          ELYS                 PF13934.3          4    8.7   0.0        11    7.2   0.0   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=IFT88 PE=4 SV=2
+tr|A0A1D5RK66|A0A1D5RK66_MACMU -          ELYS                 PF13934.3        4.6    8.5   5.5      0.95   10.7   0.4   2.5   4   0   0   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=IFT140 PE=4 SV=1
+tr|F6VCV0|F6VCV0_MACMU         -          ELYS                 PF13934.3        4.8    8.4   0.1       9.8    7.4   0.1   1.4   1   0   0   1   1   1   0 [Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 2, mitochondrial OS=Macaca mulatta OX=9544 GN=PDP2 PE=2 SV=1
+tr|I0FVT2|I0FVT2_MACMU         -          ELYS                 PF13934.3        9.7    7.4   0.0        15    6.8   0.0   1.2   1   0   0   1   1   1   0 Regulator of G-protein signaling 5 isoform 1 OS=Macaca mulatta OX=9544 GN=RGS5 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:23:57 2022
+# [ok]

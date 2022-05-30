@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P91495|P91495_CAEEL -          Big_2                PF02368.15   4.3e-22   78.4  12.3   5.9e-16   58.7   0.0   8.3  10   1   0  10  10  10   4 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-12 PE=1 SV=1
+tr|Q23044|Q23044_CAEEL -          Big_2                PF02368.15       0.1   13.1   1.2      0.24   11.9   0.0   2.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T22B7.7 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/gp210.txt --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:01 2022
+# [ok]

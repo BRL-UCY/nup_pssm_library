@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6ZN69|F6ZN69_MACMU         -          Nsp1_C               PF05064.10   7.5e-30  104.4   1.5   7.5e-30  104.4   1.5   1.4   2   0   0   2   2   2   1 Nuclear pore glycoprotein p62 OS=Macaca mulatta OX=9544 GN=NUP62 PE=2 SV=1
+tr|A0A1D5RIB2|A0A1D5RIB2_MACMU -          Nsp1_C               PF05064.10     2e-16   61.1   0.2     2e-16   61.1   0.2   1.4   2   0   0   2   2   2   1 Nsp1_C domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP62 PE=4 SV=1
+tr|A0A1D5QK68|A0A1D5QK68_MACMU -          Nsp1_C               PF05064.10     0.049   14.7   0.9      0.14   13.2   0.9   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SMCO1 PE=4 SV=1
+tr|A0A1D5QE72|A0A1D5QE72_MACMU -          Nsp1_C               PF05064.10      0.24   12.5   1.0      0.59   11.3   0.5   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ACTN2 PE=4 SV=1
+tr|F7GBD5|F7GBD5_MACMU         -          Nsp1_C               PF05064.10      0.33   12.1   1.0      0.89   10.7   0.5   2.1   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ACTN2 PE=4 SV=1
+tr|F6VRJ5|F6VRJ5_MACMU         -          Nsp1_C               PF05064.10      0.33   12.1   1.0      0.89   10.7   0.5   2.1   1   1   0   1   1   1   0 Alpha-actinin-2 OS=Macaca mulatta OX=9544 GN=ACTN2 PE=2 SV=2
+tr|F7FXM2|F7FXM2_MACMU         -          Nsp1_C               PF05064.10      0.84   10.8   2.2       1.3   10.2   0.6   2.1   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC706173 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:56 2022
+# [ok]

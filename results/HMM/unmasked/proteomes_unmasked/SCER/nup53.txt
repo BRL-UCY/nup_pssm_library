@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q05166|NUP59_YEAST -          Nup35_RRM            PF05172.10   4.5e-43  143.8   0.1   1.4e-42  142.2   0.1   1.9   1   0   0   1   1   1   1 Nucleoporin ASM4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ASM4 PE=1 SV=1
+sp|Q03790|NUP53_YEAST -          Nup35_RRM            PF05172.10     1e-39  133.1   0.0   1.9e-39  132.2   0.0   1.4   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP53 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes/SCER/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:18 2022
+# [ok]

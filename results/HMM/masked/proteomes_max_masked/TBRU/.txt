@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q4GZ79|Q4GZ79_TRYB2 -          IR1-M                PF12185.5        2.6    7.0   0.0       5.1    6.1   0.0   1.4   1   0   0   1   1   1   0 DUF775 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.1400 PE=4 SV=1
+tr|Q4FKC0|Q4FKC0_TRYB2 -          IR1-M                PF12185.5        8.6    5.4   0.4        22    4.1   0.4   1.6   1   0   0   1   1   1   0 Methionine aminopeptidase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.1210 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:48 2022
+# [ok]

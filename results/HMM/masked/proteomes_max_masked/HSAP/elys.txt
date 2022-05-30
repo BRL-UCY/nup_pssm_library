@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WYP5|ELYS_HUMAN           -          ELYS                 PF13934.3    5.3e-51  175.7   0.1   7.3e-51  175.3   0.1   1.2   1   0   0   1   1   1   1 Protein ELYS OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=3
+tr|F8WEW9|F8WEW9_HUMAN         -          ELYS                 PF13934.3       0.35   12.8   0.0      0.47   12.4   0.0   1.2   1   0   0   1   1   1   0 Unconventional myosin-Ig OS=Homo sapiens OX=9606 GN=MYO1G PE=1 SV=1
+sp|Q96RY7|IF140_HUMAN          -          ELYS                 PF13934.3       0.84   11.6   0.8       3.1    9.7   0.2   2.3   2   0   0   2   2   2   0 Intraflagellar transport protein 140 homolog OS=Homo sapiens OX=9606 GN=IFT140 PE=1 SV=1
+tr|A0A3B3IU30|A0A3B3IU30_HUMAN -          ELYS                 PF13934.3        1.7   10.5   0.0       3.8    9.4   0.0   1.5   1   0   0   1   1   1   0 Unconventional myosin-Ig OS=Homo sapiens OX=9606 GN=MYO1G PE=1 SV=1
+sp|B0I1T2|MYO1G_HUMAN          -          ELYS                 PF13934.3        1.8   10.5   0.0         4    9.4   0.0   1.5   1   0   0   1   1   1   0 Unconventional myosin-Ig OS=Homo sapiens OX=9606 GN=MYO1G PE=1 SV=2
+sp|Q13099|IFT88_HUMAN          -          ELYS                 PF13934.3        6.6    8.6   0.0        18    7.2   0.0   1.7   1   0   0   1   1   1   0 Intraflagellar transport protein 88 homolog OS=Homo sapiens OX=9606 GN=IFT88 PE=1 SV=2
+tr|K7EPF5|K7EPF5_HUMAN         -          ELYS                 PF13934.3        7.8    8.4   0.0       8.1    8.4   0.0   1.0   1   0   0   1   1   1   0 Centrosomal protein of 76 kDa (Fragment) OS=Homo sapiens OX=9606 GN=CEP76 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:32:40 2022
+# [ok]

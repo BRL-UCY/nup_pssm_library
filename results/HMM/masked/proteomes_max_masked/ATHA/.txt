@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q3E9V8|Q3E9V8_ARATH         -          IR1-M                PF12185.5        5.9    8.0   0.0       6.1    8.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At4g27415 PE=4 SV=1
+tr|Q9CAY7|Q9CAY7_ARATH         -          IR1-M                PF12185.5        8.2    7.5   0.2        18    6.5   0.2   1.5   1   0   0   1   1   1   0 Cysteine/Histidine-rich C1 domain family protein OS=Arabidopsis thaliana OX=3702 GN=F24K9.3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:56:54 2022
+# [ok]

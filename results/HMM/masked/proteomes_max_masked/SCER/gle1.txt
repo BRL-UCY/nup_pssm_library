@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q12315|GLE1_YEAST  -          GLE1                 PF07817.10   2.4e-74  248.2   0.0     3e-74  247.9   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GLE1 PE=1 SV=1
+sp|P39987|HSP7E_YEAST -          GLE1                 PF07817.10      0.06   11.0   0.0      0.13    9.9   0.0   1.4   1   0   0   1   1   1   0 Heat shock protein SSC3, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ECM10 PE=3 SV=1
+sp|P0CS90|HSP77_YEAST -          GLE1                 PF07817.10       1.1    6.9   0.0       1.9    6.1   0.0   1.2   1   0   0   1   1   1   0 Heat shock protein SSC1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSC1 PE=1 SV=1
+sp|P33311|MDL2_YEAST  -          GLE1                 PF07817.10       2.6    5.6   0.1       7.1    4.2   0.0   1.7   2   0   0   2   2   2   0 ATP-dependent permease MDL2, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MDL2 PE=1 SV=3
+sp|P40510|SER33_YEAST -          GLE1                 PF07817.10       3.2    5.4   0.1       5.2    4.7   0.1   1.2   1   0   0   1   1   1   0 D-3-phosphoglycerate dehydrogenase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SER33 PE=1 SV=1
+sp|P22202|HSP74_YEAST -          GLE1                 PF07817.10       3.5    5.2   0.0       5.4    4.6   0.0   1.2   1   0   0   1   1   1   0 Heat shock protein SSA4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSA4 PE=1 SV=3
+sp|Q03496|TR732_YEAST -          GLE1                 PF07817.10       6.2    4.4   0.1        17    3.0   0.0   1.7   2   0   0   2   2   2   0 tRNA (cytidine(32)-2'-O)-methyltransferase non-catalytic subunit TRM732 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM732 PE=1 SV=1
+sp|P40003|VAB2_YEAST  -          GLE1                 PF07817.10       8.8    3.9   0.0        12    3.4   0.0   1.1   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit VAB2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VAB2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:35 2022
+# [ok]

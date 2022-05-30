@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8FSD4|A0A1L8FSD4_XENLA -          Nup153               PF08604.7   6.6e-133  445.5   0.0    8e-133  445.2   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033482mg PE=4 SV=1
+tr|A0A1L8FY18|A0A1L8FY18_XENLA -          Nup153               PF08604.7   4.2e-129  432.9   0.0  5.1e-129  432.7   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18031694mg PE=1 SV=1
+tr|A0A1L8HUG7|A0A1L8HUG7_XENLA -          Nup153               PF08604.7        1.7    8.7   0.0       1.7    8.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005471mg PE=4 SV=1
+tr|A0A1L8HSN9|A0A1L8HSN9_XENLA -          Nup153               PF08604.7        4.7    7.2   0.0       5.7    6.9   0.0   1.0   1   0   0   1   1   1   0 PA domain-containing protein OS=Xenopus laevis OX=8355 GN=pradc1 PE=4 SV=1
+tr|O57527|O57527_XENLA         -          Nup153               PF08604.7        8.6    6.3   0.0        13    5.7   0.0   1.2   1   0   0   1   1   1   0 Sodium/potassium-transporting ATPase subunit beta OS=Xenopus laevis OX=8355 GN=atp4b PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:43:03 2022
+# [ok]

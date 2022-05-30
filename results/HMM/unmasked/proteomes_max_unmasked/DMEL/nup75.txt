@@ -1,0 +1,54 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1YK02|NUP75_DROME          -          Nucleopor_Nup85      PF07575.10  4.9e-163  544.0  11.6  7.5e-163  543.4  10.5   1.7   2   0   0   2   2   2   1 Nuclear pore complex protein Nup75 OS=Drosophila melanogaster OX=7227 GN=Nup75 PE=2 SV=1
+tr|Q9Y0Y5|Q9Y0Y5_DROME         -          Nucleopor_Nup85      PF07575.10     0.079   11.8   0.1       0.1   11.4   0.1   1.1   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Drosophila melanogaster OX=7227 GN=epsilonCOP PE=1 SV=1
+tr|Q9W019|Q9W019_DROME         -          Nucleopor_Nup85      PF07575.10      0.29   10.0   0.2      0.38    9.6   0.2   1.2   1   0   0   1   1   1   0 IP09724p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15877 PE=1 SV=1
+tr|Q9VK00|Q9VK00_DROME         -          Nucleopor_Nup85      PF07575.10      0.62    8.9   4.6      0.88    8.4   0.6   2.1   1   1   1   2   2   2   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16826 PE=1 SV=1
+tr|Q9W097|Q9W097_DROME         -          Nucleopor_Nup85      PF07575.10      0.72    8.7   0.3       1.8    7.3   0.1   1.7   1   1   1   2   2   2   0 LD29485p OS=Drosophila melanogaster OX=7227 GN=Oseg4 PE=2 SV=1
+tr|Q9VV82|Q9VV82_DROME         -          Nucleopor_Nup85      PF07575.10      0.78    8.5   0.2       1.4    7.7   0.2   1.3   1   0   0   1   1   1   0 Artemis, isoform A OS=Drosophila melanogaster OX=7227 GN=Arts PE=4 SV=2
+tr|M9PFR8|M9PFR8_DROME         -          Nucleopor_Nup85      PF07575.10      0.78    8.5   0.1       1.4    7.7   0.1   1.3   1   0   0   1   1   1   0 Artemis, isoform B OS=Drosophila melanogaster OX=7227 GN=Arts PE=4 SV=1
+sp|Q9VDE6|EXOC6_DROME          -          Nucleopor_Nup85      PF07575.10       1.1    8.0   0.1       2.5    6.9   0.1   1.6   1   0   0   1   1   1   0 Exocyst complex component 6 OS=Drosophila melanogaster OX=7227 GN=Sec15 PE=1 SV=1
+tr|Q8IMT4|Q8IMT4_DROME         -          Nucleopor_Nup85      PF07575.10       1.3    7.8   0.2       3.6    6.4   0.0   1.7   2   0   0   2   2   2   0 CHK domain-containing protein OS=Drosophila melanogaster OX=7227 GN=CG13665 PE=1 SV=1
+tr|Q9W2L0|Q9W2L0_DROME         -          Nucleopor_Nup85      PF07575.10       1.6    7.5   0.0         2    7.2   0.0   1.1   1   0   0   1   1   1   0 IP07479p OS=Drosophila melanogaster OX=7227 GN=CBP5 PE=2 SV=1
+tr|M9PFW8|M9PFW8_DROME         -          Nucleopor_Nup85      PF07575.10       1.8    7.4   0.2         3    6.6   0.2   1.3   1   0   0   1   1   1   0 Apollo, isoform B OS=Drosophila melanogaster OX=7227 GN=Apl PE=4 SV=1
+tr|Q9I7R5|Q9I7R5_DROME         -          Nucleopor_Nup85      PF07575.10       1.8    7.4   0.1       3.1    6.5   0.1   1.3   1   0   0   1   1   1   0 Apollo, isoform A OS=Drosophila melanogaster OX=7227 GN=Apl PE=4 SV=2
+tr|Q9VRD3|Q9VRD3_DROME         -          Nucleopor_Nup85      PF07575.10       2.4    6.9   0.1       5.4    5.8   0.1   1.5   1   0   0   1   1   1   0 FI06015p OS=Drosophila melanogaster OX=7227 GN=r-cup PE=2 SV=1
+tr|X2JD28|X2JD28_DROME         -          Nucleopor_Nup85      PF07575.10       2.4    6.9   1.5        13    4.5   0.3   1.9   1   1   1   2   2   2   0 Uncharacterized protein, isoform E OS=Drosophila melanogaster OX=7227 GN=BcDNA:LP02641 PE=4 SV=1
+tr|Q86BQ6|Q86BQ6_DROME         -          Nucleopor_Nup85      PF07575.10       2.6    6.8   1.4        16    4.2   0.3   2.0   1   1   1   2   2   2   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17754 PE=4 SV=1
+tr|X2JE93|X2JE93_DROME         -          Nucleopor_Nup85      PF07575.10       2.8    6.7   1.3        17    4.2   0.3   2.0   1   1   1   2   2   2   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=BcDNA:LP02641 PE=4 SV=1
+tr|Q7K0L2|Q7K0L2_DROME         -          Nucleopor_Nup85      PF07575.10       2.8    6.7   1.3        17    4.1   0.3   2.0   1   1   1   2   2   2   0 LP02641p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17754 PE=2 SV=1
+tr|Q9VC94|Q9VC94_DROME         -          Nucleopor_Nup85      PF07575.10         3    6.6   1.6       4.7    6.0   1.6   1.2   1   0   0   1   1   1   0 LD41803p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5728 PE=1 SV=2
+tr|Q9VJ86|Q9VJ86_DROME         -          Nucleopor_Nup85      PF07575.10         3    6.6   0.0        11    4.8   0.0   1.9   1   0   0   1   1   1   0 Bicoid stability factor OS=Drosophila melanogaster OX=7227 GN=bsf PE=1 SV=2
+sp|Q7YU24|MARF_DROME           -          Nucleopor_Nup85      PF07575.10       3.4    6.4   4.3      0.52    9.1   0.3   1.5   2   0   0   2   2   1   0 Transmembrane GTPase Marf OS=Drosophila melanogaster OX=7227 GN=Marf PE=1 SV=1
+tr|Q0E8J5|Q0E8J5_DROME         -          Nucleopor_Nup85      PF07575.10       3.5    6.4   1.2        67    2.1   0.2   3.2   2   0   0   2   2   2   0 Zormin, isoform K OS=Drosophila melanogaster OX=7227 GN=zormin PE=1 SV=2
+sp|P52304|POLO_DROME           -          Nucleopor_Nup85      PF07575.10       3.8    6.3   0.1       7.4    5.3   0.0   1.4   2   0   0   2   2   1   0 Serine/threonine-protein kinase polo OS=Drosophila melanogaster OX=7227 GN=polo PE=1 SV=2
+sp|Q9VEZ5|IKKB_DROME           -          Nucleopor_Nup85      PF07575.10       3.8    6.3   0.3       5.8    5.7   0.3   1.2   1   0   0   1   1   1   0 Inhibitor of nuclear factor kappa-B kinase subunit beta OS=Drosophila melanogaster OX=7227 GN=IKKbeta PE=1 SV=2
+tr|Q7KA66|Q7KA66_DROME         -          Nucleopor_Nup85      PF07575.10         4    6.2   0.2       4.8    5.9   0.2   1.1   1   0   0   1   1   1   0 Serpin 43Aa OS=Drosophila melanogaster OX=7227 GN=Spn43Aa PE=1 SV=1
+tr|D3DMS2|D3DMS2_DROME         -          Nucleopor_Nup85      PF07575.10       4.8    5.9   0.8        17    4.1   0.5   1.7   1   1   1   2   2   2   0 MIP16660p OS=Drosophila melanogaster OX=7227 GN=CG34041-RA PE=2 SV=1
+tr|Q9VD00|Q9VD00_DROME         -          Nucleopor_Nup85      PF07575.10       4.8    5.9   0.0       5.5    5.7   0.0   1.1   1   0   0   1   1   1   0 FI07666p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5377 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          Nucleopor_Nup85      PF07575.10       4.9    5.9   0.2        63    2.2   0.1   2.4   3   0   0   3   3   3   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9VL13|MOB3_DROME           -          Nucleopor_Nup85      PF07575.10         5    5.9   0.1        45    2.7   0.0   1.9   1   1   1   2   2   2   0 MOB kinase activator-like 3 OS=Drosophila melanogaster OX=7227 GN=Mob3 PE=2 SV=1
+sp|Q9VTM0|BL1S6_DROME          -          Nucleopor_Nup85      PF07575.10         5    5.9   0.9       6.6    5.5   0.9   1.2   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 6 OS=Drosophila melanogaster OX=7227 GN=Pldn PE=1 SV=2
+sp|Q7K4W1|CDKAL_DROME          -          Nucleopor_Nup85      PF07575.10       5.1    5.8   0.0       7.8    5.2   0.0   1.2   1   0   0   1   1   1   0 Threonylcarbamoyladenosine tRNA methylthiotransferase OS=Drosophila melanogaster OX=7227 GN=CG6550 PE=2 SV=1
+tr|A0A0B4LFW0|A0A0B4LFW0_DROME -          Nucleopor_Nup85      PF07575.10       5.7    5.7   0.0       9.2    5.0   0.0   1.3   1   0   0   1   1   1   0 ADP ribosylation factor-like 6, isoform B OS=Drosophila melanogaster OX=7227 GN=Arl6 PE=3 SV=1
+tr|A1ZBK9|A1ZBK9_DROME         -          Nucleopor_Nup85      PF07575.10       5.9    5.6   0.0       9.3    5.0   0.0   1.3   1   0   0   1   1   1   0 ADP ribosylation factor-like 6, isoform A OS=Drosophila melanogaster OX=7227 GN=Arl6 PE=3 SV=1
+sp|Q8SYD0|TTC19_DROME          -          Nucleopor_Nup85      PF07575.10       6.1    5.6   0.3       9.9    4.9   0.3   1.4   1   1   0   1   1   1   0 Tetratricopeptide repeat protein 19 homolog, mitochondrial OS=Drosophila melanogaster OX=7227 GN=Ttc19 PE=2 SV=1
+tr|Q9V3Z7|Q9V3Z7_DROME         -          Nucleopor_Nup85      PF07575.10       6.4    5.5   0.0        11    4.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=BG:DS03023.2 PE=4 SV=1
+tr|M9PD03|M9PD03_DROME         -          Nucleopor_Nup85      PF07575.10       6.7    5.5   0.0        11    4.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9586 PE=4 SV=1
+tr|Q7JW01|Q7JW01_DROME         -          Nucleopor_Nup85      PF07575.10       6.8    5.4   0.3        11    4.7   0.3   1.3   1   0   0   1   1   1   0 LD14312p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15107 PE=2 SV=1
+tr|A0A0B4KFV4|A0A0B4KFV4_DROME -          Nucleopor_Nup85      PF07575.10         7    5.4   0.3        12    4.7   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15107 PE=4 SV=1
+tr|Q8MS38|Q8MS38_DROME         -          Nucleopor_Nup85      PF07575.10       7.1    5.4   0.0        16    4.2   0.0   1.6   1   0   0   1   1   1   0 RE15216p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG33217 PE=1 SV=1
+tr|M9PBJ1|M9PBJ1_DROME         -          Nucleopor_Nup85      PF07575.10       8.1    5.2   1.2        85    1.8   0.2   2.8   2   0   0   2   2   2   0 Zormin, isoform J OS=Drosophila melanogaster OX=7227 GN=zormin PE=1 SV=1
+sp|Q9VIQ0|SNPF_DROME           -          Nucleopor_Nup85      PF07575.10       8.6    5.1   0.2        11    4.8   0.2   1.1   1   0   0   1   1   1   0 Short neuropeptide F OS=Drosophila melanogaster OX=7227 GN=sNPF PE=1 SV=4
+tr|Q4V551|Q4V551_DROME         -          Nucleopor_Nup85      PF07575.10       9.6    4.9   0.0        17    4.1   0.0   1.3   1   0   0   1   1   1   0 IP13758p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7907 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:44:28 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57740|NU107_HUMAN          -          Nup84_Nup100         PF04121.10  6.3e-187  624.9  11.4  7.2e-187  624.7  11.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|H0YG15|H0YG15_HUMAN         -          Nup84_Nup100         PF04121.10   1.3e-16   62.0   0.1   1.4e-16   61.9   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+sp|Q9H9A6|LRC40_HUMAN          -          Nup84_Nup100         PF04121.10      0.36   11.0   0.0       0.6   10.3   0.0   1.2   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 40 OS=Homo sapiens OX=9606 GN=LRRC40 PE=1 SV=1
+tr|E7EW37|E7EW37_HUMAN         -          Nup84_Nup100         PF04121.10       1.1    9.4   0.0       1.4    9.1   0.0   1.0   1   0   0   1   1   1   0 Transportin-1 OS=Homo sapiens OX=9606 GN=TNPO1 PE=1 SV=1
+tr|H0YC80|H0YC80_HUMAN         -          Nup84_Nup100         PF04121.10       5.1    7.2   0.0       6.1    6.9   0.0   1.0   1   0   0   1   1   1   0 Protein FAM91A1 (Fragment) OS=Homo sapiens OX=9606 GN=FAM91A1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:28:53 2022
+# [ok]

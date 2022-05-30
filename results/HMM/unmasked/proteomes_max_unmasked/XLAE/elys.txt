@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8G7Z4|A0A1L8G7Z4_XENLA -          ELYS                 PF13934.3    2.6e-52  179.3   0.3   5.6e-52  178.2   0.3   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026789mg PE=1 SV=1
+tr|A0A1L8G293|A0A1L8G293_XENLA -          ELYS                 PF13934.3      4e-52  178.7   0.6   8.4e-52  177.6   0.6   1.6   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029035mg PE=4 SV=1
+tr|A0A1L8GTC8|A0A1L8GTC8_XENLA -          ELYS                 PF13934.3      0.032   15.5   1.0       2.1    9.6   0.0   2.9   2   1   1   3   3   3   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020788mg PE=4 SV=1
+tr|A0A1L8HXP4|A0A1L8HXP4_XENLA -          ELYS                 PF13934.3      0.067   14.5   0.2     0.089   14.1   0.2   1.3   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Xenopus laevis OX=8355 GN=cope PE=1 SV=1
+tr|A0A1L8HTE8|A0A1L8HTE8_XENLA -          ELYS                 PF13934.3       0.38   12.0   0.3      0.53   11.5   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=msantd1 PE=4 SV=1
+tr|A0A1L8HKP9|A0A1L8HKP9_XENLA -          ELYS                 PF13934.3       0.48   11.7   0.3      0.66   11.2   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=msantd1 PE=4 SV=1
+tr|A0A1L8EYA0|A0A1L8EYA0_XENLA -          ELYS                 PF13934.3       0.88   10.8   7.4       2.2    9.5   0.2   3.9   4   0   0   4   4   4   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045411mg PE=1 SV=1
+tr|A0A1L8GNC4|A0A1L8GNC4_XENLA -          ELYS                 PF13934.3        1.4   10.1   0.1         2    9.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023484mg PE=4 SV=1
+tr|Q6PA38|Q6PA38_XENLA         -          ELYS                 PF13934.3        3.1    9.0   0.0       4.4    8.5   0.0   1.2   1   0   0   1   1   1   0 MGC68604 protein OS=Xenopus laevis OX=8355 GN=polr2e PE=1 SV=1
+tr|A0A1L8H8A2|A0A1L8H8A2_XENLA -          ELYS                 PF13934.3        4.2    8.6   0.2       8.7    7.5   0.2   1.6   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015366mg PE=4 SV=1
+tr|A0A1L8FR58|A0A1L8FR58_XENLA -          ELYS                 PF13934.3        4.3    8.5   0.9        31    5.7   0.1   1.8   1   1   1   2   2   2   0 BHLH domain-containing protein OS=Xenopus laevis OX=8355 GN=twist1 PE=4 SV=1
+tr|A0A1L8HG57|A0A1L8HG57_XENLA -          ELYS                 PF13934.3        4.4    8.5   0.1        10    7.3   0.1   1.6   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Xenopus laevis OX=8355 GN=rmc1 PE=4 SV=1
+tr|A0A1L8GT46|A0A1L8GT46_XENLA -          ELYS                 PF13934.3        4.5    8.5   0.1         8    7.7   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020714mg PE=4 SV=1
+tr|A0A1L8HSK4|A0A1L8HSK4_XENLA -          ELYS                 PF13934.3        5.3    8.2   0.3       5.7    8.2   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18004862mg PE=4 SV=1
+tr|B7ZPK2|B7ZPK2_XENLA         -          ELYS                 PF13934.3        5.3    8.2   0.0         7    7.9   0.0   1.1   1   0   0   1   1   1   0 Arf4 protein OS=Xenopus laevis OX=8355 GN=arf4 PE=1 SV=1
+tr|A0A1L8G6X6|A0A1L8G6X6_XENLA -          ELYS                 PF13934.3        5.9    8.1   0.5         7    7.8   0.4   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026539mg PE=4 SV=1
+tr|A1L2X6|A1L2X6_XENLA         -          ELYS                 PF13934.3          6    8.1   1.4        42    5.3   0.8   1.8   1   1   1   2   2   2   0 LOC100036981 protein OS=Xenopus laevis OX=8355 GN=twist1 PE=2 SV=1
+tr|A0A1L8GT82|A0A1L8GT82_XENLA -          ELYS                 PF13934.3        6.8    7.9   0.1        12    7.1   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020714mg PE=4 SV=1
+tr|A0A1L8H098|A0A1L8H098_XENLA -          ELYS                 PF13934.3        7.3    7.8   0.0        14    6.9   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018120mg PE=4 SV=1
+tr|A0A1L8EZW6|A0A1L8EZW6_XENLA -          ELYS                 PF13934.3        7.4    7.8   0.3   2.8e+02    2.6   0.1   2.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=daam1 PE=4 SV=1
+tr|A0A1L8F790|A0A1L8F790_XENLA -          ELYS                 PF13934.3        8.9    7.5   0.0        53    5.0   0.0   2.1   2   0   0   2   2   2   0 USP domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18038749mg PE=3 SV=1
+tr|A0A1L8G5B9|A0A1L8G5B9_XENLA -          ELYS                 PF13934.3        9.3    7.5   0.0        14    6.8   0.0   1.2   1   0   0   1   1   1   0 Ammonium_transp domain-containing protein OS=Xenopus laevis OX=8355 GN=rhag PE=3 SV=1
+tr|A0A1L8H9Z2|A0A1L8H9Z2_XENLA -          ELYS                 PF13934.3        9.3    7.4   0.1        13    7.0   0.1   1.3   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015995mg PE=4 SV=1
+tr|A0A1L8HIB6|A0A1L8HIB6_XENLA -          ELYS                 PF13934.3        9.5    7.4   0.1        13    7.0   0.1   1.2   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013530mg PE=4 SV=1
+tr|A0A310TLZ5|A0A310TLZ5_XENLA -          ELYS                 PF13934.3         10    7.4   0.3        18    6.5   0.0   1.6   2   0   0   2   2   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18000339mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 17:14:58 2022
+# [ok]

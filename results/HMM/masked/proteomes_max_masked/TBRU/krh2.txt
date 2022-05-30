@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38E33|Q38E33_TRYB2 -          UPF0121              PF03661.10       3.6    5.8   0.0       4.9    5.4   0.0   1.2   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1220 PE=4 SV=1
+tr|Q387Q7|Q387Q7_TRYB2 -          UPF0121              PF03661.10       4.8    5.4   0.1       8.1    4.6   0.0   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.0200 PE=4 SV=1
+tr|Q38FG2|Q38FG2_TRYB2 -          UPF0121              PF03661.10       5.7    5.1   0.1         7    4.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.2310 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:57 2022
+# [ok]

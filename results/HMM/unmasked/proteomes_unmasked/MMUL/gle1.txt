@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QE51|A0A1D5QE51_MACMU -          GLE1                 PF07817.10   1.1e-86  291.4   0.1   1.9e-86  290.7   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin GLE1 isoform 1 OS=Macaca mulatta OX=9544 GN=GLE1 PE=2 SV=1
+tr|F7EBM4|F7EBM4_MACMU         -          GLE1                 PF07817.10      0.24   11.9   0.9       0.3   11.6   0.3   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ANKRD6 PE=4 SV=2
+tr|F6UDL3|F6UDL3_MACMU         -          GLE1                 PF07817.10      0.25   11.8   0.0      0.41   11.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+tr|A0A1D5QGF8|A0A1D5QGF8_MACMU -          GLE1                 PF07817.10      0.42   11.1   0.0      0.71   10.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+tr|F6UDM0|F6UDM0_MACMU         -          GLE1                 PF07817.10      0.42   11.1   0.0      0.72   10.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=2
+tr|F7FZI3|F7FZI3_MACMU         -          GLE1                 PF07817.10      0.43   11.1  12.9      0.78   10.2   0.1   2.2   2   0   0   2   2   2   0 Macoilin OS=Macaca mulatta OX=9544 GN=MACO1 PE=4 SV=2
+tr|A0A1D5QCF9|A0A1D5QCF9_MACMU -          GLE1                 PF07817.10      0.51   10.8   0.0      0.86   10.1   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+tr|H9FWL6|H9FWL6_MACMU         -          GLE1                 PF07817.10       1.4    9.4  12.9       1.5    9.3   0.1   2.3   2   0   0   2   2   2   0 Macoilin OS=Macaca mulatta OX=9544 GN=TMEM57 PE=2 SV=1
+sp|Q2TLZ4|MACOI_MACMU          -          GLE1                 PF07817.10       1.7    9.1  12.3         2    8.9   0.2   2.3   2   0   0   2   2   2   0 Macoilin OS=Macaca mulatta OX=9544 GN=MACO1 PE=2 SV=1
+tr|A0A1D5R6B8|A0A1D5R6B8_MACMU -          GLE1                 PF07817.10       2.2    8.7   4.2        12    6.3   0.3   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=STXBP4 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:58 2022
+# [ok]

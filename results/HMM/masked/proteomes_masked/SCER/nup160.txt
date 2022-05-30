@@ -1,0 +1,37 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P39014|MET30_YEAST -          Nup160               PF11715.5    1.3e-10   39.0   5.9     0.029   11.5   0.1   5.8   3   2   3   6   6   6   4 F-box protein MET30 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MET30 PE=1 SV=1
+sp|P41318|LST8_YEAST  -          Nup160               PF11715.5    3.7e-10   37.5   9.2    0.0017   15.5   0.1   4.9   2   2   1   4   4   4   4 Target of rapamycin complex subunit LST8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LST8 PE=1 SV=1
+sp|P47025|MDV1_YEAST  -          Nup160               PF11715.5      3e-09   34.5   6.2    0.0015   15.7   0.1   4.9   1   1   4   5   5   5   3 Mitochondrial division protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MDV1 PE=1 SV=1
+sp|Q12220|UTP12_YEAST -          Nup160               PF11715.5    7.6e-09   33.2   5.4     0.011   12.9   0.0   4.7   4   1   1   5   5   5   2 U3 small nucleolar RNA-associated protein 12 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DIP2 PE=1 SV=1
+sp|Q06440|CORO_YEAST  -          Nup160               PF11715.5    1.2e-07   29.2   0.1   7.2e-05   20.1   0.0   2.1   1   1   1   2   2   2   2 Coronin-like protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CRN1 PE=1 SV=1
+sp|P53622|COPA_YEAST  -          Nup160               PF11715.5    2.8e-06   24.7   2.8      0.16    9.0   0.1   3.2   2   1   1   3   3   3   3 Coatomer subunit alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COP1 PE=1 SV=2
+sp|P36130|CAF4_YEAST  -          Nup160               PF11715.5    5.2e-06   23.8   2.5      0.48    7.5   0.1   4.4   4   1   0   5   5   5   3 CCR4-associated factor 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CAF4 PE=1 SV=3
+sp|P20484|MAK11_YEAST -          Nup160               PF11715.5    9.6e-06   23.0   0.6     0.011   12.8   0.1   2.4   2   0   0   2   2   2   2 Protein MAK11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MAK11 PE=1 SV=2
+sp|P38011|GBLP_YEAST  -          Nup160               PF11715.5    1.2e-05   22.7   7.2    0.0057   13.8   0.1   4.6   2   1   4   6   6   6   2 Guanine nucleotide-binding protein subunit beta-like protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ASC1 PE=1 SV=4
+sp|P16649|TUP1_YEAST  -          Nup160               PF11715.5    4.6e-05   20.7   0.0      0.14    9.2   0.1   2.9   2   1   1   3   3   3   2 General transcriptional corepressor TUP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TUP1 PE=1 SV=2
+sp|Q12024|YTM1_YEAST  -          Nup160               PF11715.5    9.1e-05   19.7   0.6     0.039   11.1   0.0   2.8   3   0   0   3   3   3   2 Ribosome biogenesis protein YTM1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YTM1 PE=1 SV=1
+sp|P13712|MSI1_YEAST  -          Nup160               PF11715.5    0.00013   19.3   0.0   0.00014   19.1   0.0   1.2   1   0   0   1   1   1   1 Chromatin assembly factor 1 subunit p50 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MSI1 PE=1 SV=1
+sp|P38123|SWD3_YEAST  -          Nup160               PF11715.5    0.00022   18.5   0.1       0.2    8.7   0.0   2.3   1   1   1   2   2   2   2 COMPASS component SWD3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SWD3 PE=1 SV=1
+sp|P41811|COPB2_YEAST -          Nup160               PF11715.5    0.00038   17.7   1.1     0.061   10.4   0.1   3.3   3   1   1   4   4   4   1 Coatomer subunit beta' OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SEC27 PE=1 SV=1
+sp|Q12417|PRP46_YEAST -          Nup160               PF11715.5    0.00066   16.9   2.4     0.045   10.9   0.0   3.3   2   1   1   4   4   4   1 Pre-mRNA-splicing factor PRP46 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PRP46 PE=1 SV=1
+sp|Q05946|UTP13_YEAST -          Nup160               PF11715.5    0.00076   16.7   5.5      0.85    6.6   0.3   5.0   5   1   0   5   5   5   1 U3 small nucleolar RNA-associated protein 13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=UTP13 PE=1 SV=1
+sp|P39946|LIS1_YEAST  -          Nup160               PF11715.5     0.0011   16.1   5.8      0.11    9.5   0.1   3.4   2   2   0   3   3   3   2 Nuclear distribution protein PAC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PAC1 PE=1 SV=2
+sp|P25382|NLE1_YEAST  -          Nup160               PF11715.5     0.0018   15.5  10.3       2.1    5.4   0.6   5.1   3   1   2   6   6   6   1 Ribosome assembly protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RSA4 PE=1 SV=3
+sp|P38129|TAF5_YEAST  -          Nup160               PF11715.5     0.0033   14.6   2.0      0.97    6.4   0.0   3.4   2   2   0   3   3   3   1 Transcription initiation factor TFIID subunit 5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TAF5 PE=1 SV=1
+sp|P40217|EIF3I_YEAST -          Nup160               PF11715.5     0.0048   14.1   0.1     0.036   11.2   0.0   1.9   2   0   0   2   2   2   1 Eukaryotic translation initiation factor 3 subunit I OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIF34 PE=1 SV=1
+sp|P46680|AIP1_YEAST  -          Nup160               PF11715.5       0.03   11.5   0.5     0.072   10.2   0.6   1.5   1   1   0   1   1   1   0 Actin-interacting protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AIP1 PE=1 SV=1
+sp|P32330|DGR2_YEAST  -          Nup160               PF11715.5      0.044   10.9   0.0      0.18    8.9   0.0   1.8   1   1   1   2   2   2   0 2-deoxy-glucose resistant protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DGR2 PE=1 SV=1
+sp|P40066|GLE2_YEAST  -          Nup160               PF11715.5      0.066   10.3   0.0       1.9    5.5   0.0   2.1   2   0   0   2   2   2   0 Nucleoporin GLE2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GLE2 PE=1 SV=1
+sp|P21304|PWP1_YEAST  -          Nup160               PF11715.5      0.072   10.2   0.4       3.3    4.7   0.2   2.0   2   0   0   2   2   2   0 Periodic tryptophan protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PWP1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11715.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/nup160.txt --cpu 8 hmm_profiles/PF11715.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:13 2022
+# [ok]

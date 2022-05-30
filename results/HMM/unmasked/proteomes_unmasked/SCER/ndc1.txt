@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P32500|NDC1_YEAST  -          Ndc1_Nup             PF09531.7   4.6e-107  357.7   5.1  5.5e-107  357.4   5.1   1.1   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NDC1 PE=1 SV=1
+sp|Q06511|RRP15_YEAST -          Ndc1_Nup             PF09531.7       0.93    6.6   8.4       1.1    6.4   8.4   1.1   1   0   0   1   1   1   0 Ribosomal RNA-processing protein 15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRP15 PE=1 SV=1
+sp|P36046|MIA40_YEAST -          Ndc1_Nup             PF09531.7        1.9    5.6   8.8       2.2    5.3   8.8   1.4   1   0   0   1   1   1   0 Mitochondrial intermembrane space import and assembly protein 40 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MIA40 PE=1 SV=2
+sp|Q12518|ENT1_YEAST  -          Ndc1_Nup             PF09531.7        6.9    3.7  14.7       8.9    3.4  14.7   1.2   1   0   0   1   1   1   0 Epsin-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ENT1 PE=1 SV=1
+sp|P40552|TIR3_YEAST  -          Ndc1_Nup             PF09531.7        8.7    3.4  23.1        12    3.0  23.1   1.1   1   0   0   1   1   1   0 Cell wall protein TIR3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIR3 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes/SCER/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:20 2022
+# [ok]

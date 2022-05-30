@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9U3C1|Q9U3C1_CAEEL -          Nup54                PF13874.3    2.4e-39  135.2   0.4   2.4e-39  135.2   0.4   1.6   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|Q21295|Q21295_CAEEL -          Nup54                PF13874.3    2.9e-39  135.0   0.4   2.9e-39  135.0   0.4   1.6   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=3
+tr|Q9U3B9|Q9U3B9_CAEEL -          Nup54                PF13874.3    3.1e-39  134.9   0.4   3.1e-39  134.9   0.4   1.6   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|O62260|O62260_CAEEL -          Nup54                PF13874.3      0.034   14.8  11.3     0.055   14.2  11.3   1.4   1   1   0   1   1   1   0 RING-type domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F53F8.3 PE=4 SV=1
+tr|X5LV96|X5LV96_CAEEL -          Nup54                PF13874.3      0.034   14.8   1.2     0.073   13.8   1.2   1.5   1   0   0   1   1   1   0 TUBby-related OS=Caenorhabditis elegans OX=6239 GN=tub-2 PE=1 SV=1
+sp|Q93833|CHE13_CAEEL  -          Nup54                PF13874.3       0.37   11.5   6.3      0.81   10.4   6.3   1.6   1   1   0   1   1   1   0 Intraflagellar transport protein che-13 OS=Caenorhabditis elegans OX=6239 GN=che-13 PE=1 SV=2
+tr|Q9BL53|Q9BL53_CAEEL -          Nup54                PF13874.3       0.65   10.7   3.6      0.47   11.1   1.6   1.7   2   0   0   2   2   2   0 TUBby-related OS=Caenorhabditis elegans OX=6239 GN=tub-2 PE=1 SV=2
+tr|Q9N402|Q9N402_CAEEL -          Nup54                PF13874.3        1.2    9.8  10.5       2.5    8.8  10.2   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39G10AL.1 PE=4 SV=2
+tr|P91050|P91050_CAEEL -          Nup54                PF13874.3        1.3    9.7   8.9      0.25   12.0   2.7   2.3   1   1   1   2   2   2   0 Ubiquitin-like domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C16C8.11 PE=4 SV=1
+sp|Q09372|NPP24_CAEEL  -          Nup54                PF13874.3        5.4    7.7   7.0      0.59   10.8   1.9   1.9   2   1   0   2   2   2   0 Protein npp-24 OS=Caenorhabditis elegans OX=6239 GN=npp-24 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:04 2022
+# [ok]

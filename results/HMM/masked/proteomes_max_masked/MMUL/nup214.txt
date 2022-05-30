@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QF60|A0A1D5QF60_MACMU -          NUP214               PF16755.2       0.63   10.5   1.7         3    8.3   0.1   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LRRD1 PE=4 SV=1
+tr|F6ZQG7|F6ZQG7_MACMU         -          NUP214               PF16755.2        1.4    9.4   0.0        73    3.7   0.0   2.1   1   1   1   2   2   2   0 p21-activated protein kinase-interacting protein 1 OS=Macaca mulatta OX=9544 GN=PAK1IP1 PE=2 SV=1
+tr|F7A5K9|F7A5K9_MACMU         -          NUP214               PF16755.2        5.7    7.4   0.0       7.9    6.9   0.0   1.1   1   0   0   1   1   1   0 Cell cycle checkpoint protein RAD1 OS=Macaca mulatta OX=9544 GN=RAD1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:20:23 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q12164|POM33_YEAST -          UPF0121              PF03661.10   4.2e-13   47.6   9.5   1.6e-12   45.7   9.5   1.7   1   1   0   1   1   1   1 Pore membrane protein of 33 kDa OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=POM33 PE=1 SV=1
+sp|Q12144|PER33_YEAST -          UPF0121              PF03661.10     0.038   11.8   4.9      0.36    8.5   1.2   2.1   2   0   0   2   2   2   0 Pore and endoplasmic reticulum protein of 33 kDa OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PER33 PE=1 SV=1
+sp|P53217|YG1I_YEAST  -          UPF0121              PF03661.10     0.079   10.7   7.6         1    7.1   7.5   2.0   1   1   0   1   1   1   0 Uncharacterized membrane protein YGR026W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YGR026W PE=1 SV=1
+sp|Q3E815|YH175_YEAST -          UPF0121              PF03661.10      0.24    9.2   0.6      0.22    9.3   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized membrane protein YHR175W-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHR175W-A PE=4 SV=1
+sp|P32864|RAEP_YEAST  -          UPF0121              PF03661.10       1.9    6.2   0.1       2.7    5.7   0.1   1.1   1   0   0   1   1   1   0 Rab proteins geranylgeranyltransferase component A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MRS6 PE=1 SV=2
+sp|Q12333|FRE7_YEAST  -          UPF0121              PF03661.10       3.6    5.3   0.0       9.7    3.9   0.0   1.6   1   0   0   1   1   1   0 Ferric/cupric reductase transmembrane component 7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FRE7 PE=1 SV=2
+sp|Q04226|TAF11_YEAST -          UPF0121              PF03661.10       5.5    4.7   0.0       8.9    4.0   0.0   1.2   1   0   0   1   1   1   0 Transcription initiation factor TFIID subunit 11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TAF11 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:32 2022
+# [ok]

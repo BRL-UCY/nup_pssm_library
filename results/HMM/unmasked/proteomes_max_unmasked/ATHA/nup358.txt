@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9LRX6|Y3485_ARATH          -          IR1-M                PF12185.5       0.44   11.6   0.1       1.2   10.2   0.1   1.7   1   0   0   1   1   1   0 Putative B3 domain-containing protein At3g24850 OS=Arabidopsis thaliana OX=3702 GN=At3g24850 PE=3 SV=1
+tr|A0A1P8BBQ2|A0A1P8BBQ2_ARATH -          IR1-M                PF12185.5        2.2    9.4   0.8       5.8    8.0   0.8   1.7   1   0   0   1   1   1   0 Programmed cell death 2 C-terminal domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=MXK3.5 PE=4 SV=1
+tr|B9DH89|B9DH89_ARATH         -          IR1-M                PF12185.5        2.3    9.3   0.8       6.5    7.9   0.8   1.8   1   0   0   1   1   1   0 AT5G64830 protein OS=Arabidopsis thaliana OX=3702 GN=MXK3.5 PE=2 SV=1
+tr|A0A1P8AUF3|A0A1P8AUF3_ARATH -          IR1-M                PF12185.5        2.3    9.3   0.1       4.9    8.3   0.1   1.4   1   0   0   1   1   1   0 Inositol polyphosphate 5-phosphatase I OS=Arabidopsis thaliana OX=3702 GN=IP5PI PE=4 SV=1
+tr|Q9LV94|Q9LV94_ARATH         -          IR1-M                PF12185.5        3.5    8.7   0.8       9.1    7.4   0.8   1.7   1   0   0   1   1   1   0 AT5g64830/MXK3_5 OS=Arabidopsis thaliana OX=3702 GN=MXK3.5 PE=2 SV=1
+tr|Q9FID2|Q9FID2_ARATH         -          IR1-M                PF12185.5        4.4    8.4   0.0        14    6.8   0.0   1.8   1   0   0   1   1   1   0 Acyltransferase-like protein OS=Arabidopsis thaliana OX=3702 GN=MXF12.90 PE=2 SV=1
+sp|P93758|RMR42_ARATH          -          IR1-M                PF12185.5        5.7    8.1   0.6        19    6.4   0.4   2.1   1   1   0   1   1   1   0 Remorin 4.2 OS=Arabidopsis thaliana OX=3702 GN=REM4.2 PE=1 SV=1
+sp|Q9FX64|HOP2_ARATH           -          IR1-M                PF12185.5        5.7    8.1   0.3        31    5.7   0.1   2.4   1   1   1   2   2   2   0 Homologous-pairing protein 2 homolog OS=Arabidopsis thaliana OX=3702 GN=HOP2 PE=1 SV=1
+tr|Q3E9V8|Q3E9V8_ARATH         -          IR1-M                PF12185.5        5.9    8.0   0.0       6.1    8.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At4g27415 PE=4 SV=1
+sp|Q940Z5|PMAT1_ARATH          -          IR1-M                PF12185.5        6.2    7.9   0.0        17    6.5   0.0   1.7   1   0   0   1   1   1   0 Phenolic glucoside malonyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=PMAT1 PE=1 SV=1
+tr|Q9C8W7|Q9C8W7_ARATH         -          IR1-M                PF12185.5        6.8    7.8   0.1        17    6.5   0.1   1.7   1   0   0   1   1   1   0 At1g71950 OS=Arabidopsis thaliana OX=3702 GN=At1g71950 PE=1 SV=1
+tr|B3H533|B3H533_ARATH         -          IR1-M                PF12185.5        8.1    7.6   0.0        20    6.3   0.0   1.6   1   0   0   1   1   1   0 AAA-type ATPase family protein OS=Arabidopsis thaliana OX=3702 GN=At1g45000 PE=4 SV=1
+tr|Q9CAY7|Q9CAY7_ARATH         -          IR1-M                PF12185.5        8.2    7.5   0.1        21    6.2   0.1   1.6   1   0   0   1   1   1   0 Cysteine/Histidine-rich C1 domain family protein OS=Arabidopsis thaliana OX=3702 GN=F24K9.3 PE=4 SV=1
+tr|A0A1I9LPH3|A0A1I9LPH3_ARATH -          IR1-M                PF12185.5          9    7.4   0.0        10    7.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Arabidopsis thaliana OX=3702 GN=At3g29173 PE=4 SV=1
+tr|A0A1P8AZZ4|A0A1P8AZZ4_ARATH -          IR1-M                PF12185.5        9.2    7.4   0.0        11    7.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At2g10455 PE=4 SV=1
+sp|Q9MAB6|ISU2_ARATH           -          IR1-M                PF12185.5        9.3    7.4   0.0        21    6.2   0.0   1.6   1   1   0   1   1   1   0 Iron-sulfur cluster assembly protein 2 OS=Arabidopsis thaliana OX=3702 GN=ISU2 PE=2 SV=1
+sp|Q9MAK9|PS10B_ARATH          -          IR1-M                PF12185.5         10    7.3   0.0        25    6.0   0.0   1.6   1   0   0   1   1   1   0 26S proteasome regulatory subunit S10B homolog B OS=Arabidopsis thaliana OX=3702 GN=RPT4B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup358.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 23:19:37 2022
+# [ok]

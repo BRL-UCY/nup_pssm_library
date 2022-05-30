@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9U3C1|Q9U3C1_CAEEL         -          Nup54                PF13874.3    7.6e-32  110.9   1.1   1.3e-31  110.1   1.1   1.3   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|Q21295|Q21295_CAEEL         -          Nup54                PF13874.3    9.2e-32  110.6   1.1   1.6e-31  109.9   1.1   1.3   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=3
+tr|Q9U3B9|Q9U3B9_CAEEL         -          Nup54                PF13874.3      1e-31  110.5   1.1   1.7e-31  109.8   1.1   1.3   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|X5LV96|X5LV96_CAEEL         -          Nup54                PF13874.3        2.1    9.0   0.3       3.7    8.2   0.3   1.4   1   0   0   1   1   1   0 TUBby-related OS=Caenorhabditis elegans OX=6239 GN=tub-2 PE=1 SV=1
+tr|Q95XJ5|Q95XJ5_CAEEL         -          Nup54                PF13874.3        5.6    7.6   0.1        26    5.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y45G5AM.7 PE=1 SV=1
+tr|Q966J7|Q966J7_CAEEL         -          Nup54                PF13874.3        8.2    7.1   0.5        14    6.4   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F35B3.7 PE=4 SV=4
+tr|Q9BL53|Q9BL53_CAEEL         -          Nup54                PF13874.3        8.9    7.0   0.3        17    6.1   0.3   1.4   1   0   0   1   1   1   0 TUBby-related OS=Caenorhabditis elegans OX=6239 GN=tub-2 PE=1 SV=2
+tr|Q95X89|Q95X89_CAEEL         -          Nup54                PF13874.3        9.5    6.9   0.3        18    6.0   0.3   1.6   1   1   0   1   1   1   0 SKN-1 Dependent Zygotic transcript OS=Caenorhabditis elegans OX=6239 GN=sdz-7 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:29 2022
+# [ok]

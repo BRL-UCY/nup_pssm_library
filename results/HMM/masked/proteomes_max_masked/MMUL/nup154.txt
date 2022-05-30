@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6SAY2|F6SAY2_MACMU         -          Nucleoporin_C        PF03177.11   3.5e-17   63.7   1.5   7.2e-17   62.7   1.5   1.4   1   1   0   1   1   1   1 Nucleoporin_C domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP133 PE=4 SV=2
+tr|A0A1D5QL31|A0A1D5QL31_MACMU -          Nucleoporin_C        PF03177.11   1.4e-08   35.3   2.9   2.2e-08   34.7   2.9   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=1
+tr|F6YTK1|F6YTK1_MACMU         -          Nucleoporin_C        PF03177.11     2e-06   28.2   0.3     3e-06   27.6   0.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=2
+tr|F7GZR4|F7GZR4_MACMU         -          Nucleoporin_C        PF03177.11       3.1    7.7   0.1       4.7    7.1   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|H9EU04|H9EU04_MACMU         -          Nucleoporin_C        PF03177.11       3.8    7.5   0.4       4.8    7.1   0.4   1.1   1   0   0   1   1   1   0 Angiopoietin-related protein 1 OS=Macaca mulatta OX=9544 GN=ANGPTL1 PE=2 SV=1
+tr|A0A1D5RF09|A0A1D5RF09_MACMU -          Nucleoporin_C        PF03177.11       4.1    7.3   0.0         6    6.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD302 PE=4 SV=1
+tr|A0A1D5QPB3|A0A1D5QPB3_MACMU -          Nucleoporin_C        PF03177.11       7.4    6.5   0.0       7.7    6.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F6PSN6|F6PSN6_MACMU         -          Nucleoporin_C        PF03177.11       8.2    6.4   0.0        12    5.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD302 PE=4 SV=2
+tr|A0A1D5R7K6|A0A1D5R7K6_MACMU -          Nucleoporin_C        PF03177.11       9.3    6.2   0.0        14    5.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD302 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:19:16 2022
+# [ok]

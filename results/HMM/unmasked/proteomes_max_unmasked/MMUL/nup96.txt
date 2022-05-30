@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9FV00|H9FV00_MACMU         -          Nup96                PF12110.5    3.2e-99  333.1   9.5     5e-99  332.4   9.5   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 isoform 1 OS=Macaca mulatta OX=9544 GN=NUP98 PE=2 SV=1
+tr|H9H2Z0|H9H2Z0_MACMU         -          Nup96                PF12110.5    1.6e-79  268.4   3.5   2.3e-79  267.9   3.5   1.2   1   0   0   1   1   1   1 Nup96 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|F6ZG82|F6ZG82_MACMU         -          Nup96                PF12110.5    4.7e-62  211.1   6.2   2.2e-50  172.8   1.1   2.3   1   1   1   2   2   2   2 Peptidase S59 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|A0A1D5Q774|A0A1D5Q774_MACMU -          Nup96                PF12110.5       0.22   11.9   0.3      0.37   11.2   0.3   1.2   1   0   0   1   1   1   0 Tyrosine-protein kinase receptor OS=Macaca mulatta OX=9544 GN=ALK PE=3 SV=1
+tr|F6PVR5|F6PVR5_MACMU         -          Nup96                PF12110.5       0.27   11.7   0.3      0.51   10.7   0.3   1.3   1   0   0   1   1   1   0 Tyrosine-protein kinase receptor OS=Macaca mulatta OX=9544 GN=ALK PE=3 SV=2
+tr|F6VAJ2|F6VAJ2_MACMU         -          Nup96                PF12110.5       0.29   11.6   0.1      0.57   10.6   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAM2 PE=4 SV=1
+tr|F7FPJ3|F7FPJ3_MACMU         -          Nup96                PF12110.5        0.3   11.5   0.1      0.58   10.6   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAM2 PE=4 SV=2
+tr|F6VAK2|F6VAK2_MACMU         -          Nup96                PF12110.5        0.3   11.5   0.1      0.59   10.5   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAM2 PE=4 SV=1
+tr|A0A1D5QST4|A0A1D5QST4_MACMU -          Nup96                PF12110.5       0.47   10.8   0.1       8.6    6.7   0.1   2.2   2   0   0   2   2   2   0 Protein kinase domain-containing protein OS=Macaca mulatta OX=9544 GN=HIPK2 PE=4 SV=1
+tr|F6ZEU1|F6ZEU1_MACMU         -          Nup96                PF12110.5       0.58   10.6   0.0      0.76   10.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=3 SV=2
+tr|F7B5A6|F7B5A6_MACMU         -          Nup96                PF12110.5       0.81   10.1   1.2       5.3    7.4   0.1   2.3   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT20 PE=3 SV=2
+tr|F6YC88|F6YC88_MACMU         -          Nup96                PF12110.5          1    9.8   0.1       1.8    9.0   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RMDN2 PE=4 SV=2
+tr|F7HGU6|F7HGU6_MACMU         -          Nup96                PF12110.5        1.5    9.2   0.1        17    5.7   0.1   2.1   2   0   0   2   2   2   0 Protein kinase domain-containing protein OS=Macaca mulatta OX=9544 GN=HIPK2 PE=4 SV=2
+tr|A0A1D5REI3|A0A1D5REI3_MACMU -          Nup96                PF12110.5        1.7    9.0   2.6       2.7    8.3   2.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RABGAP1L PE=4 SV=1
+tr|F7G1G2|F7G1G2_MACMU         -          Nup96                PF12110.5        1.7    9.0   2.6       2.8    8.3   2.6   1.3   1   0   0   1   1   1   0 Rab-GAP TBC domain-containing protein OS=Macaca mulatta OX=9544 GN=RABGAP1L PE=4 SV=2
+tr|F7G1E5|F7G1E5_MACMU         -          Nup96                PF12110.5        1.7    9.0   2.6       2.8    8.3   2.6   1.3   1   0   0   1   1   1   0 Rab-GAP TBC domain-containing protein OS=Macaca mulatta OX=9544 GN=RABGAP1L PE=4 SV=2
+tr|F7HGU8|F7HGU8_MACMU         -          Nup96                PF12110.5        2.3    8.6   0.1        22    5.3   0.0   2.1   2   0   0   2   2   2   0 Protein kinase domain-containing protein OS=Macaca mulatta OX=9544 GN=HIPK2 PE=4 SV=2
+tr|F7CXZ7|F7CXZ7_MACMU         -          Nup96                PF12110.5        2.4    8.5   5.5      0.81   10.1   1.6   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=COG1 PE=4 SV=2
+tr|F7BXC4|F7BXC4_MACMU         -          Nup96                PF12110.5        2.5    8.5   5.5      0.83   10.1   1.6   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=COG1 PE=4 SV=2
+tr|F7C2K0|F7C2K0_MACMU         -          Nup96                PF12110.5        2.5    8.5   5.4      0.86   10.0   1.6   2.0   2   0   0   2   2   2   0 Conserved oligomeric Golgi complex subunit 1 OS=Macaca mulatta OX=9544 GN=COG1 PE=2 SV=2
+tr|F6T5A6|F6T5A6_MACMU         -          Nup96                PF12110.5        2.6    8.4   0.0       3.9    7.8   0.0   1.3   1   1   0   1   1   1   0 SP-RING-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RNF138 PE=4 SV=1
+tr|F7BZ20|F7BZ20_MACMU         -          Nup96                PF12110.5        2.7    8.4   0.0       3.3    8.1   0.0   1.3   1   0   0   1   1   1   0 Cor1 domain-containing protein OS=Macaca mulatta OX=9544 GN=FAM9C PE=4 SV=2
+tr|F7CSI6|F7CSI6_MACMU         -          Nup96                PF12110.5        2.8    8.3   1.2       5.4    7.4   0.8   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=VPS16 PE=4 SV=1
+tr|F7H452|F7H452_MACMU         -          Nup96                PF12110.5        2.9    8.2   0.7        11    6.3   0.7   1.9   1   1   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=SEC31B PE=4 SV=2
+tr|F7CSJ5|F7CSJ5_MACMU         -          Nup96                PF12110.5        3.7    7.9   1.3       6.7    7.1   0.8   1.7   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 16 homolog OS=Macaca mulatta OX=9544 GN=VPS16 PE=3 SV=2
+tr|F6QQW8|F6QQW8_MACMU         -          Nup96                PF12110.5        3.7    7.9   1.3       6.7    7.1   0.8   1.7   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 16 homolog OS=Macaca mulatta OX=9544 GN=VPS16 PE=3 SV=2
+tr|A0A1D5Q4P1|A0A1D5Q4P1_MACMU -          Nup96                PF12110.5        3.8    7.9   0.1       5.5    7.4   0.1   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CAPN7 PE=4 SV=1
+tr|F7H7A9|F7H7A9_MACMU         -          Nup96                PF12110.5        5.8    7.3   0.0       7.6    6.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZFAND1 PE=4 SV=2
+tr|H9H356|H9H356_MACMU         -          Nup96                PF12110.5        6.5    7.1   0.0        14    6.0   0.0   1.5   2   0   0   2   2   2   0 Aldo_ket_red domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC713150 PE=4 SV=2
+tr|F6UR30|F6UR30_MACMU         -          Nup96                PF12110.5        6.9    7.0   0.6        12    6.2   0.0   1.6   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT9 PE=3 SV=2
+tr|A0A1D5QGD9|A0A1D5QGD9_MACMU -          Nup96                PF12110.5        7.4    6.9   0.0       9.3    6.6   0.0   1.2   1   0   0   1   1   1   0 C2HC RNF-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RNF138 PE=4 SV=1
+tr|F6R7F0|F6R7F0_MACMU         -          Nup96                PF12110.5        7.8    6.8   0.0        14    6.0   0.0   1.3   1   0   0   1   1   1   0 Aldo_ket_red domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC713150 PE=4 SV=2
+tr|A0A1D5QXM2|A0A1D5QXM2_MACMU -          Nup96                PF12110.5        7.9    6.8   0.0       7.7    6.9   0.0   1.1   1   0   0   1   1   1   0 WD-3 domain-containing protein OS=Macaca mulatta OX=9544 GN=FANCL PE=4 SV=1
+tr|F6SMR4|F6SMR4_MACMU         -          Nup96                PF12110.5        9.3    6.6   0.0        20    5.5   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CDK5RAP3 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:37:08 2022
+# [ok]

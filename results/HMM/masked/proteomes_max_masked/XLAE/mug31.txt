@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GZK3|A0A1L8GZK3_XENLA -          NPCC                 PF08058.8       0.47   11.8   0.1      0.86   10.9   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017894mg PE=1 SV=1
+tr|A0A1L8GTM5|A0A1L8GTM5_XENLA -          NPCC                 PF08058.8        2.5    9.4   0.0       4.7    8.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem209 PE=4 SV=1
+tr|A0A1L8H888|A0A1L8H888_XENLA -          NPCC                 PF08058.8        3.2    9.1   0.3       4.5    8.6   0.0   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015374mg PE=4 SV=1
+tr|A0A1L8HLV4|A0A1L8HLV4_XENLA -          NPCC                 PF08058.8        7.6    7.9   0.2        19    6.6   0.2   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009288mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:42:42 2022
+# [ok]

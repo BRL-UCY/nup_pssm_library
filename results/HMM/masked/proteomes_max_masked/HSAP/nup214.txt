@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H0Y6C0|H0Y6C0_HUMAN         -          NUP214               PF16755.2        1.7    9.9   0.0       2.6    9.2   0.0   1.2   1   0   0   1   1   1   0 WD repeat-containing protein 35 (Fragment) OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=1
+tr|F8WB94|F8WB94_HUMAN         -          NUP214               PF16755.2        3.7    8.7   0.0       8.2    7.6   0.0   1.5   1   0   0   1   1   1   0 WD repeat-containing protein 35 OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=1
+sp|Q9P2L0|WDR35_HUMAN          -          NUP214               PF16755.2        5.8    8.1   0.0        12    7.0   0.0   1.4   1   0   0   1   1   1   0 WD repeat-containing protein 35 OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=3
+sp|Q9NWT1|PK1IP_HUMAN          -          NUP214               PF16755.2        7.1    7.8   0.0   1.3e+02    3.7   0.0   2.0   1   1   1   2   2   2   0 p21-activated protein kinase-interacting protein 1 OS=Homo sapiens OX=9606 GN=PAK1IP1 PE=1 SV=2
+tr|D6RAV7|D6RAV7_HUMAN         -          NUP214               PF16755.2        8.5    7.5   0.3       9.6    7.4   0.3   1.1   1   0   0   1   1   1   0 Toll-like receptor 6 (Fragment) OS=Homo sapiens OX=9606 GN=TLR6 PE=1 SV=1
+sp|O60671|RAD1_HUMAN           -          NUP214               PF16755.2          9    7.4   0.0        13    7.0   0.0   1.1   1   0   0   1   1   1   0 Cell cycle checkpoint protein RAD1 OS=Homo sapiens OX=9606 GN=RAD1 PE=1 SV=1
+tr|F5GWF7|F5GWF7_HUMAN         -          NUP214               PF16755.2        9.5    7.4   0.3        10    7.3   0.3   1.0   1   0   0   1   1   1   0 Protein AMN1 homolog (Fragment) OS=Homo sapiens OX=9606 GN=AMN1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:27:25 2022
+# [ok]

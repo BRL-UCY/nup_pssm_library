@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1R0E4|F1R0E4_DANRE         -          NUP50                PF08911.8    6.2e-11   44.1   0.0   1.1e-10   43.3   0.0   1.4   1   0   0   1   1   1   1 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|A0A1L1QZM3|A0A1L1QZM3_DANRE -          NUP50                PF08911.8    0.00065   21.6   0.2   0.00065   21.6   0.2   1.0   1   0   0   1   1   1   1 Nucleoporin 50 (Fragment) OS=Danio rerio OX=7955 GN=nup50 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:47 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A4V0IJB8|A0A4V0IJB8_CAEEL -          POM121               PF15229.3          1    9.6   0.5       1.6    9.0   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F47E1.20 PE=4 SV=1
+tr|P91359|P91359_CAEEL         -          POM121               PF15229.3        2.9    8.1   0.0       4.9    7.4   0.0   1.2   1   0   0   1   1   1   0 CarboxyPeptidase D family OS=Caenorhabditis elegans OX=6239 GN=cpd-1 PE=1 SV=3
+tr|A0A0K3AUA1|A0A0K3AUA1_CAEEL -          POM121               PF15229.3          7    6.9   0.0        11    6.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=daf-2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/pom121.txt --max --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:00:51 2022
+# [ok]

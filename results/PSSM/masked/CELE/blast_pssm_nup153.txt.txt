@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9VXE6|NU153_DROME Nuclear pore complex protein Nup153 OS=Drosophila melanogaster GN=Nup153 PE=1 SV=4
+# Database: DB_masked/CELE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+sp|Q9VXE6|NU153_DROME	tr|Q86G90|Q86G90_CAEEL	1.58e-05	50.1	1110	1335	444	661
+sp|Q9VXE6|NU153_DROME	tr|Q21021|Q21021_CAEEL	1.69e-05	49.7	1110	1335	420	637
+sp|Q9VXE6|NU153_DROME	tr|P91457|P91457_CAEEL	0.12	37.4	1072	1087	674	689
+# BLAST processed 1 queries

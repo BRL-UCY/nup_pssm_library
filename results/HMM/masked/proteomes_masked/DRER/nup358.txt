@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WCS8|X1WCS8_DANRE         -          Ran_BP1              PF00638.15  1.1e-177  582.5   9.8   4.2e-45  154.3   0.9   4.3   4   0   0   4   4   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|B8JMJ5|B8JMJ5_DANRE         -          Ran_BP1              PF00638.15  6.8e-174  570.2  11.3   4.3e-45  154.3   0.9   4.3   4   0   0   4   4   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          Ran_BP1              PF00638.15  6.9e-174  570.2  11.3   4.3e-45  154.3   0.9   4.3   4   0   0   4   4   4   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|Q6NWK3|Q6NWK3_DANRE         -          Ran_BP1              PF00638.15   2.6e-35  122.7   0.0   3.2e-35  122.4   0.0   1.1   1   0   0   1   1   1   1 RAN-binding protein 1 OS=Danio rerio OX=7955 GN=ranbp1 PE=1 SV=1
+tr|K7DY47|K7DY47_DANRE         -          Ran_BP1              PF00638.15   9.2e-26   91.9   0.0   1.9e-25   90.9   0.0   1.5   1   0   0   1   1   1   1 FinTRIM family, member 52, pseudogene OS=Danio rerio OX=7955 GN=ftr52p PE=4 SV=1
+tr|A0A2R8Q3A0|A0A2R8Q3A0_DANRE -          Ran_BP1              PF00638.15   5.9e-13   50.5   0.0     1e-12   49.8   0.0   1.4   1   0   0   1   1   1   1 Peptidyl-prolyl cis-trans isomerase OS=Danio rerio OX=7955 GN=ftr52p PE=3 SV=1
+tr|F1Q591|F1Q591_DANRE         -          Ran_BP1              PF00638.15   3.4e-11   44.8   0.0   4.9e-11   44.3   0.0   1.2   1   0   0   1   1   1   1 RAN-binding protein 3a OS=Danio rerio OX=7955 GN=ranbp3a PE=4 SV=1
+tr|Q6PCR4|Q6PCR4_DANRE         -          Ran_BP1              PF00638.15   4.9e-09   37.8   0.0   7.1e-09   37.3   0.0   1.2   1   0   0   1   1   1   1 RAN-binding protein 3b OS=Danio rerio OX=7955 GN=ranbp3b PE=1 SV=1
+tr|F1R0E4|F1R0E4_DANRE         -          Ran_BP1              PF00638.15   1.4e-05   26.7   0.0     2e-05   26.2   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|U3JAN8|U3JAN8_DANRE         -          Ran_BP1              PF00638.15     0.013   17.1   0.1     0.038   15.6   0.1   1.8   1   1   0   1   1   1   0 ENAH actin regulator (Fragment) OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|A0A2R8QMV4|A0A2R8QMV4_DANRE -          Ran_BP1              PF00638.15      0.23   13.1   0.0      0.37   12.4   0.0   1.4   1   1   0   1   1   1   0 WH1 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0R4IZE4|A0A0R4IZE4_DANRE -          Ran_BP1              PF00638.15      0.27   12.9   0.0      0.56   11.8   0.0   1.5   1   1   0   1   1   1   0 Vasodilator-stimulated phosphoprotein a OS=Danio rerio OX=7955 GN=vaspa PE=4 SV=2
+tr|A0A0R4IB53|A0A0R4IB53_DANRE -          Ran_BP1              PF00638.15      0.37   12.4   0.0      0.65   11.6   0.0   1.4   1   1   0   1   1   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:47 2022
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7ZWL0|Q7ZWL0_XENLA         -          Nucleoporin_N        PF08801.8    2.8e-88  297.9   0.0   3.4e-88  297.6   0.0   1.1   1   0   0   1   1   1   1 Nup155-prov protein OS=Xenopus laevis OX=8355 GN=nup155 PE=1 SV=1
+tr|A0A1L8G619|A0A1L8G619_XENLA -          Nucleoporin_N        PF08801.8    5.5e-06   26.7   0.0    0.0031   17.6   0.0   3.2   3   1   0   3   3   3   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026090mg PE=4 SV=1
+tr|A0A1L8G6A4|A0A1L8G6A4_XENLA -          Nucleoporin_N        PF08801.8    2.9e-05   24.4   0.0     0.018   15.2   0.0   3.2   3   1   0   3   3   3   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026090mg PE=4 SV=1
+tr|A0A1L8EUW1|A0A1L8EUW1_XENLA -          Nucleoporin_N        PF08801.8    3.3e-05   24.1   0.2       0.2   11.7   0.0   4.7   4   2   1   5   5   5   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044234mg PE=4 SV=1
+tr|A0A1L8F0G3|A0A1L8F0G3_XENLA -          Nucleoporin_N        PF08801.8    0.00011   22.4   0.0      0.69    9.9   0.0   3.3   3   0   0   3   3   3   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041333mg PE=4 SV=1
+tr|A0A1L8F9F8|A0A1L8F9F8_XENLA -          Nucleoporin_N        PF08801.8    0.00014   22.1   0.0      0.69    9.9   0.0   3.3   3   0   0   3   3   3   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039520mg PE=4 SV=1
+tr|A0A1L8FQH1|A0A1L8FQH1_XENLA -          Nucleoporin_N        PF08801.8     0.0007   19.8   0.4       5.1    7.0   0.0   3.9   3   1   1   4   4   4   2 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr86 PE=4 SV=1
+tr|A0A1L8G860|A0A1L8G860_XENLA -          Nucleoporin_N        PF08801.8     0.0018   18.5   0.0       1.9    8.5   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026762mg PE=4 SV=1
+tr|A0A1L8H632|A0A1L8H632_XENLA -          Nucleoporin_N        PF08801.8     0.0025   18.0   0.5      0.69    9.9   0.0   3.3   2   1   1   3   3   3   1 Lissencephaly-1 homolog OS=Xenopus laevis OX=8355 GN=pafah1b1 PE=3 SV=1
+tr|A0A1L8GPR7|A0A1L8GPR7_XENLA -          Nucleoporin_N        PF08801.8     0.0027   17.9   0.1       3.9    7.4   0.0   4.4   4   1   0   5   5   5   1 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr6 PE=1 SV=1
+tr|Q66JA0|Q66JA0_XENLA         -          Nucleoporin_N        PF08801.8     0.0028   17.8   0.0       1.8    8.6   0.0   3.2   3   0   0   3   3   3   1 MGC81438 protein OS=Xenopus laevis OX=8355 GN=strn PE=2 SV=1
+tr|A0A1L8HDS2|A0A1L8HDS2_XENLA -          Nucleoporin_N        PF08801.8     0.0031   17.6   0.4      0.72    9.8   0.0   3.2   2   1   1   3   3   3   1 Lissencephaly-1 homolog OS=Xenopus laevis OX=8355 GN=PAFAH1B1 PE=3 SV=1
+tr|A0A1L8FV67|A0A1L8FV67_XENLA -          Nucleoporin_N        PF08801.8     0.0059   16.7   0.1        15    5.6   0.0   3.5   3   1   1   4   4   4   2 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr86 PE=4 SV=1
+tr|A0A1L8HUA6|A0A1L8HUA6_XENLA -          Nucleoporin_N        PF08801.8       0.02   15.0   0.0       2.9    7.8   0.0   2.5   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005468mg PE=1 SV=1
+tr|A0A1L8GPB7|A0A1L8GPB7_XENLA -          Nucleoporin_N        PF08801.8      0.053   13.6   0.0       2.8    7.9   0.0   2.2   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr82 PE=1 SV=1
+tr|A0A1L8HLS8|A0A1L8HLS8_XENLA -          Nucleoporin_N        PF08801.8      0.077   13.0   0.0       2.9    7.8   0.0   2.4   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=plrg1 PE=4 SV=1
+tr|A0A1L8FEN9|A0A1L8FEN9_XENLA -          Nucleoporin_N        PF08801.8        0.1   12.6   0.9        33    4.4   0.0   3.3   1   1   3   4   4   4   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18036950mg PE=1 SV=1
+tr|A0A1L8GX11|A0A1L8GX11_XENLA -          Nucleoporin_N        PF08801.8       0.14   12.2   0.0       2.3    8.2   0.0   2.0   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017001mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:17 2022
+# [ok]

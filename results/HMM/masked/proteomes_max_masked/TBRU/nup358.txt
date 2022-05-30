@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q386H3|Q386H3_TRYB2 -          Ran_BP1              PF00638.15   1.8e-20   72.4   0.0   2.1e-20   72.2   0.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 1, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0870 PE=4 SV=1
+tr|Q38AA7|Q38AA7_TRYB2 -          Ran_BP1              PF00638.15   0.00058   19.1   0.1    0.0011   18.2   0.1   1.3   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.1890 PE=4 SV=1
+tr|Q4GYG9|Q4GYG9_TRYB2 -          Ran_BP1              PF00638.15       0.6    9.3   0.0      0.62    9.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4080 PE=4 SV=1
+tr|Q38CU4|Q38CU4_TRYB2 -          Ran_BP1              PF00638.15       3.8    6.8   0.0       6.6    6.0   0.0   1.3   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG, atypical), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2330 PE=4 SV=1
+tr|Q38CU1|Q38CU1_TRYB2 -          Ran_BP1              PF00638.15       3.9    6.7   0.0       7.4    5.8   0.0   1.4   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG, atypical), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2280 PE=4 SV=1
+tr|Q57YR6|Q57YR6_TRYB2 -          Ran_BP1              PF00638.15       4.8    6.4   0.0       8.5    5.6   0.0   1.3   1   0   0   1   1   1   0 SMK-1 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.7090 PE=4 SV=1
+tr|Q580Q3|Q580Q3_TRYB2 -          Ran_BP1              PF00638.15       5.4    6.3   0.0        11    5.3   0.0   1.3   1   0   0   1   1   1   0 SMK-1 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.5320 PE=4 SV=1
+tr|Q38B41|Q38B41_TRYB2 -          Ran_BP1              PF00638.15       8.1    5.7   0.0        13    5.0   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.1360 PE=4 SV=1
+tr|Q57U87|Q57U87_TRYB2 -          Ran_BP1              PF00638.15       8.5    5.6   0.0        14    5.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3790 PE=4 SV=1
+tr|Q38DH3|Q38DH3_TRYB2 -          Ran_BP1              PF00638.15       9.2    5.5   0.0        19    4.5   0.0   1.4   1   0   0   1   1   1   0 Cystathione gamma lyase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.3330 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:37:03 2022
+# [ok]

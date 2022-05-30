@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7ZU29|NUP93_DANRE          -          Nic96                PF04097.11    2e-165  553.2   0.3  2.5e-165  552.8   0.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=dye PE=2 SV=1
+tr|Q1LV08|Q1LV08_DANRE         -          Nic96                PF04097.11  3.1e-165  552.5   0.3  3.9e-165  552.2   0.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+tr|A0A2R8QHF8|A0A2R8QHF8_DANRE -          Nic96                PF04097.11   5.2e-77  261.1   0.3   7.2e-77  260.7   0.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup93.txt --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:43 2022
+# [ok]

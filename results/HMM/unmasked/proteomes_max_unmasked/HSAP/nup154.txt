@@ -1,0 +1,59 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WUM0|NU133_HUMAN          -          Nucleoporin_C        PF03177.11   9.3e-23   82.8  10.9   3.2e-22   81.1  10.9   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Homo sapiens OX=9606 GN=NUP133 PE=1 SV=2
+sp|O75694|NU155_HUMAN          -          Nucleoporin_C        PF03177.11   8.2e-20   73.1  11.4   1.3e-19   72.5  11.4   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|E9PF10|E9PF10_HUMAN         -          Nucleoporin_C        PF03177.11   3.7e-15   57.7   7.6   5.4e-15   57.2   7.6   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|A0A087WTW2|A0A087WTW2_HUMAN -          Nucleoporin_C        PF03177.11      0.23   12.2   9.5      0.25   12.1   9.5   1.2   1   0   0   1   1   1   0 Golgin subfamily A member 4 OS=Homo sapiens OX=9606 GN=GOLGA4 PE=1 SV=1
+sp|Q9BQI4|CCDC3_HUMAN          -          Nucleoporin_C        PF03177.11      0.45   11.2   0.3      0.55   10.9   0.3   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 3 OS=Homo sapiens OX=9606 GN=CCDC3 PE=2 SV=1
+sp|O60858|TRI13_HUMAN          -          Nucleoporin_C        PF03177.11      0.83   10.3   0.5         1   10.0   0.5   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase TRIM13 OS=Homo sapiens OX=9606 GN=TRIM13 PE=1 SV=2
+tr|A0A0G2JQ41|A0A0G2JQ41_HUMAN -          Nucleoporin_C        PF03177.11       1.2    9.9   0.1         2    9.1   0.1   1.3   1   0   0   1   1   1   0 Active breakpoint cluster region-related protein (Fragment) OS=Homo sapiens OX=9606 GN=ABR PE=1 SV=1
+sp|P32455|GBP1_HUMAN           -          Nucleoporin_C        PF03177.11       1.2    9.8  11.3         2    9.1  11.3   1.3   1   0   0   1   1   1   0 Guanylate-binding protein 1 OS=Homo sapiens OX=9606 GN=GBP1 PE=1 SV=2
+tr|X6R9U5|X6R9U5_HUMAN         -          Nucleoporin_C        PF03177.11       1.3    9.7   2.0       1.5    9.5   2.0   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase TRIM13 (Fragment) OS=Homo sapiens OX=9606 GN=TRIM13 PE=1 SV=1
+sp|Q12979|ABR_HUMAN            -          Nucleoporin_C        PF03177.11       1.4    9.6   0.1       2.3    8.9   0.1   1.2   1   0   0   1   1   1   0 Active breakpoint cluster region-related protein OS=Homo sapiens OX=9606 GN=ABR PE=2 SV=2
+tr|A0A1C7CYZ0|A0A1C7CYZ0_HUMAN -          Nucleoporin_C        PF03177.11       1.4    9.6   0.1       2.4    8.8   0.1   1.2   1   0   0   1   1   1   0 Active breakpoint cluster region-related protein OS=Homo sapiens OX=9606 GN=ABR PE=1 SV=1
+sp|Q96JG6|VPS50_HUMAN          -          Nucleoporin_C        PF03177.11         2    9.1   0.2       4.1    8.1   0.2   1.5   1   0   0   1   1   1   0 Syndetin OS=Homo sapiens OX=9606 GN=VPS50 PE=1 SV=3
+sp|Q96IM9|DYDC2_HUMAN          -          Nucleoporin_C        PF03177.11       2.3    8.9   0.2       2.7    8.6   0.2   1.0   1   0   0   1   1   1   0 DPY30 domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DYDC2 PE=2 SV=1
+sp|Q5T0J7|TEX35_HUMAN          -          Nucleoporin_C        PF03177.11       2.5    8.8   1.2       2.9    8.6   1.2   1.0   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Homo sapiens OX=9606 GN=TEX35 PE=2 SV=1
+tr|A0A0A0MRQ7|A0A0A0MRQ7_HUMAN -          Nucleoporin_C        PF03177.11       2.9    8.6   0.3       3.4    8.3   0.3   1.0   1   0   0   1   1   1   0 DPY30 domain-containing protein 2 OS=Homo sapiens OX=9606 GN=DYDC2 PE=1 SV=1
+tr|C9J5C3|C9J5C3_HUMAN         -          Nucleoporin_C        PF03177.11       2.9    8.5   0.8       3.4    8.3   0.8   1.1   1   0   0   1   1   1   0 Programmed cell death protein 10 (Fragment) OS=Homo sapiens OX=9606 GN=PDCD10 PE=1 SV=1
+sp|Q00765|REEP5_HUMAN          -          Nucleoporin_C        PF03177.11       3.3    8.4   0.0       4.5    7.9   0.0   1.1   1   0   0   1   1   1   0 Receptor expression-enhancing protein 5 OS=Homo sapiens OX=9606 GN=REEP5 PE=1 SV=3
+tr|C9J6F3|C9J6F3_HUMAN         -          Nucleoporin_C        PF03177.11       3.3    8.4   0.9         4    8.1   0.9   1.1   1   0   0   1   1   1   0 Programmed cell death protein 10 OS=Homo sapiens OX=9606 GN=PDCD10 PE=1 SV=1
+tr|A8MX07|A8MX07_HUMAN         -          Nucleoporin_C        PF03177.11       3.4    8.3   0.7       3.6    8.2   0.7   1.0   1   0   0   1   1   1   0 Centrosomal protein of 19 kDa OS=Homo sapiens OX=9606 GN=CEP19 PE=1 SV=2
+sp|Q0VDG4|SCRN3_HUMAN          -          Nucleoporin_C        PF03177.11       3.4    8.3   0.7       5.2    7.7   0.7   1.2   1   0   0   1   1   1   0 Secernin-3 OS=Homo sapiens OX=9606 GN=SCRN3 PE=1 SV=1
+sp|Q9BUL8|PDC10_HUMAN          -          Nucleoporin_C        PF03177.11       3.6    8.3   1.1       4.2    8.0   1.1   1.2   1   0   0   1   1   1   0 Programmed cell death protein 10 OS=Homo sapiens OX=9606 GN=PDCD10 PE=1 SV=1
+sp|Q6DHV5|C2D2B_HUMAN          -          Nucleoporin_C        PF03177.11       3.8    8.1   5.7       6.7    7.3   5.7   1.3   1   0   0   1   1   1   0 Protein CC2D2B OS=Homo sapiens OX=9606 GN=CC2D2B PE=2 SV=3
+sp|Q8NFX7|STXB6_HUMAN          -          Nucleoporin_C        PF03177.11       3.9    8.1   0.8       4.3    8.0   0.8   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 6 OS=Homo sapiens OX=9606 GN=STXBP6 PE=1 SV=2
+sp|Q96LK0|CEP19_HUMAN          -          Nucleoporin_C        PF03177.11       4.4    7.9   0.6       4.9    7.8   0.6   1.1   1   0   0   1   1   1   0 Centrosomal protein of 19 kDa OS=Homo sapiens OX=9606 GN=CEP19 PE=1 SV=2
+sp|A8MXD5|GRCR1_HUMAN          -          Nucleoporin_C        PF03177.11       5.2    7.7   0.0       6.8    7.3   0.0   1.1   1   0   0   1   1   1   0 Glutaredoxin domain-containing cysteine-rich protein 1 OS=Homo sapiens OX=9606 GN=GRXCR1 PE=1 SV=1
+sp|Q99784|NOE1_HUMAN           -          Nucleoporin_C        PF03177.11       5.2    7.7   0.3       5.9    7.5   0.3   1.1   1   0   0   1   1   1   0 Noelin OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=4
+tr|C9JE79|C9JE79_HUMAN         -          Nucleoporin_C        PF03177.11       5.4    7.7   0.7       5.4    7.7   0.7   1.2   1   0   0   1   1   1   0 Caldesmon (Fragment) OS=Homo sapiens OX=9606 GN=CALD1 PE=1 SV=1
+sp|A0A1B0GVH6|CM042_HUMAN      -          Nucleoporin_C        PF03177.11       5.5    7.6   0.1       7.3    7.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein C13orf42 OS=Homo sapiens OX=9606 GN=C13orf42 PE=4 SV=1
+tr|F8W8V4|F8W8V4_HUMAN         -          Nucleoporin_C        PF03177.11       5.7    7.6   0.9       6.6    7.4   0.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Homo sapiens OX=9606 PE=4 SV=1
+sp|O43805|SSNA1_HUMAN          -          Nucleoporin_C        PF03177.11       5.9    7.5   3.4       5.9    7.5   3.4   1.1   1   0   0   1   1   1   0 Sjoegren syndrome nuclear autoantigen 1 OS=Homo sapiens OX=9606 GN=SSNA1 PE=1 SV=2
+sp|O95841|ANGL1_HUMAN          -          Nucleoporin_C        PF03177.11       6.1    7.5   0.4         8    7.1   0.4   1.1   1   0   0   1   1   1   0 Angiopoietin-related protein 1 OS=Homo sapiens OX=9606 GN=ANGPTL1 PE=2 SV=1
+tr|E9PHT2|E9PHT2_HUMAN         -          Nucleoporin_C        PF03177.11       6.2    7.5   0.9        79    3.8   0.0   2.7   1   1   0   2   2   2   0 Centrosome-associated protein CEP250 OS=Homo sapiens OX=9606 GN=CEP250 PE=1 SV=1
+tr|F8W7J2|F8W7J2_HUMAN         -          Nucleoporin_C        PF03177.11       6.3    7.4   0.0       6.5    7.4   0.0   1.0   1   0   0   1   1   1   0 Cysteine protease ATG4A OS=Homo sapiens OX=9606 GN=ATG4A PE=4 SV=1
+tr|A0A0U1RRB6|A0A0U1RRB6_HUMAN -          Nucleoporin_C        PF03177.11       6.5    7.4   0.1        19    5.9   0.1   1.7   1   0   0   1   1   1   0 Exocyst complex component OS=Homo sapiens OX=9606 GN=EXOC6B PE=1 SV=1
+sp|Q9Y2D4|EXC6B_HUMAN          -          Nucleoporin_C        PF03177.11       6.6    7.4   0.1        19    5.9   0.1   1.7   1   0   0   1   1   1   0 Exocyst complex component 6B OS=Homo sapiens OX=9606 GN=EXOC6B PE=1 SV=3
+sp|P27986|P85A_HUMAN           -          Nucleoporin_C        PF03177.11       7.5    7.2   7.0        13    6.4   7.0   1.3   1   0   0   1   1   1   0 Phosphatidylinositol 3-kinase regulatory subunit alpha OS=Homo sapiens OX=9606 GN=PIK3R1 PE=1 SV=2
+sp|P02647|APOA1_HUMAN          -          Nucleoporin_C        PF03177.11       7.7    7.2   0.6        13    6.4   0.1   1.5   2   0   0   2   2   2   0 Apolipoprotein A-I OS=Homo sapiens OX=9606 GN=APOA1 PE=1 SV=1
+tr|F8W696|F8W696_HUMAN         -          Nucleoporin_C        PF03177.11       8.3    7.0   0.8        12    6.5   0.2   1.6   2   0   0   2   2   2   0 Apolipoprotein A-I OS=Homo sapiens OX=9606 GN=APOA1 PE=1 SV=1
+tr|G3V4Z7|G3V4Z7_HUMAN         -          Nucleoporin_C        PF03177.11       8.4    7.0   1.6       8.7    7.0   1.6   1.0   1   0   0   1   1   1   0 Exocyst complex component 5 (Fragment) OS=Homo sapiens OX=9606 GN=EXOC5 PE=1 SV=1
+sp|P78356|PI42B_HUMAN          -          Nucleoporin_C        PF03177.11       8.5    7.0   0.1        11    6.6   0.1   1.1   1   0   0   1   1   1   0 Phosphatidylinositol 5-phosphate 4-kinase type-2 beta OS=Homo sapiens OX=9606 GN=PIP4K2B PE=1 SV=1
+tr|A0A2R8Y8B5|A0A2R8Y8B5_HUMAN -          Nucleoporin_C        PF03177.11       8.6    7.0   6.6        16    6.1   6.6   1.3   1   0   0   1   1   1   0 Protein CC2D2B OS=Homo sapiens OX=9606 GN=CC2D2B PE=4 SV=1
+tr|F5H810|F5H810_HUMAN         -          Nucleoporin_C        PF03177.11       8.9    6.9   0.2       9.2    6.9   0.2   1.0   1   0   0   1   1   1   0 Noelin (Fragment) OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=1
+tr|C9JHQ8|C9JHQ8_HUMAN         -          Nucleoporin_C        PF03177.11       8.9    6.9   0.3       8.7    7.0   0.3   1.0   1   0   0   1   1   1   0 Transcription initiation factor TFIID subunit 6 (Fragment) OS=Homo sapiens OX=9606 GN=TAF6 PE=1 SV=1
+sp|Q8N8D1|PDCD7_HUMAN          -          Nucleoporin_C        PF03177.11       9.2    6.9   0.6        13    6.4   0.6   1.1   1   0   0   1   1   1   0 Programmed cell death protein 7 OS=Homo sapiens OX=9606 GN=PDCD7 PE=1 SV=1
+tr|J3QT38|J3QT38_HUMAN         -          Nucleoporin_C        PF03177.11       9.5    6.8   0.9        15    6.2   0.1   1.7   2   0   0   2   2   2   0 Exocyst complex component OS=Homo sapiens OX=9606 GN=EXOC6B PE=1 SV=1
+tr|A0A087X230|A0A087X230_HUMAN -          Nucleoporin_C        PF03177.11       9.8    6.8   0.6        13    6.5   0.6   1.2   1   0   0   1   1   1   0 Neuroblastoma breakpoint family member 19 OS=Homo sapiens OX=9606 GN=NBPF19 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:42:59 2022
+# [ok]

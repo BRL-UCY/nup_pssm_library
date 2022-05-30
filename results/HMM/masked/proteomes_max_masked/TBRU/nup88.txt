@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57U13|Q57U13_TRYB2 -          Nup88                PF10168.6       0.92    6.2   0.4       1.2    5.9   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.410 PE=4 SV=1
+tr|Q38DX7|Q38DX7_TRYB2 -          Nup88                PF10168.6        4.7    3.8   0.4       5.9    3.5   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1770 PE=4 SV=1
+tr|Q38AV4|Q38AV4_TRYB2 -          Nup88                PF10168.6        4.9    3.8   0.0       6.7    3.3   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.0270 PE=4 SV=1
+tr|Q38CG6|Q38CG6_TRYB2 -          Nup88                PF10168.6        5.6    3.6   0.2       8.4    3.0   0.2   1.1   1   0   0   1   1   1   0 Structural maintenance of chromosomes protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.7470 PE=3 SV=1
+tr|Q4GZ31|Q4GZ31_TRYB2 -          Nup88                PF10168.6        6.2    3.4   0.0       8.8    3.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.1880 PE=4 SV=1
+tr|Q583J9|Q583J9_TRYB2 -          Nup88                PF10168.6        7.1    3.3   0.0        11    2.7   0.0   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.1940 PE=4 SV=1
+tr|Q389B1|Q389B1_TRYB2 -          Nup88                PF10168.6        7.7    3.1   0.1        11    2.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.389.1420 PE=4 SV=1
+tr|Q583L7|Q583L7_TRYB2 -          Nup88                PF10168.6        7.7    3.1   0.2        10    2.7   0.2   1.1   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.5260 PE=4 SV=1
+tr|Q4GZ09|Q4GZ09_TRYB2 -          Nup88                PF10168.6        9.5    2.8   0.0        14    2.3   0.0   1.1   1   0   0   1   1   1   0 Calpain, putative cysteine peptidase, Clan CA, family C2, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.2120 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:29 2022
+# [ok]

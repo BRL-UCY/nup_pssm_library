@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B9EJ54|B9EJ54_MOUSE         -          Nup192               PF11894.5          0 1115.1   0.1         0 1114.9   0.1   1.1   1   0   0   1   1   1   1 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          Nup192               PF11894.5          0 1115.0   0.1         0 1114.7   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|E9Q880|E9Q880_MOUSE         -          Nup192               PF11894.5    1.1e-53  183.7   0.0   1.3e-53  183.4   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+sp|Q6ZQH8|NU188_MOUSE          -          Nup192               PF11894.5      0.015   14.1   0.0      0.17   10.6   0.0   2.2   1   1   0   1   1   1   0 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|F6SDM9|F6SDM9_MOUSE         -          Nup192               PF11894.5          3    6.5   0.3       3.4    6.3   0.3   1.0   1   0   0   1   1   1   0 FRY-like transcription coactivator (Fragment) OS=Mus musculus OX=10090 GN=Fryl PE=1 SV=1
+tr|Q3TP31|Q3TP31_MOUSE         -          Nup192               PF11894.5        4.1    6.1   0.1       4.6    5.9   0.1   1.0   1   0   0   1   1   1   0 Alpha-S2-casein-like B OS=Mus musculus OX=10090 GN=Csn1s2b PE=2 SV=1
+sp|O35450|FKBPL_MOUSE          -          Nup192               PF11894.5        5.8    5.6   0.0       7.7    5.2   0.0   1.0   1   0   0   1   1   1   0 FK506-binding protein-like OS=Mus musculus OX=10090 GN=Fkbpl PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:16:31 2022
+# [ok]

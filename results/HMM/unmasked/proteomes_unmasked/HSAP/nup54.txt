@@ -1,0 +1,45 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7Z3B4|NUP54_HUMAN          -          Nup54                PF13874.3    4.8e-44  151.9   2.6   4.8e-44  151.9   2.6   2.1   3   0   0   3   3   1   1 Nucleoporin p54 OS=Homo sapiens OX=9606 GN=NUP54 PE=1 SV=2
+tr|F5H7P8|F5H7P8_HUMAN         -          Nup54                PF13874.3      0.049   15.7   4.6     0.059   15.5   4.6   1.0   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|E9PKQ5|E9PKQ5_HUMAN         -          Nup54                PF13874.3      0.074   15.1   3.7      0.12   14.4   3.7   1.3   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 90B, mitochondrial OS=Homo sapiens OX=9606 GN=CCDC90B PE=1 SV=1
+tr|H0YGX8|H0YGX8_HUMAN         -          Nup54                PF13874.3      0.078   15.1   1.3      0.11   14.6   1.3   1.2   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 6 (Fragment) OS=Homo sapiens OX=9606 GN=COG6 PE=1 SV=1
+tr|F5H2Z7|F5H2Z7_HUMAN         -          Nup54                PF13874.3        0.1   14.7   8.0      0.12   14.5   8.0   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|H7C3K9|H7C3K9_HUMAN         -          Nup54                PF13874.3        0.1   14.7   0.3        25    6.9   0.0   2.2   2   0   0   2   2   2   0 Melanophilin (Fragment) OS=Homo sapiens OX=9606 GN=MLPH PE=1 SV=1
+tr|F5H285|F5H285_HUMAN         -          Nup54                PF13874.3       0.11   14.5   7.6      0.16   14.1   7.6   1.2   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|B0QY71|B0QY71_HUMAN         -          Nup54                PF13874.3       0.15   14.2   4.0      0.17   14.0   4.0   1.1   1   0   0   1   1   1   0 Transcription factor MafF (Fragment) OS=Homo sapiens OX=9606 GN=MAFF PE=1 SV=1
+tr|I3L4Z5|I3L4Z5_HUMAN         -          Nup54                PF13874.3       0.21   13.7   0.1      0.21   13.7   0.1   1.0   1   0   0   1   1   1   0 Mixed lineage kinase domain-like protein (Fragment) OS=Homo sapiens OX=9606 GN=MLKL PE=1 SV=1
+sp|Q9ULX9|MAFF_HUMAN           -          Nup54                PF13874.3       0.26   13.4   4.0      0.38   12.8   4.0   1.2   1   0   0   1   1   1   0 Transcription factor MafF OS=Homo sapiens OX=9606 GN=MAFF PE=1 SV=2
+tr|F5H810|F5H810_HUMAN         -          Nup54                PF13874.3       0.28   13.3   7.9      0.45   12.6   7.4   1.6   1   1   0   1   1   1   0 Noelin (Fragment) OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=1
+sp|P49715|CEBPA_HUMAN          -          Nup54                PF13874.3       0.32   13.1   3.5      0.51   12.4   3.5   1.2   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein alpha OS=Homo sapiens OX=9606 GN=CEBPA PE=1 SV=3
+tr|B0QY70|B0QY70_HUMAN         -          Nup54                PF13874.3       0.35   12.9   5.3      0.39   12.8   5.3   1.2   1   0   0   1   1   1   0 Transcription factor MafF (Fragment) OS=Homo sapiens OX=9606 GN=MAFF PE=1 SV=8
+tr|A0A0C4DFZ1|A0A0C4DFZ1_HUMAN -          Nup54                PF13874.3        1.2   11.3   7.9        21    7.2   4.8   2.5   1   1   1   2   2   2   0 Syntaxin-1A OS=Homo sapiens OX=9606 GN=STX1A PE=1 SV=1
+sp|Q10589|BST2_HUMAN           -          Nup54                PF13874.3        1.2   11.2   5.8       7.7    8.6   5.6   1.8   1   1   0   1   1   1   0 Bone marrow stromal antigen 2 OS=Homo sapiens OX=9606 GN=BST2 PE=1 SV=1
+tr|H0YGQ4|H0YGQ4_HUMAN         -          Nup54                PF13874.3        1.4   11.0   1.6       2.7   10.1   1.6   1.4   1   0   0   1   1   1   0 Unconventional myosin-XVIIIb (Fragment) OS=Homo sapiens OX=9606 GN=MYO18B PE=1 SV=1
+tr|A8MZ54|A8MZ54_HUMAN         -          Nup54                PF13874.3        1.4   11.0   7.8        29    6.8   4.9   2.5   1   1   0   2   2   2   0 Syntaxin-1A OS=Homo sapiens OX=9606 GN=STX1A PE=1 SV=1
+sp|A0A1B0GVG4|CC194_HUMAN      -          Nup54                PF13874.3        1.5   10.9  12.8        44    6.1  12.8   2.1   1   1   0   1   1   1   0 Coiled-coil domain-containing protein 194 OS=Homo sapiens OX=9606 GN=CCDC194 PE=3 SV=1
+tr|H0YAP9|H0YAP9_HUMAN         -          Nup54                PF13874.3        1.6   10.8   6.3       4.8    9.3   1.8   2.2   2   0   0   2   2   2   0 Laminin subunit alpha-4 (Fragment) OS=Homo sapiens OX=9606 GN=LAMA4 PE=1 SV=1
+sp|O60675|MAFK_HUMAN           -          Nup54                PF13874.3        1.7   10.7   7.8       3.1    9.9   7.8   1.4   1   0   0   1   1   1   0 Transcription factor MafK OS=Homo sapiens OX=9606 GN=MAFK PE=1 SV=1
+tr|K7EKF6|K7EKF6_HUMAN         -          Nup54                PF13874.3          2   10.5   2.9       7.8    8.6   0.1   2.2   2   0   0   2   2   2   0 Angiopoietin-related protein 6 OS=Homo sapiens OX=9606 GN=ANGPTL6 PE=1 SV=1
+tr|A0A0C4DGE4|A0A0C4DGE4_HUMAN -          Nup54                PF13874.3        2.5   10.2   5.5       3.6    9.7   5.5   1.4   1   1   0   1   1   1   0 Syntaxin-3 (Fragment) OS=Homo sapiens OX=9606 GN=STX3 PE=1 SV=1
+sp|Q8NI99|ANGL6_HUMAN          -          Nup54                PF13874.3        2.5   10.2   2.9       8.9    8.4   0.1   2.2   2   0   0   2   2   2   0 Angiopoietin-related protein 6 OS=Homo sapiens OX=9606 GN=ANGPTL6 PE=1 SV=1
+tr|F5GZQ2|F5GZQ2_HUMAN         -          Nup54                PF13874.3        2.9   10.0  11.7       1.2   11.2   7.8   2.1   1   1   1   2   2   2   0 Noelin (Fragment) OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=1
+sp|Q9BV36|MELPH_HUMAN          -          Nup54                PF13874.3        3.1    9.9   4.8        49    6.0   0.0   2.8   3   0   0   3   3   3   0 Melanophilin OS=Homo sapiens OX=9606 GN=MLPH PE=1 SV=1
+sp|Q16623|STX1A_HUMAN          -          Nup54                PF13874.3        3.1    9.9   9.4        68    5.5   6.9   2.8   1   1   0   2   2   2   0 Syntaxin-1A OS=Homo sapiens OX=9606 GN=STX1A PE=1 SV=1
+tr|H7C1K7|H7C1K7_HUMAN         -          Nup54                PF13874.3        3.2    9.8   8.0        13    7.9   8.0   1.8   1   1   0   1   1   1   0 Kinesin-like protein KIF15 (Fragment) OS=Homo sapiens OX=9606 GN=KIF15 PE=1 SV=1
+sp|O15525|MAFG_HUMAN           -          Nup54                PF13874.3        3.5    9.7   8.7       5.1    9.2   8.7   1.2   1   0   0   1   1   1   0 Transcription factor MafG OS=Homo sapiens OX=9606 GN=MAFG PE=1 SV=1
+sp|Q99784|NOE1_HUMAN           -          Nup54                PF13874.3        3.6    9.7   9.7       9.8    8.3   9.5   1.9   1   1   0   1   1   1   0 Noelin OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=4
+sp|P17676|CEBPB_HUMAN          -          Nup54                PF13874.3        3.9    9.6   6.2       5.8    9.0   6.2   1.1   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein beta OS=Homo sapiens OX=9606 GN=CEBPB PE=1 SV=2
+sp|Q9Y2V7|COG6_HUMAN           -          Nup54                PF13874.3          5    9.2   5.7        20    7.3   5.3   2.3   1   1   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 6 OS=Homo sapiens OX=9606 GN=COG6 PE=1 SV=2
+tr|F8W870|F8W870_HUMAN         -          Nup54                PF13874.3          7    8.7   8.9         2   10.5   4.4   1.9   1   1   0   1   1   1   0 Noelin (Fragment) OS=Homo sapiens OX=9606 GN=OLFM1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:14 2022
+# [ok]

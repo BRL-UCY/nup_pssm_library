@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1YK54|A1YK54_DROME Nup107 OS=Drosophila melanogaster GN=Nup107 PE=4 SV=1
+# Database: DB_masked/CELE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+tr|A1YK54|A1YK54_DROME	sp|Q19131|NPP5_CAEEL	1.38e-41	163	48	784	1	770
+tr|A1YK54|A1YK54_DROME	tr|G5EBF2|G5EBF2_CAEEL	5.8	30.4	270	367	390	514
+tr|A1YK54|A1YK54_DROME	sp|G5ED68|MTMR6_CAEEL	8.3	30.0	270	367	284	408
+# BLAST processed 1 queries

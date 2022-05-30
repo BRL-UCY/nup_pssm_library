@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q02455|MLP1_YEAST -          TPR_MLP1_2           PF07926.9    4.4e-23   80.2   4.9   4.4e-23   80.2   4.9   5.2   4   0   0   4   4   4   1 Protein MLP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLP1 PE=1 SV=2
+sp|P50090|KEL2_YEAST -          TPR_MLP1_2           PF07926.9       0.96    8.0   7.2      0.22   10.0   0.6   2.4   1   1   1   2   2   2   0 Kelch repeat-containing protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KEL2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:12 2022
+# [ok]

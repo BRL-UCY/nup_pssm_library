@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8H5V0|A0A1L8H5V0_XENLA -          POM121               PF15229.3    1.4e-14   55.7   1.3   1.4e-14   55.7   1.3   4.8   5   1   0   5   5   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014519mg PE=1 SV=1
+tr|A0A310U768|A0A310U768_XENLA -          POM121               PF15229.3    1.4e-13   52.4  11.2   1.4e-13   52.4  11.2   4.6   2   2   2   5   5   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18000317mg PE=4 SV=1
+tr|A0A1L8EVA6|A0A1L8EVA6_XENLA -          POM121               PF15229.3       0.68   10.9   0.3       1.1   10.2   0.3   1.3   1   0   0   1   1   1   0 JmjC domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044375mg PE=4 SV=1
+tr|A0A1L8FJU3|A0A1L8FJU3_XENLA -          POM121               PF15229.3       0.98   10.4   1.1       1.1   10.3   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=anapc16 PE=4 SV=1
+tr|Q6DD80|Q6DD80_XENLA         -          POM121               PF15229.3        1.1   10.2   2.6       1.8    9.5   2.6   1.3   1   0   0   1   1   1   0 MGC78894 protein OS=Xenopus laevis OX=8355 GN=fam177a1 PE=2 SV=1
+tr|A0A1L8FF05|A0A1L8FF05_XENLA -          POM121               PF15229.3        1.2   10.1   1.5       1.2   10.0   1.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=anapc16 PE=4 SV=1
+tr|A0A1L8HRJ5|A0A1L8HRJ5_XENLA -          POM121               PF15229.3        1.3   10.0   4.5       2.3    9.2   4.5   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010944mg PE=4 SV=1
+tr|A0A1L8H007|A0A1L8H007_XENLA -          POM121               PF15229.3        1.4    9.9   3.9       1.9    9.4   3.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018043mg PE=4 SV=1
+tr|A0A1L8GL94|A0A1L8GL94_XENLA -          POM121               PF15229.3        1.5    9.8   0.7       3.1    8.7   0.7   1.5   1   0   0   1   1   1   0 BEN domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18022699mg PE=1 SV=1
+tr|A0A1L8GHT8|A0A1L8GHT8_XENLA -          POM121               PF15229.3        2.1    9.3   0.6       4.3    8.3   0.6   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025949mg PE=4 SV=1
+tr|A0A1L8H1J6|A0A1L8H1J6_XENLA -          POM121               PF15229.3        2.6    9.0  10.7       3.7    8.5  10.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=zfand6 PE=4 SV=1
+tr|A0A1L8F1L9|A0A1L8F1L9_XENLA -          POM121               PF15229.3        2.8    8.9   1.7       6.5    7.7   1.4   1.9   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041719mg PE=4 SV=1
+tr|A0A310UHJ2|A0A310UHJ2_XENLA -          POM121               PF15229.3        2.9    8.8   1.4       6.1    7.8   1.4   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18003985mg PE=4 SV=1
+tr|A0A1L8G6Y5|A0A1L8G6Y5_XENLA -          POM121               PF15229.3        3.1    8.7   2.1       5.9    7.8   2.1   1.5   1   0   0   1   1   1   0 Homeobox domain-containing protein OS=Xenopus laevis OX=8355 GN=nkx2-2 PE=4 SV=1
+tr|A0A310U748|A0A310U748_XENLA -          POM121               PF15229.3        3.4    8.6   0.3       4.4    8.2   0.3   1.3   1   0   0   1   1   1   0 Preseq_ALAS domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180004651mg PE=4 SV=1
+tr|A0A1L8G6N7|A0A1L8G6N7_XENLA -          POM121               PF15229.3        3.8    8.4   7.8       6.2    7.8   7.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=trmt61b PE=4 SV=1
+tr|A0A1L8FEZ2|A0A1L8FEZ2_XENLA -          POM121               PF15229.3        3.9    8.4   0.4        11    6.9   0.4   1.8   1   0   0   1   1   1   0 DUF3719 domain-containing protein OS=Xenopus laevis OX=8355 GN=fam149b1 PE=4 SV=1
+tr|A0A1L8F0R3|A0A1L8F0R3_XENLA -          POM121               PF15229.3        3.9    8.4   2.6       4.3    8.3   2.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041435mg PE=4 SV=1
+tr|A0A1L8FS52|A0A1L8FS52_XENLA -          POM121               PF15229.3        4.1    8.3   1.3       4.3    8.3   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033366mg PE=4 SV=1
+tr|A0A1L8FUF1|A0A1L8FUF1_XENLA -          POM121               PF15229.3        5.3    8.0   0.4       5.5    7.9   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030407mg PE=4 SV=1
+tr|A0A1L8GBH3|A0A1L8GBH3_XENLA -          POM121               PF15229.3        5.6    7.9   0.1        13    6.7   0.1   1.5   1   0   0   1   1   1   0 Non-specific serine/threonine protein kinase OS=Xenopus laevis OX=8355 GN=XELAEV_18027934mg PE=4 SV=1
+tr|A0A1L8HAX5|A0A1L8HAX5_XENLA -          POM121               PF15229.3        5.6    7.9   1.2       9.1    7.2   1.2   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016294mg PE=4 SV=1
+tr|A0A1L8FXB2|A0A1L8FXB2_XENLA -          POM121               PF15229.3        5.7    7.9   0.9       9.3    7.2   0.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18031417mg PE=4 SV=1
+tr|A0A1L8FS61|A0A1L8FS61_XENLA -          POM121               PF15229.3        5.9    7.8   5.3       5.8    7.8   5.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033381mg PE=4 SV=1
+tr|A0A1L8FCW0|A0A1L8FCW0_XENLA -          POM121               PF15229.3        6.2    7.8   0.1        11    6.9   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18040721mg PE=4 SV=1
+tr|A0A1L8HJ82|A0A1L8HJ82_XENLA -          POM121               PF15229.3          7    7.6   0.3        10    7.0   0.3   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013832mg PE=4 SV=1
+tr|A0A1L8F262|A0A1L8F262_XENLA -          POM121               PF15229.3          7    7.6   0.4       7.8    7.4   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18041918mg PE=4 SV=1
+tr|A0A1L8I3D4|A0A1L8I3D4_XENLA -          POM121               PF15229.3          7    7.6   3.6        14    6.6   3.6   1.5   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008605mg PE=4 SV=1
+tr|A0A1L8HAQ7|A0A1L8HAQ7_XENLA -          POM121               PF15229.3        7.5    7.5   4.0        10    7.0   4.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=shisa2 PE=4 SV=1
+tr|A0A1L8HJJ3|A0A1L8HJJ3_XENLA -          POM121               PF15229.3        7.5    7.5   6.5        28    5.6   2.5   3.3   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=inppl1 PE=4 SV=1
+tr|A0A310U3K1|A0A310U3K1_XENLA -          POM121               PF15229.3        7.6    7.5   1.7       9.2    7.2   1.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18000499mg PE=4 SV=1
+tr|A0A1L8EK92|A0A1L8EK92_XENLA -          POM121               PF15229.3        7.8    7.4   6.2       9.7    7.1   6.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002778mg PE=4 SV=1
+tr|A0A1L8GI88|A0A1L8GI88_XENLA -          POM121               PF15229.3        8.6    7.3   0.0        14    6.6   0.0   1.2   1   0   0   1   1   1   0 Tachylectin domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18021691mg PE=4 SV=1
+tr|A0A1L8HLU2|A0A1L8HLU2_XENLA -          POM121               PF15229.3        8.8    7.3  10.8        18    6.3  10.8   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009296mg PE=4 SV=1
+tr|A0A1L8F1C3|A0A1L8F1C3_XENLA -          POM121               PF15229.3          9    7.2   5.5        25    5.8   5.5   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041646mg PE=4 SV=1
+tr|A0A1L8I2Z7|A0A1L8I2Z7_XENLA -          POM121               PF15229.3        9.2    7.2   5.0        20    6.1   5.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ppwd1 PE=1 SV=1
+tr|A0A1L8FN40|A0A1L8FN40_XENLA -          POM121               PF15229.3        9.2    7.2   2.2       8.2    7.4   0.2   1.7   1   1   1   2   2   2   0 DED domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035962mg PE=4 SV=1
+tr|A0A1L8HIH3|A0A1L8HIH3_XENLA -          POM121               PF15229.3        9.6    7.1   0.1        11    6.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013575mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/pom121.txt --max --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 16:50:54 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          Nup192               PF11894.5    1.5e-72  245.7  10.9   2.6e-61  208.5   8.0   2.0   2   0   0   2   2   2   2 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          Nup192               PF11894.5      6e-72  243.7   9.7   9.3e-61  206.6   6.6   2.0   2   0   0   2   2   2   2 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          Nup192               PF11894.5    2.3e-68  231.8  12.0   2.4e-35  122.4  11.8   3.0   2   1   1   3   3   3   3 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          Nup192               PF11894.5    2.3e-68  231.8  12.0   2.4e-35  122.4  11.8   3.0   2   1   1   3   3   3   3 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|F4JUG3|F4JUG3_ARATH         -          Nup192               PF11894.5    2.8e-15   55.9   9.2   1.2e-06   27.3   0.3   3.9   4   0   0   4   4   4   3 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:30 2022
+# [ok]

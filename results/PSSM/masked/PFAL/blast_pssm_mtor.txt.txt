@@ -1,0 +1,8 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|A1Z8P9|TPR_DROME Nucleoprotein TPR OS=Drosophila melanogaster GN=Mtor PE=1 SV=1
+# Database: DB_masked/PFAL_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 1 hits found
+sp|A1Z8P9|TPR_DROME	tr|Q8I525|Q8I525_PLAF7	0.17	35.5	77	141	1962	2026
+# BLAST processed 1 queries

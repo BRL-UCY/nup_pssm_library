@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GMF4|A0A1L8GMF4_XENLA -          Ndc1_Nup             PF09531.7    8.9e-93  313.4  10.3   1.1e-92  313.1  10.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023197mg PE=1 SV=1
+tr|A0A1L8GFX9|A0A1L8GFX9_XENLA -          Ndc1_Nup             PF09531.7    8.3e-87  293.7   5.8   9.8e-87  293.4   5.8   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ndc1 PE=1 SV=1
+tr|A0A1L8F9V3|A0A1L8F9V3_XENLA -          Ndc1_Nup             PF09531.7        5.9    6.8   1.0       8.3    6.3   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=gpr137c PE=4 SV=1
+tr|A0A1L8HT95|A0A1L8HT95_XENLA -          Ndc1_Nup             PF09531.7        7.1    6.6   0.2       7.2    6.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005103mg PE=4 SV=1
+tr|A0A1L8FAU4|A0A1L8FAU4_XENLA -          Ndc1_Nup             PF09531.7        9.8    6.1   0.0        15    5.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=rasgrp1 PE=4 SV=1
+tr|A0A1L8FLN8|A0A1L8FLN8_XENLA -          Ndc1_Nup             PF09531.7        9.8    6.1   0.6        16    5.4   0.6   1.2   1   0   0   1   1   1   0 Mannosyltransferase OS=Xenopus laevis OX=8355 GN=XELAEV_18035489mg PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:43:25 2022
+# [ok]

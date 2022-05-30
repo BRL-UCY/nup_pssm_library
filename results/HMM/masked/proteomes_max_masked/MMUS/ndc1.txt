@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8VCB1|NDC1_MOUSE           -          Ndc1_Nup             PF09531.7    5.4e-96  324.3   4.7   6.2e-96  324.1   4.7   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+tr|J3QPB5|J3QPB5_MOUSE         -          Ndc1_Nup             PF09531.7    9.7e-57  194.7   8.0   1.1e-56  194.5   8.0   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+tr|A0A338P6X8|A0A338P6X8_MOUSE -          Ndc1_Nup             PF09531.7        9.9    6.4   0.1        11    6.2   0.1   1.0   1   0   0   1   1   1   0 Claudin (Fragment) OS=Mus musculus OX=10090 GN=Cldn14 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:18:44 2022
+# [ok]

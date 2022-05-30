@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8T8R7|Q8T8R7_DROME         -          NPCC                 PF08058.8       0.19   12.1   0.8      0.24   11.7   0.8   1.3   1   0   0   1   1   1   0 AT31812p OS=Drosophila melanogaster OX=7227 GN=NEST:bs07c08 PE=2 SV=1
+tr|Q9W0X1|Q9W0X1_DROME         -          NPCC                 PF08058.8       0.62   10.4   0.1         2    8.7   0.0   1.9   2   0   0   2   2   2   0 GH15894p OS=Drosophila melanogaster OX=7227 GN=cg2736 PE=1 SV=1
+tr|Q3ZAN1|Q3ZAN1_DROME         -          NPCC                 PF08058.8       0.85   10.0   0.0      0.85   10.0   0.0   3.3   3   1   0   3   3   3   0 Golgi pH regulator OS=Drosophila melanogaster OX=7227 GN=GPHR PE=2 SV=1
+sp|O77475|CPESY_DROME          -          NPCC                 PF08058.8        1.7    9.0   0.6       4.5    7.6   0.2   1.8   2   0   0   2   2   2   0 Ceramide phosphoethanolamine synthase OS=Drosophila melanogaster OX=7227 GN=Cpes PE=1 SV=1
+tr|A0A0B4LGC8|A0A0B4LGC8_DROME -          NPCC                 PF08058.8        1.7    9.0   0.6       4.5    7.6   0.2   1.8   2   0   0   2   2   2   0 Ceramide phosphoethanolamine synthase, isoform B OS=Drosophila melanogaster OX=7227 GN=Cpes PE=4 SV=1
+tr|A2RVF0|A2RVF0_DROME         -          NPCC                 PF08058.8        2.3    8.6   2.0       4.9    7.5   0.5   2.2   2   0   0   2   2   2   0 ABC transporter expressed in trachea, isoform C OS=Drosophila melanogaster OX=7227 GN=Atet PE=2 SV=1
+tr|Q9VQY4|Q9VQY4_DROME         -          NPCC                 PF08058.8        2.5    8.4   2.1       5.1    7.4   0.5   2.2   2   0   0   2   2   2   0 ABC transporter expressed in trachea, isoform A OS=Drosophila melanogaster OX=7227 GN=Atet PE=4 SV=1
+tr|Q9VQX6|Q9VQX6_DROME         -          NPCC                 PF08058.8          3    8.2   1.6       3.7    7.9   0.1   2.0   2   0   0   2   2   2   0 LP05054p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3702 PE=1 SV=2
+tr|Q9VL48|Q9VL48_DROME         -          NPCC                 PF08058.8        3.7    7.9   0.1       7.7    6.9   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13131 PE=4 SV=2
+tr|Q8T0T6|Q8T0T6_DROME         -          NPCC                 PF08058.8        3.8    7.9   2.9        16    5.8   0.0   2.9   2   0   0   2   2   2   0 GH09052p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1208 PE=2 SV=1
+tr|A8JQU1|A8JQU1_DROME         -          NPCC                 PF08058.8        3.8    7.8   2.9        17    5.8   0.0   2.9   2   0   0   2   2   2   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1208 PE=3 SV=1
+tr|Q9W042|Q9W042_DROME         -          NPCC                 PF08058.8        3.9    7.8   0.0       3.8    7.9   0.0   1.2   1   0   0   1   1   1   0 GEO04221p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8960 PE=2 SV=1
+tr|Q9VGS1|Q9VGS1_DROME         -          NPCC                 PF08058.8          5    7.5   1.3        57    4.0   0.1   2.7   2   1   1   3   3   3   0 LD23375p OS=Drosophila melanogaster OX=7227 GN=ZnT86D PE=2 SV=1
+tr|Q9VYX8|Q9VYX8_DROME         -          NPCC                 PF08058.8        5.1    7.5   0.9        13    6.1   0.9   1.8   1   1   0   1   1   1   0 LD04844p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1572 PE=1 SV=1
+sp|P40423|SQH_DROME            -          NPCC                 PF08058.8        5.5    7.3   0.0       6.8    7.0   0.0   1.2   1   0   0   1   1   1   0 Myosin regulatory light chain sqh OS=Drosophila melanogaster OX=7227 GN=sqh PE=1 SV=1
+tr|F6J1D0|F6J1D0_DROME         -          NPCC                 PF08058.8        5.5    7.3   0.0       6.8    7.0   0.0   1.2   1   0   0   1   1   1   0 CG3595 OS=Drosophila melanogaster OX=7227 GN=sqh PE=1 SV=1
+tr|M9NDM3|M9NDM3_DROME         -          NPCC                 PF08058.8        5.6    7.3   0.0        18    5.6   0.0   1.8   1   0   0   1   1   1   0 Rhea, isoform C OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+sp|Q7KU86|URM1_DROME           -          NPCC                 PF08058.8        5.7    7.3   0.0       6.1    7.2   0.0   1.1   1   0   0   1   1   1   0 Ubiquitin-related modifier 1 homolog OS=Drosophila melanogaster OX=7227 GN=Urm1 PE=1 SV=2
+sp|O01668|OPS6_DROME           -          NPCC                 PF08058.8        6.2    7.2   0.1        11    6.3   0.1   1.5   1   0   0   1   1   1   0 Opsin Rh6 OS=Drosophila melanogaster OX=7227 GN=Rh6 PE=2 SV=1
+sp|P58961|GR47B_DROME          -          NPCC                 PF08058.8        6.4    7.1   0.1        18    5.7   0.1   1.8   1   0   0   1   1   1   0 Putative gustatory receptor 47b OS=Drosophila melanogaster OX=7227 GN=Gr47b PE=2 SV=2
+tr|Q9VRQ2|Q9VRQ2_DROME         -          NPCC                 PF08058.8        6.6    7.1   0.4        12    6.3   0.4   1.4   1   1   0   1   1   1   0 Mad2 OS=Drosophila melanogaster OX=7227 GN=mad2 PE=1 SV=1
+tr|Q9VDZ5|Q9VDZ5_DROME         -          NPCC                 PF08058.8        7.1    7.0   0.1       9.2    6.6   0.1   1.2   1   0   0   1   1   1   0 GH27195p OS=Drosophila melanogaster OX=7227 GN=CG5558 PE=1 SV=3
+tr|M9PEJ8|M9PEJ8_DROME         -          NPCC                 PF08058.8        7.1    7.0   0.0        24    5.3   0.0   1.9   1   0   0   1   1   1   0 Rhea, isoform H OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+tr|Q9VSL8|Q9VSL8_DROME         -          NPCC                 PF08058.8        7.8    6.8   0.0        25    5.2   0.0   1.8   1   0   0   1   1   1   0 Rhea, isoform B OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 01:08:14 2022
+# [ok]

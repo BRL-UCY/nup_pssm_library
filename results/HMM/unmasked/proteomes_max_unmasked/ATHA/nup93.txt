@@ -1,0 +1,53 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O22224|NP93A_ARATH          -          Nic96                PF04097.11  1.1e-103  349.0   0.0  1.9e-103  348.2   0.0   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein NUP93A OS=Arabidopsis thaliana OX=3702 GN=NUP93A PE=1 SV=2
+sp|F4J284|NU93B_ARATH          -          Nic96                PF04097.11  3.2e-102  344.1   0.0  4.9e-102  343.5   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein NUP93B OS=Arabidopsis thaliana OX=3702 GN=NUP93B PE=1 SV=1
+tr|Q6AWW7|Q6AWW7_ARATH         -          Nic96                PF04097.11      0.12   12.0   1.3      0.17   11.5   1.3   1.2   1   0   0   1   1   1   0 At5g08780 OS=Arabidopsis thaliana OX=3702 GN=At5g08780 PE=2 SV=1
+sp|Q9FYK2|CML25_ARATH          -          Nic96                PF04097.11      0.37   10.3   0.0      0.48    9.9   0.0   1.1   1   0   0   1   1   1   0 Probable calcium-binding protein CML25 OS=Arabidopsis thaliana OX=3702 GN=CML25 PE=2 SV=1
+tr|F4J110|F4J110_ARATH         -          Nic96                PF04097.11       1.1    8.8   0.0       3.1    7.3   0.0   1.4   1   1   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+tr|F4J109|F4J109_ARATH         -          Nic96                PF04097.11       1.1    8.8   0.0       3.1    7.3   0.0   1.4   1   1   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+sp|Q8L611|SC31B_ARATH          -          Nic96                PF04097.11       1.1    8.8   0.0       3.1    7.3   0.0   1.4   1   1   0   1   1   1   0 Protein transport protein SEC31 homolog B OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+sp|Q08A72|EML4_ARATH           -          Nic96                PF04097.11       1.1    8.8   0.0       1.8    8.1   0.0   1.2   1   0   0   1   1   1   0 Protein EMSY-LIKE 4 OS=Arabidopsis thaliana OX=3702 GN=EML4 PE=2 SV=1
+sp|Q8VYD6|PP374_ARATH          -          Nic96                PF04097.11       1.7    8.1   0.0       2.5    7.6   0.0   1.1   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At5g10690 OS=Arabidopsis thaliana OX=3702 GN=CBSPPR1 PE=2 SV=1
+tr|Q8RWW9|Q8RWW9_ARATH         -          Nic96                PF04097.11       1.7    8.1   0.1         3    7.3   0.1   1.4   1   0   0   1   1   1   0 DNA ligase (DUF630 and DUF632) OS=Arabidopsis thaliana OX=3702 GN=At5g25590 PE=2 SV=1
+tr|Q5BPR9|Q5BPR9_ARATH         -          Nic96                PF04097.11         2    7.9   0.8       3.9    6.9   0.8   1.6   1   0   0   1   1   1   0 CHUP1-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g36650 PE=2 SV=1
+sp|Q8H965|NPC6_ARATH           -          Nic96                PF04097.11       2.2    7.8   0.0       3.2    7.2   0.0   1.1   1   0   0   1   1   1   0 Non-specific phospholipase C6 OS=Arabidopsis thaliana OX=3702 GN=NPC6 PE=2 SV=1
+tr|F4IL65|F4IL65_ARATH         -          Nic96                PF04097.11       2.2    7.7   0.7       2.9    7.4   0.4   1.3   1   1   0   1   1   1   0 PREFOLDIN 1 OS=Arabidopsis thaliana OX=3702 GN=PFD1 PE=4 SV=1
+sp|Q9C8Y4|ATA15_ARATH          -          Nic96                PF04097.11       2.5    7.6   0.1       3.1    7.2   0.1   1.1   1   0   0   1   1   1   0 Senescence-associated protein AAF, chlorolplastic OS=Arabidopsis thaliana OX=3702 GN=AAF PE=2 SV=1
+tr|A0A1P8B4Q4|A0A1P8B4Q4_ARATH -          Nic96                PF04097.11       2.8    7.4   0.0       4.2    6.8   0.0   1.2   1   0   0   1   1   1   0 Heavy metal atpase 3 OS=Arabidopsis thaliana OX=3702 GN=HMA3 PE=3 SV=1
+tr|F4KGU2|F4KGU2_ARATH         -          Nic96                PF04097.11       2.9    7.4   0.0       4.3    6.8   0.0   1.2   1   0   0   1   1   1   0 Ribosomal protein S6e OS=Arabidopsis thaliana OX=3702 GN=EMB3010 PE=1 SV=1
+tr|Q9SY05|Q9SY05_ARATH         -          Nic96                PF04097.11       3.4    7.2   1.4       5.5    6.5   1.4   1.4   1   0   0   1   1   1   0 At4g02800 OS=Arabidopsis thaliana OX=3702 GN=At4g02800 PE=2 SV=1
+tr|Q9SK36|Q9SK36_ARATH         -          Nic96                PF04097.11       3.5    7.1   0.8       4.3    6.8   0.8   1.1   1   0   0   1   1   1   0 At2g24970 OS=Arabidopsis thaliana OX=3702 GN=At2g24970 PE=2 SV=1
+tr|Q9MAM4|Q9MAM4_ARATH         -          Nic96                PF04097.11       3.8    7.0   0.1       5.5    6.4   0.1   1.2   1   0   0   1   1   1   0 IQ-domain 18 OS=Arabidopsis thaliana OX=3702 GN=IQD18 PE=4 SV=1
+sp|P51430|RS62_ARATH           -          Nic96                PF04097.11       4.2    6.8   0.0       6.4    6.2   0.0   1.2   1   0   0   1   1   1   0 40S ribosomal protein S6-2 OS=Arabidopsis thaliana OX=3702 GN=RPS6B PE=1 SV=3
+sp|P0CW77|HMA3A_ARATH          -          Nic96                PF04097.11       4.6    6.7   0.0       7.2    6.1   0.0   1.2   1   0   0   1   1   1   0 Putative inactive cadmium/zinc-transporting ATPase HMA3 OS=Arabidopsis thaliana OX=3702 GN=HMA3 PE=5 SV=1
+sp|Q94C27|FB84_ARATH           -          Nic96                PF04097.11       5.6    6.4   0.0       8.2    5.9   0.0   1.2   1   0   0   1   1   1   0 F-box protein At1g70590 OS=Arabidopsis thaliana OX=3702 GN=At1g70590 PE=2 SV=1
+tr|A8MQN5|A8MQN5_ARATH         -          Nic96                PF04097.11       6.4    6.2   0.1        68    2.8   0.0   2.0   2   0   0   2   2   2   0 LisH and RanBPM domains containing protein OS=Arabidopsis thaliana OX=3702 GN=At1g61150 PE=4 SV=1
+sp|Q41906|CYT3_ARATH           -          Nic96                PF04097.11       6.5    6.2   0.1       7.5    6.0   0.1   1.1   1   0   0   1   1   1   0 Cysteine proteinase inhibitor 3 OS=Arabidopsis thaliana OX=3702 GN=CYS3 PE=2 SV=2
+sp|Q84WK5|GID8_ARATH           -          Nic96                PF04097.11       6.6    6.2   0.1        62    3.0   0.1   2.0   2   0   0   2   2   2   0 Protein GID8 homolog OS=Arabidopsis thaliana OX=3702 GN=GID8 PE=1 SV=1
+tr|Q9ZUX9|Q9ZUX9_ARATH         -          Nic96                PF04097.11       7.2    6.1   1.8       5.9    6.3   0.3   1.7   2   0   0   2   2   2   0 Transcription factor IIS family protein OS=Arabidopsis thaliana OX=3702 GN=At2g27780 PE=4 SV=1
+tr|Q9M3A0|Q9M3A0_ARATH         -          Nic96                PF04097.11       7.3    6.0   0.2       8.1    5.9   0.2   1.1   1   0   0   1   1   1   0 Plant invertase/pectin methylesterase inhibitor superfamily protein OS=Arabidopsis thaliana OX=3702 GN=F2K15.190 PE=4 SV=1
+tr|B3H705|B3H705_ARATH         -          Nic96                PF04097.11       7.4    6.0   0.0        11    5.5   0.0   1.2   1   0   0   1   1   1   0 IQ-domain 18 OS=Arabidopsis thaliana OX=3702 GN=IQD18 PE=4 SV=1
+sp|E5KGE0|BRIZ1_ARATH          -          Nic96                PF04097.11       7.4    6.0   0.4        10    5.5   0.4   1.2   1   0   0   1   1   1   0 BRAP2 RING ZnF UBP domain-containing protein 1 OS=Arabidopsis thaliana OX=3702 GN=BRIZ1 PE=1 SV=1
+tr|Q9LKU3|Q9LKU3_ARATH         -          Nic96                PF04097.11       7.8    5.9   0.1        19    4.7   0.0   1.6   2   0   0   2   2   2   0 Tetratricopeptide repeat (TPR)-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=T32B20.g PE=4 SV=1
+tr|F4J9K4|F4J9K4_ARATH         -          Nic96                PF04097.11       7.8    5.9   1.2        10    5.6   1.2   1.1   1   0   0   1   1   1   0 MADS-box transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=At3g05860 PE=4 SV=1
+tr|Q9FG46|Q9FG46_ARATH         -          Nic96                PF04097.11       7.8    5.9   0.0        14    5.1   0.0   1.4   1   0   0   1   1   1   0 Similarity to unknown protein OS=Arabidopsis thaliana OX=3702 GN=AGAMOUS-like 105 PE=1 SV=1
+tr|A0A1P8BGD0|A0A1P8BGD0_ARATH -          Nic96                PF04097.11         8    5.9   1.3       8.4    5.8   1.3   1.1   1   0   0   1   1   1   0 K-box region and MADS-box transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=MAF4 PE=4 SV=1
+sp|Q9SQG2|APY1_ARATH           -          Nic96                PF04097.11         8    5.9   0.0        11    5.4   0.0   1.1   1   0   0   1   1   1   0 Apyrase 1 OS=Arabidopsis thaliana OX=3702 GN=APY1 PE=1 SV=1
+tr|Q9SKA0|Q9SKA0_ARATH         -          Nic96                PF04097.11       8.3    5.9   0.2       9.3    5.7   0.2   1.1   1   0   0   1   1   1   0 AGAMOUS-like 87 OS=Arabidopsis thaliana OX=3702 GN=AGAMOUS-like 87 PE=2 SV=1
+sp|Q84UU9|TPS06_ARATH          -          Nic96                PF04097.11       8.5    5.8   0.0        14    5.1   0.0   1.2   1   0   0   1   1   1   0 Dolabella-3,7-dien-18-ol synthase TPS06 OS=Arabidopsis thaliana OX=3702 GN=TPS06 PE=2 SV=2
+tr|Q94AF7|Q94AF7_ARATH         -          Nic96                PF04097.11       8.6    5.8   1.0        10    5.6   0.5   1.3   1   1   0   1   1   1   0 At2g07350/T13E11.12 OS=Arabidopsis thaliana OX=3702 GN=PFD1 PE=2 SV=1
+tr|Q9CA10|Q9CA10_ARATH         -          Nic96                PF04097.11       8.8    5.8   0.2        10    5.5   0.2   1.1   1   0   0   1   1   1   0 Plant invertase/pectin methylesterase inhibitor superfamily protein OS=Arabidopsis thaliana OX=3702 GN=T1G12.3 PE=4 SV=1
+tr|A0A1P8AXN0|A0A1P8AXN0_ARATH -          Nic96                PF04097.11       8.9    5.7   0.0        12    5.3   0.0   1.2   1   0   0   1   1   1   0 RING/U-box superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At2g39100 PE=4 SV=1
+tr|Q8VZ73|Q8VZ73_ARATH         -          Nic96                PF04097.11        10    5.6   0.0        14    5.1   0.0   1.2   1   0   0   1   1   1   0 Putative RING zinc finger protein OS=Arabidopsis thaliana OX=3702 GN=At2g39100 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 22:58:31 2022
+# [ok]

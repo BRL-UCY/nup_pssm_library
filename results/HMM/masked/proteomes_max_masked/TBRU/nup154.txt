@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q584X8|Q584X8_TRYB2 -          Nucleoporin_C        PF03177.11       1.2    6.8   0.0       1.6    6.4   0.0   1.1   1   0   0   1   1   1   0 AAA domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.3350 PE=4 SV=1
+tr|Q57TR3|Q57TR3_TRYB2 -          Nucleoporin_C        PF03177.11       3.9    5.0   1.2       6.1    4.4   1.2   1.2   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.490 PE=4 SV=1
+tr|Q57Y79|Q57Y79_TRYB2 -          Nucleoporin_C        PF03177.11       6.2    4.4   0.1       8.3    4.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.2690 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:52 2022
+# [ok]

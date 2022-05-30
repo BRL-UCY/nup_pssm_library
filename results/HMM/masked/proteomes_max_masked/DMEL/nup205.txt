@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8IQV9|NU205_DROME          -          Nup192               PF11894.5          0 1306.4  10.2         0 1306.1  10.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Drosophila melanogaster OX=7227 GN=Nup205 PE=2 SV=1
+tr|A0A0B4K859|A0A0B4K859_DROME -          Nup192               PF11894.5        2.5    5.5   0.1       4.5    4.6   0.1   1.3   1   0   0   1   1   1   0 Nucleoporin 188kDa, isoform C OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=1
+tr|A1Z945|A1Z945_DROME         -          Nup192               PF11894.5        3.3    5.1   0.1         6    4.2   0.1   1.3   1   0   0   1   1   1   0 Nucleoporin 188kDa, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=2
+tr|Q9W333|Q9W333_DROME         -          Nup192               PF11894.5        4.7    4.6   0.3       4.6    4.6   0.3   1.1   1   0   0   1   1   1   0 IP06839p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15317 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:04:26 2022
+# [ok]

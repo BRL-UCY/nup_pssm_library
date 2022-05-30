@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38D32|Q38D32_TRYB2 -          Nucleopor_Nup85      PF07575.10      0.29    8.6   0.0      0.42    8.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.4780 PE=4 SV=1
+tr|Q57ZX9|Q57ZX9_TRYB2 -          Nucleopor_Nup85      PF07575.10      0.63    7.5   0.0         1    6.8   0.0   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3030 PE=4 SV=1
+tr|Q387R8|Q387R8_TRYB2 -          Nucleopor_Nup85      PF07575.10       1.5    6.3   0.0         2    5.8   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.0320 PE=4 SV=1
+tr|Q381H8|Q381H8_TRYB2 -          Nucleopor_Nup85      PF07575.10       2.3    5.6   0.0       2.9    5.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7740 PE=4 SV=1
+tr|Q38B01|Q38B01_TRYB2 -          Nucleopor_Nup85      PF07575.10       2.7    5.4   0.0       5.2    4.5   0.0   1.3   1   0   0   1   1   1   0 Clathrin heavy chain OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.0830 PE=3 SV=1
+tr|Q38BM2|Q38BM2_TRYB2 -          Nucleopor_Nup85      PF07575.10       7.7    3.9   0.0        13    3.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.3590 PE=4 SV=1
+tr|Q57YN3|Q57YN3_TRYB2 -          Nucleopor_Nup85      PF07575.10       8.2    3.8   0.0        13    3.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.6320 PE=4 SV=1
+tr|Q582S5|Q582S5_TRYB2 -          Nucleopor_Nup85      PF07575.10       9.9    3.5   0.0        15    2.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.4600 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:17 2022
+# [ok]

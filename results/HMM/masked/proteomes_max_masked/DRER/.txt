@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WCS8|X1WCS8_DANRE         -          IR1-M                PF12185.5    1.5e-22   80.6   0.0   6.2e-14   53.0   0.0   2.4   2   0   0   2   2   2   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|B8JMJ5|B8JMJ5_DANRE         -          IR1-M                PF12185.5    8.8e-20   71.8   0.0     2e-11   45.0   0.0   2.4   2   0   0   2   2   2   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          IR1-M                PF12185.5      9e-20   71.7   0.0     2e-11   45.0   0.0   2.4   2   0   0   2   2   2   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|Q5RJ50|Q5RJ50_DANRE         -          IR1-M                PF12185.5        9.2    7.6   0.0        20    6.6   0.0   1.5   1   0   0   1   1   1   0 Vesicle (multivesicular body)-trafficking 1 OS=Danio rerio OX=7955 GN=vta1 PE=1 SV=1
+tr|A0A2R8RJY3|A0A2R8RJY3_DANRE -          IR1-M                PF12185.5        9.3    7.6   0.0        20    6.6   0.0   1.5   1   0   0   1   1   1   0 Vesicle (multivesicular body)-trafficking 1 OS=Danio rerio OX=7955 GN=vta1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:09:57 2022
+# [ok]

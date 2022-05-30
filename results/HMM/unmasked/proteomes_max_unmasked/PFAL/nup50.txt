@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8IM29|Q8IM29_PLAF7         -          NUP50                PF08911.8        1.9    7.5   4.3       6.6    5.8   4.3   1.9   1   0   0   1   1   1   0 WD repeat-containing protein 65, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1406500 PE=4 SV=1
+sp|Q8I1N6|AP2A_PLAF7           -          NUP50                PF08911.8        3.4    6.7   0.4        45    3.1   0.4   3.1   1   0   0   1   1   1   0 AP2/ERF domain-containing protein PFD0985w OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PFD0985w PE=1 SV=2
+tr|Q8IBA2|Q8IBA2_PLAF7         -          NUP50                PF08911.8        4.6    6.3   0.0        35    3.4   0.0   2.5   1   0   0   1   1   1   0 ATP-dependent RNA helicase DBP10, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0827000 PE=4 SV=1
+tr|Q8IEQ5|Q8IEQ5_PLAF7         -          NUP50                PF08911.8        7.5    5.6   0.5        56    2.8   0.5   2.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1306000 PE=4 SV=1
+tr|A0A144A1J3|A0A144A1J3_PLAF7 -          NUP50                PF08911.8        7.7    5.6   0.0        15    4.6   0.0   1.4   1   0   0   1   1   1   0 CS domain-containing protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1251000 PE=4 SV=1
+tr|Q8IEB2|Q8IEB2_PLAF7         -          NUP50                PF08911.8        8.8    5.4   0.2        17    4.5   0.2   1.4   1   0   0   1   1   1   0 ATP-dependent Clp protease adapter protein ClpS OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1320100 PE=1 SV=1
+tr|Q8IL01|Q8IL01_PLAF7         -          NUP50                PF08911.8         10    5.2   4.9       1.1    8.3   0.6   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1447100 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PFAL.fasta
+# Option settings: hmmsearch --tblout proteomes/PFAL/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PFAL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 12:13:42 2022
+# [ok]

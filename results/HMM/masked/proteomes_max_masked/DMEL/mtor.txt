@@ -1,0 +1,54 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1Z8P9|TPR_DROME            -          TPR_MLP1_2           PF07926.9    5.4e-16   59.1   1.9   5.4e-16   59.1   1.9   3.9   4   1   0   4   4   3   1 Nucleoprotein TPR OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|A0A0B4KFE9|A0A0B4KFE9_DROME -          TPR_MLP1_2           PF07926.9    5.4e-16   59.1   1.9   5.4e-16   59.1   1.9   3.9   4   1   0   4   4   3   1 Megator, isoform B OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|Q9VK31|Q9VK31_DROME         -          TPR_MLP1_2           PF07926.9       0.19   12.1   1.2      0.33   11.3   1.2   1.3   1   0   0   1   1   1   0 LD35592p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5439 PE=1 SV=1
+tr|A1Z951|A1Z951_DROME         -          TPR_MLP1_2           PF07926.9       0.36   11.2   0.0      0.58   10.5   0.0   1.3   1   0   0   1   1   1   0 MIP12871p OS=Drosophila melanogaster OX=7227 GN=CG12488 PE=2 SV=2
+tr|A0A0B4KFS6|A0A0B4KFS6_DROME -          TPR_MLP1_2           PF07926.9       0.37   11.1   0.0      0.61   10.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=CG12488 PE=4 SV=1
+tr|F0JAQ8|F0JAQ8_DROME         -          TPR_MLP1_2           PF07926.9       0.37   11.1   0.0      0.61   10.4   0.0   1.3   1   0   0   1   1   1   0 MIP12971p OS=Drosophila melanogaster OX=7227 GN=CG42663-RB PE=2 SV=1
+tr|Q9VB71|Q9VB71_DROME         -          TPR_MLP1_2           PF07926.9       0.59   10.5  10.5      0.74   10.2   3.1   3.3   3   0   0   3   3   3   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6059 PE=4 SV=1
+sp|Q9W1B0|GEK_DROME            -          TPR_MLP1_2           PF07926.9          1    9.7   2.7       2.3    8.6   2.7   1.5   1   0   0   1   1   1   0 Serine/threonine-protein kinase Genghis Khan OS=Drosophila melanogaster OX=7227 GN=gek PE=1 SV=1
+sp|Q9UAS6|CMTR2_DROME          -          TPR_MLP1_2           PF07926.9          2    8.7   2.3        21    5.5   0.0   2.7   3   0   0   3   3   2   0 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Drosophila melanogaster OX=7227 GN=cmtr2 PE=2 SV=2
+tr|X2JD14|X2JD14_DROME         -          TPR_MLP1_2           PF07926.9        2.6    8.4   0.3        10    6.5   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15365 PE=4 SV=1
+tr|Q9W3A1|Q9W3A1_DROME         -          TPR_MLP1_2           PF07926.9        2.7    8.4   0.3       9.9    6.5   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15365 PE=4 SV=1
+tr|Q9VAI3|Q9VAI3_DROME         -          TPR_MLP1_2           PF07926.9        2.8    8.3   0.4       5.1    7.5   0.4   1.4   1   0   0   1   1   1   0 FI06539p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18731 PE=2 SV=1
+tr|Q9VC70|Q9VC70_DROME         -          TPR_MLP1_2           PF07926.9        2.9    8.3   0.9       5.4    7.4   0.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13617 PE=4 SV=1
+sp|P21520|SCA_DROME            -          TPR_MLP1_2           PF07926.9        3.9    7.8   2.3   2.3e+02    2.1   0.2   3.5   3   1   1   4   4   4   0 Protein scabrous OS=Drosophila melanogaster OX=7227 GN=sca PE=2 SV=3
+tr|Q95RG8|Q95RG8_DROME         -          TPR_MLP1_2           PF07926.9        3.9    7.8   0.9       7.6    6.9   0.9   1.4   1   0   0   1   1   1   0 G protein-coupled receptor kinase interacting ArfGAP OS=Drosophila melanogaster OX=7227 GN=Git PE=1 SV=1
+tr|Q95RQ1|Q95RQ1_DROME         -          TPR_MLP1_2           PF07926.9        4.2    7.7   3.8         7    7.0   3.8   1.2   1   0   0   1   1   1   0 LD16414p OS=Drosophila melanogaster OX=7227 GN=slow PE=2 SV=1
+tr|Q9VC66|Q9VC66_DROME         -          TPR_MLP1_2           PF07926.9        4.3    7.7   4.7        42    4.5   0.2   2.7   2   0   0   2   2   2   0 AT25567p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6607 PE=1 SV=1
+tr|Q9VF12|Q9VF12_DROME         -          TPR_MLP1_2           PF07926.9        4.3    7.7   2.3        34    4.8   0.3   2.5   1   1   1   2   2   2   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=CG31291 PE=4 SV=2
+tr|X2J9Z8|X2J9Z8_DROME         -          TPR_MLP1_2           PF07926.9        4.6    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|X2JHS3|X2JHS3_DROME         -          TPR_MLP1_2           PF07926.9        4.7    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|Q9W5E8|Q9W5E8_DROME         -          TPR_MLP1_2           PF07926.9        4.8    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=2
+tr|Q9VF13|Q9VF13_DROME         -          TPR_MLP1_2           PF07926.9        4.9    7.5   2.2        37    4.7   0.3   2.4   1   1   1   2   2   2   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=CG34275 PE=4 SV=2
+tr|Q9W2K8|Q9W2K8_DROME         -          TPR_MLP1_2           PF07926.9        5.5    7.3   0.4       8.6    6.7   0.4   1.3   1   0   0   1   1   1   0 High mobility group protein 2 OS=Drosophila melanogaster OX=7227 GN=Hmg-2 PE=2 SV=1
+tr|Q9VTE8|Q9VTE8_DROME         -          TPR_MLP1_2           PF07926.9          6    7.2   0.0       7.4    6.9   0.0   1.2   1   0   0   1   1   1   0 GEO08928p1 OS=Drosophila melanogaster OX=7227 GN=Irbp18 PE=1 SV=1
+tr|A0A0B4LHH2|A0A0B4LHH2_DROME -          TPR_MLP1_2           PF07926.9          6    7.2   1.0        50    4.2   0.2   2.5   1   1   1   2   2   2   0 Uncharacterized protein, isoform F OS=Drosophila melanogaster OX=7227 GN=CG14878 PE=4 SV=1
+tr|X2JCG2|X2JCG2_DROME         -          TPR_MLP1_2           PF07926.9        6.2    7.2   2.0        25    5.2   0.8   2.2   2   0   0   2   2   2   0 Growth arrest specific protein 8, isoform C OS=Drosophila melanogaster OX=7227 GN=Gas8 PE=4 SV=1
+tr|Q8IR21|Q8IR21_DROME         -          TPR_MLP1_2           PF07926.9        7.1    7.0   0.1        13    6.1   0.1   1.4   1   0   0   1   1   1   0 GH03748p2 OS=Drosophila melanogaster OX=7227 GN=CG9216 PE=1 SV=1
+tr|M9PHV4|M9PHV4_DROME         -          TPR_MLP1_2           PF07926.9        7.1    7.0   0.1        13    6.1   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein, isoform F OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42354 PE=1 SV=1
+sp|Q8MT08|DRC4_DROME           -          TPR_MLP1_2           PF07926.9        7.2    7.0   2.0        28    5.1   0.8   2.2   2   0   0   2   2   2   0 Dynein regulatory complex subunit 4 OS=Drosophila melanogaster OX=7227 GN=Gas8 PE=2 SV=1
+tr|X2JI73|X2JI73_DROME         -          TPR_MLP1_2           PF07926.9        7.2    7.0   2.0        28    5.1   0.8   2.2   2   0   0   2   2   2   0 Growth arrest specific protein 8, isoform D OS=Drosophila melanogaster OX=7227 GN=Gas8 PE=4 SV=1
+tr|Q9VIY1|Q9VIY1_DROME         -          TPR_MLP1_2           PF07926.9        8.1    6.8   0.0        20    5.6   0.0   1.7   1   1   0   1   1   1   0 CG10750 protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10750 PE=2 SV=1
+tr|X2J6Y3|X2J6Y3_DROME         -          TPR_MLP1_2           PF07926.9        8.1    6.8   0.0        20    5.6   0.0   1.7   1   1   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10750 PE=4 SV=1
+tr|Q7KT36|Q7KT36_DROME         -          TPR_MLP1_2           PF07926.9        8.2    6.8   3.8       3.2    8.1   0.4   2.0   2   1   0   2   2   2   0 IP19005p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13083 PE=2 SV=1
+tr|Q0KHX7|Q0KHX7_DROME         -          TPR_MLP1_2           PF07926.9        8.4    6.7   8.0      0.56   10.5   0.3   2.8   3   0   0   3   3   3   0 FI18193p1 OS=Drosophila melanogaster OX=7227 GN=EG:118B3.2 PE=1 SV=1
+tr|L7S1A0|L7S1A0_DROME         -          TPR_MLP1_2           PF07926.9        8.4    6.7   0.0        89    3.4   0.0   2.0   2   0   0   2   2   2   0 FI20862p1 OS=Drosophila melanogaster OX=7227 GN=CT32596 PE=2 SV=1
+tr|Q9VA65|Q9VA65_DROME         -          TPR_MLP1_2           PF07926.9        8.4    6.7   0.6        18    5.7   0.0   1.7   2   0   0   2   2   1   0 FI17802p1 OS=Drosophila melanogaster OX=7227 GN=PH4alphaMP PE=2 SV=1
+tr|A0A0B4LHT4|A0A0B4LHT4_DROME -          TPR_MLP1_2           PF07926.9        8.9    6.7   0.1        13    6.2   0.1   1.2   1   0   0   1   1   1   0 Degringolade, isoform D OS=Drosophila melanogaster OX=7227 GN=dgrn PE=4 SV=1
+tr|M9PHH5|M9PHH5_DROME         -          TPR_MLP1_2           PF07926.9        9.3    6.6   0.1        15    6.0   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=FBpp0071364 PE=4 SV=1
+tr|Q9W302|Q9W302_DROME         -          TPR_MLP1_2           PF07926.9        9.3    6.6   0.1        15    6.0   0.1   1.2   1   0   0   1   1   1   0 GH05177p OS=Drosophila melanogaster OX=7227 GN=AAF46535 PE=2 SV=2
+sp|Q9VL18|EF1D_DROME           -          TPR_MLP1_2           PF07926.9        9.4    6.6   2.3        16    5.8   1.7   1.6   2   0   0   2   2   1   0 Probable elongation factor 1-delta OS=Drosophila melanogaster OX=7227 GN=eEF1delta PE=1 SV=1
+tr|B7Z0G0|B7Z0G0_DROME         -          TPR_MLP1_2           PF07926.9        9.6    6.6   0.7        30    4.9   0.1   2.1   2   0   0   2   2   2   0 NudE, isoform D OS=Drosophila melanogaster OX=7227 GN=nudE PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/mtor.txt --max --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:02:11 2022
+# [ok]

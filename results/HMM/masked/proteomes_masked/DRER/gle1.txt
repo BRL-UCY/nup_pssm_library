@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0S5C8|B0S5C8_DANRE -          GLE1                 PF07817.10   1.2e-65  222.6   0.0   1.7e-65  222.1   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=1 SV=1
+tr|B0S5D2|B0S5D2_DANRE -          GLE1                 PF07817.10   1.3e-65  222.5   0.0   1.8e-65  222.0   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=4 SV=1
+sp|Q6DRB1|GLE1_DANRE   -          GLE1                 PF07817.10   1.5e-61  209.2   0.0   2.1e-61  208.7   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:47 2022
+# [ok]

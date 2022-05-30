@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6DFH3|Q6DFH3_XENLA         -          UPF0121              PF03661.10   3.8e-96  322.4  11.3   4.5e-96  322.1  11.3   1.0   1   0   0   1   1   1   1 Tmem33-prov protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=2 SV=1
+tr|A0A1L8HL24|A0A1L8HL24_XENLA -          UPF0121              PF03661.10   6.1e-96  321.7  11.4   7.1e-96  321.5  11.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=4 SV=1
+tr|A0A1L8HS70|A0A1L8HS70_XENLA -          UPF0121              PF03661.10    0.0067   17.1   0.2    0.0071   17.0   0.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011139mg PE=4 SV=1
+tr|A0A1L8HDU4|A0A1L8HDU4_XENLA -          UPF0121              PF03661.10      0.13   12.8   6.2      0.24   12.0   4.8   2.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011937mg PE=4 SV=1
+tr|A0A1L8FRN3|A0A1L8FRN3_XENLA -          UPF0121              PF03661.10      0.34   11.5   0.0      0.39   11.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033208mg PE=4 SV=1
+tr|A0A1L8I149|A0A1L8I149_XENLA -          UPF0121              PF03661.10      0.34   11.5   0.1      0.34   11.5   0.1   2.9   2   1   1   4   4   4   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007862mg PE=4 SV=1
+tr|A0A1L8HQT1|A0A1L8HQT1_XENLA -          UPF0121              PF03661.10      0.41   11.2   0.1      0.41   11.2   0.1   3.4   2   1   3   5   5   5   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010669mg PE=4 SV=1
+tr|A0A1L8GXX0|A0A1L8GXX0_XENLA -          UPF0121              PF03661.10       1.4    9.5   0.0       2.1    8.9   0.0   1.2   1   0   0   1   1   1   0 G protein-coupled receptor kinase OS=Xenopus laevis OX=8355 GN=grk6 PE=3 SV=1
+tr|A0A1L8ETU8|A0A1L8ETU8_XENLA -          UPF0121              PF03661.10       2.4    8.7   0.0       7.6    7.1   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043798mg PE=4 SV=1
+tr|A0A1L8G8P3|A0A1L8G8P3_XENLA -          UPF0121              PF03661.10       2.7    8.5   0.0       3.5    8.2   0.0   1.1   1   0   0   1   1   1   0 BEACH-type PH domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180268899mg PE=4 SV=1
+tr|A0A1L8HFJ3|A0A1L8HFJ3_XENLA -          UPF0121              PF03661.10       3.1    8.4   0.5        13    6.3   0.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem234 PE=4 SV=1
+tr|A0A1L8FKY2|A0A1L8FKY2_XENLA -          UPF0121              PF03661.10       3.1    8.3   0.1       3.6    8.1   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035223mg PE=4 SV=1
+tr|A0A310U4X9|A0A310U4X9_XENLA -          UPF0121              PF03661.10       3.2    8.3   0.1       5.5    7.5   0.0   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002640mg PE=4 SV=1
+tr|A0A1L8G309|A0A1L8G309_XENLA -          UPF0121              PF03661.10       4.4    7.8   1.5        37    4.8   0.1   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029321mg PE=4 SV=1
+tr|A0A1L8EK14|A0A1L8EK14_XENLA -          UPF0121              PF03661.10       4.6    7.8   0.6       5.5    7.5   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18003243mg PE=4 SV=1
+tr|A0A1L8H4R8|A0A1L8H4R8_XENLA -          UPF0121              PF03661.10       5.8    7.5   3.8        22    5.5   3.8   2.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014148mg PE=4 SV=1
+tr|A0A1L8GAT7|A0A1L8GAT7_XENLA -          UPF0121              PF03661.10       6.4    7.3   0.4       6.7    7.3   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18027795mg PE=4 SV=1
+tr|A0A1L8FT52|A0A1L8FT52_XENLA -          UPF0121              PF03661.10       7.2    7.1   1.0        11    6.5   1.0   1.2   1   0   0   1   1   1   0 PlsC domain-containing protein OS=Xenopus laevis OX=8355 GN=tmem68 PE=4 SV=1
+tr|A0A1L8HBT8|A0A1L8HBT8_XENLA -          UPF0121              PF03661.10       7.2    7.1   0.0       6.6    7.3   0.0   1.1   1   0   0   1   1   1   0 Cystatin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011255mg PE=3 SV=1
+tr|A0A1L8EUK8|A0A1L8EUK8_XENLA -          UPF0121              PF03661.10       8.2    7.0   0.4        45    4.5   0.0   2.0   2   0   0   2   2   2   0 IG domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044117mg PE=4 SV=1
+tr|A0A1L8H2I7|A0A1L8H2I7_XENLA -          UPF0121              PF03661.10       8.7    6.9   0.5        12    6.4   0.5   1.2   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018925mg PE=4 SV=1
+tr|A0A1L8I1D2|A0A1L8I1D2_XENLA -          UPF0121              PF03661.10       9.8    6.7   0.2        20    5.7   0.2   1.5   1   0   0   1   1   1   0 RING-CH-type domain-containing protein OS=Xenopus laevis OX=8355 GN=march3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 17:09:40 2022
+# [ok]

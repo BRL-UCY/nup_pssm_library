@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6DFH3|Q6DFH3_XENLA         -          UPF0121              PF03661.10   1.2e-77  261.8   7.6   1.5e-77  261.5   7.6   1.0   1   0   0   1   1   1   1 Tmem33-prov protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=2 SV=1
+tr|A0A1L8HL24|A0A1L8HL24_XENLA -          UPF0121              PF03661.10   3.6e-77  260.2   8.4   4.3e-77  260.0   8.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=4 SV=1
+tr|A0A1L8I149|A0A1L8I149_XENLA -          UPF0121              PF03661.10      0.55   10.8   0.1         1    9.9   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007862mg PE=4 SV=1
+tr|A0A1L8GXX0|A0A1L8GXX0_XENLA -          UPF0121              PF03661.10       5.5    7.5   0.1         8    7.0   0.1   1.1   1   0   0   1   1   1   0 G protein-coupled receptor kinase OS=Xenopus laevis OX=8355 GN=grk6 PE=3 SV=1
+tr|A0A1L8ETU8|A0A1L8ETU8_XENLA -          UPF0121              PF03661.10       9.3    6.8   0.0        18    5.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043798mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:42:11 2022
+# [ok]

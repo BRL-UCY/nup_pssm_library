@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09372|NPP24_CAEEL  -          Nup88                PF10168.6    6.1e-05   21.6   0.2   0.00014   20.4   0.0   1.6   2   0   0   2   2   2   1 Protein npp-24 OS=Caenorhabditis elegans OX=6239 GN=npp-24 PE=4 SV=2
+sp|Q95XD3|BL1S2_CAEEL  -          Nup88                PF10168.6      0.019   13.4   1.2     0.021   13.2   1.2   1.0   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 2 OS=Caenorhabditis elegans OX=6239 GN=blos-2 PE=1 SV=1
+tr|A8WI01|A8WI01_CAEEL -          Nup88                PF10168.6       0.13   10.7   0.2      0.18   10.2   0.2   1.1   1   0   0   1   1   1   0 Cyclic Nucleotide Gated channel OS=Caenorhabditis elegans OX=6239 GN=cng-1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:34 2022
+# [ok]

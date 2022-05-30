@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21436|Q21436_CAEEL         -          Nup192               PF11894.5    1.6e-73  248.4  12.2   1.3e-72  245.4  12.2   2.2   1   1   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-3 PE=1 SV=1
+tr|Q965N4|Q965N4_CAEEL         -          Nup192               PF11894.5       0.22    9.2   0.1      0.29    8.9   0.1   1.0   1   0   0   1   1   1   0 CHImaeriN (Rac-GTPase-activating protein) homolog OS=Caenorhabditis elegans OX=6239 GN=chin-1 PE=1 SV=3
+tr|Q9XVC9|Q9XVC9_CAEEL         -          Nup192               PF11894.5       0.45    8.2   1.5      0.65    7.7   1.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C27C7.7 PE=4 SV=2
+tr|O16656|O16656_CAEEL         -          Nup192               PF11894.5        0.5    8.1   0.1      0.86    7.3   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C03H5.5 PE=4 SV=2
+tr|Q8T3U1|Q8T3U1_CAEEL         -          Nup192               PF11894.5        1.1    6.9   1.2       1.6    6.4   1.2   1.2   1   0   0   1   1   1   0 Alpha-CaTuliN (Catenin/vinculin related) OS=Caenorhabditis elegans OX=6239 GN=ctn-1 PE=1 SV=2
+sp|Q9TZM2|MO25L_CAEEL          -          Nup192               PF11894.5        1.1    6.9   0.2       1.2    6.8   0.2   1.1   1   0   0   1   1   1   0 MO25-like protein 3 OS=Caenorhabditis elegans OX=6239 GN=mop-25.3 PE=3 SV=1
+tr|Q9TY08|Q9TY08_CAEEL         -          Nup192               PF11894.5        1.3    6.7   1.8       1.8    6.3   1.8   1.2   1   0   0   1   1   1   0 SYntaXin OS=Caenorhabditis elegans OX=6239 GN=syx-16 PE=1 SV=2
+tr|H2L012|H2L012_CAEEL         -          Nup192               PF11894.5        1.4    6.6   1.2       2.1    6.0   1.2   1.2   1   0   0   1   1   1   0 Alpha-CaTuliN (Catenin/vinculin related) OS=Caenorhabditis elegans OX=6239 GN=ctn-1 PE=1 SV=1
+tr|G8JYB2|G8JYB2_CAEEL         -          Nup192               PF11894.5        1.5    6.5   1.2       2.3    5.9   1.2   1.2   1   0   0   1   1   1   0 Alpha-CaTuliN (Catenin/vinculin related) OS=Caenorhabditis elegans OX=6239 GN=ctn-1 PE=1 SV=1
+tr|O62228|O62228_CAEEL         -          Nup192               PF11894.5        1.6    6.4   1.1       1.6    6.4   1.1   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F35E2.8 PE=4 SV=1
+tr|H2L011|H2L011_CAEEL         -          Nup192               PF11894.5        1.6    6.4   1.2       2.4    5.8   1.2   1.2   1   0   0   1   1   1   0 Alpha-CaTuliN (Catenin/vinculin related) OS=Caenorhabditis elegans OX=6239 GN=ctn-1 PE=1 SV=1
+sp|Q09261|RT31_CAEEL           -          Nup192               PF11894.5        1.7    6.3   0.1       2.4    5.8   0.1   1.1   1   0   0   1   1   1   0 28S ribosomal protein S31, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=mrps-31 PE=3 SV=2
+tr|Q18012|Q18012_CAEEL         -          Nup192               PF11894.5        1.9    6.1   1.4       1.9    6.2   1.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C15C7.5 PE=1 SV=1
+sp|Q19124|A16L1_CAEEL          -          Nup192               PF11894.5        3.2    5.4   1.3       6.1    4.5   1.3   1.3   1   0   0   1   1   1   0 Autophagic-related protein 16.1 OS=Caenorhabditis elegans OX=6239 GN=atg-16.1 PE=1 SV=1
+tr|Q27GU6|Q27GU6_CAEEL         -          Nup192               PF11894.5        3.4    5.3   0.0       3.8    5.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F58F12.4 PE=4 SV=1
+tr|U4PAN8|U4PAN8_CAEEL         -          Nup192               PF11894.5          4    5.1   0.1       3.5    5.3   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.49 PE=4 SV=1
+tr|O44866|O44866_CAEEL         -          Nup192               PF11894.5          4    5.1   0.2       5.1    4.7   0.2   1.1   1   0   0   1   1   1   0 F-box B protein OS=Caenorhabditis elegans OX=6239 GN=fbxb-50 PE=4 SV=2
+tr|P91149|P91149_CAEEL         -          Nup192               PF11894.5        4.4    4.9   4.7       2.6    5.7   0.6   2.1   2   0   0   2   2   2   0 Exocyst complex component 7 OS=Caenorhabditis elegans OX=6239 GN=exoc-7 PE=1 SV=1
+tr|H2KYN0|H2KYN0_CAEEL         -          Nup192               PF11894.5          5    4.8   0.8       6.6    4.4   0.8   1.1   1   0   0   1   1   1   0 Related to yeast Vacuolar Protein Sorting factor OS=Caenorhabditis elegans OX=6239 GN=vps-45 PE=1 SV=1
+tr|O01448|O01448_CAEEL         -          Nup192               PF11894.5        5.3    4.7   0.0       7.9    4.1   0.0   1.2   1   0   0   1   1   1   0 Nuclear Hormone Receptor family OS=Caenorhabditis elegans OX=6239 GN=nhr-147 PE=3 SV=2
+tr|O62480|O62480_CAEEL         -          Nup192               PF11894.5        5.4    4.7   0.1        47    1.5   0.0   1.8   2   0   0   2   2   2   0 Integrin Cytoplasmic domain-Associated Protein homolog OS=Caenorhabditis elegans OX=6239 GN=icap-1 PE=1 SV=2
+tr|Q9XV27|Q9XV27_CAEEL         -          Nup192               PF11894.5        5.4    4.7   0.0       6.8    4.3   0.0   1.1   1   0   0   1   1   1   0 Serpentine Receptor, class Z OS=Caenorhabditis elegans OX=6239 GN=srz-66 PE=4 SV=2
+tr|C6KRG7|C6KRG7_CAEEL         -          Nup192               PF11894.5        5.6    4.6   0.6       6.5    4.4   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F57C12.6 PE=4 SV=2
+tr|H2KZT6|H2KZT6_CAEEL         -          Nup192               PF11894.5        5.9    4.5   0.2       5.7    4.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F28E10.1 PE=1 SV=1
+sp|Q19493|TBCD_CAEEL           -          Nup192               PF11894.5        5.9    4.5   0.4        11    3.7   0.4   1.4   1   0   0   1   1   1   0 Tubulin-specific chaperone D OS=Caenorhabditis elegans OX=6239 GN=tbcd-1 PE=3 SV=1
+tr|U4PLE4|U4PLE4_CAEEL         -          Nup192               PF11894.5        6.9    4.3   0.6       6.9    4.3   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F28E10.1 PE=1 SV=1
+tr|G5EDP9|G5EDP9_CAEEL         -          Nup192               PF11894.5        6.9    4.3   0.9       8.5    4.0   0.9   1.0   1   0   0   1   1   1   0 Phosphoinositide 3-kinase adapter subunit OS=Caenorhabditis elegans OX=6239 GN=aap-1 PE=1 SV=1
+tr|O61861|O61861_CAEEL         -          Nup192               PF11894.5        7.3    4.2   0.0       7.8    4.1   0.0   1.0   1   0   0   1   1   1   0 Actin-related protein 2/3 complex subunit 5 OS=Caenorhabditis elegans OX=6239 GN=arx-7 PE=1 SV=1
+sp|Q09600|VPS11_CAEEL          -          Nup192               PF11894.5        7.3    4.2   0.7        10    3.7   0.7   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 11 homolog OS=Caenorhabditis elegans OX=6239 GN=vps-11 PE=3 SV=2
+tr|Q52GY3|Q52GY3_CAEEL         -          Nup192               PF11894.5        7.5    4.2   0.3         9    3.9   0.3   1.1   1   0   0   1   1   1   0 CPG4 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=B0365.9 PE=1 SV=1
+tr|Q22215|Q22215_CAEEL         -          Nup192               PF11894.5        7.9    4.1   3.4        10    3.7   3.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T05B9.1 PE=1 SV=1
+tr|A0A2I2LDV4|A0A2I2LDV4_CAEEL -          Nup192               PF11894.5        9.2    3.9   0.0        19    2.8   0.0   1.4   1   0   0   1   1   1   0 Titin homolog OS=Caenorhabditis elegans OX=6239 GN=ttn-1 PE=1 SV=1
+tr|Q9BL17|Q9BL17_CAEEL         -          Nup192               PF11894.5        9.3    3.9   0.1        13    3.3   0.1   1.1   1   0   0   1   1   1   0 HAlF transporter (PGP related) OS=Caenorhabditis elegans OX=6239 GN=haf-6 PE=1 SV=3
+tr|Q5WRL6|Q5WRL6_CAEEL         -          Nup192               PF11894.5        9.8    3.8   2.1        12    3.4   2.1   1.1   1   0   0   1   1   1   0 Serpentine Receptor, class Z OS=Caenorhabditis elegans OX=6239 GN=srz-104 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:10:31 2022
+# [ok]

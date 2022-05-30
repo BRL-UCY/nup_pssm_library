@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HI99|F7HI99_MACMU         -          Ran_BP1              PF00638.15  1.1e-195  640.5  13.5   6.1e-51  173.1   0.8   4.3   4   0   0   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7HGB6|F7HGB6_MACMU         -          Ran_BP1              PF00638.15   2.5e-95  316.4   2.5   3.5e-48  164.2   0.4   2.3   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7GZD7|F7GZD7_MACMU         -          Ran_BP1              PF00638.15   3.1e-95  316.1   2.5     4e-48  164.0   0.4   2.4   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|A0A1D5Q649|A0A1D5Q649_MACMU -          Ran_BP1              PF00638.15   1.1e-38  133.5   0.0   1.3e-38  133.3   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F7GMJ1|F7GMJ1_MACMU         -          Ran_BP1              PF00638.15   1.1e-38  133.5   0.0   1.4e-38  133.2   0.0   1.1   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=2 SV=2
+tr|A0A1D5RHC9|A0A1D5RHC9_MACMU -          Ran_BP1              PF00638.15   2.6e-38  132.3   0.0   3.2e-38  132.0   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|A0A1D5Q231|A0A1D5Q231_MACMU -          Ran_BP1              PF00638.15   3.8e-35  122.1   0.0   4.7e-35  121.8   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F7HI88|F7HI88_MACMU         -          Ran_BP1              PF00638.15   5.5e-10   40.8   0.0   8.6e-10   40.2   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI87|F7HI87_MACMU         -          Ran_BP1              PF00638.15   5.7e-10   40.8   0.0   8.9e-10   40.2   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI90|F7HI90_MACMU         -          Ran_BP1              PF00638.15   6.6e-10   40.6   0.0     1e-09   40.0   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F6YDF5|F6YDF5_MACMU         -          Ran_BP1              PF00638.15   1.2e-06   30.1   0.0   1.6e-06   29.6   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 isoform b OS=Macaca mulatta OX=9544 GN=NUP50 PE=2 SV=1
+tr|A0A1D5Q3V6|A0A1D5Q3V6_MACMU -          Ran_BP1              PF00638.15     0.024   16.2   0.0     0.044   15.3   0.0   1.4   1   1   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=EVL PE=4 SV=1
+tr|H9FVJ4|H9FVJ4_MACMU         -          Ran_BP1              PF00638.15     0.054   15.0   0.0     0.094   14.3   0.0   1.4   1   1   0   1   1   1   0 Ena/VASP-like protein OS=Macaca mulatta OX=9544 GN=EVL PE=2 SV=1
+tr|A0A1D5QXC8|A0A1D5QXC8_MACMU -          Ran_BP1              PF00638.15     0.072   14.6   0.0      0.14   13.7   0.0   1.5   1   1   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=ENAH PE=4 SV=1
+tr|A0A1D5QC92|A0A1D5QC92_MACMU -          Ran_BP1              PF00638.15     0.078   14.5   0.0      0.13   13.8   0.0   1.4   1   1   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=EVL PE=3 SV=1
+tr|F6Z8F1|F6Z8F1_MACMU         -          Ran_BP1              PF00638.15     0.084   14.4   0.0     0.091   14.3   0.0   1.2   1   0   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=VASP PE=4 SV=2
+tr|A0A1D5QYR4|A0A1D5QYR4_MACMU -          Ran_BP1              PF00638.15      0.14   13.7   0.0      0.17   13.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=4 SV=1
+tr|F6U702|F6U702_MACMU         -          Ran_BP1              PF00638.15      0.35   12.4   0.0      0.53   11.8   0.0   1.2   1   0   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=VASP PE=4 SV=2
+tr|I0FG82|I0FG82_MACMU         -          Ran_BP1              PF00638.15      0.38   12.3   0.0      0.53   11.8   0.0   1.2   1   0   0   1   1   1   0 Vasodilator-stimulated phosphoprotein OS=Macaca mulatta OX=9544 GN=VASP PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:01 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q99567|NUP88_HUMAN          -          Nup88                PF10168.6   5.4e-263  876.1   0.0  6.1e-263  875.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=2
+tr|J3KMX1|J3KMX1_HUMAN         -          Nup88                PF10168.6   1.5e-252  841.5   0.2  5.8e-252  839.6   0.2   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L245|I3L245_HUMAN         -          Nup88                PF10168.6    4.8e-57  195.3   0.0   5.2e-57  195.2   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L4K7|I3L4K7_HUMAN         -          Nup88                PF10168.6    6.7e-30  105.6   0.6   7.6e-30  105.4   0.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L2W3|I3L2W3_HUMAN         -          Nup88                PF10168.6    1.4e-08   35.2   0.0   1.6e-08   34.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|H0YB06|H0YB06_HUMAN         -          Nup88                PF10168.6        4.8    6.9   0.0       5.7    6.7   0.0   1.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform (Fragment) OS=Homo sapiens OX=9606 GN=PPP2R2D PE=1 SV=2
+tr|H0YI76|H0YI76_HUMAN         -          Nup88                PF10168.6        8.1    6.2   0.6        11    5.7   0.6   1.1   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 5 (Fragment) OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=1
+tr|Q5JPU2|Q5JPU2_HUMAN         -          Nup88                PF10168.6        9.6    5.9   0.0        10    5.8   0.0   1.0   1   0   0   1   1   1   0 Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=PDHA1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:29:26 2022
+# [ok]

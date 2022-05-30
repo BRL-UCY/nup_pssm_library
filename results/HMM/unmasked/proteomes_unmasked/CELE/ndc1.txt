@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8I4N3|NDC1_CAEEL           -          Ndc1_Nup             PF09531.7    1.7e-31  110.2   7.2   1.7e-31  110.2   7.2   3.3   1   1   1   2   2   1   1 Nucleoporin ndc-1 OS=Caenorhabditis elegans OX=6239 GN=npp-22 PE=3 SV=1
+tr|K8FE07|K8FE07_CAEEL         -          Ndc1_Nup             PF09531.7      0.032   13.6   0.0     0.039   13.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W02B8.1 PE=4 SV=1
+tr|Q9XVX4|Q9XVX4_CAEEL         -          Ndc1_Nup             PF09531.7       0.14   11.5   0.4      0.17   11.2   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F13D12.8 PE=4 SV=1
+sp|P34468|YMH1_CAEEL           -          Ndc1_Nup             PF09531.7       0.46    9.8   6.1      0.54    9.5   6.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein F58A4.1 OS=Caenorhabditis elegans OX=6239 GN=F58A4.1 PE=4 SV=2
+tr|Q19681|Q19681_CAEEL         -          Ndc1_Nup             PF09531.7       0.51    9.6   1.2      0.51    9.6   1.2   1.1   1   0   0   1   1   1   0 OTUBain deubiquitylating protease homolog OS=Caenorhabditis elegans OX=6239 GN=otub-3 PE=1 SV=1
+tr|Q21009|Q21009_CAEEL         -          Ndc1_Nup             PF09531.7       0.53    9.6   4.7      0.61    9.4   4.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F58G6.3 PE=4 SV=2
+tr|H9G2Z6|H9G2Z6_CAEEL         -          Ndc1_Nup             PF09531.7       0.58    9.4   4.2      0.61    9.4   4.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C30H6.12 PE=1 SV=1
+tr|H9G2Z7|H9G2Z7_CAEEL         -          Ndc1_Nup             PF09531.7       0.61    9.4   4.8      0.65    9.3   4.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C30H6.12 PE=1 SV=1
+sp|Q19972|CEC4_CAEEL           -          Ndc1_Nup             PF09531.7       0.65    9.3   7.2       0.9    8.8   7.2   1.1   1   0   0   1   1   1   0 Chromo domain-containing protein cec-4 OS=Caenorhabditis elegans OX=6239 GN=cec-4 PE=1 SV=1
+tr|Q7JLI8|Q7JLI8_CAEEL         -          Ndc1_Nup             PF09531.7       0.86    8.9   7.5       1.2    8.4   7.5   1.2   1   0   0   1   1   1   0 Deubiquitylating with USP/UBP and OTU domains OS=Caenorhabditis elegans OX=6239 GN=duo-1 PE=1 SV=1
+tr|G5ECI4|G5ECI4_CAEEL         -          Ndc1_Nup             PF09531.7        0.9    8.8   8.1       1.1    8.6   8.1   1.2   1   0   0   1   1   1   0 MiRP K channel accessory Subunit OS=Caenorhabditis elegans OX=6239 GN=mps-3 PE=2 SV=1
+tr|Q6BEU2|Q6BEU2_CAEEL         -          Ndc1_Nup             PF09531.7       0.94    8.7   2.4       1.1    8.6   2.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C53D6.10 PE=1 SV=1
+tr|Q9GZH9|Q9GZH9_CAEEL         -          Ndc1_Nup             PF09531.7        1.2    8.4   3.7       1.4    8.1   3.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F52G3.5 PE=4 SV=2
+tr|Q95ZT8|Q95ZT8_CAEEL         -          Ndc1_Nup             PF09531.7        1.8    7.8   8.5       1.9    7.7   8.5   1.1   1   0   0   1   1   1   0 Major sperm protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F42A9.7 PE=1 SV=1
+tr|Q22676|Q22676_CAEEL         -          Ndc1_Nup             PF09531.7        1.9    7.7   3.8       2.1    7.6   3.8   1.1   1   0   0   1   1   1   0 C2H2-type domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T22C8.3 PE=1 SV=1
+sp|P34337|YK13_CAEEL           -          Ndc1_Nup             PF09531.7        2.1    7.6   6.7       2.5    7.3   6.7   1.2   1   0   0   1   1   1   0 Putative tyrosine-protein phosphatase C15H7.3 OS=Caenorhabditis elegans OX=6239 GN=C15H7.3 PE=3 SV=1
+tr|A5PEY0|A5PEY0_CAEEL         -          Ndc1_Nup             PF09531.7        2.2    7.5   6.3       2.5    7.3   6.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y37H2A.14 PE=1 SV=1
+tr|O17840|O17840_CAEEL         -          Ndc1_Nup             PF09531.7        2.2    7.5   8.2       3.2    7.0   8.2   1.2   1   0   0   1   1   1   0 Protein-tyrosine-phosphatase OS=Caenorhabditis elegans OX=6239 GN=CELE_F25H5.7 PE=4 SV=1
+tr|A0A486WXG9|A0A486WXG9_CAEEL -          Ndc1_Nup             PF09531.7        2.3    7.5  10.2       2.4    7.4  10.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F54D11.4 PE=1 SV=1
+tr|A8DYR9|A8DYR9_CAEEL         -          Ndc1_Nup             PF09531.7        2.7    7.2   6.7       3.2    7.0   6.7   1.1   1   0   0   1   1   1   0 ELAV-Type RNA binding-protein family OS=Caenorhabditis elegans OX=6239 GN=etr-1 PE=1 SV=1
+tr|Q56VY3|Q56VY3_CAEEL         -          Ndc1_Nup             PF09531.7        2.7    7.2  14.5       2.9    7.1  14.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y87G2A.20 PE=4 SV=1
+tr|O45233|O45233_CAEEL         -          Ndc1_Nup             PF09531.7        4.8    6.4   5.4         6    6.1   5.4   1.1   1   0   0   1   1   1   0 MADF domain transcription factor OS=Caenorhabditis elegans OX=6239 GN=madf-5 PE=4 SV=1
+tr|Q1XFY6|Q1XFY6_CAEEL         -          Ndc1_Nup             PF09531.7        5.2    6.3   4.9       5.3    6.3   4.9   1.1   1   0   0   1   1   1   0 Major sperm protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W03D8.5 PE=1 SV=2
+tr|P91345|P91345_CAEEL         -          Ndc1_Nup             PF09531.7        5.6    6.2   8.8       7.2    5.8   8.8   1.2   1   0   0   1   1   1   0 Protein-tyrosine-phosphatase OS=Caenorhabditis elegans OX=6239 GN=CELE_F55F8.7 PE=4 SV=2
+tr|D5MCR4|D5MCR4_CAEEL         -          Ndc1_Nup             PF09531.7        6.4    6.0   5.6       7.2    5.8   5.6   1.1   1   0   0   1   1   1   0 SUPpressor OS=Caenorhabditis elegans OX=6239 GN=sup-26 PE=1 SV=1
+tr|O45339|O45339_CAEEL         -          Ndc1_Nup             PF09531.7        9.4    5.4  14.9        16    4.7   0.2   2.2   2   0   0   2   2   2   0 Seven TM Receptor OS=Caenorhabditis elegans OX=6239 GN=str-99 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:06 2022
+# [ok]

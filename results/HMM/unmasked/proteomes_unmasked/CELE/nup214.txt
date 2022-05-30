@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q17602|NU214_CAEEL  -          NUP214               PF16755.2      0.012   15.5   0.1     0.012   15.5   0.1   2.1   2   1   0   2   2   2   0 Nuclear pore complex protein 14 OS=Caenorhabditis elegans OX=6239 GN=npp-14 PE=1 SV=1
+tr|G5EEZ4|G5EEZ4_CAEEL -          NUP214               PF16755.2      0.073   12.9   0.0       0.7    9.6   0.0   2.0   2   0   0   2   2   2   0 3E324 OS=Caenorhabditis elegans OX=6239 GN=3E324 PE=1 SV=1
+tr|Q22129|Q22129_CAEEL -          NUP214               PF16755.2       0.13   12.1   0.2      0.18   11.6   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T03G6.3 PE=1 SV=2
+sp|P34595|IGLR2_CAEEL  -          NUP214               PF16755.2       0.17   11.7   1.8      0.39   10.5   0.7   2.1   3   0   0   3   3   3   0 Immunoglobulin domain and leucine-rich repeat-containing protein 2 OS=Caenorhabditis elegans OX=6239 GN=iglr-2 PE=1 SV=2
+tr|O18215|O18215_CAEEL -          NUP214               PF16755.2        3.8    7.2   5.3        29    4.3   0.3   3.3   2   1   1   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y53C12B.1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup214.txt --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:00 2022
+# [ok]

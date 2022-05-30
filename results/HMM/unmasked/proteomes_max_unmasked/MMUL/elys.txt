@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7FYF6|F7FYF6_MACMU         -          ELYS                 PF13934.3    1.8e-53  183.1   0.0   3.1e-53  182.3   0.0   1.4   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=AHCTF1 PE=4 SV=1
+tr|A0A1D5RK66|A0A1D5RK66_MACMU -          ELYS                 PF13934.3     0.0046   18.3   0.4    0.0046   18.3   0.4   3.5   4   0   0   4   4   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=IFT140 PE=4 SV=1
+tr|F6Q6W1|F6Q6W1_MACMU         -          ELYS                 PF13934.3     0.0046   18.3   0.4    0.0046   18.3   0.4   3.2   3   0   0   3   3   2   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=IFT140 PE=4 SV=2
+tr|F7ACR1|F7ACR1_MACMU         -          ELYS                 PF13934.3      0.082   14.2   0.1       0.1   13.9   0.1   1.1   1   0   0   1   1   1   0 Putative peptidyl-tRNA hydrolase PTRHD1 OS=Macaca mulatta OX=9544 GN=PTRHD1 PE=2 SV=1
+tr|F6X309|F6X309_MACMU         -          ELYS                 PF13934.3        0.1   13.9   0.0       2.8    9.2   0.0   2.8   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=IFT88 PE=4 SV=2
+tr|F7DI64|F7DI64_MACMU         -          ELYS                 PF13934.3       0.27   12.5   0.0         1   10.6   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO1G PE=3 SV=2
+tr|F7DI84|F7DI84_MACMU         -          ELYS                 PF13934.3       0.27   12.5   0.0       1.1   10.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO1G PE=3 SV=2
+tr|A0A1D5QQ24|A0A1D5QQ24_MACMU -          ELYS                 PF13934.3       0.28   12.5   2.3      0.47   11.7   2.2   1.4   1   1   0   1   1   1   0 Coatomer subunit epsilon OS=Macaca mulatta OX=9544 GN=COPE PE=2 SV=1
+tr|F7FFE3|F7FFE3_MACMU         -          ELYS                 PF13934.3       0.41   11.9   0.6      0.57   11.4   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=COPE PE=4 SV=1
+tr|F7C8X4|F7C8X4_MACMU         -          ELYS                 PF13934.3        1.1   10.5   2.0      0.86   10.9   0.6   1.5   2   0   0   2   2   2   0 TIMM10B OS=Macaca mulatta OX=9544 GN=TIMM10B PE=4 SV=1
+tr|A0A1D5Q7I9|A0A1D5Q7I9_MACMU -          ELYS                 PF13934.3        1.3   10.3   0.1       4.3    8.6   0.1   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO3A PE=3 SV=1
+tr|F6VF32|F6VF32_MACMU         -          ELYS                 PF13934.3        1.3   10.3   0.1       4.3    8.6   0.1   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYO3A PE=3 SV=2
+tr|A0A1D5QMG5|A0A1D5QMG5_MACMU -          ELYS                 PF13934.3        1.5   10.1   0.1       2.7    9.2   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PIGS PE=4 SV=1
+tr|F6V7D0|F6V7D0_MACMU         -          ELYS                 PF13934.3          2    9.6   0.1       3.8    8.7   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PIGS PE=4 SV=1
+tr|F6V8B2|F6V8B2_MACMU         -          ELYS                 PF13934.3        2.1    9.6   0.1       3.9    8.7   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PIGS PE=4 SV=2
+tr|A0A1D5QSG5|A0A1D5QSG5_MACMU -          ELYS                 PF13934.3        2.2    9.5   0.0       4.3    8.6   0.0   1.4   1   0   0   1   1   1   0 PPM-type phosphatase domain-containing protein OS=Macaca mulatta OX=9544 GN=PDP2 PE=4 SV=1
+tr|F6ZG82|F6ZG82_MACMU         -          ELYS                 PF13934.3        2.5    9.3   0.5        52    5.0   0.1   2.5   2   0   0   2   2   2   0 Peptidase S59 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|H9FV00|H9FV00_MACMU         -          ELYS                 PF13934.3        2.8    9.2   0.5        55    5.0   0.1   2.5   2   0   0   2   2   2   0 Nuclear pore complex protein Nup98-Nup96 isoform 1 OS=Macaca mulatta OX=9544 GN=NUP98 PE=2 SV=1
+tr|I2CYA3|I2CYA3_MACMU         -          ELYS                 PF13934.3        3.4    8.9   0.0       4.7    8.4   0.0   1.2   1   0   0   1   1   1   0 DNA-directed RNA polymerases I, II, and III subunit RPABC1 OS=Macaca mulatta OX=9544 GN=POLR2E PE=2 SV=1
+tr|F7GTU9|F7GTU9_MACMU         -          ELYS                 PF13934.3        3.4    8.9   0.1       8.1    7.7   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LONRF3 PE=4 SV=2
+tr|F6SMC2|F6SMC2_MACMU         -          ELYS                 PF13934.3        3.5    8.8   0.0       4.9    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POLR2E PE=3 SV=2
+tr|F7EGR3|F7EGR3_MACMU         -          ELYS                 PF13934.3        3.7    8.8   0.4        24    6.1   0.1   2.4   2   1   0   2   2   2   0 USP domain-containing protein OS=Macaca mulatta OX=9544 GN=USP46 PE=3 SV=2
+tr|A0A1D5RAL7|A0A1D5RAL7_MACMU -          ELYS                 PF13934.3        3.8    8.7   0.5        23    6.2   0.1   2.4   2   1   0   2   2   2   0 USP domain-containing protein OS=Macaca mulatta OX=9544 GN=USP46 PE=3 SV=1
+tr|F7EIT4|F7EIT4_MACMU         -          ELYS                 PF13934.3        3.9    8.7   1.0   2.8e+02    2.6   0.0   2.8   2   1   1   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ALDH3B1 PE=4 SV=2
+tr|A0A1D5QKM7|A0A1D5QKM7_MACMU -          ELYS                 PF13934.3          4    8.7   0.0       4.6    8.5   0.0   1.0   1   0   0   1   1   1   0 Ribosomal protein L37 OS=Macaca mulatta OX=9544 GN=RPL37 PE=3 SV=1
+tr|H9EN50|H9EN50_MACMU         -          ELYS                 PF13934.3        4.1    8.6   0.5        23    6.2   0.1   2.4   2   1   0   2   2   2   0 Ubiquitin carboxyl-terminal hydrolase 46 isoform 1 OS=Macaca mulatta OX=9544 GN=USP46 PE=2 SV=1
+tr|A0A1D5QNC4|A0A1D5QNC4_MACMU -          ELYS                 PF13934.3        4.2    8.6   0.5        24    6.1   0.1   2.4   2   1   0   2   2   2   0 USP domain-containing protein OS=Macaca mulatta OX=9544 GN=USP46 PE=3 SV=1
+tr|F6VCV0|F6VCV0_MACMU         -          ELYS                 PF13934.3        4.5    8.5   0.0       9.4    7.5   0.0   1.5   1   0   0   1   1   1   0 [Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 2, mitochondrial OS=Macaca mulatta OX=9544 GN=PDP2 PE=2 SV=1
+tr|F7AEI7|F7AEI7_MACMU         -          ELYS                 PF13934.3        4.5    8.5   0.0        11    7.3   0.0   1.7   1   0   0   1   1   1   0 USP domain-containing protein OS=Macaca mulatta OX=9544 PE=3 SV=2
+sp|Q20CR4|DUSTY_MACMU          -          ELYS                 PF13934.3          5    8.4   0.4        15    6.8   0.4   1.8   1   0   0   1   1   1   0 Dual serine/threonine and tyrosine protein kinase OS=Macaca mulatta OX=9544 GN=DSTYK PE=2 SV=1
+tr|F6W3X5|F6W3X5_MACMU         -          ELYS                 PF13934.3          5    8.3   0.3       6.6    8.0   0.3   1.4   1   1   0   1   1   1   0 SWIM domain-containing and Srs2-interacting protein 1-like protein OS=Macaca mulatta OX=9544 GN=ZSWIM7 PE=2 SV=1
+tr|F6QKE9|F6QKE9_MACMU         -          ELYS                 PF13934.3        5.1    8.3   0.3        20    6.4   0.3   2.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DAAM2 PE=4 SV=2
+tr|F7BH26|F7BH26_MACMU         -          ELYS                 PF13934.3        5.3    8.3   0.4        15    6.7   0.4   1.7   1   0   0   1   1   1   0 Dual serine/threonine and tyrosine protein kinase OS=Macaca mulatta OX=9544 GN=DSTYK PE=2 SV=1
+tr|F6QKB4|F6QKB4_MACMU         -          ELYS                 PF13934.3        5.4    8.2   0.3        19    6.4   0.3   2.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DAAM2 PE=4 SV=1
+tr|A0A1D5R6B2|A0A1D5R6B2_MACMU -          ELYS                 PF13934.3        5.5    8.2   0.0         8    7.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POLR2E PE=3 SV=1
+tr|F6W3Y5|F6W3Y5_MACMU         -          ELYS                 PF13934.3        5.6    8.2   0.3       6.6    8.0   0.3   1.3   1   1   0   1   1   1   0 SWIM-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZSWIM7 PE=4 SV=2
+tr|A0A1D5QPG2|A0A1D5QPG2_MACMU -          ELYS                 PF13934.3        6.7    7.9   0.0         8    7.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DNAJB14 PE=4 SV=1
+tr|A0A1D5RAN9|A0A1D5RAN9_MACMU -          ELYS                 PF13934.3        7.3    7.8   0.7        17    6.6   0.7   1.6   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RMC1 PE=4 SV=1
+tr|F7E5Z1|F7E5Z1_MACMU         -          ELYS                 PF13934.3        7.8    7.7   0.5        18    6.5   0.5   1.6   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RMC1 PE=4 SV=2
+tr|A0A1D5RAE9|A0A1D5RAE9_MACMU -          ELYS                 PF13934.3          8    7.7   0.1        10    7.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RAB30 PE=4 SV=1
+tr|F6Y009|F6Y009_MACMU         -          ELYS                 PF13934.3        8.4    7.6   0.1        28    5.9   0.0   1.8   2   0   0   2   2   2   0 RUN domain-containing protein OS=Macaca mulatta OX=9544 GN=RUFY2 PE=4 SV=2
+tr|A0A1D5RBJ3|A0A1D5RBJ3_MACMU -          ELYS                 PF13934.3        8.6    7.6   0.0       9.3    7.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|I0FVT2|I0FVT2_MACMU         -          ELYS                 PF13934.3        8.7    7.6   0.0        14    6.9   0.0   1.3   1   0   0   1   1   1   0 Regulator of G-protein signaling 5 isoform 1 OS=Macaca mulatta OX=9544 GN=RGS5 PE=2 SV=1
+tr|A0A1D5RFN1|A0A1D5RFN1_MACMU -          ELYS                 PF13934.3        9.2    7.5   0.1        12    7.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RAB30 PE=4 SV=1
+tr|A0A1D5QTX0|A0A1D5QTX0_MACMU -          ELYS                 PF13934.3        9.4    7.5   0.9     4e+02    2.1   0.0   2.6   2   1   1   3   3   3   0 Aldehyde dehydrogenase OS=Macaca mulatta OX=9544 GN=ALDH3B1 PE=3 SV=1
+tr|A0A1D5QQ91|A0A1D5QQ91_MACMU -          ELYS                 PF13934.3        9.7    7.4   1.2        73    4.5   0.1   1.8   1   1   1   2   2   2   0 BHLH domain-containing protein OS=Macaca mulatta OX=9544 GN=TWIST1 PE=4 SV=1
+tr|A0A1D5QMI8|A0A1D5QMI8_MACMU -          ELYS                 PF13934.3        9.8    7.4   0.1        32    5.7   0.0   1.8   2   0   0   2   2   2   0 RUN domain-containing protein OS=Macaca mulatta OX=9544 GN=RUFY2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:19:28 2022
+# [ok]

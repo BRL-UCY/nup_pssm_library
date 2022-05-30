@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P32500|NDC1_YEAST  -          Ndc1_Nup             PF09531.7    1.1e-82  277.1   2.2   1.6e-82  276.6   2.2   1.2   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NDC1 PE=1 SV=1
+sp|P62651|ERI1_YEAST  -          Ndc1_Nup             PF09531.7        4.9    4.2   1.6       5.3    4.1   1.6   1.0   1   0   0   1   1   1   0 Phosphatidylinositol N-acetylglucosaminyltransferase ERI1 subunit OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERI1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:45 2022
+# [ok]

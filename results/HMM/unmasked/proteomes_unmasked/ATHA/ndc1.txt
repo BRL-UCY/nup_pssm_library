@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9SIN7|Q9SIN7_ARATH         -          Ndc1_Nup             PF09531.7    0.00089   19.3   0.2     0.001   19.0   0.2   1.0   1   0   0   1   1   1   1 Vacuolar ATPase assembly integral membrane protein VMA21 homolog OS=Arabidopsis thaliana OX=3702 GN=At2g31710 PE=2 SV=2
+tr|A0A1P8BA45|A0A1P8BA45_ARATH -          Ndc1_Nup             PF09531.7     0.0025   17.8   0.9    0.0029   17.6   0.9   1.1   1   0   0   1   1   1   1 VERDANDI OS=Arabidopsis thaliana OX=3702 GN=VDD PE=4 SV=1
+sp|Q9FJG2|Y5800_ARATH          -          Ndc1_Nup             PF09531.7     0.0033   17.4   1.0     0.004   17.1   1.0   1.1   1   0   0   1   1   1   1 B3 domain-containing protein At5g18000 OS=Arabidopsis thaliana OX=3702 GN=At5g18000 PE=2 SV=1
+tr|Q58G56|Q58G56_ARATH         -          Ndc1_Nup             PF09531.7      0.095   12.6   0.2      0.11   12.3   0.2   1.0   1   0   0   1   1   1   0 Vacuolar ATPase assembly integral membrane protein VMA21 homolog OS=Arabidopsis thaliana OX=3702 GN=At1g05780 PE=2 SV=1
+tr|A0A1P8ANM3|A0A1P8ANM3_ARATH -          Ndc1_Nup             PF09531.7       0.11   12.4   1.4      0.12   12.2   1.4   1.1   1   0   0   1   1   1   0 Nucleic acid/nucleotide binding protein OS=Arabidopsis thaliana OX=3702 GN=At1g21320 PE=4 SV=1
+sp|F4HWF9|NSRB_ARATH           -          Ndc1_Nup             PF09531.7       0.13   12.1   1.3      0.16   11.8   1.3   1.1   1   0   0   1   1   1   0 Nuclear speckle RNA-binding protein B OS=Arabidopsis thaliana OX=3702 GN=NSRB PE=2 SV=1
+tr|Q9FKW5|Q9FKW5_ARATH         -          Ndc1_Nup             PF09531.7       0.62    9.9   2.9      0.85    9.4   2.9   1.1   1   0   0   1   1   1   0 Armadillo repeat only 2 OS=Arabidopsis thaliana OX=3702 GN=ARO2 PE=2 SV=1
+tr|Q9C8L9|Q9C8L9_ARATH         -          Ndc1_Nup             PF09531.7       0.65    9.8   8.1      0.97    9.2   8.1   1.3   1   0   0   1   1   1   0 At1g53640/F22G10.8 OS=Arabidopsis thaliana OX=3702 GN=F22G10.8 PE=2 SV=1
+tr|Q56YV7|Q56YV7_ARATH         -          Ndc1_Nup             PF09531.7       0.83    9.5   2.0      0.92    9.3   2.0   1.1   1   0   0   1   1   1   0 Ribosomal protein L18ae family OS=Arabidopsis thaliana OX=3702 GN=At1g54217 PE=2 SV=1
+tr|F4HV88|F4HV88_ARATH         -          Ndc1_Nup             PF09531.7       0.85    9.4   2.0      0.95    9.3   2.0   1.1   1   0   0   1   1   1   0 Ribosomal protein L18ae family OS=Arabidopsis thaliana OX=3702 GN=At1g54217 PE=4 SV=1
+tr|A8MRL9|A8MRL9_ARATH         -          Ndc1_Nup             PF09531.7        2.2    8.1   3.4       2.7    7.8   3.4   1.3   1   0   0   1   1   1   0 HVA22-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g42560 PE=2 SV=1
+sp|Q8LE10|HA22I_ARATH          -          Ndc1_Nup             PF09531.7        2.4    7.9   3.4         3    7.6   3.4   1.3   1   0   0   1   1   1   0 HVA22-like protein i OS=Arabidopsis thaliana OX=3702 GN=HVA22I PE=2 SV=2
+tr|Q9C9S0|Q9C9S0_ARATH         -          Ndc1_Nup             PF09531.7        3.2    7.5   4.6       4.3    7.1   4.6   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat (TPR)-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=TPR12 PE=4 SV=1
+tr|A0A1P8AVA2|A0A1P8AVA2_ARATH -          Ndc1_Nup             PF09531.7        3.4    7.4   5.0       4.4    7.1   5.0   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat (TPR)-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=TPR12 PE=4 SV=1
+sp|O04608|STKLR_ARATH          -          Ndc1_Nup             PF09531.7          5    6.9   5.1       5.8    6.7   5.1   1.3   1   0   0   1   1   1   0 Probable transcription factor At4g01260 OS=Arabidopsis thaliana OX=3702 GN=At4g01260 PE=3 SV=1
+sp|Q38870|CDPK2_ARATH          -          Ndc1_Nup             PF09531.7        6.6    6.5   4.8         9    6.0   4.8   1.2   1   0   0   1   1   1   0 Calcium-dependent protein kinase 2 OS=Arabidopsis thaliana OX=3702 GN=CPK2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:58 2022
+# [ok]

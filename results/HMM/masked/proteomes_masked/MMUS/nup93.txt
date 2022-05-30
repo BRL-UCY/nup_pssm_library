@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RLQ0|A0A1D5RLQ0_MOUSE -          Nic96                PF04097.11  2.9e-167  559.5   2.4  3.5e-167  559.2   2.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+sp|Q8BJ71|NUP93_MOUSE          -          Nic96                PF04097.11  4.8e-167  558.7   2.4  5.9e-167  558.4   2.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup93.txt --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:50 2022
+# [ok]

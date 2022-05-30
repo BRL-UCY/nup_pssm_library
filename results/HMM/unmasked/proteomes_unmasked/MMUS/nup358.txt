@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9ERU9|RBP2_MOUSE           -          Ran_BP1              PF00638.15  1.4e-224  734.1  22.6   6.2e-56  189.5   4.2   4.6   4   0   0   4   4   4   4 E3 SUMO-protein ligase RanBP2 OS=Mus musculus OX=10090 GN=Ranbp2 PE=1 SV=2
+sp|P34022|RANG_MOUSE           -          Ran_BP1              PF00638.15   1.4e-55  188.3   0.6   2.4e-55  187.6   0.6   1.3   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Mus musculus OX=10090 GN=Ranbp1 PE=1 SV=2
+tr|H7BX22|H7BX22_MOUSE         -          Ran_BP1              PF00638.15   8.4e-48  163.2   0.1   1.5e-47  162.5   0.1   1.4   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Mus musculus OX=10090 GN=Ranbp1 PE=1 SV=1
+sp|Q9CT10|RANB3_MOUSE          -          Ran_BP1              PF00638.15   3.7e-13   51.4   0.0   6.7e-13   50.5   0.0   1.4   1   0   0   1   1   1   1 Ran-binding protein 3 OS=Mus musculus OX=10090 GN=Ranbp3 PE=1 SV=2
+tr|A0A3B2WCL5|A0A3B2WCL5_MOUSE -          Ran_BP1              PF00638.15   4.8e-13   51.0   0.0   8.3e-13   50.2   0.0   1.3   1   0   0   1   1   1   1 RAN binding protein 3, isoform CRA_i OS=Mus musculus OX=10090 GN=Ranbp3 PE=1 SV=1
+tr|Q3V2K7|Q3V2K7_MOUSE         -          Ran_BP1              PF00638.15   8.5e-13   50.2   0.1   1.7e-12   49.3   0.1   1.5   1   0   0   1   1   1   1 RIKEN cDNA 1700123L14 gene OS=Mus musculus OX=10090 GN=1700123L14Rik PE=1 SV=1
+tr|A0A2I3BQU7|A0A2I3BQU7_MOUSE -          Ran_BP1              PF00638.15   1.1e-12   49.9   0.0   1.9e-12   49.1   0.0   1.4   1   0   0   1   1   1   1 Ran-binding protein 3-like (Fragment) OS=Mus musculus OX=10090 GN=Ranbp3l PE=4 SV=1
+sp|Q6PDH4|RNB3L_MOUSE          -          Ran_BP1              PF00638.15   1.5e-12   49.4   0.6   3.5e-12   48.2   0.0   1.9   2   0   0   2   2   2   1 Ran-binding protein 3-like OS=Mus musculus OX=10090 GN=Ranbp3l PE=1 SV=1
+tr|E9QP10|E9QP10_MOUSE         -          Ran_BP1              PF00638.15   1.8e-12   49.2   0.0   3.5e-12   48.2   0.0   1.5   1   0   0   1   1   1   1 Ran-binding protein 3-like OS=Mus musculus OX=10090 GN=Ranbp3l PE=1 SV=2
+sp|Q9JIH2|NUP50_MOUSE          -          Ran_BP1              PF00638.15     5e-11   44.5   0.0     9e-11   43.7   0.0   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 OS=Mus musculus OX=10090 GN=Nup50 PE=1 SV=3
+tr|A0A0A6YXC8|A0A0A6YXC8_MOUSE -          Ran_BP1              PF00638.15    0.0012   20.6   0.0    0.0028   19.5   0.0   1.6   1   1   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=1
+tr|E9QKR1|E9QKR1_MOUSE         -          Ran_BP1              PF00638.15    0.0017   20.1   0.0    0.0037   19.1   0.0   1.6   1   1   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=2
+tr|J3QNM3|J3QNM3_MOUSE         -          Ran_BP1              PF00638.15    0.0032   19.3   0.0    0.0063   18.4   0.0   1.5   1   0   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=1
+tr|A0A0A6YW06|A0A0A6YW06_MOUSE -          Ran_BP1              PF00638.15    0.0033   19.3   0.0    0.0062   18.4   0.0   1.5   1   0   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=1
+sp|Q03173|ENAH_MOUSE           -          Ran_BP1              PF00638.15    0.0033   19.3   0.0    0.0062   18.4   0.0   1.5   1   0   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=2
+tr|E9QKQ9|E9QKQ9_MOUSE         -          Ran_BP1              PF00638.15    0.0033   19.3   0.0    0.0063   18.4   0.0   1.5   1   0   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=1
+tr|E9QLZ9|E9QLZ9_MOUSE         -          Ran_BP1              PF00638.15    0.0033   19.3   0.0    0.0062   18.4   0.0   1.5   1   0   0   1   1   1   1 Protein enabled homolog OS=Mus musculus OX=10090 GN=Enah PE=1 SV=1
+tr|F8WJB9|F8WJB9_MOUSE         -          Ran_BP1              PF00638.15    0.0034   19.2   0.0    0.0079   18.0   0.0   1.6   1   1   0   1   1   1   1 Ena/VASP-like protein OS=Mus musculus OX=10090 GN=Evl PE=1 SV=1
+sp|Q922R5|P4R3B_MOUSE          -          Ran_BP1              PF00638.15     0.011   17.5   0.8     0.038   15.8   0.0   2.2   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 4 regulatory subunit 3B OS=Mus musculus OX=10090 GN=Ppp4r3b PE=1 SV=2
+sp|P70429|EVL_MOUSE            -          Ran_BP1              PF00638.15     0.013   17.3   0.0     0.027   16.3   0.0   1.5   1   1   0   1   1   1   0 Ena/VASP-like protein OS=Mus musculus OX=10090 GN=Evl PE=1 SV=2
+sp|Q6P2K6|P4R3A_MOUSE          -          Ran_BP1              PF00638.15     0.038   15.8   0.0      0.13   14.0   0.0   2.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Mus musculus OX=10090 GN=Ppp4r3a PE=1 SV=1
+tr|E9Q481|E9Q481_MOUSE         -          Ran_BP1              PF00638.15     0.039   15.8   0.0      0.14   14.0   0.0   2.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Mus musculus OX=10090 GN=Ppp4r3a PE=1 SV=1
+sp|P70460|VASP_MOUSE           -          Ran_BP1              PF00638.15       0.1   14.5   0.0      0.17   13.7   0.0   1.4   1   0   0   1   1   1   0 Vasodilator-stimulated phosphoprotein OS=Mus musculus OX=10090 GN=Vasp PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:44 2022
+# [ok]

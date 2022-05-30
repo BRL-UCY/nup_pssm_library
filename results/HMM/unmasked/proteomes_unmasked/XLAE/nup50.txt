@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GW32|A0A1L8GW32_XENLA -          NUP50                PF08911.8    1.6e-21   77.9   2.3   1.6e-21   77.9   2.3   2.3   2   0   0   2   2   2   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016672mg PE=1 SV=1
+tr|Q6DCU3|Q6DCU3_XENLA         -          NUP50                PF08911.8    9.4e-21   75.5   1.6   9.4e-21   75.5   1.6   2.2   2   0   0   2   2   2   1 LOC503675 protein OS=Xenopus laevis OX=8355 GN=nup50 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:31 2022
+# [ok]

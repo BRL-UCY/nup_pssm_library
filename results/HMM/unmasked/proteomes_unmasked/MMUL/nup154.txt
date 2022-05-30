@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6SAY2|F6SAY2_MACMU         -          Nucleoporin_C        PF03177.11   3.9e-24   86.7   8.1   1.2e-23   85.1   8.1   1.7   1   1   0   1   1   1   1 Nucleoporin_C domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP133 PE=4 SV=2
+tr|A0A1D5QL31|A0A1D5QL31_MACMU -          Nucleoporin_C        PF03177.11   3.5e-20   73.6  11.7   5.4e-20   73.0  11.7   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=1
+tr|F6YTK1|F6YTK1_MACMU         -          Nucleoporin_C        PF03177.11   1.5e-15   58.3   7.9   2.2e-15   57.8   7.9   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:49 2022
+# [ok]

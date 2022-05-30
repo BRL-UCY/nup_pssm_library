@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          Nucleoporin_C        PF03177.11   1.7e-09   38.2   0.1   1.7e-09   38.2   0.1   3.8   3   2   1   4   4   4   2 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+sp|F4IGA5|NU133_ARATH          -          Nucleoporin_C        PF03177.11   2.9e-09   37.4   0.3   2.9e-09   37.4   0.3   3.7   4   1   0   4   4   4   2 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+sp|Q9LEX8|Y3093_ARATH          -          Nucleoporin_C        PF03177.11     0.003   17.5   2.3     0.049   13.5   2.3   2.2   2   0   0   2   2   2   1 Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=At3g60930 PE=1 SV=1
+sp|P42738|CM1_ARATH            -          Nucleoporin_C        PF03177.11      0.21   11.4   0.0       2.6    7.8   0.0   2.0   2   0   0   2   2   2   0 Chorismate mutase 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CM1 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:51 2022
+# [ok]

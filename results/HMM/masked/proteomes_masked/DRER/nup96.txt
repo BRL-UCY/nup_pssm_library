@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9QGM4|E9QGM4_DANRE         -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|A0A0R4IAQ8|A0A0R4IAQ8_DANRE -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=2
+tr|E7F981|E7F981_DANRE         -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup96.txt --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:48 2022
+# [ok]

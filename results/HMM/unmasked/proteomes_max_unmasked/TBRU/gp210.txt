@@ -1,0 +1,36 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57ZT1|Q57ZT1_TRYB2 -          Big_2                PF02368.15     0.028   13.3   3.1      0.06   12.2   3.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.2120 PE=4 SV=1
+tr|Q388I4|Q388I4_TRYB2 -          Big_2                PF02368.15      0.27   10.1   0.7         2    7.4   0.2   2.2   2   0   0   2   2   2   0 Protein transport protein Sec13, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.2630 PE=3 SV=1
+tr|Q38G27|Q38G27_TRYB2 -          Big_2                PF02368.15      0.28   10.1   0.5       1.1    8.2   0.0   2.3   2   0   0   2   2   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.v4.0001 PE=4 SV=1
+tr|Q57UQ9|Q57UQ9_TRYB2 -          Big_2                PF02368.15      0.89    8.5   0.1       2.3    7.2   0.1   1.6   1   0   0   1   1   1   0 CS domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4290 PE=4 SV=1
+tr|Q38CC3|Q38CC3_TRYB2 -          Big_2                PF02368.15         1    8.3   0.2       3.7    6.5   0.2   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.6920 PE=4 SV=1
+tr|Q586W0|Q586W0_TRYB2 -          Big_2                PF02368.15       1.5    7.7   3.9       2.1    7.2   0.5   2.8   2   0   0   2   2   2   0 Dynein intermediate chain, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.2.4060 PE=4 SV=1
+tr|Q580T8|Q580T8_TRYB2 -          Big_2                PF02368.15       2.4    7.1   0.1        13    4.8   0.1   2.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.5370 PE=4 SV=1
+tr|Q381Z5|Q381Z5_TRYB2 -          Big_2                PF02368.15       2.8    6.9   0.0       9.9    5.1   0.0   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.6020 PE=4 SV=1
+tr|Q38AM8|Q38AM8_TRYB2 -          Big_2                PF02368.15       3.2    6.7   0.1        71    2.4   0.0   3.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.3330 PE=4 SV=1
+tr|Q57VF2|Q57VF2_TRYB2 -          Big_2                PF02368.15       4.1    6.3   1.7        16    4.4   0.1   2.6   2   0   0   2   2   2   0 Trans-sialidase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.640 PE=4 SV=1
+tr|Q38EG8|Q38EG8_TRYB2 -          Big_2                PF02368.15       4.4    6.2   0.7        11    5.0   0.2   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.v1.0470 PE=4 SV=1
+tr|Q38EB5|Q38EB5_TRYB2 -          Big_2                PF02368.15       4.5    6.2   0.0       6.2    5.8   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.v1.0590 PE=4 SV=1
+tr|Q38CW0|Q38CW0_TRYB2 -          Big_2                PF02368.15       4.5    6.2   2.7        11    5.0   2.3   1.9   1   1   0   1   1   1   0 BARP protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2510 PE=4 SV=1
+tr|Q57XH9|Q57XH9_TRYB2 -          Big_2                PF02368.15       5.1    6.0   0.0        26    3.8   0.3   2.1   2   0   0   2   2   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.960 PE=4 SV=1
+tr|Q57YD7|Q57YD7_TRYB2 -          Big_2                PF02368.15       5.1    6.0   0.0        26    3.8   0.3   2.1   2   0   0   2   2   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.940 PE=4 SV=1
+tr|Q57YN4|Q57YN4_TRYB2 -          Big_2                PF02368.15       5.2    6.0   1.4        28    3.7   1.4   2.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.6330 PE=4 SV=1
+tr|Q380W3|Q380W3_TRYB2 -          Big_2                PF02368.15       6.4    5.7   4.6       3.2    6.7   1.1   2.4   2   0   0   2   2   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.16.0003 PE=4 SV=1
+tr|Q580K7|Q580K7_TRYB2 -          Big_2                PF02368.15       6.8    5.6   0.6        15    4.5   0.0   1.9   2   0   0   2   2   2   0 BRCT domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.4350 PE=4 SV=1
+tr|Q384Q2|Q384Q2_TRYB2 -          Big_2                PF02368.15       7.8    5.4   2.5        30    3.6   0.1   2.5   2   0   0   2   2   2   0 Electron-transfer-flavoprotein, alpha polypeptide, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.5530 PE=4 SV=1
+tr|Q57WU1|Q57WU1_TRYB2 -          Big_2                PF02368.15         9    5.2   0.5        28    3.7   0.5   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.1090 PE=4 SV=1
+tr|Q382E1|Q382E1_TRYB2 -          Big_2                PF02368.15       9.1    5.2   0.5        34    3.4   0.1   2.0   2   0   0   2   2   2   0 U6 snRNA-associated Sm-like protein LSm4 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=LSM4 PE=3 SV=1
+tr|Q57X37|Q57X37_TRYB2 -          Big_2                PF02368.15       9.1    5.2   0.4        67    2.4   0.4   2.5   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG, atypical), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.4810 PE=4 SV=1
+tr|Q381D0|Q381D0_TRYB2 -          Big_2                PF02368.15       9.9    5.1   1.8        60    2.6   0.2   2.3   2   0   0   2   2   2   0 CMP-sialic acid transporter, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.8280 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes/TBRU/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 13:34:35 2022
+# [ok]

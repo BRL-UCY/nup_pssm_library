@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCG4|NDC1_DROME           -          Ndc1_Nup             PF09531.7    1.3e-83  282.1   9.5   1.5e-83  281.9   9.5   1.0   1   0   0   1   1   1   1 Nucleoporin Ndc1 OS=Drosophila melanogaster OX=7227 GN=Ndc1 PE=1 SV=1
+tr|Q8IRA7|Q8IRA7_DROME         -          Ndc1_Nup             PF09531.7    3.1e-06   26.5  17.7   3.4e-06   26.4   0.0   2.3   2   0   0   2   2   2   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32246 PE=4 SV=2
+tr|Q9W483|Q9W483_DROME         -          Ndc1_Nup             PF09531.7      0.025   13.6   5.7     0.027   13.5   5.7   1.1   1   0   0   1   1   1   0 GH18971p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15772 PE=1 SV=1
+tr|Q9VY65|Q9VY65_DROME         -          Ndc1_Nup             PF09531.7      0.099   11.7   0.0      0.11   11.6   0.0   1.0   1   0   0   1   1   1   0 MICOS complex subunit MIC10 OS=Drosophila melanogaster OX=7227 GN=Minos1a PE=2 SV=1
+tr|Q9VBZ0|Q9VBZ0_DROME         -          Ndc1_Nup             PF09531.7       0.11   11.5   0.9      0.13   11.3   0.9   1.0   1   0   0   1   1   1   0 GH19563p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11791 PE=2 SV=1
+tr|A0A0B4KFY0|A0A0B4KFY0_DROME -          Ndc1_Nup             PF09531.7       0.13   11.3   7.4      0.17   10.9   7.4   1.1   1   0   0   1   1   1   0 Defense repressor 1, isoform B OS=Drosophila melanogaster OX=7227 GN=dnr1 PE=4 SV=1
+tr|Q8SWW8|Q8SWW8_DROME         -          Ndc1_Nup             PF09531.7       0.13   11.3   7.5      0.17   10.9   7.5   1.1   1   0   0   1   1   1   0 Defense repressor 1, isoform A OS=Drosophila melanogaster OX=7227 GN=dnr1 PE=2 SV=1
+sp|P18537|FRIZ_DROME           -          Ndc1_Nup             PF09531.7       0.13   11.2   4.1      0.31   10.0   4.1   1.5   1   0   0   1   1   1   0 Frizzled OS=Drosophila melanogaster OX=7227 GN=fz PE=1 SV=1
+tr|M9PFL6|M9PFL6_DROME         -          Ndc1_Nup             PF09531.7       0.15   11.1   4.1      0.34    9.9   4.1   1.5   1   0   0   1   1   1   0 Frizzled, isoform C OS=Drosophila melanogaster OX=7227 GN=fz PE=3 SV=1
+tr|Q9V3H7|Q9V3H7_DROME         -          Ndc1_Nup             PF09531.7       0.17   10.9  10.3      0.24   10.4  10.3   1.2   1   0   0   1   1   1   0 SR-CI OS=Drosophila melanogaster OX=7227 GN=Sr-CI PE=4 SV=1
+tr|Q9VY41|Q9VY41_DROME         -          Ndc1_Nup             PF09531.7       0.23   10.4   0.3      0.24   10.4   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13404 PE=4 SV=2
+tr|Q9VNS5|Q9VNS5_DROME         -          Ndc1_Nup             PF09531.7       0.25   10.4  13.7      0.27   10.3  13.7   1.2   1   0   0   1   1   1   0 GEO12643p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE13473 PE=2 SV=1
+tr|A0A0B4KH70|A0A0B4KH70_DROME -          Ndc1_Nup             PF09531.7       0.39    9.7  22.0      0.57    9.2  22.0   1.3   1   0   0   1   1   1   0 Trivet, isoform F OS=Drosophila melanogaster OX=7227 GN=trv PE=4 SV=1
+tr|Q9VAX3|Q9VAX3_DROME         -          Ndc1_Nup             PF09531.7        0.4    9.7  22.0      0.58    9.1  22.0   1.3   1   0   0   1   1   1   0 RE10833p OS=Drosophila melanogaster OX=7227 GN=trv PE=1 SV=2
+tr|A0A0B4LIU0|A0A0B4LIU0_DROME -          Ndc1_Nup             PF09531.7       0.41    9.6  22.0      0.59    9.1  22.0   1.3   1   0   0   1   1   1   0 Trivet, isoform J OS=Drosophila melanogaster OX=7227 GN=trv PE=4 SV=1
+tr|A0A0B4KHB5|A0A0B4KHB5_DROME -          Ndc1_Nup             PF09531.7       0.41    9.6  22.0      0.59    9.1  22.0   1.3   1   0   0   1   1   1   0 Trivet, isoform E OS=Drosophila melanogaster OX=7227 GN=trv PE=4 SV=1
+sp|P28159|SUH_DROME            -          Ndc1_Nup             PF09531.7       0.43    9.6   1.9      0.66    9.0   1.9   1.2   1   0   0   1   1   1   0 Suppressor of hairless protein OS=Drosophila melanogaster OX=7227 GN=Su(H) PE=1 SV=1
+tr|X2JAI1|X2JAI1_DROME         -          Ndc1_Nup             PF09531.7       0.43    9.6   1.9      0.66    9.0   1.9   1.2   1   0   0   1   1   1   0 Suppressor of hairless, isoform C OS=Drosophila melanogaster OX=7227 GN=Su(H) PE=4 SV=1
+tr|E1JIM9|E1JIM9_DROME         -          Ndc1_Nup             PF09531.7       0.52    9.3   3.9      0.73    8.8   3.9   1.2   1   0   0   1   1   1   0 Abdominal A, isoform C OS=Drosophila melanogaster OX=7227 GN=abd-A PE=4 SV=1
+sp|P39413|AEF1_DROME           -          Ndc1_Nup             PF09531.7       0.71    8.8   7.7      0.81    8.7   7.7   1.1   1   0   0   1   1   1   0 Adult enhancer factor 1 OS=Drosophila melanogaster OX=7227 GN=Aef1 PE=2 SV=1
+tr|A4V287|A4V287_DROME         -          Ndc1_Nup             PF09531.7       0.71    8.8   7.7      0.81    8.7   7.7   1.1   1   0   0   1   1   1   0 Adult enhancer factor 1, isoform C OS=Drosophila melanogaster OX=7227 GN=Aef1 PE=4 SV=1
+tr|Q9VXN1|Q9VXN1_DROME         -          Ndc1_Nup             PF09531.7        1.3    7.9  18.4       1.5    7.8  18.4   1.2   1   0   0   1   1   1   0 LD03728p OS=Drosophila melanogaster OX=7227 GN=UBL3 PE=2 SV=1
+tr|A4V4D2|A4V4D2_DROME         -          Ndc1_Nup             PF09531.7        1.4    7.9   9.0         3    6.8   9.0   1.5   1   0   0   1   1   1   0 Tomosyn, isoform H OS=Drosophila melanogaster OX=7227 GN=Tomosyn PE=1 SV=1
+tr|Q8SWU4|Q8SWU4_DROME         -          Ndc1_Nup             PF09531.7        1.4    7.8  12.9       1.9    7.5  12.9   1.2   1   0   0   1   1   1   0 RE25571p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4577 PE=2 SV=1
+tr|M9PDX2|M9PDX2_DROME         -          Ndc1_Nup             PF09531.7        1.4    7.8  12.9       1.9    7.5  12.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4577 PE=4 SV=1
+tr|Q9VMP0|Q9VMP0_DROME         -          Ndc1_Nup             PF09531.7        1.9    7.5  15.8       2.8    6.9  15.8   1.2   1   0   0   1   1   1   0 GH11218p OS=Drosophila melanogaster OX=7227 GN=anon-WO0140519.54 PE=2 SV=2
+tr|Q9VT37|Q9VT37_DROME         -          Ndc1_Nup             PF09531.7          3    6.8   9.8       3.3    6.7   9.8   1.2   1   0   0   1   1   1   0 GH23431p OS=Drosophila melanogaster OX=7227 GN=vsg PE=2 SV=1
+tr|Q8I0D8|Q8I0D8_DROME         -          Ndc1_Nup             PF09531.7        3.1    6.7   9.7       3.5    6.6   9.7   1.2   1   0   0   1   1   1   0 RE67695p OS=Drosophila melanogaster OX=7227 GN=vsg PE=2 SV=1
+tr|Q9VHX1|Q9VHX1_DROME         -          Ndc1_Nup             PF09531.7        3.4    6.6  10.9       6.4    5.7  10.9   1.4   1   0   0   1   1   1   0 LD44032p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10435 PE=1 SV=1
+tr|Q9VBY5|Q9VBY5_DROME         -          Ndc1_Nup             PF09531.7        5.3    6.0   7.9       5.1    6.0   7.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11839 PE=1 SV=3
+tr|A0A0B4LHI0|A0A0B4LHI0_DROME -          Ndc1_Nup             PF09531.7        5.5    5.9   7.2         7    5.6   7.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7031 PE=4 SV=1
+tr|Q9VCT7|Q9VCT7_DROME         -          Ndc1_Nup             PF09531.7        5.5    5.9   7.2         7    5.6   7.2   1.1   1   0   0   1   1   1   0 LP03545p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7031 PE=2 SV=1
+tr|Q9VTL8|Q9VTL8_DROME         -          Ndc1_Nup             PF09531.7        6.1    5.8   8.3        10    5.0   8.3   1.3   1   0   0   1   1   1   0 FI04525p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32085 PE=2 SV=3
+tr|Q9VYT9|Q9VYT9_DROME         -          Ndc1_Nup             PF09531.7        9.3    5.2  22.9        11    4.9  22.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15741 PE=4 SV=1
+tr|M9PF03|M9PF03_DROME         -          Ndc1_Nup             PF09531.7        9.7    5.1   9.3        10    5.0   9.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform O OS=Drosophila melanogaster OX=7227 GN=CG32051 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:20 2022
+# [ok]

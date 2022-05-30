@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7G2Q1|F7G2Q1_MACMU         -          Nup192               PF11894.5          0 1354.7   5.4         0 1354.4   5.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|A0A1D5QRU5|A0A1D5QRU5_MACMU -          Nup192               PF11894.5          0 1354.7   5.4         0 1354.4   5.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5QYJ7|A0A1D5QYJ7_MACMU -          Nup192               PF11894.5          0 1354.7   5.4         0 1354.4   5.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5Q852|A0A1D5Q852_MACMU -          Nup192               PF11894.5          0 1327.7   4.2         0 1327.5   4.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7HSL2|F7HSL2_MACMU         -          Nup192               PF11894.5    7.7e-17   61.2   4.0     4e-09   35.7   0.0   4.8   4   1   0   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=2
+tr|A0A1D5QSC3|A0A1D5QSC3_MACMU -          Nup192               PF11894.5    8.2e-17   61.1   4.0     4e-09   35.7   0.0   4.7   4   1   0   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|A0A1D5QNS4|A0A1D5QNS4_MACMU -          Nup192               PF11894.5    4.3e-15   55.4   0.2   3.9e-09   35.7   0.0   3.9   3   1   0   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|A0A1D5RJ52|A0A1D5RJ52_MACMU -          Nup192               PF11894.5    9.6e-15   54.3   1.7   3.9e-09   35.7   0.0   3.8   3   1   0   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:56 2022
+# [ok]

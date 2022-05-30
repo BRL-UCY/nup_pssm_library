@@ -1,0 +1,57 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q92621|NU205_HUMAN          -          Nup192               PF11894.5          0 1353.7   5.1         0 1353.4   5.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+tr|U3KPX2|U3KPX2_HUMAN         -          Nup192               PF11894.5      3e-71  242.3   0.5   3.4e-71  242.1   0.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|U3KQ97|U3KQ97_HUMAN         -          Nup192               PF11894.5    4.7e-35  122.3   0.1   5.5e-35  122.1   0.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=8
+sp|Q5SRE5|NU188_HUMAN          -          Nup192               PF11894.5    2.9e-15   56.7   5.4   8.7e-08   31.9   0.0   5.0   4   1   0   4   4   4   4 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|U3KQ47|U3KQ47_HUMAN         -          Nup192               PF11894.5    1.5e-05   24.5   0.0   1.5e-05   24.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|C9JSU1|C9JSU1_HUMAN         -          Nup192               PF11894.5       0.46    9.6   2.1      0.53    9.4   2.1   1.1   1   0   0   1   1   1   0 Leucine-rich repeat flightless-interacting protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=LRRFIP2 PE=1 SV=1
+tr|J3KTB7|J3KTB7_HUMAN         -          Nup192               PF11894.5       0.55    9.4   0.0      0.59    9.3   0.0   1.0   1   0   0   1   1   1   0 DNA topoisomerase 2-alpha (Fragment) OS=Homo sapiens OX=9606 GN=TOP2A PE=1 SV=1
+tr|E9PKH8|E9PKH8_HUMAN         -          Nup192               PF11894.5       0.82    8.8   0.1      0.96    8.6   0.1   1.0   1   0   0   1   1   1   0 B-lymphocyte antigen CD20 OS=Homo sapiens OX=9606 GN=MS4A1 PE=1 SV=1
+tr|E9PIQ5|E9PIQ5_HUMAN         -          Nup192               PF11894.5       0.93    8.6   0.2       1.2    8.3   0.2   1.1   1   0   0   1   1   1   0 Serine-protein kinase ATM (Fragment) OS=Homo sapiens OX=9606 GN=ATM PE=1 SV=1
+tr|M0QXY8|M0QXY8_HUMAN         -          Nup192               PF11894.5        1.1    8.4   0.3       1.3    8.2   0.3   1.1   1   0   0   1   1   1   0 Serine-protein kinase ATM (Fragment) OS=Homo sapiens OX=9606 GN=ATM PE=1 SV=1
+tr|F8VSB9|F8VSB9_HUMAN         -          Nup192               PF11894.5        1.2    8.3   0.1       1.2    8.2   0.1   1.0   1   0   0   1   1   1   0 N-alpha-acetyltransferase 25, NatB auxiliary subunit OS=Homo sapiens OX=9606 GN=NAA25 PE=1 SV=1
+tr|Q6P7P1|Q6P7P1_HUMAN         -          Nup192               PF11894.5        1.2    8.2   0.3       1.3    8.1   0.3   1.1   1   0   0   1   1   1   0 ATM protein OS=Homo sapiens OX=9606 GN=ATM PE=1 SV=1
+tr|C9JKX8|C9JKX8_HUMAN         -          Nup192               PF11894.5        1.4    8.0   2.1       1.8    7.7   2.1   1.1   1   0   0   1   1   1   0 Dynein regulatory complex protein 9 OS=Homo sapiens OX=9606 GN=IQCG PE=1 SV=1
+tr|Q5T8A0|Q5T8A0_HUMAN         -          Nup192               PF11894.5        1.7    7.8   0.0       2.2    7.4   0.0   1.0   1   0   0   1   1   1   0 28S ribosomal protein S2, mitochondrial (Fragment) OS=Homo sapiens OX=9606 GN=MRPS2 PE=1 SV=1
+tr|H7BZ72|H7BZ72_HUMAN         -          Nup192               PF11894.5        1.8    7.7   0.0       2.2    7.4   0.0   1.0   1   0   0   1   1   1   0 Nucleolar protein 58 (Fragment) OS=Homo sapiens OX=9606 GN=NOP58 PE=1 SV=1
+sp|Q9Y399|RT02_HUMAN           -          Nup192               PF11894.5        1.8    7.7   0.0       2.4    7.3   0.0   1.1   1   0   0   1   1   1   0 28S ribosomal protein S2, mitochondrial OS=Homo sapiens OX=9606 GN=MRPS2 PE=1 SV=1
+tr|A0A087X0E9|A0A087X0E9_HUMAN -          Nup192               PF11894.5        1.9    7.6   0.3       2.3    7.3   0.3   1.1   1   0   0   1   1   1   0 Serine-protein kinase ATM OS=Homo sapiens OX=9606 GN=ATM PE=1 SV=1
+tr|H0YIE9|H0YIE9_HUMAN         -          Nup192               PF11894.5          2    7.6   0.3       3.1    6.9   0.3   1.2   1   0   0   1   1   1   0 F-box only protein 21 (Fragment) OS=Homo sapiens OX=9606 GN=FBXO21 PE=1 SV=1
+tr|Q4G104|Q4G104_HUMAN         -          Nup192               PF11894.5        2.1    7.4   0.3       3.4    6.8   0.3   1.2   1   0   0   1   1   1   0 F-box only protein 21 OS=Homo sapiens OX=9606 GN=FBXO21 PE=1 SV=1
+sp|O94952|FBX21_HUMAN          -          Nup192               PF11894.5        2.6    7.1   0.3       4.1    6.5   0.3   1.2   1   0   0   1   1   1   0 F-box only protein 21 OS=Homo sapiens OX=9606 GN=FBXO21 PE=2 SV=2
+sp|O15068|MCF2L_HUMAN          -          Nup192               PF11894.5        3.3    6.8   1.6        11    5.1   0.0   2.1   2   0   0   2   2   2   0 Guanine nucleotide exchange factor DBS OS=Homo sapiens OX=9606 GN=MCF2L PE=1 SV=2
+tr|K7ER46|K7ER46_HUMAN         -          Nup192               PF11894.5        3.5    6.7   1.1       3.8    6.6   1.1   1.0   1   0   0   1   1   1   0 Beclin-1 (Fragment) OS=Homo sapiens OX=9606 GN=BECN1 PE=1 SV=1
+tr|F2Z2S2|F2Z2S2_HUMAN         -          Nup192               PF11894.5        3.9    6.6   0.8       9.2    5.3   0.8   1.6   1   0   0   1   1   1   0 Protein furry homolog-like OS=Homo sapiens OX=9606 GN=FRYL PE=1 SV=1
+tr|A0A1B0GUP7|A0A1B0GUP7_HUMAN -          Nup192               PF11894.5        4.2    6.5   1.5       4.6    6.3   1.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein C1orf112 OS=Homo sapiens OX=9606 GN=C1orf112 PE=1 SV=1
+tr|F5GWR1|F5GWR1_HUMAN         -          Nup192               PF11894.5        4.5    6.4   3.6       4.7    6.3   3.6   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 91 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC91 PE=1 SV=1
+sp|Q9Y608|LRRF2_HUMAN          -          Nup192               PF11894.5        4.9    6.2   3.1       9.7    5.3   3.1   1.4   1   0   0   1   1   1   0 Leucine-rich repeat flightless-interacting protein 2 OS=Homo sapiens OX=9606 GN=LRRFIP2 PE=1 SV=1
+sp|P11836|CD20_HUMAN           -          Nup192               PF11894.5        5.1    6.2   0.1       5.5    6.1   0.1   1.0   1   0   0   1   1   1   0 B-lymphocyte antigen CD20 OS=Homo sapiens OX=9606 GN=MS4A1 PE=1 SV=1
+sp|Q13395|TARB1_HUMAN          -          Nup192               PF11894.5        5.5    6.1   0.8       8.7    5.4   0.8   1.2   1   0   0   1   1   1   0 Probable methyltransferase TARBP1 OS=Homo sapiens OX=9606 GN=TARBP1 PE=1 SV=1
+tr|E9PK08|E9PK08_HUMAN         -          Nup192               PF11894.5        6.1    5.9   0.1        18    4.4   0.0   1.4   1   1   1   2   2   2   0 Serine/threonine-protein phosphatase 6 regulatory subunit 3 (Fragment) OS=Homo sapiens OX=9606 GN=PPP6R3 PE=1 SV=1
+tr|H7BYP9|H7BYP9_HUMAN         -          Nup192               PF11894.5        6.1    5.9   0.8       6.9    5.7   0.0   1.4   2   0   0   2   2   2   0 Guanine nucleotide exchange factor DBS (Fragment) OS=Homo sapiens OX=9606 GN=MCF2L PE=1 SV=1
+sp|Q9UDY6|TRI10_HUMAN          -          Nup192               PF11894.5        6.3    5.9   0.7       8.5    5.4   0.7   1.0   1   0   0   1   1   1   0 Tripartite motif-containing protein 10 OS=Homo sapiens OX=9606 GN=TRIM10 PE=1 SV=3
+sp|O94915|FRYL_HUMAN           -          Nup192               PF11894.5        6.4    5.8   0.7        19    4.3   0.7   1.8   1   0   0   1   1   1   0 Protein furry homolog-like OS=Homo sapiens OX=9606 GN=FRYL PE=1 SV=2
+tr|A0A0C4DGH5|A0A0C4DGH5_HUMAN -          Nup192               PF11894.5        6.5    5.8   0.3        16    4.5   0.1   1.7   2   0   0   2   2   2   0 Cullin-associated NEDD8-dissociated protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=CAND1 PE=1 SV=1
+tr|A8MYT4|A8MYT4_HUMAN         -          Nup192               PF11894.5        6.6    5.8   0.0        12    4.9   0.0   1.3   1   0   0   1   1   1   0 Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Homo sapiens OX=9606 GN=PIK3C3 PE=1 SV=2
+tr|A0A1W2PS05|A0A1W2PS05_HUMAN -          Nup192               PF11894.5        7.3    5.7   0.0        13    4.8   0.0   1.3   1   0   0   1   1   1   0 Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Homo sapiens OX=9606 GN=PIK3C3 PE=1 SV=1
+tr|H0YHS2|H0YHS2_HUMAN         -          Nup192               PF11894.5        7.3    5.7   0.1       8.5    5.4   0.1   1.0   1   0   0   1   1   1   0 Rap guanine nucleotide exchange factor 3 (Fragment) OS=Homo sapiens OX=9606 GN=RAPGEF3 PE=1 SV=1
+sp|Q9NXF1|TEX10_HUMAN          -          Nup192               PF11894.5        7.3    5.7   0.2        17    4.5   0.2   1.5   1   0   0   1   1   1   0 Testis-expressed protein 10 OS=Homo sapiens OX=9606 GN=TEX10 PE=1 SV=2
+sp|Q8NEB9|PK3C3_HUMAN          -          Nup192               PF11894.5        7.3    5.7   0.0        13    4.8   0.0   1.3   1   0   0   1   1   1   0 Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Homo sapiens OX=9606 GN=PIK3C3 PE=1 SV=1
+tr|A0A2R8YEF3|A0A2R8YEF3_HUMAN -          Nup192               PF11894.5        8.5    5.4   0.0       8.9    5.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein C15orf41 OS=Homo sapiens OX=9606 GN=C15orf41 PE=1 SV=1
+tr|B6ZDE5|B6ZDE5_HUMAN         -          Nup192               PF11894.5        8.7    5.4   1.0        15    4.7   0.4   1.6   1   1   1   2   2   2   0 Thyroid adenoma-associated protein OS=Homo sapiens OX=9606 GN=THADA PE=1 SV=3
+sp|Q9Y2X3|NOP58_HUMAN          -          Nup192               PF11894.5          9    5.4   0.0        20    4.2   0.0   1.3   1   1   0   1   1   1   0 Nucleolar protein 58 OS=Homo sapiens OX=9606 GN=NOP58 PE=1 SV=1
+tr|A0A087X020|A0A087X020_HUMAN -          Nup192               PF11894.5        9.5    5.3   0.0        15    4.6   0.0   1.2   1   0   0   1   1   1   0 Ribosome maturation protein SBDS OS=Homo sapiens OX=9606 GN=SBDS PE=1 SV=1
+sp|Q9Y3A5|SBDS_HUMAN           -          Nup192               PF11894.5        9.7    5.2   0.1        15    4.6   0.1   1.2   1   0   0   1   1   1   0 Ribosome maturation protein SBDS OS=Homo sapiens OX=9606 GN=SBDS PE=1 SV=4
+tr|F8VP66|F8VP66_HUMAN         -          Nup192               PF11894.5         10    5.2   0.1        11    5.0   0.1   1.0   1   0   0   1   1   1   0 Pseudouridylate synthase 7 homolog-like protein (Fragment) OS=Homo sapiens OX=9606 GN=PUS7L PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 09:44:24 2022
+# [ok]

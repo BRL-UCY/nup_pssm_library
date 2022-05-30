@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          Nup192               PF11894.5          0 1324.6   1.1         0 1324.2   1.1   1.1   1   0   0   1   1   1   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          Nup192               PF11894.5          0 1324.2   0.8         0 1323.9   0.8   1.1   1   0   0   1   1   1   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          Nup192               PF11894.5          0 1324.1   1.5         0 1323.8   1.5   1.1   1   0   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|F1QJ18|F1QJ18_DANRE         -          Nup192               PF11894.5          0 1324.1   1.5         0 1323.8   1.5   1.1   1   0   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          Nup192               PF11894.5          0 1295.6   2.0         0 1295.3   2.0   1.1   1   0   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          Nup192               PF11894.5          0 1295.6   2.0         0 1295.3   2.0   1.1   1   0   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:27 2022
+# [ok]

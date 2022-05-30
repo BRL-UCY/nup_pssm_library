@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F1QNV4|NU133_DANRE          -          Nucleoporin_C        PF03177.11   3.1e-22   80.5   1.3     5e-22   79.8   1.3   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Danio rerio OX=7955 GN=nup133 PE=2 SV=1
+tr|F1QE76|F1QE76_DANRE         -          Nucleoporin_C        PF03177.11   2.2e-11   44.6   2.5   4.5e-11   43.6   2.5   1.4   1   0   0   1   1   1   1 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1Q953|F1Q953_DANRE         -          Nucleoporin_C        PF03177.11   3.6e-11   43.9   2.5   7.1e-11   42.9   2.5   1.4   1   0   0   1   1   1   1 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|A5WUG8|A5WUG8_DANRE         -          Nucleoporin_C        PF03177.11      0.51   10.4   0.0      0.72    9.9   0.0   1.2   1   0   0   1   1   1   0 Si:dkey-83f18.2 OS=Danio rerio OX=7955 GN=si:dkey-83f18.2 PE=4 SV=2
+tr|A5WUG7|A5WUG7_DANRE         -          Nucleoporin_C        PF03177.11      0.62   10.1   0.0      0.87    9.6   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-83f18.2 OS=Danio rerio OX=7955 GN=si:dkey-83f18.2 PE=4 SV=1
+tr|A4FVG7|A4FVG7_DANRE         -          Nucleoporin_C        PF03177.11      0.92    9.5   0.0       1.2    9.1   0.0   1.1   1   0   0   1   1   1   0 Zgc:162060 OS=Danio rerio OX=7955 GN=zgc:162060 PE=2 SV=1
+tr|F1QM60|F1QM60_DANRE         -          Nucleoporin_C        PF03177.11       1.1    9.3   0.1       1.6    8.7   0.1   1.2   1   0   0   1   1   1   0 Si:ch211-282j17.8 OS=Danio rerio OX=7955 GN=si:ch211-282j17.8 PE=4 SV=2
+tr|E9QE27|E9QE27_DANRE         -          Nucleoporin_C        PF03177.11       1.7    8.7   0.1       1.9    8.5   0.1   1.2   1   0   0   1   1   1   0 Aldehyde dehydrogenase 3 family, member A2a (Fragment) OS=Danio rerio OX=7955 GN=aldh3a2a PE=1 SV=1
+tr|A5WUH1|A5WUH1_DANRE         -          Nucleoporin_C        PF03177.11       1.8    8.6   0.0       2.4    8.1   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-83f18.5 OS=Danio rerio OX=7955 GN=si:dkey-83f18.5 PE=4 SV=8
+tr|A5WUH2|A5WUH2_DANRE         -          Nucleoporin_C        PF03177.11       2.2    8.3   0.0         3    7.9   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-83f18.5 OS=Danio rerio OX=7955 GN=si:dkey-83f18.5 PE=4 SV=1
+tr|E7FGU4|E7FGU4_DANRE         -          Nucleoporin_C        PF03177.11       3.1    7.8   2.1       4.8    7.2   2.1   1.3   1   0   0   1   1   1   0 Ciliary-associated calcium-binding coiled-coil 1 OS=Danio rerio OX=7955 GN=cabcoco1 PE=4 SV=2
+tr|Q5RI96|Q5RI96_DANRE         -          Nucleoporin_C        PF03177.11       3.1    7.8   0.0       3.9    7.5   0.0   1.0   1   0   0   1   1   1   0 Si:dkey-88n24.3 OS=Danio rerio OX=7955 GN=si:dkey-88n24.3 PE=4 SV=6
+tr|Q1LUH6|Q1LUH6_DANRE         -          Nucleoporin_C        PF03177.11       3.3    7.7   0.1       4.1    7.4   0.1   1.1   1   0   0   1   1   1   0 VPS50 EARP/GARPII complex subunit (Fragment) OS=Danio rerio OX=7955 GN=vps50 PE=1 SV=1
+tr|A5WUH4|A5WUH4_DANRE         -          Nucleoporin_C        PF03177.11       4.2    7.4   0.0       5.8    6.9   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-83f18.6 OS=Danio rerio OX=7955 GN=si:dkey-83f18.6 PE=4 SV=1
+tr|A3QJT9|A3QJT9_DANRE         -          Nucleoporin_C        PF03177.11       4.2    7.4   0.0       5.9    6.9   0.0   1.1   1   0   0   1   1   1   0 Si:ch211-225k7.3 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-225k7.3 PE=4 SV=1
+tr|E9QBB4|E9QBB4_DANRE         -          Nucleoporin_C        PF03177.11       4.4    7.3   0.0       5.9    6.9   0.0   1.1   1   0   0   1   1   1   0 Si:ch211-225k7.3 OS=Danio rerio OX=7955 GN=si:ch211-225k7.3 PE=4 SV=3
+tr|Q5RIA2|Q5RIA2_DANRE         -          Nucleoporin_C        PF03177.11       4.5    7.3   0.0       7.5    6.5   0.0   1.2   1   0   0   1   1   1   0 Si:dkey-88n24.7 OS=Danio rerio OX=7955 GN=si:dkey-88n24.7 PE=4 SV=1
+tr|E9QFF0|E9QFF0_DANRE         -          Nucleoporin_C        PF03177.11       4.8    7.2   0.1       6.9    6.7   0.1   1.2   1   0   0   1   1   1   0 Aldehyde dehydrogenase 3 family, member A2a (Fragment) OS=Danio rerio OX=7955 GN=aldh3a2a PE=1 SV=6
+tr|A0A0R4IA59|A0A0R4IA59_DANRE -          Nucleoporin_C        PF03177.11       5.3    7.0   0.1        12    5.9   0.1   1.5   1   0   0   1   1   1   0 VPS54 subunit of GARP complex OS=Danio rerio OX=7955 GN=vps54 PE=4 SV=2
+tr|A0A0R4IQF8|A0A0R4IQF8_DANRE -          Nucleoporin_C        PF03177.11       5.7    6.9   0.1        12    5.8   0.1   1.4   1   0   0   1   1   1   0 VPS54 subunit of GARP complex OS=Danio rerio OX=7955 GN=vps54 PE=4 SV=3
+tr|E9QEL4|E9QEL4_DANRE         -          Nucleoporin_C        PF03177.11         6    6.9   0.0       8.1    6.4   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-28d5.10 OS=Danio rerio OX=7955 GN=si:dkey-28d5.10 PE=4 SV=1
+tr|A0A0R4IIL8|A0A0R4IIL8_DANRE -          Nucleoporin_C        PF03177.11       7.2    6.6   1.0       8.8    6.3   0.1   1.5   2   0   0   2   2   2   0 VPS54 subunit of GARP complex (Fragment) OS=Danio rerio OX=7955 GN=vps54 PE=4 SV=1
+tr|A5WUJ5|A5WUJ5_DANRE         -          Nucleoporin_C        PF03177.11       9.2    6.2   0.0        12    5.8   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-83f18.11 OS=Danio rerio OX=7955 GN=si:dkey-83f18.11 PE=4 SV=1
+tr|Q5RIA3|Q5RIA3_DANRE         -          Nucleoporin_C        PF03177.11       9.6    6.2   0.0        14    5.6   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-88n24.7 OS=Danio rerio OX=7955 GN=si:dkey-88n24.7 PE=4 SV=2
+tr|E7F3U7|E7F3U7_DANRE         -          Nucleoporin_C        PF03177.11       9.8    6.1   0.0        15    5.6   0.0   1.1   1   0   0   1   1   1   0 Si:dkey-88n24.7 OS=Danio rerio OX=7955 GN=si:dkey-88n24.7 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:06:00 2022
+# [ok]

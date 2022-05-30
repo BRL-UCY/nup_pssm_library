@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R480|NUP85_MOUSE  -          Nucleopor_Nup85      PF07575.10  5.4e-178  594.7   6.5  6.2e-178  594.5   6.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YM95|Z4YM95_MOUSE -          Nucleopor_Nup85      PF07575.10   1.9e-85  289.2   2.4   2.4e-85  288.9   2.4   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YLV0|Z4YLV0_MOUSE -          Nucleopor_Nup85      PF07575.10   3.6e-79  268.5   1.0   2.5e-39  136.9   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup75.txt --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:40 2022
+# [ok]

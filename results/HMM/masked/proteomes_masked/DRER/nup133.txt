@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1Q953|F1Q953_DANRE         -          Nucleoporin_N        PF08801.8    2.6e-95  321.1   0.1   3.3e-95  320.8   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1QE76|F1QE76_DANRE         -          Nucleoporin_N        PF08801.8    2.3e-37  130.2   0.3     3e-37  129.8   0.3   1.1   1   0   0   1   1   1   1 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|A0A0G2KV24|A0A0G2KV24_DANRE -          Nucleoporin_N        PF08801.8    1.8e-06   28.4   0.0    0.0087   16.2   0.0   3.6   4   0   0   4   4   4   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=eml6 PE=4 SV=2
+tr|A0A2R8Q590|A0A2R8Q590_DANRE -          Nucleoporin_N        PF08801.8    1.9e-06   28.3   0.0    0.0087   16.2   0.0   3.6   4   0   0   4   4   4   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=eml6 PE=4 SV=1
+tr|A0A2R8Q0A8|A0A2R8Q0A8_DANRE -          Nucleoporin_N        PF08801.8    5.3e-05   23.6   0.0    0.0064   16.7   0.0   2.7   3   0   0   3   3   3   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=eml6 PE=4 SV=1
+tr|A0A2R8QIQ0|A0A2R8QIQ0_DANRE -          Nucleoporin_N        PF08801.8    5.3e-05   23.5   0.0    0.0064   16.7   0.0   2.7   3   0   0   3   3   3   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=eml6 PE=4 SV=1
+tr|R4GEA5|R4GEA5_DANRE         -          Nucleoporin_N        PF08801.8    0.00061   20.0   0.0      0.41   10.7   0.0   2.7   3   0   0   3   3   3   2 Si:dkey-202c14.3 OS=Danio rerio OX=7955 GN=si:dkey-202c14.3 PE=4 SV=1
+sp|Q7T394|LIS1A_DANRE          -          Nucleoporin_N        PF08801.8     0.0017   18.6   0.9      0.18   11.9   0.0   3.2   3   1   1   4   4   4   1 Lissencephaly-1 homolog A OS=Danio rerio OX=7955 GN=pafah1b1a PE=2 SV=3
+sp|Q803D2|LIS1B_DANRE          -          Nucleoporin_N        PF08801.8     0.0041   17.3   0.1      0.36   10.9   0.0   3.3   2   1   2   4   4   4   1 Lissencephaly-1 homolog B OS=Danio rerio OX=7955 GN=pafah1b1b PE=2 SV=3
+tr|F1QSZ2|F1QSZ2_DANRE         -          Nucleoporin_N        PF08801.8     0.0042   17.3   0.1       2.7    8.0   0.0   2.5   2   0   0   2   2   2   2 Pleiotropic regulator 1 OS=Danio rerio OX=7955 GN=plrg1 PE=1 SV=2
+tr|A0A0R4I9B2|A0A0R4I9B2_DANRE -          Nucleoporin_N        PF08801.8     0.0042   17.3   0.2      0.36   10.9   0.0   3.3   2   1   2   4   4   4   1 Lissencephaly-1 homolog OS=Danio rerio OX=7955 GN=pafah1b1b PE=1 SV=1
+tr|Q5U3B5|Q5U3B5_DANRE         -          Nucleoporin_N        PF08801.8     0.0043   17.2   0.1       2.8    8.0   0.0   2.5   2   0   0   2   2   2   2 Pleiotropic regulator 1 OS=Danio rerio OX=7955 GN=plrg1 PE=1 SV=1
+tr|X1WCH2|X1WCH2_DANRE         -          Nucleoporin_N        PF08801.8     0.0054   16.9   0.0       3.5    7.7   0.0   3.2   3   0   0   3   3   3   1 Si:dkey-1f12.3 OS=Danio rerio OX=7955 GN=si:dkey-1f12.3 PE=4 SV=1
+tr|Q7ZVZ1|Q7ZVZ1_DANRE         -          Nucleoporin_N        PF08801.8      0.014   15.5   1.5       8.7    6.4   0.2   3.3   1   1   2   4   4   4   0 F-box and WD repeat domain-containing 11a OS=Danio rerio OX=7955 GN=fbxw11a PE=2 SV=1
+tr|E9QCK5|E9QCK5_DANRE         -          Nucleoporin_N        PF08801.8      0.016   15.4   0.6       9.3    6.3   0.0   3.3   2   1   2   4   4   4   0 F-box and WD repeat domain-containing 11b OS=Danio rerio OX=7955 GN=fbxw11b PE=4 SV=1
+tr|Q6PGW4|Q6PGW4_DANRE         -          Nucleoporin_N        PF08801.8      0.016   15.4   0.6         9    6.3   0.0   3.3   2   1   2   4   4   4   0 F-box and WD repeat domain-containing 11b OS=Danio rerio OX=7955 GN=fbxw11b PE=2 SV=1
+tr|F6PB05|F6PB05_DANRE         -          Nucleoporin_N        PF08801.8      0.016   15.4   0.6       9.1    6.3   0.0   3.3   2   1   2   4   4   4   0 F-box and WD repeat domain-containing 11b OS=Danio rerio OX=7955 GN=fbxw11b PE=4 SV=1
+tr|A0A2R8RWN9|A0A2R8RWN9_DANRE -          Nucleoporin_N        PF08801.8      0.018   15.2   0.7       9.2    6.3   0.0   3.3   2   1   2   4   4   4   0 F-box and WD repeat domain-containing 11b OS=Danio rerio OX=7955 GN=fbxw11b PE=4 SV=1
+tr|A0A2R8QFQ6|A0A2R8QFQ6_DANRE -          Nucleoporin_N        PF08801.8      0.018   15.2   1.5       9.1    6.3   0.2   3.2   1   1   3   4   4   4   0 F-box and WD repeat domain-containing 11a OS=Danio rerio OX=7955 GN=fbxw11a PE=4 SV=1
+tr|A0A0R4IEK9|A0A0R4IEK9_DANRE -          Nucleoporin_N        PF08801.8      0.027   14.6   0.0      0.36   10.9   0.0   2.4   2   1   0   2   2   2   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=1 SV=1
+tr|F1QH82|F1QH82_DANRE         -          Nucleoporin_N        PF08801.8      0.045   13.9   0.0      0.52   10.4   0.0   2.3   2   1   0   2   2   2   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=1 SV=1
+sp|Q6DRF9|WDR55_DANRE          -          Nucleoporin_N        PF08801.8       0.05   13.7   0.0      0.53   10.4   0.0   2.3   2   1   0   2   2   2   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=2 SV=2
+tr|Q6TLF1|Q6TLF1_DANRE         -          Nucleoporin_N        PF08801.8      0.052   13.7   0.1      0.65   10.1   0.0   2.5   3   1   0   3   3   3   0 WD repeat and FYVE domain-containing 2 OS=Danio rerio OX=7955 GN=wdfy2 PE=2 SV=1
+tr|Q4VBV0|Q4VBV0_DANRE         -          Nucleoporin_N        PF08801.8      0.069   13.3   0.0        16    5.5   0.0   3.4   3   1   0   3   3   3   0 WD repeat and FYVE domain-containing 1 OS=Danio rerio OX=7955 GN=wdfy1 PE=1 SV=1
+tr|B8A4L8|B8A4L8_DANRE         -          Nucleoporin_N        PF08801.8       0.13   12.4   0.0      0.41   10.7   0.0   1.8   1   1   1   2   2   2   0 WD repeat domain 89 OS=Danio rerio OX=7955 GN=wdr89 PE=4 SV=1
+tr|A3KPR1|A3KPR1_DANRE         -          Nucleoporin_N        PF08801.8       0.24   11.5   0.0       3.8    7.5   0.0   2.6   2   1   1   3   3   3   0 WD repeat domain 36 OS=Danio rerio OX=7955 GN=wdr36 PE=1 SV=1
+tr|A0A2R8Q357|A0A2R8Q357_DANRE -          Nucleoporin_N        PF08801.8       0.31   11.1   0.1        15    5.6   0.0   3.0   3   1   1   4   4   4   0 SMU1 DNA replication regulator and spliceosomal factor b OS=Danio rerio OX=7955 GN=smu1b PE=4 SV=1
+tr|A0A0R4IRQ4|A0A0R4IRQ4_DANRE -          Nucleoporin_N        PF08801.8       0.32   11.1   0.0       1.4    9.0   0.0   1.9   2   1   0   2   2   2   0 Striatin, calmodulin-binding protein 4 OS=Danio rerio OX=7955 GN=strn4 PE=1 SV=1
+tr|A0A2R8Q667|A0A2R8Q667_DANRE -          Nucleoporin_N        PF08801.8       0.33   11.0   0.1        18    5.3   0.0   3.0   3   1   1   4   4   4   0 SMU1 DNA replication regulator and spliceosomal factor b OS=Danio rerio OX=7955 GN=smu1b PE=4 SV=1
+tr|A0A2R8QGU6|A0A2R8QGU6_DANRE -          Nucleoporin_N        PF08801.8       0.34   11.0   0.0       1.5    8.9   0.0   1.9   2   1   0   2   2   2   0 Striatin, calmodulin-binding protein 4 OS=Danio rerio OX=7955 GN=strn4 PE=1 SV=1
+tr|F1R1W1|F1R1W1_DANRE         -          Nucleoporin_N        PF08801.8       0.36   10.9   0.0        22    5.0   0.0   2.2   2   0   0   2   2   2   0 Striatin, calmodulin-binding protein 3 OS=Danio rerio OX=7955 GN=strn3 PE=1 SV=1
+tr|F1R3Q7|F1R3Q7_DANRE         -          Nucleoporin_N        PF08801.8       0.45   10.6   0.2        13    5.8   0.0   2.7   1   1   1   3   3   3   0 Ribosomal RNA-processing 9, U3 small nucleolar RNA-binding protein OS=Danio rerio OX=7955 GN=rrp9 PE=1 SV=1
+tr|A0A2R8RL46|A0A2R8RL46_DANRE -          Nucleoporin_N        PF08801.8       0.46   10.6   0.2        13    5.8   0.0   2.7   1   1   1   3   3   3   0 Ribosomal RNA-processing 9, U3 small nucleolar RNA-binding protein OS=Danio rerio OX=7955 GN=rrp9 PE=1 SV=1
+tr|A0A2R8Q3F9|A0A2R8Q3F9_DANRE -          Nucleoporin_N        PF08801.8       0.51   10.4   0.2        13    5.7   0.0   2.7   1   1   2   3   3   3   0 Ribosomal RNA-processing 9, U3 small nucleolar RNA-binding protein OS=Danio rerio OX=7955 GN=rrp9 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:42 2022
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0B4K859|A0A0B4K859_DROME -          Nup188               PF10487.6    2.2e-81  274.5   0.0   3.2e-81  273.9   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin 188kDa, isoform C OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=1
+tr|A1Z945|A1Z945_DROME         -          Nup188               PF10487.6    2.2e-81  274.5   0.0   3.1e-81  273.9   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin 188kDa, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=2
+tr|Q9VEC5|Q9VEC5_DROME         -          Nup188               PF10487.6          3    6.0   0.1       5.1    5.2   0.1   1.3   1   0   0   1   1   1   0 Cadmus, isoform A OS=Drosophila melanogaster OX=7227 GN=cdm PE=1 SV=1
+tr|Q9VIH3|Q9VIH3_DROME         -          Nup188               PF10487.6        3.4    5.8   0.1       4.7    5.3   0.1   1.1   1   0   0   1   1   1   0 Microsomal triacylglycerol transfer protein OS=Drosophila melanogaster OX=7227 GN=Mtp PE=1 SV=2
+tr|Q9VFL7|Q9VFL7_DROME         -          Nup188               PF10487.6        3.6    5.7   0.0       4.6    5.3   0.0   1.0   1   0   0   1   1   1   0 GD_N domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9616 PE=4 SV=3
+tr|Q9VT87|Q9VT87_DROME         -          Nup188               PF10487.6        4.8    5.3   0.1       5.9    5.0   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8065 PE=4 SV=2
+sp|Q9VSA4|TONSL_DROME          -          Nup188               PF10487.6        5.8    5.0   0.1       8.6    4.4   0.1   1.1   1   0   0   1   1   1   0 Tonsoku-like protein OS=Drosophila melanogaster OX=7227 GN=CG7457 PE=1 SV=1
+tr|T2GGE0|T2GGE0_DROME         -          Nup188               PF10487.6        5.8    5.0   0.1       8.6    4.4   0.1   1.1   1   0   0   1   1   1   0 FI21427p1 OS=Drosophila melanogaster OX=7227 GN=CG7457-RA PE=2 SV=1
+sp|Q23983|SNAP_DROME           -          Nup188               PF10487.6        6.6    4.8   0.4       7.1    4.7   0.4   1.0   1   0   0   1   1   1   0 Alpha-soluble NSF attachment protein OS=Drosophila melanogaster OX=7227 GN=alphaSnap PE=1 SV=1
+sp|Q9I7F7|ACKL_DROME           -          Nup188               PF10487.6        7.5    4.6   0.0        11    4.1   0.0   1.1   1   0   0   1   1   1   0 Activated Cdc42 kinase-like OS=Drosophila melanogaster OX=7227 GN=Ack-like PE=1 SV=3
+tr|Q9VCH1|Q9VCH1_DROME         -          Nup188               PF10487.6        9.7    4.2   0.0        15    3.6   0.0   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 4G2, isoform A OS=Drosophila melanogaster OX=7227 GN=eIF4G2 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:02:39 2022
+# [ok]

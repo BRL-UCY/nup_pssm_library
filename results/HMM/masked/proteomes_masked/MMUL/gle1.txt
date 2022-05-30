@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QE51|A0A1D5QE51_MACMU -          GLE1                 PF07817.10   2.4e-66  224.9   0.0   3.3e-66  224.4   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin GLE1 isoform 1 OS=Macaca mulatta OX=9544 GN=GLE1 PE=2 SV=1
+tr|F6UDL3|F6UDL3_MACMU         -          GLE1                 PF07817.10      0.11   13.1   0.0      0.16   12.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+tr|A0A1D5QGF8|A0A1D5QGF8_MACMU -          GLE1                 PF07817.10      0.18   12.3   0.0      0.29   11.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+tr|F6UDM0|F6UDM0_MACMU         -          GLE1                 PF07817.10      0.19   12.3   0.0      0.29   11.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=2
+tr|A0A1D5QCF9|A0A1D5QCF9_MACMU -          GLE1                 PF07817.10      0.22   12.0   0.0      0.35   11.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CSAD PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:01 2022
+# [ok]

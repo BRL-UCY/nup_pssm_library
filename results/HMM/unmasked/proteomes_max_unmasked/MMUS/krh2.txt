@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0R4J1Z3|A0A0R4J1Z3_MOUSE -          UPF0121              PF03661.10   1.4e-96  324.1  12.7   1.6e-96  323.9  12.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+sp|Q9CR67|TMM33_MOUSE          -          UPF0121              PF03661.10   1.4e-96  324.1  12.7   1.6e-96  323.9  12.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|Q9CZM3|Q9CZM3_MOUSE         -          UPF0121              PF03661.10   2.2e-37  130.3   3.2   2.7e-37  130.0   3.2   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|E0CXY5|E0CXY5_MOUSE         -          UPF0121              PF03661.10     2e-07   32.2   0.1     2e-07   32.2   0.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Mus musculus OX=10090 GN=Tmem33 PE=4 SV=1
+tr|A0A0J9YV78|A0A0J9YV78_MOUSE -          UPF0121              PF03661.10   1.8e-06   29.0   0.1     2e-06   28.9   0.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|F6TQS9|F6TQS9_MOUSE         -          UPF0121              PF03661.10       1.6    9.6   5.0       2.5    8.9   5.0   1.4   1   0   0   1   1   1   0 Endoplasmic reticulum metallopeptidase 1 (Fragment) OS=Mus musculus OX=10090 GN=Ermp1 PE=1 SV=1
+tr|A0A140LIW7|A0A140LIW7_MOUSE -          UPF0121              PF03661.10       1.8    9.4   0.2       5.5    7.8   0.0   1.9   2   0   0   2   2   2   0 Ankyrin-repeat and fibronectin type III domain-containing 1 (Fragment) OS=Mus musculus OX=10090 GN=Ankfn1 PE=1 SV=1
+tr|A0A140LIR1|A0A140LIR1_MOUSE -          UPF0121              PF03661.10       1.9    9.3   0.9       5.7    7.8   0.9   1.8   1   0   0   1   1   1   0 Solute carrier family 13 member 5 OS=Mus musculus OX=10090 GN=Slc13a5 PE=1 SV=1
+tr|A0A571BF63|A0A571BF63_MOUSE -          UPF0121              PF03661.10       2.4    9.0   0.2       6.7    7.5   0.0   1.8   2   0   0   2   2   2   0 Ankyrin-repeat and fibronectin type III domain-containing 1 OS=Mus musculus OX=10090 GN=Ankfn1 PE=4 SV=1
+tr|F6WSY2|F6WSY2_MOUSE         -          UPF0121              PF03661.10       2.9    8.7   0.0       4.7    8.0   0.0   1.3   1   0   0   1   1   1   0 Exportin-6 (Fragment) OS=Mus musculus OX=10090 GN=Xpo6 PE=1 SV=1
+tr|Q8C5D3|Q8C5D3_MOUSE         -          UPF0121              PF03661.10       3.1    8.6   0.3         5    8.0   0.3   1.3   1   0   0   1   1   1   0 RIKEN cDNA 9030025P20 gene OS=Mus musculus OX=10090 GN=9030025P20Rik PE=2 SV=1
+tr|A0A0B4J1K5|A0A0B4J1K5_MOUSE -          UPF0121              PF03661.10       4.2    8.2   0.2       5.1    7.9   0.2   1.1   1   0   0   1   1   1   0 Immunoglobulin lambda variable 3 (Fragment) OS=Mus musculus OX=10090 GN=Iglv3 PE=4 SV=1
+sp|Q3UVK0|ERMP1_MOUSE          -          UPF0121              PF03661.10       5.6    7.8   5.6        14    6.5   5.6   1.6   1   0   0   1   1   1   0 Endoplasmic reticulum metallopeptidase 1 OS=Mus musculus OX=10090 GN=Ermp1 PE=1 SV=2
+tr|Q5NBV0|Q5NBV0_MOUSE         -          UPF0121              PF03661.10       5.6    7.8   3.4        16    6.3   3.4   1.8   1   0   0   1   1   1   0 Solute carrier family 13 member 5 OS=Mus musculus OX=10090 GN=Slc13a5 PE=1 SV=8
+sp|Q9DBB9|CPN2_MOUSE           -          UPF0121              PF03661.10       5.7    7.8   0.3       9.3    7.1   0.3   1.3   1   0   0   1   1   1   0 Carboxypeptidase N subunit 2 OS=Mus musculus OX=10090 GN=Cpn2 PE=1 SV=2
+sp|Q5U431|GPR39_MOUSE          -          UPF0121              PF03661.10       5.8    7.7   1.4         9    7.1   0.1   2.0   2   0   0   2   2   2   0 G-protein coupled receptor 39 OS=Mus musculus OX=10090 GN=Gpr39 PE=2 SV=1
+tr|A0A0B4J1E4|A0A0B4J1E4_MOUSE -          UPF0121              PF03661.10       5.8    7.7   1.4         9    7.1   0.1   2.0   2   0   0   2   2   2   0 G-protein-coupled receptor 39 OS=Mus musculus OX=10090 GN=Gpr39 PE=1 SV=1
+tr|D3Z4Z6|D3Z4Z6_MOUSE         -          UPF0121              PF03661.10         6    7.7   0.6       6.6    7.6   0.6   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 91 (Fragment) OS=Mus musculus OX=10090 GN=Wdr91 PE=1 SV=1
+tr|D3YTV3|D3YTV3_MOUSE         -          UPF0121              PF03661.10       6.6    7.6   0.0        11    6.9   0.0   1.3   1   0   0   1   1   1   0 Probable ATP-dependent RNA helicase DHX34 OS=Mus musculus OX=10090 GN=Dhx34 PE=1 SV=1
+tr|A0A0R4J217|A0A0R4J217_MOUSE -          UPF0121              PF03661.10       6.6    7.6   0.0        11    6.9   0.0   1.3   1   0   0   1   1   1   0 Probable ATP-dependent RNA helicase DHX34 OS=Mus musculus OX=10090 GN=Dhx34 PE=1 SV=1
+sp|Q9DBV3|DHX34_MOUSE          -          UPF0121              PF03661.10       6.6    7.6   0.0        11    6.9   0.0   1.3   1   0   0   1   1   1   0 Probable ATP-dependent RNA helicase DHX34 OS=Mus musculus OX=10090 GN=Dhx34 PE=1 SV=2
+tr|E0CYZ4|E0CYZ4_MOUSE         -          UPF0121              PF03661.10         7    7.5   0.2       7.9    7.3   0.2   1.1   1   0   0   1   1   1   0 RIKEN cDNA 4933434E20 gene OS=Mus musculus OX=10090 GN=4933434E20Rik PE=4 SV=1
+sp|O88384|VTI1B_MOUSE          -          UPF0121              PF03661.10       7.3    7.4   0.1        11    6.8   0.1   1.2   1   0   0   1   1   1   0 Vesicle transport through interaction with t-SNAREs homolog 1B OS=Mus musculus OX=10090 GN=Vti1b PE=1 SV=1
+tr|Q91XH6|Q91XH6_MOUSE         -          UPF0121              PF03661.10       7.3    7.4   0.1        11    6.8   0.1   1.2   1   0   0   1   1   1   0 Vesicle transport through interaction with t-SNAREs 1B homolog OS=Mus musculus OX=10090 GN=Vti1b PE=1 SV=1
+tr|A0A1W2P6D8|A0A1W2P6D8_MOUSE -          UPF0121              PF03661.10       7.9    7.3   0.0       8.4    7.2   0.0   1.0   1   0   0   1   1   1   0 Serine palmitoyltransferase small subunit A OS=Mus musculus OX=10090 GN=Sptssa PE=4 SV=1
+tr|A6X922|A6X922_MOUSE         -          UPF0121              PF03661.10       8.3    7.2   2.1        14    6.5   2.1   1.4   1   0   0   1   1   1   0 Neuropeptide S receptor (Fragment) OS=Mus musculus OX=10090 GN=Npsr1 PE=4 SV=1
+sp|Q67BT3|S13A5_MOUSE          -          UPF0121              PF03661.10       8.4    7.2   3.8        26    5.6   3.8   1.9   1   0   0   1   1   1   0 Solute carrier family 13 member 5 OS=Mus musculus OX=10090 GN=Slc13a5 PE=2 SV=1
+tr|A0A140LIP5|A0A140LIP5_MOUSE -          UPF0121              PF03661.10       9.9    7.0   0.0        12    6.7   0.0   1.1   1   0   0   1   1   1   0 UDP-galactose translocator OS=Mus musculus OX=10090 GN=Slc35a2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 05:19:42 2022
+# [ok]

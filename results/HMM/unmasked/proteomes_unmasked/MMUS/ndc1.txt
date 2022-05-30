@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8VCB1|NDC1_MOUSE           -          Ndc1_Nup             PF09531.7   4.1e-134  450.2  15.3  4.6e-134  450.0  15.3   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+tr|J3QPB5|J3QPB5_MOUSE         -          Ndc1_Nup             PF09531.7    1.7e-88  299.5  13.4   2.1e-88  299.2  13.4   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+tr|Q810M4|Q810M4_MOUSE         -          Ndc1_Nup             PF09531.7       0.33   11.3   2.4      0.46   10.8   2.4   1.2   1   0   0   1   1   1   0 Palmitoyltransferase OS=Mus musculus OX=10090 GN=Zdhhc25 PE=2 SV=1
+tr|B7ZNZ9|B7ZNZ9_MOUSE         -          Ndc1_Nup             PF09531.7       0.37   11.1   4.1      0.43   10.9   4.1   1.0   1   0   0   1   1   1   0 Glycam1 protein OS=Mus musculus OX=10090 GN=Glycam1 PE=1 SV=1
+sp|Q02596|GLCM1_MOUSE          -          Ndc1_Nup             PF09531.7       0.48   10.7   3.8      0.54   10.6   3.8   1.0   1   0   0   1   1   1   0 Glycosylation-dependent cell adhesion molecule 1 OS=Mus musculus OX=10090 GN=Glycam1 PE=1 SV=1
+tr|E0CZC6|E0CZC6_MOUSE         -          Ndc1_Nup             PF09531.7       0.93    9.8   4.2       1.3    9.3   4.2   1.3   1   0   0   1   1   1   0 Runt-related transcription factor 2 OS=Mus musculus OX=10090 GN=Runx2 PE=1 SV=1
+sp|Q5SZT7|NKAPL_MOUSE          -          Ndc1_Nup             PF09531.7       0.97    9.7   6.6       1.1    9.5   6.6   1.1   1   0   0   1   1   1   0 NKAP-like protein OS=Mus musculus OX=10090 GN=Nkapl PE=1 SV=1
+tr|A0A1B0GSI0|A0A1B0GSI0_MOUSE -          Ndc1_Nup             PF09531.7        1.5    9.1   4.4       1.9    8.8   4.4   1.1   1   0   0   1   1   1   0 Nebulin (Fragment) OS=Mus musculus OX=10090 GN=Neb PE=1 SV=1
+tr|A0A494BBK7|A0A494BBK7_MOUSE -          Ndc1_Nup             PF09531.7          2    8.7   5.3       2.4    8.4   5.3   1.1   1   0   0   1   1   1   0 Protein unc-93 homolog B1 (Fragment) OS=Mus musculus OX=10090 GN=Unc93b1 PE=1 SV=1
+sp|P29974|CNGA1_MOUSE          -          Ndc1_Nup             PF09531.7        2.2    8.5   2.8       4.8    7.4   2.8   1.5   1   0   0   1   1   1   0 cGMP-gated cation channel alpha-1 OS=Mus musculus OX=10090 GN=Cnga1 PE=2 SV=2
+tr|B1AX78|B1AX78_MOUSE         -          Ndc1_Nup             PF09531.7        4.4    7.6   5.0       5.1    7.4   5.0   1.1   1   0   0   1   1   1   0 Hydroxysteroid dehydrogenase-like protein 2 OS=Mus musculus OX=10090 GN=Hsdl2 PE=1 SV=1
+tr|Q8R259|Q8R259_MOUSE         -          Ndc1_Nup             PF09531.7        5.9    7.1  12.8       9.5    6.4  12.8   1.3   1   0   0   1   1   1   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r202 PE=3 SV=1
+tr|D3Z6F1|D3Z6F1_MOUSE         -          Ndc1_Nup             PF09531.7        7.6    6.8  11.2       8.1    6.7  11.2   1.1   1   0   0   1   1   1   0 ADP-ribosylation factor-like protein 6-interacting protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Arl6ip4 PE=1 SV=8
+sp|Q2TPA8|HSDL2_MOUSE          -          Ndc1_Nup             PF09531.7        7.8    6.7   5.2       9.9    6.4   5.2   1.1   1   0   0   1   1   1   0 Hydroxysteroid dehydrogenase-like protein 2 OS=Mus musculus OX=10090 GN=Hsdl2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:48 2022
+# [ok]

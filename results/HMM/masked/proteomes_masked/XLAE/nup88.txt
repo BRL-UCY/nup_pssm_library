@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HGG3|A0A1L8HGG3_XENLA -          Nup88                PF10168.6   1.2e-238  794.9   0.0  1.3e-238  794.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012860mg PE=1 SV=1
+tr|A0A1L8H8E3|A0A1L8H8E3_XENLA -          Nup88                PF10168.6   1.8e-236  787.6   0.0  2.1e-236  787.5   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015436mg PE=4 SV=1
+tr|A0A1L8ETN8|A0A1L8ETN8_XENLA -          Nup88                PF10168.6      0.049   12.8   0.0     0.069   12.3   0.0   1.1   1   0   0   1   1   1   0 Kynurenine formamidase OS=Xenopus laevis OX=8355 GN=afmid PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:18 2022
+# [ok]

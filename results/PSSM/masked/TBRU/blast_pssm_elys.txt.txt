@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q8WYP5|ELYS_HUMAN Protein ELYS OS=Homo sapiens GN=AHCTF1 PE=1 SV=3
+# Database: DB_masked/TBRU_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q8WYP5|ELYS_HUMAN	tr|Q38E06|Q38E06_TRYB2	0.011	39.4	181	265	148	228
+sp|Q8WYP5|ELYS_HUMAN	tr|Q387K5|Q387K5_TRYB2	1.8	32.1	222	272	646	694
+sp|Q8WYP5|ELYS_HUMAN	tr|Q383N1|Q383N1_TRYB2	1.9	32.1	220	272	181	232
+sp|Q8WYP5|ELYS_HUMAN	tr|Q587E1|Q587E1_TRYB2	1.9	32.1	153	181	354	382
+# BLAST processed 1 queries

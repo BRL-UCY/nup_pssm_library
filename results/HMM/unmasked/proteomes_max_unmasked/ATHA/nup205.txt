@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          Nup192               PF11894.5   6.2e-112  376.2  10.4  1.6e-111  374.9  10.4   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          Nup192               PF11894.5   2.1e-108  364.5  17.5   3.2e-91  307.6  16.6   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          Nup192               PF11894.5   3.5e-102  343.9  18.8   2.7e-61  208.4  18.7   3.1   2   1   1   3   3   3   3 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          Nup192               PF11894.5   3.6e-102  343.9  18.8   2.7e-61  208.4  18.7   3.1   2   1   1   3   3   3   3 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|F4JUG3|F4JUG3_ARATH         -          Nup192               PF11894.5    3.1e-21   75.6  15.4   5.1e-11   41.7   1.8   4.5   4   1   0   4   4   4   3 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+sp|C8KI33|SUV2_ARATH           -          Nup192               PF11894.5       0.37    9.0   1.4      0.72    8.1   1.4   1.4   1   0   0   1   1   1   0 Protein SENSITIVE TO UV 2 OS=Arabidopsis thaliana OX=3702 GN=SUV2 PE=1 SV=1
+sp|Q8H1U5|APC2_ARATH           -          Nup192               PF11894.5        1.6    6.9   0.1       2.5    6.3   0.1   1.2   1   0   0   1   1   1   0 Anaphase-promoting complex subunit 2 OS=Arabidopsis thaliana OX=3702 GN=APC2 PE=1 SV=1
+tr|A0A2H1ZEA8|A0A2H1ZEA8_ARATH -          Nup192               PF11894.5        1.8    6.7   0.1       2.3    6.4   0.1   1.0   1   0   0   1   1   1   0 HXXXD-type acyl-transferase family protein OS=Arabidopsis thaliana OX=3702 GN=At1g03495 PE=4 SV=1
+sp|Q8LGE9|CSTR1_ARATH          -          Nup192               PF11894.5        1.8    6.7   0.1       2.5    6.3   0.1   1.2   1   0   0   1   1   1   0 CMP-sialic acid transporter 1 OS=Arabidopsis thaliana OX=3702 GN=At5g41760 PE=2 SV=1
+sp|C0Z274|CCZ1B_ARATH          -          Nup192               PF11894.5          2    6.6   0.0       2.7    6.2   0.0   1.1   1   0   0   1   1   1   0 Vacuolar fusion protein CCZ1 homolog B OS=Arabidopsis thaliana OX=3702 GN=CCZ1B PE=1 SV=1
+tr|A0A1P8BDY6|A0A1P8BDY6_ARATH -          Nup192               PF11894.5        2.4    6.4   3.3       3.3    5.9   3.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At5g23490 PE=4 SV=1
+tr|A0A1P8BE02|A0A1P8BE02_ARATH -          Nup192               PF11894.5        2.5    6.3   3.8       3.3    5.9   3.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At5g23490 PE=4 SV=1
+tr|F4KCX5|F4KCX5_ARATH         -          Nup192               PF11894.5        2.5    6.3   3.3       3.5    5.8   3.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At5g23490 PE=4 SV=1
+tr|A0A1P8BDX3|A0A1P8BDX3_ARATH -          Nup192               PF11894.5        2.6    6.2   3.3       3.6    5.8   3.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At5g23490 PE=4 SV=1
+sp|Q9LR73|3AT2_ARATH           -          Nup192               PF11894.5          3    6.0   0.1       3.8    5.7   0.1   1.0   1   0   0   1   1   1   0 Coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=3AT2 PE=1 SV=1
+tr|Q9LZD1|Q9LZD1_ARATH         -          Nup192               PF11894.5        3.1    6.0   0.9       3.6    5.8   0.9   1.0   1   0   0   1   1   1   0 MATH domain/coiled-coil protein OS=Arabidopsis thaliana OX=3702 GN=At5g03550 PE=4 SV=1
+tr|F4IKD6|F4IKD6_ARATH         -          Nup192               PF11894.5        3.2    6.0   0.0       3.1    6.0   0.0   1.0   1   0   0   1   1   1   0 Coiled-coil 90B-like protein (DUF1640) OS=Arabidopsis thaliana OX=3702 GN=At2g16460 PE=4 SV=1
+sp|Q9FHZ2|MD10A_ARATH          -          Nup192               PF11894.5        3.3    5.9   1.1       3.6    5.8   1.1   1.0   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 10a OS=Arabidopsis thaliana OX=3702 GN=MED10A PE=1 SV=1
+sp|Q8VZ37|AP3S_ARATH           -          Nup192               PF11894.5        3.4    5.9   0.0       3.4    5.8   0.0   1.1   1   0   0   1   1   1   0 AP-3 complex subunit sigma OS=Arabidopsis thaliana OX=3702 GN=At3g50860 PE=2 SV=1
+sp|F4HVG8|CSK_ARATH            -          Nup192               PF11894.5        3.6    5.8   0.9       5.3    5.2   0.9   1.1   1   0   0   1   1   1   0 Chloroplast sensor kinase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=CSK PE=1 SV=1
+sp|Q9ZWB4|3AT1_ARATH           -          Nup192               PF11894.5        4.2    5.6   0.1       5.2    5.3   0.1   1.0   1   0   0   1   1   1   0 Coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=3AT1 PE=1 SV=1
+tr|A0A1P8B4F6|A0A1P8B4F6_ARATH -          Nup192               PF11894.5        4.2    5.6   0.0       5.6    5.1   0.0   1.1   1   0   0   1   1   1   0 GRF1-interacting factor 3 OS=Arabidopsis thaliana OX=3702 GN=GIF3 PE=4 SV=1
+tr|A0A1P8AR52|A0A1P8AR52_ARATH -          Nup192               PF11894.5        4.3    5.5   0.9        14    3.8   0.1   2.2   2   0   0   2   2   2   0 CELLULOSE SYNTHASE INTERACTIVE 2 OS=Arabidopsis thaliana OX=3702 GN=CSI2 PE=4 SV=1
+sp|Q93VH6|GIF3_ARATH           -          Nup192               PF11894.5        4.4    5.5   0.0       5.6    5.1   0.0   1.0   1   0   0   1   1   1   0 GRF1-interacting factor 3 OS=Arabidopsis thaliana OX=3702 GN=GIF3 PE=1 SV=1
+sp|Q9C6Y4|CSI2_ARATH           -          Nup192               PF11894.5        4.8    5.4   0.9        15    3.8   0.1   2.2   2   0   0   2   2   2   0 Protein CELLULOSE SYNTHASE INTERACTIVE 2 OS=Arabidopsis thaliana OX=3702 GN=CSI2 PE=3 SV=1
+tr|B9DGV7|B9DGV7_ARATH         -          Nup192               PF11894.5        4.9    5.3   0.0       6.7    4.9   0.0   1.1   1   0   0   1   1   1   0 AT1G05410 protein OS=Arabidopsis thaliana OX=3702 GN=At1g05410 PE=2 SV=1
+tr|A0A1P8ARA5|A0A1P8ARA5_ARATH -          Nup192               PF11894.5        4.9    5.3   0.9        15    3.7   0.1   2.1   2   0   0   2   2   2   0 CELLULOSE SYNTHASE INTERACTIVE 2 OS=Arabidopsis thaliana OX=3702 GN=CSI2 PE=4 SV=1
+sp|Q682V0|XRCC4_ARATH          -          Nup192               PF11894.5        5.2    5.2   1.2       6.8    4.8   1.2   1.0   1   0   0   1   1   1   0 DNA repair protein XRCC4 OS=Arabidopsis thaliana OX=3702 GN=XRCC4 PE=1 SV=2
+tr|Q8VZE5|Q8VZE5_ARATH         -          Nup192               PF11894.5        5.3    5.2   0.0       7.3    4.8   0.0   1.1   1   0   0   1   1   1   0 At1g05410/T25N20_5 OS=Arabidopsis thaliana OX=3702 GN=At1g05410 PE=2 SV=1
+tr|Q9SIV6|Q9SIV6_ARATH         -          Nup192               PF11894.5        5.3    5.2   0.0       6.2    5.0   0.0   1.1   1   0   0   1   1   1   0 Coiled-coil 90B-like protein (DUF1640) OS=Arabidopsis thaliana OX=3702 GN=At2g16460 PE=2 SV=2
+tr|A8MSC1|A8MSC1_ARATH         -          Nup192               PF11894.5        5.4    5.2   0.2       5.6    5.1   0.2   1.0   1   0   0   1   1   1   0 COMPLEX 1 LYR-like protein OS=Arabidopsis thaliana OX=3702 GN=EMB2786 PE=3 SV=1
+tr|Q9M9C8|Q9M9C8_ARATH         -          Nup192               PF11894.5        6.6    4.9   0.2       7.5    4.7   0.2   1.0   1   0   0   1   1   1   0 At1g68430 OS=Arabidopsis thaliana OX=3702 GN=At1g68430 PE=2 SV=1
+sp|Q3EA38|FDL48_ARATH          -          Nup192               PF11894.5        8.7    4.5   0.2        12    4.1   0.2   1.1   1   0   0   1   1   1   0 Putative F-box/FBD/LRR-repeat protein At4g13965 OS=Arabidopsis thaliana OX=3702 GN=At4g13965 PE=4 SV=2
+sp|F4JCN9|PRE4_ARATH           -          Nup192               PF11894.5        8.8    4.5   0.0       9.7    4.3   0.0   1.0   1   0   0   1   1   1   0 Transcription factor PRE4 OS=Arabidopsis thaliana OX=3702 GN=PRE4 PE=1 SV=1
+sp|Q9SN22|SCL32_ARATH          -          Nup192               PF11894.5        8.9    4.5   0.1        28    2.8   0.1   1.6   2   0   0   2   2   2   0 Scarecrow-like protein 32 OS=Arabidopsis thaliana OX=3702 GN=SCL32 PE=1 SV=1
+sp|Q9SRZ0|CUL2_ARATH           -          Nup192               PF11894.5        9.6    4.4   0.0        19    3.4   0.0   1.4   1   0   0   1   1   1   0 Cullin-2 OS=Arabidopsis thaliana OX=3702 GN=CUL2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 23:19:19 2022
+# [ok]

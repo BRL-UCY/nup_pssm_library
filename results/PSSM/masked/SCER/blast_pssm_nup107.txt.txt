@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1YK54|A1YK54_DROME Nup107 OS=Drosophila melanogaster GN=Nup107 PE=4 SV=1
+# Database: DB_masked/SCER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+tr|A1YK54|A1YK54_DROME	sp|P52891|NUP84_YEAST	7.20e-126	393	56	828	10	722
+tr|A1YK54|A1YK54_DROME	sp|Q07527|TRM3_YEAST	1.9	30.0	128	232	1181	1287
+tr|A1YK54|A1YK54_DROME	sp|Q06164|MMS22_YEAST	4.4	28.8	27	104	600	678
+# BLAST processed 1 queries

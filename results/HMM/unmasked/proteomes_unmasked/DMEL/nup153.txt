@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VV30|Q9VV30_DROME -          Nup153               PF08604.7      0.054   12.6   5.2     0.059   12.5   5.2   1.1   1   0   0   1   1   1   0 GEO07733p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE40431 PE=2 SV=1
+tr|Q9VV29|Q9VV29_DROME -          Nup153               PF08604.7      0.083   12.0   4.0     0.089   11.9   4.0   1.1   1   0   0   1   1   1   0 GEO12576p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE63063 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup153.txt --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:13 2022
+# [ok]

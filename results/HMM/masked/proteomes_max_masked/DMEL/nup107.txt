@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V466|NU107_DROME          -          Nup84_Nup100         PF04121.10  1.2e-179  599.2   3.9  1.3e-179  599.0   3.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          Nup84_Nup100         PF04121.10     0.051   12.0   0.1      0.18   10.2   0.0   1.9   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9XZ06|NU931_DROME          -          Nup84_Nup100         PF04121.10       0.2   10.1   0.4       8.1    4.8   0.0   2.3   2   0   0   2   2   2   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+tr|Q9VK00|Q9VK00_DROME         -          Nup84_Nup100         PF04121.10       5.2    5.4   0.1       6.1    5.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16826 PE=1 SV=1
+sp|Q9W0P8|MED14_DROME          -          Nup84_Nup100         PF04121.10       6.6    5.1   0.0       9.9    4.5   0.0   1.1   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 14 OS=Drosophila melanogaster OX=7227 GN=MED14 PE=1 SV=4
+tr|Q9VD02|Q9VD02_DROME         -          Nup84_Nup100         PF04121.10         9    4.6   0.0        11    4.3   0.0   1.0   1   0   0   1   1   1   0 GH14779p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7054 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:03:26 2022
+# [ok]

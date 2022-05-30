@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7K0D8|NUP50_DROME          -          NUP50                PF08911.8    3.3e-23   82.4   2.8   3.3e-23   82.4   2.8   5.5   5   2   0   5   5   5   1 Nuclear pore complex protein Nup50 OS=Drosophila melanogaster OX=7227 GN=Nup50 PE=2 SV=1
+tr|Q9VH51|Q9VH51_DROME         -          NUP50                PF08911.8     0.0061   17.4   0.0     0.036   15.0   0.0   2.4   1   0   0   1   1   1   1 GH15792p OS=Drosophila melanogaster OX=7227 GN=Glut4EF PE=2 SV=3
+tr|Q9VH52|Q9VH52_DROME         -          NUP50                PF08911.8     0.0083   17.0   0.0     0.059   14.3   0.0   2.6   1   0   0   1   1   1   1 Glucose transporter 4 enhancer factor, isoform A OS=Drosophila melanogaster OX=7227 GN=Glut4EF PE=4 SV=2
+tr|A0A0B4KFN3|A0A0B4KFN3_DROME -          NUP50                PF08911.8       0.08   13.9   0.0      0.08   13.9   0.0   4.0   4   0   0   4   4   4   0 Glucose transporter 4 enhancer factor, isoform G OS=Drosophila melanogaster OX=7227 GN=Glut4EF PE=4 SV=1
+tr|A8JUP2|A8JUP2_DROME         -          NUP50                PF08911.8        1.5    9.8   4.6       0.6   11.0   0.9   2.3   2   0   0   2   2   2   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15252 PE=4 SV=1
+tr|Q9W2Z8|Q9W2Z8_DROME         -          NUP50                PF08911.8        2.2    9.2   5.1      0.63   11.0   0.9   2.3   2   0   0   2   2   2   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15252 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:12 2022
+# [ok]

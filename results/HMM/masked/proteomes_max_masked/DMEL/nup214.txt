@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7JQT9|Q7JQT9_DROME         -          NUP214               PF16755.2      0.098   12.2   0.6      0.44   10.0   0.2   2.0   2   0   0   2   2   2   0 LD47550p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1671 PE=1 SV=1
+tr|Q8IMR6|Q8IMR6_DROME         -          NUP214               PF16755.2        2.2    7.7   0.1       3.1    7.3   0.1   1.1   1   0   0   1   1   1   0 RT06777p1 OS=Drosophila melanogaster OX=7227 GN=TwdlR PE=2 SV=2
+tr|Q9VHT2|Q9VHT2_DROME         -          NUP214               PF16755.2        4.5    6.7   0.0       8.4    5.8   0.0   1.4   1   0   0   1   1   1   0 FI07663p OS=Drosophila melanogaster OX=7227 GN=tex PE=1 SV=1
+tr|A0A0B4KGC8|A0A0B4KGC8_DROME -          NUP214               PF16755.2        5.3    6.5   0.1       8.7    5.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14322 PE=4 SV=1
+tr|Q9VEH3|Q9VEH3_DROME         -          NUP214               PF16755.2        5.3    6.5   0.1       8.6    5.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14322 PE=4 SV=3
+tr|A0A0B4KHA8|A0A0B4KHA8_DROME -          NUP214               PF16755.2        5.4    6.4   0.1       8.8    5.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14322 PE=4 SV=1
+tr|Q9VFW4|Q9VFW4_DROME         -          NUP214               PF16755.2          6    6.3   0.5       7.8    5.9   0.5   1.1   1   0   0   1   1   1   0 MIP09035p OS=Drosophila melanogaster OX=7227 GN=poly PE=1 SV=1
+tr|E1JIX4|E1JIX4_DROME         -          NUP214               PF16755.2        6.2    6.2   0.0       6.2    6.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42488 PE=4 SV=1
+tr|Q9VAJ2|Q9VAJ2_DROME         -          NUP214               PF16755.2        6.8    6.1   0.0         9    5.7   0.0   1.2   1   0   0   1   1   1   0 Bub3, isoform A OS=Drosophila melanogaster OX=7227 GN=Bub3 PE=1 SV=1
+tr|Q9VJ68|Q9VJ68_DROME         -          NUP214               PF16755.2        7.1    6.0   0.2        15    4.9   0.0   1.5   2   0   0   2   2   2   0 FI20105p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31751 PE=1 SV=2
+sp|P29742|CLH_DROME            -          NUP214               PF16755.2        7.5    6.0   0.2        16    4.9   0.2   1.4   1   0   0   1   1   1   0 Clathrin heavy chain OS=Drosophila melanogaster OX=7227 GN=Chc PE=1 SV=1
+tr|X2JC31|X2JC31_DROME         -          NUP214               PF16755.2        7.5    6.0   0.2        16    4.9   0.2   1.4   1   0   0   1   1   1   0 Clathrin heavy chain OS=Drosophila melanogaster OX=7227 GN=Chc PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:02:49 2022
+# [ok]

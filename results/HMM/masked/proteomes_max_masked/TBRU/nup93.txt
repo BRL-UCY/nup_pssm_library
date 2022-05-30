@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38AQ7|Q38AQ7_TRYB2 -          Nic96                PF04097.11   4.1e-25   87.3   0.0   7.7e-14   50.0   0.0   2.2   2   0   0   2   2   2   2 Nuclear pore protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.3670 PE=3 SV=1
+tr|Q388F5|Q388F5_TRYB2 -          Nic96                PF04097.11   4.9e-05   21.0   0.2      0.26    8.7   0.0   3.2   3   0   0   3   3   3   2 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.2260 PE=4 SV=1
+tr|Q57ZX9|Q57ZX9_TRYB2 -          Nic96                PF04097.11       2.1    5.7   0.0       3.1    5.1   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3030 PE=4 SV=1
+tr|Q57UN8|Q57UN8_TRYB2 -          Nic96                PF04097.11       2.1    5.6   0.0       3.2    5.1   0.0   1.1   1   0   0   1   1   1   0 DNA excision repair protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4080 PE=4 SV=1
+tr|Q38B65|Q38B65_TRYB2 -          Nic96                PF04097.11       3.5    4.9   0.0        47    1.2   0.0   1.9   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.1660 PE=4 SV=1
+tr|Q580F5|Q580F5_TRYB2 -          Nic96                PF04097.11       4.6    4.5   0.0       6.5    4.0   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein kinase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.1690 PE=4 SV=1
+tr|Q38F36|Q38F36_TRYB2 -          Nic96                PF04097.11       7.3    3.9   0.0        16    2.7   0.0   1.5   2   0   0   2   2   2   0 Phosphomevalonate kinase protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.3690 PE=4 SV=1
+tr|Q387G1|Q387G1_TRYB2 -          Nic96                PF04097.11       8.6    3.6   0.0        23    2.2   0.0   1.6   2   0   0   2   2   2   0 TPR_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0240 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:36:13 2022
+# [ok]

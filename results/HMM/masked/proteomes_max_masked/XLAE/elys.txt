@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8G7Z4|A0A1L8G7Z4_XENLA -          ELYS                 PF13934.3    3.9e-52  178.7   0.3   5.6e-52  178.2   0.3   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026789mg PE=1 SV=1
+tr|A0A1L8G293|A0A1L8G293_XENLA -          ELYS                 PF13934.3    8.1e-50  171.1   0.9   1.2e-49  170.6   0.9   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029035mg PE=4 SV=1
+tr|A0A1L8HXP4|A0A1L8HXP4_XENLA -          ELYS                 PF13934.3          5    8.3   0.1       6.8    7.9   0.1   1.2   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Xenopus laevis OX=8355 GN=cope PE=1 SV=1
+tr|A0A1L8H8A2|A0A1L8H8A2_XENLA -          ELYS                 PF13934.3        6.9    7.9   0.1        19    6.4   0.1   1.7   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015366mg PE=4 SV=1
+tr|A0A1L8HG57|A0A1L8HG57_XENLA -          ELYS                 PF13934.3        8.4    7.6   0.1        26    6.0   0.0   1.7   1   1   0   1   1   1   0 Mic1 domain-containing protein OS=Xenopus laevis OX=8355 GN=rmc1 PE=4 SV=1
+tr|A0A1L8H9Z2|A0A1L8H9Z2_XENLA -          ELYS                 PF13934.3        9.9    7.4   0.0        13    7.0   0.0   1.1   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015995mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:42:20 2022
+# [ok]

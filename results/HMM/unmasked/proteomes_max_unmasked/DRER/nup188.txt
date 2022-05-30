@@ -1,0 +1,67 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E7EXJ6|E7EXJ6_DANRE         -          Nup188               PF10487.6   1.1e-206  690.2   0.0  1.6e-206  689.7   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|F1QJ18|F1QJ18_DANRE         -          Nup188               PF10487.6    6.4e-05   22.5   0.0    0.0018   17.7   0.0   2.2   2   0   0   2   2   2   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          Nup188               PF10487.6    6.5e-05   22.5   0.0    0.0018   17.7   0.0   2.2   2   0   0   2   2   2   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          Nup188               PF10487.6    6.6e-05   22.4   0.0    0.0018   17.7   0.0   2.2   2   0   0   2   2   2   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          Nup188               PF10487.6    6.7e-05   22.4   0.0    0.0018   17.7   0.0   2.2   2   0   0   2   2   2   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          Nup188               PF10487.6    0.00027   20.4   0.0    0.0018   17.7   0.0   2.0   2   0   0   2   2   2   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          Nup188               PF10487.6    0.00029   20.3   0.0    0.0018   17.7   0.0   2.0   2   0   0   2   2   2   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8QP59|A0A2R8QP59_DANRE -          Nup188               PF10487.6       0.28   10.4   0.2      0.42    9.8   0.2   1.2   1   0   0   1   1   1   0 Syntaxin-binding protein 1b OS=Danio rerio OX=7955 GN=stxbp1b PE=1 SV=1
+tr|A2BGE0|A2BGE0_DANRE         -          Nup188               PF10487.6        0.3   10.3   0.2      0.44    9.8   0.2   1.2   1   0   0   1   1   1   0 Si:rp71-10d23.3 OS=Danio rerio OX=7955 GN=stxbp1b PE=1 SV=1
+tr|F1R067|F1R067_DANRE         -          Nup188               PF10487.6       0.43    9.8   2.7      0.59    9.4   2.7   1.1   1   0   0   1   1   1   0 Formin-like protein 3 (Fragment) OS=Danio rerio OX=7955 GN=fmnl3 PE=4 SV=1
+tr|A8WHM7|A8WHM7_DANRE         -          Nup188               PF10487.6       0.72    9.1   0.2       1.6    7.9   0.2   1.5   1   0   0   1   1   1   0 Cytoplasmic linker-associated protein 1a OS=Danio rerio OX=7955 GN=clasp1a PE=1 SV=1
+tr|F1R253|F1R253_DANRE         -          Nup188               PF10487.6       0.76    9.0   0.2       1.7    7.8   0.2   1.5   1   0   0   1   1   1   0 Cytoplasmic linker-associated protein 1a OS=Danio rerio OX=7955 GN=clasp1a PE=1 SV=2
+tr|F1QQQ8|F1QQQ8_DANRE         -          Nup188               PF10487.6       0.93    8.7   5.0      0.52    9.5   2.9   1.6   1   1   0   1   1   1   0 Death-domain-associated protein OS=Danio rerio OX=7955 GN=daxx PE=1 SV=1
+tr|Q1LUU4|Q1LUU4_DANRE         -          Nup188               PF10487.6       0.93    8.7   5.0      0.52    9.5   2.9   1.6   1   1   0   1   1   1   0 Death-associated protein 6 OS=Danio rerio OX=7955 GN=daxx PE=1 SV=1
+tr|F1QM13|F1QM13_DANRE         -          Nup188               PF10487.6          1    8.6   0.2       1.5    8.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1a OS=Danio rerio OX=7955 GN=stxbp1a PE=1 SV=1
+tr|A0A0R4IQM9|A0A0R4IQM9_DANRE -          Nup188               PF10487.6          1    8.5   0.2       1.6    8.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1a OS=Danio rerio OX=7955 GN=stxbp1a PE=1 SV=1
+tr|A0A2R8QLB7|A0A2R8QLB7_DANRE -          Nup188               PF10487.6        1.1    8.5   1.2       1.7    7.9   1.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=3 SV=1
+tr|Q2PRF5|Q2PRF5_DANRE         -          Nup188               PF10487.6        1.2    8.3   0.3       1.9    7.7   0.3   1.2   1   0   0   1   1   1   0 Olfactory receptor OS=Danio rerio OX=7955 GN=or126-2 PE=3 SV=1
+tr|A0A140LG39|A0A140LG39_DANRE -          Nup188               PF10487.6        1.4    8.1   0.0       1.6    7.9   0.0   1.0   1   0   0   1   1   1   0 Glutathione peroxidase 4a OS=Danio rerio OX=7955 GN=gpx4a PE=1 SV=1
+tr|I3IT98|I3IT98_DANRE         -          Nup188               PF10487.6        2.1    7.5   0.3       2.9    7.0   0.3   1.2   1   0   0   1   1   1   0 CLIP-associating protein 2 (Fragment) OS=Danio rerio OX=7955 GN=clasp2 PE=1 SV=1
+tr|A0A2R8Q040|A0A2R8Q040_DANRE -          Nup188               PF10487.6        2.1    7.5   1.0       2.1    7.5   1.0   1.1   1   0   0   1   1   1   0 Protein phosphatase 1, regulatory subunit 9A OS=Danio rerio OX=7955 GN=ppp1r9a PE=4 SV=1
+tr|Q1LWU6|Q1LWU6_DANRE         -          Nup188               PF10487.6        2.5    7.3   1.7       2.9    7.1   1.7   1.1   1   0   0   1   1   1   0 Geminin DNA replication inhibitor OS=Danio rerio OX=7955 GN=gmnn PE=4 SV=1
+tr|Q1LU98|Q1LU98_DANRE         -          Nup188               PF10487.6        2.5    7.3   1.7       2.9    7.1   1.7   1.1   1   0   0   1   1   1   0 Geminin DNA replication inhibitor OS=Danio rerio OX=7955 GN=gmnn PE=4 SV=1
+tr|A0A2R8QSX2|A0A2R8QSX2_DANRE -          Nup188               PF10487.6        2.6    7.2   3.9         3    7.0   3.9   1.0   1   0   0   1   1   1   0 Protein phosphatase 1, regulatory subunit 9Bb OS=Danio rerio OX=7955 GN=ppp1r9bb PE=4 SV=1
+tr|A0A2R8RXH9|A0A2R8RXH9_DANRE -          Nup188               PF10487.6        2.8    7.1   0.1         3    7.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|Q803M8|Q803M8_DANRE         -          Nup188               PF10487.6        3.6    6.8   0.7       4.1    6.6   0.7   1.1   1   0   0   1   1   1   0 Tryosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide OS=Danio rerio OX=7955 GN=ywhaqb PE=1 SV=1
+tr|F6P2R0|F6P2R0_DANRE         -          Nup188               PF10487.6          4    6.6   2.1       5.6    6.1   2.1   1.1   1   0   0   1   1   1   0 Polyhomeotic homolog 2b (Drosophila) OS=Danio rerio OX=7955 GN=phc2b PE=1 SV=1
+tr|X1WFQ5|X1WFQ5_DANRE         -          Nup188               PF10487.6        4.1    6.6   0.7        18    4.4   0.0   2.2   2   1   0   2   2   2   0 Dishevelled-associated activator of morphogenesis 2 (Fragment) OS=Danio rerio OX=7955 GN=daam2 PE=4 SV=1
+tr|E9QGS9|E9QGS9_DANRE         -          Nup188               PF10487.6        4.4    6.5   0.0       5.1    6.3   0.0   1.1   1   0   0   1   1   1   0 DNA-directed primase/polymerase protein (Fragment) OS=Danio rerio OX=7955 GN=primpol PE=4 SV=1
+tr|A0A0G2L8C2|A0A0G2L8C2_DANRE -          Nup188               PF10487.6        4.5    6.4   0.5         8    5.6   0.5   1.4   1   0   0   1   1   1   0 AP-3 complex subunit beta OS=Danio rerio OX=7955 GN=ap3b2 PE=1 SV=1
+tr|A0A0G2KQL4|A0A0G2KQL4_DANRE -          Nup188               PF10487.6        4.6    6.4   0.5         8    5.6   0.5   1.4   1   0   0   1   1   1   0 AP-3 complex subunit beta OS=Danio rerio OX=7955 GN=ap3b2 PE=1 SV=1
+tr|Q1LWC9|Q1LWC9_DANRE         -          Nup188               PF10487.6        4.6    6.4   0.2       6.3    6.0   0.2   1.1   1   0   0   1   1   1   0 Sulfotransferase OS=Danio rerio OX=7955 GN=si:ch73-62b13.1 PE=3 SV=1
+sp|Q9I8L5|FA10A_DANRE          -          Nup188               PF10487.6        5.3    6.2   0.1       6.2    6.0   0.1   1.0   1   0   0   1   1   1   0 Fatty acid-binding protein 10-A, liver basic OS=Danio rerio OX=7955 GN=fabp10a PE=1 SV=1
+sp|Q7T356|143BB_DANRE          -          Nup188               PF10487.6        5.3    6.2   0.3       6.1    6.0   0.3   1.1   1   0   0   1   1   1   0 14-3-3 protein beta/alpha-B OS=Danio rerio OX=7955 GN=ywhabb PE=2 SV=1
+tr|F1RBF6|F1RBF6_DANRE         -          Nup188               PF10487.6        5.4    6.2   0.3       6.1    6.0   0.3   1.1   1   0   0   1   1   1   0 14-3-3 protein beta/alpha-B OS=Danio rerio OX=7955 GN=ywhabb PE=1 SV=1
+tr|F1QY41|F1QY41_DANRE         -          Nup188               PF10487.6        5.8    6.1   0.3       8.2    5.6   0.3   1.1   1   0   0   1   1   1   0 Tripartite motif-containing 3b OS=Danio rerio OX=7955 GN=trim3b PE=4 SV=1
+tr|A0A286YB14|A0A286YB14_DANRE -          Nup188               PF10487.6          6    6.0   0.3       8.5    5.5   0.3   1.1   1   0   0   1   1   1   0 Tripartite motif-containing 3b OS=Danio rerio OX=7955 GN=trim3b PE=4 SV=2
+sp|A8WGT1|C25L2_DANRE          -          Nup188               PF10487.6        6.5    5.9   0.4        72    2.4   0.2   1.9   2   0   0   2   2   2   0 Cholesterol 25-hydroxylase-like protein 2 OS=Danio rerio OX=7955 GN=ch25hl2 PE=2 SV=1
+tr|F6NSX3|F6NSX3_DANRE         -          Nup188               PF10487.6        7.2    5.8   0.0       9.1    5.4   0.0   1.1   1   0   0   1   1   1   0 Glutathione peroxidase OS=Danio rerio OX=7955 GN=gpx4a PE=1 SV=1
+tr|B0UXH5|B0UXH5_DANRE         -          Nup188               PF10487.6        7.2    5.7   2.5       9.7    5.3   2.5   1.0   1   0   0   1   1   1   0 Angiopoietin-like 2b OS=Danio rerio OX=7955 GN=angptl2b PE=4 SV=1
+tr|E9QDI1|E9QDI1_DANRE         -          Nup188               PF10487.6        7.3    5.7   0.3       7.8    5.6   0.3   1.0   1   0   0   1   1   1   0 Apolipoprotein C-I OS=Danio rerio OX=7955 GN=apoc1 PE=1 SV=1
+tr|Q5RIN6|Q5RIN6_DANRE         -          Nup188               PF10487.6        7.6    5.7   0.0       9.2    5.4   0.0   1.0   1   0   0   1   1   1   0 Peptidyl-tRNA hydrolase domain-containing 1 OS=Danio rerio OX=7955 GN=ptrhd1 PE=1 SV=1
+tr|A0A0R4IIS1|A0A0R4IIS1_DANRE -          Nup188               PF10487.6        7.7    5.7   0.2       8.5    5.5   0.2   1.2   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 7 (Fragment) OS=Danio rerio OX=7955 GN=ppp1r7 PE=1 SV=1
+tr|A5WUJ5|A5WUJ5_DANRE         -          Nup188               PF10487.6        7.8    5.6   0.1        12    5.0   0.1   1.2   1   0   0   1   1   1   0 Si:dkey-83f18.11 OS=Danio rerio OX=7955 GN=si:dkey-83f18.11 PE=4 SV=1
+tr|Q7T3L3|Q7T3L3_DANRE         -          Nup188               PF10487.6        8.2    5.6   0.2        15    4.7   0.2   1.3   1   0   0   1   1   1   0 Chaperone protein GP96 OS=Danio rerio OX=7955 GN=hsp90b1 PE=1 SV=1
+tr|F1RAE9|F1RAE9_DANRE         -          Nup188               PF10487.6        8.5    5.5   1.8        12    5.0   1.8   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 2 OS=Danio rerio OX=7955 GN=stxbp2 PE=1 SV=1
+tr|A0A286YAP4|A0A286YAP4_DANRE -          Nup188               PF10487.6        8.5    5.5   0.2        16    4.7   0.2   1.3   1   0   0   1   1   1   0 Heat shock protein 90, beta (grp94), member 1 OS=Danio rerio OX=7955 GN=hsp90b1 PE=1 SV=2
+tr|F1QMB2|F1QMB2_DANRE         -          Nup188               PF10487.6        8.6    5.5   0.1        53    2.9   0.0   1.9   2   0   0   2   2   2   0 Phospholipase A2, group IVF, tandem duplicate 2 OS=Danio rerio OX=7955 GN=pla2g4f.2 PE=4 SV=3
+tr|Q7T3J0|Q7T3J0_DANRE         -          Nup188               PF10487.6          9    5.4   0.3       8.9    5.5   0.3   1.1   1   0   0   1   1   1   0 Hairy and enhancer of split 5 OS=Danio rerio OX=7955 GN=her15.1 PE=2 SV=1
+tr|A8WHV9|A8WHV9_DANRE         -          Nup188               PF10487.6        9.2    5.4   0.1        11    5.1   0.1   1.0   1   0   0   1   1   1   0 Si:dkey-103d23.3 (Fragment) OS=Danio rerio OX=7955 GN=si:dkey-103d23.3 PE=4 SV=1
+tr|Q6P102|Q6P102_DANRE         -          Nup188               PF10487.6        9.3    5.4   0.3        11    5.1   0.3   1.1   1   0   0   1   1   1   0 Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide-like OS=Danio rerio OX=7955 GN=ywhabl PE=1 SV=1
+tr|A8E5M4|A8E5M4_DANRE         -          Nup188               PF10487.6        9.5    5.4   0.4        11    5.2   0.4   1.1   1   0   0   1   1   1   0 Zgc:136520 protein OS=Danio rerio OX=7955 GN=zgc:136520 PE=2 SV=1
+tr|A0A2R8QR05|A0A2R8QR05_DANRE -          Nup188               PF10487.6        9.5    5.4   0.3        15    4.7   0.3   1.2   1   0   0   1   1   1   0 Si:dkey-110c1.7 OS=Danio rerio OX=7955 GN=si:dkey-110c1.7 PE=4 SV=1
+tr|E7FEG7|E7FEG7_DANRE         -          Nup188               PF10487.6        9.6    5.3   0.1        11    5.2   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=hsbp1l1 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 01:34:40 2022
+# [ok]

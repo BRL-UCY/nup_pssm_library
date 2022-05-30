@@ -1,0 +1,44 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q3G8|E9Q3G8_MOUSE         -          Nup153               PF08604.7   9.7e-217  722.4  43.8  9.7e-217  722.4  43.8   5.7   4   2   1   5   5   2   1 Nucleoporin 153 OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YCP2|A0A286YCP2_MOUSE -          Nup153               PF08604.7   2.1e-113  381.4  13.0  2.6e-113  381.1  13.0   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YCY7|A0A286YCY7_MOUSE -          Nup153               PF08604.7    4.5e-50  172.5  17.3     5e-50  172.4  17.3   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A0N4SVX7|A0A0N4SVX7_MOUSE -          Nup153               PF08604.7       0.67   10.3   0.0      0.78   10.1   0.0   1.0   1   0   0   1   1   1   0 Protease-associated domain-containing protein 1 OS=Mus musculus OX=10090 GN=Pradc1 PE=1 SV=1
+sp|Q9QYL0|HILS1_MOUSE          -          Nup153               PF08604.7       0.96    9.8   1.8      0.53   10.6   0.1   1.4   2   0   0   2   2   2   0 Spermatid-specific linker histone H1-like protein OS=Mus musculus OX=10090 GN=Hils1 PE=1 SV=1
+tr|A0A1L1SSU8|A0A1L1SSU8_MOUSE -          Nup153               PF08604.7        1.1    9.5   0.1       1.5    9.2   0.1   1.1   1   0   0   1   1   1   0 Interleukin enhancer-binding factor 3 (Fragment) OS=Mus musculus OX=10090 GN=Ilf3 PE=1 SV=1
+tr|D3YZM7|D3YZM7_MOUSE         -          Nup153               PF08604.7        1.2    9.4   0.4       1.4    9.2   0.4   1.0   1   0   0   1   1   1   0 Transcription factor EB (Fragment) OS=Mus musculus OX=10090 GN=Tfeb PE=1 SV=1
+tr|F6Z700|F6Z700_MOUSE         -          Nup153               PF08604.7        1.3    9.4   1.1       2.3    8.5   1.1   1.4   1   0   0   1   1   1   0 Striatin (Fragment) OS=Mus musculus OX=10090 GN=Strn PE=1 SV=1
+tr|Q14C45|Q14C45_MOUSE         -          Nup153               PF08604.7        2.2    8.6   0.0       2.7    8.3   0.0   1.1   1   0   0   1   1   1   0 Protease-associated domain-containing protein 1 OS=Mus musculus OX=10090 GN=Pradc1 PE=2 SV=1
+tr|Z4YMN3|Z4YMN3_MOUSE         -          Nup153               PF08604.7        2.8    8.2   0.0       3.7    7.8   0.0   1.2   1   0   0   1   1   1   0 Phosphoinositide-3-kinase-interacting protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Pik3ip1 PE=1 SV=1
+tr|B1ATS7|B1ATS7_MOUSE         -          Nup153               PF08604.7        3.2    8.1   1.4       3.1    8.1   1.4   1.1   1   0   0   1   1   1   0 Growth factor receptor-bound protein 10 (Fragment) OS=Mus musculus OX=10090 GN=Grb10 PE=1 SV=1
+sp|Q9CWE0|MFR1L_MOUSE          -          Nup153               PF08604.7        3.5    7.9   0.4       4.4    7.6   0.4   1.1   1   0   0   1   1   1   0 Mitochondrial fission regulator 1-like OS=Mus musculus OX=10090 GN=Mtfr1l PE=1 SV=1
+tr|F6S6G6|F6S6G6_MOUSE         -          Nup153               PF08604.7        3.6    7.9   3.1       4.3    7.6   3.1   1.1   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase NSD2 (Fragment) OS=Mus musculus OX=10090 GN=Nsd2 PE=1 SV=1
+tr|D3YW54|D3YW54_MOUSE         -          Nup153               PF08604.7        3.7    7.9   0.7       4.4    7.6   0.7   1.1   1   0   0   1   1   1   0 Mitochondrial fission regulator 1-like (Fragment) OS=Mus musculus OX=10090 GN=Mtfr1l PE=1 SV=1
+tr|A2A9C6|A2A9C6_MOUSE         -          Nup153               PF08604.7        3.8    7.8   0.1       3.7    7.8   0.1   1.0   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 8 (Fragment) OS=Mus musculus OX=10090 GN=Med8 PE=1 SV=1
+tr|A0A1L1ST48|A0A1L1ST48_MOUSE -          Nup153               PF08604.7        4.2    7.7   0.4         5    7.4   0.4   1.3   1   1   0   1   1   1   0 Interleukin enhancer-binding factor 3 (Fragment) OS=Mus musculus OX=10090 GN=Ilf3 PE=1 SV=1
+sp|Q7TMJ8|P3IP1_MOUSE          -          Nup153               PF08604.7          5    7.4   0.0         8    6.7   0.0   1.2   1   0   0   1   1   1   0 Phosphoinositide-3-kinase-interacting protein 1 OS=Mus musculus OX=10090 GN=Pik3ip1 PE=2 SV=1
+sp|Q9D9N8|PADC1_MOUSE          -          Nup153               PF08604.7        5.2    7.4   0.1       7.1    6.9   0.1   1.1   1   0   0   1   1   1   0 Protease-associated domain-containing protein 1 OS=Mus musculus OX=10090 GN=Pradc1 PE=1 SV=1
+tr|D3Z0X8|D3Z0X8_MOUSE         -          Nup153               PF08604.7        5.6    7.2   0.3       6.5    7.0   0.3   1.1   1   0   0   1   1   1   0 Mitochondrial fission regulator 1-like (Fragment) OS=Mus musculus OX=10090 GN=Mtfr1l PE=1 SV=1
+tr|A2APR8|A2APR8_MOUSE         -          Nup153               PF08604.7        5.8    7.2   2.5        10    6.4   2.5   1.3   1   0   0   1   1   1   0 Mitotic checkpoint serine/threonine-protein kinase BUB1 OS=Mus musculus OX=10090 GN=Bub1 PE=1 SV=1
+sp|O08901|BUB1_MOUSE           -          Nup153               PF08604.7          6    7.2   2.7        11    6.3   2.7   1.3   1   0   0   1   1   1   0 Mitotic checkpoint serine/threonine-protein kinase BUB1 OS=Mus musculus OX=10090 GN=Bub1 PE=1 SV=1
+tr|A0A0A0MQH5|A0A0A0MQH5_MOUSE -          Nup153               PF08604.7        6.8    7.0   0.2       9.6    6.5   0.2   1.2   1   0   0   1   1   1   0 Microtubule-actin cross-linking factor 1 (Fragment) OS=Mus musculus OX=10090 GN=Macf1 PE=1 SV=6
+tr|Q9D4D2|Q9D4D2_MOUSE         -          Nup153               PF08604.7        6.8    7.0   4.4       8.7    6.6   4.4   1.1   1   0   0   1   1   1   0 4933402E13Rik protein OS=Mus musculus OX=10090 GN=4933402E13Rik PE=2 SV=1
+tr|D3YYQ7|D3YYQ7_MOUSE         -          Nup153               PF08604.7        6.9    7.0   0.0       7.9    6.8   0.0   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase pellino homolog 3 (Fragment) OS=Mus musculus OX=10090 GN=Peli3 PE=4 SV=1
+tr|H3BK82|H3BK82_MOUSE         -          Nup153               PF08604.7        7.9    6.8   1.7       9.3    6.5   1.7   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase TRAF7 (Fragment) OS=Mus musculus OX=10090 GN=Traf7 PE=1 SV=8
+tr|A2A9C8|A2A9C8_MOUSE         -          Nup153               PF08604.7        8.2    6.7   0.0       9.5    6.5   0.0   1.1   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 8 OS=Mus musculus OX=10090 GN=Med8 PE=1 SV=1
+tr|Q45VK5|Q45VK5_MOUSE         -          Nup153               PF08604.7        8.6    6.6   0.0        13    6.1   0.0   1.3   1   0   0   1   1   1   0 Interleukin enhancer-binding factor 3 OS=Mus musculus OX=10090 GN=Ilf3 PE=1 SV=1
+tr|B1ATS8|B1ATS8_MOUSE         -          Nup153               PF08604.7        8.8    6.6   0.6       8.7    6.6   0.6   1.0   1   0   0   1   1   1   0 Growth factor receptor-bound protein 10 (Fragment) OS=Mus musculus OX=10090 GN=Grb10 PE=1 SV=8
+tr|E0CY82|E0CY82_MOUSE         -          Nup153               PF08604.7        8.9    6.6   0.0       8.8    6.6   0.0   1.0   1   0   0   1   1   1   0 Programmed cell death protein 10 (Fragment) OS=Mus musculus OX=10090 GN=Pdcd10 PE=1 SV=1
+tr|A0A0N4SUI4|A0A0N4SUI4_MOUSE -          Nup153               PF08604.7        9.4    6.5   0.0        12    6.1   0.0   1.1   1   0   0   1   1   1   0 Late secretory pathway protein AVL9 homolog OS=Mus musculus OX=10090 GN=Avl9 PE=1 SV=1
+tr|A0A140LI76|A0A140LI76_MOUSE -          Nup153               PF08604.7        9.7    6.5   0.0        10    6.4   0.0   1.1   1   0   0   1   1   1   0 L-seryl-tRNA(Sec) kinase (Fragment) OS=Mus musculus OX=10090 GN=Pstk PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 06:00:48 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9QGM4|E9QGM4_DANRE         -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|A0A0R4IAQ8|A0A0R4IAQ8_DANRE -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=2
+tr|E7F981|E7F981_DANRE         -          Nup96                PF12110.5    1.5e-82  278.4   6.4   2.1e-82  277.9   6.4   1.2   1   0   0   1   1   1   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=3
+tr|A0A0R4ICC0|A0A0R4ICC0_DANRE -          Nup96                PF12110.5        1.9    9.0   0.0       2.7    8.4   0.0   1.2   1   0   0   1   1   1   0 Golgi-associated kinase 1A OS=Danio rerio OX=7955 GN=gask1a PE=4 SV=2
+tr|E7F233|E7F233_DANRE         -          Nup96                PF12110.5        1.9    8.9   0.0       2.7    8.4   0.0   1.2   1   0   0   1   1   1   0 Golgi-associated kinase 1A OS=Danio rerio OX=7955 GN=gask1a PE=4 SV=1
+tr|Q6TGV5|Q6TGV5_DANRE         -          Nup96                PF12110.5        1.9    8.9   0.0         3    8.3   0.0   1.4   1   0   0   1   1   1   0 Gankyrin OS=Danio rerio OX=7955 GN=psmd10 PE=1 SV=1
+tr|I3ITH7|I3ITH7_DANRE         -          Nup96                PF12110.5        8.5    6.8   0.0       7.9    6.9   0.0   1.1   1   0   0   1   1   1   0 Artemin a (Fragment) OS=Danio rerio OX=7955 GN=artna PE=3 SV=1
+sp|A3KNK7|MED11_DANRE          -          Nup96                PF12110.5        9.5    6.6   0.1        11    6.5   0.1   1.1   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 11 OS=Danio rerio OX=7955 GN=med11 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:12:03 2022
+# [ok]

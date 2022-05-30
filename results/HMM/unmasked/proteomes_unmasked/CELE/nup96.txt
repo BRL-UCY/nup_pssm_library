@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G5EEH9|NUP98_CAEEL  -          Nup96                PF12110.5    2.4e-51  175.2   3.1   5.1e-51  174.1   3.1   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Caenorhabditis elegans OX=6239 GN=npp-10 PE=1 SV=1
+tr|Q9GZF8|Q9GZF8_CAEEL -          Nup96                PF12110.5       0.07   12.8   0.1     0.079   12.7   0.1   1.1   1   0   0   1   1   1   0 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-4 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup96.txt --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:06 2022
+# [ok]

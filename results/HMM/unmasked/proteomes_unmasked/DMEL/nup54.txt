@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V6B9|NUP54_DROME          -          Nup54                PF13874.3    4.6e-42  143.7   0.4   4.6e-42  143.7   0.4   2.0   2   0   0   2   2   2   1 Probable nucleoporin Nup54 OS=Drosophila melanogaster OX=7227 GN=Nup54 PE=2 SV=1
+tr|M9NEB4|M9NEB4_DROME         -          Nup54                PF13874.3    0.00011   22.6   0.4   0.00014   22.3   0.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG43255 PE=4 SV=1
+tr|Q8INE8|Q8INE8_DROME         -          Nup54                PF13874.3      0.017   15.5   0.5     0.017   15.5   0.5   1.8   2   0   0   2   2   2   0 Arginine methyltransferase 3, isoform B OS=Drosophila melanogaster OX=7227 GN=Art3 PE=1 SV=1
+tr|Q9VQS1|Q9VQS1_DROME         -          Nup54                PF13874.3      0.018   15.4  10.7     0.018   15.4  10.7   4.4   2   1   1   4   4   4   0 FI08260p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8851 PE=2 SV=2
+tr|Q9VFB3|Q9VFB3_DROME         -          Nup54                PF13874.3      0.019   15.3   0.5     0.019   15.3   0.5   1.8   2   0   0   2   2   2   0 Arginine methyltransferase 3, isoform A OS=Drosophila melanogaster OX=7227 GN=Art3 PE=1 SV=1
+tr|E1JJM7|E1JJM7_DROME         -          Nup54                PF13874.3        2.2    8.6   7.8      0.72   10.2   2.1   2.7   2   0   0   2   2   2   0 LIM domain kinase 1, isoform E OS=Drosophila melanogaster OX=7227 GN=LIMK1 PE=4 SV=1
+sp|Q8IR79|LIMK1_DROME          -          Nup54                PF13874.3        2.4    8.6   7.8      0.74   10.2   2.1   2.6   2   0   0   2   2   2   0 LIM domain kinase 1 OS=Drosophila melanogaster OX=7227 GN=LIMK1 PE=1 SV=1
+tr|Q8T414|Q8T414_DROME         -          Nup54                PF13874.3        3.3    8.1   6.0      0.77   10.2   0.3   2.6   2   1   1   3   3   3   0 AT22731p OS=Drosophila melanogaster OX=7227 GN=SIP3 PE=2 SV=1
+tr|A0A0B4K6Y8|A0A0B4K6Y8_DROME -          Nup54                PF13874.3        4.3    7.7  13.3        11    6.5  13.3   1.6   1   1   0   1   1   1   0 Tropomyosin 1, isoform P OS=Drosophila melanogaster OX=7227 GN=Tm1 PE=1 SV=1
+tr|A0A0B4JCZ4|A0A0B4JCZ4_DROME -          Nup54                PF13874.3        5.2    7.4  18.4        11    6.4   0.2   3.4   1   1   2   3   3   3   0 Syntaxin 1A, isoform B OS=Drosophila melanogaster OX=7227 GN=Syx1A PE=3 SV=1
+sp|Q24547|STX1A_DROME          -          Nup54                PF13874.3        6.6    7.1  18.8        10    6.5   0.2   3.4   1   1   2   3   3   3   0 Syntaxin-1A OS=Drosophila melanogaster OX=7227 GN=Syx1A PE=1 SV=1
+tr|A0A126GV04|A0A126GV04_DROME -          Nup54                PF13874.3        6.6    7.1  18.8        10    6.5   0.2   3.4   1   1   2   3   3   3   0 Syntaxin 1A, isoform C OS=Drosophila melanogaster OX=7227 GN=Syx1A PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:13 2022
+# [ok]

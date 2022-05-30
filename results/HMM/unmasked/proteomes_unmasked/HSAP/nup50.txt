@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0QY21|B0QY21_HUMAN -          NUP50                PF08911.8    8.5e-20   73.1   5.0   3.2e-19   71.3   5.0   2.0   1   1   0   1   1   1   1 Nuclear pore complex protein Nup50 (Fragment) OS=Homo sapiens OX=9606 GN=NUP50 PE=1 SV=1
+sp|Q9UKX7|NUP50_HUMAN  -          NUP50                PF08911.8    4.8e-19   70.7   3.1   4.8e-19   70.7   3.1   2.6   2   1   0   2   2   2   1 Nuclear pore complex protein Nup50 OS=Homo sapiens OX=9606 GN=NUP50 PE=1 SV=2
+tr|B1AHA5|B1AHA5_HUMAN -          NUP50                PF08911.8    7.8e-19   70.0   0.1   8.1e-19   70.0   0.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 (Fragment) OS=Homo sapiens OX=9606 GN=NUP50 PE=1 SV=1
+tr|X6RKQ2|X6RKQ2_HUMAN -          NUP50                PF08911.8    9.9e-17   63.3   3.3   1.1e-16   63.2   3.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 (Fragment) OS=Homo sapiens OX=9606 GN=NUP50 PE=1 SV=1
+tr|F2Z3L9|F2Z3L9_HUMAN -          NUP50                PF08911.8      6e-06   28.8   3.3   6.7e-06   28.6   3.3   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 OS=Homo sapiens OX=9606 GN=NUP50 PE=4 SV=1
+tr|H7C5B9|H7C5B9_HUMAN -          NUP50                PF08911.8       0.31   13.6   0.8      0.31   13.6   0.8   2.2   3   0   0   3   3   3   0 Chromosome 17 open reading frame 97 (Fragment) OS=Homo sapiens OX=9606 GN=C17orf97 PE=1 SV=1
+sp|Q8IYS4|CP071_HUMAN  -          NUP50                PF08911.8        4.2   10.0   3.8       3.8   10.2   0.2   2.6   2   0   0   2   2   2   0 Uncharacterized protein C16orf71 OS=Homo sapiens OX=9606 GN=C16orf71 PE=2 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:12 2022
+# [ok]

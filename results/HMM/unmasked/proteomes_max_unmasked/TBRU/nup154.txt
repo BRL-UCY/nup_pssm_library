@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q4GYL7|Q4GYL7_TRYB2 -          Nucleoporin_C        PF03177.11      0.09   10.4   8.1      0.14    9.8   8.1   1.2   1   0   0   1   1   1   0 WW domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.3560 PE=4 SV=1
+tr|Q383K5|Q383K5_TRYB2 -          Nucleoporin_C        PF03177.11      0.37    8.4   0.5      0.46    8.1   0.5   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 28 homolog OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.2510 PE=3 SV=1
+tr|Q57TR3|Q57TR3_TRYB2 -          Nucleoporin_C        PF03177.11      0.57    7.8   1.9       1.1    6.8   1.9   1.4   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.490 PE=4 SV=1
+tr|Q584X8|Q584X8_TRYB2 -          Nucleoporin_C        PF03177.11      0.87    7.2   0.0       1.3    6.7   0.0   1.2   1   0   0   1   1   1   0 AAA domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.3350 PE=4 SV=1
+tr|Q57YW9|Q57YW9_TRYB2 -          Nucleoporin_C        PF03177.11       1.1    6.9   0.8       1.1    6.8   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.3440 PE=4 SV=1
+tr|Q38EB0|Q38EB0_TRYB2 -          Nucleoporin_C        PF03177.11       1.6    6.3   0.6       1.7    6.2   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.0485 PE=4 SV=1
+tr|Q57ZT3|Q57ZT3_TRYB2 -          Nucleoporin_C        PF03177.11       3.2    5.3   0.1       4.7    4.8   0.1   1.1   1   0   0   1   1   1   0 Translation initiation factor, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.2570 PE=4 SV=1
+tr|Q381H8|Q381H8_TRYB2 -          Nucleoporin_C        PF03177.11       3.3    5.3   2.4       9.2    3.8   0.1   2.6   2   2   0   3   3   3   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7740 PE=4 SV=1
+tr|Q38EG2|Q38EG2_TRYB2 -          Nucleoporin_C        PF03177.11       4.1    5.0   0.3       5.6    4.5   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.v1.0500 PE=4 SV=1
+tr|Q388E7|Q388E7_TRYB2 -          Nucleoporin_C        PF03177.11       4.2    4.9   0.2         6    4.4   0.2   1.2   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.2110 PE=4 SV=1
+tr|Q580F1|Q580F1_TRYB2 -          Nucleoporin_C        PF03177.11       5.3    4.6   0.0       8.2    4.0   0.0   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.1230 PE=4 SV=1
+tr|Q384B7|Q384B7_TRYB2 -          Nucleoporin_C        PF03177.11       5.4    4.6   0.2        14    3.2   0.0   1.6   2   0   0   2   2   2   0 Kinesin-like protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.0850 PE=3 SV=1
+tr|Q57YG5|Q57YG5_TRYB2 -          Nucleoporin_C        PF03177.11         7    4.2   0.0        11    3.5   0.0   1.2   1   0   0   1   1   1   0 Cation-transporting ATPase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.650 PE=3 SV=1
+tr|Q57Y79|Q57Y79_TRYB2 -          Nucleoporin_C        PF03177.11         7    4.2   0.3        16    3.0   0.0   1.5   1   1   1   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.2690 PE=4 SV=1
+tr|Q384Y3|Q384Y3_TRYB2 -          Nucleoporin_C        PF03177.11       7.5    4.1   0.1        12    3.5   0.1   1.2   1   0   0   1   1   1   0 14-3-3-like protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.4700 PE=3 SV=1
+tr|Q580R8|Q580R8_TRYB2 -          Nucleoporin_C        PF03177.11       8.2    4.0   0.6       9.9    3.7   0.6   1.2   1   0   0   1   1   1   0 Syntaxin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.5570 PE=4 SV=1
+tr|Q585C7|Q585C7_TRYB2 -          Nucleoporin_C        PF03177.11       8.8    3.9   0.0        20    2.7   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.1200 PE=4 SV=1
+tr|Q382I0|Q382I0_TRYB2 -          Nucleoporin_C        PF03177.11         9    3.8   1.6       8.6    3.9   1.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.5170 PE=4 SV=1
+tr|Q38A35|Q38A35_TRYB2 -          Nucleoporin_C        PF03177.11       9.7    3.7   0.2        14    3.2   0.2   1.3   1   1   0   1   1   1   0 Branch point binding protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.1000 PE=4 SV=1
+tr|Q57ZW4|Q57ZW4_TRYB2 -          Nucleoporin_C        PF03177.11       9.8    3.7   0.0        15    3.1   0.0   1.3   1   1   0   1   1   1   0 Chaperone protein DNAJ, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.2880 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes/TBRU/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 13:11:49 2022
+# [ok]

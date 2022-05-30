@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8I4N3|NDC1_CAEEL           -          Ndc1_Nup             PF09531.7    1.8e-30  106.9   0.3   2.6e-17   63.4   0.1   2.1   2   0   0   2   2   2   2 Nucleoporin ndc-1 OS=Caenorhabditis elegans OX=6239 GN=npp-22 PE=3 SV=1
+tr|A0A2K5ATK0|A0A2K5ATK0_CAEEL -          Ndc1_Nup             PF09531.7        2.9    7.1   1.5       3.1    7.0   1.5   1.0   1   0   0   1   1   1   0 Vesicle transport protein OS=Caenorhabditis elegans OX=6239 GN=sftd-3 PE=3 SV=1
+tr|K8FE07|K8FE07_CAEEL         -          Ndc1_Nup             PF09531.7        3.2    7.0   0.0       3.8    6.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W02B8.1 PE=4 SV=1
+tr|O17872|O17872_CAEEL         -          Ndc1_Nup             PF09531.7        5.6    6.2   0.5       7.5    5.8   0.5   1.1   1   0   0   1   1   1   0 Seven TM Receptor OS=Caenorhabditis elegans OX=6239 GN=str-103 PE=4 SV=1
+tr|Q20533|Q20533_CAEEL         -          Ndc1_Nup             PF09531.7        6.4    6.0   0.0       8.2    5.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F47C12.7 PE=4 SV=2
+tr|G5EBT4|G5EBT4_CAEEL         -          Ndc1_Nup             PF09531.7        6.8    5.9   0.4       9.7    5.4   0.4   1.1   1   0   0   1   1   1   0 Serpentine receptor class gamma OS=Caenorhabditis elegans OX=6239 GN=srg-51 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:51 2022
+# [ok]

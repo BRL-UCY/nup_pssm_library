@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57UD0|Q57UD0_TRYB2 -          Nsp1_C               PF05064.10     2e-29  100.7 249.4    0.0028   16.4   1.0  29.7   2   2  27  29  29  29  26 Kinesin K39, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.3830 PE=3 SV=1
+tr|Q381M9|Q381M9_TRYB2 -          Nsp1_C               PF05064.10   3.1e-06   25.9   0.0   5.9e-06   25.0   0.0   1.4   1   0   0   1   1   1   1 Nsp1_C domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7200 PE=4 SV=1
+tr|Q387H0|Q387H0_TRYB2 -          Nsp1_C               PF05064.10    0.0047   15.7   2.9      0.11   11.3   0.9   2.1   2   0   0   2   2   2   2 Prefoldin subunit 4 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0335 PE=3 SV=1
+tr|Q580L7|Q580L7_TRYB2 -          Nsp1_C               PF05064.10       0.1   11.4   3.3      0.13   11.0   0.6   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.4250 PE=4 SV=1
+tr|Q385L7|Q385L7_TRYB2 -          Nsp1_C               PF05064.10      0.48    9.2   8.9       1.4    7.7   8.6   2.2   1   1   0   1   1   1   0 Dynein arm light chain, axonemal, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.3200 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes/TBRU/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:21 2022
+# [ok]

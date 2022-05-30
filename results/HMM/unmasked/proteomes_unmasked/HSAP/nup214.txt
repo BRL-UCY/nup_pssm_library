@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P35658|NU214_HUMAN  -          NUP214               PF16755.2      0.072   14.3   0.1      0.31   12.3   0.0   1.9   2   0   0   2   2   2   0 Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=2
+tr|K7EN56|K7EN56_HUMAN -          NUP214               PF16755.2       0.68   11.1   2.4      0.85   10.8   2.4   1.2   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 159 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC159 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup214.txt --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:07 2022
+# [ok]

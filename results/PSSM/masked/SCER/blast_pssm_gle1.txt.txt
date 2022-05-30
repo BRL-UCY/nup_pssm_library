@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9V4W1|GLE1_DROME Nucleoporin GLE1 OS=Drosophila melanogaster GN=GLE1 PE=2 SV=1
+# Database: DB_masked/SCER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+sp|Q9V4W1|GLE1_DROME	sp|Q12315|GLE1_YEAST	1.87e-58	204	353	660	234	526
+sp|Q9V4W1|GLE1_DROME	sp|Q03496|TR732_YEAST	0.48	31.7	593	662	100	158
+# BLAST processed 1 queries

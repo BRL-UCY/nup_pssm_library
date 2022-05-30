@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9BTX1|NDC1_HUMAN           -          Ndc1_Nup             PF09531.7    4.4e-98  331.6   5.8   5.2e-98  331.4   5.8   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Homo sapiens OX=9606 GN=NDC1 PE=1 SV=2
+tr|C9J998|C9J998_HUMAN         -          Ndc1_Nup             PF09531.7          2    9.1   0.0       2.1    9.1   0.0   1.0   1   0   0   1   1   1   0 Transmembrane protein 106B (Fragment) OS=Homo sapiens OX=9606 GN=TMEM106B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:34:28 2022
+# [ok]

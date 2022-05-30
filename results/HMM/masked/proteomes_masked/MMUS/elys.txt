@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CJF7|ELYS_MOUSE   -          ELYS                 PF13934.3    1.4e-49  170.6   0.3   2.1e-49  170.1   0.3   1.2   1   0   0   1   1   1   1 Protein ELYS OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6SJR1|F6SJR1_MOUSE -          ELYS                 PF13934.3      0.031   15.9   0.2     0.044   15.3   0.2   1.2   1   0   0   1   1   1   0 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/elys.txt --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:53 2022
+# [ok]

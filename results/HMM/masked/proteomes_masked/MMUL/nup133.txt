@@ -1,0 +1,59 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YTK1|F6YTK1_MACMU         -          Nucleoporin_N        PF08801.8    2.9e-91  307.7   0.0   3.5e-91  307.5   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=2
+tr|A0A1D5QL31|A0A1D5QL31_MACMU -          Nucleoporin_N        PF08801.8    3.4e-91  307.5   0.0   4.2e-91  307.2   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=1
+tr|F6UZU8|F6UZU8_MACMU         -          Nucleoporin_N        PF08801.8      1e-05   25.9   0.0     0.028   14.5   0.0   4.0   4   0   0   4   4   4   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EML6 PE=4 SV=2
+tr|F6SUS6|F6SUS6_MACMU         -          Nucleoporin_N        PF08801.8    0.00024   21.3   3.5         1    9.4   0.1   4.4   4   2   1   5   5   5   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR64 PE=4 SV=2
+tr|F6Q7T2|F6Q7T2_MACMU         -          Nucleoporin_N        PF08801.8    0.00027   21.2   0.0      0.37   10.8   0.0   3.5   4   0   0   4   4   4   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EML5 PE=4 SV=2
+tr|F6RYA9|F6RYA9_MACMU         -          Nucleoporin_N        PF08801.8    0.00027   21.1   0.0      0.38   10.8   0.0   3.5   4   0   0   4   4   4   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EML5 PE=4 SV=2
+tr|A0A1D5QH28|A0A1D5QH28_MACMU -          Nucleoporin_N        PF08801.8    0.00035   20.8   0.0       1.9    8.5   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=STRN PE=4 SV=1
+tr|F7A9G1|F7A9G1_MACMU         -          Nucleoporin_N        PF08801.8     0.0004   20.6   0.3       2.7    8.0   0.0   3.6   3   1   1   4   4   4   1 NACHT and WD repeat domain containing 1 OS=Macaca mulatta OX=9544 GN=NWD1 PE=4 SV=2
+tr|F6SUT4|F6SUT4_MACMU         -          Nucleoporin_N        PF08801.8    0.00047   20.4   3.8       1.3    9.0   0.1   4.1   4   1   0   4   4   4   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR64 PE=4 SV=2
+tr|F7C5P0|F7C5P0_MACMU         -          Nucleoporin_N        PF08801.8    0.00055   20.1   0.0       2.2    8.3   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=STRN PE=4 SV=2
+tr|F7HCB2|F7HCB2_MACMU         -          Nucleoporin_N        PF08801.8    0.00071   19.8   0.0       2.4    8.1   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=STRN PE=4 SV=2
+tr|F6YB92|F6YB92_MACMU         -          Nucleoporin_N        PF08801.8    0.00076   19.7   0.0       2.5    8.1   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=STRN PE=4 SV=2
+tr|F6YB73|F6YB73_MACMU         -          Nucleoporin_N        PF08801.8    0.00079   19.6   0.0       2.5    8.1   0.0   3.1   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=STRN PE=4 SV=2
+tr|F7AE78|F7AE78_MACMU         -          Nucleoporin_N        PF08801.8     0.0027   17.8   0.3       1.1    9.3   0.0   3.3   2   1   1   3   3   3   1 Platelet-activating factor acetylhydrolase IB subunit alpha OS=Macaca mulatta OX=9544 GN=PAFAH1B1 PE=2 SV=1
+tr|F7FVG4|F7FVG4_MACMU         -          Nucleoporin_N        PF08801.8     0.0063   16.6   1.0       2.1    8.3   0.0   3.2   1   1   3   4   4   4   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FBXW11 PE=4 SV=2
+tr|F7FVF5|F7FVF5_MACMU         -          Nucleoporin_N        PF08801.8     0.0064   16.6   1.0       2.1    8.3   0.0   3.2   1   1   3   4   4   4   1 F-box/WD repeat-containing protein 11 isoform A OS=Macaca mulatta OX=9544 GN=FBXW11 PE=2 SV=1
+tr|F6R8Q0|F6R8Q0_MACMU         -          Nucleoporin_N        PF08801.8     0.0072   16.5   0.1       2.4    8.1   0.0   3.8   3   2   1   4   4   4   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDFY1 PE=4 SV=2
+tr|F6UZN9|F6UZN9_MACMU         -          Nucleoporin_N        PF08801.8      0.019   15.1   0.0         2    8.4   0.0   2.5   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=PLRG1 PE=4 SV=2
+tr|H9ETC2|H9ETC2_MACMU         -          Nucleoporin_N        PF08801.8       0.02   15.0   0.0       2.1    8.4   0.0   2.4   2   0   0   2   2   2   0 Pleiotropic regulator 1 isoform 1 OS=Macaca mulatta OX=9544 GN=PLRG1 PE=2 SV=1
+tr|A0A1D5QLM4|A0A1D5QLM4_MACMU -          Nucleoporin_N        PF08801.8      0.037   14.1   0.2        39    4.1   0.1   3.8   4   0   0   4   4   4   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EFCAB8 PE=4 SV=1
+tr|F7HR17|F7HR17_MACMU         -          Nucleoporin_N        PF08801.8      0.068   13.2   0.0       7.4    6.5   0.0   2.6   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=TBL3 PE=4 SV=2
+tr|F7HQY3|F7HQY3_MACMU         -          Nucleoporin_N        PF08801.8      0.071   13.2   0.0       7.6    6.5   0.0   2.6   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=TBL3 PE=4 SV=2
+tr|F6WR72|F6WR72_MACMU         -          Nucleoporin_N        PF08801.8      0.078   13.1   0.2        41    4.1   0.0   3.5   4   0   0   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR3 PE=4 SV=2
+tr|F6WR92|F6WR92_MACMU         -          Nucleoporin_N        PF08801.8      0.082   13.0   0.2        41    4.1   0.0   3.5   4   0   0   4   4   4   0 WD repeat-containing protein 3 OS=Macaca mulatta OX=9544 GN=WDR3 PE=2 SV=1
+tr|A0A1D5QAP3|A0A1D5QAP3_MACMU -          Nucleoporin_N        PF08801.8      0.088   12.9   0.0      0.22   11.6   0.0   1.5   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR27 PE=4 SV=1
+tr|A0A1D5QQW0|A0A1D5QQW0_MACMU -          Nucleoporin_N        PF08801.8        0.1   12.7   0.9        31    4.5   0.1   3.4   1   1   1   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BTRC PE=4 SV=1
+tr|A0A1D5QI08|A0A1D5QI08_MACMU -          Nucleoporin_N        PF08801.8       0.11   12.6   0.0      0.28   11.2   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR27 PE=4 SV=1
+tr|A0A1D5RDY3|A0A1D5RDY3_MACMU -          Nucleoporin_N        PF08801.8       0.11   12.5   1.0        28    4.7   0.1   3.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BTRC PE=4 SV=1
+tr|F7HF78|F7HF78_MACMU         -          Nucleoporin_N        PF08801.8       0.12   12.4   0.9        33    4.4   0.0   3.3   1   1   2   4   4   4   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BTRC PE=4 SV=2
+tr|A0A1D5Q9C8|A0A1D5Q9C8_MACMU -          Nucleoporin_N        PF08801.8       0.13   12.4   0.0      0.13   12.4   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR48 PE=4 SV=1
+tr|F7DQ60|F7DQ60_MACMU         -          Nucleoporin_N        PF08801.8       0.13   12.3   0.3       1.4    8.9   0.1   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR64 PE=4 SV=2
+tr|F6WMT3|F6WMT3_MACMU         -          Nucleoporin_N        PF08801.8       0.15   12.1   1.8       3.2    7.7   0.2   2.8   2   1   1   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR88 PE=4 SV=2
+tr|A0A1D5RIJ8|A0A1D5RIJ8_MACMU -          Nucleoporin_N        PF08801.8       0.18   11.9   0.8        40    4.1   0.1   3.2   1   1   2   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BTRC PE=4 SV=1
+tr|F6WMU4|F6WMU4_MACMU         -          Nucleoporin_N        PF08801.8       0.19   11.8   1.6       4.6    7.2   0.1   2.8   2   1   0   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR88 PE=4 SV=2
+tr|F6XAK6|F6XAK6_MACMU         -          Nucleoporin_N        PF08801.8        0.2   11.7   3.0        42    4.0   0.1   4.6   3   2   1   4   4   4   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CFAP52 PE=4 SV=2
+tr|F7GZ51|F7GZ51_MACMU         -          Nucleoporin_N        PF08801.8       0.22   11.6   0.2        93    2.9   0.0   3.4   1   1   0   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR86 PE=4 SV=2
+tr|A0A1D5RIX2|A0A1D5RIX2_MACMU -          Nucleoporin_N        PF08801.8       0.25   11.4   0.0      0.46   10.5   0.0   1.6   1   1   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR61 PE=4 SV=1
+tr|A0A1D5R647|A0A1D5R647_MACMU -          Nucleoporin_N        PF08801.8       0.27   11.3   0.0      0.56   10.2   0.0   1.6   1   1   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR61 PE=4 SV=1
+tr|F7DDS1|F7DDS1_MACMU         -          Nucleoporin_N        PF08801.8        0.3   11.1   0.0       1.4    8.9   0.0   1.9   2   1   0   2   2   2   0 WD repeat-containing protein 61 OS=Macaca mulatta OX=9544 GN=WDR61 PE=2 SV=2
+tr|F7DDT4|F7DDT4_MACMU         -          Nucleoporin_N        PF08801.8        0.3   11.1   0.0       1.2    9.1   0.0   1.9   2   1   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR61 PE=4 SV=2
+tr|A0A1D5R806|A0A1D5R806_MACMU -          Nucleoporin_N        PF08801.8        0.3   11.1   0.0      0.63   10.1   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC703425 PE=4 SV=1
+tr|A0A1D5RBX8|A0A1D5RBX8_MACMU -          Nucleoporin_N        PF08801.8        0.3   11.1   0.0         3    7.8   0.0   1.9   1   1   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=KATNB1 PE=4 SV=1
+tr|A0A1D5Q206|A0A1D5Q206_MACMU -          Nucleoporin_N        PF08801.8        0.3   11.1   0.0       1.4    8.9   0.0   1.9   2   1   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR61 PE=4 SV=1
+tr|A0A1D5QIP7|A0A1D5QIP7_MACMU -          Nucleoporin_N        PF08801.8       0.39   10.8   0.0       1.4    8.9   0.0   1.7   2   1   0   2   2   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR61 PE=4 SV=1
+tr|F6XXV9|F6XXV9_MACMU         -          Nucleoporin_N        PF08801.8       0.52   10.3   0.0       3.3    7.7   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR90 PE=4 SV=2
+tr|F6XAL8|F6XAL8_MACMU         -          Nucleoporin_N        PF08801.8        1.1    9.3   7.0        46    3.9   0.1   5.3   4   2   1   5   5   5   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CFAP52 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:56 2022
+# [ok]

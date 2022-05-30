@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q99567|NUP88_HUMAN          -          Nup88                PF10168.6          0 1028.0   0.0         0 1027.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=2
+tr|J3KMX1|J3KMX1_HUMAN         -          Nup88                PF10168.6   5.2e-294  978.6  11.8    2e-293  976.7  11.8   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L245|I3L245_HUMAN         -          Nup88                PF10168.6    6.7e-64  218.0   0.0   7.4e-64  217.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L4K7|I3L4K7_HUMAN         -          Nup88                PF10168.6    1.5e-44  154.1   9.0   1.7e-44  153.9   9.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L2W3|I3L2W3_HUMAN         -          Nup88                PF10168.6    3.8e-09   37.0   0.0   4.5e-09   36.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|C9J363|C9J363_HUMAN         -          Nup88                PF10168.6      0.081   12.8   1.0     0.083   12.7   1.0   1.1   1   0   0   1   1   1   0 Programmed cell death 10, isoform CRA_b OS=Homo sapiens OX=9606 GN=PDCD10 PE=1 SV=1
+tr|A0A096LPH9|A0A096LPH9_HUMAN -          Nup88                PF10168.6       0.11   12.3  13.1      0.12   12.2  13.1   1.1   1   0   0   1   1   1   0 Little elongation complex subunit 1 (Fragment) OS=Homo sapiens OX=9606 GN=ICE1 PE=1 SV=6
+sp|O60812|HNRC1_HUMAN          -          Nup88                PF10168.6       0.58    9.9   6.4      0.81    9.5   6.4   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoprotein C-like 1 OS=Homo sapiens OX=9606 GN=HNRNPCL1 PE=1 SV=1
+tr|H0YJC6|H0YJC6_HUMAN         -          Nup88                PF10168.6       0.97    9.2   4.8         1    9.1   4.8   1.0   1   0   0   1   1   1   0 Lymphoid-restricted membrane protein (Fragment) OS=Homo sapiens OX=9606 GN=LRMP PE=1 SV=1
+tr|G3V2D6|G3V2D6_HUMAN         -          Nup88                PF10168.6          1    9.1   7.8       1.4    8.6   7.8   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 (Fragment) OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=1
+tr|A0A0G2JNQ3|A0A0G2JNQ3_HUMAN -          Nup88                PF10168.6        1.1    9.0   7.4       1.6    8.5   7.4   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoprotein C-like 2 OS=Homo sapiens OX=9606 GN=HNRNPCL2 PE=4 SV=1
+sp|B2RXH8|HNRC2_HUMAN          -          Nup88                PF10168.6        1.1    9.0   7.4       1.6    8.5   7.4   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoprotein C-like 2 OS=Homo sapiens OX=9606 GN=HNRNPCL2 PE=1 SV=1
+tr|H0YI76|H0YI76_HUMAN         -          Nup88                PF10168.6        1.2    9.0   8.1       1.3    8.7   8.1   1.1   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 5 (Fragment) OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=1
+tr|G3V5V7|G3V5V7_HUMAN         -          Nup88                PF10168.6        1.3    8.8   8.5       1.6    8.4   8.5   1.0   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 (Fragment) OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=1
+tr|A0A087WTW2|A0A087WTW2_HUMAN -          Nup88                PF10168.6        1.3    8.7  20.0       1.9    8.2  20.0   1.2   1   0   0   1   1   1   0 Golgin subfamily A member 4 OS=Homo sapiens OX=9606 GN=GOLGA4 PE=1 SV=1
+tr|G3V4W0|G3V4W0_HUMAN         -          Nup88                PF10168.6        1.4    8.6   7.7         2    8.2   7.7   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 (Fragment) OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=1
+tr|H0Y9C3|H0Y9C3_HUMAN         -          Nup88                PF10168.6        1.6    8.5   7.1       2.5    7.9   7.0   1.4   1   1   0   1   1   1   0 Transforming acidic coiled-coil-containing protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=TACC2 PE=1 SV=1
+tr|B4DY08|B4DY08_HUMAN         -          Nup88                PF10168.6        1.7    8.4   7.7       2.3    7.9   7.7   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=1
+tr|B2R5W2|B2R5W2_HUMAN         -          Nup88                PF10168.6        1.7    8.4   7.7       2.4    7.9   7.7   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=1
+sp|P07910|HNRPC_HUMAN          -          Nup88                PF10168.6        1.8    8.3   7.7       2.6    7.8   7.7   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoproteins C1/C2 OS=Homo sapiens OX=9606 GN=HNRNPC PE=1 SV=4
+tr|H0YIR4|H0YIR4_HUMAN         -          Nup88                PF10168.6        3.3    7.4  11.7       3.9    7.2  11.7   1.0   1   0   0   1   1   1   0 Intraflagellar transport protein 81 homolog (Fragment) OS=Homo sapiens OX=9606 GN=IFT81 PE=1 SV=1
+tr|A0A0U1RRM9|A0A0U1RRM9_HUMAN -          Nup88                PF10168.6          5    6.8  19.7         7    6.4  19.7   1.2   1   0   0   1   1   1   0 Transforming acidic coiled-coil-containing protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=TACC2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:09 2022
+# [ok]

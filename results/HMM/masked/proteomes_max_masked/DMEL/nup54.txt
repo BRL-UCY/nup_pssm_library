@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V6B9|NUP54_DROME          -          Nup54                PF13874.3    1.3e-29  103.4   0.0   2.3e-29  102.6   0.0   1.4   1   0   0   1   1   1   1 Probable nucleoporin Nup54 OS=Drosophila melanogaster OX=7227 GN=Nup54 PE=2 SV=1
+tr|Q6IDE2|Q6IDE2_DROME         -          Nup54                PF13874.3       0.34   11.3   0.2       1.1    9.6   0.0   1.9   2   1   0   2   2   2   0 GH07226p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3907 PE=2 SV=1
+tr|Q8T414|Q8T414_DROME         -          Nup54                PF13874.3       0.38   11.1   0.1      0.64   10.4   0.1   1.5   1   1   0   1   1   1   0 AT22731p OS=Drosophila melanogaster OX=7227 GN=SIP3 PE=2 SV=1
+tr|Q9W5E8|Q9W5E8_DROME         -          Nup54                PF13874.3        4.3    7.7   0.2        13    6.2   0.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=2
+tr|X2JHS3|X2JHS3_DROME         -          Nup54                PF13874.3        4.3    7.7   0.2        13    6.2   0.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|Q8IGK1|Q8IGK1_DROME         -          Nup54                PF13874.3        4.5    7.7   0.0       7.9    6.9   0.0   1.3   1   0   0   1   1   1   0 RE73943p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11905 PE=2 SV=1
+tr|M9NFI4|M9NFI4_DROME         -          Nup54                PF13874.3        4.5    7.7   0.0         8    6.9   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform L OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11905 PE=4 SV=1
+tr|Q9VQS1|Q9VQS1_DROME         -          Nup54                PF13874.3        5.6    7.4   0.4        11    6.4   0.4   1.5   1   0   0   1   1   1   0 FI08260p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8851 PE=2 SV=2
+tr|Q0KHX7|Q0KHX7_DROME         -          Nup54                PF13874.3        5.6    7.3   0.2        15    5.9   0.2   1.6   1   0   0   1   1   1   0 FI18193p1 OS=Drosophila melanogaster OX=7227 GN=EG:118B3.2 PE=1 SV=1
+tr|R9PY49|R9PY49_DROME         -          Nup54                PF13874.3        6.7    7.1   0.4        13    6.1   0.4   1.5   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8851 PE=4 SV=1
+tr|Q9VCS1|Q9VCS1_DROME         -          Nup54                PF13874.3        7.1    7.0   0.1       9.4    6.6   0.1   1.1   1   0   0   1   1   1   0 IP04268p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13838 PE=2 SV=1
+tr|X2J9Z8|X2J9Z8_DROME         -          Nup54                PF13874.3        7.6    6.9   1.1        13    6.2   0.2   1.7   2   0   0   2   2   2   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|Q9VK00|Q9VK00_DROME         -          Nup54                PF13874.3        8.7    6.7   1.3        79    3.6   0.2   2.0   1   1   1   2   2   2   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16826 PE=1 SV=1
+tr|Q0E8P6|Q0E8P6_DROME         -          Nup54                PF13874.3        9.7    6.6   2.3        55    4.1   2.3   2.4   1   0   0   1   1   1   0 Beethoven OS=Drosophila melanogaster OX=7227 GN=btv PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:05:11 2022
+# [ok]

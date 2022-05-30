@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9JIH2|NUP50_MOUSE  -          NUP50                PF08911.8    1.5e-18   68.8   4.0   1.5e-18   68.8   4.0   3.8   4   1   0   4   4   4   1 Nuclear pore complex protein Nup50 OS=Mus musculus OX=10090 GN=Nup50 PE=1 SV=3
+tr|Q3V2K7|Q3V2K7_MOUSE -          NUP50                PF08911.8    1.7e-11   46.1   3.0   1.7e-11   46.1   3.0   2.9   3   0   0   3   3   3   1 RIKEN cDNA 1700123L14 gene OS=Mus musculus OX=10090 GN=1700123L14Rik PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:44 2022
+# [ok]

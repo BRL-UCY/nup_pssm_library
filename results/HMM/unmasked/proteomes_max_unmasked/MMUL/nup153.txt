@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6V9A5|F6V9A5_MACMU         -          Nup153               PF08604.7   1.4e-233  777.7  40.6  1.4e-233  777.7  40.6   4.3   3   1   1   4   4   2   1 Nuclear pore complex protein Nup153 OS=Macaca mulatta OX=9544 GN=NUP153 PE=2 SV=2
+tr|A0A1D5R0K3|A0A1D5R0K3_MACMU -          Nup153               PF08604.7   7.8e-225  748.8  48.5  7.8e-225  748.8  48.5   5.3   3   2   1   4   4   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+tr|F6V9C1|F6V9C1_MACMU         -          Nup153               PF08604.7   4.5e-216  719.9  47.3  4.5e-216  719.9  47.3   5.2   3   2   1   4   4   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=2
+tr|A0A1D5R5K2|A0A1D5R5K2_MACMU -          Nup153               PF08604.7   7.1e-213  709.3  40.5  7.1e-213  709.3  40.5   4.3   3   1   1   4   4   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+tr|F7BDH8|F7BDH8_MACMU         -          Nup153               PF08604.7       0.69   10.0   0.8      0.86    9.7   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MTFR1L PE=4 SV=1
+tr|F6RAV8|F6RAV8_MACMU         -          Nup153               PF08604.7       0.76    9.8   3.2       1.1    9.3   3.2   1.2   1   0   0   1   1   1   0 SERTA domain-containing protein OS=Macaca mulatta OX=9544 GN=SERTAD4 PE=4 SV=1
+tr|A0A1D5RGP5|A0A1D5RGP5_MACMU -          Nup153               PF08604.7        1.1    9.3   0.0       1.1    9.3   0.0   1.1   1   0   0   1   1   1   0 NDK domain-containing protein OS=Macaca mulatta OX=9544 GN=NME8 PE=4 SV=1
+tr|F7HU03|F7HU03_MACMU         -          Nup153               PF08604.7        1.7    8.7   0.8       2.6    8.1   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CC2D1A PE=4 SV=2
+tr|F6YXZ2|F6YXZ2_MACMU         -          Nup153               PF08604.7        1.7    8.7   0.8       2.5    8.1   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CC2D1A PE=4 SV=2
+tr|F7FKA6|F7FKA6_MACMU         -          Nup153               PF08604.7        1.8    8.6   0.0       2.2    8.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRADC1 PE=4 SV=2
+tr|F7FIJ8|F7FIJ8_MACMU         -          Nup153               PF08604.7        4.7    7.2   0.0       6.1    6.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PELI3 PE=4 SV=2
+sp|P25140|IL3_MACMU            -          Nup153               PF08604.7        4.8    7.2   0.1       5.4    7.0   0.1   1.1   1   0   0   1   1   1   0 Interleukin-3 OS=Macaca mulatta OX=9544 GN=IL3 PE=2 SV=1
+tr|A0A1D5RB39|A0A1D5RB39_MACMU -          Nup153               PF08604.7          6    6.9   4.6       8.5    6.4   4.6   1.1   1   0   0   1   1   1   0 Sex comb on midleg-like protein 1 OS=Macaca mulatta OX=9544 GN=SCML1 PE=4 SV=1
+tr|F7FQL4|F7FQL4_MACMU         -          Nup153               PF08604.7        6.9    6.7   0.8       8.6    6.3   0.8   1.1   1   0   0   1   1   1   0 40S ribosomal protein S6 OS=Macaca mulatta OX=9544 GN=LOC100429221 PE=3 SV=2
+tr|A0A1D5Q533|A0A1D5Q533_MACMU -          Nup153               PF08604.7          7    6.6   3.1        12    5.9   3.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ST5 PE=4 SV=1
+sp|B0FZP2|SCML1_MACMU          -          Nup153               PF08604.7        7.4    6.6   4.6        11    6.1   4.6   1.1   1   0   0   1   1   1   0 Sex comb on midleg-like protein 1 OS=Macaca mulatta OX=9544 GN=SCML1 PE=2 SV=1
+tr|A0A1D5RAI7|A0A1D5RAI7_MACMU -          Nup153               PF08604.7        7.4    6.6   4.6        11    6.1   4.6   1.1   1   0   0   1   1   1   0 Sex comb on midleg-like protein 1 OS=Macaca mulatta OX=9544 GN=SCML1 PE=4 SV=1
+tr|I0FU32|I0FU32_MACMU         -          Nup153               PF08604.7        7.5    6.5   4.6        11    6.1   4.6   1.1   1   0   0   1   1   1   0 Sex comb on midleg-like protein 1 OS=Macaca mulatta OX=9544 GN=SCML1 PE=2 SV=1
+tr|F7HGP1|F7HGP1_MACMU         -          Nup153               PF08604.7        7.5    6.5   0.1       9.5    6.2   0.1   1.1   1   0   0   1   1   1   0 TNF_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=TNFSF13 PE=3 SV=1
+tr|H9FNQ3|H9FNQ3_MACMU         -          Nup153               PF08604.7        7.9    6.5   0.8       8.5    6.4   0.8   1.1   1   0   0   1   1   1   0 Noelin isoform 2 OS=Macaca mulatta OX=9544 GN=OLFM1 PE=2 SV=1
+tr|G7NA49|G7NA49_MACMU         -          Nup153               PF08604.7        8.3    6.4   1.1        18    5.3   1.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein KIAA1841 isoform a OS=Macaca mulatta OX=9544 GN=KIAA1841 PE=2 SV=1
+tr|F6RRS9|F6RRS9_MACMU         -          Nup153               PF08604.7        8.5    6.4   1.1        17    5.4   1.1   1.4   1   0   0   1   1   1   0 DUF3342 domain-containing protein OS=Macaca mulatta OX=9544 GN=KIAA1841 PE=4 SV=2
+tr|A0A1D5Q1L8|A0A1D5Q1L8_MACMU -          Nup153               PF08604.7          9    6.3   0.0       9.5    6.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZNF286A PE=4 SV=1
+tr|F7FEZ0|F7FEZ0_MACMU         -          Nup153               PF08604.7        9.3    6.2   0.0        13    5.8   0.0   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase pellino homolog OS=Macaca mulatta OX=9544 GN=PELI3 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:28:37 2022
+# [ok]

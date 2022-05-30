@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8GYF7|NUP54_ARATH          -          Nup54                PF13874.3    1.9e-19   71.3   0.0   2.5e-19   70.9   0.0   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein NUP54 OS=Arabidopsis thaliana OX=3702 GN=NUP54 PE=1 SV=1
+sp|Q0WVF5|MCM4_ARATH           -          Nup54                PF13874.3        3.1    9.0   0.2       5.5    8.2   0.2   1.3   1   0   0   1   1   1   0 DNA replication licensing factor MCM4 OS=Arabidopsis thaliana OX=3702 GN=MCM4 PE=1 SV=1
+tr|A0A1P8BB55|A0A1P8BB55_ARATH -          Nup54                PF13874.3        4.5    8.5   0.3       6.1    8.0   0.3   1.1   1   0   0   1   1   1   0 Basic-leucine zipper (BZIP) transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=HY5 PE=1 SV=1
+sp|Q9SI15|BZIP2_ARATH          -          Nup54                PF13874.3        6.1    8.1   0.9       7.9    7.7   0.9   1.2   1   0   0   1   1   1   0 bZIP transcription factor 2 OS=Arabidopsis thaliana OX=3702 GN=BZIP2 PE=1 SV=1
+sp|Q94JY4|BRK1_ARATH           -          Nup54                PF13874.3          9    7.5   0.1        11    7.2   0.1   1.1   1   0   0   1   1   1   0 Protein BRICK 1 OS=Arabidopsis thaliana OX=3702 GN=BRK1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:57:48 2022
+# [ok]

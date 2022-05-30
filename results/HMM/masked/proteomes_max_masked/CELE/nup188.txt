@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P90919|P90919_CAEEL         -          Nup188               PF10487.6        1.5    7.2   0.1       2.1    6.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K07A12.1 PE=1 SV=3
+tr|Q9N3U9|Q9N3U9_CAEEL         -          Nup188               PF10487.6        1.7    7.1   0.2       1.8    7.0   0.2   1.1   1   0   0   1   1   1   0 SKp1 Related (Ubiquitin ligase complex component) OS=Caenorhabditis elegans OX=6239 GN=skr-14 PE=1 SV=2
+tr|O44831|O44831_CAEEL         -          Nup188               PF10487.6        3.5    6.0   0.3       4.9    5.5   0.3   1.1   1   0   0   1   1   1   0 CW domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F54D12.7 PE=4 SV=4
+tr|Q4EVY1|Q4EVY1_CAEEL         -          Nup188               PF10487.6        5.5    5.4   0.1       6.3    5.1   0.1   1.0   1   0   0   1   1   1   0 DUF148 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F11F1.8 PE=4 SV=2
+tr|G3DRG2|G3DRG2_CAEEL         -          Nup188               PF10487.6        6.2    5.2   0.0        11    4.3   0.0   1.3   1   0   0   1   1   1   0 Y71A12B.17 (Fragment) OS=Caenorhabditis elegans OX=6239 GN=gadr-5 PE=2 SV=1
+tr|H2KMM0|H2KMM0_CAEEL         -          Nup188               PF10487.6        6.3    5.1   0.0        11    4.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=gadr-5 PE=4 SV=2
+tr|Q9U241|Q9U241_CAEEL         -          Nup188               PF10487.6        6.7    5.1   0.0       6.8    5.0   0.0   1.0   1   0   0   1   1   1   0 Acyl carrier protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y56A3A.19 PE=1 SV=1
+tr|Q21794|Q21794_CAEEL         -          Nup188               PF10487.6        7.4    4.9   0.1        11    4.4   0.1   1.1   1   0   0   1   1   1   0 Kynurenine 3-MonoOxygenase OS=Caenorhabditis elegans OX=6239 GN=kmo-2 PE=4 SV=3
+tr|G5EEX4|G5EEX4_CAEEL         -          Nup188               PF10487.6        8.5    4.7   0.1       8.8    4.7   0.1   1.0   1   0   0   1   1   1   0 SKR-13 OS=Caenorhabditis elegans OX=6239 GN=skr-13 PE=2 SV=1
+tr|B5BM30|B5BM30_CAEEL         -          Nup188               PF10487.6        8.5    4.7   0.1        12    4.2   0.1   1.1   1   0   0   1   1   1   0 Kynurenine 3-MonoOxygenase OS=Caenorhabditis elegans OX=6239 GN=kmo-2 PE=4 SV=1
+tr|N1NTM2|N1NTM2_CAEEL         -          Nup188               PF10487.6        9.6    4.6   0.0        15    3.9   0.0   1.2   1   0   0   1   1   1   0 UBA domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T24B8.7 PE=1 SV=1
+tr|N1NSH8|N1NSH8_CAEEL         -          Nup188               PF10487.6        9.7    4.5   0.7        15    3.9   0.0   1.5   2   0   0   2   2   2   0 UBA domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T24B8.7 PE=1 SV=1
+tr|Q20794|Q20794_CAEEL         -          Nup188               PF10487.6        9.7    4.5   0.0        14    4.0   0.0   1.1   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase, H3 lysine-79 specific OS=Caenorhabditis elegans OX=6239 GN=dot-1.2 PE=3 SV=2
+tr|Q9UAX8|Q9UAX8_CAEEL         -          Nup188               PF10487.6        9.8    4.5   0.1        14    4.0   0.1   1.1   1   0   0   1   1   1   0 F-box A protein OS=Caenorhabditis elegans OX=6239 GN=fbxa-214 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:59:02 2022
+# [ok]

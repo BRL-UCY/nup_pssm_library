@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1Z6H7|A1Z6H7_DROME Gp210 ortholog, isoform A OS=Drosophila melanogaster GN=Gp210 PE=1 SV=1
+# Database: DB_masked/TBRU_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|A1Z6H7|A1Z6H7_DROME	tr|Q583N7|Q583N7_TRYB2	0.79	32.7	1137	1230	210	306
+tr|A1Z6H7|A1Z6H7_DROME	tr|Q388A3|Q388A3_TRYB2	5.8	30.4	1047	1092	98	140
+# BLAST processed 1 queries

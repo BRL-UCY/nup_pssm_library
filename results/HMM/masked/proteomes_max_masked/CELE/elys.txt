@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8WQA1|Q8WQA1_CAEEL         -          ELYS                 PF13934.3        4.6    7.8   0.0       6.7    7.2   0.0   1.3   1   0   0   1   1   1   0 tRNA-synt_1g domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y105E8A.20 PE=1 SV=2
+tr|A0A0K3ASH4|A0A0K3ASH4_CAEEL -          ELYS                 PF13934.3        6.7    7.2   0.1        13    6.3   0.1   1.5   1   0   0   1   1   1   0 Mic1 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y50D4A.4 PE=1 SV=1
+tr|B3KYC0|B3KYC0_CAEEL         -          ELYS                 PF13934.3        6.8    7.2   0.0        10    6.6   0.0   1.3   1   0   0   1   1   1   0 tRNA-synt_1g domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y105E8A.20 PE=1 SV=1
+tr|O02325|O02325_CAEEL         -          ELYS                 PF13934.3        8.1    6.9   0.0        14    6.2   0.0   1.3   1   0   0   1   1   1   0 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-9 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:12 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8K3Z9|PO121_MOUSE          -          POM121               PF15229.3   6.6e-108  361.4  23.2  6.6e-108  361.4  23.2   4.7   3   1   2   5   5   5   1 Nuclear envelope pore membrane protein POM 121 OS=Mus musculus OX=10090 GN=Pom121 PE=1 SV=2
+tr|Q3V0N0|Q3V0N0_MOUSE         -          POM121               PF15229.3    5.4e-21   77.0   5.4   5.4e-21   77.0   5.4   3.0   3   1   1   4   4   4   2 Novel protein similar to nuclear envelope pore membrane protein POM121 OS=Mus musculus OX=10090 GN=Pom121l2 PE=2 SV=1
+sp|Q5SW25|P12L2_MOUSE          -          POM121               PF15229.3    1.8e-20   75.3   5.4   1.8e-20   75.3   5.4   4.7   4   1   1   5   5   5   2 POM121-like protein 2 OS=Mus musculus OX=10090 GN=Pom121l2 PE=3 SV=1
+tr|A0A1B0GSJ4|A0A1B0GSJ4_MOUSE -          POM121               PF15229.3    4.3e-07   31.5   0.0     8e-07   30.6   0.0   1.4   1   0   0   1   1   1   1 POM121 membrane glycoprotein-like 12 OS=Mus musculus OX=10090 GN=Pom121l12 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/pom121.txt --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:42 2022
+# [ok]

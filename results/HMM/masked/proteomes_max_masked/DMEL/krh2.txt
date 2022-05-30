@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V447|KRH2_DROME           -          UPF0121              PF03661.10   1.7e-69  234.1   9.2   2.1e-69  233.8   9.2   1.0   1   0   0   1   1   1   1 Krueppel homolog 2 OS=Drosophila melanogaster OX=7227 GN=Kr-h2 PE=1 SV=1
+tr|X2J4W8|X2J4W8_DROME         -          UPF0121              PF03661.10   1.7e-69  234.1   9.2   2.1e-69  233.8   9.2   1.0   1   0   0   1   1   1   1 Kruppel homolog 2, isoform C OS=Drosophila melanogaster OX=7227 GN=Kr-h2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:04:51 2022
+# [ok]

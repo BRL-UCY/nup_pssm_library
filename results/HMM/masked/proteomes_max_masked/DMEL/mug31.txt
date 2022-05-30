@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7KU86|URM1_DROME           -          NPCC                 PF08058.8        5.8    7.3   0.0       6.2    7.2   0.0   1.1   1   0   0   1   1   1   0 Ubiquitin-related modifier 1 homolog OS=Drosophila melanogaster OX=7227 GN=Urm1 PE=1 SV=2
+tr|M9NDM3|M9NDM3_DROME         -          NPCC                 PF08058.8        7.1    7.0   0.0        14    6.0   0.0   1.4   1   0   0   1   1   1   0 Rhea, isoform C OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+tr|Q9VRQ2|Q9VRQ2_DROME         -          NPCC                 PF08058.8        8.3    6.8   0.6        15    5.9   0.6   1.5   1   1   0   1   1   1   0 Mad2 OS=Drosophila melanogaster OX=7227 GN=mad2 PE=1 SV=1
+tr|M9PEJ8|M9PEJ8_DROME         -          NPCC                 PF08058.8        8.8    6.7   0.0        18    5.7   0.0   1.4   1   0   0   1   1   1   0 Rhea, isoform H OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+tr|Q9VSL8|Q9VSL8_DROME         -          NPCC                 PF08058.8        9.6    6.6   0.0        19    5.6   0.0   1.4   1   0   0   1   1   1   0 Rhea, isoform B OS=Drosophila melanogaster OX=7227 GN=rhea PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:05:09 2022
+# [ok]

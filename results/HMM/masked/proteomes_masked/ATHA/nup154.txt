@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          Nucleoporin_C        PF03177.11   8.1e-05   22.7   0.1   8.1e-05   22.7   0.1   2.7   3   1   0   3   3   3   1 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+sp|F4IGA5|NU133_ARATH          -          Nucleoporin_C        PF03177.11   0.00011   22.2   0.1   0.00011   22.2   0.1   2.4   3   1   0   3   3   3   1 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+sp|F4HXV6|NU155_ARATH          -          Nucleoporin_C        PF03177.11     0.005   16.8   0.2      0.85    9.4   0.0   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein NUP155 OS=Arabidopsis thaliana OX=3702 GN=NUP155 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:27 2022
+# [ok]

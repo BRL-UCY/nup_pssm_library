@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GGX7|A0A1L8GGX7_XENLA -          TPR_MLP1_2           PF07926.9    2.7e-17   64.3   0.2   2.7e-17   64.3   0.2   4.1   5   0   0   5   5   4   1 TPR_MLP1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=tpr PE=1 SV=1
+tr|A0A1L8HIL0|A0A1L8HIL0_XENLA -          TPR_MLP1_2           PF07926.9    9.1e-05   23.8   0.0     0.073   14.4   0.4   2.3   2   0   0   2   2   2   1 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=krt78.4 PE=3 SV=1
+tr|A0A1L8HIK6|A0A1L8HIK6_XENLA -          TPR_MLP1_2           PF07926.9    0.00013   23.3   0.2    0.0067   17.8   0.0   2.2   2   0   0   2   2   2   1 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=krt78.2 PE=3 SV=1
+tr|A1L2T3|A1L2T3_XENLA         -          TPR_MLP1_2           PF07926.9    0.00048   21.5   1.5     0.013   16.9   0.0   2.5   3   0   0   3   3   2   1 LOC100036944 protein OS=Xenopus laevis OX=8355 GN=krt62 PE=1 SV=1
+tr|A0A1L8ERQ6|A0A1L8ERQ6_XENLA -          TPR_MLP1_2           PF07926.9     0.0027   19.0  10.4      0.16   13.3   2.4   3.3   3   1   0   3   3   3   2 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043110mg PE=3 SV=1
+tr|A0A1L8ERQ7|A0A1L8ERQ7_XENLA -          TPR_MLP1_2           PF07926.9     0.0028   19.0  10.4      0.16   13.3   2.4   3.3   3   1   0   3   3   3   2 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043110mg PE=3 SV=1
+tr|A0A1L8HAA1|A0A1L8HAA1_XENLA -          TPR_MLP1_2           PF07926.9     0.0049   18.2   0.0      0.54   11.6   0.0   2.1   2   0   0   2   2   2   1 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016078mg PE=3 SV=1
+tr|A0A1L8HA84|A0A1L8HA84_XENLA -          TPR_MLP1_2           PF07926.9      0.014   16.7   0.7       1.7   10.0   0.0   2.3   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016080mg PE=3 SV=1
+tr|A0A1L8H636|A0A1L8H636_XENLA -          TPR_MLP1_2           PF07926.9      0.028   15.7   1.5     0.041   15.2   1.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014596mg PE=4 SV=1
+tr|A0A1L8HIK5|A0A1L8HIK5_XENLA -          TPR_MLP1_2           PF07926.9      0.029   15.7   0.8      0.53   11.6   0.1   2.2   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013621mg PE=3 SV=1
+tr|A0A1L8ERX1|A0A1L8ERX1_XENLA -          TPR_MLP1_2           PF07926.9       0.04   15.2   2.6       4.7    8.5   0.0   3.1   3   0   0   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043113mg PE=3 SV=1
+tr|A0A1L8F344|A0A1L8F344_XENLA -          TPR_MLP1_2           PF07926.9      0.083   14.2   0.5      0.13   13.6   0.5   1.2   1   0   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18042270mg PE=3 SV=1
+tr|A0A1L8EKM9|A0A1L8EKM9_XENLA -          TPR_MLP1_2           PF07926.9       0.12   13.7   0.2      0.12   13.7   0.2   3.7   3   1   0   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045880mg PE=3 SV=1
+tr|A0A1L8EZW6|A0A1L8EZW6_XENLA -          TPR_MLP1_2           PF07926.9       0.14   13.5   0.1      0.37   12.1   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=daam1 PE=4 SV=1
+tr|A0A1L8HIM1|A0A1L8HIM1_XENLA -          TPR_MLP1_2           PF07926.9       0.17   13.2   3.6      0.17   13.2   2.0   1.8   2   1   0   2   2   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013618mg PE=3 SV=1
+tr|Q7ZXE6|Q7ZXE6_XENLA         -          TPR_MLP1_2           PF07926.9       0.23   12.8   6.2       1.5   10.2   2.3   2.8   3   1   0   3   3   2   0 Krt1-2-prov protein OS=Xenopus laevis OX=8355 GN=krt70 PE=2 SV=1
+tr|A0A1L8EKH3|A0A1L8EKH3_XENLA -          TPR_MLP1_2           PF07926.9       0.28   12.5   2.3       2.5    9.5   0.0   3.0   3   1   0   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045881mg PE=1 SV=1
+tr|A0A1L8ENQ8|A0A1L8ENQ8_XENLA -          TPR_MLP1_2           PF07926.9        0.3   12.4   4.6       1.1   10.6   1.1   2.9   2   1   1   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=krt18.3 PE=3 SV=1
+tr|A0A1L8HIJ6|A0A1L8HIJ6_XENLA -          TPR_MLP1_2           PF07926.9       0.31   12.4   2.5       5.2    8.4   0.1   3.0   2   1   1   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013609mg PE=1 SV=1
+tr|A0A1L8HAB3|A0A1L8HAB3_XENLA -          TPR_MLP1_2           PF07926.9       0.47   11.8   4.1      0.85   11.0   0.3   2.7   3   0   0   3   3   2   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016071mg PE=3 SV=1
+tr|Q3KQ13|Q3KQ13_XENLA         -          TPR_MLP1_2           PF07926.9       0.73   11.2   6.0      0.57   11.5   0.8   3.1   1   1   2   4   4   4   0 MGC131121 protein OS=Xenopus laevis OX=8355 GN=krt18.3 PE=2 SV=1
+tr|A0A1L8ERS6|A0A1L8ERS6_XENLA -          TPR_MLP1_2           PF07926.9          1   10.7   5.9       7.6    7.9   0.4   3.0   3   0   0   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043130mg PE=3 SV=1
+tr|A0A1L8FMA2|A0A1L8FMA2_XENLA -          TPR_MLP1_2           PF07926.9        1.4   10.2   7.1       3.6    8.9   0.8   2.6   3   0   0   3   3   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=kazn PE=4 SV=1
+tr|A0A1L8ERS0|A0A1L8ERS0_XENLA -          TPR_MLP1_2           PF07926.9        2.9    9.2  14.0     0.097   14.0   2.7   3.3   4   2   1   5   5   4   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043128mg PE=3 SV=1
+tr|A0A1L8GTH6|A0A1L8GTH6_XENLA -          TPR_MLP1_2           PF07926.9        3.1    9.1   4.0       1.7   10.0   0.6   2.0   2   0   0   2   2   2   0 UBIQUITIN_CONJUGAT_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=ube2q2 PE=4 SV=1
+tr|Q6PA93|Q6PA93_XENLA         -          TPR_MLP1_2           PF07926.9        3.1    9.1   4.0       1.7   10.0   0.6   2.0   2   0   0   2   2   2   0 MGC68587 protein OS=Xenopus laevis OX=8355 GN=ube2q2 PE=2 SV=1
+tr|A0A1L8ERS7|A0A1L8ERS7_XENLA -          TPR_MLP1_2           PF07926.9          4    8.8   7.1         1   10.7   0.2   3.0   3   0   0   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=krt9.1 PE=3 SV=1
+tr|A0A1L8EKM0|A0A1L8EKM0_XENLA -          TPR_MLP1_2           PF07926.9        8.9    7.7  12.2       7.3    7.9   1.3   3.7   4   1   1   5   5   4   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045879mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:16 2022
+# [ok]

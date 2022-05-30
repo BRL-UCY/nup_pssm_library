@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RJP4|A0A1D5RJP4_MACMU -          Nucleopor_Nup85      PF07575.10  1.1e-154  517.5   1.9  1.3e-154  517.3   1.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|H9FZZ2|H9FZZ2_MACMU         -          Nucleopor_Nup85      PF07575.10  1.2e-154  517.4   1.9  1.3e-154  517.2   1.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=2 SV=1
+tr|F7DH68|F7DH68_MACMU         -          Nucleopor_Nup85      PF07575.10  6.4e-140  468.7   4.7  4.7e-138  462.6   4.7   2.0   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=2
+tr|A0A1D5RC65|A0A1D5RC65_MACMU -          Nucleopor_Nup85      PF07575.10  5.5e-137  459.1   4.3  3.7e-109  367.2   3.2   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|A0A1D5R0I2|A0A1D5R0I2_MACMU -          Nucleopor_Nup85      PF07575.10   5.6e-22   79.4   0.1   6.2e-22   79.2   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|F6U0X1|F6U0X1_MACMU         -          Nucleopor_Nup85      PF07575.10     0.016   15.1   2.5      0.11   12.3   0.1   2.7   3   0   0   3   3   3   0 Clathrin heavy chain linker domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=CLHC1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup75.txt --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:57 2022
+# [ok]

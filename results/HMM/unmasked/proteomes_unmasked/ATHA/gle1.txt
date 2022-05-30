@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q0WPZ7|GLE1_ARATH   -          GLE1                 PF07817.10   1.8e-33  117.0   4.6   2.8e-19   70.4   0.1   2.6   2   1   1   3   3   3   2 Protein GLE1 OS=Arabidopsis thaliana OX=3702 GN=GLE1 PE=1 SV=1
+sp|Q9S9N1|HSP7E_ARATH  -          GLE1                 PF07817.10     0.053   13.9   1.5      0.32   11.3   0.0   2.2   2   0   0   2   2   2   0 Heat shock 70 kDa protein 5 OS=Arabidopsis thaliana OX=3702 GN=HSP70-5 PE=2 SV=1
+tr|F4I0Z3|F4I0Z3_ARATH -          GLE1                 PF07817.10       3.8    7.8  10.5         3    8.1   0.4   2.7   1   1   0   2   2   2   0 Myosin heavy chain, cardiac protein OS=Arabidopsis thaliana OX=3702 GN=At1g09470 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:56 2022
+# [ok]

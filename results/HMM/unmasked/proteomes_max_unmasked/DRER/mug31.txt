@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8M7|Q1L8M7_DANRE         -          NPCC                 PF08058.8      0.025   16.0   0.0     0.045   15.1   0.0   1.3   1   1   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=2
+tr|F6P528|F6P528_DANRE         -          NPCC                 PF08058.8        0.1   14.0   0.0      0.22   12.9   0.0   1.5   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=1
+tr|A0A2R8RJ90|A0A2R8RJ90_DANRE -          NPCC                 PF08058.8       0.21   13.0   3.2      0.17   13.3   1.0   2.0   1   1   2   3   3   3   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Danio rerio OX=7955 PE=3 SV=1
+tr|A0A0R4IDX9|A0A0R4IDX9_DANRE -          NPCC                 PF08058.8       0.56   11.6   2.3      0.68   11.3   2.3   1.3   1   0   0   1   1   1   0 Si:ch1073-278o19.1 OS=Danio rerio OX=7955 GN=si:ch1073-278o19.1 PE=4 SV=1
+tr|A0A2R8QRL8|A0A2R8QRL8_DANRE -          NPCC                 PF08058.8        1.5   10.2   0.9        34    5.9   0.1   2.5   2   0   0   2   2   2   0 Aa_trans domain-containing protein OS=Danio rerio OX=7955 GN=slc38a8b PE=4 SV=1
+tr|Q1L893|Q1L893_DANRE         -          NPCC                 PF08058.8        1.6   10.1   0.0       1.9    9.9   0.0   1.2   1   0   0   1   1   1   0 Cart4 OS=Danio rerio OX=7955 GN=cart4 PE=2 SV=1
+tr|X1WBQ3|X1WBQ3_DANRE         -          NPCC                 PF08058.8        1.9    9.9   0.6       3.2    9.2   0.6   1.4   1   1   0   1   1   1   0 Si:dkey-30g5.1 OS=Danio rerio OX=7955 GN=si:dkey-30g5.1 PE=4 SV=3
+tr|E7FB29|E7FB29_DANRE         -          NPCC                 PF08058.8          2    9.8  15.7       2.3    9.6   0.0   3.5   3   0   0   3   3   3   0 Si:ch73-390b10.2 OS=Danio rerio OX=7955 GN=si:ch73-390b10.2 PE=1 SV=1
+tr|A0A1D5NSG7|A0A1D5NSG7_DANRE -          NPCC                 PF08058.8        2.5    9.5   0.7        50    5.3   0.1   2.6   2   0   0   2   2   2   0 Solute carrier family 38 member 8b OS=Danio rerio OX=7955 GN=slc38a8b PE=4 SV=1
+tr|F1QHN1|F1QHN1_DANRE         -          NPCC                 PF08058.8        2.8    9.4   0.2       4.3    8.8   0.2   1.3   1   0   0   1   1   1   0 MAD2 mitotic arrest deficient-like 1 (yeast) OS=Danio rerio OX=7955 GN=mad2l1 PE=1 SV=1
+tr|A8E7T8|A8E7T8_DANRE         -          NPCC                 PF08058.8        2.9    9.3   2.4       4.2    8.8   0.8   2.1   2   0   0   2   2   2   0 Bradykinin receptor B1 OS=Danio rerio OX=7955 GN=bdkrb1 PE=3 SV=1
+tr|F1R141|F1R141_DANRE         -          NPCC                 PF08058.8        2.9    9.3   6.0       4.2    8.8   1.7   2.5   2   1   0   2   2   2   0 Olfactory receptor OS=Danio rerio OX=7955 GN=or108-3 PE=3 SV=1
+tr|A0A140LG58|A0A140LG58_DANRE -          NPCC                 PF08058.8        3.8    8.9   0.1       4.7    8.6   0.1   1.1   1   0   0   1   1   1   0 Small integral membrane protein 7 OS=Danio rerio OX=7955 GN=smim7 PE=4 SV=1
+tr|F1QTE7|F1QTE7_DANRE         -          NPCC                 PF08058.8        4.3    8.7   0.2        14    7.1   0.2   1.8   1   0   0   1   1   1   0 Family with sequence similarity 8 member A1b (Fragment) OS=Danio rerio OX=7955 GN=fam8a1b PE=4 SV=2
+tr|A0A0R4IBY5|A0A0R4IBY5_DANRE -          NPCC                 PF08058.8        5.7    8.3   0.0        17    6.8   0.0   1.8   2   0   0   2   2   2   0 RAR-related orphan receptor C b OS=Danio rerio OX=7955 GN=rorcb PE=3 SV=1
+tr|A0A2R8QH67|A0A2R8QH67_DANRE -          NPCC                 PF08058.8        6.1    8.3   1.1        43    5.5   0.0   2.7   2   0   0   2   2   2   0 Phospholipid-transporting ATPase OS=Danio rerio OX=7955 GN=atp10a PE=3 SV=1
+tr|A2BHK1|A2BHK1_DANRE         -          NPCC                 PF08058.8        6.9    8.1   2.1       9.5    7.6   1.6   1.5   1   1   0   1   1   1   0 Si:dkey-58f10.10 OS=Danio rerio OX=7955 GN=si:dkey-58f10.10 PE=4 SV=1
+tr|E7FFH9|E7FFH9_DANRE         -          NPCC                 PF08058.8        7.5    8.0   1.2        46    5.4   0.0   2.7   2   0   0   2   2   2   0 Phospholipid-transporting ATPase OS=Danio rerio OX=7955 GN=atp10a PE=3 SV=1
+tr|A0A1L1QZM2|A0A1L1QZM2_DANRE -          NPCC                 PF08058.8        7.5    8.0   0.5        38    5.7   0.1   2.0   2   0   0   2   2   2   0 SIN3 transcription regulator family member Ab (Fragment) OS=Danio rerio OX=7955 GN=sin3ab PE=1 SV=1
+tr|A0A2R8RWD0|A0A2R8RWD0_DANRE -          NPCC                 PF08058.8        7.7    7.9   2.6       8.5    7.8   1.8   1.4   1   1   0   1   1   1   0 Tryptophan rich basic protein OS=Danio rerio OX=7955 GN=get1 PE=4 SV=1
+tr|A0A0R4IAX5|A0A0R4IAX5_DANRE -          NPCC                 PF08058.8          8    7.9   0.4        43    5.5   0.1   2.5   2   1   0   2   2   2   0 Malate synthase-like OS=Danio rerio OX=7955 GN=mlsl PE=1 SV=2
+tr|A0A2R8QBR6|A0A2R8QBR6_DANRE -          NPCC                 PF08058.8        8.6    7.8   1.4        89    4.5   0.3   2.4   1   1   1   2   2   2   0 Protein kinase, AMP-activated, gamma 2 non-catalytic subunit b OS=Danio rerio OX=7955 GN=prkag2b PE=4 SV=1
+sp|Q6DRM0|WRB_DANRE            -          NPCC                 PF08058.8        8.7    7.8   2.9        14    7.0   2.9   1.4   1   1   0   1   1   1   0 Tail-anchored protein insertion receptor WRB OS=Danio rerio OX=7955 GN=wrb PE=2 SV=1
+tr|F1R0E1|F1R0E1_DANRE         -          NPCC                 PF08058.8        8.9    7.7   0.3        21    6.5   0.0   1.8   2   0   0   2   2   2   0 Si:rp71-36a1.1 (Fragment) OS=Danio rerio OX=7955 GN=si:rp71-36a1.1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 02:28:07 2022
+# [ok]

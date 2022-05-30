@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8RXH2|NUP85_ARATH          -          Nucleopor_Nup85      PF07575.10  1.4e-155  520.2  10.2  1.7e-155  520.0  10.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein NUP85 OS=Arabidopsis thaliana OX=3702 GN=NUP85 PE=1 SV=1
+tr|A0A1P8AZP7|A0A1P8AZP7_ARATH -          Nucleopor_Nup85      PF07575.10       0.1   12.3   0.2      0.11   12.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At2g07810 PE=4 SV=1
+sp|Q9FLE9|PRE1_ARATH           -          Nucleopor_Nup85      PF07575.10      0.13   11.9   0.2      0.13   11.9   0.2   1.0   1   0   0   1   1   1   0 Transcription factor PRE1 OS=Arabidopsis thaliana OX=3702 GN=PRE1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup75.txt --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:53 2022
+# [ok]

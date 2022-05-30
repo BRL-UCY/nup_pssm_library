@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q3G8|E9Q3G8_MOUSE         -          Nup153               PF08604.7   9.7e-217  722.4  43.8  9.7e-217  722.4  43.8   5.7   4   2   1   5   5   5   1 Nucleoporin 153 OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YCP2|A0A286YCP2_MOUSE -          Nup153               PF08604.7   2.1e-113  381.4  13.0  2.6e-113  381.1  13.0   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YCY7|A0A286YCY7_MOUSE -          Nup153               PF08604.7    4.5e-50  172.5  17.3     5e-50  172.4  17.3   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A0N4SVX7|A0A0N4SVX7_MOUSE -          Nup153               PF08604.7       0.67   10.3   0.0      0.78   10.1   0.0   1.0   1   0   0   1   1   1   0 Protease-associated domain-containing protein 1 OS=Mus musculus OX=10090 GN=Pradc1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup153.txt --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:45 2022
+# [ok]

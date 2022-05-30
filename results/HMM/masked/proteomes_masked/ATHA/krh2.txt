@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A178VC85|A0A178VC85_ARATH -          UPF0121              PF03661.10   1.8e-08   35.2   2.5   2.3e-08   34.8   2.5   1.1   1   0   0   1   1   1   1 Dihydroflavonol 4-reductase/flavanone protein OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=4 SV=1
+tr|Q9M898|Q9M898_ARATH         -          UPF0121              PF03661.10   3.1e-08   34.4   2.5   4.1e-08   34.0   2.5   1.1   1   0   0   1   1   1   1 AT3g02420/F16B3_5 OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/krh2.txt --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:31 2022
+# [ok]

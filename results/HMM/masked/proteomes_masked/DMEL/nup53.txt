@@ -1,0 +1,25 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWS2|NUP35_DROME  -          Nup35_RRM            PF05172.10   7.6e-26   90.3   0.0   1.1e-25   89.8   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin Nup35 OS=Drosophila melanogaster OX=7227 GN=Nup35 PE=1 SV=1
+tr|Q9VIS0|Q9VIS0_DROME -          Nup35_RRM            PF05172.10    0.0019   18.4   0.0    0.0026   18.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=cg10466 PE=4 SV=1
+sp|Q9VIV2|SWM_DROME    -          Nup35_RRM            PF05172.10    0.0052   17.0   0.2     0.032   14.5   0.1   2.2   2   1   0   2   2   2   1 Zinc finger protein swm OS=Drosophila melanogaster OX=7227 GN=swm PE=1 SV=1
+tr|M9PDF2|M9PDF2_DROME -          Nup35_RRM            PF05172.10    0.0052   17.0   0.2     0.032   14.5   0.1   2.2   2   1   0   2   2   2   1 Second mitotic wave missing, isoform C OS=Drosophila melanogaster OX=7227 GN=swm PE=1 SV=1
+tr|Q8IPB9|Q8IPB9_DROME -          Nup35_RRM            PF05172.10     0.022   15.0   0.0     0.038   14.2   0.0   1.2   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform G OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=1
+tr|Q9VKX1|Q9VKX1_DROME -          Nup35_RRM            PF05172.10     0.022   15.0   0.0     0.038   14.2   0.0   1.2   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform A OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=2
+tr|M9MRH8|M9MRH8_DROME -          Nup35_RRM            PF05172.10     0.022   15.0   0.0     0.039   14.2   0.0   1.2   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform H OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=1
+tr|Q9W0D6|Q9W0D6_DROME -          Nup35_RRM            PF05172.10     0.039   14.2   0.0       0.1   12.8   0.0   1.6   1   0   0   1   1   1   0 FI22004p1 OS=Drosophila melanogaster OX=7227 GN=cg7879 PE=1 SV=1
+tr|M9PCL9|M9PCL9_DROME -          Nup35_RRM            PF05172.10     0.079   13.2   0.0      0.14   12.5   0.0   1.3   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform L OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=1
+tr|M9PFI0|M9PFI0_DROME -          Nup35_RRM            PF05172.10     0.079   13.2   0.0      0.14   12.4   0.0   1.3   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform J OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=1
+tr|M9PB92|M9PB92_DROME -          Nup35_RRM            PF05172.10      0.08   13.2   0.0      0.14   12.4   0.0   1.3   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 4, isoform K OS=Drosophila melanogaster OX=7227 GN=Cnot4 PE=1 SV=1
+tr|Q9W1T4|Q9W1T4_DROME -          Nup35_RRM            PF05172.10      0.21   11.9   0.0      0.81   10.0   0.0   1.9   2   0   0   2   2   2   0 U2 snRNP auxiliary factor large subunit OS=Drosophila melanogaster OX=7227 GN=LS2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:39 2022
+# [ok]

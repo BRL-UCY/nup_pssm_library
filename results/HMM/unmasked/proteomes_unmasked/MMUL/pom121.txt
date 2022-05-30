@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6QY21|F6QY21_MACMU         -          POM121               PF15229.3    7.2e-69  233.4   7.0   5.7e-68  230.4   7.0   2.1   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F7HEM9|F7HEM9_MACMU         -          POM121               PF15229.3    4.1e-55  188.3  10.5   4.1e-55  188.3  10.5   4.2   4   1   1   5   5   5   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=1
+tr|F7G907|F7G907_MACMU         -          POM121               PF15229.3    2.5e-52  179.2  10.0   2.5e-52  179.2  10.0   4.1   4   1   1   5   5   5   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=2
+tr|A0A1D5QG05|A0A1D5QG05_MACMU -          POM121               PF15229.3    2.9e-22   80.9  10.5   2.9e-22   80.9  10.5   2.2   3   0   0   3   3   3   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5Q7A6|A0A1D5Q7A6_MACMU -          POM121               PF15229.3    1.6e-15   58.8  16.6   1.6e-15   58.8  16.6   3.0   3   1   0   3   3   3   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5QQL2|A0A1D5QQL2_MACMU -          POM121               PF15229.3    6.5e-09   37.2   0.1   7.2e-09   37.0   0.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5R4N0|A0A1D5R4N0_MACMU -          POM121               PF15229.3    1.4e-06   29.6   0.1   2.8e-06   28.5   0.1   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121L12 PE=4 SV=1
+tr|A0A1D5Q4E3|A0A1D5Q4E3_MACMU -          POM121               PF15229.3       0.23   12.5   0.0      0.25   12.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TAFA1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/pom121.txt --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:57 2022
+# [ok]

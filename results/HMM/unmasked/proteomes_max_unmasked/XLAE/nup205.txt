@@ -1,0 +1,56 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GQN1|A0A1L8GQN1_XENLA -          Nup192               PF11894.5          0 1128.9  11.8         0 1128.6  11.8   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019805mg PE=1 SV=1
+tr|A0A310U2L0|A0A310U2L0_XENLA -          Nup192               PF11894.5    4.1e-16   58.8   0.3   4.5e-16   58.7   0.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002032mg PE=4 SV=1
+tr|A0A1L8F1N1|A0A1L8F1N1_XENLA -          Nup192               PF11894.5    2.7e-13   49.4   7.0   1.6e-07   30.3   0.0   4.3   3   1   0   3   3   3   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup188 PE=1 SV=1
+tr|A0A1L8FNK2|A0A1L8FNK2_XENLA -          Nup192               PF11894.5      0.084   11.4   0.3      0.11   11.0   0.3   1.2   1   0   0   1   1   1   0 Fes1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18036139mg PE=1 SV=1
+tr|A0A1L8GH54|A0A1L8GH54_XENLA -          Nup192               PF11894.5       0.39    9.2   1.8      0.49    8.8   1.8   1.0   1   0   0   1   1   1   0 ANK_REP_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025688mg PE=1 SV=1
+tr|A0A1L8G2L3|A0A1L8G2L3_XENLA -          Nup192               PF11894.5       0.44    9.0   0.0      0.61    8.5   0.0   1.1   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F3_4 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029235mg PE=3 SV=1
+tr|A0A1L8G8H3|A0A1L8G8H3_XENLA -          Nup192               PF11894.5       0.63    8.5   0.1       1.2    7.5   0.1   1.4   1   0   0   1   1   1   0 SpoU_methylase domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026910mg PE=1 SV=1
+tr|A0A1L8GLL4|A0A1L8GLL4_XENLA -          Nup192               PF11894.5       0.64    8.4   2.6      0.92    7.9   2.6   1.2   1   0   0   1   1   1   0 ELMO domain-containing protein OS=Xenopus laevis OX=8355 GN=elmo3 PE=4 SV=1
+tr|A0A1L8FFM9|A0A1L8FFM9_XENLA -          Nup192               PF11894.5       0.91    7.9   0.3       1.2    7.5   0.3   1.1   1   0   0   1   1   1   0 GIY-YIG domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037316mg PE=4 SV=1
+tr|A0A1L8GNU4|A0A1L8GNU4_XENLA -          Nup192               PF11894.5          1    7.8   1.4       1.3    7.4   1.4   1.0   1   0   0   1   1   1   0 ANK_REP_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=ankrd54 PE=1 SV=1
+tr|A0A1L8F1B3|A0A1L8F1B3_XENLA -          Nup192               PF11894.5        1.2    7.5   0.1       1.8    6.9   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041635mg PE=4 SV=1
+tr|A0A1L8I3B5|A0A1L8I3B5_XENLA -          Nup192               PF11894.5        1.6    7.2   0.6         2    6.8   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008601mg PE=4 SV=1
+tr|A0A1L8F5T6|A0A1L8F5T6_XENLA -          Nup192               PF11894.5        1.6    7.2   0.1       1.9    6.9   0.1   1.0   1   0   0   1   1   1   0 POU-specific domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18038233mg PE=3 SV=1
+tr|A0A1L8GRS5|A0A1L8GRS5_XENLA -          Nup192               PF11894.5        2.2    6.6   0.4       2.6    6.4   0.4   1.0   1   0   0   1   1   1   0 TC1 domain-containing protein OS=Xenopus laevis OX=8355 GN=tcim PE=4 SV=1
+tr|A0A1L8H1T3|A0A1L8H1T3_XENLA -          Nup192               PF11894.5        2.2    6.6   0.3       2.6    6.4   0.3   1.0   1   0   0   1   1   1   0 TC1 domain-containing protein OS=Xenopus laevis OX=8355 GN=tcim PE=4 SV=1
+tr|A0A1L8HJI7|A0A1L8HJI7_XENLA -          Nup192               PF11894.5        2.5    6.5   0.4       3.4    6.0   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013927mg PE=4 SV=1
+tr|A0A1L8F643|A0A1L8F643_XENLA -          Nup192               PF11894.5        2.9    6.3   0.5       8.5    4.7   0.9   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=psmd5 PE=1 SV=1
+tr|A0A1L8ERV3|A0A1L8ERV3_XENLA -          Nup192               PF11894.5        3.1    6.2   0.9       3.7    5.9   0.9   1.0   1   0   0   1   1   1   0 B30.2/SPRY domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043162mg PE=4 SV=1
+tr|A0A1L8HJN5|A0A1L8HJN5_XENLA -          Nup192               PF11894.5        3.2    6.1   0.1       4.7    5.6   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013984mg PE=4 SV=1
+tr|A0A1L8FUK2|A0A1L8FUK2_XENLA -          Nup192               PF11894.5        3.3    6.1   0.1       4.3    5.7   0.1   1.0   1   0   0   1   1   1   0 B box-type domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030437mg PE=4 SV=1
+tr|A0A1L8HT32|A0A1L8HT32_XENLA -          Nup192               PF11894.5        3.4    6.0   0.0       3.9    5.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005029mg PE=4 SV=1
+tr|A0A1L8GLZ5|A0A1L8GLZ5_XENLA -          Nup192               PF11894.5        3.8    5.9   0.1       8.1    4.8   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=usp24 PE=3 SV=1
+tr|A0A1L8I001|A0A1L8I001_XENLA -          Nup192               PF11894.5        3.9    5.8   0.2       4.4    5.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_1800749414mg PE=4 SV=1
+tr|A0A1L8HJR0|A0A1L8HJR0_XENLA -          Nup192               PF11894.5        3.9    5.8   0.1       5.8    5.3   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013984mg PE=4 SV=1
+tr|A0A1L8I323|A0A1L8I323_XENLA -          Nup192               PF11894.5          4    5.8   0.0       6.7    5.1   0.0   1.2   1   0   0   1   1   1   0 Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Xenopus laevis OX=8355 GN=pik3c3 PE=1 SV=1
+tr|A0A1L8HL76|A0A1L8HL76_XENLA -          Nup192               PF11894.5        4.4    5.7   0.0        14    4.0   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009040mg PE=4 SV=1
+tr|A0A1L8GFJ5|A0A1L8GFJ5_XENLA -          Nup192               PF11894.5        4.4    5.7   0.1       9.1    4.6   0.1   1.4   1   0   0   1   1   1   0 USP domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180251601mg PE=1 SV=1
+tr|A0A310U2X3|A0A310U2X3_XENLA -          Nup192               PF11894.5        4.5    5.6   0.4       4.7    5.6   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18001262mg PE=4 SV=1
+tr|A0A1L8HXX5|A0A1L8HXX5_XENLA -          Nup192               PF11894.5        4.6    5.6   1.9       6.1    5.2   1.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=fsd1l PE=4 SV=1
+tr|A0A1L8HTP6|A0A1L8HTP6_XENLA -          Nup192               PF11894.5        4.9    5.5   0.8        17    3.7   0.8   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=fryl PE=4 SV=1
+tr|A0A1L8F9M3|A0A1L8F9M3_XENLA -          Nup192               PF11894.5        4.9    5.5   0.2         7    5.0   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039581mg PE=4 SV=1
+tr|A0A1L8GZQ3|A0A1L8GZQ3_XENLA -          Nup192               PF11894.5        5.1    5.5   0.6         6    5.2   0.6   1.1   1   0   0   1   1   1   0 Leptin OS=Xenopus laevis OX=8355 GN=lep PE=3 SV=1
+tr|A0A1L8GPQ5|A0A1L8GPQ5_XENLA -          Nup192               PF11894.5        5.1    5.5   2.3       7.8    4.8   2.3   1.4   1   0   0   1   1   1   0 DUF4200 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023969mg PE=4 SV=1
+tr|A0A1L8GI55|A0A1L8GI55_XENLA -          Nup192               PF11894.5        5.2    5.4   0.3       7.6    4.9   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18021666mg PE=1 SV=1
+tr|A0A1L8GEA2|A0A1L8GEA2_XENLA -          Nup192               PF11894.5        5.3    5.4   2.5       5.6    5.3   2.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18024748mg PE=4 SV=1
+tr|A0A1L8G0E6|A0A1L8G0E6_XENLA -          Nup192               PF11894.5        6.7    5.1   0.1       7.4    4.9   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18032496mg PE=4 SV=1
+tr|A0A1L8GWG2|A0A1L8GWG2_XENLA -          Nup192               PF11894.5        7.9    4.8   0.0       9.7    4.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016795mg PE=4 SV=1
+tr|A0A1L8H682|A0A1L8H682_XENLA -          Nup192               PF11894.5        8.9    4.6   0.1        13    4.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=rabgef1 PE=4 SV=1
+tr|A0A1L8FWY8|A0A1L8FWY8_XENLA -          Nup192               PF11894.5        9.1    4.6   0.4        14    4.0   0.4   1.1   1   0   0   1   1   1   0 PH domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18031282mg PE=1 SV=1
+tr|A0A1L8F177|A0A1L8F177_XENLA -          Nup192               PF11894.5        9.4    4.6   0.3        12    4.2   0.3   1.1   1   0   0   1   1   1   0 Hexosyltransferase OS=Xenopus laevis OX=8355 GN=XELAEV_18041568mg PE=3 SV=1
+tr|A0A1L8G4W1|A0A1L8G4W1_XENLA -          Nup192               PF11894.5        9.5    4.5   0.3        13    4.1   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029973mg PE=4 SV=1
+tr|A0A1L8F8G2|A0A1L8F8G2_XENLA -          Nup192               PF11894.5        9.5    4.5   0.3        15    3.9   0.3   1.2   1   0   0   1   1   1   0 Daxx domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039132mg PE=1 SV=1
+tr|A0A1L8FQ41|A0A1L8FQ41_XENLA -          Nup192               PF11894.5        9.7    4.5   0.2        13    4.1   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18032651mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 16:39:31 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q92621|NU205_HUMAN  -          Nup192               PF11894.5          0 1131.3   1.2         0 1131.1   1.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+tr|U3KPX2|U3KPX2_HUMAN -          Nup192               PF11894.5    1.2e-56  193.9   1.0   1.4e-56  193.7   1.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|U3KQ97|U3KQ97_HUMAN -          Nup192               PF11894.5    8.1e-29  101.6   0.1   9.3e-29  101.4   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=8
+tr|U3KQ47|U3KQ47_HUMAN -          Nup192               PF11894.5    1.5e-05   24.5   0.0   1.5e-05   24.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:07 2022
+# [ok]

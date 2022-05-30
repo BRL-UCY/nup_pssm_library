@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C9JYX1|C9JYX1_HUMAN         -          NPCC                 PF08058.8      0.015   17.4   0.0     0.025   16.6   0.0   1.3   1   1   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=8
+sp|Q96SK2|TM209_HUMAN          -          NPCC                 PF08058.8        0.1   14.7   0.0      0.23   13.5   0.0   1.6   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=2
+sp|P00403|COX2_HUMAN           -          NPCC                 PF08058.8       0.41   12.7   1.8      0.68   12.0   1.8   1.3   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Homo sapiens OX=9606 GN=MT-CO2 PE=1 SV=1
+sp|P59922|OR2B8_HUMAN          -          NPCC                 PF08058.8       0.51   12.4   0.4      0.98   11.5   0.4   1.5   1   0   0   1   1   1   0 Putative olfactory receptor 2B8 OS=Homo sapiens OX=9606 GN=OR2B8P PE=5 SV=1
+tr|H3BTW5|H3BTW5_HUMAN         -          NPCC                 PF08058.8        1.3   11.1   0.0       3.3    9.8   0.0   1.7   1   0   0   1   1   1   0 C-myc promoter-binding protein (Fragment) OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=1
+sp|B7ZAQ6|GPHRA_HUMAN          -          NPCC                 PF08058.8        1.9   10.5   0.0       1.9   10.5   0.0   3.5   3   1   0   3   3   3   0 Golgi pH regulator A OS=Homo sapiens OX=9606 GN=GPR89A PE=1 SV=2
+sp|P0CG08|GPHRB_HUMAN          -          NPCC                 PF08058.8        1.9   10.5   0.0       1.9   10.5   0.0   3.5   3   1   0   3   3   3   0 Golgi pH regulator B OS=Homo sapiens OX=9606 GN=GPR89B PE=1 SV=1
+tr|A0A0U1RR27|A0A0U1RR27_HUMAN -          NPCC                 PF08058.8        2.5   10.2   0.0       7.1    8.7   0.0   1.7   1   0   0   1   1   1   0 C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=1
+sp|Q7Z401|MYCPP_HUMAN          -          NPCC                 PF08058.8        2.5   10.1   0.0       6.8    8.7   0.0   1.7   1   0   0   1   1   1   0 C-myc promoter-binding protein OS=Homo sapiens OX=9606 GN=DENND4A PE=1 SV=2
+tr|F2Z2Z6|F2Z2Z6_HUMAN         -          NPCC                 PF08058.8        2.9    9.9   5.0        51    5.9   2.4   2.9   2   1   0   2   2   2   0 Prostaglandin F2-alpha receptor OS=Homo sapiens OX=9606 GN=PTGFR PE=4 SV=1
+tr|H0YM10|H0YM10_HUMAN         -          NPCC                 PF08058.8        3.7    9.6   0.0       4.7    9.3   0.0   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat protein 23 (Fragment) OS=Homo sapiens OX=9606 GN=TTC23 PE=4 SV=1
+tr|A0A1B0GWF7|A0A1B0GWF7_HUMAN -          NPCC                 PF08058.8        4.2    9.4   3.3       9.9    8.2   0.0   2.3   2   1   1   3   3   3   0 Voltage-dependent L-type calcium channel subunit alpha-1D (Fragment) OS=Homo sapiens OX=9606 GN=CACNA1D PE=4 SV=1
+sp|Q13129|RLF_HUMAN            -          NPCC                 PF08058.8        4.9    9.2   0.0        12    7.9   0.0   1.7   1   0   0   1   1   1   0 Zinc finger protein Rlf OS=Homo sapiens OX=9606 GN=RLF PE=1 SV=2
+sp|P43088|PF2R_HUMAN           -          NPCC                 PF08058.8          5    9.2   6.0        60    5.7   2.1   3.1   2   1   0   2   2   2   0 Prostaglandin F2-alpha receptor OS=Homo sapiens OX=9606 GN=PTGFR PE=1 SV=1
+tr|H0YNV8|H0YNV8_HUMAN         -          NPCC                 PF08058.8        5.4    9.1   0.1        10    8.2   0.0   1.5   1   1   1   2   2   2   0 Tetratricopeptide repeat protein 23 (Fragment) OS=Homo sapiens OX=9606 GN=TTC23 PE=4 SV=1
+sp|P28221|5HT1D_HUMAN          -          NPCC                 PF08058.8        5.5    9.0   0.3        16    7.5   0.3   1.9   1   1   0   1   1   1   0 5-hydroxytryptamine receptor 1D OS=Homo sapiens OX=9606 GN=HTR1D PE=1 SV=1
+tr|H0YNH7|H0YNH7_HUMAN         -          NPCC                 PF08058.8        6.3    8.9   0.0       9.3    8.3   0.0   1.3   1   1   0   1   1   1   0 Tetratricopeptide repeat protein 23 (Fragment) OS=Homo sapiens OX=9606 GN=TTC23 PE=4 SV=1
+tr|C9JXZ5|C9JXZ5_HUMAN         -          NPCC                 PF08058.8        6.3    8.9   0.2       6.7    8.8   0.2   1.1   1   0   0   1   1   1   0 Vesicle-associated membrane protein 8 OS=Homo sapiens OX=9606 GN=VAMP8 PE=1 SV=1
+tr|A0A0A0MSR3|A0A0A0MSR3_HUMAN -          NPCC                 PF08058.8        7.2    8.7   2.9   1.4e+02    4.5   0.2   2.5   2   1   0   3   3   3   0 Testis-expressed protein 10 (Fragment) OS=Homo sapiens OX=9606 GN=TEX10 PE=1 SV=1
+tr|H0Y8A4|H0Y8A4_HUMAN         -          NPCC                 PF08058.8        7.3    8.7   0.3        25    6.9   0.3   1.9   1   0   0   1   1   1   0 Tyrosine-protein kinase RYK (Fragment) OS=Homo sapiens OX=9606 GN=RYK PE=1 SV=2
+sp|Q9BV40|VAMP8_HUMAN          -          NPCC                 PF08058.8        7.8    8.6   0.2       8.8    8.4   0.2   1.1   1   0   0   1   1   1   0 Vesicle-associated membrane protein 8 OS=Homo sapiens OX=9606 GN=VAMP8 PE=1 SV=1
+tr|A0A087WV93|A0A087WV93_HUMAN -          NPCC                 PF08058.8        8.6    8.4   2.1        39    6.3   0.1   1.8   1   1   1   2   2   2   0 Voltage-dependent L-type calcium channel subunit alpha-1C (Fragment) OS=Homo sapiens OX=9606 GN=CACNA1C PE=4 SV=1
+sp|A3KN83|SBNO1_HUMAN          -          NPCC                 PF08058.8        8.7    8.4   0.1        28    6.8   0.1   1.8   1   0   0   1   1   1   0 Protein strawberry notch homolog 1 OS=Homo sapiens OX=9606 GN=SBNO1 PE=1 SV=1
+sp|P34925|RYK_HUMAN            -          NPCC                 PF08058.8        8.8    8.4   0.3        29    6.7   0.3   1.8   1   0   0   1   1   1   0 Tyrosine-protein kinase RYK OS=Homo sapiens OX=9606 GN=RYK PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 10:07:02 2022
+# [ok]

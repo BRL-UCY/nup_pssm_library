@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8EWH5|A0A1L8EWH5_XENLA -          Nup35_RRM            PF05172.10   1.8e-24   86.9   0.1     3e-24   86.2   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=XELAEV_18044791mg PE=3 SV=1
+tr|A0A1L8EPE3|A0A1L8EPE3_XENLA -          Nup35_RRM            PF05172.10     5e-24   85.5   0.1     8e-24   84.8   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=XELAEV_18047247mg PE=1 SV=1
+tr|A0A1L8EPF0|A0A1L8EPF0_XENLA -          Nup35_RRM            PF05172.10   5.3e-24   85.4   0.1   8.5e-24   84.7   0.1   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=nup35 PE=1 SV=1
+tr|A0A1L8GVA0|A0A1L8GVA0_XENLA -          Nup35_RRM            PF05172.10    0.0023   19.1   0.2       2.7    9.3   0.0   2.8   2   1   0   2   2   2   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=rbm27 PE=4 SV=1
+tr|A0A1L8H958|A0A1L8H958_XENLA -          Nup35_RRM            PF05172.10    0.0041   18.3   0.2       2.4    9.5   0.0   2.8   2   1   0   2   2   2   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=rbm26 PE=1 SV=1
+tr|A0A1L8GDG3|A0A1L8GDG3_XENLA -          Nup35_RRM            PF05172.10     0.012   16.9   0.1       4.4    8.6   0.0   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18024429mg PE=1 SV=1
+tr|A0A1L8GXK8|A0A1L8GXK8_XENLA -          Nup35_RRM            PF05172.10     0.033   15.4   0.2        25    6.2   0.1   2.8   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=rbm27 PE=1 SV=1
+tr|A0A1L8H1F1|A0A1L8H1F1_XENLA -          Nup35_RRM            PF05172.10     0.052   14.8   0.2       1.1   10.6   0.2   2.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tia1 PE=1 SV=1
+tr|Q68EU5|Q68EU5_XENLA         -          Nup35_RRM            PF05172.10     0.053   14.7   0.1       1.1   10.6   0.1   2.6   1   1   0   1   1   1   0 MGC84540 protein OS=Xenopus laevis OX=8355 GN=tia1 PE=1 SV=1
+tr|A0A1L8GS49|A0A1L8GS49_XENLA -          Nup35_RRM            PF05172.10      0.15   13.3   0.1       2.1    9.6   0.1   2.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020360mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:19 2022
+# [ok]

@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A286Y877|A0A286Y877_DANRE -          ELYS                 PF13934.3      1e-54  187.2   1.3   1.7e-54  186.5   1.3   1.4   1   0   0   1   1   1   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=2
+tr|X1WE68|X1WE68_DANRE         -          ELYS                 PF13934.3      1e-54  187.2   1.3   1.7e-54  186.5   1.3   1.4   1   0   0   1   1   1   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=1
+tr|F5H8N4|F5H8N4_DANRE         -          ELYS                 PF13934.3      0.041   15.2   2.4      0.67   11.3   0.7   3.4   3   1   1   4   4   3   0 Leucine-rich pentatricopeptide repeat-containing OS=Danio rerio OX=7955 GN=lrpprc PE=1 SV=2
+tr|F1R2J9|F1R2J9_DANRE         -          ELYS                 PF13934.3       0.19   13.0   0.5      0.41   12.0   0.5   1.4   1   0   0   1   1   1   0 Membrane protein, palmitoylated 5b (MAGUK p55 subfamily member 5) OS=Danio rerio OX=7955 GN=mpp5b PE=3 SV=1
+tr|F1R7S1|F1R7S1_DANRE         -          ELYS                 PF13934.3       0.28   12.5   0.6       0.4   12.0   0.6   1.3   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Danio rerio OX=7955 GN=cope PE=1 SV=2
+tr|A0A2R8QQQ9|A0A2R8QQQ9_DANRE -          ELYS                 PF13934.3       0.33   12.3   3.1       4.4    8.6   0.1   3.4   3   0   0   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=1
+tr|F1Q9F5|F1Q9F5_DANRE         -          ELYS                 PF13934.3       0.46   11.8   0.1       1.9    9.8   0.1   2.1   1   0   0   1   1   1   0 Importin 13 OS=Danio rerio OX=7955 GN=ipo13 PE=1 SV=2
+tr|A0A0R4ICX4|A0A0R4ICX4_DANRE -          ELYS                 PF13934.3       0.48   11.7   0.7       2.2    9.6   0.4   1.9   1   1   1   2   2   2   0 Si:ch211-117l17.6 OS=Danio rerio OX=7955 GN=si:ch211-117l17.6 PE=4 SV=1
+tr|A0A2R8QGU9|A0A2R8QGU9_DANRE -          ELYS                 PF13934.3        0.5   11.7   4.4       1.8    9.9   0.1   3.1   3   1   0   3   3   3   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=1
+tr|F1RBR9|F1RBR9_DANRE         -          ELYS                 PF13934.3       0.67   11.3   0.2        41    5.4   0.1   2.3   1   1   0   2   2   2   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|F1QG20|F1QG20_DANRE         -          ELYS                 PF13934.3       0.79   11.0   4.1       5.3    8.3   0.1   3.4   3   0   0   3   3   3   0 Intraflagellar transport 140 homolog (Chlamydomonas) OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=2
+sp|Q7T320|GORAB_DANRE          -          ELYS                 PF13934.3        1.4   10.3   2.6       2.1    9.6   2.6   1.3   1   0   0   1   1   1   0 RAB6-interacting golgin OS=Danio rerio OX=7955 GN=gorab PE=2 SV=1
+tr|A0A0R4IR93|A0A0R4IR93_DANRE -          ELYS                 PF13934.3        1.4   10.2   0.3       1.9    9.8   0.3   1.3   1   0   0   1   1   1   0 Coatomer protein complex, subunit epsilon OS=Danio rerio OX=7955 GN=cope PE=1 SV=1
+tr|B8JM81|B8JM81_DANRE         -          ELYS                 PF13934.3        1.4   10.2   2.6       2.3    9.5   2.6   1.3   1   0   0   1   1   1   0 RAB6-interacting golgin OS=Danio rerio OX=7955 GN=gorab PE=4 SV=1
+tr|A0A2R8QMS4|A0A2R8QMS4_DANRE -          ELYS                 PF13934.3        1.6   10.0   0.6       2.1    9.7   0.6   1.1   1   0   0   1   1   1   0 AIG1-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F1RB39|F1RB39_DANRE         -          ELYS                 PF13934.3        1.9    9.8   0.0       4.7    8.5   0.0   1.6   1   0   0   1   1   1   0 DDE Tnp4 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=2
+tr|A0A0G2KY48|A0A0G2KY48_DANRE -          ELYS                 PF13934.3        1.9    9.8   0.5       2.8    9.2   0.5   1.3   1   0   0   1   1   1   0 5-azacytidine-induced 2 OS=Danio rerio OX=7955 GN=azi2 PE=4 SV=2
+tr|F8W2U8|F8W2U8_DANRE         -          ELYS                 PF13934.3        1.9    9.8   1.0       2.6    9.3   1.0   1.1   1   0   0   1   1   1   0 Si:dkeyp-52c3.7 OS=Danio rerio OX=7955 GN=si:dkeyp-52c3.7 PE=4 SV=2
+tr|E9QGV1|E9QGV1_DANRE         -          ELYS                 PF13934.3          2    9.7   1.5       4.7    8.5   1.1   1.6   1   1   1   2   2   2   0 Dual-specificity phosphatase 12 (Fragment) OS=Danio rerio OX=7955 GN=dusp12 PE=1 SV=8
+tr|A0A140LG02|A0A140LG02_DANRE -          ELYS                 PF13934.3        2.1    9.6   0.0       4.5    8.6   0.0   1.5   1   0   0   1   1   1   0 Si:dkey-187j14.7 OS=Danio rerio OX=7955 GN=si:dkey-187j14.7 PE=4 SV=1
+tr|A0A2R8QI01|A0A2R8QI01_DANRE -          ELYS                 PF13934.3        2.3    9.5   0.0        29    5.9   0.0   2.3   1   1   1   2   2   2   0 cGMP-dependent protein kinase OS=Danio rerio OX=7955 GN=prkg2 PE=3 SV=1
+tr|E7EXH4|E7EXH4_DANRE         -          ELYS                 PF13934.3        2.4    9.4   2.4        84    4.4   0.1   2.9   2   1   0   3   3   3   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|A0A2R8PVG3|A0A2R8PVG3_DANRE -          ELYS                 PF13934.3        2.7    9.3   0.0       3.9    8.7   0.0   1.3   1   0   0   1   1   1   0 Myosin motor domain-containing protein OS=Danio rerio OX=7955 GN=myo10 PE=3 SV=1
+tr|A0A2U3TWC5|A0A2U3TWC5_DANRE -          ELYS                 PF13934.3        2.7    9.3   0.3         9    7.6   0.3   1.9   1   0   0   1   1   1   0 Neurobeachin-like protein 2 OS=Danio rerio OX=7955 GN=nbeal2 PE=4 SV=1
+tr|E9QD71|E9QD71_DANRE         -          ELYS                 PF13934.3        2.8    9.2   0.9         6    8.1   0.9   1.6   1   1   0   1   1   1   0 Dual-specificity phosphatase 12 (Fragment) OS=Danio rerio OX=7955 GN=dusp12 PE=1 SV=1
+tr|F1QYI8|F1QYI8_DANRE         -          ELYS                 PF13934.3        2.9    9.2   0.9       6.9    8.0   0.9   1.7   1   1   0   1   1   1   0 Dual-specificity phosphatase 12 OS=Danio rerio OX=7955 GN=dusp12 PE=1 SV=1
+tr|A0A2R8Q1R3|A0A2R8Q1R3_DANRE -          ELYS                 PF13934.3        3.2    9.0   0.5       4.4    8.6   0.5   1.1   1   0   0   1   1   1   0 AIG1-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F8W2J7|F8W2J7_DANRE         -          ELYS                 PF13934.3        3.3    9.0   0.0       4.8    8.5   0.0   1.2   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase (Fragment) OS=Danio rerio OX=7955 GN=tfb1m PE=3 SV=1
+tr|F8W3E3|F8W3E3_DANRE         -          ELYS                 PF13934.3        3.3    9.0   1.0       5.6    8.2   1.0   1.3   1   0   0   1   1   1   0 Si:dkeyp-52c3.7 OS=Danio rerio OX=7955 GN=si:dkeyp-52c3.7 PE=4 SV=2
+tr|A0A2R8RZ71|A0A2R8RZ71_DANRE -          ELYS                 PF13934.3        3.4    9.0   0.9       4.7    8.5   0.9   1.1   1   0   0   1   1   1   0 Si:dkey-73p2.3 OS=Danio rerio OX=7955 GN=si:dkey-73p2.3 PE=4 SV=1
+tr|A0A2R8RRQ2|A0A2R8RRQ2_DANRE -          ELYS                 PF13934.3        3.4    8.9   0.6       4.2    8.6   0.6   1.2   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Danio rerio OX=7955 GN=LOC100330990 PE=4 SV=1
+tr|R4GE87|R4GE87_DANRE         -          ELYS                 PF13934.3        3.5    8.9   0.0       4.9    8.4   0.0   1.3   1   0   0   1   1   1   0 Creatine kinase, brain b OS=Danio rerio OX=7955 GN=ckbb PE=1 SV=1
+tr|F1QD14|F1QD14_DANRE         -          ELYS                 PF13934.3        4.1    8.7   0.0       7.3    7.9   0.0   1.3   1   0   0   1   1   1   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4b PE=3 SV=2
+tr|F1QP11|F1QP11_DANRE         -          ELYS                 PF13934.3        4.2    8.7   0.1       5.1    8.4   0.1   1.1   1   0   0   1   1   1   0 Zgc:154061 OS=Danio rerio OX=7955 GN=zgc:154061 PE=4 SV=2
+tr|A0A0R4IUL4|A0A0R4IUL4_DANRE -          ELYS                 PF13934.3        4.3    8.6   0.0       7.5    7.8   0.0   1.3   1   0   0   1   1   1   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4b PE=3 SV=2
+sp|Q08BW6|CO041_DANRE          -          ELYS                 PF13934.3        4.6    8.5   0.3       5.8    8.2   0.3   1.2   1   0   0   1   1   1   0 Protein C15orf41 homolog OS=Danio rerio OX=7955 GN=zgc:154061 PE=2 SV=1
+tr|F1QRR9|F1QRR9_DANRE         -          ELYS                 PF13934.3        4.8    8.5   1.4       6.9    7.9   1.4   1.2   1   0   0   1   1   1   0 Si:dkeyp-52c3.7 OS=Danio rerio OX=7955 GN=si:dkeyp-52c3.7 PE=4 SV=3
+tr|A0A0R4IRA2|A0A0R4IRA2_DANRE -          ELYS                 PF13934.3        5.2    8.4   0.8        13    7.1   0.6   1.7   1   1   0   1   1   1   0 Tetratricopeptide repeat domain 16 (Fragment) OS=Danio rerio OX=7955 GN=ttc16 PE=4 SV=1
+tr|A0A2R8Q828|A0A2R8Q828_DANRE -          ELYS                 PF13934.3          6    8.1   0.1        74    4.6   0.0   2.0   2   0   0   2   2   2   0 Gem-associated protein 2 OS=Danio rerio OX=7955 GN=gemin2 PE=1 SV=1
+tr|A0A0R4IU10|A0A0R4IU10_DANRE -          ELYS                 PF13934.3        6.1    8.1   0.0        10    7.4   0.0   1.3   1   0   0   1   1   1   0 rRNA adenine N(6)-methyltransferase OS=Danio rerio OX=7955 GN=tfb1m PE=1 SV=1
+tr|A0A0R4IGH3|A0A0R4IGH3_DANRE -          ELYS                 PF13934.3        6.6    8.0   0.0       9.3    7.5   0.0   1.2   1   0   0   1   1   1   0 Si:ch73-106k19.2 OS=Danio rerio OX=7955 GN=si:ch73-106k19.2 PE=4 SV=2
+sp|A5WWB0|UBP46_DANRE          -          ELYS                 PF13934.3        7.4    7.9   1.5        39    5.5   0.1   2.5   2   1   1   3   3   3   0 Ubiquitin carboxyl-terminal hydrolase 46 OS=Danio rerio OX=7955 GN=usp46 PE=3 SV=2
+tr|A0A2R8Q4S4|A0A2R8Q4S4_DANRE -          ELYS                 PF13934.3        7.5    7.8   1.4        13    7.1   1.4   1.3   1   0   0   1   1   1   0 Si:dkeyp-52c3.7 OS=Danio rerio OX=7955 GN=si:dkeyp-52c3.7 PE=4 SV=1
+tr|A0A0R4IV14|A0A0R4IV14_DANRE -          ELYS                 PF13934.3        7.8    7.8   1.1        22    6.3   1.1   1.9   1   0   0   1   1   1   0 Tetratricopeptide repeat domain 16 OS=Danio rerio OX=7955 GN=ttc16 PE=4 SV=1
+tr|B0S6J7|B0S6J7_DANRE         -          ELYS                 PF13934.3        7.8    7.8   0.0       9.3    7.5   0.0   1.3   1   0   0   1   1   1   0 Inhibitor of growth family, member 1 (Fragment) OS=Danio rerio OX=7955 GN=ing1 PE=4 SV=8
+tr|A0A2R8QD03|A0A2R8QD03_DANRE -          ELYS                 PF13934.3          8    7.7   1.1        14    7.0   1.1   1.3   1   0   0   1   1   1   0 AIG1-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|Q568M7|Q568M7_DANRE         -          ELYS                 PF13934.3        8.2    7.7   1.3        85    4.4   0.0   1.8   1   1   1   2   2   2   0 Twist family bHLH transcription factor 1b OS=Danio rerio OX=7955 GN=twist1b PE=2 SV=1
+tr|B8A5E3|B8A5E3_DANRE         -          ELYS                 PF13934.3        9.3    7.5   0.0        27    6.0   0.0   1.7   1   0   0   1   1   1   0 RUN and FYVE domain-containing 2 OS=Danio rerio OX=7955 GN=rufy2 PE=1 SV=1
+tr|A0A2R8QJL1|A0A2R8QJL1_DANRE -          ELYS                 PF13934.3        9.4    7.5   0.0        27    6.0   0.0   1.7   1   0   0   1   1   1   0 RUN and FYVE domain-containing 2 OS=Danio rerio OX=7955 GN=rufy2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 02:24:13 2022
+# [ok]

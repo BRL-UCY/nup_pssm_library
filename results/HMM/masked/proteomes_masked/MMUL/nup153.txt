@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6V9A5|F6V9A5_MACMU         -          Nup153               PF08604.7     7e-158  527.9   0.0  8.3e-158  527.6   0.0   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup153 OS=Macaca mulatta OX=9544 GN=NUP153 PE=2 SV=2
+tr|A0A1D5R0K3|A0A1D5R0K3_MACMU -          Nup153               PF08604.7     1e-152  510.9   0.0  7.1e-152  508.1   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+tr|F6V9C1|F6V9C1_MACMU         -          Nup153               PF08604.7   4.9e-144  482.2   0.0  5.3e-143  478.8   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=2
+tr|A0A1D5R5K2|A0A1D5R5K2_MACMU -          Nup153               PF08604.7   7.8e-140  468.4   0.0    1e-139  468.0   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup153.txt --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:02 2022
+# [ok]

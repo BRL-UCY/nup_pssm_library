@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9XZ06|NU931_DROME          -          Nic96                PF04097.11  2.1e-170  568.5   0.2  2.8e-170  568.1   0.2   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          Nic96                PF04097.11  3.3e-162  541.4   0.9  4.5e-162  541.0   0.9   1.1   1   0   0   1   1   1   1 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|A1Z9G2|SYF1_DROME           -          Nic96                PF04097.11     0.058   12.1   1.7      0.11   11.3   0.1   2.2   3   0   0   3   3   3   0 Pre-mRNA-splicing factor syf1 homolog OS=Drosophila melanogaster OX=7227 GN=fand PE=1 SV=1
+tr|Q8MYW2|Q8MYW2_DROME         -          Nic96                PF04097.11     0.065   12.0   1.0     0.075   11.8   1.0   1.0   1   0   0   1   1   1   0 RH02374p OS=Drosophila melanogaster OX=7227 GN=EG:171D11.5 PE=2 SV=1
+tr|Q9VWS1|Q9VWS1_DROME         -          Nic96                PF04097.11      0.15   10.8   0.2      0.36    9.5   0.0   1.6   2   1   0   2   2   2   0 LD25271p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6617 PE=1 SV=1
+tr|Q9VPR0|Q9VPR0_DROME         -          Nic96                PF04097.11      0.27    9.9   3.2      0.78    8.4   0.0   2.9   3   0   0   3   3   3   0 LP14662p OS=Drosophila melanogaster OX=7227 GN=rempA PE=2 SV=2
+tr|Q7KTZ4|Q7KTZ4_DROME         -          Nic96                PF04097.11      0.31    9.8   3.2      0.81    8.4   0.0   2.9   3   0   0   3   3   3   0 Reduced mechanoreceptor potential A, isoform B OS=Drosophila melanogaster OX=7227 GN=rempA PE=4 SV=1
+sp|Q9Y0V3|T10B_DROME           -          Nic96                PF04097.11      0.33    9.7   0.9      0.38    9.5   0.9   1.0   1   0   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit Tim10B OS=Drosophila melanogaster OX=7227 GN=Tim9b PE=3 SV=1
+sp|Q9VKJ9|C2D1_DROME           -          Nic96                PF04097.11      0.39    9.4   0.7       6.6    5.4   0.1   2.5   3   0   0   3   3   3   0 Coiled-coil and C2 domain-containing protein 1-like OS=Drosophila melanogaster OX=7227 GN=l(2)gd1 PE=1 SV=1
+tr|M9NEZ0|M9NEZ0_DROME         -          Nic96                PF04097.11      0.42    9.3   0.7       6.8    5.3   0.1   2.5   3   0   0   3   3   3   0 Lethal (2) giant discs 1, isoform B OS=Drosophila melanogaster OX=7227 GN=l(2)gd1 PE=4 SV=1
+tr|A1ZBM3|A1ZBM3_DROME         -          Nic96                PF04097.11      0.82    8.3   0.4       3.8    6.1   0.1   2.2   2   0   0   2   2   2   0 Outer segment 6 OS=Drosophila melanogaster OX=7227 GN=Oseg6 PE=4 SV=1
+tr|Q9VSJ6|Q9VSJ6_DROME         -          Nic96                PF04097.11      0.84    8.3   0.4       1.3    7.7   0.4   1.2   1   0   0   1   1   1   0 FI05482p OS=Drosophila melanogaster OX=7227 GN=Oseg1 PE=2 SV=3
+sp|A1Z9A8|PTCD3_DROME          -          Nic96                PF04097.11       1.1    7.9   0.3       2.3    6.9   0.3   1.4   1   0   0   1   1   1   0 Protein PTCD3 homolog, mitochondrial OS=Drosophila melanogaster OX=7227 GN=CG4679 PE=2 SV=1
+tr|A1Z910|A1Z910_DROME         -          Nic96                PF04097.11       1.3    7.7   0.0       2.2    7.0   0.0   1.3   1   0   0   1   1   1   0 Neprilysin-like 10 OS=Drosophila melanogaster OX=7227 GN=Nepl10 PE=4 SV=1
+tr|Q9VJR9|Q9VJR9_DROME         -          Nic96                PF04097.11       1.3    7.7   0.0       1.8    7.2   0.0   1.2   1   0   0   1   1   1   0 COP9 signalosome subunit 1a OS=Drosophila melanogaster OX=7227 GN=CSN1a PE=2 SV=1
+sp|Q8SYG2|CSN3_DROME           -          Nic96                PF04097.11       1.7    7.3   0.7       2.8    6.6   0.7   1.3   1   0   0   1   1   1   0 COP9 signalosome complex subunit 3 OS=Drosophila melanogaster OX=7227 GN=CSN3 PE=2 SV=2
+tr|Q9VX93|Q9VX93_DROME         -          Nic96                PF04097.11         2    7.0   1.9         2    7.0   1.9   1.0   1   0   0   1   1   1   0 GEO02689p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13000 PE=2 SV=1
+tr|Q9W0R0|Q9W0R0_DROME         -          Nic96                PF04097.11       2.9    6.5   0.3       5.7    5.6   0.3   1.4   1   0   0   1   1   1   0 Cell division cycle 5, isoform A OS=Drosophila melanogaster OX=7227 GN=Cdc5 PE=1 SV=2
+tr|Q9VT31|Q9VT31_DROME         -          Nic96                PF04097.11       4.9    5.8   1.6       6.8    5.3   1.6   1.1   1   0   0   1   1   1   0 GH24859p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16719 PE=2 SV=1
+tr|Q8MZ13|Q8MZ13_DROME         -          Nic96                PF04097.11         5    5.7   1.1       9.1    4.9   1.1   1.3   1   0   0   1   1   1   0 RE19958p OS=Drosophila melanogaster OX=7227 GN=CG7633 PE=2 SV=1
+tr|M9PI06|M9PI06_DROME         -          Nic96                PF04097.11       6.2    5.4   1.1        11    4.6   1.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=CG14192 PE=4 SV=1
+tr|Q7K035|Q7K035_DROME         -          Nic96                PF04097.11       6.5    5.4   0.1       8.2    5.0   0.1   1.1   1   0   0   1   1   1   0 AT23443p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14763 PE=2 SV=1
+sp|Q9W040|OSM1_DROME           -          Nic96                PF04097.11       6.8    5.3  13.8       1.8    7.2   2.3   4.4   4   2   1   5   5   5   0 Intraflagellar transport protein 172 homolog OS=Drosophila melanogaster OX=7227 GN=Oseg2 PE=3 SV=3
+tr|Q9W097|Q9W097_DROME         -          Nic96                PF04097.11       6.9    5.3   0.5        11    4.6   0.5   1.2   1   0   0   1   1   1   0 LD29485p OS=Drosophila melanogaster OX=7227 GN=Oseg4 PE=2 SV=1
+tr|Q9VTE6|Q9VTE6_DROME         -          Nic96                PF04097.11       7.4    5.2   1.7        12    4.5   1.7   1.4   1   0   0   1   1   1   0 IP14658p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7839 PE=1 SV=3
+tr|Q6IKE6|Q6IKE6_DROME         -          Nic96                PF04097.11       7.4    5.2   0.1       8.7    5.0   0.1   1.0   1   0   0   1   1   1   0 HDC12658 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG44261 PE=4 SV=1
+tr|Q9VGF2|Q9VGF2_DROME         -          Nic96                PF04097.11       9.8    4.8   0.0        14    4.3   0.0   1.1   1   0   0   1   1   1   0 MIP04347p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12224 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:42:22 2022
+# [ok]

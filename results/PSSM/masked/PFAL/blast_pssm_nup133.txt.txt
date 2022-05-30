@@ -1,0 +1,6 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VCW3|Q9VCW3_DROME LP09464p OS=Drosophila melanogaster GN=Nup133 PE=1 SV=2
+# Database: DB_masked/PFAL_db
+# 0 hits found
+# BLAST processed 1 queries

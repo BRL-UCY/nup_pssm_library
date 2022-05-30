@@ -1,0 +1,39 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P06787|CALM_YEAST  -          EF-hand_7            PF13499.3    4.1e-23   80.1   0.0   2.5e-12   45.5   0.1   2.1   2   0   0   2   2   2   2 Calmodulin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CMD1 PE=1 SV=1
+sp|P06704|CDC31_YEAST -          EF-hand_7            PF13499.3    4.5e-21   73.5   2.5   8.3e-11   40.7   0.8   2.0   2   0   0   2   2   2   2 Cell division control protein 31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC31 PE=1 SV=2
+sp|Q06389|NCS1_YEAST  -          EF-hand_7            PF13499.3    5.3e-21   73.3   5.7   1.2e-14   53.0   0.3   2.9   2   1   0   2   2   2   2 Calcium-binding protein NCS-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FRQ1 PE=1 SV=2
+sp|D6W196|CMC1_YEAST  -          EF-hand_7            PF13499.3    8.8e-13   47.0   0.8     7e-09   34.5   0.1   2.5   2   0   0   2   2   2   2 Truncated non-functional calcium-binding mitochondrial carrier SAL1-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAL1 PE=1 SV=2
+sp|P53141|MLC1_YEAST  -          EF-hand_7            PF13499.3    4.6e-12   44.7   1.7   3.8e-08   32.1   0.5   2.1   2   0   0   2   2   2   2 Myosin light chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC1 PE=1 SV=1
+sp|P25296|CANB_YEAST  -          EF-hand_7            PF13499.3    2.2e-11   42.5   1.4   1.6e-06   27.0   0.1   2.9   2   2   0   2   2   2   2 Calcineurin subunit B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CNB1 PE=1 SV=3
+sp|P53238|PEF1_YEAST  -          EF-hand_7            PF13499.3    1.7e-08   33.2   0.4    0.0058   15.5   0.0   2.8   2   1   0   2   2   2   2 Peflin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PEF1 PE=1 SV=2
+sp|P34216|EDE1_YEAST  -          EF-hand_7            PF13499.3      6e-05   21.9   0.1       0.4    9.6   0.0   3.4   3   0   0   3   3   3   1 EH domain-containing and endocytosis protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EDE1 PE=1 SV=2
+sp|P32599|FIMB_YEAST  -          EF-hand_7            PF13499.3     0.0078   15.1   0.4     0.021   13.7   0.0   2.0   2   0   0   2   2   1   1 Fimbrin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAC6 PE=1 SV=1
+sp|P32383|PLC1_YEAST  -          EF-hand_7            PF13499.3      0.011   14.6   0.2     0.038   12.9   0.2   1.9   1   0   0   1   1   1   0 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PLC1 PE=1 SV=1
+sp|P32521|PAN1_YEAST  -          EF-hand_7            PF13499.3      0.098   11.6   0.0       2.1    7.3   0.1   2.3   2   0   0   2   2   2   0 Actin cytoskeleton-regulatory complex protein PAN1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PAN1 PE=1 SV=2
+sp|Q12482|AGC1_YEAST  -          EF-hand_7            PF13499.3       0.17   10.8   0.3       1.6    7.7   0.1   2.8   2   0   0   2   2   2   0 Mitochondrial aspartate-glutamate transporter AGC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AGC1 PE=3 SV=1
+sp|P39722|GEM1_YEAST  -          EF-hand_7            PF13499.3       0.36    9.8   0.2       2.2    7.3   0.1   2.3   3   0   0   3   3   2   0 Mitochondrial Rho GTPase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GEM1 PE=1 SV=1
+sp|Q06580|MLC2_YEAST  -          EF-hand_7            PF13499.3       0.38    9.7   0.0      0.69    8.9   0.0   1.4   1   0   0   1   1   1   0 Myosin light chain 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC2 PE=1 SV=1
+sp|P53258|GYP2_YEAST  -          EF-hand_7            PF13499.3        1.4    7.9   0.1       5.6    6.0   0.1   2.1   2   0   0   2   2   1   0 GTPase-activating protein GYP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MDR1 PE=1 SV=1
+sp|P47030|TAX4_YEAST  -          EF-hand_7            PF13499.3        1.7    7.7   0.0         3    6.8   0.0   1.3   1   0   0   1   1   1   0 Protein TAX4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TAX4 PE=1 SV=1
+sp|P40061|TSC11_YEAST -          EF-hand_7            PF13499.3        2.3    7.2   0.0       5.6    6.0   0.0   1.6   1   0   0   1   1   1   0 Target of rapamycin complex 2 subunit TSC11 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TSC11 PE=1 SV=1
+sp|P40160|RIO2_YEAST  -          EF-hand_7            PF13499.3        2.5    7.1   0.0         6    5.9   0.0   1.7   1   0   0   1   1   1   0 Serine/threonine-protein kinase RIO2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RIO2 PE=1 SV=1
+sp|P50077|CCH1_YEAST  -          EF-hand_7            PF13499.3        3.7    6.5   0.0       8.7    5.3   0.0   1.5   1   0   0   1   1   1   0 Calcium-channel protein CCH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CCH1 PE=1 SV=1
+sp|Q06385|VPS74_YEAST -          EF-hand_7            PF13499.3        3.8    6.5   0.0       7.9    5.5   0.0   1.5   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 74 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VPS74 PE=1 SV=1
+sp|P16603|NCPR_YEAST  -          EF-hand_7            PF13499.3        4.3    6.3   0.0        16    4.5   0.0   2.0   2   0   0   2   2   1   0 NADPH--cytochrome P450 reductase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NCP1 PE=1 SV=3
+sp|Q12461|PTPA2_YEAST -          EF-hand_7            PF13499.3          5    6.1   0.6        18    4.3   0.6   2.0   1   1   0   1   1   1   0 Serine/threonine-protein phosphatase 2A activator 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRD2 PE=1 SV=1
+sp|P39931|SS120_YEAST -          EF-hand_7            PF13499.3        9.3    5.3   0.0        16    4.5   0.0   1.3   1   0   0   1   1   1   0 Protein SSP120 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSP120 PE=1 SV=1
+sp|P38429|SAP30_YEAST -          EF-hand_7            PF13499.3        9.3    5.2   0.0        20    4.2   0.0   1.5   1   0   0   1   1   1   0 Transcriptional regulatory protein SAP30 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAP30 PE=1 SV=2
+sp|Q03759|YMK8_YEAST  -          EF-hand_7            PF13499.3        9.6    5.2   0.1        14    4.6   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein YML108W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML108W PE=1 SV=1
+sp|P35172|TREB_YEAST  -          EF-hand_7            PF13499.3        9.7    5.2   0.1        23    4.0   0.1   1.6   1   0   0   1   1   1   0 Probable trehalase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NTH2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13499.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/centrin2.txt --max --cpu 8 hmm_profiles/PF13499.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:31 2022
+# [ok]

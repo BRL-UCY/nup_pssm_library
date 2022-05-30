@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7AS82|F7AS82_MACMU         -          Nup84_Nup100         PF04121.10    2e-215  718.4  18.1  2.3e-215  718.2  18.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=2
+tr|F7AS65|F7AS65_MACMU         -          Nup84_Nup100         PF04121.10  2.9e-215  717.9  18.1  3.4e-215  717.7  18.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=2 SV=2
+tr|F6PUD9|F6PUD9_MACMU         -          Nup84_Nup100         PF04121.10  3.4e-183  611.9  14.5  2.4e-117  394.2   6.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=1
+tr|A0A1D5QUG4|A0A1D5QUG4_MACMU -          Nup84_Nup100         PF04121.10    0.0073   15.9   0.3     0.015   14.9   0.3   1.5   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=3 SV=1
+tr|G7NPT2|G7NPT2_MACMU         -          Nup84_Nup100         PF04121.10    0.0088   15.6   0.3     0.018   14.5   0.3   1.5   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=2 SV=1
+tr|A0A1D5R2M9|A0A1D5R2M9_MACMU -          Nup84_Nup100         PF04121.10      0.01   15.4   0.3      0.02   14.4   0.3   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Macaca mulatta OX=9544 GN=NUP93 PE=3 SV=1
+tr|A0A1D5QG18|A0A1D5QG18_MACMU -          Nup84_Nup100         PF04121.10      0.11   12.0   0.1      0.13   11.8   0.1   1.2   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Macaca mulatta OX=9544 GN=TNPO1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup107.txt --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:54 2022
+# [ok]

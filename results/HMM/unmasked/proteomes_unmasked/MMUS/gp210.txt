@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9QY81|PO210_MOUSE          -          Big_2                PF02368.15   2.3e-12   48.2  14.4   2.9e-09   38.2   0.0   6.3   7   0   0   7   7   7   2 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+tr|A0A0R4J1I6|A0A0R4J1I6_MOUSE -          Big_2                PF02368.15   2.4e-12   48.2  14.7   2.9e-09   38.3   0.0   6.4   7   0   0   7   7   7   2 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=1
+tr|F6XGN0|F6XGN0_MOUSE         -          Big_2                PF02368.15   2.5e-12   48.1   4.2   1.5e-09   39.2   0.0   4.4   3   0   0   3   3   3   1 Nuclear pore membrane glycoprotein 210 (Fragment) OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+tr|A0A0G2JFZ8|A0A0G2JFZ8_MOUSE -          Big_2                PF02368.15   2.5e-10   41.7  25.4   6.7e-07   30.7   0.0   6.7   7   0   0   7   7   7   2 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=1
+sp|Q9D2F7|P210L_MOUSE          -          Big_2                PF02368.15   2.6e-10   41.6  25.4   6.7e-07   30.7   0.0   6.7   7   0   0   7   7   7   2 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=2
+tr|Q1WNQ6|Q1WNQ6_MOUSE         -          Big_2                PF02368.15    0.0029   19.0   0.4    0.0038   18.6   0.4   1.1   1   0   0   1   1   1   1 Myosin-1 (Fragment) OS=Mus musculus OX=10090 GN=Myh1 PE=1 SV=1
+sp|Q5SX39|MYH4_MOUSE           -          Big_2                PF02368.15     0.079   14.4   0.9      0.24   12.9   0.9   1.7   1   0   0   1   1   1   0 Myosin-4 OS=Mus musculus OX=10090 GN=Myh4 PE=2 SV=1
+sp|Q5SX40|MYH1_MOUSE           -          Big_2                PF02368.15      0.25   12.8   0.6      0.74   11.3   0.6   1.7   1   0   0   1   1   1   0 Myosin-1 OS=Mus musculus OX=10090 GN=Myh1 PE=1 SV=1
+sp|Q80W93|HYDIN_MOUSE          -          Big_2                PF02368.15      0.33   12.4   0.0        63    5.1   0.0   3.1   2   0   0   2   2   2   0 Hydrocephalus-inducing protein OS=Mus musculus OX=10090 GN=Hydin PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/gp210.txt --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:41 2022
+# [ok]

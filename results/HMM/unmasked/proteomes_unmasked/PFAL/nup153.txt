@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C0H473|C0H473_PLAF7         -          Nup153               PF08604.7       0.52    7.3   0.3       0.9    6.6   0.3   1.4   1   0   0   1   1   1   0 Co-chaperone p23 OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0314000 PE=4 SV=1
+tr|Q9U0K7|Q9U0K7_PLAF7         -          Nup153               PF08604.7        1.2    6.2   2.2       2.5    5.1   2.2   1.5   1   0   0   1   1   1   0 AAA family ATPase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0407900 PE=3 SV=1
+tr|Q8IKD5|Q8IKD5_PLAF7         -          Nup153               PF08604.7        1.9    5.5   2.3       2.2    5.3   2.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1470300 PE=4 SV=1
+tr|Q8I3K7|Q8I3K7_PLAF7         -          Nup153               PF08604.7          2    5.4   0.2       2.6    5.0   0.2   1.1   1   0   0   1   1   1   0 Inner membrane complex protein 1g, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0525800 PE=4 SV=1
+tr|Q8I3C3|Q8I3C3_PLAF7         -          Nup153               PF08604.7        2.3    5.2   0.4       3.1    4.8   0.4   1.1   1   0   0   1   1   1   0 Serine/threonine protein kinase, FIKK family OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0902500 PE=4 SV=1
+tr|Q8IB20|Q8IB20_PLAF7         -          Nup153               PF08604.7        2.5    5.1   0.6       3.1    4.8   0.6   1.0   1   0   0   1   1   1   0 Zinc finger protein, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0818500 PE=4 SV=1
+tr|Q8IDW4|Q8IDW4_PLAF7         -          Nup153               PF08604.7        3.5    4.6   3.5       5.5    4.0   3.5   1.3   1   0   0   1   1   1   0 Nuclear movement protein, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1336800 PE=4 SV=1
+tr|A0A144A041|A0A144A041_PLAF7 -          Nup153               PF08604.7        5.1    4.1   0.0       5.6    3.9   0.0   1.1   1   0   0   1   1   1   0 VAR2CSA uORF OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1200610 PE=4 SV=1
+tr|C6KST8|C6KST8_PLAF7         -          Nup153               PF08604.7        7.4    3.5   0.5        11    3.0   0.5   1.1   1   0   0   1   1   1   0 Zn2+ or Fe2+ permease OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0609100 PE=4 SV=2
+tr|C0H475|C0H475_PLAF7         -          Nup153               PF08604.7        7.4    3.5   2.4        11    3.0   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0314800 PE=4 SV=2
+tr|Q9U0I8|Q9U0I8_PLAF7         -          Nup153               PF08604.7        7.8    3.5   2.7        16    2.4   2.7   1.4   1   0   0   1   1   1   0 Zinc finger protein, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0409800 PE=4 SV=1
+tr|C0H5B8|C0H5B8_PLAF7         -          Nup153               PF08604.7          8    3.4   0.2        14    2.6   0.1   1.4   2   0   0   2   2   2   0 Protein kinase, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_1316000 PE=3 SV=2
+tr|A0A143ZW02|A0A143ZW02_PLAF7 -          Nup153               PF08604.7        9.1    3.2   3.7        14    2.6   3.7   1.3   1   0   0   1   1   1   0 PRESAN domain-containing protein OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0831500 PE=4 SV=1
+tr|C6KSP9|C6KSP9_PLAF7         -          Nup153               PF08604.7        9.7    3.1   0.6        20    2.1   0.6   1.4   1   0   0   1   1   1   0 RNA-binding protein, putative OS=Plasmodium falciparum (isolate 3D7) OX=36329 GN=PF3D7_0605100 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PFAL.fasta
+# Option settings: hmmsearch --tblout proteomes/PFAL/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PFAL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 12:20:33 2022
+# [ok]

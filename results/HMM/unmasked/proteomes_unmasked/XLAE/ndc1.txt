@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GFX9|A0A1L8GFX9_XENLA -          Ndc1_Nup             PF09531.7   1.8e-122  411.4  18.9  2.1e-122  411.2  18.9   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ndc1 PE=1 SV=1
+tr|A0A1L8GMF4|A0A1L8GMF4_XENLA -          Ndc1_Nup             PF09531.7     2e-118  398.1  20.0  2.3e-118  397.9  20.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023197mg PE=1 SV=1
+tr|A0A1L8HAR6|A0A1L8HAR6_XENLA -          Ndc1_Nup             PF09531.7      0.097   12.7   1.9       0.1   12.6   1.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem123 PE=4 SV=1
+tr|A0A1L8HIF3|A0A1L8HIF3_XENLA -          Ndc1_Nup             PF09531.7       0.13   12.3   5.1      0.28   11.2   5.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=znf385a PE=4 SV=1
+tr|A0A1L8EZV0|A0A1L8EZV0_XENLA -          Ndc1_Nup             PF09531.7       0.21   11.6   0.7      0.23   11.5   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041079mg PE=4 SV=1
+tr|A0A1L8G385|A0A1L8G385_XENLA -          Ndc1_Nup             PF09531.7       0.28   11.2   0.2      0.26   11.3   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029375mg PE=4 SV=1
+tr|A0A1L8EWE9|A0A1L8EWE9_XENLA -          Ndc1_Nup             PF09531.7       0.37   10.8   0.1      0.38   10.7   0.1   1.1   1   0   0   1   1   1   0 UBIQUITIN_CONJUGAT_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=ube2e3 PE=3 SV=1
+tr|A9JS12|A9JS12_XENLA         -          Ndc1_Nup             PF09531.7        0.4   10.7   0.1      0.41   10.6   0.1   1.1   1   0   0   1   1   1   0 Ubiquitin conjugating enzyme E2 OS=Xenopus laevis OX=8355 GN=Xubc15 PE=2 SV=1
+tr|A0A1L8GD04|A0A1L8GD04_XENLA -          Ndc1_Nup             PF09531.7       0.42   10.6   0.2      0.49   10.4   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18024270mg PE=4 SV=1
+tr|Q66KY7|Q66KY7_XENLA         -          Ndc1_Nup             PF09531.7        2.6    8.0   5.5       2.9    7.8   5.5   1.2   1   0   0   1   1   1   0 Annexin OS=Xenopus laevis OX=8355 GN=anxa1.3 PE=1 SV=1
+tr|A0A1L8EV65|A0A1L8EV65_XENLA -          Ndc1_Nup             PF09531.7        3.3    7.6   7.2       5.6    6.9   7.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=esyt3 PE=4 SV=1
+tr|A0A1L8G6W1|A0A1L8G6W1_XENLA -          Ndc1_Nup             PF09531.7        4.8    7.1   6.6         7    6.6   6.6   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF8 OS=Xenopus laevis OX=8355 GN=RNF8 PE=3 SV=1
+tr|A0A1L8HL43|A0A1L8HL43_XENLA -          Ndc1_Nup             PF09531.7          5    7.1   4.7       9.5    6.1   4.7   1.4   1   0   0   1   1   1   0 Cyclic nucleotide-binding domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009032mg PE=4 SV=1
+tr|A0A1L8I331|A0A1L8I331_XENLA -          Ndc1_Nup             PF09531.7        6.2    6.8   9.6       7.2    6.5   9.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008552mg PE=4 SV=1
+tr|A0A1L8H2A5|A0A1L8H2A5_XENLA -          Ndc1_Nup             PF09531.7        8.7    6.3   9.4        12    5.8   9.4   1.1   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018836mg PE=3 SV=1
+tr|A0A1L8G3Z8|A0A1L8G3Z8_XENLA -          Ndc1_Nup             PF09531.7        9.1    6.2  11.3        14    5.6  11.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18029674mg PE=3 SV=1
+tr|A0A1L8GWL2|A0A1L8GWL2_XENLA -          Ndc1_Nup             PF09531.7         10    6.1   8.9        11    5.9   8.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016847mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:35 2022
+# [ok]

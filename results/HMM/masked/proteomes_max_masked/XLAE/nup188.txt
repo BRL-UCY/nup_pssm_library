@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8F1N1|A0A1L8F1N1_XENLA -          Nup188               PF10487.6   1.7e-180  603.5   0.0  2.3e-180  603.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup188 PE=1 SV=1
+tr|A0A1L8GQN1|A0A1L8GQN1_XENLA -          Nup188               PF10487.6       0.03   13.6   0.3       1.9    7.6   0.0   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019805mg PE=1 SV=1
+tr|A0A1L8HE96|A0A1L8HE96_XENLA -          Nup188               PF10487.6        2.1    7.4   0.0         3    7.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012022mg PE=4 SV=1
+tr|A0A1L8FK30|A0A1L8FK30_XENLA -          Nup188               PF10487.6        3.2    6.9   0.0       4.4    6.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034910mg PE=4 SV=1
+tr|A0A1L8EZ79|A0A1L8EZ79_XENLA -          Nup188               PF10487.6        3.5    6.7   0.4       5.2    6.2   0.4   1.1   1   0   0   1   1   1   0 VLIG-type G domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045761mg PE=4 SV=1
+tr|A0A1L8HJL3|A0A1L8HJL3_XENLA -          Nup188               PF10487.6        8.1    5.5   0.1        11    5.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013933mg PE=4 SV=1
+tr|A0A1L8HEV1|A0A1L8HEV1_XENLA -          Nup188               PF10487.6        9.6    5.3   0.1        13    4.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012285mg PE=4 SV=1
+tr|A0A1L8GMZ6|A0A1L8GMZ6_XENLA -          Nup188               PF10487.6        9.9    5.2   0.0        14    4.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023387mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:38:34 2022
+# [ok]

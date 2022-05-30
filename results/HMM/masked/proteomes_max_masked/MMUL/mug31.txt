@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6T8M1|F6T8M1_MACMU         -          NPCC                 PF08058.8          2    9.8   0.0       3.9    8.9   0.0   1.4   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Macaca mulatta OX=9544 GN=TMEM209 PE=2 SV=1
+tr|F6T8P9|F6T8P9_MACMU         -          NPCC                 PF08058.8          2    9.8   0.0       3.4    9.0   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM209 PE=4 SV=1
+tr|F7C300|F7C300_MACMU         -          NPCC                 PF08058.8        7.4    7.9   0.1        41    5.5   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TTC23 PE=4 SV=1
+tr|F7D013|F7D013_MACMU         -          NPCC                 PF08058.8        9.6    7.6   0.2   1.1e+02    4.1   0.0   2.1   2   0   0   2   2   2   0 Golgi pH regulator B OS=Macaca mulatta OX=9544 GN=GPR89A PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:24:20 2022
+# [ok]

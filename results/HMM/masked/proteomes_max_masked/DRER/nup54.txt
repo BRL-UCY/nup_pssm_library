@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          Nup54                PF13874.3    7.6e-19   69.6   0.1   9.1e-19   69.3   0.1   1.0   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|Q1LXE7|Q1LXE7_DANRE         -          Nup54                PF13874.3       0.32   12.4   2.2      0.36   12.3   0.1   2.1   2   0   0   2   2   2   0 Laminin, alpha 3 (Fragment) OS=Danio rerio OX=7955 GN=lama3 PE=4 SV=1
+tr|Q567Y3|Q567Y3_DANRE         -          Nup54                PF13874.3       0.48   11.9   1.4        15    7.1   0.0   2.6   2   1   1   3   3   3   0 Stx6 protein OS=Danio rerio OX=7955 GN=stx6 PE=2 SV=1
+tr|A0A2R8RKH5|A0A2R8RKH5_DANRE -          Nup54                PF13874.3       0.49   11.9   1.5        13    7.3   0.0   2.6   2   1   1   3   3   3   0 Syntaxin 6 OS=Danio rerio OX=7955 GN=stx6 PE=3 SV=1
+tr|A0A2R8Q7H6|A0A2R8Q7H6_DANRE -          Nup54                PF13874.3       0.61   11.5   2.2      0.53   11.7   0.1   1.9   2   0   0   2   2   2   0 Laminin, alpha 3 OS=Danio rerio OX=7955 GN=lama3 PE=4 SV=1
+tr|X1WC57|X1WC57_DANRE         -          Nup54                PF13874.3        1.1   10.8   1.9       1.8   10.0   0.5   2.0   3   0   0   3   3   3   0 Syntaxin 1A (brain) (Fragment) OS=Danio rerio OX=7955 GN=stx1a PE=3 SV=1
+tr|A0A0R4IA59|A0A0R4IA59_DANRE -          Nup54                PF13874.3        2.3    9.7   0.0       6.7    8.2   0.0   1.8   1   0   0   1   1   1   0 VPS54 subunit of GARP complex OS=Danio rerio OX=7955 GN=vps54 PE=4 SV=2
+tr|A0A0R4IQF8|A0A0R4IQF8_DANRE -          Nup54                PF13874.3        2.4    9.6   0.0         7    8.1   0.0   1.8   1   0   0   1   1   1   0 VPS54 subunit of GARP complex OS=Danio rerio OX=7955 GN=vps54 PE=4 SV=3
+tr|F1QLY9|F1QLY9_DANRE         -          Nup54                PF13874.3          7    8.1   2.0        11    7.4   2.0   1.2   1   0   0   1   1   1   0 Tripartite motif-containing 9 OS=Danio rerio OX=7955 GN=trim9 PE=4 SV=1
+tr|A0A0R4ID73|A0A0R4ID73_DANRE -          Nup54                PF13874.3          9    7.7   0.2        12    7.3   0.2   1.1   1   0   0   1   1   1   0 Nance-Horan syndrome b (congenital cataracts and dental anomalies) (Fragment) OS=Danio rerio OX=7955 GN=nhsb PE=4 SV=1
+tr|Q6PHV0|Q6PHV0_DANRE         -          Nup54                PF13874.3        9.9    7.6   0.7        21    6.6   0.6   1.9   1   1   0   1   1   1   0 Syntaxin 3A OS=Danio rerio OX=7955 GN=stx3a PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:11:15 2022
+# [ok]

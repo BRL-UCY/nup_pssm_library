@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9C829|NU50A_ARATH          -          NUP50                PF08911.8    5.5e-16   60.0   0.3   5.5e-16   60.0   0.3   3.0   2   1   0   2   2   2   1 Nuclear pore complex protein NUP50A OS=Arabidopsis thaliana OX=3702 GN=NUP50A PE=1 SV=1
+sp|Q9LW88|NU50B_ARATH          -          NUP50                PF08911.8    4.2e-14   54.0   0.5   4.2e-14   54.0   0.5   2.9   3   0   0   3   3   2   1 Nuclear pore complex protein NUP50B OS=Arabidopsis thaliana OX=3702 GN=NUP50B PE=1 SV=1
+sp|A2RVS4|AIGLC_ARATH          -          NUP50                PF08911.8       0.52   12.1   0.1      0.99   11.2   0.1   1.5   1   0   0   1   1   1   0 AIG2-like protein C OS=Arabidopsis thaliana OX=3702 GN=AIG2LC PE=1 SV=1
+tr|A0A178UWU9|A0A178UWU9_ARATH -          NUP50                PF08911.8       0.53   12.0   0.1         1   11.1   0.1   1.5   1   0   0   1   1   1   0 AIG2-like (Avirulence induced gene) family protein OS=Arabidopsis thaliana OX=3702 GN=At4g31310 PE=1 SV=1
+sp|Q8GUP1|CTF77_ARATH          -          NUP50                PF08911.8       0.89   11.3   1.3         4    9.2   1.3   2.1   1   0   0   1   1   1   0 Cleavage stimulation factor subunit 77 OS=Arabidopsis thaliana OX=3702 GN=CSTF77 PE=1 SV=1
+sp|Q9LUG7|PUX12_ARATH          -          NUP50                PF08911.8        1.7   10.4   0.1       3.6    9.4   0.1   1.5   1   0   0   1   1   1   0 Plant UBX domain-containing protein 12 OS=Arabidopsis thaliana OX=3702 GN=PUX12 PE=2 SV=1
+tr|Q9LZ14|Q9LZ14_ARATH         -          NUP50                PF08911.8          2   10.2   2.3       3.7    9.3   2.3   1.4   1   0   0   1   1   1   0 At5g02710 OS=Arabidopsis thaliana OX=3702 GN=F9G14_20 PE=2 SV=1
+sp|Q4PSN0|PME29_ARATH          -          NUP50                PF08911.8        2.7    9.8   0.0         5    8.9   0.0   1.4   1   0   0   1   1   1   0 Probable pectinesterase 29 OS=Arabidopsis thaliana OX=3702 GN=PME29 PE=2 SV=1
+tr|Q9ZUX5|Q9ZUX5_ARATH         -          NUP50                PF08911.8        3.6    9.4   0.5       7.9    8.3   0.5   1.6   1   0   0   1   1   1   0 At2g27740 OS=Arabidopsis thaliana OX=3702 GN=At2g27740 PE=2 SV=1
+tr|A0A1P8BC96|A0A1P8BC96_ARATH -          NUP50                PF08911.8        3.8    9.3   0.7       5.9    8.7   0.1   1.7   2   0   0   2   2   1   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At5g59350 PE=4 SV=1
+tr|Q9MAU1|Q9MAU1_ARATH         -          NUP50                PF08911.8        5.1    8.9   2.1        14    7.5   2.1   1.8   1   0   0   1   1   1   0 F13M7.8 protein OS=Arabidopsis thaliana OX=3702 GN=At1g04930 PE=2 SV=1
+tr|A0A1P8ARP1|A0A1P8ARP1_ARATH -          NUP50                PF08911.8        5.3    8.8   0.2        12    7.7   0.2   1.6   1   0   0   1   1   1   0 Photolyase 1 OS=Arabidopsis thaliana OX=3702 GN=PHR1 PE=4 SV=1
+sp|Q9SB00|PHR_ARATH            -          NUP50                PF08911.8        5.8    8.7   0.2        13    7.6   0.2   1.6   1   0   0   1   1   1   0 Deoxyribodipyrimidine photo-lyase OS=Arabidopsis thaliana OX=3702 GN=PHR1 PE=2 SV=1
+tr|A0A1P8B323|A0A1P8B323_ARATH -          NUP50                PF08911.8        7.1    8.4   2.2        11    7.8   2.2   1.5   1   1   0   1   1   1   0 RAB6-interacting golgin (DUF662) OS=Arabidopsis thaliana OX=3702 GN=At2g27740 PE=4 SV=1
+tr|F4I764|F4I764_ARATH         -          NUP50                PF08911.8        7.5    8.4   2.4        19    7.0   2.4   1.7   1   0   0   1   1   1   0 Hydroxyproline-rich glycoprotein family protein OS=Arabidopsis thaliana OX=3702 GN=At1g04930 PE=4 SV=1
+tr|F4HPB7|F4HPB7_ARATH         -          NUP50                PF08911.8        7.8    8.3   0.2        16    7.3   0.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At1g26750 PE=4 SV=1
+tr|Q9LTJ3|Q9LTJ3_ARATH         -          NUP50                PF08911.8        9.8    8.0   3.1        11    7.8   0.1   2.4   2   0   0   2   2   2   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At5g59350 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 23:27:57 2022
+# [ok]

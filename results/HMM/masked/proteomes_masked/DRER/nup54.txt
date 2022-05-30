@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          Nup54                PF13874.3    7.6e-19   69.6   0.1   9.1e-19   69.3   0.1   1.0   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|Q1LXE7|Q1LXE7_DANRE         -          Nup54                PF13874.3       0.32   12.4   2.2      0.36   12.3   0.1   2.1   2   0   0   2   2   2   0 Laminin, alpha 3 (Fragment) OS=Danio rerio OX=7955 GN=lama3 PE=4 SV=1
+tr|A0A2R8Q7H6|A0A2R8Q7H6_DANRE -          Nup54                PF13874.3       0.61   11.5   2.2      0.53   11.7   0.1   1.9   2   0   0   2   2   2   0 Laminin, alpha 3 OS=Danio rerio OX=7955 GN=lama3 PE=4 SV=1
+tr|X1WC57|X1WC57_DANRE         -          Nup54                PF13874.3        1.1   10.8   1.9       1.8   10.0   0.5   2.0   3   0   0   3   3   3   0 Syntaxin 1A (brain) (Fragment) OS=Danio rerio OX=7955 GN=stx1a PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:48 2022
+# [ok]

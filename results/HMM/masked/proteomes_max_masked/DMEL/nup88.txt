@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9GYU8|NUP88_DROME          -          Nup88                PF10168.6     1e-230  767.7   0.0  1.1e-230  767.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Drosophila melanogaster OX=7227 GN=mbo PE=1 SV=2
+tr|Q95U06|Q95U06_DROME         -          Nup88                PF10168.6        4.2    5.3   0.1       5.7    4.9   0.1   1.1   1   0   0   1   1   1   0 GH16763p OS=Drosophila melanogaster OX=7227 GN=NEST:bs27g09 PE=2 SV=1
+tr|D3DMS2|D3DMS2_DROME         -          Nup88                PF10168.6        7.1    4.6   0.4         9    4.3   0.4   1.2   1   0   0   1   1   1   0 MIP16660p OS=Drosophila melanogaster OX=7227 GN=CG34041-RA PE=2 SV=1
+tr|Q7JWR4|Q7JWR4_DROME         -          Nup88                PF10168.6        8.8    4.3   0.0       9.8    4.1   0.0   1.0   1   0   0   1   1   1   0 GH19585p OS=Drosophila melanogaster OX=7227 GN=BcDNA:GH19585 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:03:40 2022
+# [ok]

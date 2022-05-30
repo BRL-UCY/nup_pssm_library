@@ -1,0 +1,46 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0K3AUF2|A0A0K3AUF2_CAEEL -          Nup153               PF08604.7          1    8.7   0.1       1.8    7.8   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=B0432.7 PE=1 SV=1
+tr|A0A0K3AQW3|A0A0K3AQW3_CAEEL -          Nup153               PF08604.7        1.1    8.6   0.1         2    7.7   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=B0432.7 PE=1 SV=1
+tr|G5EDM4|G5EDM4_CAEEL         -          Nup153               PF08604.7        1.8    7.9   1.6         4    6.7   1.6   1.5   1   0   0   1   1   1   0 NHERF (Mammalian Na/H Exchange Regulatory Factor) Like OS=Caenorhabditis elegans OX=6239 GN=nrfl-1 PE=1 SV=1
+tr|X5LVA5|X5LVA5_CAEEL         -          Nup153               PF08604.7        1.9    7.8   1.6       4.4    6.6   1.6   1.5   1   0   0   1   1   1   0 NHERF (Mammalian Na/H Exchange Regulatory Factor) Like OS=Caenorhabditis elegans OX=6239 GN=nrfl-1 PE=1 SV=1
+tr|A3FPJ2|A3FPJ2_CAEEL         -          Nup153               PF08604.7        2.1    7.6   4.0       2.4    7.5   4.0   1.0   1   0   0   1   1   1   0 C. Elegans Homeobox OS=Caenorhabditis elegans OX=6239 GN=ceh-63 PE=4 SV=1
+tr|H2L0H0|H2L0H0_CAEEL         -          Nup153               PF08604.7        2.1    7.6   1.6       2.1    7.7   1.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M01H9.4 PE=4 SV=1
+tr|S6FD32|S6FD32_CAEEL         -          Nup153               PF08604.7        2.2    7.6   0.8       2.7    7.3   0.8   1.2   1   0   0   1   1   1   0 CREB Homolog OS=Caenorhabditis elegans OX=6239 GN=crh-2 PE=1 SV=1
+tr|Q23038|Q23038_CAEEL         -          Nup153               PF08604.7        2.5    7.4   0.1         5    6.4   0.1   1.4   1   0   0   1   1   1   0 Nuclear Hormone Receptor family OS=Caenorhabditis elegans OX=6239 GN=nhr-216 PE=3 SV=5
+tr|G3MU11|G3MU11_CAEEL         -          Nup153               PF08604.7        2.8    7.2   2.0         4    6.7   2.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F55A11.6 PE=1 SV=1
+tr|Q9NEK3|Q9NEK3_CAEEL         -          Nup153               PF08604.7          3    7.1   0.5        65    2.7   0.2   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y116F11B.6 PE=4 SV=2
+tr|Q9BI35|Q9BI35_CAEEL         -          Nup153               PF08604.7          3    7.1   4.1       3.9    6.7   4.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y66D12A.1 PE=4 SV=1
+tr|Q23579|Q23579_CAEEL         -          Nup153               PF08604.7        3.1    7.1   0.7       3.5    6.9   0.7   1.1   1   0   0   1   1   1   0 Helix Loop Helix OS=Caenorhabditis elegans OX=6239 GN=hlh-10 PE=4 SV=2
+tr|U4PBG3|U4PBG3_CAEEL         -          Nup153               PF08604.7        3.1    7.1   1.8       3.6    6.9   1.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M01H9.4 PE=1 SV=1
+tr|U4PEN8|U4PEN8_CAEEL         -          Nup153               PF08604.7        3.2    7.0   1.8       3.7    6.8   1.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M01H9.4 PE=4 SV=1
+tr|A0A168HA43|A0A168HA43_CAEEL -          Nup153               PF08604.7        3.5    6.9   0.1       3.7    6.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W08A12.3 PE=4 SV=1
+tr|Q17658|Q17658_CAEEL         -          Nup153               PF08604.7        3.6    6.9   3.8       4.9    6.4   3.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C05D12.4 PE=4 SV=1
+tr|Q17947|Q17947_CAEEL         -          Nup153               PF08604.7        4.8    6.5   4.1       6.3    6.1   4.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C13G3.1 PE=4 SV=1
+tr|O45633|O45633_CAEEL         -          Nup153               PF08604.7        5.4    6.3   0.2       8.7    5.6   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K01G12.3 PE=4 SV=2
+tr|H2L2K8|H2L2K8_CAEEL         -          Nup153               PF08604.7        5.7    6.2   4.6         9    5.6   4.6   1.3   1   0   0   1   1   1   0 Histone H3.3 type 2 OS=Caenorhabditis elegans OX=6239 GN=his-72 PE=4 SV=1
+tr|Q22552|Q22552_CAEEL         -          Nup153               PF08604.7          6    6.1   6.5       1.2    8.5   0.8   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T19A5.3 PE=1 SV=4
+tr|Q4PIW9|Q4PIW9_CAEEL         -          Nup153               PF08604.7        6.1    6.1   0.3       6.6    6.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C45G9.14 PE=4 SV=1
+tr|Q6AHR3|Q6AHR3_CAEEL         -          Nup153               PF08604.7        6.5    6.0   2.5         9    5.6   2.5   1.1   1   0   0   1   1   1   0 Pribosyltran_N domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R151.2 PE=1 SV=2
+tr|Q4JFI0|Q4JFI0_CAEEL         -          Nup153               PF08604.7        6.7    6.0   1.8       5.9    6.1   0.6   1.6   1   1   0   1   1   1   0 CREB Homolog OS=Caenorhabditis elegans OX=6239 GN=crh-2 PE=1 SV=1
+tr|Q7YZG9|Q7YZG9_CAEEL         -          Nup153               PF08604.7        7.1    5.9   0.0        11    5.3   0.0   1.2   1   0   0   1   1   1   0 AP complex subunit beta OS=Caenorhabditis elegans OX=6239 GN=apb-1 PE=1 SV=1
+tr|E5QCH9|E5QCH9_CAEEL         -          Nup153               PF08604.7        7.2    5.9   0.0       8.3    5.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W02A2.8 PE=4 SV=1
+tr|Q4JFH9|Q4JFH9_CAEEL         -          Nup153               PF08604.7        7.3    5.8   1.8       8.2    5.7   0.9   1.6   1   1   0   1   1   1   0 CREB Homolog OS=Caenorhabditis elegans OX=6239 GN=crh-2 PE=1 SV=3
+tr|A0A3B1E4S1|A0A3B1E4S1_CAEEL -          Nup153               PF08604.7        7.8    5.8   1.4       8.6    5.6   1.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C06A8.8 PE=4 SV=1
+tr|O02203|O02203_CAEEL         -          Nup153               PF08604.7        8.8    5.6   3.0        11    5.2   3.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=B0379.2 PE=4 SV=1
+sp|G5EGI7|ZIG1_CAEEL           -          Nup153               PF08604.7        8.9    5.6   0.4        16    4.7   0.2   1.4   1   1   0   1   1   1   0 Zwei Ig domain protein zig-1 OS=Caenorhabditis elegans OX=6239 GN=zig-1 PE=2 SV=1
+tr|Q21015|Q21015_CAEEL         -          Nup153               PF08604.7        9.3    5.5   9.1        11    5.2   9.1   1.2   1   0   0   1   1   1   0 EGF-like domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F58H1.6 PE=4 SV=1
+sp|P54412|EF1G_CAEEL           -          Nup153               PF08604.7        9.3    5.5   1.2        13    5.0   1.2   1.1   1   0   0   1   1   1   0 Probable elongation factor 1-gamma OS=Caenorhabditis elegans OX=6239 GN=eef-1G PE=1 SV=1
+tr|Q9U3G9|Q9U3G9_CAEEL         -          Nup153               PF08604.7        9.6    5.5   0.1        10    5.4   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F33A8.7 PE=1 SV=1
+tr|O18230|O18230_CAEEL         -          Nup153               PF08604.7        9.6    5.5   0.8        11    5.3   0.8   1.2   1   0   0   1   1   1   0 VTI (Vesicle Transport through t-SNARE Interaction) homolog OS=Caenorhabditis elegans OX=6239 GN=vti-1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:23:07 2022
+# [ok]

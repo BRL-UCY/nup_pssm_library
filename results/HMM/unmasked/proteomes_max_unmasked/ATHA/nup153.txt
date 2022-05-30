@@ -1,0 +1,56 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q42347|RL241_ARATH          -          Nup153               PF08604.7      0.048   13.6   2.8     0.055   13.4   2.8   1.1   1   0   0   1   1   1   0 60S ribosomal protein L24-1 OS=Arabidopsis thaliana OX=3702 GN=RPL24A PE=1 SV=2
+tr|A0A1I9LNA4|A0A1I9LNA4_ARATH -          Nup153               PF08604.7       0.16   11.8   4.8      0.22   11.4   4.8   1.2   1   0   0   1   1   1   0 Myb domain protein 30 OS=Arabidopsis thaliana OX=3702 GN=MYB30 PE=4 SV=1
+sp|Q9SCU7|MYB30_ARATH          -          Nup153               PF08604.7       0.37   10.7   5.0       0.5   10.2   5.0   1.2   1   0   0   1   1   1   0 Transcription factor MYB30 OS=Arabidopsis thaliana OX=3702 GN=MYB30 PE=1 SV=1
+tr|A0A1P8AZL4|A0A1P8AZL4_ARATH -          Nup153               PF08604.7       0.56   10.1   3.2      0.73    9.7   3.2   1.2   1   0   0   1   1   1   0 Uroporphyrinogen-III synthase OS=Arabidopsis thaliana OX=3702 GN=HEMD PE=3 SV=1
+tr|F4ITW2|F4ITW2_ARATH         -          Nup153               PF08604.7       0.57   10.0   3.0      0.72    9.7   3.0   1.2   1   0   0   1   1   1   0 Gem-associated-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g38690 PE=4 SV=1
+tr|A0A1P8AZK1|A0A1P8AZK1_ARATH -          Nup153               PF08604.7       0.74    9.7   3.2         1    9.2   3.2   1.2   1   0   0   1   1   1   0 Uroporphyrinogen-III synthase OS=Arabidopsis thaliana OX=3702 GN=HEMD PE=3 SV=1
+sp|O48721|HEM4_ARATH           -          Nup153               PF08604.7       0.84    9.5   3.2       1.1    9.1   3.2   1.2   1   0   0   1   1   1   0 Uroporphyrinogen-III synthase, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=UROS PE=2 SV=2
+tr|Q9SVD6|Q9SVD6_ARATH         -          Nup153               PF08604.7          1    9.2   0.9         1    9.2   0.9   1.2   1   0   0   1   1   1   0 At3g52550 OS=Arabidopsis thaliana OX=3702 GN=F22O6_70 PE=2 SV=1
+tr|A0A1P8AQM6|A0A1P8AQM6_ARATH -          Nup153               PF08604.7        1.1    9.1   0.0       1.5    8.7   0.0   1.1   1   0   0   1   1   1   0 Beta-galactosidase OS=Arabidopsis thaliana OX=3702 GN=BGAL17 PE=3 SV=1
+sp|Q93Z24|BGA17_ARATH          -          Nup153               PF08604.7        1.2    9.0   0.0       1.7    8.5   0.0   1.1   1   0   0   1   1   1   0 Beta-galactosidase 17 OS=Arabidopsis thaliana OX=3702 GN=BGAL17 PE=2 SV=1
+tr|Q9SD97|Q9SD97_ARATH         -          Nup153               PF08604.7        2.1    8.2   0.3         3    7.7   0.3   1.2   1   0   0   1   1   1   0 HXXXD-type acyl-transferase family protein OS=Arabidopsis thaliana OX=3702 GN=At5g07870 PE=4 SV=1
+tr|A0A1P8AX29|A0A1P8AX29_ARATH -          Nup153               PF08604.7        2.2    8.1   0.1       3.4    7.5   0.1   1.2   1   0   0   1   1   1   0 DUF581 family protein, putative (DUF581) OS=Arabidopsis thaliana OX=3702 GN=At2g25690 PE=4 SV=1
+sp|Q9SL94|FLZ11_ARATH          -          Nup153               PF08604.7        2.3    8.0   0.1       3.7    7.3   0.1   1.2   1   0   0   1   1   1   0 FCS-Like Zinc finger 11 OS=Arabidopsis thaliana OX=3702 GN=FLZ11 PE=1 SV=1
+tr|Q9LP48|Q9LP48_ARATH         -          Nup153               PF08604.7        2.7    7.8   0.5       7.1    6.4   0.1   1.8   2   0   0   2   2   2   0 At1g29190/F28N24_12 OS=Arabidopsis thaliana OX=3702 GN=F28N24.12 PE=2 SV=1
+sp|Q9ZW38|FBK36_ARATH          -          Nup153               PF08604.7        2.9    7.7   0.9         4    7.3   0.9   1.1   1   0   0   1   1   1   0 F-box/kelch-repeat protein At2g29600 OS=Arabidopsis thaliana OX=3702 GN=At2g29600 PE=2 SV=1
+sp|Q8L983|COR28_ARATH          -          Nup153               PF08604.7        3.4    7.5   0.3       5.7    6.7   0.1   1.3   1   1   0   1   1   1   0 Cold-regulated protein 28 OS=Arabidopsis thaliana OX=3702 GN=COR28 PE=1 SV=1
+tr|O81047|O81047_ARATH         -          Nup153               PF08604.7        3.6    7.4   0.0       5.7    6.7   0.0   1.2   1   0   0   1   1   1   0 DNA-binding protein OS=Arabidopsis thaliana OX=3702 GN=At2g03270 PE=2 SV=2
+sp|Q9SHG6|STIP1_ARATH          -          Nup153               PF08604.7        3.6    7.4   0.2       7.3    6.4   0.2   1.4   1   0   0   1   1   1   0 Septin and tuftelin-interacting protein 1 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=STIPL1 PE=1 SV=1
+tr|F4JJW8|F4JJW8_ARATH         -          Nup153               PF08604.7          4    7.2   0.3       6.7    6.5   0.1   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At4g33980 PE=4 SV=1
+tr|Q2V422|Q2V422_ARATH         -          Nup153               PF08604.7        5.6    6.8   1.7       6.4    6.6   1.7   1.1   1   0   0   1   1   1   0 Transcriptional activator (DUF662) OS=Arabidopsis thaliana OX=3702 GN=At2g36410 PE=4 SV=2
+tr|Q9FYH5|Q9FYH5_ARATH         -          Nup153               PF08604.7        6.2    6.6   1.2       7.1    6.4   1.2   1.1   1   0   0   1   1   1   0 At1g30880 OS=Arabidopsis thaliana OX=3702 GN=At1g30880 PE=2 SV=1
+sp|Q9M836|LSH2_ARATH           -          Nup153               PF08604.7        6.4    6.6   0.5        12    5.7   0.0   1.6   2   0   0   2   2   2   0 Protein LIGHT-DEPENDENT SHORT HYPOCOTYLS 2 OS=Arabidopsis thaliana OX=3702 GN=LSH2 PE=1 SV=1
+sp|Q52K95|PCP14_ARATH          -          Nup153               PF08604.7        6.7    6.5   0.1       7.6    6.3   0.1   1.0   1   0   0   1   1   1   0 Precursor of CEP14 OS=Arabidopsis thaliana OX=3702 GN=CEP14 PE=2 SV=1
+sp|Q3S4A7|AHK5_ARATH           -          Nup153               PF08604.7        6.7    6.5   0.9        17    5.2   0.9   1.6   1   0   0   1   1   1   0 Histidine kinase 5 OS=Arabidopsis thaliana OX=3702 GN=AHK5 PE=1 SV=1
+tr|F4IKD6|F4IKD6_ARATH         -          Nup153               PF08604.7          7    6.4   0.4       8.7    6.1   0.4   1.1   1   0   0   1   1   1   0 Coiled-coil 90B-like protein (DUF1640) OS=Arabidopsis thaliana OX=3702 GN=At2g16460 PE=4 SV=1
+tr|A8MR87|A8MR87_ARATH         -          Nup153               PF08604.7        7.1    6.4   1.3       8.1    6.2   1.3   1.0   1   0   0   1   1   1   0 Caspase-6 protein OS=Arabidopsis thaliana OX=3702 GN=At2g15000 PE=4 SV=1
+tr|Q9SCM8|Q9SCM8_ARATH         -          Nup153               PF08604.7        7.1    6.4   0.3        12    5.7   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein T8H10.40 OS=Arabidopsis thaliana OX=3702 GN=T8H10.40 PE=4 SV=1
+tr|Q6DYC0|Q6DYC0_ARATH         -          Nup153               PF08604.7        7.1    6.4   0.3        12    5.7   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At3g57440 PE=2 SV=1
+sp|O80493|DMP8_ARATH           -          Nup153               PF08604.7        7.3    6.4   0.1       9.9    6.0   0.1   1.1   1   0   0   1   1   1   0 Protein DMP8 OS=Arabidopsis thaliana OX=3702 GN=DMP8 PE=2 SV=1
+tr|Q9M2S1|Q9M2S1_ARATH         -          Nup153               PF08604.7        7.6    6.3   0.1        11    5.8   0.1   1.1   1   0   0   1   1   1   0 Regulator of chromosome condensation (RCC1) family protein OS=Arabidopsis thaliana OX=3702 GN=T22E16.240 PE=4 SV=1
+tr|F4KEF0|F4KEF0_ARATH         -          Nup153               PF08604.7        7.7    6.3   0.0        11    5.8   0.0   1.1   1   0   0   1   1   1   0 Leucine-rich repeat protein kinase family protein OS=Arabidopsis thaliana OX=3702 GN=MUL8.7 PE=3 SV=1
+tr|F4I702|F4I702_ARATH         -          Nup153               PF08604.7        8.1    6.2   0.1        15    5.4   0.1   1.3   1   0   0   1   1   1   0 Transcription coactivator OS=Arabidopsis thaliana OX=3702 GN=MEI1 PE=4 SV=1
+tr|F4I701|F4I701_ARATH         -          Nup153               PF08604.7        8.2    6.2   0.1        15    5.4   0.1   1.3   1   0   0   1   1   1   0 Transcription coactivator OS=Arabidopsis thaliana OX=3702 GN=MEI1 PE=4 SV=1
+tr|Q0WR34|Q0WR34_ARATH         -          Nup153               PF08604.7        8.3    6.2   1.8       9.7    6.0   1.8   1.0   1   0   0   1   1   1   0 Caspase-6 protein OS=Arabidopsis thaliana OX=3702 GN=At2g15000 PE=2 SV=1
+tr|Q9LYU5|Q9LYU5_ARATH         -          Nup153               PF08604.7        8.5    6.2   3.4        48    3.7   0.2   2.1   2   0   0   2   2   2   0 Uncharacterized protein At5g13310 OS=Arabidopsis thaliana OX=3702 GN=T31B5_130 PE=2 SV=1
+tr|A0A1P8AWF3|A0A1P8AWF3_ARATH -          Nup153               PF08604.7        8.6    6.2   0.1        15    5.3   0.1   1.3   1   0   0   1   1   1   0 Transcription coactivator OS=Arabidopsis thaliana OX=3702 GN=MEI1 PE=4 SV=1
+sp|Q6IWA9|CLE45_ARATH          -          Nup153               PF08604.7        8.6    6.2   1.1        10    5.9   1.1   1.1   1   0   0   1   1   1   0 CLAVATA3/ESR (CLE)-related protein 45 OS=Arabidopsis thaliana OX=3702 GN=CLE45 PE=2 SV=1
+tr|A0A1P8BAA4|A0A1P8BAA4_ARATH -          Nup153               PF08604.7        9.2    6.1   1.6        14    5.4   1.6   1.3   1   0   0   1   1   1   0 Cytidine/deoxycytidylate deaminase family protein OS=Arabidopsis thaliana OX=3702 GN=GSDA PE=4 SV=1
+tr|F4KGG0|F4KGG0_ARATH         -          Nup153               PF08604.7        9.3    6.1   0.0        13    5.6   0.0   1.2   1   0   0   1   1   1   0 Cyclin dependent kinase group C2 OS=Arabidopsis thaliana OX=3702 GN=CDKC2 PE=4 SV=1
+tr|Q9ZUL1|Q9ZUL1_ARATH         -          Nup153               PF08604.7        9.3    6.0   1.8        11    5.8   1.8   1.0   1   0   0   1   1   1   0 At2g15000 OS=Arabidopsis thaliana OX=3702 GN=At2g15000 PE=2 SV=2
+tr|Q9SFG2|Q9SFG2_ARATH         -          Nup153               PF08604.7        9.6    6.0   2.5        15    5.4   2.5   1.3   1   0   0   1   1   1   0 At3g05980 OS=Arabidopsis thaliana OX=3702 GN=At3g05980 PE=2 SV=1
+sp|O81864|FK171_ARATH          -          Nup153               PF08604.7        9.6    6.0   6.0        12    5.6   6.0   1.1   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase FKBP17-1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=FKBP17-1 PE=2 SV=1
+tr|Q9SFV0|Q9SFV0_ARATH         -          Nup153               PF08604.7        9.8    6.0   0.2        12    5.7   0.2   1.2   1   0   0   1   1   1   0 Putative RING zinc finger protein OS=Arabidopsis thaliana OX=3702 GN=T1B9.13 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 23:34:01 2022
+# [ok]

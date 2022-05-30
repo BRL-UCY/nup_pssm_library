@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q8IQV9|Q8IQV9_DROME Nucleoporin 205kD, isoform B OS=Drosophila melanogaster GN=Nup205 PE=1 SV=1
+# Database: DB_masked/MMUS_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+tr|Q8IQV9|Q8IQV9_DROME	tr|B9EJ54|B9EJ54_MOUSE	0.0	1967	23	2078	5	2007
+tr|Q8IQV9|Q8IQV9_DROME	tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE	0.0	1967	30	2078	65	2060
+tr|Q8IQV9|Q8IQV9_DROME	tr|E9Q880|E9Q880_MOUSE	1.17e-117	376	23	339	5	321
+tr|Q8IQV9|Q8IQV9_DROME	sp|Q6ZQH8|NU188_MOUSE	9.28e-09	61.6	646	1035	605	991
+# BLAST processed 1 queries

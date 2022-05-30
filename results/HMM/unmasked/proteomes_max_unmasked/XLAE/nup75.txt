@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8EUD9|A0A1L8EUD9_XENLA -          Nucleopor_Nup85      PF07575.10  1.8e-175  586.1  15.5    2e-175  585.9  15.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Xenopus laevis OX=8355 GN=XELAEV_18044052mg PE=1 SV=1
+tr|A0A1L8EUC8|A0A1L8EUC8_XENLA -          Nucleopor_Nup85      PF07575.10  3.3e-175  585.2  15.5  4.4e-175  584.8  15.5   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Xenopus laevis OX=8355 GN=XELAEV_18044052mg PE=1 SV=1
+tr|A0A1L8HW09|A0A1L8HW09_XENLA -          Nucleopor_Nup85      PF07575.10       0.1   12.5   0.8      0.21   11.4   0.8   1.4   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005996mg PE=4 SV=1
+tr|A0A1L8GBF3|A0A1L8GBF3_XENLA -          Nucleopor_Nup85      PF07575.10       0.3   10.9   0.0       0.3   10.9   0.0   1.0   1   0   0   1   1   1   0 F-box domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18027914mg PE=4 SV=1
+tr|A0A1L8HJE3|A0A1L8HJE3_XENLA -          Nucleopor_Nup85      PF07575.10      0.32   10.8   0.2      0.42   10.4   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013888mg PE=1 SV=1
+tr|A0A1L8GBG0|A0A1L8GBG0_XENLA -          Nucleopor_Nup85      PF07575.10      0.49   10.2   0.1      0.53   10.1   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18028074mg PE=4 SV=1
+tr|A2RV69|A2RV69_XENLA         -          Nucleopor_Nup85      PF07575.10      0.68    9.8   0.6       1.3    8.9   0.0   1.7   2   0   0   2   2   2   0 Nuclear pore complex protein OS=Xenopus laevis OX=8355 GN=nup107 PE=1 SV=1
+tr|Q6DE67|Q6DE67_XENLA         -          Nucleopor_Nup85      PF07575.10       1.6    8.5   0.0        55    3.5   0.0   2.0   1   1   1   2   2   2   0 RGS domain-containing protein OS=Xenopus laevis OX=8355 GN=rgs5 PE=2 SV=1
+tr|A0A1L8FVR0|A0A1L8FVR0_XENLA -          Nucleopor_Nup85      PF07575.10       1.7    8.4   0.1       2.9    7.7   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=mterf1 PE=4 SV=1
+tr|A0A1L8H3D2|A0A1L8H3D2_XENLA -          Nucleopor_Nup85      PF07575.10       1.7    8.4   0.1       1.8    8.3   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019227mg PE=4 SV=1
+tr|A0A1L8HPP0|A0A1L8HPP0_XENLA -          Nucleopor_Nup85      PF07575.10       2.1    8.1   0.5       2.1    8.1   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010249mg PE=4 SV=1
+tr|A0A1L8ERP2|A0A1L8ERP2_XENLA -          Nucleopor_Nup85      PF07575.10       2.2    8.0   5.9       4.1    7.2   5.9   1.4   1   0   0   1   1   1   0 GB1/RHD3-type G domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047982mg PE=4 SV=1
+tr|A0A1L8FRM9|A0A1L8FRM9_XENLA -          Nucleopor_Nup85      PF07575.10       2.3    8.0   0.1       4.4    7.1   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033211mg PE=4 SV=1
+tr|Q53U32|Q53U32_XENLA         -          Nucleopor_Nup85      PF07575.10       2.7    7.7   0.9       2.7    7.8   0.1   1.4   2   0   0   2   2   2   0 Enhancer of split related protein 3/7b OS=Xenopus laevis OX=8355 GN=hes5.2 PE=2 SV=1
+tr|A0A1L8GGL7|A0A1L8GGL7_XENLA -          Nucleopor_Nup85      PF07575.10       3.2    7.5   0.0        55    3.4   0.0   2.0   1   1   1   2   2   2   0 RGS domain-containing protein OS=Xenopus laevis OX=8355 GN=rgs5 PE=4 SV=1
+tr|A0A1L8GDD7|A0A1L8GDD7_XENLA -          Nucleopor_Nup85      PF07575.10       3.8    7.3   0.2       5.4    6.8   0.2   1.1   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Xenopus laevis OX=8355 GN=zfpl1 PE=4 SV=1
+tr|A0A1L8H3G4|A0A1L8H3G4_XENLA -          Nucleopor_Nup85      PF07575.10       3.9    7.2   0.2        16    5.2   0.0   1.9   2   0   0   2   2   2   0 G_PROTEIN_RECEP_F3_4 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019250mg PE=3 SV=1
+tr|A0A1L8GJJ8|A0A1L8GJJ8_XENLA -          Nucleopor_Nup85      PF07575.10         4    7.2   0.2       5.6    6.7   0.2   1.1   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Xenopus laevis OX=8355 GN=zfpl1 PE=1 SV=1
+tr|A0A1L8FW04|A0A1L8FW04_XENLA -          Nucleopor_Nup85      PF07575.10       4.2    7.1   0.6       4.4    7.1   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030920mg PE=4 SV=1
+tr|A0A1L8GBY3|A0A1L8GBY3_XENLA -          Nucleopor_Nup85      PF07575.10       4.9    6.9   0.1       6.5    6.5   0.1   1.1   1   0   0   1   1   1   0 ShKT domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18028197mg PE=3 SV=1
+tr|A0A1L8EPJ9|A0A1L8EPJ9_XENLA -          Nucleopor_Nup85      PF07575.10       4.9    6.9   0.2       6.6    6.5   0.2   1.1   1   0   0   1   1   1   0 Methyltransf_11 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047291mg PE=4 SV=1
+tr|A0A1L8HKP7|A0A1L8HKP7_XENLA -          Nucleopor_Nup85      PF07575.10       5.1    6.9   0.7         6    6.6   0.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008856mg PE=4 SV=1
+tr|Q802B8|Q802B8_XENLA         -          Nucleopor_Nup85      PF07575.10       5.1    6.9   0.2         8    6.2   0.2   1.3   1   0   0   1   1   1   0 MGC53060 protein OS=Xenopus laevis OX=8355 GN=ccng1 PE=2 SV=1
+tr|A0A1L8FET2|A0A1L8FET2_XENLA -          Nucleopor_Nup85      PF07575.10       5.3    6.8   0.1        15    5.3   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037031mg PE=4 SV=1
+tr|A0A1L8F1B3|A0A1L8F1B3_XENLA -          Nucleopor_Nup85      PF07575.10       5.7    6.7   8.4      0.36   10.6   0.1   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041635mg PE=4 SV=1
+tr|A0A1L8HZK3|A0A1L8HZK3_XENLA -          Nucleopor_Nup85      PF07575.10       5.8    6.7   0.8       8.7    6.1   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007353mg PE=4 SV=1
+tr|A0A1L8GRS2|A0A1L8GRS2_XENLA -          Nucleopor_Nup85      PF07575.10         6    6.6   0.1        47    3.7   0.0   2.0   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 41 homolog OS=Xenopus laevis OX=8355 GN=XELAEV_18020160mg PE=1 SV=1
+tr|A0A1L8FBB0|A0A1L8FBB0_XENLA -          Nucleopor_Nup85      PF07575.10         6    6.6   0.1        31    4.3   0.0   1.9   2   0   0   2   2   2   0 G_PROTEIN_RECEP_F3_4 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18040178mg PE=3 SV=1
+tr|A0A1L8FD86|A0A1L8FD86_XENLA -          Nucleopor_Nup85      PF07575.10         7    6.4   0.6        11    5.7   0.5   1.4   1   1   1   2   2   2   0 Protein S100 OS=Xenopus laevis OX=8355 GN=XELAEV_18040852mg PE=3 SV=1
+tr|A0A1L8EZP3|A0A1L8EZP3_XENLA -          Nucleopor_Nup85      PF07575.10       7.8    6.2   0.3     2e+02    1.6   0.1   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041034mg PE=1 SV=1
+tr|A0A1L8HI20|A0A1L8HI20_XENLA -          Nucleopor_Nup85      PF07575.10       7.8    6.2   0.0        18    5.0   0.0   1.5   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Xenopus laevis OX=8355 GN=XELAEV_18013423mg PE=3 SV=1
+tr|A0A1L8H759|A0A1L8H759_XENLA -          Nucleopor_Nup85      PF07575.10       7.9    6.2   3.3        11    5.7   3.3   1.2   1   0   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=vti1b PE=4 SV=1
+tr|A0A1L8G7R3|A0A1L8G7R3_XENLA -          Nucleopor_Nup85      PF07575.10       8.2    6.2   1.4        11    5.7   1.4   1.3   1   0   0   1   1   1   0 Sorting nexin OS=Xenopus laevis OX=8355 GN=XELAEV_18026607mg PE=1 SV=1
+tr|A0A1L8H915|A0A1L8H915_XENLA -          Nucleopor_Nup85      PF07575.10       8.8    6.1   0.0        13    5.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015626mg PE=4 SV=1
+tr|A0A1L8FAR4|A0A1L8FAR4_XENLA -          Nucleopor_Nup85      PF07575.10       8.9    6.1   0.5   1.9e+02    1.7   0.1   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039961mg PE=4 SV=1
+tr|A0A1L8EUC5|A0A1L8EUC5_XENLA -          Nucleopor_Nup85      PF07575.10         9    6.0   0.0        10    5.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044018mg PE=4 SV=1
+tr|A0A1L8HVD3|A0A1L8HVD3_XENLA -          Nucleopor_Nup85      PF07575.10       9.4    6.0   0.0        13    5.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cox18 PE=3 SV=1
+tr|A0A1L8GTF4|A0A1L8GTF4_XENLA -          Nucleopor_Nup85      PF07575.10       9.9    5.9   1.2        15    5.3   1.2   1.2   1   0   0   1   1   1   0 HMG box domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020770mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 15:25:28 2022
+# [ok]

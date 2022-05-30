@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9LMK7|RBP1A_ARATH          -          Ran_BP1              PF00638.15   3.2e-27   96.3   0.0   3.9e-27   96.0   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 1 homolog a OS=Arabidopsis thaliana OX=3702 GN=RANBP1A PE=1 SV=1
+sp|Q8RWG8|RBP1B_ARATH          -          Ran_BP1              PF00638.15   5.9e-27   95.5   0.0   7.2e-27   95.2   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 1 homolog b OS=Arabidopsis thaliana OX=3702 GN=RANBP1B PE=1 SV=2
+sp|P92985|RBP1C_ARATH          -          Ran_BP1              PF00638.15     2e-25   90.5   0.0   2.4e-25   90.2   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 1 homolog c OS=Arabidopsis thaliana OX=3702 GN=RANBP1C PE=2 SV=1
+sp|Q9C829|NU50A_ARATH          -          Ran_BP1              PF00638.15     9e-14   52.9   0.0   1.4e-13   52.2   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein NUP50A OS=Arabidopsis thaliana OX=3702 GN=NUP50A PE=1 SV=1
+sp|Q9LW88|NU50B_ARATH          -          Ran_BP1              PF00638.15     8e-09   36.9   0.0   1.2e-08   36.3   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein NUP50B OS=Arabidopsis thaliana OX=3702 GN=NUP50B PE=1 SV=1
+tr|Q93ZH3|Q93ZH3_ARATH         -          Ran_BP1              PF00638.15     0.021   16.2   0.0     0.032   15.6   0.0   1.3   1   0   0   1   1   1   0 AT4g11790/T5C23_220 OS=Arabidopsis thaliana OX=3702 GN=At4g11790 PE=2 SV=1
+tr|A0A1P8BEH4|A0A1P8BEH4_ARATH -          Ran_BP1              PF00638.15       1.2   10.6   0.0       4.9    8.5   0.0   1.9   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 4 regulatory subunit-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g49390 PE=4 SV=1
+tr|F4K4U5|F4K4U5_ARATH         -          Ran_BP1              PF00638.15       4.7    8.6   0.1        17    6.8   0.0   1.9   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 4 regulatory subunit-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g49390 PE=4 SV=2
+tr|Q8LPS4|Q8LPS4_ARATH         -          Ran_BP1              PF00638.15       7.3    8.0   0.2        57    5.1   0.0   2.4   3   0   0   3   3   3   0 At3g06670/T8E24.10 OS=Arabidopsis thaliana OX=3702 GN=At3g06670 PE=1 SV=1
+tr|F4JC31|F4JC31_ARATH         -          Ran_BP1              PF00638.15       7.5    7.9   0.2        58    5.1   0.0   2.4   3   0   0   3   3   3   0 Binding protein OS=Arabidopsis thaliana OX=3702 GN=At3g06670 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:57:40 2022
+# [ok]

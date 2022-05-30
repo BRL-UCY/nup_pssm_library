@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HBE3|A0A1L8HBE3_XENLA -          Nup96                PF12110.5      5e-97  325.8   2.6     1e-96  324.8   2.6   1.5   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016499mg PE=1 SV=1
+tr|A0A1L8HJT4|A0A1L8HJT4_XENLA -          Nup96                PF12110.5    1.3e-78  265.4   3.4   2.1e-78  264.7   3.4   1.2   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013967mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup96.txt --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:36 2022
+# [ok]

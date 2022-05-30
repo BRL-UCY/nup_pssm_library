@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HVE6|A0A1L8HVE6_XENLA -          Nup54                PF13874.3    4.6e-44  151.2   3.6   4.6e-44  151.2   3.6   2.0   3   0   0   3   3   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup54 PE=1 SV=1
+tr|A0A1L8HMG6|A0A1L8HMG6_XENLA -          Nup54                PF13874.3      5e-44  151.1   2.2     5e-44  151.1   2.2   2.2   3   0   0   3   3   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009519mg PE=1 SV=1
+tr|K9ZTJ6|K9ZTJ6_XENLA         -          Nup54                PF13874.3    5.6e-44  150.9   2.2   5.6e-44  150.9   2.2   2.1   3   0   0   3   3   2   1 Nup54 OS=Xenopus laevis OX=8355 GN=nup54 PE=1 SV=1
+tr|A0A1L8EKC8|A0A1L8EKC8_XENLA -          Nup54                PF13874.3      0.096   14.1   0.6      0.14   13.6   0.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18002671mg PE=4 SV=1
+tr|A0A1L8F1M9|A0A1L8F1M9_XENLA -          Nup54                PF13874.3       0.11   13.8   0.4      0.34   12.3   0.4   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041762mg PE=4 SV=1
+tr|A0A1L8HVP8|A0A1L8HVP8_XENLA -          Nup54                PF13874.3       0.12   13.8   0.5      0.19   13.1   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005990mg PE=4 SV=1
+tr|A0A1L8HPL0|A0A1L8HPL0_XENLA -          Nup54                PF13874.3       0.16   13.3   2.8      0.32   12.4   2.8   1.4   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Xenopus laevis OX=8355 GN=cebpe PE=4 SV=1
+tr|A0A1L8FAA9|A0A1L8FAA9_XENLA -          Nup54                PF13874.3       0.17   13.2  11.9      0.22   12.9  11.9   1.1   1   0   0   1   1   1   0 Myosin_tail_1 domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180398313mg PE=4 SV=1
+tr|A0A1L8HYQ7|A0A1L8HYQ7_XENLA -          Nup54                PF13874.3       0.23   12.8   5.4      0.59   11.5   5.2   1.7   1   1   1   2   2   2   0 BZIP domain-containing protein OS=Xenopus laevis OX=8355 GN=cebpe PE=4 SV=1
+tr|A0A1L8H2H5|A0A1L8H2H5_XENLA -          Nup54                PF13874.3       0.33   12.3   7.7         9    7.7   2.4   2.6   1   1   1   2   2   2   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018909mg PE=4 SV=1
+tr|A0A1L8ELB5|A0A1L8ELB5_XENLA -          Nup54                PF13874.3       0.34   12.3   3.1      0.52   11.7   3.1   1.2   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein OS=Xenopus laevis OX=8355 GN=XELAEV_18046174mg PE=3 SV=1
+tr|A0A1L8ESS1|A0A1L8ESS1_XENLA -          Nup54                PF13874.3       0.36   12.2   4.6      0.53   11.7   4.6   1.1   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043441mg PE=3 SV=1
+tr|A0A1L8GHM3|A0A1L8GHM3_XENLA -          Nup54                PF13874.3       0.38   12.1  27.1       7.6    7.9  26.0   2.3   1   1   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025843mg PE=4 SV=1
+tr|A0A1L8FJ84|A0A1L8FJ84_XENLA -          Nup54                PF13874.3       0.39   12.1   0.1      0.61   11.5   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034625mg PE=1 SV=1
+tr|A0A1L8HT62|A0A1L8HT62_XENLA -          Nup54                PF13874.3       0.76   11.1   0.1      0.76   11.1   0.1   3.4   2   1   1   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005058mg PE=3 SV=1
+tr|A0A1L8HVL2|A0A1L8HVL2_XENLA -          Nup54                PF13874.3       0.83   11.0   6.6       2.2    9.7   6.6   1.6   1   0   0   1   1   1   0 Rho-GAP domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005936mg PE=4 SV=1
+tr|A0A1L8GZF5|A0A1L8GZF5_XENLA -          Nup54                PF13874.3       0.96   10.8   7.0       1.5   10.2   7.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017831mg PE=4 SV=1
+tr|A0A1L8GT29|A0A1L8GT29_XENLA -          Nup54                PF13874.3        1.3   10.4   6.0       3.3    9.1   6.0   1.7   1   0   0   1   1   1   0 AA_TRNA_LIGASE_II domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020690mg PE=1 SV=1
+tr|A0A1L8HUU9|A0A1L8HUU9_XENLA -          Nup54                PF13874.3        1.7   10.1   6.3       2.6    9.4   5.3   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005670mg PE=4 SV=1
+tr|A0A1L8H5Y6|A0A1L8H5Y6_XENLA -          Nup54                PF13874.3        2.4    9.5   8.8        50    5.3   5.4   2.7   1   1   0   2   2   2   0 t-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014520mg PE=4 SV=1
+tr|A0A1L8GKE6|A0A1L8GKE6_XENLA -          Nup54                PF13874.3        2.6    9.4   5.0      0.83   11.0   2.0   1.7   2   0   0   2   2   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18022419mg PE=4 SV=1
+tr|A0A1L8ESV8|A0A1L8ESV8_XENLA -          Nup54                PF13874.3        5.4    8.4  18.1       8.2    7.8   7.2   2.7   1   1   1   2   2   2   0 CtIP_N domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043515mg PE=4 SV=1
+tr|A0A1L8HLC6|A0A1L8HLC6_XENLA -          Nup54                PF13874.3        6.1    8.2   9.3        11    7.4   9.3   1.3   1   0   0   1   1   1   0 SRCR domain-containing protein OS=Xenopus laevis OX=8355 GN=msr1 PE=4 SV=1
+tr|A0A310U4J5|A0A310U4J5_XENLA -          Nup54                PF13874.3        6.2    8.2  12.7   2.1e+02    3.3  12.7   2.3   1   1   0   1   1   1   0 Myosin motor domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18002773mg PE=3 SV=1
+tr|A0A1L8HDF1|A0A1L8HDF1_XENLA -          Nup54                PF13874.3        6.3    8.2   9.9   1.2e+02    4.1   0.0   2.9   1   1   1   2   2   2   0 t-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011790mg PE=3 SV=1
+tr|A0A1L8GRN6|A0A1L8GRN6_XENLA -          Nup54                PF13874.3        8.2    7.8  10.4       1.3   10.4   1.6   2.8   3   1   0   3   3   3   0 BAR domain-containing protein OS=Xenopus laevis OX=8355 GN=bin3 PE=4 SV=1
+tr|A0A1L8I214|A0A1L8I214_XENLA -          Nup54                PF13874.3        8.9    7.7  13.4        49    5.3  10.9   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008193mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:33 2022
+# [ok]

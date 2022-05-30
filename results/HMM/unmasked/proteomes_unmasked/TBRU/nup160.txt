@@ -1,0 +1,34 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57W14|Q57W14_TRYB2 -          Nup160               PF11715.5    1.3e-09   36.2  13.7      0.06   10.9   0.0   6.4   1   1   6   7   7   7   4 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.4210 PE=4 SV=1
+tr|Q388K3|Q388K3_TRYB2 -          Nup160               PF11715.5    5.2e-08   30.9   3.5    0.0025   15.5   0.1   3.2   2   1   1   3   3   3   3 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.2920 PE=4 SV=1
+tr|Q383E1|Q383E1_TRYB2 -          Nup160               PF11715.5    2.5e-05   22.1   7.3    0.0018   16.0   0.1   4.2   3   2   2   5   5   5   1 Guanine nucleotide-binding protein beta subunit-like protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.3170 PE=1 SV=1
+tr|Q38C57|Q38C57_TRYB2 -          Nup160               PF11715.5    6.4e-05   20.8   0.8     0.033   11.8   0.1   3.2   2   1   1   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.5990 PE=4 SV=1
+tr|Q389W0|Q389W0_TRYB2 -          Nup160               PF11715.5    0.00012   19.9   0.8     0.066   10.8   0.0   3.8   4   0   0   4   4   4   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0110 PE=4 SV=1
+tr|Q38E06|Q38E06_TRYB2 -          Nup160               PF11715.5    0.00025   18.8   0.0   0.00045   18.0   0.0   1.4   1   0   0   1   1   1   1 Katanin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1500 PE=4 SV=1
+tr|Q583P8|Q583P8_TRYB2 -          Nup160               PF11715.5     0.0038   14.9   0.0      0.49    7.9   0.0   2.5   3   0   0   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.2860 PE=4 SV=1
+tr|Q57X86|Q57X86_TRYB2 -          Nup160               PF11715.5     0.0053   14.4  18.6      0.47    8.0   0.1   5.7   5   2   2   7   7   7   3 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4700 PE=4 SV=1
+tr|Q38DQ1|Q38DQ1_TRYB2 -          Nup160               PF11715.5     0.0076   13.9   0.2       1.5    6.3   0.0   2.6   2   1   1   3   3   3   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.2550 PE=4 SV=1
+tr|Q387K5|Q387K5_TRYB2 -          Nup160               PF11715.5     0.0099   13.5   4.9     0.034   11.8   0.1   3.4   2   2   3   5   5   5   1 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0680 PE=4 SV=1
+tr|Q583H9|Q583H9_TRYB2 -          Nup160               PF11715.5      0.011   13.3   0.3      0.69    7.4   0.0   2.6   3   0   0   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.3850 PE=4 SV=1
+tr|Q57TZ9|Q57TZ9_TRYB2 -          Nup160               PF11715.5      0.011   13.3   0.3     0.011   13.3   0.3   2.6   1   1   0   3   3   3   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.550 PE=4 SV=1
+tr|Q57YB4|Q57YB4_TRYB2 -          Nup160               PF11715.5      0.018   12.7   0.3       1.9    6.0   0.0   2.2   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.3040 PE=4 SV=1
+tr|Q57UT0|Q57UT0_TRYB2 -          Nup160               PF11715.5      0.018   12.7   7.2       1.2    6.6   0.1   3.5   2   2   1   3   3   3   0 Coatomer subunit alpha OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.450 PE=4 SV=1
+tr|Q387V0|Q387V0_TRYB2 -          Nup160               PF11715.5      0.024   12.3   0.0       2.2    5.8   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.0700 PE=4 SV=1
+tr|Q383N1|Q383N1_TRYB2 -          Nup160               PF11715.5      0.035   11.7   0.0       2.6    5.5   0.0   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.2250 PE=4 SV=1
+tr|Q57TT6|Q57TT6_TRYB2 -          Nup160               PF11715.5      0.052   11.1   0.2     0.073   10.7   0.2   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.6770 PE=4 SV=1
+tr|Q57Z67|Q57Z67_TRYB2 -          Nup160               PF11715.5      0.058   11.0   4.9      0.99    6.9   0.3   3.6   3   1   1   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3260 PE=4 SV=1
+tr|Q38FW7|Q38FW7_TRYB2 -          Nup160               PF11715.5      0.075   10.6   0.1       9.3    3.7   0.0   2.9   1   1   2   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.0720 PE=4 SV=1
+tr|Q57UQ2|Q57UQ2_TRYB2 -          Nup160               PF11715.5       0.27    8.8   4.6       2.8    5.4   0.2   3.2   3   2   1   4   4   4   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4220 PE=4 SV=1
+tr|Q384X5|Q384X5_TRYB2 -          Nup160               PF11715.5       0.36    8.4   5.5       2.3    5.7   0.1   2.9   3   1   1   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.4790 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11715.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes/TBRU/nup160.txt --cpu 8 hmm_profiles/PF11715.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:22 2022
+# [ok]

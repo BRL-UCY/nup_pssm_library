@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q63850|NUP62_MOUSE          -          Nsp1_C               PF05064.10     5e-30  105.3   0.5   9.7e-30  104.3   0.5   1.4   1   0   0   1   1   1   1 Nuclear pore glycoprotein p62 OS=Mus musculus OX=10090 GN=Nup62 PE=1 SV=2
+tr|A2AG11|A2AG11_MOUSE         -          Nsp1_C               PF05064.10   1.4e-21   78.1   0.3   2.7e-21   77.1   0.1   1.5   1   1   1   2   2   2   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG10|A2AG10_MOUSE         -          Nsp1_C               PF05064.10   2.5e-21   77.2   0.7     4e-21   76.6   0.1   1.6   2   0   0   2   2   2   1 Nucleoporin 62 C-terminal-like OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG12|A2AG12_MOUSE         -          Nsp1_C               PF05064.10   1.7e-20   74.5   0.1   2.2e-20   74.2   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=4 SV=1
+tr|A0A1Y7VMW4|A0A1Y7VMW4_MOUSE -          Nsp1_C               PF05064.10     0.062   14.7   3.9       0.1   14.0   0.6   2.4   1   1   1   2   2   2   0 Alpha-actinin-2 (Fragment) OS=Mus musculus OX=10090 GN=Actn2 PE=1 SV=2
+sp|Q9JI91|ACTN2_MOUSE          -          Nsp1_C               PF05064.10      0.37   12.2   1.1         1   10.7   0.5   2.1   1   1   1   2   2   2   0 Alpha-actinin-2 OS=Mus musculus OX=10090 GN=Actn2 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:49 2022
+# [ok]

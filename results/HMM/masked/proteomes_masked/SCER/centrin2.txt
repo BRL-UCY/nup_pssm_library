@@ -1,0 +1,23 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P06787|CALM_YEAST  -          EF-hand_7            PF13499.3    4.1e-23   80.1   0.0   2.5e-12   45.5   0.1   2.1   2   0   0   2   2   2   2 Calmodulin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CMD1 PE=1 SV=1
+sp|P06704|CDC31_YEAST -          EF-hand_7            PF13499.3    4.5e-21   73.5   2.5   8.3e-11   40.7   0.8   2.0   2   0   0   2   2   2   2 Cell division control protein 31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC31 PE=1 SV=2
+sp|Q06389|NCS1_YEAST  -          EF-hand_7            PF13499.3    5.3e-21   73.3   5.7   1.2e-14   53.0   0.3   2.9   2   1   0   2   2   2   2 Calcium-binding protein NCS-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FRQ1 PE=1 SV=2
+sp|D6W196|CMC1_YEAST  -          EF-hand_7            PF13499.3    8.8e-13   47.0   0.8     7e-09   34.5   0.1   2.5   2   0   0   2   2   2   2 Truncated non-functional calcium-binding mitochondrial carrier SAL1-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAL1 PE=1 SV=2
+sp|P53141|MLC1_YEAST  -          EF-hand_7            PF13499.3    4.6e-12   44.7   1.7   3.8e-08   32.1   0.5   2.1   2   0   0   2   2   2   2 Myosin light chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC1 PE=1 SV=1
+sp|P25296|CANB_YEAST  -          EF-hand_7            PF13499.3    2.2e-11   42.5   1.4   1.6e-06   27.0   0.1   2.9   2   2   0   2   2   2   2 Calcineurin subunit B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CNB1 PE=1 SV=3
+sp|P53238|PEF1_YEAST  -          EF-hand_7            PF13499.3    1.7e-08   33.2   0.4    0.0058   15.5   0.0   2.8   2   1   0   2   2   2   2 Peflin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PEF1 PE=1 SV=2
+sp|P34216|EDE1_YEAST  -          EF-hand_7            PF13499.3      6e-05   21.9   0.1       0.4    9.6   0.0   3.4   3   0   0   3   3   3   1 EH domain-containing and endocytosis protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EDE1 PE=1 SV=2
+sp|P32599|FIMB_YEAST  -          EF-hand_7            PF13499.3     0.0078   15.1   0.4     0.021   13.7   0.0   2.0   2   0   0   2   2   2   1 Fimbrin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAC6 PE=1 SV=1
+sp|P32383|PLC1_YEAST  -          EF-hand_7            PF13499.3      0.011   14.6   0.2     0.038   12.9   0.2   1.9   1   0   0   1   1   1   0 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PLC1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13499.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/centrin2.txt --cpu 8 hmm_profiles/PF13499.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:27:13 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57088|TMM33_HUMAN  -          UPF0121              PF03661.10   1.1e-95  321.5  12.8   1.3e-95  321.3  12.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=2
+tr|D6RAA6|D6RAA6_HUMAN -          UPF0121              PF03661.10   1.1e-86  292.1  10.8   1.2e-86  291.9  10.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|H0Y8N0|H0Y8N0_HUMAN -          UPF0121              PF03661.10   2.3e-61  209.2   6.8   2.7e-61  209.0   6.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|D6RBY2|D6RBY2_HUMAN -          UPF0121              PF03661.10   3.5e-07   31.8   0.0   3.8e-07   31.7   0.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|J3KN43|J3KN43_HUMAN -          UPF0121              PF03661.10   4.2e-06   28.3   0.1   4.5e-06   28.2   0.1   1.1   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/krh2.txt --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:12 2022
+# [ok]

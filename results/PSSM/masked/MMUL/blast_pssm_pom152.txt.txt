@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|O94385|PO152_SCHPO Nucleoporin pom152 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=pom152 PE=3 SV=3
+# Database: DB_masked/MMUL_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|O94385|PO152_SCHPO	tr|F7GZ13|F7GZ13_MACMU	0.71	35.1	595	701	833	932
+sp|O94385|PO152_SCHPO	tr|A0A1D5QPK8|A0A1D5QPK8_MACMU	0.73	35.1	595	701	832	931
+sp|O94385|PO152_SCHPO	tr|A0A1D5QHC1|A0A1D5QHC1_MACMU	0.75	35.1	595	701	832	931
+sp|O94385|PO152_SCHPO	tr|F7GZ17|F7GZ17_MACMU	0.76	35.1	595	701	832	931
+# BLAST processed 1 queries

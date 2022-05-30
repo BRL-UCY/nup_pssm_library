@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RJP4|A0A1D5RJP4_MACMU -          Nucleopor_Nup85      PF07575.10  2.7e-177  592.2   8.3    3e-177  592.0   8.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|H9FZZ2|H9FZZ2_MACMU         -          Nucleopor_Nup85      PF07575.10  2.8e-177  592.1   8.3  3.2e-177  591.9   8.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=2 SV=1
+tr|F7DH68|F7DH68_MACMU         -          Nucleopor_Nup85      PF07575.10  8.8e-162  540.9  11.4  2.8e-160  536.0  11.4   2.0   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=2
+tr|A0A1D5RC65|A0A1D5RC65_MACMU -          Nucleopor_Nup85      PF07575.10  3.1e-158  529.2  10.8  1.7e-126  424.5   9.9   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|A0A1D5R0I2|A0A1D5R0I2_MACMU -          Nucleopor_Nup85      PF07575.10   5.5e-29  102.5   0.9   6.3e-29  102.3   0.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|F6U0X1|F6U0X1_MACMU         -          Nucleopor_Nup85      PF07575.10     0.014   15.4   8.0     0.047   13.6   1.7   3.3   3   1   1   4   4   4   0 Clathrin heavy chain linker domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=CLHC1 PE=4 SV=2
+tr|F7AE55|F7AE55_MACMU         -          Nucleopor_Nup85      PF07575.10     0.056   13.3   0.2     0.064   13.1   0.2   1.1   1   0   0   1   1   1   0 SCAN box domain-containing protein OS=Macaca mulatta OX=9544 GN=ZSCAN30 PE=4 SV=2
+tr|A0A1D5RBE7|A0A1D5RBE7_MACMU -          Nucleopor_Nup85      PF07575.10      0.29   11.0   0.6      0.42   10.5   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZSCAN30 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup75.txt --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:53 2022
+# [ok]

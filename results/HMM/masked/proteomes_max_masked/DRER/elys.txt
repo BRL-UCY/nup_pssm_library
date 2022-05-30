@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A286Y877|A0A286Y877_DANRE -          ELYS                 PF13934.3    1.8e-45  157.0   4.6   2.6e-45  156.5   4.6   1.2   1   0   0   1   1   1   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=2
+tr|X1WE68|X1WE68_DANRE         -          ELYS                 PF13934.3    1.8e-45  157.0   4.5   2.6e-45  156.5   4.5   1.2   1   0   0   1   1   1   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=1
+tr|F5H8N4|F5H8N4_DANRE         -          ELYS                 PF13934.3       0.31   12.3   0.6       3.2    9.1   1.0   2.5   2   1   1   3   3   3   0 Leucine-rich pentatricopeptide repeat-containing OS=Danio rerio OX=7955 GN=lrpprc PE=1 SV=2
+tr|F1RB39|F1RB39_DANRE         -          ELYS                 PF13934.3        2.1    9.6   0.0       4.9    8.4   0.0   1.5   1   0   0   1   1   1   0 DDE Tnp4 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=2
+tr|F1RBR9|F1RBR9_DANRE         -          ELYS                 PF13934.3        3.9    8.8   0.2   1.3e+02    3.7   0.0   2.2   1   1   1   2   2   2   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|A0A2R8RRQ2|A0A2R8RRQ2_DANRE -          ELYS                 PF13934.3        3.9    8.8   0.2       4.9    8.4   0.2   1.2   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Danio rerio OX=7955 GN=LOC100330990 PE=4 SV=1
+tr|A0A0R4IR93|A0A0R4IR93_DANRE -          ELYS                 PF13934.3        7.3    7.9   0.2       9.6    7.5   0.2   1.2   1   0   0   1   1   1   0 Coatomer protein complex, subunit epsilon OS=Danio rerio OX=7955 GN=cope PE=1 SV=1
+tr|A0A2R8QGU9|A0A2R8QGU9_DANRE -          ELYS                 PF13934.3        8.2    7.7   3.2        20    6.4   0.4   2.9   2   2   0   2   2   2   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=1
+tr|E7EXH4|E7EXH4_DANRE         -          ELYS                 PF13934.3        9.7    7.5   0.2   2.8e+02    2.7   0.0   2.3   1   1   0   2   2   2   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:10:47 2022
+# [ok]

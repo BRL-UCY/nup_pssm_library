@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9FFK6|NUP88_ARATH          -          Nup88                PF10168.6    8.2e-16   58.1   0.0   4.3e-13   49.1   0.0   2.2   2   0   0   2   2   2   2 Nuclear pore complex protein NUP88 OS=Arabidopsis thaliana OX=3702 GN=NUP88 PE=1 SV=1
+tr|Q8VYF2|Q8VYF2_ARATH         -          Nup88                PF10168.6        1.5    7.6   0.5       1.7    7.5   0.5   1.0   1   0   0   1   1   1   0 Uveal autoantigen with coiled-coil/ankyrin OS=Arabidopsis thaliana OX=3702 GN=At4g15790 PE=1 SV=1
+sp|O48767|AUG2_ARATH           -          Nup88                PF10168.6        4.5    6.1   0.8       5.9    5.7   0.8   1.1   1   0   0   1   1   1   0 AUGMIN subunit 2 OS=Arabidopsis thaliana OX=3702 GN=AUG2 PE=1 SV=2
+tr|F4KEP8|F4KEP8_ARATH         -          Nup88                PF10168.6        4.5    6.1   0.1       5.6    5.8   0.1   1.2   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+tr|Q9T0C3|Q9T0C3_ARATH         -          Nup88                PF10168.6        4.6    6.1   0.0         6    5.7   0.0   1.1   1   0   0   1   1   1   0 CDC68-like protein OS=Arabidopsis thaliana OX=3702 GN=T4F9.120 PE=4 SV=1
+tr|A0A1P8BDN7|A0A1P8BDN7_ARATH -          Nup88                PF10168.6        6.8    5.5   0.0       9.9    5.0   0.0   1.2   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+sp|Q9LT93|AGL71_ARATH          -          Nup88                PF10168.6          7    5.5   0.1       8.8    5.1   0.1   1.1   1   0   0   1   1   1   0 MADS-box protein AGL71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=2 SV=1
+tr|A0A1P8BDR0|A0A1P8BDR0_ARATH -          Nup88                PF10168.6        7.7    5.3   0.1       9.9    5.0   0.1   1.1   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+tr|F4KEP6|F4KEP6_ARATH         -          Nup88                PF10168.6        8.3    5.2   0.1        11    4.9   0.1   1.1   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=2
+tr|A0A1P8B2R2|A0A1P8B2R2_ARATH -          Nup88                PF10168.6        8.5    5.2   0.2        11    4.8   0.2   1.1   1   0   0   1   1   1   0 WRKY DNA-binding protein 60 OS=Arabidopsis thaliana OX=3702 GN=WRKY60 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:35:45 2022
+# [ok]

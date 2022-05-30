@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8B159|A0A1P8B159_ARATH -          ELYS                 PF13934.3    3.9e-49  168.7   0.0   6.8e-49  167.9   0.0   1.4   1   0   0   1   1   1   1 Ubiquitin-protein ligase OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=4 SV=1
+sp|Q84JU6|HOS1_ARATH           -          ELYS                 PF13934.3    5.4e-49  168.3   0.0     9e-49  167.5   0.0   1.4   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase HOS1 OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=1 SV=1
+sp|Q9FNG8|PP366_ARATH          -          ELYS                 PF13934.3       0.65   11.1   0.0   2.6e+02    2.5   0.0   3.7   4   1   0   4   4   4   0 Putative pentatricopeptide repeat-containing protein At5g06400, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At5g06400 PE=3 SV=1
+sp|Q9SAA6|PPR34_ARATH          -          ELYS                 PF13934.3        1.2   10.2   0.0        22    6.1   0.0   2.3   2   0   0   2   2   2   0 Pentatricopeptide repeat-containing protein At1g11710, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At1g11710 PE=2 SV=1
+tr|A0A1P8AWU6|A0A1P8AWU6_ARATH -          ELYS                 PF13934.3        1.2   10.1   0.0        21    6.1   0.0   2.2   2   0   0   2   2   2   0 Pentatricopeptide repeat (PPR) superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g11710 PE=4 SV=1
+sp|Q9ZW33|TIM10_ARATH          -          ELYS                 PF13934.3          2    9.5   0.2       2.3    9.2   0.2   1.0   1   0   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit TIM10 OS=Arabidopsis thaliana OX=3702 GN=TIM10 PE=1 SV=1
+tr|Q9SD98|Q9SD98_ARATH         -          ELYS                 PF13934.3        2.2    9.3   0.0       3.5    8.7   0.0   1.2   1   0   0   1   1   1   0 HXXXD-type acyl-transferase family protein OS=Arabidopsis thaliana OX=3702 GN=MXM12.10 PE=2 SV=1
+sp|Q8S8Q7|PP183_ARATH          -          ELYS                 PF13934.3        3.1    8.9   0.0       7.2    7.6   0.0   1.5   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At2g34370, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=PCMP-H25 PE=2 SV=1
+sp|Q9FIX3|PP407_ARATH          -          ELYS                 PF13934.3        3.7    8.6   0.0   1.6e+02    3.3   0.1   2.7   2   1   1   3   3   3   0 Pentatricopeptide repeat-containing protein At5g39710 OS=Arabidopsis thaliana OX=3702 GN=EMB2745 PE=2 SV=1
+sp|A3KPF8|PP131_ARATH          -          ELYS                 PF13934.3        4.3    8.4   0.0        21    6.1   0.0   2.2   2   1   0   2   2   2   0 Pentatricopeptide repeat-containing protein At1g79080, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=At1g79080 PE=2 SV=1
+sp|Q42521|DCE1_ARATH           -          ELYS                 PF13934.3        4.3    8.4   0.0       7.1    7.6   0.0   1.3   1   0   0   1   1   1   0 Glutamate decarboxylase 1 OS=Arabidopsis thaliana OX=3702 GN=GAD1 PE=1 SV=2
+sp|Q9LR72|PPR7_ARATH           -          ELYS                 PF13934.3        5.3    8.1   0.0       8.4    7.4   0.0   1.2   1   0   0   1   1   1   0 Putative pentatricopeptide repeat-containing protein At1g03510 OS=Arabidopsis thaliana OX=3702 GN=PCMP-E3 PE=3 SV=1
+sp|Q9FIN1|6PGL4_ARATH          -          ELYS                 PF13934.3          9    7.3   0.0        15    6.6   0.0   1.2   1   0   0   1   1   1   0 Probable 6-phosphogluconolactonase 4 OS=Arabidopsis thaliana OX=3702 GN=PGL4 PE=2 SV=1
+tr|Q56W28|Q56W28_ARATH         -          ELYS                 PF13934.3        9.6    7.2   0.0        15    6.6   0.0   1.2   1   0   0   1   1   1   0 Glutamate decarboxylase OS=Arabidopsis thaliana OX=3702 GN=GAD2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:57:29 2022
+# [ok]

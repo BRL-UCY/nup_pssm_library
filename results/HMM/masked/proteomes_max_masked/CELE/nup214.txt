@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q17602|NU214_CAEEL          -          NUP214               PF16755.2      0.042   13.7   1.3     0.048   13.5   0.2   1.5   2   0   0   2   2   2   0 Nuclear pore complex protein 14 OS=Caenorhabditis elegans OX=6239 GN=npp-14 PE=1 SV=1
+sp|P34595|IGLR2_CAEEL          -          NUP214               PF16755.2       0.17   11.6   1.2      0.35   10.7   0.4   1.8   3   0   0   3   3   3   0 Immunoglobulin domain and leucine-rich repeat-containing protein 2 OS=Caenorhabditis elegans OX=6239 GN=iglr-2 PE=1 SV=2
+tr|G5EEZ4|G5EEZ4_CAEEL         -          NUP214               PF16755.2       0.47   10.2   0.0       1.6    8.4   0.0   1.7   2   0   0   2   2   2   0 3E324 OS=Caenorhabditis elegans OX=6239 GN=3E324 PE=1 SV=1
+tr|Q20262|Q20262_CAEEL         -          NUP214               PF16755.2        1.2    8.9   1.2       4.2    7.1   0.6   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F41C3.6 PE=4 SV=3
+tr|Q9XWF9|Q9XWF9_CAEEL         -          NUP214               PF16755.2        1.5    8.5   0.8       2.7    7.7   0.8   1.4   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54E5B.2 PE=4 SV=1
+tr|Q22129|Q22129_CAEEL         -          NUP214               PF16755.2        4.2    7.1   0.1       5.6    6.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T03G6.3 PE=1 SV=2
+tr|G5EFD7|G5EFD7_CAEEL         -          NUP214               PF16755.2        4.8    6.9   0.1       8.6    6.1   0.1   1.3   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F46C5.9 PE=1 SV=1
+sp|Q21338|SPT5H_CAEEL          -          NUP214               PF16755.2        5.6    6.7   0.2         9    6.0   0.2   1.2   1   0   0   1   1   1   0 Transcription elongation factor SPT5 OS=Caenorhabditis elegans OX=6239 GN=spt-5 PE=3 SV=3
+tr|Q95Q36|Q95Q36_CAEEL         -          NUP214               PF16755.2        5.6    6.7   0.2       9.6    5.9   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W09G3.6 PE=1 SV=1
+tr|D0VWM3|D0VWM3_CAEEL         -          NUP214               PF16755.2        7.7    6.2   0.0       9.1    6.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C01B10.44 PE=4 SV=2
+tr|Q4PIW3|Q4PIW3_CAEEL         -          NUP214               PF16755.2        8.2    6.1   0.0        11    5.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C25F6.8 PE=4 SV=1
+tr|Q7JKM8|Q7JKM8_CAEEL         -          NUP214               PF16755.2        8.9    6.0   0.0       9.3    6.0   0.0   1.0   1   0   0   1   1   1   0 INSulin related OS=Caenorhabditis elegans OX=6239 GN=ins-29 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:59:12 2022
+# [ok]

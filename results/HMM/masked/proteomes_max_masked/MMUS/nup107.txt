@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q4V9|E9Q4V9_MOUSE         -          Nup84_Nup100         PF04121.10  2.8e-187  625.7  11.0  3.2e-187  625.5  11.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8BH74|NU107_MOUSE          -          Nup84_Nup100         PF04121.10  2.8e-187  625.7  11.0  3.3e-187  625.5  11.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A1W2P7R1|A0A1W2P7R1_MOUSE -          Nup84_Nup100         PF04121.10   4.6e-19   69.7   1.6   5.6e-19   69.4   1.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|E9Q0C3|E9Q0C3_MOUSE         -          Nup84_Nup100         PF04121.10       2.5    7.8   0.2       3.2    7.4   0.2   1.1   1   0   0   1   1   1   0 Heat shock protein HSP 90-beta (Fragment) OS=Mus musculus OX=10090 GN=Hsp90ab1 PE=1 SV=1
+tr|J3QMX2|J3QMX2_MOUSE         -          Nup84_Nup100         PF04121.10       3.7    7.2   0.0       4.8    6.9   0.0   1.1   1   0   0   1   1   1   0 Transportin-1 (Fragment) OS=Mus musculus OX=10090 GN=Tnpo1 PE=1 SV=1
+tr|A0A0R4J0W6|A0A0R4J0W6_MOUSE -          Nup84_Nup100         PF04121.10       6.8    6.3   0.1       9.1    5.9   0.1   1.2   1   0   0   1   1   1   0 Leucine rich repeat containing 40, isoform CRA_a OS=Mus musculus OX=10090 GN=Lrrc40 PE=1 SV=1
+sp|Q9CRC8|LRC40_MOUSE          -          Nup84_Nup100         PF04121.10       6.8    6.3   0.1       9.1    5.9   0.1   1.2   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 40 OS=Mus musculus OX=10090 GN=Lrrc40 PE=1 SV=2
+tr|A0A1W2P7Q6|A0A1W2P7Q6_MOUSE -          Nup84_Nup100         PF04121.10       8.5    6.0   0.1        14    5.3   0.1   1.2   1   0   0   1   1   1   0 Exportin-T OS=Mus musculus OX=10090 GN=Xpot PE=1 SV=1
+tr|A0A1W2P6U7|A0A1W2P6U7_MOUSE -          Nup84_Nup100         PF04121.10       9.2    5.9   0.5        12    5.6   0.5   1.1   1   0   0   1   1   1   0 Centrosomal protein of 290 kDa (Fragment) OS=Mus musculus OX=10090 GN=Cep290 PE=4 SV=1
+tr|A0A0R4J060|A0A0R4J060_MOUSE -          Nup84_Nup100         PF04121.10       9.9    5.8   0.1        14    5.3   0.1   1.0   1   0   0   1   1   1   0 Histone deacetylase complex subunit SAP130 OS=Mus musculus OX=10090 GN=Sap130 PE=1 SV=1
+sp|Q8BIH0|SP130_MOUSE          -          Nup84_Nup100         PF04121.10       9.9    5.8   0.1        14    5.3   0.1   1.0   1   0   0   1   1   1   0 Histone deacetylase complex subunit SAP130 OS=Mus musculus OX=10090 GN=Sap130 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:14:46 2022
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CEC0|NUP88_MOUSE          -          Nup88                PF10168.6   1.1e-302 1006.9   0.0  1.2e-302 1006.7   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+tr|J3QNZ2|J3QNZ2_MOUSE         -          Nup88                PF10168.6    0.00056   19.5   0.0   0.00057   19.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+tr|F8WI55|F8WI55_MOUSE         -          Nup88                PF10168.6      0.059   12.8   1.1      0.06   12.8   1.1   1.1   1   0   0   1   1   1   0 Programmed cell death protein 10 OS=Mus musculus OX=10090 GN=Pdcd10 PE=1 SV=2
+tr|D3Z6R0|D3Z6R0_MOUSE         -          Nup88                PF10168.6       0.39   10.1   4.1      0.48    9.8   4.1   1.0   1   0   0   1   1   1   0 Predicted pseudogene 5478 OS=Mus musculus OX=10090 GN=Gm5478 PE=3 SV=2
+tr|F6WY34|F6WY34_MOUSE         -          Nup88                PF10168.6          1    8.7  16.2       1.2    8.5  16.2   1.0   1   0   0   1   1   1   0 Sarcolemmal membrane-associated protein (Fragment) OS=Mus musculus OX=10090 GN=Slmap PE=1 SV=1
+sp|Q9EQ09|OLR1_MOUSE           -          Nup88                PF10168.6        2.3    7.5  35.1       5.7    6.2  35.0   1.5   1   1   0   1   1   1   0 Oxidized low-density lipoprotein receptor 1 OS=Mus musculus OX=10090 GN=Olr1 PE=2 SV=2
+tr|A0A0R4J070|A0A0R4J070_MOUSE -          Nup88                PF10168.6        4.2    6.7   8.2       5.6    6.3   8.2   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=4 SV=1
+tr|A0A0R4J1P6|A0A0R4J1P6_MOUSE -          Nup88                PF10168.6        4.3    6.7   8.2       5.7    6.3   8.2   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=4 SV=1
+tr|A0A087WNR4|A0A087WNR4_MOUSE -          Nup88                PF10168.6        4.6    6.6   8.2       5.7    6.2   8.2   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=4 SV=1
+sp|Q14BK3|TEX35_MOUSE          -          Nup88                PF10168.6        7.2    5.9   9.8       9.6    5.5   9.8   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=2 SV=1
+tr|D3Z652|D3Z652_MOUSE         -          Nup88                PF10168.6        7.4    5.9   9.3       9.9    5.4   9.3   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=4 SV=1
+tr|D3Z4U7|D3Z4U7_MOUSE         -          Nup88                PF10168.6        7.5    5.9   9.3        10    5.4   9.3   1.1   1   0   0   1   1   1   0 Testis-expressed protein 35 OS=Mus musculus OX=10090 GN=Tex35 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:41 2022
+# [ok]

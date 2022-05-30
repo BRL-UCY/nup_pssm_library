@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HGG3|A0A1L8HGG3_XENLA -          Nup88                PF10168.6   1.2e-238  794.9   0.0  1.3e-238  794.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012860mg PE=1 SV=1
+tr|A0A1L8H8E3|A0A1L8H8E3_XENLA -          Nup88                PF10168.6   1.8e-236  787.6   0.0  2.1e-236  787.5   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015436mg PE=4 SV=1
+tr|A0A1L8ETN8|A0A1L8ETN8_XENLA -          Nup88                PF10168.6      0.049   12.8   0.0     0.069   12.3   0.0   1.1   1   0   0   1   1   1   0 Kynurenine formamidase OS=Xenopus laevis OX=8355 GN=afmid PE=3 SV=1
+tr|A0A1L8FKQ6|A0A1L8FKQ6_XENLA -          Nup88                PF10168.6        2.2    7.3   0.1       3.6    6.6   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=arhgap22 PE=4 SV=1
+tr|A0A1L8HNC6|A0A1L8HNC6_XENLA -          Nup88                PF10168.6          3    6.8   2.8       4.2    6.4   2.8   1.1   1   0   0   1   1   1   0 Fibrinogen C-terminal domain-containing protein OS=Xenopus laevis OX=8355 GN=angptl4 PE=4 SV=1
+tr|A0A1L8FL08|A0A1L8FL08_XENLA -          Nup88                PF10168.6        6.5    5.7   0.3       7.1    5.6   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035248mg PE=4 SV=1
+tr|A0A1L8EZV0|A0A1L8EZV0_XENLA -          Nup88                PF10168.6          7    5.6   0.4       6.9    5.7   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041079mg PE=4 SV=1
+tr|A0A1L8F2T1|A0A1L8F2T1_XENLA -          Nup88                PF10168.6        8.3    5.4   0.1        12    4.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18042138mg PE=3 SV=1
+tr|A0A1L8H5R8|A0A1L8H5R8_XENLA -          Nup88                PF10168.6        8.6    5.3   0.0        12    4.9   0.0   1.1   1   0   0   1   1   1   0 Mab-21 domain-containing protein OS=Xenopus laevis OX=8355 GN=mab21l3 PE=4 SV=1
+tr|Q5PPY9|Q5PPY9_XENLA         -          Nup88                PF10168.6        8.7    5.3   0.5       9.2    5.2   0.5   1.0   1   0   0   1   1   1   0 SNARE-associated protein Snapin OS=Xenopus laevis OX=8355 GN=snapin PE=1 SV=1
+tr|A0A1L8FLM0|A0A1L8FLM0_XENLA -          Nup88                PF10168.6        9.4    5.2   0.9        13    4.8   0.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035466mg PE=3 SV=1
+tr|Q6GNZ2|Q6GNZ2_XENLA         -          Nup88                PF10168.6        9.7    5.2   2.5        10    5.1   2.5   1.1   1   0   0   1   1   1   0 MGC80776 protein OS=Xenopus laevis OX=8355 GN=ssna1 PE=1 SV=1
+tr|A0A1L8F6Z8|A0A1L8F6Z8_XENLA -          Nup88                PF10168.6        9.9    5.1   0.0        14    4.7   0.0   1.1   1   0   0   1   1   1   0 Fibronectin type-III domain-containing protein OS=Xenopus laevis OX=8355 GN=il2rg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:40:17 2022
+# [ok]

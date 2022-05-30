@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9U1S3|Q9U1S3_CAEEL -          NPCC                 PF08058.8      0.068   13.8   0.2     0.068   13.8   0.2   3.1   3   1   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y75B8A.16 PE=1 SV=1
+tr|Q17912|Q17912_CAEEL -          NPCC                 PF08058.8       0.11   13.1   0.2      0.11   13.1   0.2   3.4   3   2   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C11H1.2 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/mug31.txt --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:03 2022
+# [ok]

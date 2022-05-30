@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6ZN69|F6ZN69_MACMU         -          Nsp1_C               PF05064.10   3.9e-37  127.9   6.5   3.9e-37  127.9   6.5   1.5   2   0   0   2   2   1   1 Nuclear pore glycoprotein p62 OS=Macaca mulatta OX=9544 GN=NUP62 PE=2 SV=1
+tr|A0A1D5RIB2|A0A1D5RIB2_MACMU -          Nsp1_C               PF05064.10   5.2e-24   85.6   3.4   5.2e-24   85.6   3.4   1.6   2   0   0   2   2   2   1 Nsp1_C domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP62 PE=4 SV=1
+tr|F7GUQ6|F7GUQ6_MACMU         -          Nsp1_C               PF05064.10     0.002   19.2   6.3     0.002   19.2   6.3   2.8   3   0   0   3   3   3   1 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC693633 PE=3 SV=2
+tr|F6VBK4|F6VBK4_MACMU         -          Nsp1_C               PF05064.10      0.02   16.0   6.3      0.02   16.0   6.3   2.7   3   1   0   3   3   3   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC700569 PE=3 SV=1
+tr|A0A1D5QRD8|A0A1D5QRD8_MACMU -          Nsp1_C               PF05064.10     0.041   15.0  23.9      0.74   10.9  11.5   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HOMER1 PE=4 SV=1
+tr|F7HNS6|F7HNS6_MACMU         -          Nsp1_C               PF05064.10     0.045   14.9  24.1      0.83   10.8  11.6   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HOMER1 PE=4 SV=1
+tr|A0A1D5QK68|A0A1D5QK68_MACMU -          Nsp1_C               PF05064.10      0.12   13.5   1.5      0.12   13.5   1.5   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SMCO1 PE=4 SV=1
+tr|H9EPI5|H9EPI5_MACMU         -          Nsp1_C               PF05064.10      0.22   12.7  24.2       2.2    9.4  11.9   2.7   1   1   1   2   2   2   0 Homer protein homolog 1 OS=Macaca mulatta OX=9544 GN=HOMER1 PE=2 SV=1
+tr|A0A1D5R084|A0A1D5R084_MACMU -          Nsp1_C               PF05064.10      0.22   12.6  24.2       2.3    9.4  11.9   2.7   1   1   1   2   2   2   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=HOMER1 PE=4 SV=1
+tr|F7HNK9|F7HNK9_MACMU         -          Nsp1_C               PF05064.10      0.24   12.5  24.2       2.3    9.3  11.9   2.6   1   1   1   2   2   2   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=HOMER1 PE=4 SV=2
+tr|A0A1D5R9X4|A0A1D5R9X4_MACMU -          Nsp1_C               PF05064.10      0.66   11.1   1.7       1.4   10.1   1.7   1.6   1   1   0   1   1   1   0 ING domain-containing protein OS=Macaca mulatta OX=9544 GN=ING1 PE=4 SV=1
+tr|F7DVV0|F7DVV0_MACMU         -          Nsp1_C               PF05064.10      0.95   10.6   1.8       2.1    9.5   0.1   2.4   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PROM1 PE=4 SV=2
+tr|F7HNK6|F7HNK6_MACMU         -          Nsp1_C               PF05064.10       1.4   10.0  16.4       9.6    7.4  16.2   2.2   1   1   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=HOMER1 PE=4 SV=2
+tr|F7GPU5|F7GPU5_MACMU         -          Nsp1_C               PF05064.10       2.1    9.5   7.6         2    9.5   5.4   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TSG101 PE=4 SV=2
+tr|G7NDS4|G7NDS4_MACMU         -          Nsp1_C               PF05064.10       2.2    9.4   7.6       2.4    9.3   5.5   2.0   1   1   1   2   2   2   0 ESCRT-I complex subunit TSG101 OS=Macaca mulatta OX=9544 GN=TSG101 PE=4 SV=1
+tr|A0A1D5QVU0|A0A1D5QVU0_MACMU -          Nsp1_C               PF05064.10       2.3    9.4   9.8       6.1    8.0   5.3   2.7   1   1   2   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SCLT1 PE=4 SV=1
+tr|F7E5G2|F7E5G2_MACMU         -          Nsp1_C               PF05064.10       2.4    9.3   5.8       2.1    9.5   1.6   2.7   3   0   0   3   3   3   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT82 PE=3 SV=1
+tr|A0A1D5QLK5|A0A1D5QLK5_MACMU -          Nsp1_C               PF05064.10       3.8    8.6   5.3        19    6.4   1.4   2.9   2   0   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT85 PE=3 SV=1
+tr|F6QJI3|F6QJI3_MACMU         -          Nsp1_C               PF05064.10       4.4    8.5  17.4      0.51   11.5   6.8   3.0   2   2   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT36 PE=3 SV=2
+tr|F7ACB4|F7ACB4_MACMU         -          Nsp1_C               PF05064.10       5.5    8.1  19.3     0.043   14.9   6.6   3.3   2   2   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT35 PE=3 SV=2
+tr|F6TKS0|F6TKS0_MACMU         -          Nsp1_C               PF05064.10       5.6    8.1  14.3        23    6.1  12.2   2.8   3   1   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ARHGAP25 PE=4 SV=2
+tr|F7ACA5|F7ACA5_MACMU         -          Nsp1_C               PF05064.10       6.5    7.9  17.2      0.37   11.9   5.9   2.9   2   2   0   2   2   2   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=KRT36 PE=3 SV=2
+tr|F6TL08|F6TL08_MACMU         -          Nsp1_C               PF05064.10       7.4    7.7  14.4        27    5.9  12.3   2.8   3   1   0   3   3   3   0 Rho GTPase-activating protein 25 isoform c OS=Macaca mulatta OX=9544 GN=ARHGAP25 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:53 2022
+# [ok]

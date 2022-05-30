@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9VDV3|NUP58_DROME Probable nucleoporin Nup58 OS=Drosophila melanogaster GN=Nup58 PE=2 SV=1
+# Database: DB_masked/TBRU_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+sp|Q9VDV3|NUP58_DROME	tr|Q383G9|Q383G9_TRYB2	4.61e-07	51.3	3	285	1152	1436
+sp|Q9VDV3|NUP58_DROME	tr|Q57XK4|Q57XK4_TRYB2	1.3	30.1	311	382	114	184
+# BLAST processed 1 queries

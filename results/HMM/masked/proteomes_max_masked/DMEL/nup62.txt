@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7JXF5|NUP62_DROME          -          Nsp1_C               PF05064.10   9.3e-25   87.0   2.2   9.3e-25   87.0   2.2   2.2   1   1   2   3   3   3   1 Nuclear pore glycoprotein p62 OS=Drosophila melanogaster OX=7227 GN=Nup62 PE=1 SV=1
+tr|Q9VCS1|Q9VCS1_DROME         -          Nsp1_C               PF05064.10       1.3    9.1   0.1       1.7    8.7   0.1   1.3   1   0   0   1   1   1   0 IP04268p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13838 PE=2 SV=1
+tr|Q9W2N5|Q9W2N5_DROME         -          Nsp1_C               PF05064.10       1.7    8.7   0.2        13    5.9   0.3   2.3   3   0   0   3   3   3   0 GH10162p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3295 PE=1 SV=1
+tr|Q9VIY3|Q9VIY3_DROME         -          Nsp1_C               PF05064.10       2.4    8.3   0.3         7    6.8   0.0   1.9   2   0   0   2   2   2   0 GH10882p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17564 PE=1 SV=1
+tr|Q9I7M1|Q9I7M1_DROME         -          Nsp1_C               PF05064.10       3.3    7.8   0.1       7.3    6.7   0.1   1.5   1   0   0   1   1   1   0 Olfactory-specific 9 OS=Drosophila melanogaster OX=7227 GN=OS9 PE=4 SV=2
+tr|Q9VCB8|Q9VCB8_DROME         -          Nsp1_C               PF05064.10       3.5    7.8   0.0       8.5    6.5   0.0   1.6   1   0   0   1   1   1   0 Java no jive OS=Drosophila melanogaster OX=7227 GN=jnj PE=1 SV=1
+tr|Q9VBQ3|Q9VBQ3_DROME         -          Nsp1_C               PF05064.10       3.6    7.7   0.1       8.2    6.6   0.1   1.5   1   0   0   1   1   1   0 FI08017p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5111 PE=2 SV=1
+tr|A0A0B4KFE7|A0A0B4KFE7_DROME -          Nsp1_C               PF05064.10       4.5    7.4   0.1       5.9    7.0   0.1   1.4   1   0   0   1   1   1   0 Alpha-Esterase-3, isoform C OS=Drosophila melanogaster OX=7227 GN=alpha-Est3 PE=4 SV=1
+sp|Q9VCA9|SPCS3_DROME          -          Nsp1_C               PF05064.10       5.4    7.2   0.1       7.6    6.7   0.1   1.2   1   0   0   1   1   1   0 Signal peptidase complex subunit 3 OS=Drosophila melanogaster OX=7227 GN=Spase22-23 PE=2 SV=1
+tr|A0A0B4K7R1|A0A0B4K7R1_DROME -          Nsp1_C               PF05064.10       5.4    7.2   0.1       7.6    6.7   0.1   1.2   1   0   0   1   1   1   0 Signal peptidase complex subunit 3 OS=Drosophila melanogaster OX=7227 GN=Spase22-23 PE=3 SV=1
+tr|A1Z9J3|A1Z9J3_DROME         -          Nsp1_C               PF05064.10       6.6    6.9   0.2     1e+03   -0.2   0.0   4.5   4   0   0   4   4   4   0 Short stop, isoform H OS=Drosophila melanogaster OX=7227 GN=shot PE=1 SV=1
+tr|Q9VUG5|Q9VUG5_DROME         -          Nsp1_C               PF05064.10         9    6.4   0.0        18    5.5   0.0   1.4   1   0   0   1   1   1   0 GEO02333p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT29351 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:02:41 2022
+# [ok]

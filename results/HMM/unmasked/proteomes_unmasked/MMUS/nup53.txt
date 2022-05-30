@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R4R6|NUP35_MOUSE          -          Nup35_RRM            PF05172.10     2e-26   93.4   0.0   3.2e-26   92.8   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=2
+tr|G5E8X2|G5E8X2_MOUSE         -          Nup35_RRM            PF05172.10   4.9e-07   31.2   0.1    0.0035   18.8   0.0   4.3   4   0   0   4   4   4   1 MCG12357 OS=Mus musculus OX=10090 GN=Pabpc4l PE=4 SV=1
+tr|A0A0A6YWT2|A0A0A6YWT2_MOUSE -          Nup35_RRM            PF05172.10   4.3e-05   25.0   0.0    0.0016   19.9   0.0   2.4   2   0   0   2   2   2   1 Poly(A)-binding protein, cytoplasmic 4-like (Fragment) OS=Mus musculus OX=10090 GN=Pabpc4l PE=4 SV=1
+sp|P70318|TIAR_MOUSE           -          Nup35_RRM            PF05172.10    0.0037   18.8   0.1       3.3    9.3   0.0   3.4   2   2   1   3   3   3   1 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+tr|Q80ZW7|Q80ZW7_MOUSE         -          Nup35_RRM            PF05172.10    0.0092   17.5   0.3      0.81   11.3   0.2   3.3   1   1   1   2   2   2   1 Nucleolysin TIA-1 OS=Mus musculus OX=10090 GN=Tia1 PE=1 SV=1
+tr|G5E8L2|G5E8L2_MOUSE         -          Nup35_RRM            PF05172.10     0.012   17.1   0.2       0.7   11.5   0.2   3.2   1   1   0   1   1   1   0 Cytotoxic granule-associated RNA binding protein 1, isoform CRA_f OS=Mus musculus OX=10090 GN=Tia1 PE=1 SV=1
+tr|Q921W2|Q921W2_MOUSE         -          Nup35_RRM            PF05172.10     0.014   16.9   0.1       3.1    9.4   0.0   3.0   3   1   0   3   3   3   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+tr|D3Z3Y4|D3Z3Y4_MOUSE         -          Nup35_RRM            PF05172.10     0.014   16.9   0.1       2.6    9.6   0.0   2.8   2   1   0   2   2   2   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=2
+tr|D3Z4H6|D3Z4H6_MOUSE         -          Nup35_RRM            PF05172.10     0.016   16.7   0.1         1   10.9   0.1   3.2   2   1   0   2   2   2   0 Nucleolysin TIA-1 OS=Mus musculus OX=10090 GN=Tia1 PE=1 SV=1
+sp|P52912|TIA1_MOUSE           -          Nup35_RRM            PF05172.10     0.017   16.7   0.1         1   10.9   0.1   3.2   2   1   0   2   2   2   0 Nucleolysin TIA-1 OS=Mus musculus OX=10090 GN=Tia1 PE=1 SV=1
+sp|Q9JLI8|SART3_MOUSE          -          Nup35_RRM            PF05172.10     0.022   16.3   0.0       6.6    8.3   0.0   2.5   2   0   0   2   2   2   0 Squamous cell carcinoma antigen recognized by T-cells 3 OS=Mus musculus OX=10090 GN=Sart3 PE=1 SV=1
+tr|A0A0N4SW78|A0A0N4SW78_MOUSE -          Nup35_RRM            PF05172.10     0.041   15.4   0.0      0.15   13.6   0.0   1.8   1   1   0   1   1   1   0 Nucleolysin TIA-1 (Fragment) OS=Mus musculus OX=10090 GN=Tia1 PE=1 SV=1
+tr|A0A0U1RPE1|A0A0U1RPE1_MOUSE -          Nup35_RRM            PF05172.10     0.045   15.3   0.0      0.15   13.6   0.0   1.7   1   1   0   1   1   1   0 Nucleolysin TIAR (Fragment) OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+sp|Q9D8T7|SLIRP_MOUSE          -          Nup35_RRM            PF05172.10     0.053   15.0   0.0      0.12   13.9   0.0   1.5   1   1   0   1   1   1   0 SRA stem-loop-interacting RNA-binding protein, mitochondrial OS=Mus musculus OX=10090 GN=Slirp PE=1 SV=2
+sp|Q8R0F5|RBMX2_MOUSE          -          Nup35_RRM            PF05172.10     0.074   14.6   0.0      0.12   13.9   0.0   1.3   1   0   0   1   1   1   0 RNA-binding motif protein, X-linked 2 OS=Mus musculus OX=10090 GN=Rbmx2 PE=1 SV=1
+tr|A0A0G2JGE2|A0A0G2JGE2_MOUSE -          Nup35_RRM            PF05172.10     0.086   14.4   0.3       1.9   10.0   0.1   2.8   2   1   0   2   2   2   0 CUGBP Elav-like family member 3 OS=Mus musculus OX=10090 GN=Celf3 PE=1 SV=1
+sp|Q8CIN6|CELF3_MOUSE          -          Nup35_RRM            PF05172.10      0.13   13.8   0.3       2.3    9.8   0.1   2.7   3   1   0   3   3   3   0 CUGBP Elav-like family member 3 OS=Mus musculus OX=10090 GN=Celf3 PE=2 SV=1
+tr|A0A0U1RPD3|A0A0U1RPD3_MOUSE -          Nup35_RRM            PF05172.10      0.37   12.3   0.0       1.3   10.5   0.0   1.9   1   1   0   1   1   1   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+tr|A0A0G2JDL2|A0A0G2JDL2_MOUSE -          Nup35_RRM            PF05172.10      0.43   12.1   0.1       1.7   10.2   0.1   1.9   2   0   0   2   2   2   0 CUGBP Elav-like family member 3 OS=Mus musculus OX=10090 GN=Celf3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:42 2022
+# [ok]

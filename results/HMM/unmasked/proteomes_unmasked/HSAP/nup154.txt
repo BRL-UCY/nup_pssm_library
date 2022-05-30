@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WUM0|NU133_HUMAN  -          Nucleoporin_C        PF03177.11   9.3e-23   82.8  10.9   3.2e-22   81.1  10.9   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Homo sapiens OX=9606 GN=NUP133 PE=1 SV=2
+sp|O75694|NU155_HUMAN  -          Nucleoporin_C        PF03177.11   8.2e-20   73.1  11.4   1.3e-19   72.5  11.4   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|E9PF10|E9PF10_HUMAN -          Nucleoporin_C        PF03177.11   3.7e-15   57.7   7.6   5.4e-15   57.2   7.6   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:03 2022
+# [ok]

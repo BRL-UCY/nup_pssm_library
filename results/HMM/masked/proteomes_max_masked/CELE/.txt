@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|O44975|O44975_CAEEL         -          IR1-M                PF12185.5        4.4    7.9   0.0       7.1    7.2   0.0   1.3   1   0   0   1   1   1   0 Sulfhydryl oxidase OS=Caenorhabditis elegans OX=6239 GN=CELE_F56C11.3 PE=1 SV=1
+tr|H2KMK5|H2KMK5_CAEEL         -          IR1-M                PF12185.5        4.4    7.9   0.1        11    6.7   0.0   1.7   2   0   0   2   2   2   0 Regulator of G protein Signaling OS=Caenorhabditis elegans OX=6239 GN=rgs-4 PE=1 SV=1
+tr|Q8MQ10|Q8MQ10_CAEEL         -          IR1-M                PF12185.5        5.8    7.5   0.0       6.3    7.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K06A4.7 PE=4 SV=1
+tr|A0A486WXG8|A0A486WXG8_CAEEL -          IR1-M                PF12185.5        6.6    7.3   0.0        16    6.1   0.0   1.6   1   0   0   1   1   1   0 Regulator of G protein Signaling OS=Caenorhabditis elegans OX=6239 GN=rgs-4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:00:44 2022
+# [ok]

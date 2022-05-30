@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q96HA1|P121A_HUMAN Nuclear envelope pore membrane protein POM 121 OS=Homo sapiens GN=POM121 PE=1 SV=2
+# Database: DB_masked/MMUS_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q96HA1|P121A_HUMAN	sp|Q8K3Z9|PO121_MOUSE	0.0	679	1	1249	1	1200
+sp|Q96HA1|P121A_HUMAN	sp|Q5SW25|P12L2_MOUSE	7.97e-158	498	137	1241	1	964
+sp|Q96HA1|P121A_HUMAN	tr|Q3V0N0|Q3V0N0_MOUSE	7.36e-79	268	137	640	1	428
+sp|Q96HA1|P121A_HUMAN	tr|A0A1B0GSJ4|A0A1B0GSJ4_MOUSE	5.43e-35	136	221	380	42	197
+# BLAST processed 1 queries

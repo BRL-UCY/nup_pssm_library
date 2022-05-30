@@ -1,0 +1,67 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5SRE5|NU188_HUMAN          -          Nup188               PF10487.6   1.6e-215  720.1   0.0  2.4e-215  719.5   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|H7C4K7|H7C4K7_HUMAN         -          Nup188               PF10487.6    7.3e-10   39.5   0.0     8e-10   39.4   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Homo sapiens OX=9606 PE=4 SV=2
+sp|Q92621|NU205_HUMAN          -          Nup188               PF10487.6      0.025   14.5   0.5       0.4   10.6   0.0   2.2   2   0   0   2   2   2   0 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+tr|F5GZT0|F5GZT0_HUMAN         -          Nup188               PF10487.6       0.73    9.7   2.2        14    5.5   0.6   2.8   3   0   0   3   3   3   0 Meiosis inhibitor protein 1 OS=Homo sapiens OX=9606 GN=MEI1 PE=4 SV=1
+sp|Q96ER3|SAAL1_HUMAN          -          Nup188               PF10487.6       0.97    9.3   1.1       1.6    8.6   1.1   1.3   1   0   0   1   1   1   0 Protein SAAL1 OS=Homo sapiens OX=9606 GN=SAAL1 PE=1 SV=2
+tr|E9PFD4|E9PFD4_HUMAN         -          Nup188               PF10487.6        1.2    9.0   0.4       1.4    8.8   0.4   1.2   1   0   0   1   1   1   0 BZW2 protein OS=Homo sapiens OX=9606 GN=BZW2 PE=1 SV=2
+tr|E9PG15|E9PG15_HUMAN         -          Nup188               PF10487.6        1.8    8.4   0.7       1.8    8.4   0.7   1.0   1   0   0   1   1   1   0 14-3-3 protein theta (Fragment) OS=Homo sapiens OX=9606 GN=YWHAQ PE=1 SV=1
+sp|P31946|1433B_HUMAN          -          Nup188               PF10487.6        1.9    8.4   1.3       2.1    8.2   1.3   1.1   1   0   0   1   1   1   0 14-3-3 protein beta/alpha OS=Homo sapiens OX=9606 GN=YWHAB PE=1 SV=3
+tr|E9PRZ1|E9PRZ1_HUMAN         -          Nup188               PF10487.6        2.1    8.2   1.0       3.3    7.5   1.0   1.3   1   0   0   1   1   1   0 Protein SAAL1 OS=Homo sapiens OX=9606 GN=SAAL1 PE=1 SV=1
+tr|Q5JW48|Q5JW48_HUMAN         -          Nup188               PF10487.6        2.2    8.1   0.2       2.3    8.1   0.2   1.0   1   0   0   1   1   1   0 Myosin-7B (Fragment) OS=Homo sapiens OX=9606 GN=MYH7B PE=1 SV=1
+tr|E7ESK7|E7ESK7_HUMAN         -          Nup188               PF10487.6        2.3    8.1   0.7       2.4    8.0   0.7   1.0   1   0   0   1   1   1   0 14-3-3 protein zeta/delta (Fragment) OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1
+tr|B5MCZ3|B5MCZ3_HUMAN         -          Nup188               PF10487.6        2.3    8.1   1.3       2.7    7.8   1.3   1.0   1   0   0   1   1   1   0 Interleukin-6 OS=Homo sapiens OX=9606 GN=IL6 PE=1 SV=1
+tr|F2Z2U4|F2Z2U4_HUMAN         -          Nup188               PF10487.6        2.3    8.0   0.3         7    6.5   0.3   1.7   1   0   0   1   1   1   0 Transformation/transcription domain-associated protein OS=Homo sapiens OX=9606 GN=TRRAP PE=1 SV=3
+sp|Q9Y4A5|TRRAP_HUMAN          -          Nup188               PF10487.6        2.4    8.0   0.3         7    6.5   0.3   1.7   1   0   0   1   1   1   0 Transformation/transcription domain-associated protein OS=Homo sapiens OX=9606 GN=TRRAP PE=1 SV=3
+tr|J3KND1|J3KND1_HUMAN         -          Nup188               PF10487.6        2.5    7.9   1.1       4.1    7.2   1.1   1.3   1   0   0   1   1   1   0 Protein SAAL1 OS=Homo sapiens OX=9606 GN=SAAL1 PE=1 SV=1
+sp|Q8NG48|LINES_HUMAN          -          Nup188               PF10487.6        2.6    7.9   1.9       4.6    7.0   1.9   1.3   1   0   0   1   1   1   0 Protein Lines homolog 1 OS=Homo sapiens OX=9606 GN=LINS1 PE=1 SV=2
+sp|P05231|IL6_HUMAN            -          Nup188               PF10487.6          3    7.7   1.2       3.6    7.4   1.2   1.0   1   0   0   1   1   1   0 Interleukin-6 OS=Homo sapiens OX=9606 GN=IL6 PE=1 SV=1
+tr|A0A1B0GWF2|A0A1B0GWF2_HUMAN -          Nup188               PF10487.6          3    7.6   0.2       4.6    7.1   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=1
+tr|A0A1B0GVQ5|A0A1B0GVQ5_HUMAN -          Nup188               PF10487.6        3.1    7.6   0.2       4.6    7.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=1
+tr|B5MC21|B5MC21_HUMAN         -          Nup188               PF10487.6        3.1    7.6   0.5       3.5    7.5   0.5   1.0   1   0   0   1   1   1   0 Interleukin-6 OS=Homo sapiens OX=9606 GN=IL6 PE=1 SV=1
+tr|A0A0D9SG72|A0A0D9SG72_HUMAN -          Nup188               PF10487.6        3.1    7.6   0.2       4.7    7.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=2
+tr|A0A2R8Y5D4|A0A2R8Y5D4_HUMAN -          Nup188               PF10487.6        3.1    7.6   0.2       4.7    7.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=1
+sp|P61764|STXB1_HUMAN          -          Nup188               PF10487.6        3.2    7.6   0.2       4.9    7.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=1
+tr|A0A1B0GTP9|A0A1B0GTP9_HUMAN -          Nup188               PF10487.6        3.2    7.6   0.2       4.8    7.0   0.2   1.1   1   0   0   1   1   1   0 Syntaxin-binding protein 1 OS=Homo sapiens OX=9606 GN=STXBP1 PE=1 SV=1
+tr|H3BNM9|H3BNM9_HUMAN         -          Nup188               PF10487.6        3.5    7.5   4.4       2.1    8.2   2.6   1.5   1   1   0   1   1   1   0 Protein Lines homolog 1 OS=Homo sapiens OX=9606 GN=LINS1 PE=1 SV=1
+tr|Q5JW46|Q5JW46_HUMAN         -          Nup188               PF10487.6        3.5    7.4   3.5       3.6    7.4   3.5   1.0   1   0   0   1   1   1   0 Myosin-7B (Fragment) OS=Homo sapiens OX=9606 GN=MYH7B PE=1 SV=1
+tr|Q5QP40|Q5QP40_HUMAN         -          Nup188               PF10487.6        3.6    7.4   0.0       4.5    7.1   0.0   1.1   1   0   0   1   1   1   0 Cathepsin K (Fragment) OS=Homo sapiens OX=9606 GN=CTSK PE=1 SV=1
+tr|E1CKY7|E1CKY7_HUMAN         -          Nup188               PF10487.6        3.7    7.4   0.8       3.7    7.4   0.8   1.0   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 12B OS=Homo sapiens OX=9606 GN=PPP1R12B PE=1 SV=1
+sp|P27348|1433T_HUMAN          -          Nup188               PF10487.6        4.5    7.1   0.3       5.4    6.8   0.3   1.1   1   0   0   1   1   1   0 14-3-3 protein theta OS=Homo sapiens OX=9606 GN=YWHAQ PE=1 SV=1
+sp|Q9H169|STMN4_HUMAN          -          Nup188               PF10487.6        4.6    7.0   1.9       4.6    7.1   1.9   1.1   1   0   0   1   1   1   0 Stathmin-4 OS=Homo sapiens OX=9606 GN=STMN4 PE=1 SV=1
+tr|H0YB14|H0YB14_HUMAN         -          Nup188               PF10487.6        4.7    7.0   0.1       5.1    6.9   0.1   1.1   1   0   0   1   1   1   0 Dedicator of cytokinesis protein 5 (Fragment) OS=Homo sapiens OX=9606 GN=DOCK5 PE=1 SV=1
+tr|A0A0J9YWZ2|A0A0J9YWZ2_HUMAN -          Nup188               PF10487.6        4.8    7.0   0.5       5.2    6.9   0.5   1.0   1   0   0   1   1   1   0 14-3-3 protein beta/alpha (Fragment) OS=Homo sapiens OX=9606 GN=YWHAB PE=1 SV=1
+sp|Q0VAA2|LR74A_HUMAN          -          Nup188               PF10487.6        5.4    6.8   0.1       7.6    6.3   0.1   1.1   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 74A OS=Homo sapiens OX=9606 GN=LRRC74A PE=2 SV=2
+tr|A0A1B0GUP7|A0A1B0GUP7_HUMAN -          Nup188               PF10487.6        5.6    6.8   1.9       5.7    6.8   1.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein C1orf112 OS=Homo sapiens OX=9606 GN=C1orf112 PE=1 SV=1
+tr|H7C1X7|H7C1X7_HUMAN         -          Nup188               PF10487.6        5.7    6.8   0.2       6.7    6.5   0.2   1.2   1   0   0   1   1   1   0 Kalirin (Fragment) OS=Homo sapiens OX=9606 GN=KALRN PE=1 SV=1
+tr|B5MCX7|B5MCX7_HUMAN         -          Nup188               PF10487.6        5.9    6.7   0.6         7    6.5   0.6   1.0   1   0   0   1   1   1   0 Ankyrin repeat domain-containing protein 54 OS=Homo sapiens OX=9606 GN=ANKRD54 PE=1 SV=1
+tr|C9JWC5|C9JWC5_HUMAN         -          Nup188               PF10487.6          6    6.7   2.6       8.5    6.2   2.6   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase TRIM22 (Fragment) OS=Homo sapiens OX=9606 GN=TRIM22 PE=1 SV=1
+tr|C9J8P8|C9J8P8_HUMAN         -          Nup188               PF10487.6        6.2    6.6   0.0         7    6.5   0.0   1.1   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+tr|A0A0J9YWE8|A0A0J9YWE8_HUMAN -          Nup188               PF10487.6        6.3    6.6   0.5       6.6    6.5   0.5   1.1   1   0   0   1   1   1   0 14-3-3 protein beta/alpha OS=Homo sapiens OX=9606 GN=YWHAB PE=1 SV=1
+tr|Q5JW45|Q5JW45_HUMAN         -          Nup188               PF10487.6        6.3    6.6   3.5       7.3    6.4   3.5   1.0   1   0   0   1   1   1   0 Myosin-7B (Fragment) OS=Homo sapiens OX=9606 GN=MYH7B PE=1 SV=1
+tr|C9JBY2|C9JBY2_HUMAN         -          Nup188               PF10487.6        6.8    6.5   0.1        11    5.8   0.1   1.3   1   1   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+sp|Q9H160|ING2_HUMAN           -          Nup188               PF10487.6        6.9    6.5   3.1       9.5    6.0   3.1   1.2   1   0   0   1   1   1   0 Inhibitor of growth protein 2 OS=Homo sapiens OX=9606 GN=ING2 PE=1 SV=2
+tr|F5GYP5|F5GYP5_HUMAN         -          Nup188               PF10487.6        6.9    6.5   0.6       7.5    6.4   0.6   1.0   1   0   0   1   1   1   0 M-phase phosphoprotein 9 (Fragment) OS=Homo sapiens OX=9606 GN=MPHOSPH9 PE=1 SV=1
+tr|X6R9J3|X6R9J3_HUMAN         -          Nup188               PF10487.6        7.2    6.4   0.7         9    6.1   0.7   1.1   1   0   0   1   1   1   0 Protein prune homolog 2 OS=Homo sapiens OX=9606 GN=PRUNE2 PE=1 SV=1
+tr|C9JAA7|C9JAA7_HUMAN         -          Nup188               PF10487.6        7.2    6.4   0.2       7.7    6.3   0.2   1.1   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+sp|P63104|1433Z_HUMAN          -          Nup188               PF10487.6        7.9    6.3   0.6       9.9    6.0   0.6   1.1   1   0   0   1   1   1   0 14-3-3 protein zeta/delta OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1
+tr|E7EX29|E7EX29_HUMAN         -          Nup188               PF10487.6        8.3    6.2   0.6        11    5.9   0.6   1.1   1   0   0   1   1   1   0 14-3-3 protein zeta/delta (Fragment) OS=Homo sapiens OX=9606 GN=YWHAZ PE=1 SV=1
+sp|P50748|KNTC1_HUMAN          -          Nup188               PF10487.6        8.4    6.2   4.0       4.1    7.2   0.3   2.3   2   0   0   2   2   2   0 Kinetochore-associated protein 1 OS=Homo sapiens OX=9606 GN=KNTC1 PE=1 SV=1
+tr|J3QS62|J3QS62_HUMAN         -          Nup188               PF10487.6        8.6    6.2   2.3        11    5.8   2.3   1.0   1   0   0   1   1   1   0 CDK5 regulatory subunit-associated protein 3 (Fragment) OS=Homo sapiens OX=9606 GN=CDK5RAP3 PE=1 SV=1
+tr|E5RIR6|E5RIR6_HUMAN         -          Nup188               PF10487.6        8.6    6.1   0.3       9.9    6.0   0.3   1.1   1   0   0   1   1   1   0 Stathmin-4 OS=Homo sapiens OX=9606 GN=STMN4 PE=1 SV=1
+sp|Q5TIA1|MEI1_HUMAN           -          Nup188               PF10487.6        9.3    6.0   2.0        48    3.7   0.5   2.6   3   0   0   3   3   3   0 Meiosis inhibitor protein 1 OS=Homo sapiens OX=9606 GN=MEI1 PE=1 SV=2
+tr|A0A087WUX1|A0A087WUX1_HUMAN -          Nup188               PF10487.6        9.5    6.0   1.3        12    5.7   1.3   1.0   1   0   0   1   1   1   0 Enkurin OS=Homo sapiens OX=9606 GN=ENKUR PE=1 SV=1
+tr|A0A1B0GV15|A0A1B0GV15_HUMAN -          Nup188               PF10487.6        9.6    6.0   4.2        11    5.8   4.2   1.0   1   0   0   1   1   1   0 Putative coiled-coil domain-containing protein 196 OS=Homo sapiens OX=9606 GN=CCDC196 PE=4 SV=1
+tr|A0A0C4DG93|A0A0C4DG93_HUMAN -          Nup188               PF10487.6        9.9    6.0   0.4        11    5.9   0.4   1.0   1   0   0   1   1   1   0 Nephrocystin-3 (Fragment) OS=Homo sapiens OX=9606 GN=NPHP3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:57:27 2022
+# [ok]

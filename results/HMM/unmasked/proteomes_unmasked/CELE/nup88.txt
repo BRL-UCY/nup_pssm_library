@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09372|NPP24_CAEEL          -          Nup88                PF10168.6    1.2e-10   40.5   0.0   1.2e-10   40.5   0.0   2.2   2   0   0   2   2   2   1 Protein npp-24 OS=Caenorhabditis elegans OX=6239 GN=npp-24 PE=4 SV=2
+tr|A8WI01|A8WI01_CAEEL         -          Nup88                PF10168.6    0.00092   17.8   1.5    0.0014   17.2   1.5   1.1   1   0   0   1   1   1   1 Cyclic Nucleotide Gated channel OS=Caenorhabditis elegans OX=6239 GN=cng-1 PE=4 SV=1
+sp|Q95XD3|BL1S2_CAEEL          -          Nup88                PF10168.6     0.0054   15.2   4.2    0.0056   15.1   4.2   1.0   1   0   0   1   1   1   1 Biogenesis of lysosome-related organelles complex 1 subunit 2 OS=Caenorhabditis elegans OX=6239 GN=blos-2 PE=1 SV=1
+tr|Q93482|Q93482_CAEEL         -          Nup88                PF10168.6       0.12   10.8   2.2       0.2   10.0   2.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F14H8.2 PE=4 SV=1
+tr|G3MTX4|G3MTX4_CAEEL         -          Nup88                PF10168.6       0.34    9.3   7.5       0.4    9.0   7.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R10E11.5 PE=1 SV=1
+tr|Q18922|Q18922_CAEEL         -          Nup88                PF10168.6       0.99    7.7   7.9       1.2    7.5   7.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D1014.4 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:01 2022
+# [ok]

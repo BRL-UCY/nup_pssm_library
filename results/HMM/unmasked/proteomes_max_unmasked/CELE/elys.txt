@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B1Q276|B1Q276_CAEEL         -          ELYS                 PF13934.3       0.52   10.8   0.0      0.78   10.3   0.0   1.3   1   0   0   1   1   1   0 DUF19 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T08G5.15 PE=4 SV=1
+tr|A0A0K3ASH4|A0A0K3ASH4_CAEEL -          ELYS                 PF13934.3        2.1    8.8   0.2       4.7    7.7   0.0   1.7   2   1   0   2   2   2   0 Mic1 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y50D4A.4 PE=1 SV=1
+tr|Q20046|Q20046_CAEEL         -          ELYS                 PF13934.3        2.1    8.8   0.0       4.1    7.9   0.0   1.4   1   0   0   1   1   1   0 MecKel-Gruber Syndrome (MKS) homolog OS=Caenorhabditis elegans OX=6239 GN=mks-3 PE=4 SV=2
+tr|Q8WQA1|Q8WQA1_CAEEL         -          ELYS                 PF13934.3        2.7    8.5   0.0       6.1    7.3   0.0   1.4   1   1   0   1   1   1   0 tRNA-synt_1g domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y105E8A.20 PE=1 SV=2
+tr|G5ECZ0|G5ECZ0_CAEEL         -          ELYS                 PF13934.3        2.9    8.4   0.0        24    5.4   0.0   2.3   2   0   0   2   2   2   0 Heavy chain, Unconventional Myosin OS=Caenorhabditis elegans OX=6239 GN=hum-5 PE=1 SV=1
+tr|Q22339|Q22339_CAEEL         -          ELYS                 PF13934.3        3.7    8.1   0.1       4.5    7.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T08A9.13 PE=4 SV=2
+tr|A0A4V0INT8|A0A4V0INT8_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        15    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|A0A4V0IM91|A0A4V0IM91_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        15    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|D6R8W9|D6R8W9_CAEEL         -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=4
+tr|A0A4V0IL12|A0A4V0IL12_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|A0A4V0IKG1|A0A4V0IKG1_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|A0A4V0ILV9|A0A4V0ILV9_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|J7S122|J7S122_CAEEL         -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=2
+tr|A0A4V0IKJ4|A0A4V0IKJ4_CAEEL -          ELYS                 PF13934.3        4.1    7.9   1.9        16    6.0   1.9   2.0   1   0   0   1   1   1   0 RaBConnectin related OS=Caenorhabditis elegans OX=6239 GN=rbc-1 PE=1 SV=1
+tr|B3KYC0|B3KYC0_CAEEL         -          ELYS                 PF13934.3        4.2    7.9   0.0       6.5    7.2   0.0   1.4   1   0   0   1   1   1   0 tRNA-synt_1g domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y105E8A.20 PE=1 SV=1
+tr|A0A0K3AW32|A0A0K3AW32_CAEEL -          ELYS                 PF13934.3        4.6    7.8   0.2        12    6.4   0.2   1.7   1   0   0   1   1   1   0 Mic1 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y50D4A.4 PE=1 SV=1
+sp|O18211|MO25M_CAEEL          -          ELYS                 PF13934.3        6.4    7.3   0.1        15    6.1   0.1   1.7   1   0   0   1   1   1   0 MO25-like protein 2 OS=Caenorhabditis elegans OX=6239 GN=mop-25.2 PE=3 SV=1
+sp|O62246|COPE_CAEEL           -          ELYS                 PF13934.3        7.3    7.1   0.1        17    5.9   0.1   1.6   1   1   0   1   1   1   0 Coatomer subunit epsilon OS=Caenorhabditis elegans OX=6239 GN=cope-1 PE=3 SV=1
+tr|O02325|O02325_CAEEL         -          ELYS                 PF13934.3          8    6.9   0.0        14    6.2   0.0   1.3   1   0   0   1   1   1   0 PRotein arginine MethylTransferase OS=Caenorhabditis elegans OX=6239 GN=prmt-9 PE=1 SV=2
+tr|Q95Y58|Q95Y58_CAEEL         -          ELYS                 PF13934.3        8.6    6.8   0.2        23    5.5   0.2   1.7   1   0   0   1   1   1   0 Mic1 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y50D4A.4 PE=1 SV=3
+sp|P48053|YPD1_CAEEL           -          ELYS                 PF13934.3        8.9    6.8   0.0   1.5e+02    2.8   0.0   2.5   2   0   0   2   2   2   0 Uncharacterized protein C05D11.1 OS=Caenorhabditis elegans OX=6239 GN=C05D11.1 PE=4 SV=2
+tr|P91401|P91401_CAEEL         -          ELYS                 PF13934.3          9    6.8   1.5        82    3.7   0.4   2.3   2   0   0   2   2   2   0 DUF1716 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M01E11.2 PE=1 SV=1
+tr|O45664|O45664_CAEEL         -          ELYS                 PF13934.3        9.1    6.8   0.2        22    5.5   0.2   1.6   1   1   0   1   1   1   0 Nuclear Hormone Receptor family OS=Caenorhabditis elegans OX=6239 GN=nhr-198 PE=3 SV=2
+sp|Q11182|VPS16_CAEEL          -          ELYS                 PF13934.3        9.7    6.7   0.1        38    4.7   0.2   1.9   2   0   0   2   2   1   0 Vacuolar protein sorting-associated protein 16 homolog OS=Caenorhabditis elegans OX=6239 GN=vps-16 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:17:18 2022
+# [ok]

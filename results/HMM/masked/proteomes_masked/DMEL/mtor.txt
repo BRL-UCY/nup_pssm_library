@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1Z8P9|TPR_DROME            -          TPR_MLP1_2           PF07926.9    5.4e-16   59.1   1.9   5.4e-16   59.1   1.9   3.9   4   1   0   4   4   4   1 Nucleoprotein TPR OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|A0A0B4KFE9|A0A0B4KFE9_DROME -          TPR_MLP1_2           PF07926.9    5.4e-16   59.1   1.9   5.4e-16   59.1   1.9   3.9   4   1   0   4   4   4   1 Megator, isoform B OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|Q9VK31|Q9VK31_DROME         -          TPR_MLP1_2           PF07926.9       0.19   12.1   1.2      0.33   11.3   1.2   1.3   1   0   0   1   1   1   0 LD35592p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5439 PE=1 SV=1
+tr|X2J9Z8|X2J9Z8_DROME         -          TPR_MLP1_2           PF07926.9        4.6    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|X2JHS3|X2JHS3_DROME         -          TPR_MLP1_2           PF07926.9        4.7    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=1
+tr|Q9W5E8|Q9W5E8_DROME         -          TPR_MLP1_2           PF07926.9        4.8    7.6   7.8      0.47   10.8   0.3   2.9   3   0   0   3   3   3   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13366 PE=4 SV=2
+tr|Q0KHX7|Q0KHX7_DROME         -          TPR_MLP1_2           PF07926.9        8.4    6.7   8.0      0.56   10.5   0.3   2.8   3   0   0   3   3   3   0 FI18193p1 OS=Drosophila melanogaster OX=7227 GN=EG:118B3.2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:37 2022
+# [ok]

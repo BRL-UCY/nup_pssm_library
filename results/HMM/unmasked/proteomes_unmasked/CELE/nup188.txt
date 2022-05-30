@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A061AJ82|A0A061AJ82_CAEEL -          Nup188               PF10487.6      0.063   11.8   1.0      0.07   11.6   1.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F08G5.3 PE=1 SV=1
+tr|Q7JLR4|Q7JLR4_CAEEL         -          Nup188               PF10487.6      0.072   11.6   1.5     0.082   11.4   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F08G5.3 PE=1 SV=1
+tr|A0A061AKW6|A0A061AKW6_CAEEL -          Nup188               PF10487.6       0.17   10.4   2.1       0.2   10.1   2.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F08G5.3 PE=1 SV=1
+tr|Q19219|Q19219_CAEEL         -          Nup188               PF10487.6       0.22   10.0   2.7      0.28    9.6   2.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F08G5.3 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup188.txt --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:00 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q95Y15|Q95Y15_CAEEL -          Nucleoporin_C        PF03177.11   2.3e-18   66.9   1.4   2.3e-18   66.9   1.4   1.7   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=5
+tr|M1Z882|M1Z882_CAEEL -          Nucleoporin_C        PF03177.11   9.2e-13   48.4   0.5   3.1e-12   46.6   0.7   1.9   2   1   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+sp|P34343|NU133_CAEEL  -          Nucleoporin_C        PF03177.11   2.3e-07   30.6   1.6   1.3e-06   28.1   0.2   2.2   2   0   0   2   2   2   1 Nuclear pore complex protein 15 OS=Caenorhabditis elegans OX=6239 GN=npp-15 PE=3 SV=4
+tr|O01584|O01584_CAEEL -          Nucleoporin_C        PF03177.11      0.34   10.2   0.0      0.43    9.9   0.0   1.1   1   0   0   1   1   1   0 Lipase_3 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K08B12.1 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:58 2022
+# [ok]

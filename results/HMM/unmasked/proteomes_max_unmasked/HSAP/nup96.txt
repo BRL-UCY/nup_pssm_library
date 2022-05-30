@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H7C3P6|H7C3P6_HUMAN         -          Nup96                PF12110.5   2.3e-100  337.5   8.0  3.9e-100  336.8   8.0   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+sp|P52948|NUP98_HUMAN          -          Nup96                PF12110.5    1.2e-99  335.1   8.0   1.9e-99  334.5   8.0   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=4
+tr|H0YDF4|H0YDF4_HUMAN         -          Nup96                PF12110.5    6.3e-53  181.8   3.0   7.4e-53  181.6   3.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|E9PMZ8|E9PMZ8_HUMAN         -          Nup96                PF12110.5       0.55   11.3   0.1       1.1   10.4   0.1   1.4   1   0   0   1   1   1   0 T-lymphoma invasion and metastasis-inducing protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=TIAM2 PE=1 SV=1
+sp|Q8IVF5|TIAM2_HUMAN          -          Nup96                PF12110.5       0.71   11.0   0.1       1.4   10.0   0.1   1.4   1   0   0   1   1   1   0 T-lymphoma invasion and metastasis-inducing protein 2 OS=Homo sapiens OX=9606 GN=TIAM2 PE=2 SV=4
+tr|E9PS63|E9PS63_HUMAN         -          Nup96                PF12110.5       0.92   10.6   3.1       1.2   10.3   3.1   1.2   1   0   0   1   1   1   0 Rab GTPase-activating protein 1-like (Fragment) OS=Homo sapiens OX=9606 GN=RABGAP1L PE=1 SV=1
+tr|A0A087WZL3|A0A087WZL3_HUMAN -          Nup96                PF12110.5       0.99   10.5   0.1       1.6    9.8   0.1   1.2   1   0   0   1   1   1   0 Tyrosine-protein kinase receptor OS=Homo sapiens OX=9606 GN=ALK PE=1 SV=1
+sp|Q9UM73|ALK_HUMAN            -          Nup96                PF12110.5        1.1   10.3   0.1       2.3    9.3   0.1   1.4   1   0   0   1   1   1   0 ALK tyrosine kinase receptor OS=Homo sapiens OX=9606 GN=ALK PE=1 SV=3
+sp|Q8IZU1|FAM9A_HUMAN          -          Nup96                PF12110.5        2.1    9.4   0.3       3.1    8.9   0.0   1.5   2   0   0   2   2   2   0 Protein FAM9A OS=Homo sapiens OX=9606 GN=FAM9A PE=1 SV=1
+tr|H7BXX9|H7BXX9_HUMAN         -          Nup96                PF12110.5        2.5    9.2   0.1        29    5.7   0.1   2.1   2   0   0   2   2   2   0 Homeodomain-interacting protein kinase 2 OS=Homo sapiens OX=9606 GN=HIPK2 PE=1 SV=2
+tr|F5H8L0|F5H8L0_HUMAN         -          Nup96                PF12110.5        2.6    9.1   3.0       3.9    8.6   3.0   1.2   1   0   0   1   1   1   0 Rab GTPase-activating protein 1-like OS=Homo sapiens OX=9606 GN=RABGAP1L PE=1 SV=1
+tr|A0A3B3ISR5|A0A3B3ISR5_HUMAN -          Nup96                PF12110.5        4.2    8.5   0.0       4.9    8.2   0.0   1.2   1   0   0   1   1   1   0 Delta(24)-sterol reductase OS=Homo sapiens OX=9606 GN=DHCR24 PE=1 SV=1
+tr|A0A3B3IRV7|A0A3B3IRV7_HUMAN -          Nup96                PF12110.5        4.4    8.4   0.0         5    8.2   0.0   1.2   1   0   0   1   1   1   0 Delta(24)-sterol reductase OS=Homo sapiens OX=9606 GN=DHCR24 PE=1 SV=1
+sp|Q9H2X6|HIPK2_HUMAN          -          Nup96                PF12110.5        4.6    8.3   0.1        44    5.1   0.1   2.1   2   0   0   2   2   2   0 Homeodomain-interacting protein kinase 2 OS=Homo sapiens OX=9606 GN=HIPK2 PE=1 SV=2
+tr|A0A3B3ITD8|A0A3B3ITD8_HUMAN -          Nup96                PF12110.5        4.7    8.3   0.0       8.4    7.4   0.0   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H7C2J3|H7C2J3_HUMAN         -          Nup96                PF12110.5        5.5    8.1   0.1        11    7.0   0.1   1.5   1   1   0   1   1   1   0 Regulator of microtubule dynamics protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=RMDN2 PE=1 SV=1
+sp|Q9H269|VPS16_HUMAN          -          Nup96                PF12110.5          6    7.9   1.3        11    7.1   0.8   1.7   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 16 homolog OS=Homo sapiens OX=9606 GN=VPS16 PE=1 SV=2
+tr|H0Y6S0|H0Y6S0_HUMAN         -          Nup96                PF12110.5        6.4    7.8   0.1       6.8    7.7   0.1   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat protein 17 (Fragment) OS=Homo sapiens OX=9606 GN=TTC17 PE=1 SV=1
+sp|Q6ZMT9|DTHD1_HUMAN          -          Nup96                PF12110.5        7.2    7.7   0.0        12    7.0   0.0   1.3   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=2 SV=3
+tr|H7C5F9|H7C5F9_HUMAN         -          Nup96                PF12110.5        7.6    7.6   0.0        19    6.3   0.0   1.6   1   0   0   1   1   1   0 Transcription factor SPT20 homolog (Fragment) OS=Homo sapiens OX=9606 GN=SUPT20H PE=1 SV=2
+tr|D6RB49|D6RB49_HUMAN         -          Nup96                PF12110.5        7.7    7.6   0.0        13    6.9   0.0   1.3   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=1 SV=1
+tr|H7C346|H7C346_HUMAN         -          Nup96                PF12110.5        8.1    7.5   0.0       9.1    7.3   0.0   1.3   1   0   0   1   1   1   0 Protein FAM9C (Fragment) OS=Homo sapiens OX=9606 GN=FAM9C PE=1 SV=1
+sp|Q9NQW1|SC31B_HUMAN          -          Nup96                PF12110.5        8.4    7.4   0.5        31    5.6   0.5   1.8   1   1   0   1   1   1   0 Protein transport protein Sec31B OS=Homo sapiens OX=9606 GN=SEC31B PE=1 SV=1
+tr|A0A1W2PR94|A0A1W2PR94_HUMAN -          Nup96                PF12110.5        8.5    7.4   0.0        14    6.7   0.0   1.3   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=1 SV=1
+sp|Q8IZT9|FAM9C_HUMAN          -          Nup96                PF12110.5        9.2    7.3   0.0        10    7.2   0.0   1.3   1   0   0   1   1   1   0 Protein FAM9C OS=Homo sapiens OX=9606 GN=FAM9C PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 10:26:16 2022
+# [ok]

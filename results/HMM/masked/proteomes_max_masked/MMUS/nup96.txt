@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1B0GSX7|A0A1B0GSX7_MOUSE -          Nup96                PF12110.5    2.5e-87  294.3   3.2   3.1e-87  294.0   3.2   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+sp|Q6PFD9|NUP98_MOUSE          -          Nup96                PF12110.5      1e-86  292.3   2.5   1.3e-86  292.0   2.5   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=2
+sp|P97793|ALK_MOUSE            -          Nup96                PF12110.5        4.4    8.0   0.0       6.7    7.3   0.0   1.1   1   0   0   1   1   1   0 ALK tyrosine kinase receptor OS=Mus musculus OX=10090 GN=Alk PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:18:56 2022
+# [ok]

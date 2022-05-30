@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8B159|A0A1P8B159_ARATH -          ELYS                 PF13934.3    3.9e-54  185.1   0.1   9.8e-54  183.8   0.0   1.8   2   0   0   2   2   2   1 Ubiquitin-protein ligase OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=4 SV=1
+sp|Q84JU6|HOS1_ARATH           -          ELYS                 PF13934.3    5.6e-54  184.6   0.1   1.3e-53  183.4   0.0   1.7   2   0   0   2   2   2   1 E3 ubiquitin-protein ligase HOS1 OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=1 SV=1
+sp|Q9SAA6|PPR34_ARATH          -          ELYS                 PF13934.3      0.005   18.0   0.0      0.13   13.3   0.0   2.6   3   0   0   3   3   3   1 Pentatricopeptide repeat-containing protein At1g11710, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At1g11710 PE=2 SV=1
+tr|A0A1P8AWU6|A0A1P8AWU6_ARATH -          ELYS                 PF13934.3     0.0053   17.9   0.0      0.12   13.4   0.0   2.5   3   0   0   3   3   3   1 Pentatricopeptide repeat (PPR) superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g11710 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/elys.txt --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:56 2022
+# [ok]

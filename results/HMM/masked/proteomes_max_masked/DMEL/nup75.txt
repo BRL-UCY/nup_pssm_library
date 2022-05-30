@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1YK02|NUP75_DROME          -          Nucleopor_Nup85      PF07575.10  8.5e-145  483.8   8.2  8.5e-145  483.8   7.3   1.4   2   0   0   2   2   2   1 Nuclear pore complex protein Nup75 OS=Drosophila melanogaster OX=7227 GN=Nup75 PE=2 SV=1
+tr|Q9Y0Y5|Q9Y0Y5_DROME         -          Nucleopor_Nup85      PF07575.10       1.2    7.9   0.1       1.6    7.5   0.1   1.1   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Drosophila melanogaster OX=7227 GN=epsilonCOP PE=1 SV=1
+sp|P52304|POLO_DROME           -          Nucleopor_Nup85      PF07575.10         5    5.9   0.0       7.4    5.3   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein kinase polo OS=Drosophila melanogaster OX=7227 GN=polo PE=1 SV=2
+sp|Q9VL13|MOB3_DROME           -          Nucleopor_Nup85      PF07575.10       5.2    5.8   0.1        50    2.6   0.0   1.9   1   1   0   2   2   2   0 MOB kinase activator-like 3 OS=Drosophila melanogaster OX=7227 GN=Mob3 PE=2 SV=1
+tr|Q9VV82|Q9VV82_DROME         -          Nucleopor_Nup85      PF07575.10       6.1    5.6   0.2       9.7    4.9   0.2   1.2   1   0   0   1   1   1   0 Artemis, isoform A OS=Drosophila melanogaster OX=7227 GN=Arts PE=4 SV=2
+tr|Q9VJ86|Q9VJ86_DROME         -          Nucleopor_Nup85      PF07575.10       6.2    5.6   0.0        11    4.8   0.0   1.3   1   0   0   1   1   1   0 Bicoid stability factor OS=Drosophila melanogaster OX=7227 GN=bsf PE=1 SV=2
+tr|M9PFR8|M9PFR8_DROME         -          Nucleopor_Nup85      PF07575.10       6.5    5.5   0.1        10    4.8   0.1   1.2   1   0   0   1   1   1   0 Artemis, isoform B OS=Drosophila melanogaster OX=7227 GN=Arts PE=4 SV=1
+tr|Q9V3Z7|Q9V3Z7_DROME         -          Nucleopor_Nup85      PF07575.10       6.8    5.4   0.0        11    4.8   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=BG:DS03023.2 PE=4 SV=1
+tr|M9PFW8|M9PFW8_DROME         -          Nucleopor_Nup85      PF07575.10       9.1    5.0   0.2        15    4.3   0.2   1.2   1   0   0   1   1   1   0 Apollo, isoform B OS=Drosophila melanogaster OX=7227 GN=Apl PE=4 SV=1
+tr|Q9I7R5|Q9I7R5_DROME         -          Nucleopor_Nup85      PF07575.10       9.5    5.0   0.2        15    4.3   0.2   1.2   1   0   0   1   1   1   0 Apollo, isoform A OS=Drosophila melanogaster OX=7227 GN=Apl PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:03:12 2022
+# [ok]

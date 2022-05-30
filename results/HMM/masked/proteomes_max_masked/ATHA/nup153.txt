@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8AQM6|A0A1P8AQM6_ARATH -          Nup153               PF08604.7       0.62    9.9   0.8      0.86    9.4   0.8   1.1   1   0   0   1   1   1   0 Beta-galactosidase OS=Arabidopsis thaliana OX=3702 GN=BGAL17 PE=3 SV=1
+sp|Q93Z24|BGA17_ARATH          -          Nup153               PF08604.7        0.7    9.7   0.8      0.98    9.3   0.8   1.1   1   0   0   1   1   1   0 Beta-galactosidase 17 OS=Arabidopsis thaliana OX=3702 GN=BGAL17 PE=2 SV=1
+tr|A0A1P8AX29|A0A1P8AX29_ARATH -          Nup153               PF08604.7        2.8    7.8   0.1       3.7    7.4   0.1   1.1   1   0   0   1   1   1   0 DUF581 family protein, putative (DUF581) OS=Arabidopsis thaliana OX=3702 GN=At2g25690 PE=4 SV=1
+sp|Q9SL94|FLZ11_ARATH          -          Nup153               PF08604.7        3.1    7.6   0.1       4.1    7.2   0.1   1.1   1   0   0   1   1   1   0 FCS-Like Zinc finger 11 OS=Arabidopsis thaliana OX=3702 GN=FLZ11 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 15:58:00 2022
+# [ok]

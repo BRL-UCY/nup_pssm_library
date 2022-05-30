@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1
+# Database: DB_masked/TBRU_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|Q7K0D8|Q7K0D8_DROME	tr|Q386H3|Q386H3_TRYB2	4.47e-06	45.3	467	561	51	150
+tr|Q7K0D8|Q7K0D8_DROME	tr|Q38AA7|Q38AA7_TRYB2	0.031	35.3	466	554	226	316
+# BLAST processed 1 queries

@@ -1,0 +1,57 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H9EWA1|H9EWA1_MACMU         -          NUP214               PF16755.2       0.01   16.5   0.1     0.042   14.4   0.0   1.9   2   0   0   2   2   2   0 Nuclear pore complex protein Nup214 OS=Macaca mulatta OX=9544 GN=NUP214 PE=2 SV=1
+tr|F6ZQG7|F6ZQG7_MACMU         -          NUP214               PF16755.2      0.074   13.6   0.0       6.1    7.3   0.1   2.2   1   1   1   2   2   2   0 p21-activated protein kinase-interacting protein 1 OS=Macaca mulatta OX=9544 GN=PAK1IP1 PE=2 SV=1
+tr|F6W5U7|F6W5U7_MACMU         -          NUP214               PF16755.2       0.77   10.3   5.7      0.96    9.9   5.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CEP112 PE=4 SV=1
+tr|F7D279|F7D279_MACMU         -          NUP214               PF16755.2        1.2    9.6   0.3        17    5.8   0.0   2.1   2   0   0   2   2   2   0 Mitogen-activated protein kinase kinase kinase kinase OS=Macaca mulatta OX=9544 GN=MAP4K5 PE=3 SV=2
+tr|F7EG13|F7EG13_MACMU         -          NUP214               PF16755.2        1.5    9.3   1.2       2.3    8.7   0.7   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC54 PE=4 SV=1
+tr|A0A1D5QF60|A0A1D5QF60_MACMU -          NUP214               PF16755.2        1.5    9.3   5.5       1.2    9.6   0.8   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LRRD1 PE=4 SV=1
+tr|F7A1Z2|F7A1Z2_MACMU         -          NUP214               PF16755.2        1.6    9.2   0.2       2.3    8.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPIL2 PE=4 SV=2
+tr|A0A1D5R6W1|A0A1D5R6W1_MACMU -          NUP214               PF16755.2        1.6    9.2   0.2       2.3    8.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPIL2 PE=4 SV=1
+tr|A0A1D5RIM5|A0A1D5RIM5_MACMU -          NUP214               PF16755.2        1.7    9.1   0.2       2.4    8.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPIL2 PE=4 SV=1
+tr|A0A1D5QBT1|A0A1D5QBT1_MACMU -          NUP214               PF16755.2        2.9    8.4   0.0       4.8    7.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=3 SV=1
+tr|A0A1D5QHE0|A0A1D5QHE0_MACMU -          NUP214               PF16755.2        3.1    8.3   3.5      0.94   10.0   0.7   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC159 PE=4 SV=1
+tr|A0A1D5R0E2|A0A1D5R0E2_MACMU -          NUP214               PF16755.2        3.2    8.2   2.1       2.1    8.8   0.2   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC159 PE=4 SV=1
+tr|H9H3S5|H9H3S5_MACMU         -          NUP214               PF16755.2        3.3    8.2   0.0       4.3    7.8   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Macaca mulatta OX=9544 GN=FBXO24 PE=4 SV=1
+tr|A0A1D5QJK3|A0A1D5QJK3_MACMU -          NUP214               PF16755.2        3.7    8.0   0.0        27    5.2   0.0   2.1   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=ZNF106 PE=4 SV=1
+tr|F7CTY3|F7CTY3_MACMU         -          NUP214               PF16755.2        3.8    8.0   0.2       6.1    7.3   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MDH1B PE=4 SV=2
+tr|A0A1D5QJ03|A0A1D5QJ03_MACMU -          NUP214               PF16755.2        4.1    7.9   0.0        28    5.1   0.0   2.1   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=ZNF106 PE=4 SV=1
+tr|A0A1D5QV28|A0A1D5QV28_MACMU -          NUP214               PF16755.2        4.6    7.7   2.2       5.2    7.5   2.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CEP112 PE=4 SV=1
+tr|F6YV50|F6YV50_MACMU         -          NUP214               PF16755.2          5    7.6   0.4       7.2    7.1   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=2
+tr|F7A5K9|F7A5K9_MACMU         -          NUP214               PF16755.2        5.5    7.4   0.0       8.6    6.8   0.0   1.2   1   0   0   1   1   1   0 Cell cycle checkpoint protein RAD1 OS=Macaca mulatta OX=9544 GN=RAD1 PE=2 SV=1
+tr|F7EBJ3|F7EBJ3_MACMU         -          NUP214               PF16755.2        5.7    7.4   0.0        86    3.5   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=UGT2B9*2 PE=4 SV=2
+tr|F6YV41|F6YV41_MACMU         -          NUP214               PF16755.2        5.8    7.4   0.4       8.2    6.9   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=2
+tr|F7GQ74|F7GQ74_MACMU         -          NUP214               PF16755.2        6.4    7.2   0.1        16    5.9   0.1   1.6   1   0   0   1   1   1   0 Clathrin heavy chain OS=Macaca mulatta OX=9544 GN=CLTC PE=3 SV=2
+tr|F7B8E8|F7B8E8_MACMU         -          NUP214               PF16755.2        6.7    7.2   0.1        16    5.9   0.1   1.6   1   0   0   1   1   1   0 Clathrin heavy chain OS=Macaca mulatta OX=9544 GN=CLTC PE=2 SV=2
+tr|F7FVG4|F7FVG4_MACMU         -          NUP214               PF16755.2          7    7.1   0.2        35    4.8   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FBXW11 PE=4 SV=2
+tr|F7FVF5|F7FVF5_MACMU         -          NUP214               PF16755.2          7    7.1   0.2        36    4.8   0.0   2.0   2   0   0   2   2   2   0 F-box/WD repeat-containing protein 11 isoform A OS=Macaca mulatta OX=9544 GN=FBXW11 PE=2 SV=1
+tr|A0A1D5QCU3|A0A1D5QCU3_MACMU -          NUP214               PF16755.2          7    7.1   0.0       9.8    6.6   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Macaca mulatta OX=9544 GN=FBXO24 PE=4 SV=1
+tr|A0A1D5R2Q2|A0A1D5R2Q2_MACMU -          NUP214               PF16755.2          7    7.1   0.4        10    6.6   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=1
+tr|H9H3S4|H9H3S4_MACMU         -          NUP214               PF16755.2        7.2    7.1   0.0        10    6.6   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Macaca mulatta OX=9544 GN=FBXO24 PE=4 SV=2
+tr|A0A1D5REB2|A0A1D5REB2_MACMU -          NUP214               PF16755.2        7.4    7.0   0.2        12    6.3   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=1
+tr|A0A1D5QGP0|A0A1D5QGP0_MACMU -          NUP214               PF16755.2        7.5    7.0   0.0        10    6.5   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Macaca mulatta OX=9544 GN=FBXO24 PE=4 SV=1
+tr|A0A1D5R9D2|A0A1D5R9D2_MACMU -          NUP214               PF16755.2        7.5    7.0   0.4        11    6.5   0.4   1.2   1   0   0   1   1   1   0 Abl interactor 2 OS=Macaca mulatta OX=9544 GN=ABI2 PE=2 SV=1
+tr|A0A1D5QPQ2|A0A1D5QPQ2_MACMU -          NUP214               PF16755.2        7.7    7.0   0.0        11    6.5   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Macaca mulatta OX=9544 GN=FBXO24 PE=4 SV=1
+tr|H9FRX3|H9FRX3_MACMU         -          NUP214               PF16755.2        7.8    6.9   0.2        38    4.7   0.0   2.0   2   0   0   2   2   2   0 F-box/WD repeat-containing protein 11 isoform B OS=Macaca mulatta OX=9544 GN=FBXW11 PE=2 SV=1
+tr|F6ZI55|F6ZI55_MACMU         -          NUP214               PF16755.2        7.9    6.9   0.0        25    5.3   0.0   1.8   2   0   0   2   2   2   0 WD repeat-containing protein 35 OS=Macaca mulatta OX=9544 GN=WDR35 PE=4 SV=2
+tr|A0A1D5QPH5|A0A1D5QPH5_MACMU -          NUP214               PF16755.2        7.9    6.9   0.2        39    4.7   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FBXW11 PE=4 SV=1
+tr|F6ZHP8|F6ZHP8_MACMU         -          NUP214               PF16755.2          8    6.9   0.0        25    5.3   0.0   1.8   2   0   0   2   2   2   0 WD repeat-containing protein 35 OS=Macaca mulatta OX=9544 GN=WDR35 PE=4 SV=1
+tr|A0A1D5RCI5|A0A1D5RCI5_MACMU -          NUP214               PF16755.2        8.2    6.9   2.3        12    6.3   2.3   1.2   1   0   0   1   1   1   0 Reverse transcriptase domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7ELJ2|F7ELJ2_MACMU         -          NUP214               PF16755.2        8.3    6.9   0.1       8.8    6.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|H9FRX5|H9FRX5_MACMU         -          NUP214               PF16755.2        8.3    6.9   0.2        40    4.6   0.0   2.0   2   0   0   2   2   2   0 F-box/WD repeat-containing protein 11 isoform C OS=Macaca mulatta OX=9544 GN=FBXW11 PE=2 SV=1
+tr|A0A1D5QAQ1|A0A1D5QAQ1_MACMU -          NUP214               PF16755.2        8.4    6.8   0.4        12    6.3   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=1
+tr|A0A1D5Q1J5|A0A1D5Q1J5_MACMU -          NUP214               PF16755.2        9.1    6.7   0.4       8.9    6.8   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=KIFC3 PE=4 SV=1
+tr|A0A1D5Q0J7|A0A1D5Q0J7_MACMU -          NUP214               PF16755.2        9.9    6.6   0.0        16    5.9   0.0   1.2   1   0   0   1   1   1   0 EF-1-gamma C-terminal domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QGU3|A0A1D5QGU3_MACMU -          NUP214               PF16755.2        9.9    6.6   0.2        14    6.1   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ABI2 PE=4 SV=1
+tr|F7FVG8|F7FVG8_MACMU         -          NUP214               PF16755.2        9.9    6.6   0.2        44    4.5   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FBXW11 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 07:35:17 2022
+# [ok]

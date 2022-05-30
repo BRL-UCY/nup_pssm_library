@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8N1F7|NUP93_HUMAN          -          Nic96                PF04097.11  1.2e-165  554.5   3.4  1.5e-165  554.2   3.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=2
+tr|H3BVG0|H3BVG0_HUMAN         -          Nic96                PF04097.11  1.2e-157  528.1   3.4  1.6e-157  527.7   3.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BPA9|H3BPA9_HUMAN         -          Nic96                PF04097.11     4e-59  202.7   0.3     5e-59  202.4   0.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=8
+tr|H3BVE2|H3BVE2_HUMAN         -          Nic96                PF04097.11   5.9e-22   79.9   0.0   6.8e-22   79.7   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BRD9|H3BRD9_HUMAN         -          Nic96                PF04097.11   3.4e-17   64.2   0.0     4e-17   64.0   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BV15|H3BV15_HUMAN         -          Nic96                PF04097.11   9.3e-11   42.9   0.0   5.6e-06   27.1   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BP95|H3BP95_HUMAN         -          Nic96                PF04097.11   8.2e-09   36.5   0.1     1e-08   36.2   0.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|D6RIB5|D6RIB5_HUMAN         -          Nic96                PF04097.11      0.45   10.9   0.0        18    5.6   0.0   2.0   1   1   1   2   2   2   0 Intraflagellar transport protein 122 homolog (Fragment) OS=Homo sapiens OX=9606 GN=IFT122 PE=1 SV=8
+sp|P57740|NU107_HUMAN          -          Nic96                PF04097.11      0.83   10.1   0.1       1.7    9.0   0.1   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|H0Y9K1|H0Y9K1_HUMAN         -          Nic96                PF04097.11       1.3    9.4   0.0       1.7    9.1   0.0   1.2   1   0   0   1   1   1   0 Protein transport protein Sec31A (Fragment) OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=1
+tr|H0Y8V7|H0Y8V7_HUMAN         -          Nic96                PF04097.11       1.9    8.9   0.0       2.5    8.5   0.0   1.2   1   0   0   1   1   1   0 Protein transport protein Sec31A (Fragment) OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=8
+tr|H0YAB3|H0YAB3_HUMAN         -          Nic96                PF04097.11       3.5    8.0   0.1         5    7.5   0.1   1.1   1   0   0   1   1   1   0 Protein transport protein Sec31A (Fragment) OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=1
+tr|H0Y9Q2|H0Y9Q2_HUMAN         -          Nic96                PF04097.11         4    7.8   0.0        66    3.8   0.0   2.0   1   1   1   2   2   2   0 Intraflagellar transport protein 122 homolog (Fragment) OS=Homo sapiens OX=9606 GN=IFT122 PE=1 SV=1
+sp|Q9HCS7|SYF1_HUMAN           -          Nic96                PF04097.11       4.5    7.6   0.0        11    6.4   0.0   1.5   1   0   0   1   1   1   0 Pre-mRNA-splicing factor SYF1 OS=Homo sapiens OX=9606 GN=XAB2 PE=1 SV=2
+tr|D6RID6|D6RID6_HUMAN         -          Nic96                PF04097.11       5.4    7.4   0.0       6.2    7.2   0.0   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein transferase MAEA (Fragment) OS=Homo sapiens OX=9606 GN=MAEA PE=1 SV=1
+sp|Q96RY7|IF140_HUMAN          -          Nic96                PF04097.11       5.8    7.3   2.9        15    5.9   0.1   2.8   2   1   1   4   4   4   0 Intraflagellar transport protein 140 homolog OS=Homo sapiens OX=9606 GN=IFT140 PE=1 SV=1
+sp|Q8NEZ3|WDR19_HUMAN          -          Nic96                PF04097.11       6.2    7.2   0.2        46    4.3   0.1   2.1   1   1   0   2   2   2   0 WD repeat-containing protein 19 OS=Homo sapiens OX=9606 GN=WDR19 PE=1 SV=2
+tr|H7C2R4|H7C2R4_HUMAN         -          Nic96                PF04097.11       8.1    6.8   0.0        10    6.4   0.0   1.1   1   0   0   1   1   1   0 UTP25 small subunit processor component (Fragment) OS=Homo sapiens OX=9606 GN=UTP25 PE=1 SV=1
+tr|D6RHZ5|D6RHZ5_HUMAN         -          Nic96                PF04097.11       8.2    6.8   0.1        12    6.3   0.1   1.1   1   0   0   1   1   1   0 Protein transport protein Sec31A OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=1
+tr|H7BXG7|H7BXG7_HUMAN         -          Nic96                PF04097.11       9.3    6.6   0.1        13    6.1   0.1   1.1   1   0   0   1   1   1   0 Protein transport protein Sec31A OS=Homo sapiens OX=9606 GN=SEC31A PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:27:53 2022
+# [ok]

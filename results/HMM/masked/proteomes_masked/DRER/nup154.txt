@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F1QNV4|NU133_DANRE  -          Nucleoporin_C        PF03177.11   3.1e-22   80.5   1.3     5e-22   79.8   1.3   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Danio rerio OX=7955 GN=nup133 PE=2 SV=1
+tr|F1QE76|F1QE76_DANRE -          Nucleoporin_C        PF03177.11   2.2e-11   44.6   2.5   4.5e-11   43.6   2.5   1.4   1   0   0   1   1   1   1 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1Q953|F1Q953_DANRE -          Nucleoporin_C        PF03177.11   3.6e-11   43.9   2.5   7.1e-11   42.9   2.5   1.4   1   0   0   1   1   1   1 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:41 2022
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5R3P0|A0A1D5R3P0_MACMU -          Nup54                PF13874.3    6.3e-35  121.6   0.0   8.9e-35  121.1   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H505|F7H505_MACMU         -          Nup54                PF13874.3    7.2e-35  121.4   0.0     1e-34  121.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|A0A1D5QWW6|A0A1D5QWW6_MACMU -          Nup54                PF13874.3    7.2e-35  121.4   0.0     1e-34  121.0   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H507|F7H507_MACMU         -          Nup54                PF13874.3    9.5e-35  121.0   0.0   1.3e-34  120.6   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|F7HMN7|F7HMN7_MACMU         -          Nup54                PF13874.3       0.18   13.2   0.1       0.2   13.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MLKL PE=4 SV=2
+tr|F7B455|F7B455_MACMU         -          Nup54                PF13874.3        3.1    9.2   0.2         4    8.8   0.2   1.2   1   0   0   1   1   1   0 SKA2 domain-containing protein OS=Macaca mulatta OX=9544 GN=SKA2 PE=4 SV=2
+tr|H9FMX9|H9FMX9_MACMU         -          Nup54                PF13874.3        3.8    8.9   1.1       6.2    8.2   0.8   1.5   1   1   0   1   1   1   0 Heat shock factor-binding protein 1-like protein 1 OS=Macaca mulatta OX=9544 GN=HSBP1L1 PE=2 SV=1
+tr|F6T306|F6T306_MACMU         -          Nup54                PF13874.3        5.2    8.5   0.0         7    8.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TCP10L PE=4 SV=1
+tr|F7DTK6|F7DTK6_MACMU         -          Nup54                PF13874.3        5.6    8.4   0.1       9.4    7.6   0.1   1.3   1   0   0   1   1   1   0 V-SNARE domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7GPS2|F7GPS2_MACMU         -          Nup54                PF13874.3          6    8.3   3.5       8.5    7.8   0.2   2.8   3   0   0   3   3   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EMILIN1 PE=4 SV=2
+tr|F6XP18|F6XP18_MACMU         -          Nup54                PF13874.3          7    8.1   0.5        10    7.5   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TRIM45 PE=4 SV=2
+tr|A0A1D5Q3T4|A0A1D5Q3T4_MACMU -          Nup54                PF13874.3        7.5    8.0   0.9        10    7.5   0.9   1.3   1   0   0   1   1   1   0 CaMBD domain-containing protein OS=Macaca mulatta OX=9544 GN=KCNN4 PE=4 SV=1
+tr|A0A1D5R0W1|A0A1D5R0W1_MACMU -          Nup54                PF13874.3        7.5    7.9   0.8        10    7.5   0.8   1.3   1   0   0   1   1   1   0 CaMBD domain-containing protein OS=Macaca mulatta OX=9544 GN=KCNN4 PE=4 SV=1
+tr|G7NHY3|G7NHY3_MACMU         -          Nup54                PF13874.3        7.5    7.9   0.1       9.4    7.6   0.1   1.3   1   0   0   1   1   1   0 Spindle and kinetochore-associated protein 2 isoform 1 OS=Macaca mulatta OX=9544 GN=SKA2 PE=2 SV=1
+tr|F6VG20|F6VG20_MACMU         -          Nup54                PF13874.3        7.6    7.9   1.0        10    7.5   1.0   1.3   1   0   0   1   1   1   0 CaMBD domain-containing protein OS=Macaca mulatta OX=9544 GN=KCNN4 PE=4 SV=2
+tr|F7HC86|F7HC86_MACMU         -          Nup54                PF13874.3        7.9    7.9   0.5        12    7.3   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TRIM45 PE=4 SV=1
+tr|F6T2D8|F6T2D8_MACMU         -          Nup54                PF13874.3        8.5    7.8   0.4        30    6.0   0.3   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TCP10L PE=4 SV=2
+tr|F7HMN4|F7HMN4_MACMU         -          Nup54                PF13874.3        8.8    7.7   0.1        18    6.7   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MLKL PE=4 SV=2
+tr|F7G9Y6|F7G9Y6_MACMU         -          Nup54                PF13874.3        8.9    7.7   0.0        21    6.5   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PGM1 PE=3 SV=2
+tr|F7H6A0|F7H6A0_MACMU         -          Nup54                PF13874.3        9.3    7.6   0.0        11    7.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F7HC99|F7HC99_MACMU         -          Nup54                PF13874.3        9.4    7.6   0.5        14    7.1   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TRIM45 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:24:25 2022
+# [ok]

@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4HXV6|NU155_ARATH          -          Nucleoporin_N        PF08801.8      2e-95  321.3   0.0   2.6e-95  320.9   0.0   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein NUP155 OS=Arabidopsis thaliana OX=3702 GN=NUP155 PE=1 SV=1
+sp|F4IGA5|NU133_ARATH          -          Nucleoporin_N        PF08801.8    6.7e-59  200.9   0.0     1e-58  200.3   0.0   1.3   1   0   0   1   1   1   1 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          Nucleoporin_N        PF08801.8      3e-25   90.0   0.0   4.9e-25   89.3   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+tr|A2RVN9|A2RVN9_ARATH         -          Nucleoporin_N        PF08801.8    8.4e-07   29.2   0.2      0.86    9.4   0.1   5.1   2   1   2   4   4   4   2 At3g50390 OS=Arabidopsis thaliana OX=3702 GN=At3g50390 PE=2 SV=1
+sp|O48716|JGB_ARATH            -          Nucleoporin_N        PF08801.8      8e-06   26.0   6.0     0.087   12.7   0.4   4.1   2   1   1   3   3   3   2 Protein JINGUBANG OS=Arabidopsis thaliana OX=3702 GN=JGB PE=1 SV=1
+sp|Q9FE91|C3H62_ARATH          -          Nucleoporin_N        PF08801.8    0.00024   21.1   0.1       9.7    6.0   0.0   4.2   1   1   4   5   5   5   1 Zinc finger CCCH domain-containing protein 62 OS=Arabidopsis thaliana OX=3702 GN=ZFWD4 PE=2 SV=1
+tr|Q9LFE2|Q9LFE2_ARATH         -          Nucleoporin_N        PF08801.8    0.00026   21.0   1.0       4.6    7.0   0.0   4.7   1   1   3   6   6   6   2 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=TORMOZEMBRYO DEFECTIVE PE=1 SV=1
+tr|Q9SX94|Q9SX94_ARATH         -          Nucleoporin_N        PF08801.8    0.00041   20.4   1.7       1.5    8.6   0.1   3.5   1   1   2   4   4   4   2 F16N3.9 protein OS=Arabidopsis thaliana OX=3702 GN=At1g47610 PE=4 SV=1
+tr|A0A1P8BAA9|A0A1P8BAA9_ARATH -          Nucleoporin_N        PF08801.8     0.0028   17.6   0.0       2.1    8.2   0.0   3.4   3   1   0   3   3   3   1 WD-40 repeat family protein / zfwd3 protein (ZFWD3) OS=Arabidopsis thaliana OX=3702 GN=MHK7.11 PE=4 SV=1
+sp|Q9LV27|LST81_ARATH          -          Nucleoporin_N        PF08801.8     0.0034   17.3   0.0       6.9    6.4   0.0   3.9   3   2   1   4   4   4   1 Target of rapamycin complex subunit LST8-1 OS=Arabidopsis thaliana OX=3702 GN=LST8-1 PE=1 SV=1
+sp|Q9FKR9|C3H59_ARATH          -          Nucleoporin_N        PF08801.8     0.0035   17.3   0.0       2.1    8.2   0.1   3.4   3   1   0   3   3   3   1 Zinc finger CCCH domain-containing protein 59 OS=Arabidopsis thaliana OX=3702 GN=ZFWD3 PE=2 SV=1
+tr|F4JSC0|F4JSC0_ARATH         -          Nucleoporin_N        PF08801.8     0.0071   16.3   0.3     0.038   13.9   0.1   2.1   2   0   0   2   2   2   1 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g18905 PE=1 SV=1
+tr|Q9SZ03|Q9SZ03_ARATH         -          Nucleoporin_N        PF08801.8     0.0076   16.2   9.8       1.8    8.4   1.3   4.6   1   1   3   4   4   4   2 At4g34380 OS=Arabidopsis thaliana OX=3702 GN=At4g34380 PE=2 SV=1
+tr|Q9LVF2|Q9LVF2_ARATH         -          Nucleoporin_N        PF08801.8      0.009   15.9   9.1         2    8.2   0.2   4.3   2   2   1   3   3   3   2 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=At3g21540 PE=4 SV=1
+tr|F4J7K1|F4J7K1_ARATH         -          Nucleoporin_N        PF08801.8      0.018   14.9   0.0       1.2    8.9   0.0   3.0   3   1   1   4   4   4   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=LST8-1 PE=4 SV=1
+tr|A0A1P8BC12|A0A1P8BC12_ARATH -          Nucleoporin_N        PF08801.8      0.023   14.6   0.6      0.49   10.2   0.1   2.7   1   1   0   3   3   3   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g12920 PE=4 SV=1
+sp|Q42384|PRL1_ARATH           -          Nucleoporin_N        PF08801.8      0.028   14.3   0.3       5.9    6.7   0.0   3.5   1   1   0   2   2   2   0 Protein pleiotropic regulatory locus 1 OS=Arabidopsis thaliana OX=3702 GN=PRL1 PE=1 SV=1
+tr|A0A1P8BC21|A0A1P8BC21_ARATH -          Nucleoporin_N        PF08801.8      0.032   14.1   0.6      0.56   10.0   0.1   2.6   1   1   0   3   3   3   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g12920 PE=4 SV=1
+tr|A0A1P8BC29|A0A1P8BC29_ARATH -          Nucleoporin_N        PF08801.8      0.033   14.1   0.5      0.52   10.1   0.1   2.6   1   1   0   3   3   3   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g12920 PE=4 SV=1
+tr|Q9FG99|Q9FG99_ARATH         -          Nucleoporin_N        PF08801.8      0.034   14.0   3.4       5.4    6.8   0.2   3.7   1   1   1   4   4   4   0 Similarity to GTP-binding regulatory protein and WD-repeat protein OS=Arabidopsis thaliana OX=3702 GN=MPF21.14 PE=4 SV=1
+sp|Q8RXA7|SCD1_ARATH           -          Nucleoporin_N        PF08801.8      0.037   13.9   1.6      0.45   10.4   1.1   2.5   2   1   0   2   2   2   0 DENN domain and WD repeat-containing protein SCD1 OS=Arabidopsis thaliana OX=3702 GN=SCD1 PE=1 SV=1
+tr|A0A1P8BC23|A0A1P8BC23_ARATH -          Nucleoporin_N        PF08801.8      0.037   13.9   0.2      0.41   10.5   0.1   2.1   1   1   0   2   2   2   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g12920 PE=4 SV=1
+tr|Q9SV11|Q9SV11_ARATH         -          Nucleoporin_N        PF08801.8      0.037   13.9   2.8         2    8.2   0.1   2.9   1   1   1   2   2   2   0 At3g51930 OS=Arabidopsis thaliana OX=3702 GN=F4F15.40 PE=2 SV=1
+tr|Q9SK69|Q9SK69_ARATH         -          Nucleoporin_N        PF08801.8      0.039   13.9   0.1         7    6.4   0.0   2.3   2   0   0   2   2   2   0 At2g20330/F11A3.12 OS=Arabidopsis thaliana OX=3702 GN=At2g20330 PE=1 SV=1
+tr|Q93ZN5|Q93ZN5_ARATH         -          Nucleoporin_N        PF08801.8      0.049   13.5   0.0         1    9.1   0.1   2.5   2   1   0   2   2   2   0 AT4g00090/F6N15_8 OS=Arabidopsis thaliana OX=3702 GN=At4g00090 PE=2 SV=1
+sp|Q8W117|SMU1_ARATH           -          Nucleoporin_N        PF08801.8      0.061   13.2   1.1        13    5.6   0.8   3.1   2   1   1   3   3   3   0 Suppressor of mec-8 and unc-52 protein homolog 1 OS=Arabidopsis thaliana OX=3702 GN=SMU1 PE=1 SV=1
+tr|F4IZI7|F4IZI7_ARATH         -          Nucleoporin_N        PF08801.8      0.089   12.7   0.1      0.24   11.3   0.1   1.6   1   1   1   2   2   2   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=AtATG18a PE=4 SV=1
+sp|Q93VB2|AT18A_ARATH          -          Nucleoporin_N        PF08801.8        0.1   12.5   0.1      0.27   11.1   0.1   1.6   1   1   0   1   1   1   0 Autophagy-related protein 18a OS=Arabidopsis thaliana OX=3702 GN=ATG18A PE=1 SV=1
+tr|Q9FYL1|Q9FYL1_ARATH         -          Nucleoporin_N        PF08801.8       0.13   12.1   4.4       1.4    8.7   0.0   3.1   2   1   1   3   3   3   0 F21J9.19 OS=Arabidopsis thaliana OX=3702 GN=At1g24530 PE=2 SV=1
+sp|Q9FNZ2|C3H48_ARATH          -          Nucleoporin_N        PF08801.8       0.17   11.7   0.2       9.4    6.0   0.0   2.6   3   1   0   3   3   3   0 Zinc finger CCCH domain-containing protein 48 OS=Arabidopsis thaliana OX=3702 GN=ZFWD1 PE=2 SV=1
+sp|Q8L4M1|THOC6_ARATH          -          Nucleoporin_N        PF08801.8       0.17   11.7   0.0       2.4    7.9   0.0   2.1   1   1   0   2   2   2   0 THO complex subunit 6 OS=Arabidopsis thaliana OX=3702 GN=THO6 PE=1 SV=1
+tr|A0A1I9LNN0|A0A1I9LNN0_ARATH -          Nucleoporin_N        PF08801.8       0.17   11.7   0.0       8.5    6.1   0.0   2.9   2   1   2   4   4   4   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g50590 PE=4 SV=1
+tr|F4J0P2|F4J0P2_ARATH         -          Nucleoporin_N        PF08801.8       0.17   11.7   0.0       8.5    6.1   0.0   2.9   2   1   2   4   4   4   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g50590 PE=4 SV=1
+sp|F4I1S7|ELP2_ARATH           -          Nucleoporin_N        PF08801.8       0.19   11.6   0.3       5.9    6.7   0.0   2.4   2   0   0   2   2   2   0 Elongator complex protein 2 OS=Arabidopsis thaliana OX=3702 GN=ELP2 PE=1 SV=1
+tr|F4I1S8|F4I1S8_ARATH         -          Nucleoporin_N        PF08801.8        0.2   11.5   0.4       5.9    6.7   0.0   2.5   2   0   0   2   2   2   0 Elongator protein 2 OS=Arabidopsis thaliana OX=3702 GN=ELP2 PE=4 SV=1
+tr|F4I061|F4I061_ARATH         -          Nucleoporin_N        PF08801.8       0.23   11.3   0.9       2.4    8.0   0.9   2.1   1   1   0   1   1   1   0 Stomatal cytokinesis defective / SCD1 protein (SCD1) OS=Arabidopsis thaliana OX=3702 GN=SCD1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:52 2022
+# [ok]

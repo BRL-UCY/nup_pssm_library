@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VI07|Q9VI07_DROME         -          IR1-M                PF12185.5       0.74   10.1   0.0       1.2    9.4   0.0   1.2   1   0   0   1   1   1   0 Osiris 20 OS=Drosophila melanogaster OX=7227 GN=Osi20 PE=2 SV=1
+tr|Q86B82|Q86B82_DROME         -          IR1-M                PF12185.5        8.6    6.7   0.2        44    4.4   0.0   2.1   2   0   0   2   2   2   0 IP08537p OS=Drosophila melanogaster OX=7227 GN=CG5340 PE=2 SV=2
+tr|Q8INB8|Q8INB8_DROME         -          IR1-M                PF12185.5        8.8    6.6   0.0        16    5.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31287 PE=4 SV=1
+tr|Q9VT09|Q9VT09_DROME         -          IR1-M                PF12185.5        9.5    6.5   0.1        25    5.2   0.0   1.7   2   0   0   2   2   2   0 Ionotropic receptor 67a OS=Drosophila melanogaster OX=7227 GN=Ir67a PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:04:27 2022
+# [ok]

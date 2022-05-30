@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V4W1|GLE1_DROME           -          GLE1                 PF07817.10   1.2e-69  234.7   0.1   2.9e-69  233.4   0.1   1.7   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Drosophila melanogaster OX=7227 GN=GLE1 PE=2 SV=1
+tr|A0A0B4LGT9|A0A0B4LGT9_DROME -          GLE1                 PF07817.10       0.6    9.6   0.0       0.9    9.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9667 PE=1 SV=1
+tr|Q9VHV6|Q9VHV6_DROME         -          GLE1                 PF07817.10      0.62    9.5   0.0      0.96    8.9   0.0   1.2   1   0   0   1   1   1   0 RE31520p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9667 PE=1 SV=2
+tr|Q9VC58|Q9VC58_DROME         -          GLE1                 PF07817.10       0.7    9.4   0.8        12    5.3   0.2   2.2   2   0   0   2   2   2   0 LD37002p OS=Drosophila melanogaster OX=7227 GN=Syx18 PE=1 SV=1
+sp|Q9VYY9|EVI5_DROME           -          GLE1                 PF07817.10      0.78    9.2   1.6       2.5    7.6   1.6   1.9   1   0   0   1   1   1   0 Ecotropic viral integration site 5 ortholog OS=Drosophila melanogaster OX=7227 GN=Evi5 PE=1 SV=3
+tr|Q9W412|Q9W412_DROME         -          GLE1                 PF07817.10       0.9    9.0   0.1       1.3    8.5   0.1   1.2   1   0   0   1   1   1   0 GH18658p OS=Drosophila melanogaster OX=7227 GN=CG15891 PE=2 SV=1
+tr|Q95TU9|Q95TU9_DROME         -          GLE1                 PF07817.10         1    8.8   0.0       3.1    7.3   0.0   1.8   1   0   0   1   1   1   0 LD15470p OS=Drosophila melanogaster OX=7227 GN=tacc PE=1 SV=1
+tr|A0A0B4KFK1|A0A0B4KFK1_DROME -          GLE1                 PF07817.10       1.1    8.8   0.0       3.1    7.3   0.0   1.8   1   0   0   1   1   1   0 Transforming acidic coiled-coil protein, isoform M OS=Drosophila melanogaster OX=7227 GN=tacc PE=1 SV=1
+tr|A0A0B4JD97|A0A0B4JD97_DROME -          GLE1                 PF07817.10       1.1    8.8   0.0       3.1    7.3   0.0   1.8   1   0   0   1   1   1   0 Transforming acidic coiled-coil protein, isoform K OS=Drosophila melanogaster OX=7227 GN=tacc PE=1 SV=1
+tr|Q8INI2|Q8INI2_DROME         -          GLE1                 PF07817.10       1.5    8.3   0.1       1.9    7.9   0.1   1.1   1   0   0   1   1   1   0 GEO12096p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14384 PE=2 SV=1
+sp|Q8MSX2|MED6_DROME           -          GLE1                 PF07817.10       1.7    8.1   0.0       3.3    7.1   0.0   1.5   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 6 OS=Drosophila melanogaster OX=7227 GN=MED6 PE=1 SV=1
+tr|E1JIH5|E1JIH5_DROME         -          GLE1                 PF07817.10       1.7    8.1   0.0       3.3    7.1   0.0   1.5   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 6 OS=Drosophila melanogaster OX=7227 GN=MED6 PE=1 SV=1
+tr|Q8IQA0|Q8IQA0_DROME         -          GLE1                 PF07817.10       1.9    8.0   1.0       3.5    7.1   1.0   1.4   1   0   0   1   1   1   0 MIP05284p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32371 PE=2 SV=1
+sp|Q24475|RPR_DROME            -          GLE1                 PF07817.10       2.3    7.7   0.0       2.4    7.6   0.0   1.1   1   0   0   1   1   1   0 Cell death protein rpr OS=Drosophila melanogaster OX=7227 GN=rpr PE=1 SV=1
+sp|Q24256|BARH2_DROME          -          GLE1                 PF07817.10       2.3    7.7   0.1       5.4    6.5   0.1   1.5   1   0   0   1   1   1   0 Homeobox protein B-H2 OS=Drosophila melanogaster OX=7227 GN=B-H2 PE=1 SV=3
+tr|Q9W3S0|Q9W3S0_DROME         -          GLE1                 PF07817.10       2.4    7.6   0.1       3.7    7.0   0.1   1.2   1   0   0   1   1   1   0 GH24548p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1958 PE=2 SV=1
+tr|Q8IQY1|Q8IQY1_DROME         -          GLE1                 PF07817.10       2.8    7.4   0.0       3.3    7.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32551 PE=4 SV=2
+tr|Q8INW8|Q8INW8_DROME         -          GLE1                 PF07817.10       3.1    7.3   0.2        25    4.3   0.0   2.3   2   1   0   3   3   3   0 GH03493p OS=Drosophila melanogaster OX=7227 GN=anon-WO0140519.187 PE=2 SV=1
+tr|M9PCW4|M9PCW4_DROME         -          GLE1                 PF07817.10       3.2    7.2   0.0       5.6    6.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG44004 PE=4 SV=2
+sp|Q9XTM1|EXOC5_DROME          -          GLE1                 PF07817.10       3.6    7.0   0.5        11    5.5   0.1   1.9   2   0   0   2   2   2   0 Exocyst complex component 5 OS=Drosophila melanogaster OX=7227 GN=Sec10 PE=2 SV=1
+tr|Q9VN02|Q9VN02_DROME         -          GLE1                 PF07817.10       3.7    7.0   7.4       5.2    6.5   1.8   2.1   1   1   1   2   2   2   0 GH14561p OS=Drosophila melanogaster OX=7227 GN=Vps24 PE=1 SV=1
+sp|Q9VHQ2|OR85D_DROME          -          GLE1                 PF07817.10       4.1    6.8   0.0        11    5.4   0.0   1.7   2   0   0   2   2   2   0 Putative odorant receptor 85d OS=Drosophila melanogaster OX=7227 GN=Or85d PE=2 SV=1
+sp|P55830|RS3A_DROME           -          GLE1                 PF07817.10       4.5    6.7   0.2       9.6    5.6   0.1   1.5   1   1   0   1   1   1   0 40S ribosomal protein S3a OS=Drosophila melanogaster OX=7227 GN=RpS3A PE=1 SV=4
+tr|A0A023GQ04|A0A023GQ04_DROME -          GLE1                 PF07817.10       5.1    6.5   1.0       9.5    5.7   1.0   1.4   1   0   0   1   1   1   0 SR-related CTD associated factor 6, isoform E OS=Drosophila melanogaster OX=7227 GN=scaf6 PE=4 SV=1
+tr|Q9VVM8|Q9VVM8_DROME         -          GLE1                 PF07817.10       5.1    6.5   1.3       9.4    5.7   0.3   2.0   2   0   0   2   2   1   0 FI02004p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5290 PE=1 SV=1
+tr|A0A0B4K6F4|A0A0B4K6F4_DROME -          GLE1                 PF07817.10       5.4    6.5   0.0       8.5    5.8   0.0   1.2   1   0   0   1   1   1   0 Lethal (3) neo38, isoform F OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+tr|Q8SZN9|Q8SZN9_DROME         -          GLE1                 PF07817.10       5.5    6.4   0.0       8.7    5.8   0.0   1.2   1   0   0   1   1   1   0 Lethal (3) neo38, isoform A OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+tr|Q6IDE2|Q6IDE2_DROME         -          GLE1                 PF07817.10       5.5    6.4   5.6       3.1    7.2   0.6   2.4   2   0   0   2   2   2   0 GH07226p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3907 PE=2 SV=1
+tr|A0A0B4K6S1|A0A0B4K6S1_DROME -          GLE1                 PF07817.10       5.6    6.4   0.2         9    5.7   0.2   1.2   1   0   0   1   1   1   0 Lethal (3) neo38, isoform G OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+tr|X2JAP0|X2JAP0_DROME         -          GLE1                 PF07817.10         6    6.3   0.1       9.1    5.7   0.1   1.2   1   0   0   1   1   1   0 Gdap1, isoform C OS=Drosophila melanogaster OX=7227 GN=Gdap1 PE=1 SV=1
+tr|M9PBQ8|M9PBQ8_DROME         -          GLE1                 PF07817.10       6.1    6.3   0.1       9.4    5.7   0.1   1.2   1   0   0   1   1   1   0 Gdap1, isoform B OS=Drosophila melanogaster OX=7227 GN=Gdap1 PE=1 SV=1
+tr|Q9VRJ3|Q9VRJ3_DROME         -          GLE1                 PF07817.10       6.2    6.3   0.1       9.4    5.7   0.1   1.2   1   0   0   1   1   1   0 Gdap1, isoform A OS=Drosophila melanogaster OX=7227 GN=Gdap1 PE=1 SV=1
+tr|Q7KSP5|Q7KSP5_DROME         -          GLE1                 PF07817.10       6.8    6.1   0.0        11    5.5   0.0   1.2   1   0   0   1   1   1   0 Lethal (3) neo38, isoform B OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+tr|P83263|P83263_DROME         -          GLE1                 PF07817.10       6.8    6.1   0.1       6.8    6.1   0.1   1.1   1   0   0   1   1   1   0 Brother of Bearded protein A OS=Drosophila melanogaster OX=7227 GN=BobB PE=4 SV=1
+tr|A0A0B4KGA3|A0A0B4KGA3_DROME -          GLE1                 PF07817.10         7    6.1   0.0        11    5.4   0.0   1.2   1   0   0   1   1   1   0 Lethal (3) neo38, isoform L OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+tr|Q9VUG4|Q9VUG4_DROME         -          GLE1                 PF07817.10       7.1    6.1   0.0       7.9    5.9   0.0   1.1   1   0   0   1   1   1   0 GEO12017p1 OS=Drosophila melanogaster OX=7227 GN=goddard PE=1 SV=1
+tr|P83262|P83262_DROME         -          GLE1                 PF07817.10       7.1    6.1   0.1       7.1    6.1   0.1   1.1   1   0   0   1   1   1   0 Brother of bearded A OS=Drosophila melanogaster OX=7227 GN=BobA PE=2 SV=2
+tr|E0R905|E0R905_DROME         -          GLE1                 PF07817.10       7.2    6.1   0.2        12    5.4   0.2   1.2   1   0   0   1   1   1   0 LP14345p OS=Drosophila melanogaster OX=7227 GN=l(3)neo38 PE=1 SV=1
+sp|Q9VAD6|COG7_DROME           -          GLE1                 PF07817.10       7.3    6.0   0.8        24    4.3   0.0   2.3   2   0   0   2   2   1   0 Conserved oligomeric Golgi complex subunit 7 OS=Drosophila melanogaster OX=7227 GN=Cog7 PE=2 SV=2
+tr|Q9VPS2|Q9VPS2_DROME         -          GLE1                 PF07817.10       8.1    5.9   2.6        11    5.4   2.6   1.2   1   0   0   1   1   1   0 IP21085p OS=Drosophila melanogaster OX=7227 GN=lectin-21Ca PE=2 SV=2
+tr|Q9W469|Q9W469_DROME         -          GLE1                 PF07817.10       8.3    5.8   0.0        13    5.3   0.0   1.3   1   0   0   1   1   1   0 Agmatine N-acetyltransferase OS=Drosophila melanogaster OX=7227 GN=AgmNAT PE=1 SV=2
+tr|M9PF36|M9PF36_DROME         -          GLE1                 PF07817.10       8.9    5.8   0.0        23    4.4   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=DmTOM1 PE=1 SV=1
+tr|E1JJ86|E1JJ86_DROME         -          GLE1                 PF07817.10       9.1    5.7   0.1       8.8    5.8   0.1   1.1   1   0   0   1   1   1   0 Kinetochore Mis12-Ndc80 network component 2, isoform D OS=Drosophila melanogaster OX=7227 GN=Kmn2 PE=4 SV=2
+tr|A0A0B4LFR0|A0A0B4LFR0_DROME -          GLE1                 PF07817.10       9.2    5.7   2.8        10    5.5   2.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG44403 PE=4 SV=1
+tr|M9PEX2|M9PEX2_DROME         -          GLE1                 PF07817.10       9.3    5.7   0.0        24    4.4   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=DmTOM1 PE=1 SV=1
+tr|Q9VSZ1|Q9VSZ1_DROME         -          GLE1                 PF07817.10       9.3    5.7   0.0        24    4.3   0.0   1.6   2   0   0   2   2   2   0 GH05942p OS=Drosophila melanogaster OX=7227 GN=DmTOM1 PE=1 SV=2
+tr|Q6IKI1|Q6IKI1_DROME         -          GLE1                 PF07817.10       9.7    5.6   0.1       9.3    5.7   0.1   1.1   1   0   0   1   1   1   0 HDC12388 OS=Drosophila melanogaster OX=7227 GN=Kmn2 PE=4 SV=1
+tr|Q9VGV6|Q9VGV6_DROME         -          GLE1                 PF07817.10       9.8    5.6   0.1        16    4.9   0.1   1.3   1   0   0   1   1   1   0 IP11787p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14694 PE=2 SV=2
+tr|Q0KI22|Q0KI22_DROME         -          GLE1                 PF07817.10        10    5.6   1.0        21    4.5   0.4   1.7   2   0   0   2   2   2   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT03227 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 01:07:30 2022
+# [ok]

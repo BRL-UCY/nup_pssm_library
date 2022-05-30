@@ -1,0 +1,20 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P33412|ECT1_YEAST  -          IR1-M                PF12185.5        4.3    5.8   0.1        16    4.0   0.0   1.9   2   0   0   2   2   2   0 Ethanolamine-phosphate cytidylyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ECT1 PE=1 SV=1
+sp|Q12056|ISU2_YEAST  -          IR1-M                PF12185.5        4.7    5.7   0.0       9.1    4.8   0.0   1.4   1   0   0   1   1   1   0 Iron sulfur cluster assembly protein 2, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ISU2 PE=1 SV=1
+sp|P38825|TOM71_YEAST -          IR1-M                PF12185.5        5.6    5.5   0.9        12    4.4   0.0   2.0   3   0   0   3   3   3   0 Protein TOM71 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TOM71 PE=1 SV=1
+sp|Q08110|YO014_YEAST -          IR1-M                PF12185.5        7.5    5.1   0.0        14    4.2   0.0   1.5   1   0   0   1   1   1   0 Putative uncharacterized protein YOL014W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YOL014W PE=4 SV=1
+sp|Q03020|ISU1_YEAST  -          IR1-M                PF12185.5        8.4    4.9   0.0        16    4.0   0.0   1.4   1   0   0   1   1   1   0 Iron sulfur cluster assembly protein 1, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ISU1 PE=1 SV=1
+sp|Q06451|TPO3_YEAST  -          IR1-M                PF12185.5        8.9    4.8   0.2        43    2.7   0.0   2.0   2   0   0   2   2   2   0 Polyamine transporter 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TPO3 PE=1 SV=1
+sp|P53869|MRX7_YEAST  -          IR1-M                PF12185.5        9.2    4.8   0.0        16    4.0   0.0   1.4   1   0   0   1   1   1   0 MIOREX complex component 7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MRX7 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:26 2022
+# [ok]

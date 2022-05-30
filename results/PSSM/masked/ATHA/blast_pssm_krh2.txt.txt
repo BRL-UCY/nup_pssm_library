@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9V447|KRH2_DROME Krueppel homolog 2 OS=Drosophila melanogaster GN=Kr-h2 PE=1 SV=1
+# Database: DB_masked/ATHA_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+sp|Q9V447|KRH2_DROME	tr|Q9M898|Q9M898_ARATH	1.06e-23	98.4	26	251	107	335
+sp|Q9V447|KRH2_DROME	tr|A0A178VC85|A0A178VC85_ARATH	1.31e-22	94.5	26	251	40	268
+# BLAST processed 1 queries

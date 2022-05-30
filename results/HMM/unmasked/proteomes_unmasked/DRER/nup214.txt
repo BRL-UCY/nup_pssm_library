@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QMJ7|F1QMJ7_DANRE         -          NUP214               PF16755.2    0.00026   21.8   0.2      0.44   11.1   0.0   2.3   2   0   0   2   2   2   2 Tyrosine-protein kinase receptor (Fragment) OS=Danio rerio OX=7955 GN=ros1 PE=3 SV=3
+tr|A0A0H2UKK7|A0A0H2UKK7_DANRE -          NUP214               PF16755.2      0.014   16.0   0.2      0.03   15.0   0.2   1.4   1   0   0   1   1   1   0 Nucleoporin 214 OS=Danio rerio OX=7955 GN=nup214 PE=1 SV=1
+tr|E7F5M0|E7F5M0_DANRE         -          NUP214               PF16755.2      0.015   16.0   0.2     0.031   14.9   0.2   1.4   1   0   0   1   1   1   0 Nucleoporin 214 OS=Danio rerio OX=7955 GN=nup214 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/nup214.txt --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:24 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWE6|ELYS_DROME           -          ELYS                 PF13934.3    4.1e-29  102.4   1.5   5.7e-29  102.0   1.5   1.2   1   0   0   1   1   1   1 Protein ELYS homolog OS=Drosophila melanogaster OX=7227 GN=Elys PE=1 SV=2
+tr|X2JG50|X2JG50_DROME         -          ELYS                 PF13934.3    4.1e-29  102.4   1.5   5.7e-29  102.0   1.5   1.2   1   0   0   1   1   1   1 Elys, isoform B OS=Drosophila melanogaster OX=7227 GN=Elys PE=4 SV=1
+tr|Q9Y0Y5|Q9Y0Y5_DROME         -          ELYS                 PF13934.3      0.061   13.6   0.7     0.081   13.2   0.7   1.2   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Drosophila melanogaster OX=7227 GN=epsilonCOP PE=1 SV=1
+sp|A1Z9A8|PTCD3_DROME          -          ELYS                 PF13934.3       0.57   10.4   0.0       1.1    9.5   0.0   1.4   1   0   0   1   1   1   0 Protein PTCD3 homolog, mitochondrial OS=Drosophila melanogaster OX=7227 GN=CG4679 PE=2 SV=1
+tr|Q9VQJ7|Q9VQJ7_DROME         -          ELYS                 PF13934.3        1.2    9.4   0.0       2.3    8.5   0.0   1.4   1   0   0   1   1   1   0 LD40940p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3165 PE=2 SV=1
+sp|Q9VKJ3|NU160_DROME          -          ELYS                 PF13934.3          6    7.1   0.4   1.7e+02    2.4   0.0   2.7   3   0   0   3   3   3   0 Nuclear pore complex protein Nup160 homolog OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=1 SV=1
+tr|X2J9F3|X2J9F3_DROME         -          ELYS                 PF13934.3          6    7.1   0.4   1.7e+02    2.4   0.0   2.7   3   0   0   3   3   3   0 Nucleoporin 160kD, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=4 SV=1
+tr|Q9W125|Q9W125_DROME         -          ELYS                 PF13934.3        9.4    6.4   0.0        12    6.1   0.0   1.1   1   0   0   1   1   1   0 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8 OS=Drosophila melanogaster OX=7227 GN=ND-19 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:04:56 2022
+# [ok]

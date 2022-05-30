@@ -1,0 +1,45 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9D9R9|F186A_MOUSE          -          NPCC                 PF08058.8     0.0045   18.6  77.7        26    6.4   0.1  23.4   8   6  10  18  18  18   0 Protein FAM186A OS=Mus musculus OX=10090 GN=FAM186A PE=2 SV=2
+tr|F8WGT2|F8WGT2_MOUSE         -          NPCC                 PF08058.8      0.059   15.0   0.0      0.12   14.0   0.0   1.5   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=1 SV=1
+sp|Q8BRG8|TM209_MOUSE          -          NPCC                 PF08058.8      0.061   15.0   0.0      0.14   13.8   0.0   1.5   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=2 SV=1
+sp|A0A1B0GQX3|CTXD2_MOUSE      -          NPCC                 PF08058.8       0.37   12.4   0.1      0.37   12.4   0.1   1.0   1   0   0   1   1   1   0 Cortexin domain containing 2 OS=Mus musculus OX=10090 GN=Ctxnd2 PE=3 SV=1
+tr|Q8R299|Q8R299_MOUSE         -          NPCC                 PF08058.8       0.52   12.0   6.1       1.7   10.3   0.2   2.6   2   1   0   3   3   2   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r185 PE=3 SV=1
+tr|A2BE96|A2BE96_MOUSE         -          NPCC                 PF08058.8        0.7   11.5   0.3        50    5.5   0.0   2.3   2   1   0   2   2   2   0 Serine/threonine-protein kinase N3 (Fragment) OS=Mus musculus OX=10090 GN=Pkn3 PE=1 SV=1
+tr|Q8K4I0|Q8K4I0_MOUSE         -          NPCC                 PF08058.8       0.73   11.5   2.8       8.3    8.0   0.0   2.4   2   0   0   2   2   2   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r66 PE=2 SV=1
+tr|A0A3B2W805|A0A3B2W805_MOUSE -          NPCC                 PF08058.8        1.1   11.0   0.7        12    7.5   0.0   2.1   2   0   0   2   2   2   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r225 PE=3 SV=1
+sp|Q8BS95|GPHR_MOUSE           -          NPCC                 PF08058.8        1.3   10.6   0.0       1.3   10.6   0.0   3.4   3   1   0   3   3   3   0 Golgi pH regulator OS=Mus musculus OX=10090 GN=Gpr89a PE=1 SV=2
+tr|Q8BRT3|Q8BRT3_MOUSE         -          NPCC                 PF08058.8        1.8   10.2   0.0       3.3    9.3   0.0   1.4   1   0   0   1   1   1   0 Protein Wnt OS=Mus musculus OX=10090 GN=Wnt16 PE=2 SV=1
+tr|H3BJ29|H3BJ29_MOUSE         -          NPCC                 PF08058.8        1.8   10.2   0.0       3.3    9.3   0.0   1.4   1   0   0   1   1   1   0 Protein Wnt OS=Mus musculus OX=10090 GN=Wnt16 PE=3 SV=1
+tr|A0A571BDE8|A0A571BDE8_MOUSE -          NPCC                 PF08058.8        2.5    9.7   3.1       6.5    8.4   0.0   2.3   2   1   1   3   3   3   0 Voltage-dependent L-type calcium channel subunit alpha-1D (Fragment) OS=Mus musculus OX=10090 GN=Cacna1d PE=4 SV=1
+sp|Q8BHH8|CLRN3_MOUSE          -          NPCC                 PF08058.8        2.9    9.5   0.2       6.1    8.5   0.2   1.5   1   1   0   1   1   1   0 Clarin-3 OS=Mus musculus OX=10090 GN=Clrn3 PE=1 SV=1
+sp|Q9QYS1|WNT16_MOUSE          -          NPCC                 PF08058.8        3.3    9.3   0.0       6.4    8.4   0.0   1.4   1   0   0   1   1   1   0 Protein Wnt-16 OS=Mus musculus OX=10090 GN=Wnt16 PE=2 SV=2
+tr|A0A0U1RPE8|A0A0U1RPE8_MOUSE -          NPCC                 PF08058.8        3.9    9.1   0.2         4    9.1   0.2   1.1   1   0   0   1   1   1   0 Vesicle-associated membrane protein 8 OS=Mus musculus OX=10090 GN=Vamp8 PE=1 SV=1
+tr|A0A286YE45|A0A286YE45_MOUSE -          NPCC                 PF08058.8        4.3    9.0   2.5        19    6.9   0.1   2.0   1   1   0   2   2   2   0 Voltage-dependent L-type calcium channel subunit alpha-1D (Fragment) OS=Mus musculus OX=10090 GN=Cacna1d PE=4 SV=1
+sp|O70404|VAMP8_MOUSE          -          NPCC                 PF08058.8        4.8    8.8   0.2       5.4    8.7   0.2   1.1   1   0   0   1   1   1   0 Vesicle-associated membrane protein 8 OS=Mus musculus OX=10090 GN=Vamp8 PE=1 SV=1
+tr|A0A0R4J0R1|A0A0R4J0R1_MOUSE -          NPCC                 PF08058.8        4.9    8.8   0.2       5.4    8.7   0.2   1.1   1   0   0   1   1   1   0 Vesicle-associated membrane protein 8 OS=Mus musculus OX=10090 GN=Vamp8 PE=1 SV=1
+tr|A0A0N4SUP8|A0A0N4SUP8_MOUSE -          NPCC                 PF08058.8        5.3    8.7   0.2        12    7.6   0.1   1.6   1   1   0   2   2   2   0 Rhodopsin (Fragment) OS=Mus musculus OX=10090 GN=Rho PE=1 SV=1
+tr|A0A0N4SV48|A0A0N4SV48_MOUSE -          NPCC                 PF08058.8        5.4    8.7   0.4        10    7.8   0.1   1.6   1   1   1   2   2   2   0 Rhodopsin OS=Mus musculus OX=10090 GN=Rho PE=1 SV=1
+tr|A2A7F4|A2A7F4_MOUSE         -          NPCC                 PF08058.8        5.7    8.6   0.0        14    7.4   0.0   1.6   1   0   0   1   1   1   0 MCG122876 OS=Mus musculus OX=10090 GN=Rlf PE=1 SV=1
+tr|H9H9R6|H9H9R6_MOUSE         -          NPCC                 PF08058.8        5.7    8.6   0.3        21    6.8   0.3   1.9   1   0   0   1   1   1   0 Tyrosine-protein kinase RYK OS=Mus musculus OX=10090 GN=Ryk PE=4 SV=1
+sp|Q01887|RYK_MOUSE            -          NPCC                 PF08058.8        5.8    8.6   0.3        21    6.7   0.3   1.9   1   0   0   1   1   1   0 Tyrosine-protein kinase RYK OS=Mus musculus OX=10090 GN=Ryk PE=1 SV=2
+tr|E9Q532|E9Q532_MOUSE         -          NPCC                 PF08058.8        6.2    8.5   0.0        13    7.5   0.0   1.5   1   0   0   1   1   1   0 Rearranged L-myc fusion sequence OS=Mus musculus OX=10090 GN=Rlf PE=1 SV=1
+tr|D6RI66|D6RI66_MOUSE         -          NPCC                 PF08058.8        6.2    8.5   1.4       8.5    8.0   1.4   1.1   1   0   0   1   1   1   0 G protein-coupled receptor 89 OS=Mus musculus OX=10090 GN=Gpr89 PE=4 SV=1
+sp|Q689Z5|SBNO1_MOUSE          -          NPCC                 PF08058.8        6.6    8.4   0.1        21    6.8   0.1   1.8   1   0   0   1   1   1   0 Protein strawberry notch homolog 1 OS=Mus musculus OX=10090 GN=Sbno1 PE=1 SV=2
+tr|F7CVW0|F7CVW0_MOUSE         -          NPCC                 PF08058.8        6.6    8.4   0.1        21    6.8   0.1   1.8   1   0   0   1   1   1   0 Protein strawberry notch homolog 1 (Fragment) OS=Mus musculus OX=10090 GN=Sbno1 PE=1 SV=1
+tr|B2RRI2|B2RRI2_MOUSE         -          NPCC                 PF08058.8        6.6    8.4   0.1        21    6.8   0.1   1.8   1   0   0   1   1   1   0 Protein strawberry notch homolog 1 OS=Mus musculus OX=10090 GN=Sbno1 PE=1 SV=1
+sp|P00405|COX2_MOUSE           -          NPCC                 PF08058.8        7.1    8.3   2.9        12    7.5   2.9   1.3   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Mus musculus OX=10090 GN=Mtco2 PE=1 SV=1
+tr|A0A1Y7VJ37|A0A1Y7VJ37_MOUSE -          NPCC                 PF08058.8        8.1    8.1   1.7        12    7.6   1.5   1.5   1   1   0   1   1   1   0 Tetraspanin-13 (Fragment) OS=Mus musculus OX=10090 GN=Tspan13 PE=1 SV=1
+tr|Q7TS40|Q7TS40_MOUSE         -          NPCC                 PF08058.8          9    7.9   3.1        19    6.9   3.1   1.6   1   0   0   1   1   1   0 Olfactory receptor OS=Mus musculus OX=10090 GN=Olfr198 PE=2 SV=1
+tr|F6XRI9|F6XRI9_MOUSE         -          NPCC                 PF08058.8        9.1    7.9   0.4   3.9e+02    2.7   0.0   2.7   3   0   0   3   3   3   0 Mitofusin-1 (Fragment) OS=Mus musculus OX=10090 GN=Mfn1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 05:41:34 2022
+# [ok]

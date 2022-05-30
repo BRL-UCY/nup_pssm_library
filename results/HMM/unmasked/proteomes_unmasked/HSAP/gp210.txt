@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8TEM1|PO210_HUMAN  -          Big_2                PF02368.15   3.7e-18   67.2  16.1   2.4e-15   58.1   0.0   6.1   6   0   0   6   6   6   3 Nuclear pore membrane glycoprotein 210 OS=Homo sapiens OX=9606 GN=NUP210 PE=1 SV=3
+sp|Q5VU65|P210L_HUMAN  -          Big_2                PF02368.15   1.6e-10   42.7  14.8   1.6e-07   33.1   0.0   5.4   7   0   0   7   7   7   2 Nuclear pore membrane glycoprotein 210-like OS=Homo sapiens OX=9606 GN=NUP210L PE=2 SV=1
+tr|X6R6V8|X6R6V8_HUMAN -          Big_2                PF02368.15   4.8e-09   38.0   0.5   4.3e-08   34.9   0.0   2.5   2   0   0   2   2   2   1 Nuclear pore membrane glycoprotein 210-like OS=Homo sapiens OX=9606 GN=NUP210L PE=1 SV=1
+tr|H0YF91|H0YF91_HUMAN -          Big_2                PF02368.15     0.014   17.3   0.0     0.029   16.2   0.0   1.6   1   1   0   1   1   1   0 Hydrocephalus-inducing protein homolog (Fragment) OS=Homo sapiens OX=9606 GN=HYDIN PE=1 SV=1
+tr|J3QL79|J3QL79_HUMAN -          Big_2                PF02368.15     0.061   15.2   0.0      0.13   14.2   0.0   1.5   1   0   0   1   1   1   0 Hydrocephalus-inducing protein homolog (Fragment) OS=Homo sapiens OX=9606 GN=HYDIN PE=1 SV=1
+tr|F8WD03|F8WD03_HUMAN -          Big_2                PF02368.15     0.097   14.5   0.0      0.19   13.6   0.0   1.5   1   0   0   1   1   1   0 Hydrocephalus-inducing protein homolog OS=Homo sapiens OX=9606 GN=HYDIN PE=1 SV=1
+sp|Q4G0P3|HYDIN_HUMAN  -          Big_2                PF02368.15       0.1   14.5   0.0       1.9   10.4   0.0   3.0   3   0   0   3   3   3   0 Hydrocephalus-inducing protein homolog OS=Homo sapiens OX=9606 GN=HYDIN PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/gp210.txt --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:09 2022
+# [ok]

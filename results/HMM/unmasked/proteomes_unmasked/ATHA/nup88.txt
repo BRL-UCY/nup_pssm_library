@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9FFK6|NUP88_ARATH          -          Nup88                PF10168.6    1.3e-29  103.8   0.3     3e-18   66.2   0.0   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein NUP88 OS=Arabidopsis thaliana OX=3702 GN=NUP88 PE=1 SV=1
+tr|Q3E8G3|Q3E8G3_ARATH         -          Nup88                PF10168.6     0.0049   15.9   4.3    0.0059   15.6   4.3   1.1   1   0   0   1   1   1   1 Winged-helix DNA-binding transcription factor family protein OS=Arabidopsis thaliana OX=3702 GN=RHA1 PE=4 SV=1
+sp|Q9FK72|HFA4C_ARATH          -          Nup88                PF10168.6      0.008   15.2   4.3     0.012   14.6   4.3   1.2   1   0   0   1   1   1   1 Heat stress transcription factor A-4c OS=Arabidopsis thaliana OX=3702 GN=HSFA4C PE=2 SV=1
+sp|O49403|HFA4A_ARATH          -          Nup88                PF10168.6      0.011   14.7   5.1     0.017   14.1   5.1   1.2   1   0   0   1   1   1   0 Heat stress transcription factor A-4a OS=Arabidopsis thaliana OX=3702 GN=HSFA4A PE=2 SV=1
+tr|Q9SZF3|Q9SZF3_ARATH         -          Nup88                PF10168.6       0.03   13.3   5.6     0.033   13.1   5.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein AT4g37600 OS=Arabidopsis thaliana OX=3702 GN=F19F18.90 PE=4 SV=1
+tr|A0A1P8B500|A0A1P8B500_ARATH -          Nup88                PF10168.6      0.048   12.6   2.1     0.079   11.9   2.1   1.2   1   0   0   1   1   1   0 Regulator of chromosome condensation (RCC1) family protein OS=Arabidopsis thaliana OX=3702 GN=At4g14368 PE=4 SV=1
+tr|A0A1P8B4Z7|A0A1P8B4Z7_ARATH -          Nup88                PF10168.6      0.049   12.6   2.1      0.08   11.9   2.1   1.2   1   0   0   1   1   1   0 Regulator of chromosome condensation (RCC1) family protein OS=Arabidopsis thaliana OX=3702 GN=At4g14368 PE=4 SV=1
+tr|A0A1P8B4X4|A0A1P8B4X4_ARATH -          Nup88                PF10168.6      0.049   12.6   2.1      0.08   11.9   2.1   1.2   1   0   0   1   1   1   0 Regulator of chromosome condensation (RCC1) family protein OS=Arabidopsis thaliana OX=3702 GN=At4g14368 PE=4 SV=1
+sp|Q9SB37|PMEI7_ARATH          -          Nup88                PF10168.6       0.12   11.3   0.1      0.15   11.0   0.1   1.1   1   0   0   1   1   1   0 Pectinesterase inhibitor 7 OS=Arabidopsis thaliana OX=3702 GN=PMEI7 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:53 2022
+# [ok]

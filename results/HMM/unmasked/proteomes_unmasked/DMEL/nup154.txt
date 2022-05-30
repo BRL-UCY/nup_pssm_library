@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCW3|NU133_DROME -          Nucleoporin_C        PF03177.11   9.4e-21   74.5  18.8   5.1e-20   72.1  14.0   2.9   2   1   0   2   2   2   2 Nuclear pore complex protein Nup133 OS=Drosophila melanogaster OX=7227 GN=Nup133 PE=2 SV=2
+sp|Q9V463|NU154_DROME -          Nucleoporin_C        PF03177.11   1.8e-17   63.6   3.2     1e-16   61.2   3.2   1.9   1   1   0   1   1   1   1 Nuclear pore complex protein Nup154 OS=Drosophila melanogaster OX=7227 GN=Nup154 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:07 2022
+# [ok]

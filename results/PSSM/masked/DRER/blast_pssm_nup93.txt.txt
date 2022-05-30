@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VFE7|Q9VFE7_DROME GH01087p OS=Drosophila melanogaster GN=Nup93-2 PE=1 SV=1
+# Database: DB_masked/DRER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+tr|Q9VFE7|Q9VFE7_DROME	sp|Q7ZU29|NUP93_DANRE	0.0	866	1	796	1	820
+tr|Q9VFE7|Q9VFE7_DROME	tr|Q1LV08|Q1LV08_DANRE	0.0	866	1	796	1	820
+tr|Q9VFE7|Q9VFE7_DROME	tr|A0A2R8QHF8|A0A2R8QHF8_DANRE	3.65e-173	509	1	485	1	513
+tr|Q9VFE7|Q9VFE7_DROME	tr|Q1LV09|Q1LV09_DANRE	4.38e-21	89.6	1	102	1	107
+tr|Q9VFE7|Q9VFE7_DROME	tr|A0A2R8QR17|A0A2R8QR17_DANRE	6.0	31.4	101	249	57	203
+# BLAST processed 1 queries

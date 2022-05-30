@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0S5I6|B0S5I6_DANRE         -          Ndc1_Nup             PF09531.7   2.4e-124  417.7  13.6  2.7e-124  417.5  13.6   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Danio rerio OX=7955 GN=ndc1 PE=1 SV=1
+sp|Q7SZC5|NDC1_DANRE           -          Ndc1_Nup             PF09531.7   2.8e-124  417.5  14.0  3.1e-124  417.3  14.0   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Danio rerio OX=7955 GN=ndc1 PE=2 SV=1
+tr|F1QYV0|F1QYV0_DANRE         -          Ndc1_Nup             PF09531.7        0.1   12.7  12.8      0.19   11.8  12.8   1.5   1   0   0   1   1   1   0 Tetratricopeptide repeat domain 14 OS=Danio rerio OX=7955 GN=ttc14 PE=1 SV=1
+tr|F1QU39|F1QU39_DANRE         -          Ndc1_Nup             PF09531.7       0.28   11.3   0.0       0.3   11.2   0.0   1.2   1   0   0   1   1   1   0 Sprouty RTK-signaling antagonist 2 OS=Danio rerio OX=7955 GN=spry2 PE=4 SV=1
+tr|Q6NYA8|Q6NYA8_DANRE         -          Ndc1_Nup             PF09531.7       0.33   11.0   3.0      0.41   10.7   3.0   1.1   1   0   0   1   1   1   0 Structural maintenance of chromosomes 1A OS=Danio rerio OX=7955 GN=smc1al PE=1 SV=1
+tr|A0A2R8PYE5|A0A2R8PYE5_DANRE -          Ndc1_Nup             PF09531.7        1.1    9.3   1.7       1.3    9.1   1.2   1.5   1   1   0   1   1   1   0 Transmembrane protein 101 OS=Danio rerio OX=7955 GN=tmem101 PE=4 SV=1
+sp|Q6DRI7|DDX51_DANRE          -          Ndc1_Nup             PF09531.7        1.8    8.6   5.4       2.5    8.1   5.4   1.2   1   0   0   1   1   1   0 ATP-dependent RNA helicase DDX51 OS=Danio rerio OX=7955 GN=ddx51 PE=2 SV=1
+tr|F1RAK1|F1RAK1_DANRE         -          Ndc1_Nup             PF09531.7          2    8.5   8.7       3.1    7.8   8.7   1.3   1   0   0   1   1   1   0 Kinesin-like protein OS=Danio rerio OX=7955 GN=zgc:103670 PE=1 SV=2
+sp|B0R0W9|TBC8B_DANRE          -          Ndc1_Nup             PF09531.7          2    8.4   5.8       4.6    7.2   5.8   1.5   1   0   0   1   1   1   0 TBC1 domain family member 8B OS=Danio rerio OX=7955 GN=tbc1d8b PE=3 SV=1
+sp|Q6NWG1|LRC59_DANRE          -          Ndc1_Nup             PF09531.7        2.1    8.3   5.2       2.7    8.0   5.2   1.1   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 59 OS=Danio rerio OX=7955 GN=lrrc59 PE=2 SV=1
+tr|F1R9W2|F1R9W2_DANRE         -          Ndc1_Nup             PF09531.7        2.2    8.3   5.9       3.1    7.8   5.9   1.2   1   0   0   1   1   1   0 ATP-dependent RNA helicase DDX51 OS=Danio rerio OX=7955 GN=ddx51 PE=1 SV=1
+tr|F1R8Q3|F1R8Q3_DANRE         -          Ndc1_Nup             PF09531.7        2.3    8.3   5.3       2.8    7.9   5.3   1.1   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 59 OS=Danio rerio OX=7955 GN=lrrc59 PE=1 SV=1
+sp|Q7ZV00|OTU6B_DANRE          -          Ndc1_Nup             PF09531.7        2.4    8.2   7.9       2.5    8.1   7.9   1.1   1   0   0   1   1   1   0 Deubiquitinase OTUD6B OS=Danio rerio OX=7955 GN=otud6b PE=2 SV=1
+tr|A0A2R8PYZ7|A0A2R8PYZ7_DANRE -          Ndc1_Nup             PF09531.7        3.5    7.6   5.3       4.3    7.3   5.3   1.1   1   0   0   1   1   1   0 Charged multivesicular body protein 2Ba OS=Danio rerio OX=7955 GN=chmp2ba PE=4 SV=1
+tr|F1QWU1|F1QWU1_DANRE         -          Ndc1_Nup             PF09531.7        3.8    7.5   7.6       4.1    7.4   7.6   1.1   1   0   0   1   1   1   0 Deubiquitinase OTUD6B OS=Danio rerio OX=7955 GN=otud6b PE=4 SV=1
+tr|A0A0R4IGD3|A0A0R4IGD3_DANRE -          Ndc1_Nup             PF09531.7        4.7    7.2   5.8       2.8    8.0   2.3   2.3   2   1   0   2   2   2   0 SH3-domain GRB2-like (endophilin)-interacting protein 1a OS=Danio rerio OX=7955 GN=sgip1a PE=4 SV=2
+tr|A0A0R4IMP4|A0A0R4IMP4_DANRE -          Ndc1_Nup             PF09531.7        5.2    7.1  11.6       5.2    7.1  11.6   1.2   1   0   0   1   1   1   0 E1A-binding protein p400 (Fragment) OS=Danio rerio OX=7955 GN=ep400 PE=1 SV=1
+tr|B0UXH0|B0UXH0_DANRE         -          Ndc1_Nup             PF09531.7        5.3    7.1   5.7       6.5    6.8   5.7   1.1   1   0   0   1   1   1   0 Charged multivesicular body protein 2Ba OS=Danio rerio OX=7955 GN=chmp2ba PE=4 SV=1
+tr|E7FH60|E7FH60_DANRE         -          Ndc1_Nup             PF09531.7        5.8    6.9  15.3       6.2    6.8  15.3   1.2   1   0   0   1   1   1   0 Zmp:0000000624 OS=Danio rerio OX=7955 GN=zmp:0000000624 PE=1 SV=1
+tr|A0A0G2KGY0|A0A0G2KGY0_DANRE -          Ndc1_Nup             PF09531.7        5.9    6.9  12.1       5.8    6.9  12.1   1.2   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Danio rerio OX=7955 GN=rnps1 PE=1 SV=1
+sp|Q6PG31|RNPS1_DANRE          -          Ndc1_Nup             PF09531.7        7.6    6.5  12.4       7.3    6.6  12.4   1.2   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Danio rerio OX=7955 GN=rnps1 PE=2 SV=1
+tr|A0A0R4IT92|A0A0R4IT92_DANRE -          Ndc1_Nup             PF09531.7        8.1    6.4   5.3       9.4    6.2   5.3   1.1   1   0   0   1   1   1   0 Si:ch211-160f23.7 OS=Danio rerio OX=7955 GN=si:ch211-160f23.7 PE=4 SV=1
+tr|A0A2R8RHR4|A0A2R8RHR4_DANRE -          Ndc1_Nup             PF09531.7        8.2    6.4   5.0       2.7    8.0   0.0   2.0   2   0   0   2   2   2   0 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|A0A0R4ISI3|A0A0R4ISI3_DANRE -          Ndc1_Nup             PF09531.7        8.3    6.4   5.0       2.7    8.0   0.0   2.0   2   0   0   2   2   2   0 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|E7EZB6|E7EZB6_DANRE         -          Ndc1_Nup             PF09531.7        8.4    6.4   5.0       2.8    8.0   0.0   2.0   2   0   0   2   2   2   0 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:35 2022
+# [ok]

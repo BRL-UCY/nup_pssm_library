@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7Z3B4|NUP54_HUMAN          -          Nup54                PF13874.3    1.3e-34  121.3   0.0   1.8e-34  120.9   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin p54 OS=Homo sapiens OX=9606 GN=NUP54 PE=1 SV=2
+tr|F5H7P8|F5H7P8_HUMAN         -          Nup54                PF13874.3       0.52   12.4   2.6      0.64   12.1   2.6   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|F5H2Z7|F5H2Z7_HUMAN         -          Nup54                PF13874.3        0.8   11.8   2.8      0.92   11.6   2.8   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|I3L4Z5|I3L4Z5_HUMAN         -          Nup54                PF13874.3       0.81   11.8   0.0      0.83   11.7   0.0   1.0   1   0   0   1   1   1   0 Mixed lineage kinase domain-like protein (Fragment) OS=Homo sapiens OX=9606 GN=MLKL PE=1 SV=1
+tr|F5H285|F5H285_HUMAN         -          Nup54                PF13874.3          2   10.5   3.5       2.5   10.2   3.5   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC92 PE=1 SV=1
+tr|H0YD25|H0YD25_HUMAN         -          Nup54                PF13874.3        3.3    9.8   1.9       3.8    9.6   1.9   1.1   1   0   0   1   1   1   0 Tektin-2 (Fragment) OS=Homo sapiens OX=9606 GN=TEKT2 PE=1 SV=1
+sp|C9JCN9|HSBPL_HUMAN          -          Nup54                PF13874.3          6    8.9   0.8        11    8.1   0.7   1.5   1   1   0   1   1   1   0 Heat shock factor-binding protein 1-like protein 1 OS=Homo sapiens OX=9606 GN=HSBP1L1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:33:29 2022
+# [ok]

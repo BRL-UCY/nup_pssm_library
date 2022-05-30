@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|H7C3P6|H7C3P6_HUMAN         -          Nup96                PF12110.5    3.3e-89  300.9   4.3   4.4e-89  300.5   4.3   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+sp|P52948|NUP98_HUMAN          -          Nup96                PF12110.5    1.7e-88  298.6   4.3   2.1e-88  298.3   4.3   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=4
+tr|H0YDF4|H0YDF4_HUMAN         -          Nup96                PF12110.5    4.3e-48  165.9   1.4   5.2e-48  165.7   1.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|A0A3B3ITD8|A0A3B3ITD8_HUMAN -          Nup96                PF12110.5        6.2    7.9   0.0       8.4    7.4   0.0   1.1   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+sp|Q6ZMT9|DTHD1_HUMAN          -          Nup96                PF12110.5        8.2    7.5   0.0        12    6.9   0.0   1.2   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=2 SV=3
+tr|D6RB49|D6RB49_HUMAN         -          Nup96                PF12110.5        8.8    7.4   0.0        13    6.8   0.0   1.2   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=1 SV=1
+tr|A0A1W2PR94|A0A1W2PR94_HUMAN -          Nup96                PF12110.5        9.8    7.2   0.0        15    6.6   0.0   1.2   1   0   0   1   1   1   0 Death domain-containing protein 1 OS=Homo sapiens OX=9606 GN=DTHD1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:34:44 2022
+# [ok]

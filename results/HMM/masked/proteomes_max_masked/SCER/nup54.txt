@@ -1,0 +1,22 @@
+#                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name             accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#     ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P48837|NUP57_YEAST     -          Nup54                PF13874.3    5.8e-31  105.9   0.1   1.1e-30  105.1   0.1   1.4   1   0   0   1   1   1   1 Nucleoporin NUP57 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP57 PE=1 SV=1
+sp|P47037|SMC3_YEAST      -          Nup54                PF13874.3        1.8    7.2   0.4       6.4    5.3   0.4   1.9   1   0   0   1   1   1   0 Structural maintenance of chromosomes protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SMC3 PE=1 SV=1
+sp|P10834|PET54_YEAST     -          Nup54                PF13874.3        3.4    6.2   0.1       6.8    5.3   0.1   1.5   1   1   0   1   1   1   0 Protein PET54 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PET54 PE=1 SV=1
+sp|P54964|ORN_YEAST       -          Nup54                PF13874.3        4.1    6.0   0.0       8.2    5.0   0.0   1.4   1   0   0   1   1   1   0 Oligoribonuclease, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=REX2 PE=1 SV=1
+sp|Q06162|NKP2_YEAST      -          Nup54                PF13874.3        4.2    5.9   0.5       5.5    5.5   0.5   1.2   1   0   0   1   1   1   0 Inner kinetochore subunit NKP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NKP2 PE=1 SV=1
+sp|Q03213|HOT1_YEAST      -          Nup54                PF13874.3        6.8    5.3   0.5        11    4.6   0.5   1.2   1   0   0   1   1   1   0 High-osmolarity-induced transcription protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HOT1 PE=1 SV=1
+sp|P40987|CIN1_YEAST      -          Nup54                PF13874.3        6.9    5.2   0.0        34    3.0   0.0   2.1   2   0   0   2   2   2   0 Chromosome instability protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CIN1 PE=1 SV=1
+sp|Q08144|TLG2_YEAST      -          Nup54                PF13874.3        7.7    5.1   0.2        14    4.2   0.2   1.4   1   0   0   1   1   1   0 t-SNARE affecting a late Golgi compartment protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TLG2 PE=1 SV=1
+sp|Q04004|PLP1_YEAST      -          Nup54                PF13874.3        8.1    5.0   0.1        16    4.0   0.1   1.5   1   1   0   1   1   1   0 Phosducin-like protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PLP1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:39 2022
+# [ok]

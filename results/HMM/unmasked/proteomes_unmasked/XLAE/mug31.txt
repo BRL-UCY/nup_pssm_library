@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GZK3|A0A1L8GZK3_XENLA -          NPCC                 PF08058.8      0.012   17.0   0.0     0.025   15.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017894mg PE=1 SV=1
+tr|A0A1L8GTM5|A0A1L8GTM5_XENLA -          NPCC                 PF08058.8      0.061   14.7   0.0      0.13   13.6   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem209 PE=4 SV=1
+tr|A0A1L8FJF4|A0A1L8FJF4_XENLA -          NPCC                 PF08058.8       0.12   13.7   2.1      0.13   13.6   0.5   1.9   1   1   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180346821mg PE=3 SV=1
+tr|A0A1L8FEM0|A0A1L8FEM0_XENLA -          NPCC                 PF08058.8       0.17   13.2   1.2      0.43   11.9   0.3   2.3   1   1   1   2   2   2   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18036973mg PE=3 SV=1
+tr|A0A1L8HC62|A0A1L8HC62_XENLA -          NPCC                 PF08058.8        1.8    9.9   0.0       1.8    9.9   0.0   3.4   3   1   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=gpr89b PE=4 SV=1
+tr|A0A1L8FJA1|A0A1L8FJA1_XENLA -          NPCC                 PF08058.8        4.8    8.5   7.2       7.7    7.9   0.9   3.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034642mg PE=4 SV=1
+tr|A0A1L8FEJ6|A0A1L8FEJ6_XENLA -          NPCC                 PF08058.8        6.6    8.1   7.1         7    8.0   0.7   3.2   3   1   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=mfsd13a PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/mug31.txt --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:32 2022
+# [ok]

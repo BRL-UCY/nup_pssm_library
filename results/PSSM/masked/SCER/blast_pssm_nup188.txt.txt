@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q5SRE5|NU188_HUMAN Nucleoporin NUP188 homolog OS=Homo sapiens GN=NUP188 PE=1 SV=1
+# Database: DB_masked/SCER_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q5SRE5|NU188_HUMAN	sp|P52593|NU188_YEAST	6.19e-07	52.3	496	1073	503	1107
+sp|Q5SRE5|NU188_HUMAN	sp|P53261|PESC_YEAST	3.0	30.4	722	859	121	263
+sp|Q5SRE5|NU188_HUMAN	sp|Q08119|ESC8_YEAST	5.5	29.6	528	561	307	338
+sp|Q5SRE5|NU188_HUMAN	sp|Q04601|APC4_YEAST	6.7	29.2	662	730	242	307
+# BLAST processed 1 queries

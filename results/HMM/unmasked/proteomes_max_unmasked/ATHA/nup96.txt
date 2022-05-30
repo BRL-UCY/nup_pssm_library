@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8LLD0|NUP96_ARATH          -          Nup96                PF12110.5    2.9e-68  231.2   0.0     5e-68  230.5   0.0   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein NUP96 OS=Arabidopsis thaliana OX=3702 GN=NUP96 PE=1 SV=1
+tr|Q9FY95|Q9FY95_ARATH         -          Nup96                PF12110.5       0.61   10.3   0.1       1.3    9.2   0.1   1.5   1   0   0   1   1   1   0 Exocyst subunit Exo70 family protein OS=Arabidopsis thaliana OX=3702 GN=ATEXO70C1 PE=3 SV=1
+sp|Q94A09|TRM9_ARATH           -          Nup96                PF12110.5       0.64   10.2   0.0       1.1    9.4   0.0   1.4   1   0   0   1   1   1   0 tRNA (carboxymethyluridine(34)-5-O)-methyltransferase OS=Arabidopsis thaliana OX=3702 GN=TRM9 PE=1 SV=1
+tr|A0A1I9LMT6|A0A1I9LMT6_ARATH -          Nup96                PF12110.5       0.71   10.1   0.6       1.2    9.3   0.6   1.3   1   0   0   1   1   1   0 RNA binding (RRM/RBD/RNP motifs) family protein OS=Arabidopsis thaliana OX=3702 GN=At3g12640 PE=1 SV=1
+tr|Q9LTX1|Q9LTX1_ARATH         -          Nup96                PF12110.5       0.75   10.0   0.6       1.3    9.2   0.6   1.3   1   0   0   1   1   1   0 RNA binding (RRM/RBD/RNP motifs) family protein OS=Arabidopsis thaliana OX=3702 GN=At3g12640 PE=1 SV=1
+sp|Q8L7K4|HSCB_ARATH           -          Nup96                PF12110.5          2    8.6   0.8        11    6.2   0.0   2.0   1   1   1   2   2   2   0 Iron-sulfur cluster co-chaperone protein HscB homolog OS=Arabidopsis thaliana OX=3702 GN=HSCB PE=1 SV=1
+sp|Q9SHD0|ZAT4_ARATH           -          Nup96                PF12110.5        3.8    7.7   0.2       5.9    7.1   0.2   1.3   1   1   0   1   1   1   0 Zinc finger protein ZAT4 OS=Arabidopsis thaliana OX=3702 GN=ZAT4 PE=2 SV=1
+sp|Q9FNZ5|NIMI1_ARATH          -          Nup96                PF12110.5        4.8    7.3   0.5        15    5.7   0.1   1.7   2   0   0   2   2   2   0 Protein NIM1-INTERACTING 1 OS=Arabidopsis thaliana OX=3702 GN=NIMIN-1 PE=1 SV=1
+sp|O23712|PSA1B_ARATH          -          Nup96                PF12110.5        5.8    7.1   0.0        11    6.2   0.0   1.4   1   0   0   1   1   1   0 Proteasome subunit alpha type-1-B OS=Arabidopsis thaliana OX=3702 GN=PAF2 PE=1 SV=2
+tr|Q8S8A5|Q8S8A5_ARATH         -          Nup96                PF12110.5        5.9    7.0   0.4       9.6    6.4   0.4   1.4   1   0   0   1   1   1   0 Expressed protein OS=Arabidopsis thaliana OX=3702 GN=At2g14095 PE=4 SV=1
+sp|Q94JY4|BRK1_ARATH           -          Nup96                PF12110.5        5.9    7.0   0.0       5.3    7.2   0.0   1.1   1   0   0   1   1   1   0 Protein BRICK 1 OS=Arabidopsis thaliana OX=3702 GN=BRK1 PE=1 SV=1
+tr|Q9FG04|Q9FG04_ARATH         -          Nup96                PF12110.5        6.9    6.8   0.0       8.2    6.6   0.0   1.1   1   0   0   1   1   1   0 Calcium load-activated calcium channel OS=Arabidopsis thaliana OX=3702 GN=At5g06660 PE=1 SV=1
+tr|F4J3Q1|F4J3Q1_ARATH         -          Nup96                PF12110.5        7.1    6.8   0.0        15    5.7   0.0   1.6   1   0   0   1   1   1   0 Endoribonuclease OS=Arabidopsis thaliana OX=3702 GN=At3g04480 PE=4 SV=1
+sp|Q94AH6|CUL1_ARATH           -          Nup96                PF12110.5        7.3    6.8   0.2        24    5.0   0.0   1.9   2   0   0   2   2   2   0 Cullin-1 OS=Arabidopsis thaliana OX=3702 GN=CUL1 PE=1 SV=1
+tr|A0A1P8AUF5|A0A1P8AUF5_ARATH -          Nup96                PF12110.5        7.4    6.7   0.0       9.3    6.4   0.0   1.2   1   0   0   1   1   1   0 Histidine biosynthesis bifunctional protein (HISIE) OS=Arabidopsis thaliana OX=3702 GN=AT-IE PE=4 SV=1
+tr|F4HXG0|F4HXG0_ARATH         -          Nup96                PF12110.5        7.9    6.6   0.1        17    5.5   0.1   1.5   1   0   0   1   1   1   0 DNA ligase-like protein OS=Arabidopsis thaliana OX=3702 GN=At1g75150 PE=4 SV=2
+tr|A0A1P8ANP2|A0A1P8ANP2_ARATH -          Nup96                PF12110.5          8    6.6   0.1        17    5.5   0.1   1.5   1   0   0   1   1   1   0 DNA ligase-like protein OS=Arabidopsis thaliana OX=3702 GN=At1g75150 PE=4 SV=1
+tr|A0A1P8ANP5|A0A1P8ANP5_ARATH -          Nup96                PF12110.5          8    6.6   0.1        18    5.5   0.1   1.5   1   0   0   1   1   1   0 DNA ligase-like protein OS=Arabidopsis thaliana OX=3702 GN=At1g75150 PE=4 SV=1
+sp|O22901|BH151_ARATH          -          Nup96                PF12110.5        9.6    6.4   0.1        11    6.2   0.1   1.1   1   0   0   1   1   1   0 Transcription factor UPBEAT1 OS=Arabidopsis thaliana OX=3702 GN=UPB1 PE=2 SV=1
+tr|A0A1P8B0X8|A0A1P8B0X8_ARATH -          Nup96                PF12110.5         10    6.3   0.4        16    5.7   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At2g14095 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Mon Feb 21 23:40:02 2022
+# [ok]

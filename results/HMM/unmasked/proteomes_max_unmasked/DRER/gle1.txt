@@ -1,0 +1,68 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0S5C8|B0S5C8_DANRE         -          GLE1                 PF07817.10   1.1e-85  288.3   0.0   1.1e-85  288.3   0.0   2.0   2   0   0   2   2   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=1 SV=1
+tr|B0S5D2|B0S5D2_DANRE         -          GLE1                 PF07817.10   1.1e-85  288.2   0.0   1.1e-85  288.2   0.0   2.0   2   0   0   2   2   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=4 SV=1
+sp|Q6DRB1|GLE1_DANRE           -          GLE1                 PF07817.10   7.9e-84  282.2   0.0   7.9e-84  282.2   0.0   2.0   2   0   0   2   2   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=2 SV=2
+sp|Q2TLY1|MACO2_DANRE          -          GLE1                 PF07817.10     0.076   13.6  10.1       1.4    9.4   0.1   2.6   2   0   0   2   2   2   0 Macoilin-2 OS=Danio rerio OX=7955 GN=maco1b PE=2 SV=1
+tr|X1WDT9|X1WDT9_DANRE         -          GLE1                 PF07817.10      0.11   13.1   2.4       5.2    7.6   0.9   2.8   2   0   0   2   2   2   0 Bicaudal D homolog 2 (Drosophila) OS=Danio rerio OX=7955 GN=bicd2 PE=1 SV=3
+tr|E7F5A6|E7F5A6_DANRE         -          GLE1                 PF07817.10      0.12   13.0   2.4       5.7    7.4   0.9   2.9   2   0   0   2   2   2   0 Bicaudal D homolog 2 (Drosophila) OS=Danio rerio OX=7955 GN=bicd2 PE=1 SV=2
+tr|Q567I0|Q567I0_DANRE         -          GLE1                 PF07817.10      0.35   11.4   0.5      0.47   11.0   0.5   1.3   1   0   0   1   1   1   0 Unc-45 homolog A (C. elegans) OS=Danio rerio OX=7955 GN=unc45a PE=1 SV=1
+tr|A0A0R4IU52|A0A0R4IU52_DANRE -          GLE1                 PF07817.10      0.36   11.4   0.4      0.49   11.0   0.4   1.2   1   0   0   1   1   1   0 Unc-45 myosin chaperone A OS=Danio rerio OX=7955 GN=unc45a PE=1 SV=1
+tr|A0A2R8RWM8|A0A2R8RWM8_DANRE -          GLE1                 PF07817.10      0.78   10.3   1.0       9.5    6.7   0.3   3.0   2   0   0   2   2   2   0 VLIG-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F1QES2|F1QES2_DANRE         -          GLE1                 PF07817.10      0.79   10.3   0.7      0.94   10.0   0.7   1.2   1   0   0   1   1   1   0 Tripartite motif-containing 35-28 (Fragment) OS=Danio rerio OX=7955 GN=trim35-28 PE=1 SV=1
+tr|A0A2R8QGW5|A0A2R8QGW5_DANRE -          GLE1                 PF07817.10      0.92   10.1   3.6       1.7    9.2   3.4   1.6   1   1   0   1   1   1   0 Tripartite motif-containing 35-7 OS=Danio rerio OX=7955 GN=trim35-7 PE=4 SV=1
+tr|A0A2R8QK87|A0A2R8QK87_DANRE -          GLE1                 PF07817.10      0.93   10.0   1.0        10    6.6   0.3   2.9   2   0   0   2   2   2   0 VLIG-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A2R8RPE9|A0A2R8RPE9_DANRE -          GLE1                 PF07817.10      0.96   10.0   0.3        15    6.1   0.1   2.9   2   0   0   2   2   2   0 VLIG-type G domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|X1WGM6|X1WGM6_DANRE         -          GLE1                 PF07817.10      0.97   10.0   1.0       1.9    9.0   1.0   1.4   1   0   0   1   1   1   0 Ankyrin repeat domain 6a OS=Danio rerio OX=7955 GN=ankrd6a PE=4 SV=1
+tr|A0A2R8QR54|A0A2R8QR54_DANRE -          GLE1                 PF07817.10      0.97   10.0   0.0       1.3    9.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A2R8QMZ2|A0A2R8QMZ2_DANRE -          GLE1                 PF07817.10         1    9.9   3.3       1.5    9.3   3.3   1.3   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 14 OS=Danio rerio OX=7955 GN=pex14 PE=1 SV=1
+tr|F1QH90|F1QH90_DANRE         -          GLE1                 PF07817.10         1    9.9   0.0         2    9.0   0.0   1.4   1   0   0   1   1   1   0 Otoconin 90 OS=Danio rerio OX=7955 GN=oc90 PE=3 SV=1
+tr|F1QU23|F1QU23_DANRE         -          GLE1                 PF07817.10       1.2    9.7   0.3       4.2    7.9   0.3   1.9   2   0   0   2   2   1   0 Unc-45 myosin chaperone A OS=Danio rerio OX=7955 GN=unc45a PE=1 SV=1
+tr|F1QX98|F1QX98_DANRE         -          GLE1                 PF07817.10       1.2    9.7   3.3       1.9    9.0   3.3   1.3   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 14 (Fragment) OS=Danio rerio OX=7955 GN=pex14 PE=1 SV=1
+tr|A4FUN5|A4FUN5_DANRE         -          GLE1                 PF07817.10       1.4    9.5   0.0       2.2    8.8   0.0   1.3   1   0   0   1   1   1   0 ISY1-splicing factor homolog OS=Danio rerio OX=7955 GN=isy1 PE=1 SV=1
+tr|A5PM73|A5PM73_DANRE         -          GLE1                 PF07817.10       1.5    9.4   0.3       2.4    8.7   0.3   1.3   1   0   0   1   1   1   0 Novel protein similar to vertebrate endonuclease domain containing 1 (ENDOD1) OS=Danio rerio OX=7955 GN=si:ch211-165i18.2 PE=4 SV=1
+tr|F1QWI8|F1QWI8_DANRE         -          GLE1                 PF07817.10       1.9    9.0   2.8       3.3    8.2   2.8   1.4   1   0   0   1   1   1   0 Tripartite motif-containing 35-7 OS=Danio rerio OX=7955 GN=trim35-7 PE=4 SV=3
+tr|A0A2R8PZJ4|A0A2R8PZJ4_DANRE -          GLE1                 PF07817.10         2    8.9   0.0       4.3    7.9   0.0   1.5   1   0   0   1   1   1   0 Otoconin 90 OS=Danio rerio OX=7955 GN=oc90 PE=3 SV=1
+tr|Q5SPA6|Q5SPA6_DANRE         -          GLE1                 PF07817.10         2    8.9   3.1       2.6    8.6   3.1   1.2   1   0   0   1   1   1   0 Pre-mRNA-splicing regulator WTAP OS=Danio rerio OX=7955 GN=wtap PE=1 SV=1
+tr|F1R7D2|F1R7D2_DANRE         -          GLE1                 PF07817.10       2.1    8.9   3.3       3.1    8.3   2.8   1.4   1   1   0   1   1   1   0 Tripartite motif-containing 35-33 OS=Danio rerio OX=7955 GN=trim35-33 PE=4 SV=2
+tr|Q499B2|Q499B2_DANRE         -          GLE1                 PF07817.10       2.7    8.5   0.1       3.6    8.1   0.1   1.1   1   0   0   1   1   1   0 Signal peptidase complex subunit 1 OS=Danio rerio OX=7955 GN=spcs1 PE=1 SV=1
+tr|K7DYH3|K7DYH3_DANRE         -          GLE1                 PF07817.10       2.8    8.5   2.5       4.6    7.8   2.5   1.3   1   0   0   1   1   1   0 Si:dkeyp-52c3.2 OS=Danio rerio OX=7955 GN=si:dkeyp-52c3.2 PE=4 SV=2
+tr|E7F8V9|E7F8V9_DANRE         -          GLE1                 PF07817.10       2.9    8.4   0.2       7.5    7.1   0.1   1.8   2   0   0   2   2   2   0 Spectrin, beta, non-erythrocytic 4b OS=Danio rerio OX=7955 GN=sptbn4b PE=4 SV=3
+tr|B3DJI0|B3DJI0_DANRE         -          GLE1                 PF07817.10       2.9    8.4   0.8        14    6.1   0.0   2.4   2   1   0   2   2   2   0 Daam1l protein OS=Danio rerio OX=7955 GN=daam1b PE=1 SV=1
+tr|Q5RHJ3|Q5RHJ3_DANRE         -          GLE1                 PF07817.10         3    8.4   0.8        14    6.1   0.0   2.4   2   1   0   2   2   2   0 Dishevelled-associated activator of morphogenesis 1b OS=Danio rerio OX=7955 GN=daam1b PE=1 SV=1
+tr|Q4V924|Q4V924_DANRE         -          GLE1                 PF07817.10       3.2    8.3   0.5       4.4    7.8   0.5   1.2   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 3 OS=Danio rerio OX=7955 GN=zgc:55413 PE=1 SV=1
+tr|F1QJY4|F1QJY4_DANRE         -          GLE1                 PF07817.10       3.2    8.3   0.6       5.1    7.6   0.6   1.3   1   0   0   1   1   1   0 Tripartite motif-containing 35-28 OS=Danio rerio OX=7955 GN=trim35-28 PE=1 SV=1
+tr|X1WEF5|X1WEF5_DANRE         -          GLE1                 PF07817.10       3.3    8.2   2.9       4.7    7.7   2.1   1.6   1   1   1   2   2   2   0 Tripartite motif-containing 35-13 (Fragment) OS=Danio rerio OX=7955 GN=trim35-13 PE=4 SV=3
+sp|Q6DRJ7|NDC80_DANRE          -          GLE1                 PF07817.10       4.8    7.7   5.2       8.9    6.8   4.5   1.8   1   1   0   1   1   1   0 Kinetochore protein NDC80 homolog OS=Danio rerio OX=7955 GN=ndc80 PE=2 SV=1
+tr|A0A2R8Q5I6|A0A2R8Q5I6_DANRE -          GLE1                 PF07817.10       4.9    7.7   4.3       7.8    7.0   4.3   1.4   1   0   0   1   1   1   0 Si:ch211-12p12.2 OS=Danio rerio OX=7955 GN=si:ch211-12p12.2 PE=4 SV=1
+sp|Q5PNP6|MEI4_DANRE           -          GLE1                 PF07817.10       4.9    7.7   0.0        44    4.6   0.0   2.1   2   0   0   2   2   2   0 Meiosis-specific protein MEI4 OS=Danio rerio OX=7955 GN=mei4 PE=2 SV=1
+tr|E9QJG3|E9QJG3_DANRE         -          GLE1                 PF07817.10       4.9    7.7   0.1       5.5    7.5   0.1   1.2   1   0   0   1   1   1   0 Si:dkey-7f3.14 OS=Danio rerio OX=7955 GN=si:dkey-7f3.14 PE=4 SV=1
+tr|A0A286Y9R6|A0A286Y9R6_DANRE -          GLE1                 PF07817.10       5.1    7.6   0.0        44    4.5   0.0   2.1   2   0   0   2   2   2   0 Meiosis-specific protein MEI4 OS=Danio rerio OX=7955 GN=mei4 PE=4 SV=1
+tr|A0A2R8PVB4|A0A2R8PVB4_DANRE -          GLE1                 PF07817.10       5.2    7.6   1.2        12    6.4   1.2   1.5   1   0   0   1   1   1   0 Zinc finger, MYND-type-containing 11 OS=Danio rerio OX=7955 GN=zmynd11 PE=1 SV=1
+tr|Q1LY29|Q1LY29_DANRE         -          GLE1                 PF07817.10       5.3    7.6   0.0       8.4    6.9   0.0   1.3   1   0   0   1   1   1   0 Heat shock cognate 71 kDa protein (Fragment) OS=Danio rerio OX=7955 GN=hspa8 PE=1 SV=1
+tr|A0A2R8QFJ1|A0A2R8QFJ1_DANRE -          GLE1                 PF07817.10       5.3    7.6   1.2        12    6.4   1.2   1.5   1   0   0   1   1   1   0 Zinc finger, MYND-type-containing 11 OS=Danio rerio OX=7955 GN=zmynd11 PE=1 SV=1
+tr|F1R4W7|F1R4W7_DANRE         -          GLE1                 PF07817.10       5.4    7.5   1.2        12    6.4   1.2   1.5   1   0   0   1   1   1   0 Zinc finger, MYND-type-containing 11 OS=Danio rerio OX=7955 GN=zmynd11 PE=1 SV=1
+tr|E9QJJ9|E9QJJ9_DANRE         -          GLE1                 PF07817.10       5.4    7.5   3.3        11    6.6   3.3   1.4   1   1   0   1   1   1   0 PHD finger protein 21Ab (Fragment) OS=Danio rerio OX=7955 GN=phf21ab PE=4 SV=1
+tr|A0A1D5NSF5|A0A1D5NSF5_DANRE -          GLE1                 PF07817.10       5.9    7.4   0.0        18    5.8   0.0   1.8   1   0   0   1   1   1   0 Component of oligomeric golgi complex 1 (Fragment) OS=Danio rerio OX=7955 GN=cog1 PE=1 SV=1
+tr|A0A2R8RI53|A0A2R8RI53_DANRE -          GLE1                 PF07817.10       6.3    7.3   0.0       8.6    6.9   0.0   1.2   1   0   0   1   1   1   0 GULP PTB domain-containing engulfment adaptor 1b OS=Danio rerio OX=7955 GN=gulp1b PE=4 SV=1
+tr|E7EZE7|E7EZE7_DANRE         -          GLE1                 PF07817.10       6.4    7.3   0.9        11    6.6   0.9   1.3   1   0   0   1   1   1   0 Ras association domain family member 8a OS=Danio rerio OX=7955 GN=rassf8a PE=4 SV=1
+tr|A0A0R4IG59|A0A0R4IG59_DANRE -          GLE1                 PF07817.10       6.5    7.3   1.1         8    7.0   0.1   1.6   2   0   0   2   2   2   0 BCL2-interacting protein 1b OS=Danio rerio OX=7955 GN=bnip1b PE=4 SV=1
+tr|Q1L8T4|Q1L8T4_DANRE         -          GLE1                 PF07817.10       7.2    7.1   3.5        13    6.2   3.5   1.5   1   0   0   1   1   1   0 Tuftelin 1b OS=Danio rerio OX=7955 GN=tuft1b PE=4 SV=1
+sp|Q4VBT2|NOC4L_DANRE          -          GLE1                 PF07817.10       8.3    6.9   0.3        18    5.9   0.3   1.5   1   0   0   1   1   1   0 Nucleolar complex protein 4 homolog OS=Danio rerio OX=7955 GN=noc4l PE=2 SV=1
+tr|Q6NYE1|Q6NYE1_DANRE         -          GLE1                 PF07817.10       8.3    6.9   0.6        11    6.5   0.1   1.5   2   0   0   2   2   1   0 Fibrinogen beta chain OS=Danio rerio OX=7955 GN=fgb PE=1 SV=1
+tr|A0A0R4IJU4|A0A0R4IJU4_DANRE -          GLE1                 PF07817.10       8.8    6.8   0.6        12    6.4   0.6   1.3   1   0   0   1   1   1   0 Microtubule-associated tumor suppressor 1b (Fragment) OS=Danio rerio OX=7955 GN=mtus1b PE=4 SV=1
+tr|A0A0R4IRZ3|A0A0R4IRZ3_DANRE -          GLE1                 PF07817.10         9    6.8   0.0        12    6.4   0.0   1.1   1   0   0   1   1   1   0 FYVE and coiled-coil domain-containing 1a (Fragment) OS=Danio rerio OX=7955 GN=fyco1a PE=4 SV=1
+tr|E7FG11|E7FG11_DANRE         -          GLE1                 PF07817.10       9.1    6.8   0.1        13    6.2   0.1   1.2   1   0   0   1   1   1   0 GULP PTB domain-containing engulfment adaptor 1b OS=Danio rerio OX=7955 GN=gulp1b PE=4 SV=1
+tr|A0A0R4IXT6|A0A0R4IXT6_DANRE -          GLE1                 PF07817.10       9.4    6.7   0.0        29    5.1   0.0   1.8   1   0   0   1   1   1   0 Component of oligomeric golgi complex 1 OS=Danio rerio OX=7955 GN=cog1 PE=1 SV=2
+tr|A0A0R4IMF8|A0A0R4IMF8_DANRE -          GLE1                 PF07817.10       9.7    6.7   0.2        51    4.3   0.0   2.1   2   0   0   2   2   2   0 Heat shock cognate 71 kDa protein OS=Danio rerio OX=7955 GN=hspa8 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes/DRER/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 02:26:38 2022
+# [ok]

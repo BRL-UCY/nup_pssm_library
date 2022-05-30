@@ -1,0 +1,13 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9W1X4|NU214_DROME Nuclear pore complex protein Nup214 OS=Drosophila melanogaster GN=Nup214 PE=1 SV=2
+# Database: DB_masked/PFAL_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 6 hits found
+sp|Q9W1X4|NU214_DROME	tr|Q8IL08|Q8IL08_PLAF7	1.75e-10	64.9	1432	1663	1319	1570
+sp|Q9W1X4|NU214_DROME	tr|Q8I238|Q8I238_PLAF7	4.37e-04	43.3	106	205	225	320
+sp|Q9W1X4|NU214_DROME	tr|Q8IJJ9|Q8IJJ9_PLAF7	0.003	40.6	138	202	661	726
+sp|Q9W1X4|NU214_DROME	tr|Q8I3T1|Q8I3T1_PLAF7	0.040	37.1	56	196	431	565
+sp|Q9W1X4|NU214_DROME	tr|Q8I5B3|Q8I5B3_PLAF7	0.053	36.7	132	208	239	320
+sp|Q9W1X4|NU214_DROME	tr|Q8IKZ5|Q8IKZ5_PLAF7	1.2	32.1	178	210	848	880
+# BLAST processed 1 queries

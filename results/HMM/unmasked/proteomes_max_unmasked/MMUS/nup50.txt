@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9JIH2|NUP50_MOUSE          -          NUP50                PF08911.8    1.5e-18   68.8   4.0   1.5e-18   68.8   4.0   3.8   4   1   0   4   4   4   1 Nuclear pore complex protein Nup50 OS=Mus musculus OX=10090 GN=Nup50 PE=1 SV=3
+tr|Q3V2K7|Q3V2K7_MOUSE         -          NUP50                PF08911.8    1.7e-11   46.1   3.0   1.7e-11   46.1   3.0   2.9   3   0   0   3   3   2   1 RIKEN cDNA 1700123L14 gene OS=Mus musculus OX=10090 GN=1700123L14Rik PE=1 SV=1
+tr|E9Q663|E9Q663_MOUSE         -          NUP50                PF08911.8          1   11.6   2.4       1.2   11.4   2.4   1.2   1   0   0   1   1   1   0 tRNA methyltransferase 10 homolog A (Fragment) OS=Mus musculus OX=10090 GN=Trmt10a PE=1 SV=8
+tr|H3BLG4|H3BLG4_MOUSE         -          NUP50                PF08911.8        1.6   11.0   0.3       3.5    9.9   0.1   1.7   1   1   1   2   2   2   0 LIM/homeobox protein Lhx6 (Fragment) OS=Mus musculus OX=10090 GN=Lhx6 PE=4 SV=2
+sp|Q9JJ80|RPF2_MOUSE           -          NUP50                PF08911.8        3.1   10.0   1.3       5.6    9.2   0.7   1.8   1   1   0   1   1   1   0 Ribosome production factor 2 homolog OS=Mus musculus OX=10090 GN=Rpf2 PE=2 SV=2
+tr|G3X926|G3X926_MOUSE         -          NUP50                PF08911.8        4.3    9.6   1.8       6.8    8.9   1.3   1.6   1   1   1   2   2   2   0 MCG1407, isoform CRA_a OS=Mus musculus OX=10090 GN=Rpf2 PE=1 SV=1
+tr|E9QN32|E9QN32_MOUSE         -          NUP50                PF08911.8        5.6    9.2   0.1        15    7.9   0.1   1.7   1   1   0   1   1   1   0 LIM/homeobox protein Lhx6 OS=Mus musculus OX=10090 GN=Lhx6 PE=4 SV=1
+sp|Q9R1R0|LHX6_MOUSE           -          NUP50                PF08911.8        5.6    9.2   0.1        13    8.0   0.1   1.7   1   1   0   1   1   1   0 LIM/homeobox protein Lhx6 OS=Mus musculus OX=10090 GN=Lhx6 PE=1 SV=2
+sp|Q9CZ44|NSF1C_MOUSE          -          NUP50                PF08911.8        5.7    9.2   1.9        14    7.9   0.1   2.5   3   0   0   3   3   2   0 NSFL1 cofactor p47 OS=Mus musculus OX=10090 GN=Nsfl1c PE=1 SV=1
+tr|H9H9T0|H9H9T0_MOUSE         -          NUP50                PF08911.8        6.1    9.1   0.1        15    7.9   0.1   1.7   1   1   0   1   1   1   0 LIM/homeobox protein Lhx6 OS=Mus musculus OX=10090 GN=Lhx6 PE=4 SV=1
+tr|A0A1Y7VLB8|A0A1Y7VLB8_MOUSE -          NUP50                PF08911.8          7    8.9   2.5        50    6.2   0.2   2.3   2   0   0   2   2   2   0 Fanconi anemia group M protein homolog (Fragment) OS=Mus musculus OX=10090 GN=Fancm PE=1 SV=1
+tr|A7DTG9|A7DTG9_MOUSE         -          NUP50                PF08911.8        7.1    8.9   0.0       8.4    8.7   0.0   1.1   1   0   0   1   1   1   0 Glutathione hydrolase 6 OS=Mus musculus OX=10090 GN=Ggt6 PE=4 SV=1
+tr|D6RG56|D6RG56_MOUSE         -          NUP50                PF08911.8        7.7    8.8   0.3        30    6.9   0.3   2.0   1   0   0   1   1   1   0 Lysine-specific demethylase 9 (Fragment) OS=Mus musculus OX=10090 GN=Rsbn1 PE=1 SV=2
+tr|J3QPM7|J3QPM7_MOUSE         -          NUP50                PF08911.8        8.4    8.7   0.2        14    7.9   0.2   1.4   1   1   0   1   1   1   0 Predicted gene, 21915 OS=Mus musculus OX=10090 GN=Gm21915 PE=4 SV=1
+tr|Q3TJN5|Q3TJN5_MOUSE         -          NUP50                PF08911.8        9.6    8.5   0.3        27    7.0   0.3   1.8   1   0   0   1   1   1   0 DNA ligase 3 OS=Mus musculus OX=10090 GN=Lig3 PE=1 SV=1
+tr|A2A6Q3|A2A6Q3_MOUSE         -          NUP50                PF08911.8        9.8    8.4   1.3        18    7.6   1.3   1.7   1   1   0   1   1   1   0 Cdc42 effector protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Cdc42ep4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 05:29:02 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GQN1|A0A1L8GQN1_XENLA -          Nup192               PF11894.5   4.6e-278  927.1   0.9  5.7e-278  926.8   0.9   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019805mg PE=1 SV=1
+tr|A0A310U2L0|A0A310U2L0_XENLA -          Nup192               PF11894.5      7e-13   48.1   0.0   7.8e-13   47.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002032mg PE=4 SV=1
+tr|A0A1L8F1N1|A0A1L8F1N1_XENLA -          Nup192               PF11894.5      0.083   11.4   1.2      0.73    8.2   0.3   2.6   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup188 PE=1 SV=1
+tr|A0A1L8G2L3|A0A1L8G2L3_XENLA -          Nup192               PF11894.5        2.5    6.5   0.0       3.3    6.1   0.0   1.0   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F3_4 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029235mg PE=3 SV=1
+tr|A0A1L8F643|A0A1L8F643_XENLA -          Nup192               PF11894.5        4.7    5.6   0.2        10    4.4   0.3   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=psmd5 PE=1 SV=1
+tr|A0A1L8G8H3|A0A1L8G8H3_XENLA -          Nup192               PF11894.5        6.9    5.0   0.2        10    4.5   0.2   1.1   1   0   0   1   1   1   0 SpoU_methylase domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026910mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:41:27 2022
+# [ok]

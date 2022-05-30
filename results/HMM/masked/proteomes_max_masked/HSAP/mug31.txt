@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C9JYX1|C9JYX1_HUMAN         -          NPCC                 PF08058.8       0.52   12.4   0.0      0.71   11.9   0.0   1.2   1   0   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=8
+sp|Q96SK2|TM209_HUMAN          -          NPCC                 PF08058.8        3.2    9.8   0.0       6.3    8.9   0.0   1.4   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:33:20 2022
+# [ok]

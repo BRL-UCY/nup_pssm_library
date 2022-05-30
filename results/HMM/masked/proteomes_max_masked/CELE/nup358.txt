@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21021|Q21021_CAEEL         -          Ran_BP1              PF00638.15   2.5e-47  160.7   0.0   8.5e-28   97.7   0.0   2.1   2   0   0   2   2   2   2 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-9 PE=1 SV=2
+tr|Q86G90|Q86G90_CAEEL         -          Ran_BP1              PF00638.15   8.9e-43  146.0   0.1   1.8e-16   61.1   0.0   3.1   3   0   0   3   3   3   3 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-9 PE=1 SV=1
+tr|Q21961|Q21961_CAEEL         -          Ran_BP1              PF00638.15   1.1e-07   32.7   0.1   1.7e-07   32.1   0.1   1.2   1   0   0   1   1   1   1 Associated with RAN (Nuclear import/export) function OS=Caenorhabditis elegans OX=6239 GN=ran-5 PE=1 SV=1
+tr|Q7K6X4|Q7K6X4_CAEEL         -          Ran_BP1              PF00638.15     0.038   14.8   0.0     0.069   14.0   0.0   1.3   1   0   0   1   1   1   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-16 PE=1 SV=1
+tr|Q20974|Q20974_CAEEL         -          Ran_BP1              PF00638.15      0.49   11.2   0.0       0.9   10.4   0.0   1.4   1   0   0   1   1   1   0 CHK domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F58B4.5 PE=1 SV=1
+sp|Q95QN6|BRAP2_CAEEL          -          Ran_BP1              PF00638.15       4.1    8.3   0.0       7.7    7.4   0.0   1.4   1   0   0   1   1   1   0 BRCA1-associated protein homolog 2 OS=Caenorhabditis elegans OX=6239 GN=brap-2 PE=4 SV=1
+tr|O17275|O17275_CAEEL         -          Ran_BP1              PF00638.15         9    7.2   0.0        14    6.5   0.0   1.2   1   0   0   1   1   1   0 SLC (SoLute Carrier) homolog OS=Caenorhabditis elegans OX=6239 GN=slc-36.2 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:01:21 2022
+# [ok]

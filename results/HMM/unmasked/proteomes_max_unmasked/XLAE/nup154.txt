@@ -1,0 +1,61 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7ZWL0|Q7ZWL0_XENLA         -          Nucleoporin_C        PF03177.11     9e-22   78.9   8.4     9e-22   78.9   8.4   1.5   2   0   0   2   2   2   1 Nup155-prov protein OS=Xenopus laevis OX=8355 GN=nup155 PE=1 SV=1
+tr|A0A1L8GS04|A0A1L8GS04_XENLA -          Nucleoporin_C        PF03177.11     1e-21   78.7  21.0   2.9e-20   73.9  20.1   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020310mg PE=1 SV=1
+tr|A0A1L8H1I9|A0A1L8H1I9_XENLA -          Nucleoporin_C        PF03177.11   2.7e-18   67.4  19.2   4.7e-17   63.3  19.1   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018579mg PE=1 SV=1
+tr|A0A1L8FXD8|A0A1L8FXD8_XENLA -          Nucleoporin_C        PF03177.11     0.042   13.9   0.2     0.067   13.2   0.2   1.3   1   0   0   1   1   1   0 DHC_N2 domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180314426mg PE=4 SV=1
+tr|A0A1L8F325|A0A1L8F325_XENLA -          Nucleoporin_C        PF03177.11     0.079   13.0   0.1      0.15   12.1   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18042255mg PE=1 SV=1
+tr|A0A1L8HC24|A0A1L8HC24_XENLA -          Nucleoporin_C        PF03177.11      0.21   11.6   0.0       1.1    9.2   0.0   2.3   2   2   0   2   2   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ccdc191 PE=4 SV=1
+tr|A0A1L8F153|A0A1L8F153_XENLA -          Nucleoporin_C        PF03177.11      0.26   11.3   0.3      0.29   11.1   0.3   1.1   1   0   0   1   1   1   0 Olfactomedin-like domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18041552mg PE=4 SV=1
+tr|A0A1L8F647|A0A1L8F647_XENLA -          Nucleoporin_C        PF03177.11      0.27   11.2   0.2       0.3   11.1   0.2   1.1   1   0   0   1   1   1   0 Olfactomedin-like domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18038327mg PE=4 SV=1
+tr|A0A1L8HBP8|A0A1L8HBP8_XENLA -          Nucleoporin_C        PF03177.11       0.4   10.7   0.3   1.2e+02    2.5   0.0   2.9   2   1   1   3   3   3   0 Ig-like domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011202mg PE=4 SV=1
+tr|A0A1L8FVT7|A0A1L8FVT7_XENLA -          Nucleoporin_C        PF03177.11      0.54   10.2   0.7       1.2    9.1   0.7   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030865mg PE=1 SV=1
+tr|A0A1L8H9S9|A0A1L8H9S9_XENLA -          Nucleoporin_C        PF03177.11      0.71    9.8   1.5        18    5.2   0.1   2.8   3   0   0   3   3   3   0 TTF-type domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015924mg PE=4 SV=1
+tr|A0A1L8FS30|A0A1L8FS30_XENLA -          Nucleoporin_C        PF03177.11      0.89    9.5   0.0       1.3    8.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=lpcat1 PE=4 SV=1
+tr|A0A1L8GNL1|A0A1L8GNL1_XENLA -          Nucleoporin_C        PF03177.11       1.1    9.3   0.3       1.2    9.1   0.3   1.1   1   0   0   1   1   1   0 RGS domain-containing protein OS=Xenopus laevis OX=8355 GN=rgs13 PE=4 SV=1
+tr|A0A1L8HSX6|A0A1L8HSX6_XENLA -          Nucleoporin_C        PF03177.11       2.1    8.3   0.0       3.2    7.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=thnsl2 PE=1 SV=1
+tr|Q6DFC1|Q6DFC1_XENLA         -          Nucleoporin_C        PF03177.11       2.5    8.0   1.7         3    7.8   1.7   1.2   1   0   0   1   1   1   0 Bcap29-prov protein OS=Xenopus laevis OX=8355 GN=bcap29 PE=1 SV=1
+tr|A0A1L8GLU5|A0A1L8GLU5_XENLA -          Nucleoporin_C        PF03177.11       2.5    8.0   0.1       4.6    7.2   0.1   1.4   1   0   0   1   1   1   0 Phosphodiesterase OS=Xenopus laevis OX=8355 GN=XELAEV_18022979mg PE=3 SV=1
+tr|A9ULX5|A9ULX5_XENLA         -          Nucleoporin_C        PF03177.11       2.8    7.9   1.1       3.5    7.6   1.1   1.2   1   0   0   1   1   1   0 LOC100137640 protein OS=Xenopus laevis OX=8355 GN=cenpp PE=1 SV=1
+tr|A0A1L8GC97|A0A1L8GC97_XENLA -          Nucleoporin_C        PF03177.11       2.9    7.8   1.8       3.8    7.4   1.2   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18028392mg PE=4 SV=1
+tr|A1A641|A1A641_XENLA         -          Nucleoporin_C        PF03177.11       2.9    7.8   0.2       3.1    7.7   0.2   1.2   1   0   0   1   1   1   0 Ferritin OS=Xenopus laevis OX=8355 GN=LOC100036823 PE=2 SV=1
+tr|A0A1L8FZC7|A0A1L8FZC7_XENLA -          Nucleoporin_C        PF03177.11       2.9    7.8   3.7        10    6.0   3.7   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=chmp4c PE=4 SV=1
+tr|A0A1L8GP36|A0A1L8GP36_XENLA -          Nucleoporin_C        PF03177.11       3.1    7.7   0.8       3.9    7.4   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cenpp PE=1 SV=1
+tr|A1A635|A1A635_XENLA         -          Nucleoporin_C        PF03177.11       3.2    7.7   0.2       3.4    7.6   0.2   1.2   1   0   0   1   1   1   0 Ferritin OS=Xenopus laevis OX=8355 GN=LOC100036818 PE=2 SV=1
+tr|A0A1L8FH83|A0A1L8FH83_XENLA -          Nucleoporin_C        PF03177.11       3.4    7.6   0.2       3.6    7.5   0.2   1.2   1   0   0   1   1   1   0 Ferritin OS=Xenopus laevis OX=8355 GN=XELAEV_18037839mg PE=3 SV=1
+tr|A0A1L8GU26|A0A1L8GU26_XENLA -          Nucleoporin_C        PF03177.11         4    7.4   1.6       4.5    7.2   1.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=bcap29 PE=4 SV=1
+tr|A0A1L8HJG0|A0A1L8HJG0_XENLA -          Nucleoporin_C        PF03177.11       4.1    7.3   3.3        10    6.0   3.3   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013881mg PE=4 SV=1
+tr|A0A1L8I1J3|A0A1L8I1J3_XENLA -          Nucleoporin_C        PF03177.11       4.1    7.3   0.3       4.7    7.1   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tnfaip8 PE=4 SV=1
+tr|A0A1L8G7Z4|A0A1L8G7Z4_XENLA -          Nucleoporin_C        PF03177.11       4.3    7.3   0.2       7.7    6.4   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026789mg PE=1 SV=1
+tr|A0A1L8HR06|A0A1L8HR06_XENLA -          Nucleoporin_C        PF03177.11       4.5    7.2   0.3       5.3    7.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tnfaip8 PE=4 SV=1
+tr|A0A1L8GEZ3|A0A1L8GEZ3_XENLA -          Nucleoporin_C        PF03177.11       5.2    7.0   0.1       7.6    6.4   0.1   1.1   1   0   0   1   1   1   0 AAA domain-containing protein OS=Xenopus laevis OX=8355 GN=afg3l1p PE=3 SV=1
+tr|Q2VPG7|Q2VPG7_XENLA         -          Nucleoporin_C        PF03177.11       5.3    7.0   1.1        20    5.0   1.1   1.9   1   1   0   1   1   1   0 MGC132185 protein OS=Xenopus laevis OX=8355 GN=napg PE=1 SV=1
+tr|A0A310U4K0|A0A310U4K0_XENLA -          Nucleoporin_C        PF03177.11       5.6    6.9   0.1       8.1    6.3   0.1   1.1   1   0   0   1   1   1   0 AAA domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18004721mg PE=3 SV=1
+tr|A0A1L8HKW8|A0A1L8HKW8_XENLA -          Nucleoporin_C        PF03177.11       5.7    6.9   0.5        12    5.8   0.5   1.5   1   0   0   1   1   1   0 HTH psq-type domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008959mg PE=4 SV=1
+tr|A0A310U376|A0A310U376_XENLA -          Nucleoporin_C        PF03177.11         6    6.8   0.0       6.4    6.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18001672mg PE=4 SV=1
+tr|A0A1L8HPW9|A0A1L8HPW9_XENLA -          Nucleoporin_C        PF03177.11       6.4    6.7   0.9        13    5.6   0.9   1.4   1   0   0   1   1   1   0 CW-type domain-containing protein OS=Xenopus laevis OX=8355 GN=morc2 PE=4 SV=1
+tr|A0A1L8GMB4|A0A1L8GMB4_XENLA -          Nucleoporin_C        PF03177.11       6.5    6.7   0.2       6.9    6.6   0.2   1.0   1   0   0   1   1   1   0 Cytochrome b-c1 complex subunit 6 OS=Xenopus laevis OX=8355 GN=uqcrh PE=3 SV=1
+tr|A0A1L8EQ27|A0A1L8EQ27_XENLA -          Nucleoporin_C        PF03177.11       6.5    6.7   0.0       9.7    6.1   0.0   1.3   1   0   0   1   1   1   0 GLOBIN domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047460mg PE=3 SV=1
+tr|A0A1L8HTY0|A0A1L8HTY0_XENLA -          Nucleoporin_C        PF03177.11         7    6.6   0.1       7.7    6.4   0.1   1.0   1   0   0   1   1   1   0 Neur_chan_LBD domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005249mg PE=4 SV=1
+tr|A0A310TTF6|A0A310TTF6_XENLA -          Nucleoporin_C        PF03177.11       7.1    6.5   0.0       8.1    6.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18001261mg PE=4 SV=1
+tr|A0A1L8EMP9|A0A1L8EMP9_XENLA -          Nucleoporin_C        PF03177.11       8.3    6.3   0.0        16    5.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=necab3 PE=4 SV=1
+tr|A0A1L8ELF8|A0A1L8ELF8_XENLA -          Nucleoporin_C        PF03177.11       8.4    6.3   0.8        11    5.9   0.8   1.2   1   0   0   1   1   1   0 Reverse transcriptase domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18046140mg PE=4 SV=1
+tr|A0A1L8HU87|A0A1L8HU87_XENLA -          Nucleoporin_C        PF03177.11       8.6    6.3   0.7        13    5.7   0.7   1.1   1   0   0   1   1   1   0 UDENN FNIP1/2-type domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18005442mg PE=4 SV=1
+tr|A0A1L8GIR0|A0A1L8GIR0_XENLA -          Nucleoporin_C        PF03177.11       8.9    6.2   0.2        11    5.9   0.2   1.1   1   0   0   1   1   1   0 B box-type domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18021838mg PE=4 SV=1
+tr|A0A310TWM2|A0A310TWM2_XENLA -          Nucleoporin_C        PF03177.11       9.2    6.2   2.0        12    5.8   2.0   1.2   1   0   0   1   1   1   0 GBP_C domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18001975mg PE=4 SV=1
+tr|A0A1L8G428|A0A1L8G428_XENLA -          Nucleoporin_C        PF03177.11       9.3    6.2   2.0        10    6.0   2.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029661mg PE=4 SV=1
+tr|A0A1L8EWK8|A0A1L8EWK8_XENLA -          Nucleoporin_C        PF03177.11       9.3    6.2   0.2        24    4.8   0.2   1.6   1   0   0   1   1   1   0 AAA domain-containing protein OS=Xenopus laevis OX=8355 GN=iqca1 PE=4 SV=1
+tr|A0A1L8FIZ6|A0A1L8FIZ6_XENLA -          Nucleoporin_C        PF03177.11       9.3    6.1   0.1        17    5.3   0.1   1.3   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr11 PE=1 SV=1
+tr|Q6GM00|Q6GM00_XENLA         -          Nucleoporin_C        PF03177.11       9.4    6.1   0.1        16    5.3   0.1   1.3   1   0   0   1   1   1   0 MGC84088 protein OS=Xenopus laevis OX=8355 GN=ccng2 PE=2 SV=1
+tr|A0A1L8EQ09|A0A1L8EQ09_XENLA -          Nucleoporin_C        PF03177.11       9.7    6.1   0.0        15    5.4   0.0   1.3   1   0   0   1   1   1   0 GLOBIN domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047459mg PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes/XLAE/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 14:16:44 2022
+# [ok]

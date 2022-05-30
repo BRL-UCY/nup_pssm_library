@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7JXF5|NUP62_DROME          -          Nsp1_C               PF05064.10     5e-33  113.6   9.2     5e-33  113.6   9.2   2.4   1   1   2   3   3   3   1 Nuclear pore glycoprotein p62 OS=Drosophila melanogaster OX=7227 GN=Nup62 PE=1 SV=1
+tr|Q9VCB8|Q9VCB8_DROME         -          Nsp1_C               PF05064.10    0.0044   17.1   6.0    0.0044   17.1   6.0   5.8   4   3   3   7   7   7   1 Java no jive OS=Drosophila melanogaster OX=7227 GN=jnj PE=1 SV=1
+tr|Q9W2N5|Q9W2N5_DROME         -          Nsp1_C               PF05064.10      0.34   11.0   1.7       3.5    7.7   0.9   2.7   3   0   0   3   3   3   0 GH10162p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3295 PE=1 SV=1
+tr|Q7KT36|Q7KT36_DROME         -          Nsp1_C               PF05064.10      0.63   10.2  13.8      0.61   10.2   0.2   3.6   3   0   0   3   3   3   0 IP19005p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13083 PE=2 SV=1
+tr|A0A0B4K6Z9|A0A0B4K6Z9_DROME -          Nsp1_C               PF05064.10       8.9    6.4  16.9      0.61   10.2   2.9   3.5   2   1   1   3   3   3   0 Centrosomin, isoform I OS=Drosophila melanogaster OX=7227 GN=cnn PE=4 SV=1
+tr|A0A0B4K773|A0A0B4K773_DROME -          Nsp1_C               PF05064.10         9    6.4  16.8      0.73   10.0   3.1   3.5   2   1   1   3   3   3   0 Centrosomin, isoform K OS=Drosophila melanogaster OX=7227 GN=cnn PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes/DMEL/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:09 2022
+# [ok]

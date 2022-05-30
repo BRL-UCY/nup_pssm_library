@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9C829|NU50A_ARATH -          NUP50                PF08911.8    9.4e-05   24.0   0.0   0.00017   23.2   0.0   1.4   1   0   0   1   1   1   1 Nuclear pore complex protein NUP50A OS=Arabidopsis thaliana OX=3702 GN=NUP50A PE=1 SV=1
+sp|Q9LW88|NU50B_ARATH -          NUP50                PF08911.8      0.014   17.1   0.0     0.025   16.3   0.0   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein NUP50B OS=Arabidopsis thaliana OX=3702 GN=NUP50B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup50.txt --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:31 2022
+# [ok]

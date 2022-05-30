@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XNW1|F6XNW1_MACMU         -          Big_2                PF02368.15   5.8e-14   53.0   1.2   4.6e-12   46.9   0.0   3.8   4   0   0   4   4   4   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|A0A1D5QGU5|A0A1D5QGU5_MACMU -          Big_2                PF02368.15   5.9e-14   53.0   1.2   4.6e-12   46.9   0.0   3.8   4   0   0   4   4   4   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=1
+tr|F6XNY4|F6XNY4_MACMU         -          Big_2                PF02368.15   1.3e-13   51.9   2.3   4.1e-12   47.1   0.0   3.6   5   0   0   5   5   5   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|F6VTV1|F6VTV1_MACMU         -          Big_2                PF02368.15   2.4e-07   31.8   0.1   2.4e-07   31.8   0.1   4.2   6   0   0   6   6   6   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6VQT3|F6VQT3_MACMU         -          Big_2                PF02368.15   2.6e-07   31.7   0.1   2.6e-07   31.7   0.1   4.1   6   0   0   6   6   6   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6RXQ7|F6RXQ7_MACMU         -          Big_2                PF02368.15     0.052   14.7   0.0      0.11   13.7   0.0   1.5   1   0   0   1   1   1   0 ASH domain-containing protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+tr|F6VSP8|F6VSP8_MACMU         -          Big_2                PF02368.15      0.06   14.5   0.0      0.12   13.6   0.0   1.5   1   0   0   1   1   1   0 ASH domain-containing protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+tr|F6VSU6|F6VSU6_MACMU         -          Big_2                PF02368.15      0.21   12.8   0.0       0.8   10.9   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/gp210.txt --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 12:26:58 2022
+# [ok]

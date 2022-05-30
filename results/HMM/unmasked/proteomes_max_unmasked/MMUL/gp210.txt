@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XNY4|F6XNY4_MACMU         -          Big_2                PF02368.15   3.1e-19   69.9  13.2   1.4e-15   58.2   0.0   5.9   6   0   0   6   6   4   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|F6XNW1|F6XNW1_MACMU         -          Big_2                PF02368.15   6.2e-19   69.0  13.9   1.6e-15   58.0   0.0   6.1   6   0   0   6   6   5   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|A0A1D5QGU5|A0A1D5QGU5_MACMU -          Big_2                PF02368.15   6.4e-19   68.9  13.9   1.6e-15   58.0   0.0   6.0   6   0   0   6   6   5   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=1
+tr|F6VTV1|F6VTV1_MACMU         -          Big_2                PF02368.15     1e-09   39.4  17.5   2.6e-07   31.7   0.0   5.4   7   0   0   7   7   5   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6VQT3|F6VQT3_MACMU         -          Big_2                PF02368.15   1.8e-09   38.6  17.7   2.8e-07   31.6   0.0   5.3   7   0   0   7   7   5   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6VSU6|F6VSU6_MACMU         -          Big_2                PF02368.15    0.0026   18.9   0.0       0.8   10.9   0.0   3.1   2   0   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+tr|F6VQM1|F6VQM1_MACMU         -          Big_2                PF02368.15     0.032   15.4   3.2   4.6e+02    2.1   0.0   7.9  10   0   0  10  10   9   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HSPG2 PE=4 SV=2
+tr|A0A1D5Q2W3|A0A1D5Q2W3_MACMU -          Big_2                PF02368.15     0.033   15.4   3.2   4.7e+02    2.1   0.0   7.9  10   0   0  10  10   9   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HSPG2 PE=4 SV=1
+tr|F7FSZ9|F7FSZ9_MACMU         -          Big_2                PF02368.15     0.035   15.3   3.2   4.7e+02    2.1   0.0   7.9  10   0   0  10  10   9   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HSPG2 PE=4 SV=2
+tr|F6RXQ7|F6RXQ7_MACMU         -          Big_2                PF02368.15     0.051   14.7   0.0      0.11   13.7   0.0   1.6   1   0   0   1   1   1   0 ASH domain-containing protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+tr|F6VSP8|F6VSP8_MACMU         -          Big_2                PF02368.15     0.056   14.6   0.0      0.12   13.6   0.0   1.6   1   0   0   1   1   1   0 ASH domain-containing protein OS=Macaca mulatta OX=9544 GN=HYDIN PE=4 SV=2
+tr|A0A1D5QV53|A0A1D5QV53_MACMU -          Big_2                PF02368.15         1   10.6   0.1       2.5    9.3   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD22 PE=4 SV=1
+tr|F6W485|F6W485_MACMU         -          Big_2                PF02368.15         1   10.6   0.1       2.5    9.4   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD22 PE=4 SV=2
+tr|F6W458|F6W458_MACMU         -          Big_2                PF02368.15       1.1   10.4   0.1       2.8    9.2   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD22 PE=4 SV=2
+tr|A0A1D5QEF5|A0A1D5QEF5_MACMU -          Big_2                PF02368.15       1.2   10.4   0.1       2.8    9.2   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CD22 PE=4 SV=1
+tr|A0A1D5QM98|A0A1D5QM98_MACMU -          Big_2                PF02368.15       2.8    9.2   0.0        11    7.3   0.0   1.9   2   0   0   2   2   2   0 Phosphoinositide phospholipase C OS=Macaca mulatta OX=9544 GN=PLCL1 PE=4 SV=1
+tr|F6PX40|F6PX40_MACMU         -          Big_2                PF02368.15         3    9.1   0.0        11    7.2   0.0   1.9   2   0   0   2   2   1   0 Phosphoinositide phospholipase C OS=Macaca mulatta OX=9544 GN=PLCL1 PE=4 SV=2
+tr|H9ERR5|H9ERR5_MACMU         -          Big_2                PF02368.15       3.3    9.0   0.0        12    7.2   0.0   1.9   2   0   0   2   2   1   0 Phosphoinositide phospholipase C OS=Macaca mulatta OX=9544 GN=PLCL1 PE=2 SV=1
+tr|A0A1D5RBT7|A0A1D5RBT7_MACMU -          Big_2                PF02368.15       6.8    7.9   1.5       8.6    7.6   1.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=COG6 PE=4 SV=1
+tr|F7F2W8|F7F2W8_MACMU         -          Big_2                PF02368.15       7.8    7.8   0.0        18    6.6   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WIPI1 PE=4 SV=2
+tr|F7CQ58|F7CQ58_MACMU         -          Big_2                PF02368.15       8.5    7.6   0.4        22    6.3   0.0   1.9   2   0   0   2   2   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PTGFRN PE=4 SV=1
+tr|A0A1D5QTT0|A0A1D5QTT0_MACMU -          Big_2                PF02368.15       8.8    7.6   0.2        27    6.0   0.2   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYH1 PE=3 SV=1
+tr|A0A1D5QGT3|A0A1D5QGT3_MACMU -          Big_2                PF02368.15         9    7.6   0.6        38    5.6   0.5   2.0   1   1   1   2   2   2   0 IBB domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F6ZH92|F6ZH92_MACMU         -          Big_2                PF02368.15       9.2    7.5   0.2        27    6.0   0.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYH1 PE=3 SV=2
+tr|F6ZH99|F6ZH99_MACMU         -          Big_2                PF02368.15       9.2    7.5   0.2        27    6.0   0.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYH1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 07:54:47 2022
+# [ok]

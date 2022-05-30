@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7H2H1|F7H2H1_MACMU         -          UPF0121              PF03661.10     7e-96  321.5  12.8   8.2e-96  321.3  12.8   1.0   1   0   0   1   1   1   1 Protein DB83 OS=Macaca mulatta OX=9544 GN=TMEM33 PE=2 SV=1
+tr|A0A1D5RJK5|A0A1D5RJK5_MACMU -          UPF0121              PF03661.10      0.16   12.6   2.8      0.33   11.5   2.8   1.6   1   0   0   1   1   1   0 Peptidase_M28 domain-containing protein OS=Macaca mulatta OX=9544 GN=ERMP1 PE=4 SV=1
+tr|F7G2I9|F7G2I9_MACMU         -          UPF0121              PF03661.10      0.54   10.9   3.1       1.3    9.6   3.1   1.6   1   0   0   1   1   1   0 Peptidase_M28 domain-containing protein OS=Macaca mulatta OX=9544 GN=ERMP1 PE=4 SV=2
+tr|A0A1D5QWT6|A0A1D5QWT6_MACMU -          UPF0121              PF03661.10       1.4    9.5   0.1       5.5    7.6   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TRAPPC8 PE=4 SV=1
+tr|F6SW26|F6SW26_MACMU         -          UPF0121              PF03661.10       1.4    9.4   0.5       1.9    9.1   0.5   1.1   1   0   0   1   1   1   0 Defensin, beta 103 OS=Macaca mulatta OX=9544 GN=LOC694235 PE=4 SV=1
+tr|F6VTP7|F6VTP7_MACMU         -          UPF0121              PF03661.10       1.6    9.3   0.0       4.8    7.8   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ANKFN1 PE=4 SV=2
+tr|A0A1D5QS94|A0A1D5QS94_MACMU -          UPF0121              PF03661.10       1.7    9.3   0.0       4.8    7.7   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ANKFN1 PE=4 SV=1
+tr|F7BJE0|F7BJE0_MACMU         -          UPF0121              PF03661.10         3    8.4   0.1       4.5    7.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CEACAM1 PE=4 SV=2
+tr|G7NC86|G7NC86_MACMU         -          UPF0121              PF03661.10       3.2    8.3   0.0       5.9    7.4   0.0   1.3   1   0   0   1   1   1   0 Sorting nexin OS=Macaca mulatta OX=9544 GN=SNX32 PE=2 SV=1
+tr|F6RB92|F6RB92_MACMU         -          UPF0121              PF03661.10       3.2    8.3   0.0       5.9    7.4   0.0   1.3   1   0   0   1   1   1   0 Sorting nexin OS=Macaca mulatta OX=9544 GN=SNX32 PE=3 SV=2
+tr|F6UVL9|F6UVL9_MACMU         -          UPF0121              PF03661.10       5.5    7.5   0.2       7.8    7.1   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM234 PE=4 SV=1
+tr|F7HG68|F7HG68_MACMU         -          UPF0121              PF03661.10       5.5    7.5   0.7        16    6.0   0.3   2.0   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM245 PE=4 SV=2
+tr|F6YZK4|F6YZK4_MACMU         -          UPF0121              PF03661.10       5.6    7.5   0.7        16    6.0   0.3   2.0   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM245 PE=4 SV=2
+tr|F7GNX7|F7GNX7_MACMU         -          UPF0121              PF03661.10       5.9    7.4   0.2       8.8    6.9   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM234 PE=4 SV=2
+tr|F7H601|F7H601_MACMU         -          UPF0121              PF03661.10       6.7    7.3   0.0        11    6.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DHX34 PE=4 SV=2
+tr|F7D7Y7|F7D7Y7_MACMU         -          UPF0121              PF03661.10       8.4    6.9   3.0        19    5.8   3.0   1.6   1   0   0   1   1   1   0 Melanocyte-stimulating hormone receptor OS=Macaca mulatta OX=9544 GN=MC1R PE=3 SV=2
+tr|A0A1D5R7L0|A0A1D5R7L0_MACMU -          UPF0121              PF03661.10       8.8    6.9   0.1        23    5.5   0.2   1.6   2   0   0   2   2   2   0 E3 ubiquitin-protein ligase MARCH3 OS=Macaca mulatta OX=9544 GN=MARCHF3 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUL/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 08:17:47 2022
+# [ok]

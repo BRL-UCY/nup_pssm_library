@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57744|TIM8_YEAST  -          ELYS                 PF13934.3        1.4    7.3   0.1       1.5    7.2   0.1   1.1   1   0   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit TIM8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIM8 PE=1 SV=1
+sp|P25451|PSB3_YEAST  -          ELYS                 PF13934.3        3.8    5.9   0.0       5.2    5.5   0.0   1.2   1   0   0   1   1   1   0 Proteasome subunit beta type-3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PUP3 PE=1 SV=1
+sp|Q08975|THI21_YEAST -          ELYS                 PF13934.3        4.8    5.6   0.0        14    4.0   0.0   1.7   2   0   0   2   2   2   0 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase THI21 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=THI21 PE=1 SV=1
+sp|Q08224|THI20_YEAST -          ELYS                 PF13934.3        5.2    5.5   0.0        15    4.0   0.0   1.6   2   0   0   2   2   2   0 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase THI20 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=THI20 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu May 26 16:35:33 2022
+# [ok]

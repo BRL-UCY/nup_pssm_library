@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8BTS4|NUP54_MOUSE          -          Nup54                PF13874.3    2.5e-45  155.6   3.3   2.5e-45  155.6   3.3   2.4   4   0   0   4   4   2   1 Nuclear pore complex protein Nup54 OS=Mus musculus OX=10090 GN=Nup54 PE=1 SV=1
+sp|P28033|CEBPB_MOUSE          -          Nup54                PF13874.3      0.052   15.2   4.6     0.077   14.7   4.6   1.2   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein beta OS=Mus musculus OX=10090 GN=Cebpb PE=1 SV=1
+sp|O54791|MAFF_MOUSE           -          Nup54                PF13874.3       0.11   14.2   3.8      0.14   13.9   3.8   1.2   1   0   0   1   1   1   0 Transcription factor MafF OS=Mus musculus OX=10090 GN=Maff PE=2 SV=1
+tr|A0A2Y9CZI3|A0A2Y9CZI3_MOUSE -          Nup54                PF13874.3       0.11   14.2   6.9      0.34   12.6   6.9   1.8   1   0   0   1   1   1   0 Ras-related protein Rab-44 OS=Mus musculus OX=10090 GN=Rab44 PE=1 SV=1
+tr|A0A0J9YUA0|A0A0J9YUA0_MOUSE -          Nup54                PF13874.3       0.18   13.5   0.2        31    6.2   0.2   2.2   2   0   0   2   2   2   0 Syntaxin-1A (Fragment) OS=Mus musculus OX=10090 GN=Stx1a PE=1 SV=1
+sp|P53566|CEBPA_MOUSE          -          Nup54                PF13874.3       0.24   13.1   3.5      0.38   12.4   3.5   1.2   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein alpha OS=Mus musculus OX=10090 GN=Cebpa PE=1 SV=2
+tr|F6PZI9|F6PZI9_MOUSE         -          Nup54                PF13874.3       0.32   12.7  20.0      0.69   11.6  13.4   2.2   1   1   1   2   2   2   0 Ankyrin repeat domain-containing protein 24 (Fragment) OS=Mus musculus OX=10090 GN=Ankrd24 PE=4 SV=1
+tr|A0A286YDR5|A0A286YDR5_MOUSE -          Nup54                PF13874.3       0.85   11.3   8.0       1.7   10.3   8.0   1.5   1   0   0   1   1   1   0 Tripartite motif-containing 38 OS=Mus musculus OX=10090 GN=Trim38 PE=1 SV=1
+tr|D6RFB9|D6RFB9_MOUSE         -          Nup54                PF13874.3       0.95   11.1   8.1        19    6.9   5.5   2.6   1   1   0   2   2   2   0 Syntaxin-1A OS=Mus musculus OX=10090 GN=Stx1a PE=1 SV=1
+tr|D3YUR9|D3YUR9_MOUSE         -          Nup54                PF13874.3        1.5   10.5  12.5       1.2   10.8  10.2   1.8   1   1   1   2   2   2   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Mus musculus OX=10090 GN=Ccdc92 PE=1 SV=1
+tr|Q3TJ55|Q3TJ55_MOUSE         -          Nup54                PF13874.3        1.6   10.4   8.4       9.9    7.8   5.2   3.0   1   1   2   3   3   3   0 Syntaxin-2 OS=Mus musculus OX=10090 GN=Stx2 PE=1 SV=1
+sp|Q9DBG5|PLIN3_MOUSE          -          Nup54                PF13874.3        1.6   10.4  13.2        26    6.5  11.0   2.9   1   1   1   2   2   2   0 Perilipin-3 OS=Mus musculus OX=10090 GN=Plin3 PE=1 SV=1
+sp|Q00262|STX2_MOUSE           -          Nup54                PF13874.3        1.9   10.2   8.8        10    7.8   0.2   3.0   1   1   2   3   3   3   0 Syntaxin-2 OS=Mus musculus OX=10090 GN=Stx2 PE=1 SV=1
+sp|Q8R0Z6|ANGL6_MOUSE          -          Nup54                PF13874.3        2.3    9.9   9.1       4.9    8.8   9.1   1.5   1   0   0   1   1   1   0 Angiopoietin-related protein 6 OS=Mus musculus OX=10090 GN=Angptl6 PE=2 SV=1
+tr|A3KGE4|A3KGE4_MOUSE         -          Nup54                PF13874.3        2.4    9.8  10.1       7.1    8.3   9.9   1.9   1   1   0   1   1   1   0 Noelin OS=Mus musculus OX=10090 GN=Olfm1 PE=1 SV=1
+sp|O35526|STX1A_MOUSE          -          Nup54                PF13874.3        2.4    9.8   9.5        55    5.4   7.0   2.8   1   1   0   2   2   2   0 Syntaxin-1A OS=Mus musculus OX=10090 GN=Stx1a PE=1 SV=3
+tr|G3X9Q7|G3X9Q7_MOUSE         -          Nup54                PF13874.3        2.4    9.8  10.0       7.2    8.3   9.8   1.9   1   1   0   1   1   1   0 Noelin OS=Mus musculus OX=10090 GN=Olfm1 PE=1 SV=1
+sp|Q61827|MAFK_MOUSE           -          Nup54                PF13874.3        2.5    9.8   8.7       4.5    9.0   8.7   1.4   1   0   0   1   1   1   0 Transcription factor MafK OS=Mus musculus OX=10090 GN=Mafk PE=1 SV=1
+sp|O88998|NOE1_MOUSE           -          Nup54                PF13874.3        2.5    9.8   9.8       6.8    8.4   9.6   1.9   1   1   0   1   1   1   0 Noelin OS=Mus musculus OX=10090 GN=Olfm1 PE=1 SV=1
+tr|Q8R357|Q8R357_MOUSE         -          Nup54                PF13874.3        2.5    9.8   9.8       6.8    8.4   9.6   1.9   1   1   0   1   1   1   0 Noelin OS=Mus musculus OX=10090 GN=Olfm1 PE=1 SV=1
+tr|A0A3Q4L2U0|A0A3Q4L2U0_MOUSE -          Nup54                PF13874.3        2.5    9.8   8.1         8    8.1   7.8   1.7   1   1   0   1   1   1   0 DNA endonuclease RBBP8 (Fragment) OS=Mus musculus OX=10090 GN=Rbbp8 PE=1 SV=1
+tr|A0A0G2JGB6|A0A0G2JGB6_MOUSE -          Nup54                PF13874.3          3    9.5  12.3       7.5    8.2  12.2   1.6   1   1   0   1   1   1   0 Predicted gene 43518 (Fragment) OS=Mus musculus OX=10090 GN=Gm43518 PE=4 SV=1
+tr|Q80W45|Q80W45_MOUSE         -          Nup54                PF13874.3        3.2    9.4   9.5        12    7.6   5.6   3.0   1   1   2   3   3   3   0 Syntaxin-2 OS=Mus musculus OX=10090 GN=Stx2 PE=1 SV=1
+sp|Q9R182|ANGL3_MOUSE          -          Nup54                PF13874.3        3.4    9.3  15.4        98    4.6  14.5   2.3   1   1   1   2   2   2   0 Angiopoietin-related protein 3 OS=Mus musculus OX=10090 GN=Angptl3 PE=1 SV=1
+tr|A0A0R4J075|A0A0R4J075_MOUSE -          Nup54                PF13874.3        4.8    8.9   7.0        34    6.1   0.4   2.7   3   0   0   3   3   3   0 Melanophilin OS=Mus musculus OX=10090 GN=Mlph PE=1 SV=1
+tr|D3Z486|D3Z486_MOUSE         -          Nup54                PF13874.3        7.1    8.3  16.9        18    7.0  16.9   1.6   1   1   0   1   1   1   0 Palmdelphin (Fragment) OS=Mus musculus OX=10090 GN=Palmd PE=1 SV=8
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes/MMUS/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:13:45 2022
+# [ok]

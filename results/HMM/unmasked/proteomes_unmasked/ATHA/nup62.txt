@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8L7F7|NUP62_ARATH          -          Nsp1_C               PF05064.10   4.5e-22   79.2   4.4   4.5e-22   79.2   4.4   1.6   2   0   0   2   2   2   1 Nuclear pore complex protein NUP62 OS=Arabidopsis thaliana OX=3702 GN=NUP62 PE=1 SV=1
+tr|A0A178V1T3|A0A178V1T3_ARATH -          Nsp1_C               PF05064.10     0.096   13.6   6.5         3    8.8   0.3   2.2   2   0   0   2   2   2   0 Intracellular protein transporter OS=Arabidopsis thaliana OX=3702 GN=At4g27620 PE=4 SV=1
+tr|Q56Y15|Q56Y15_ARATH         -          Nsp1_C               PF05064.10      0.19   12.7   6.5       4.4    8.2   0.3   2.2   2   0   0   2   2   2   0 At4g27620 OS=Arabidopsis thaliana OX=3702 GN=At4g27620 PE=2 SV=1
+sp|Q9LXU9|IRKI_ARATH           -          Nsp1_C               PF05064.10       2.5    9.0   5.0      0.94   10.4   1.7   2.0   2   0   0   2   2   2   0 IRK-interacting protein OS=Arabidopsis thaliana OX=3702 GN=IRKI PE=1 SV=1
+tr|A0A1P8BCA5|A0A1P8BCA5_ARATH -          Nsp1_C               PF05064.10       4.6    8.2   8.8       3.1    8.8   5.2   2.1   1   1   1   2   2   2   0 Myosin OS=Arabidopsis thaliana OX=3702 GN=At5g20450 PE=4 SV=1
+tr|Q5EAF0|Q5EAF0_ARATH         -          Nsp1_C               PF05064.10       6.2    7.8   8.5         4    8.4   5.0   2.1   1   1   1   2   2   2   0 At5g20450 OS=Arabidopsis thaliana OX=3702 GN=At5g20450 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes/ATHA/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:12:52 2022
+# [ok]

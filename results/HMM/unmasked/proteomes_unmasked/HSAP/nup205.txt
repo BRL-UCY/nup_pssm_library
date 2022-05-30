@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q92621|NU205_HUMAN  -          Nup192               PF11894.5          0 1353.7   5.1         0 1353.4   5.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+tr|U3KPX2|U3KPX2_HUMAN -          Nup192               PF11894.5      3e-71  242.3   0.5   3.4e-71  242.1   0.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|U3KQ97|U3KQ97_HUMAN -          Nup192               PF11894.5    4.7e-35  122.3   0.1   5.5e-35  122.1   0.1   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=8
+sp|Q5SRE5|NU188_HUMAN  -          Nup192               PF11894.5    2.9e-15   56.7   5.4   8.7e-08   31.9   0.0   5.0   4   1   0   4   4   4   4 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|U3KQ47|U3KQ47_HUMAN -          Nup192               PF11894.5    1.5e-05   24.5   0.0   1.5e-05   24.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|J3KTB7|J3KTB7_HUMAN -          Nup192               PF11894.5       0.55    9.4   0.0      0.59    9.3   0.0   1.0   1   0   0   1   1   1   0 DNA topoisomerase 2-alpha (Fragment) OS=Homo sapiens OX=9606 GN=TOP2A PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Sun Mar 20 18:14:10 2022
+# [ok]

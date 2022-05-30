@@ -1,0 +1,53 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9U1S3|Q9U1S3_CAEEL         -          NPCC                 PF08058.8      0.068   13.8   0.2     0.068   13.8   0.2   3.1   3   1   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y75B8A.16 PE=1 SV=1
+tr|Q17912|Q17912_CAEEL         -          NPCC                 PF08058.8       0.11   13.1   0.2      0.11   13.1   0.2   3.4   3   2   0   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C11H1.2 PE=4 SV=2
+sp|A5JYQ9|VMA21_CAEEL          -          NPCC                 PF08058.8       0.33   11.6   0.3      0.45   11.1   0.3   1.2   1   0   0   1   1   1   0 Vacuolar ATPase assembly integral membrane protein VMA21 homolog OS=Caenorhabditis elegans OX=6239 GN=pdcd-2 PE=3 SV=1
+tr|O44511|O44511_CAEEL         -          NPCC                 PF08058.8       0.72   10.5   0.8       2.1    9.0   0.2   2.0   2   1   0   2   2   2   0 SynaptoPHysin OS=Caenorhabditis elegans OX=6239 GN=sph-1 PE=1 SV=2
+tr|Q8I7G0|Q8I7G0_CAEEL         -          NPCC                 PF08058.8          1   10.0   0.5       1.5    9.4   0.3   1.5   1   1   0   1   1   1   0 Protein SYS1 homolog OS=Caenorhabditis elegans OX=6239 GN=CELE_T03F1.12 PE=1 SV=1
+tr|O44823|O44823_CAEEL         -          NPCC                 PF08058.8        1.3    9.6   0.0       4.8    7.8   0.0   1.9   2   0   0   2   2   1   0 MULE domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F52C6.14 PE=4 SV=1
+tr|S6F568|S6F568_CAEEL         -          NPCC                 PF08058.8        1.5    9.5   0.1       4.9    7.8   0.1   1.9   1   0   0   1   1   1   0 Heavy chain, Unconventional Myosin OS=Caenorhabditis elegans OX=6239 GN=hum-4 PE=1 SV=2
+tr|Q20456|Q20456_CAEEL         -          NPCC                 PF08058.8        1.5    9.4   0.1         5    7.8   0.1   1.9   1   0   0   1   1   1   0 Heavy chain, Unconventional Myosin OS=Caenorhabditis elegans OX=6239 GN=hum-4 PE=1 SV=6
+tr|O17177|O17177_CAEEL         -          NPCC                 PF08058.8        1.9    9.1   2.1       3.1    8.4   2.1   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C08F1.6 PE=4 SV=1
+tr|O45340|O45340_CAEEL         -          NPCC                 PF08058.8        2.1    9.0   0.1        14    6.3   0.0   2.3   1   1   1   2   2   2   0 Seven TM Receptor OS=Caenorhabditis elegans OX=6239 GN=str-109 PE=4 SV=1
+tr|Q4R113|Q4R113_CAEEL         -          NPCC                 PF08058.8        2.3    8.8   0.5       2.8    8.6   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F56D6.13 PE=1 SV=1
+tr|G5EGC6|G5EGC6_CAEEL         -          NPCC                 PF08058.8        2.7    8.7   2.3       5.3    7.7   2.3   1.7   1   1   0   1   1   1   0 PEEL-1 OS=Caenorhabditis elegans OX=6239 GN=peel-1 PE=2 SV=1
+tr|Q9XXC5|Q9XXC5_CAEEL         -          NPCC                 PF08058.8        2.7    8.6   1.6       4.8    7.8   1.5   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y51B9A.7 PE=4 SV=1
+sp|Q19746|INX3_CAEEL           -          NPCC                 PF08058.8        2.9    8.5   0.7       7.6    7.2   0.2   2.0   2   0   0   2   2   1   0 Innexin-3 OS=Caenorhabditis elegans OX=6239 GN=inx-3 PE=1 SV=2
+tr|Q18135|Q18135_CAEEL         -          NPCC                 PF08058.8        2.9    8.5   0.7        15    6.2   0.1   2.2   1   1   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C24H10.1 PE=1 SV=2
+tr|Q9XU50|Q9XU50_CAEEL         -          NPCC                 PF08058.8        3.6    8.2   3.3       1.6    9.4   0.4   1.9   2   0   0   2   2   2   0 Serpentine Receptor, class U OS=Caenorhabditis elegans OX=6239 GN=sru-44 PE=4 SV=1
+tr|Q965V4|Q965V4_CAEEL         -          NPCC                 PF08058.8        3.7    8.2   0.3        86    3.8   0.0   3.0   3   0   0   3   3   3   0 EXPOrtin (Nuclear export receptor) OS=Caenorhabditis elegans OX=6239 GN=xpo-2 PE=1 SV=1
+tr|A0A0K3AUP8|A0A0K3AUP8_CAEEL -          NPCC                 PF08058.8        3.9    8.1   1.3       5.6    7.6   1.3   1.3   1   0   0   1   1   1   0 Serpentine Receptor, class H OS=Caenorhabditis elegans OX=6239 GN=srh-2 PE=4 SV=1
+tr|G5ED11|G5ED11_CAEEL         -          NPCC                 PF08058.8        3.9    8.1   0.4        39    4.9   0.1   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C27A7.6 PE=1 SV=1
+tr|Q65ZG7|Q65ZG7_CAEEL         -          NPCC                 PF08058.8          4    8.1   0.3       5.6    7.6   0.3   1.2   1   0   0   1   1   1   0 BTB_2 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZC239.17 PE=4 SV=1
+sp|Q22361|CNI1_CAEEL           -          NPCC                 PF08058.8        4.1    8.0   0.7       5.8    7.5   0.7   1.4   1   0   0   1   1   1   0 Protein cornichon homolog 1 OS=Caenorhabditis elegans OX=6239 GN=cni-1 PE=1 SV=2
+tr|H9G2Z4|H9G2Z4_CAEEL         -          NPCC                 PF08058.8        4.1    8.0   0.4        40    4.8   0.1   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C27A7.6 PE=1 SV=1
+tr|A0A0M7RFG8|A0A0M7RFG8_CAEEL -          NPCC                 PF08058.8        4.4    7.9   0.2       6.9    7.3   0.2   1.3   1   0   0   1   1   1   0 Seven TM Receptor OS=Caenorhabditis elegans OX=6239 GN=str-154 PE=4 SV=1
+tr|O16585|O16585_CAEEL         -          NPCC                 PF08058.8        4.7    7.9   0.1         6    7.5   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F21E9.2 PE=4 SV=2
+tr|Q965U3|Q965U3_CAEEL         -          NPCC                 PF08058.8        5.2    7.7   3.2        36    5.0   0.1   2.4   2   1   0   2   2   2   0 Serpentine Receptor, class J OS=Caenorhabditis elegans OX=6239 GN=srj-53 PE=4 SV=3
+sp|Q09510|MLRH_CAEEL           -          NPCC                 PF08058.8        5.4    7.7   0.0       6.8    7.3   0.0   1.2   1   0   0   1   1   1   0 Myosin regulatory light chain OS=Caenorhabditis elegans OX=6239 GN=mlc-4 PE=1 SV=1
+tr|Q8WTM8|Q8WTM8_CAEEL         -          NPCC                 PF08058.8        5.4    7.7   0.9        10    6.8   0.9   1.8   1   1   0   1   1   1   0 WRB (Human W(Tryptophan)-Rich Basic nuclear protein) homolog OS=Caenorhabditis elegans OX=6239 GN=wrb-1 PE=1 SV=2
+tr|A0A163UT97|A0A163UT97_CAEEL -          NPCC                 PF08058.8        5.6    7.6   1.7       8.3    7.1   1.3   1.5   1   1   0   1   1   1   0 Serpentine Receptor, class E (Epsilon) OS=Caenorhabditis elegans OX=6239 GN=sre-9 PE=4 SV=1
+tr|Q9NF27|Q9NF27_CAEEL         -          NPCC                 PF08058.8        5.8    7.6   0.1        14    6.3   0.1   1.7   1   1   0   1   1   1   0 MFS domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y43D4A.4 PE=4 SV=2
+tr|E4MVC8|E4MVC8_CAEEL         -          NPCC                 PF08058.8        6.1    7.5   1.3         9    6.9   1.3   1.3   1   0   0   1   1   1   0 Serpentine Receptor, class H OS=Caenorhabditis elegans OX=6239 GN=srh-2 PE=4 SV=1
+tr|A0A131MCN1|A0A131MCN1_CAEEL -          NPCC                 PF08058.8        6.3    7.4   2.3        86    3.8   2.3   2.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45C12.17 PE=4 SV=1
+tr|A0A0K3AVB8|A0A0K3AVB8_CAEEL -          NPCC                 PF08058.8        6.4    7.4   1.3       9.6    6.8   1.3   1.3   1   0   0   1   1   1   0 Serpentine Receptor, class H OS=Caenorhabditis elegans OX=6239 GN=srh-2 PE=4 SV=1
+tr|G5EFY1|G5EFY1_CAEEL         -          NPCC                 PF08058.8        7.5    7.2   0.0   1.5e+02    3.0   0.0   2.2   2   0   0   2   2   2   0 DNA polymerase eta OS=Caenorhabditis elegans OX=6239 GN=polh-1 PE=2 SV=1
+tr|A5A8P7|A5A8P7_CAEEL         -          NPCC                 PF08058.8        7.8    7.1   0.0        12    6.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.52 PE=4 SV=1
+tr|A0A0K3ARU0|A0A0K3ARU0_CAEEL -          NPCC                 PF08058.8        8.3    7.1   2.8       6.8    7.3   1.6   1.6   1   1   0   1   1   1   0 Serpentine Receptor, class H OS=Caenorhabditis elegans OX=6239 GN=srh-2 PE=4 SV=1
+tr|Q20686|Q20686_CAEEL         -          NPCC                 PF08058.8        8.4    7.0   0.8        21    5.8   0.8   1.7   1   0   0   1   1   1   0 FMRFamide Peptide Receptor family OS=Caenorhabditis elegans OX=6239 GN=frpr-8 PE=4 SV=3
+tr|D0IMZ0|D0IMZ0_CAEEL         -          NPCC                 PF08058.8        8.4    7.0   0.1       8.8    7.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F17E9.15 PE=4 SV=1
+tr|Q564Q9|Q564Q9_CAEEL         -          NPCC                 PF08058.8        8.8    7.0   0.6        13    6.4   0.6   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y6G8.5 PE=4 SV=4
+tr|D3KFS3|D3KFS3_CAEEL         -          NPCC                 PF08058.8        9.2    6.9   0.8        11    6.6   0.7   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F44G4.6 PE=4 SV=1
+tr|Q8MQB4|Q8MQB4_CAEEL         -          NPCC                 PF08058.8        9.7    6.8   0.0        16    6.1   0.0   1.4   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C28G1.6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes/CELE/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 00:19:52 2022
+# [ok]

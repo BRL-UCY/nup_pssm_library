@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P35658|NU214_HUMAN          -          NUP214               PF16755.2      0.072   14.3   0.1      0.31   12.3   0.0   1.9   2   0   0   2   2   2   0 Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=2
+sp|Q9NWT1|PK1IP_HUMAN          -          NUP214               PF16755.2       0.27   12.5   0.0        21    6.3   0.1   2.1   1   1   1   2   2   2   0 p21-activated protein kinase-interacting protein 1 OS=Homo sapiens OX=9606 GN=PAK1IP1 PE=1 SV=2
+tr|K7EN56|K7EN56_HUMAN         -          NUP214               PF16755.2       0.68   11.1   2.4      0.85   10.8   2.4   1.2   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 159 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC159 PE=1 SV=1
+tr|C9JVC4|C9JVC4_HUMAN         -          NUP214               PF16755.2        1.1   10.4   0.0       1.2   10.4   0.0   1.0   1   0   0   1   1   1   0 IQ calmodulin-binding motif-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=IQCB1 PE=1 SV=1
+tr|H0Y6C0|H0Y6C0_HUMAN         -          NUP214               PF16755.2        1.6    9.9   0.0       2.6    9.2   0.0   1.2   1   0   0   1   1   1   0 WD repeat-containing protein 35 (Fragment) OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=1
+tr|K7EKH9|K7EKH9_HUMAN         -          NUP214               PF16755.2        1.7    9.8   0.9       2.1    9.5   0.9   1.2   1   0   0   1   1   1   0 Glial fibrillary acidic protein (Fragment) OS=Homo sapiens OX=9606 GN=GFAP PE=1 SV=1
+sp|P36537|UDB10_HUMAN          -          NUP214               PF16755.2        1.7    9.8   0.0        23    6.1   0.0   2.2   2   0   0   2   2   2   0 UDP-glucuronosyltransferase 2B10 OS=Homo sapiens OX=9606 GN=UGT2B10 PE=1 SV=1
+sp|Q9Y4K4|M4K5_HUMAN           -          NUP214               PF16755.2          2    9.6   0.3        28    5.8   0.0   2.1   2   0   0   2   2   2   0 Mitogen-activated protein kinase kinase kinase kinase 5 OS=Homo sapiens OX=9606 GN=MAP4K5 PE=1 SV=2
+tr|F8WB94|F8WB94_HUMAN         -          NUP214               PF16755.2        2.1    9.5   0.0       8.2    7.6   0.0   1.8   2   0   0   2   2   2   0 WD repeat-containing protein 35 OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=1
+tr|H3BS99|H3BS99_HUMAN         -          NUP214               PF16755.2        2.5    9.3   0.0        25    6.0   0.0   2.3   1   1   1   2   2   2   0 Zinc finger protein 106 (Fragment) OS=Homo sapiens OX=9606 GN=ZNF106 PE=1 SV=1
+tr|H0YDS4|H0YDS4_HUMAN         -          NUP214               PF16755.2        3.2    8.9   0.1       4.7    8.4   0.1   1.1   1   0   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=1
+sp|Q9P2L0|WDR35_HUMAN          -          NUP214               PF16755.2        3.4    8.8   0.0        12    7.0   0.0   1.8   2   0   0   2   2   2   0 WD repeat-containing protein 35 OS=Homo sapiens OX=9606 GN=WDR35 PE=1 SV=3
+tr|F5GWF7|F5GWF7_HUMAN         -          NUP214               PF16755.2        4.1    8.6   0.1       4.5    8.4   0.1   1.0   1   0   0   1   1   1   0 Protein AMN1 homolog (Fragment) OS=Homo sapiens OX=9606 GN=AMN1 PE=1 SV=1
+sp|P0C7I6|CC159_HUMAN          -          NUP214               PF16755.2        4.2    8.5   1.9       3.1    8.9   0.1   1.6   2   0   0   2   2   2   0 Coiled-coil domain-containing protein 159 OS=Homo sapiens OX=9606 GN=CCDC159 PE=2 SV=2
+tr|A0A0C4DGM5|A0A0C4DGM5_HUMAN -          NUP214               PF16755.2        4.7    8.4   0.0        39    5.3   0.0   2.2   1   1   1   2   2   2   0 Zinc finger protein 106 OS=Homo sapiens OX=9606 GN=ZNF106 PE=1 SV=1
+sp|Q13356|PPIL2_HUMAN          -          NUP214               PF16755.2        6.8    7.8   0.1       9.9    7.3   0.1   1.2   1   0   0   1   1   1   0 RING-type E3 ubiquitin-protein ligase PPIL2 OS=Homo sapiens OX=9606 GN=PPIL2 PE=1 SV=1
+tr|A0A1W2PQJ2|A0A1W2PQJ2_HUMAN -          NUP214               PF16755.2        6.8    7.8   0.0   1.4e+02    3.5   0.0   2.2   2   0   0   2   2   2   0 UDP-glucuronosyltransferase 2B4 OS=Homo sapiens OX=9606 GN=UGT2B4 PE=1 SV=1
+tr|J3QSA5|J3QSA5_HUMAN         -          NUP214               PF16755.2        7.9    7.6   2.2       8.7    7.5   2.2   1.0   1   0   0   1   1   1   0 Centrosomal protein of 112 kDa (Fragment) OS=Homo sapiens OX=9606 GN=CEP112 PE=1 SV=1
+tr|J3QR55|J3QR55_HUMAN         -          NUP214               PF16755.2        7.9    7.6   0.6       8.6    7.5   0.6   1.1   1   0   0   1   1   1   0 Keratin, type I cytoskeletal 23 (Fragment) OS=Homo sapiens OX=9606 GN=KRT23 PE=1 SV=1
+tr|D6RAV7|D6RAV7_HUMAN         -          NUP214               PF16755.2        8.1    7.6   0.3       9.2    7.4   0.3   1.1   1   0   0   1   1   1   0 Toll-like receptor 6 (Fragment) OS=Homo sapiens OX=9606 GN=TLR6 PE=1 SV=1
+tr|A0A2R8Y7Z8|A0A2R8Y7Z8_HUMAN -          NUP214               PF16755.2        8.3    7.6   1.0        10    7.2   1.0   1.1   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 3 (Fragment) OS=Homo sapiens OX=9606 GN=CNOT3 PE=1 SV=1
+sp|O60671|RAD1_HUMAN           -          NUP214               PF16755.2        9.1    7.4   0.0        14    6.8   0.0   1.2   1   0   0   1   1   1   0 Cell cycle checkpoint protein RAD1 OS=Homo sapiens OX=9606 GN=RAD1 PE=1 SV=1
+tr|C9JDR5|C9JDR5_HUMAN         -          NUP214               PF16755.2        9.5    7.4   0.0        11    7.1   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 53 (Fragment) OS=Homo sapiens OX=9606 GN=WDR53 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes/HSAP/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Tue Feb 22 09:02:29 2022
+# [ok]
