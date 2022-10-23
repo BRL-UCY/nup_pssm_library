@@ -1,0 +1,36 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23DH4|Q23DH4_TETTS   -          Nup35_RRM            PF05172.10    0.0027   18.2   0.1       2.4    8.7   0.0   2.5   2   1   0   2   2   2   2 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00047170 PE=4 SV=3
+tr|I7MH21|I7MH21_TETTS   -          Nup35_RRM            PF05172.10     0.011   16.3   0.0       3.3    8.3   0.0   2.3   2   0   0   2   2   2   0 RNA-binding family CELF1 RNA recognition motif 3 in CELF/bruno-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00421000 PE=4 SV=2
+tr|I7MLP2|I7MLP2_TETTS   -          Nup35_RRM            PF05172.10     0.091   13.3   0.7        11    6.7   0.1   2.4   2   0   0   2   2   2   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00348880 PE=4 SV=1
+tr|Q22UP3|Q22UP3_TETTS   -          Nup35_RRM            PF05172.10     0.099   13.2   0.2       4.9    7.7   0.2   3.3   3   1   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00550810 PE=1 SV=1
+tr|W7XF17|W7XF17_TETTS   -          Nup35_RRM            PF05172.10      0.12   12.9   1.6      0.18   12.3   1.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000629759 PE=4 SV=1
+tr|W7X719|W7X719_TETTS   -          Nup35_RRM            PF05172.10      0.14   12.7   0.1       4.2    8.0   0.0   2.4   1   1   0   2   2   2   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000094109 PE=4 SV=1
+tr|I7MDD9|I7MDD9_TETTS   -          Nup35_RRM            PF05172.10      0.78   10.3   0.0       1.1    9.8   0.0   1.3   1   0   0   1   1   1   0 HCaRG protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00059120 PE=4 SV=1
+tr|Q22R82|Q22R82_TETTS   -          Nup35_RRM            PF05172.10      0.78   10.3   0.0        32    5.1   0.0   2.3   2   0   0   2   2   2   0 Splicing factor protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00023990 PE=3 SV=1
+tr|I7MAE9|I7MAE9_TETTS   -          Nup35_RRM            PF05172.10      0.81   10.3   0.2       3.6    8.2   0.0   2.0   2   0   0   2   2   2   0 UbiE/COQ5 family methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00616270 PE=4 SV=1
+tr|I7M090|I7M090_TETTS   -          Nup35_RRM            PF05172.10       1.9    9.1   0.0        79    3.9   0.0   2.4   3   0   0   3   3   2   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00421020 PE=4 SV=2
+tr|I7LZU4|I7LZU4_TETTS   -          Nup35_RRM            PF05172.10       2.1    8.9   0.4       5.4    7.6   0.1   1.8   2   0   0   2   2   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00584890 PE=4 SV=2
+tr|I7LXC4|I7LXC4_TETTS   -          Nup35_RRM            PF05172.10       2.2    8.9   0.1        16    6.1   0.0   2.2   2   0   0   2   2   2   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00301790 PE=4 SV=1
+tr|Q23AB7|Q23AB7_TETTS   -          Nup35_RRM            PF05172.10       2.5    8.7   0.2       4.9    7.7   0.2   1.4   1   0   0   1   1   1   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00427410 PE=4 SV=3
+tr|Q22T51|Q22T51_TETTS   -          Nup35_RRM            PF05172.10       2.8    8.5   0.0       6.1    7.4   0.0   1.5   1   0   0   1   1   1   0 Cytochrome P450 family monooxygenase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00185610 PE=3 SV=2
+tr|I7MLH3|I7MLH3_TETTS   -          Nup35_RRM            PF05172.10       3.3    8.3   0.0       7.5    7.2   0.0   1.7   1   1   0   1   1   1   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00557810 PE=4 SV=1
+tr|W7XEE6|W7XEE6_TETTS   -          Nup35_RRM            PF05172.10       4.1    8.0   0.1       6.9    7.3   0.1   1.4   1   0   0   1   1   1   0 ADP-ribosylation factor family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000833689 PE=4 SV=1
+tr|Q22BT3|Q22BT3_TETTS   -          Nup35_RRM            PF05172.10       4.9    7.7   0.0        12    6.4   0.0   1.6   1   0   0   1   1   1   0 MAK10 subunit, NatC N(Alpha)-terminal acetyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01084350 PE=3 SV=2
+tr|Q22TY7|Q22TY7_TETTS   -          Nup35_RRM            PF05172.10       5.2    7.7   0.1        11    6.6   0.1   1.5   1   0   0   1   1   1   0 Gtr1/RagA G motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00264950 PE=3 SV=1
+tr|Q22DU0|Q22DU0_TETTS   -          Nup35_RRM            PF05172.10       5.3    7.6   0.0        15    6.2   0.0   1.7   1   1   0   1   1   1   0 Carboxypeptidase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00927200 PE=3 SV=2
+tr|W7XEC1|W7XEC1_TETTS   -          Nup35_RRM            PF05172.10       5.9    7.5   0.3        63    4.2   0.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000769571 PE=4 SV=1
+tr|Q228L7|Q228L7_TETTS   -          Nup35_RRM            PF05172.10       6.4    7.4   0.0        10    6.7   0.0   1.3   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01540720 PE=4 SV=1
+tr|I7MKI7|I7MKI7_TETTS   -          Nup35_RRM            PF05172.10       8.5    7.0   0.1        16    6.1   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00131130 PE=4 SV=2
+tr|Q22CI7|Q22CI7_TETTS   -          Nup35_RRM            PF05172.10       8.7    6.9   0.0        13    6.4   0.0   1.2   1   0   0   1   1   1   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01043220 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup53.txt --max --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:34:53 2022
+# [ok]

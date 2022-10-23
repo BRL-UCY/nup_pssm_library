@@ -1,0 +1,27 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MJ63|I7MJ63_TETTS   -          GLE1                 PF07817.10       1.3    8.8   0.0       2.1    8.1   0.0   1.2   1   0   0   1   1   1   0 Heat shock 70 kDa protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00125640 PE=3 SV=1
+tr|Q23DW8|Q23DW8_TETTS   -          GLE1                 PF07817.10       1.9    8.3   0.1       4.2    7.1   0.0   1.6   2   0   0   2   2   2   0 RING-type zinc-finger, LisH dimerization motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00043750 PE=4 SV=1
+tr|W7X191|W7X191_TETTS   -          GLE1                 PF07817.10       1.9    8.2   2.3       2.7    7.7   2.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000330043 PE=4 SV=1
+tr|Q234B8|Q234B8_TETTS   -          GLE1                 PF07817.10       2.2    8.0   1.1       2.7    7.7   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00106860 PE=4 SV=1
+tr|Q22KP9|Q22KP9_TETTS   -          GLE1                 PF07817.10       2.6    7.8   0.0       4.1    7.1   0.0   1.2   1   0   0   1   1   1   0 Divergent AAA domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00312320 PE=4 SV=1
+tr|I7MJ97|I7MJ97_TETTS   -          GLE1                 PF07817.10       2.8    7.7   0.2       4.3    7.1   0.2   1.2   1   0   0   1   1   1   0 DNA helicase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00128650 PE=4 SV=2
+tr|Q24I45|Q24I45_TETTS   -          GLE1                 PF07817.10       2.9    7.6   0.7       4.5    7.0   0.7   1.2   1   0   0   1   1   1   0 DEAD/DEAH-box helicase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00569290 PE=3 SV=3
+tr|Q23JX2|Q23JX2_TETTS   -          GLE1                 PF07817.10       3.7    7.3   0.0        27    4.5   0.1   2.1   2   0   0   2   2   2   0 MIF4G domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00196620 PE=4 SV=2
+tr|Q22E49|Q22E49_TETTS   -          GLE1                 PF07817.10         4    7.2   0.0        25    4.5   0.0   2.1   2   0   0   2   2   2   0 Sec7 domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00895780 PE=4 SV=3
+tr|W7XD52|W7XD52_TETTS   -          GLE1                 PF07817.10       4.4    7.0   0.4       7.9    6.2   0.4   1.3   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000105399 PE=4 SV=1
+tr|I7M2Y1|I7M2Y1_TETTS   -          GLE1                 PF07817.10       4.9    6.9   0.0       8.8    6.1   0.0   1.3   1   0   0   1   1   1   0 Calpain family cysteine protease OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00931970 PE=4 SV=2
+tr|I7M7Y7|I7M7Y7_TETTS   -          GLE1                 PF07817.10       6.3    6.5   0.0        10    5.8   0.0   1.3   1   0   0   1   1   1   0 Carrier protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00188470 PE=3 SV=1
+tr|I7ML78|I7ML78_TETTS   -          GLE1                 PF07817.10       6.5    6.5   0.2        14    5.4   0.2   1.5   1   0   0   1   1   1   0 Protein MON2 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00149400 PE=4 SV=2
+tr|Q22FZ4|Q22FZ4_TETTS   -          GLE1                 PF07817.10       7.6    6.3   0.0        11    5.8   0.0   1.1   1   0   0   1   1   1   0 Protein FYV4, mitochondrial OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00721630 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:41:37 2022
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q10331|NU107_SCHPO  -          Nup84_Nup100         PF04121.10    2e-153  510.4   3.9  2.4e-153  510.1   3.9   1.0   1   0   0   1   1   1   1 Nucleoporin nup107 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup107 PE=1 SV=4
+sp|Q09180|MATP2_SCHPO  -          Nup84_Nup100         PF04121.10      0.33    7.3   0.1       1.6    5.0   0.1   1.9   1   1   0   1   1   1   0 Pro-P-factor OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=map2 PE=1 SV=1
+sp|O14275|PPR4_SCHPO   -          Nup84_Nup100         PF04121.10       1.4    5.2   0.1       5.6    3.2   0.0   1.8   2   0   0   2   2   2   0 Pentatricopeptide repeat-containing protein 4, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppr4 PE=4 SV=1
+sp|Q09866|YAG1_SCHPO   -          Nup84_Nup100         PF04121.10       2.4    4.4   0.0       3.3    4.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized WD repeat-containing protein C12G12.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC12G12.01c PE=1 SV=2
+sp|Q9US13|RPN9_SCHPO   -          Nup84_Nup100         PF04121.10       2.5    4.3   0.0       3.6    3.8   0.0   1.2   1   0   0   1   1   1   0 Probable 26S proteasome regulatory subunit rpn9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpn9 PE=3 SV=1
+sp|O94265|THI21_SCHPO  -          Nup84_Nup100         PF04121.10       3.7    3.8   0.0       4.8    3.4   0.0   1.1   1   0   0   1   1   1   0 Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBP8B7.17c PE=3 SV=1
+sp|O74432|GET4_SCHPO   -          Nup84_Nup100         PF04121.10       4.2    3.6   0.0       5.6    3.2   0.0   1.2   1   0   0   1   1   1   0 Golgi to ER traffic protein 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=get4 PE=3 SV=1
+sp|O60127|PTF2_SCHPO   -          Nup84_Nup100         PF04121.10       5.5    3.2   0.1       5.6    3.2   0.1   1.0   1   0   0   1   1   1   0 Pdp3-interacting factor 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ptf2 PE=1 SV=1
+sp|Q9C0W7|AP2A_SCHPO   -          Nup84_Nup100         PF04121.10       6.5    3.0   0.1       9.6    2.4   0.1   1.1   1   0   0   1   1   1   0 AP-2 complex subunit alpha OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=apl3 PE=3 SV=1
+sp|O94583|YQ7B_SCHPO   -          Nup84_Nup100         PF04121.10       7.4    2.8   0.1       7.9    2.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein C1442.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1442.11c PE=4 SV=1
+sp|O59778|BIOB_SCHPO   -          Nup84_Nup100         PF04121.10         8    2.7   0.0        11    2.2   0.0   1.1   1   0   0   1   1   1   0 Biotin synthase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bio2 PE=1 SV=1
+sp|P41887|HSP90_SCHPO  -          Nup84_Nup100         PF04121.10       8.2    2.7   0.0        13    2.0   0.0   1.2   1   0   0   1   1   1   0 Heat shock protein 90 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=swo1 PE=1 SV=2
+sp|Q9HFF5|PDS5_SCHPO   -          Nup84_Nup100         PF04121.10       9.2    2.5   1.2        16    1.7   1.2   1.2   1   0   0   1   1   1   0 Sister chromatid cohesion protein pds5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pds5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup107.txt --max --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:03:31 2022
+# [ok]

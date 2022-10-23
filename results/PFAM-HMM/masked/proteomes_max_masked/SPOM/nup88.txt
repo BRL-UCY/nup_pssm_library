@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9P382|NUP82_SCHPO -          Nup88                PF10168.6     0.0017   14.5   0.1     0.062    9.3   0.0   2.2   2   0   0   2   2   2   1 Nucleoporin nup82 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup82 PE=3 SV=1
+sp|O14363|RL1A_SCHPO  -          Nup88                PF10168.6       0.97    5.4   0.0       1.2    5.0   0.0   1.1   1   0   0   1   1   1   0 60S ribosomal protein L1-A OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpl102 PE=1 SV=1
+sp|Q9C0U6|XKS1_SCHPO  -          Nup88                PF10168.6          1    5.3   0.0       1.4    4.8   0.0   1.1   1   0   0   1   1   1   0 Xylulose kinase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=xks1 PE=3 SV=1
+sp|O74836|RL1B_SCHPO  -          Nup88                PF10168.6        1.2    5.1   0.0       1.6    4.7   0.0   1.1   1   0   0   1   1   1   0 60S ribosomal protein L1-B OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpl101 PE=1 SV=1
+sp|O74563|BRL2_SCHPO  -          Nup88                PF10168.6        3.1    3.7   0.2       4.2    3.3   0.2   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase brl2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=brl2 PE=1 SV=1
+sp|Q9Y7S2|YQO3_SCHPO  -          Nup88                PF10168.6        4.1    3.3   9.5       3.3    3.6   5.4   2.3   1   1   2   3   3   3   0 UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+sp|O13633|YNF5_SCHPO  -          Nup88                PF10168.6        4.4    3.2   0.0       6.3    2.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized J domain-containing protein C17A3.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pi041 PE=1 SV=1
+sp|Q9UST3|VPS52_SCHPO -          Nup88                PF10168.6          6    2.8   0.0       8.7    2.2   0.0   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 52 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vps52 PE=3 SV=1
+sp|Q10317|MED20_SCHPO -          Nup88                PF10168.6          7    2.5   0.0       7.8    2.4   0.0   1.1   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 20 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=med20 PE=1 SV=2
+sp|Q9USY2|YOW4_SCHPO  -          Nup88                PF10168.6        8.3    2.3   0.0        12    1.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized RNA-binding protein C1861.04c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1861.04c PE=4 SV=1
+sp|Q9HDZ6|DAM1_SCHPO  -          Nup88                PF10168.6        8.5    2.3   0.2       9.5    2.1   0.2   1.1   1   0   0   1   1   1   0 DASH complex subunit dam1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dam1 PE=1 SV=1
+sp|Q6LA54|YF48_SCHPO  -          Nup88                PF10168.6        9.9    2.0   0.0        14    1.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized WD repeat-containing protein C3H5.08c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC3H5.08c PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:04:08 2022
+# [ok]

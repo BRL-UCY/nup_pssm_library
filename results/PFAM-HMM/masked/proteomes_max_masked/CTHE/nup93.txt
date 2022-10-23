@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S024|NIC96_CHATD  -          Nic96                PF04097.11    3e-206  685.3   0.0  3.7e-206  685.0   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin NIC96 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NIC96 PE=1 SV=1
+tr|G0S679|G0S679_CHATD -          Nic96                PF04097.11     0.059   10.5   0.1      0.46    7.6   0.0   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025790 PE=3 SV=1
+tr|G0S390|G0S390_CHATD -          Nic96                PF04097.11      0.21    8.7   0.1       9.4    3.2   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0020120 PE=4 SV=1
+tr|G0S5Z2|G0S5Z2_CHATD -          Nic96                PF04097.11         2    5.5   0.0       2.9    4.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025440 PE=4 SV=1
+tr|G0S4E5|G0S4E5_CHATD -          Nic96                PF04097.11       2.8    5.0   2.4       4.7    4.2   2.4   1.2   1   0   0   1   1   1   0 Exocyst complex component SEC15 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0022530 PE=3 SV=1
+tr|G0SB62|G0SB62_CHATD -          Nic96                PF04097.11       6.2    3.8   0.0       8.5    3.4   0.0   1.1   1   0   0   1   1   1   0 Putative sugar transporter protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0049030 PE=3 SV=1
+tr|G0SFC1|G0SFC1_CHATD -          Nic96                PF04097.11       7.4    3.6   0.0        10    3.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061520 PE=4 SV=1
+tr|G0S4X5|G0S4X5_CHATD -          Nic96                PF04097.11       8.6    3.4   0.0        15    2.6   0.0   1.2   1   0   0   1   1   1   0 SEC7 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0032010 PE=4 SV=1
+tr|G0SI07|G0SI07_CHATD -          Nic96                PF04097.11       9.8    3.2   0.0        13    2.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0074050 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:11:40 2022
+# [ok]

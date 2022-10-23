@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94418|MUG87_SCHPO -          Nic96                PF04097.11  3.4e-160  532.7   0.0  4.3e-160  532.4   0.0   1.1   1   0   0   1   1   1   1 Meiotically up-regulated gene 87 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug87 PE=1 SV=1
+sp|O14310|NP106_SCHPO -          Nic96                PF04097.11  1.3e-140  468.0   0.0  1.7e-140  467.7   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin npp106 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=npp106 PE=1 SV=1
+sp|Q10331|NU107_SCHPO -          Nic96                PF04097.11     0.016   11.9   0.1     0.025   11.3   0.1   1.2   1   0   0   1   1   1   0 Nucleoporin nup107 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup107 PE=1 SV=4
+sp|Q10161|CLH_SCHPO   -          Nic96                PF04097.11     0.027   11.1   0.1       2.5    4.6   0.1   2.6   2   0   0   2   2   2   0 Probable clathrin heavy chain OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=chc1 PE=1 SV=1
+sp|Q9USH6|NAA40_SCHPO -          Nic96                PF04097.11      0.56    6.8   0.0      0.72    6.4   0.0   1.1   1   0   0   1   1   1   0 N-alpha-acetyltransferase 40 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=naa40 PE=1 SV=1
+sp|Q09903|DRS1_SCHPO  -          Nic96                PF04097.11       1.9    5.0   0.0       2.8    4.5   0.0   1.1   1   0   0   1   1   1   0 ATP-dependent RNA helicase drs1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=drs1 PE=3 SV=1
+sp|Q09866|YAG1_SCHPO  -          Nic96                PF04097.11       3.1    4.3   0.0       4.7    3.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized WD repeat-containing protein C12G12.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC12G12.01c PE=1 SV=2
+sp|O14323|MCP4_SCHPO  -          Nic96                PF04097.11       4.3    3.9   0.0       5.7    3.5   0.0   1.1   1   0   0   1   1   1   0 Meiotic coiled-coil protein 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mcp4 PE=1 SV=1
+sp|O74789|YOU5_SCHPO  -          Nic96                PF04097.11       6.7    3.2   0.0       9.7    2.7   0.0   1.1   1   0   0   1   1   1   0 Putative serine/threonine-protein phosphatase C26H8.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC26H8.05c PE=1 SV=1
+sp|Q9P7R9|SYF1_SCHPO  -          Nic96                PF04097.11       7.8    3.0   0.0        66   -0.0   0.0   1.9   2   0   0   2   2   2   0 Pre-mRNA-splicing factor cwf3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf3 PE=1 SV=1
+sp|Q10339|EXO70_SCHPO -          Nic96                PF04097.11       8.9    2.8   0.1        13    2.3   0.1   1.1   1   0   0   1   1   1   0 Exocyst complex component exo70 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=exo70 PE=1 SV=1
+sp|P36614|PPE1_SCHPO  -          Nic96                PF04097.11       9.9    2.7   0.0        13    2.3   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase ppe1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppe1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:02:25 2022
+# [ok]

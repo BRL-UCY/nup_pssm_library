@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13926|YF66_SCHPO   -          Big_2                PF02368.15      0.91    7.7   0.1       1.5    7.0   0.1   1.3   1   0   0   1   1   1   0 UPF0665 family protein C23C4.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC23C4.06c PE=3 SV=1
+sp|Q9P7D7|LCF2_SCHPO   -          Big_2                PF02368.15       1.4    7.1   0.0       2.6    6.2   0.0   1.3   1   0   0   1   1   1   0 Long-chain-fatty-acid--CoA ligase 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lcf2 PE=3 SV=1
+sp|O14086|RPA49_SCHPO  -          Big_2                PF02368.15       2.8    6.1   0.1       7.1    4.9   0.1   1.6   1   0   0   1   1   1   0 DNA-directed RNA polymerase I subunit rpa49 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpa49 PE=2 SV=1
+sp|O94245|YJ14_SCHPO   -          Big_2                PF02368.15       3.8    5.7   0.0       7.5    4.8   0.0   1.4   1   0   0   1   1   1   0 UPF0300 protein C737.04 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC737.04 PE=3 SV=1
+sp|Q9UTF6|COX6_SCHPO   -          Big_2                PF02368.15       9.1    4.5   0.0        16    3.7   0.0   1.3   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 6, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cox6 PE=3 SV=1
+sp|Q9USN3|UTP13_SCHPO  -          Big_2                PF02368.15       9.5    4.4   2.4        37    2.6   0.1   3.0   3   0   0   3   3   3   0 Probable U3 small nucleolar RNA-associated protein 13 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=utp13 PE=3 SV=3
+sp|G2TRL5|NEW2_SCHPO   -          Big_2                PF02368.15       9.8    4.4   0.0        17    3.7   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein new2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=new2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:04:12 2022
+# [ok]

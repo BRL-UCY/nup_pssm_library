@@ -1,0 +1,21 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23VW5|Q23VW5_TETTS   -          Nup54                PF13874.3        2.2    9.0   0.1       3.5    8.3   0.1   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00794660 PE=4 SV=1
+tr|Q23KM3|Q23KM3_TETTS   -          Nup54                PF13874.3        2.8    8.6   1.5       3.6    8.3   1.5   1.3   1   0   0   1   1   1   0 Kinase domain protein (Fragment) OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01703350 PE=4 SV=4
+tr|Q235C3|Q235C3_TETTS   -          Nup54                PF13874.3        3.2    8.4   0.8       7.8    7.2   0.8   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00804760 PE=4 SV=2
+tr|Q24FK4|Q24FK4_TETTS   -          Nup54                PF13874.3        3.8    8.2   0.0       7.5    7.2   0.0   1.4   1   0   0   1   1   1   0 Insulysin, insulin-degrading enzyme OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01165230 PE=4 SV=2
+tr|W7XG14|W7XG14_TETTS   -          Nup54                PF13874.3        5.8    7.6   0.7        11    6.8   0.6   1.6   1   1   0   1   1   1   0 Kinase domain protein (Fragment) OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_002653367 PE=4 SV=1
+tr|Q23JU9|Q23JU9_TETTS   -          Nup54                PF13874.3        7.7    7.2   0.1        18    6.0   0.1   1.6   1   0   0   1   1   1   0 Cytochrome P450 family monooxygenase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01369770 PE=3 SV=2
+tr|Q23F64|Q23F64_TETTS   -          Nup54                PF13874.3        8.8    7.0   0.5        69    4.1   0.1   2.0   1   1   1   2   2   2   0 Kelch motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00383490 PE=4 SV=2
+tr|Q22HF0|Q22HF0_TETTS   -          Nup54                PF13874.3        9.9    6.8   0.1        23    5.7   0.1   1.3   1   1   1   2   2   2   0 Heat shock factor-binding protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00637530 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:44:11 2022
+# [ok]

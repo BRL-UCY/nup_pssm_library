@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0S6K6|G0S6K6_CHATD -          Ran_BP1              PF00638.15     3e-38  129.5   0.0   3.6e-38  129.3   0.0   1.1   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein 1-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026550 PE=4 SV=1
+sp|G0SDP9|NU152_CHATD  -          Ran_BP1              PF00638.15   5.3e-12   44.8   0.0   8.9e-12   44.1   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin NUP152 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP152 PE=3 SV=1
+sp|G0S8I1|NUP56_CHATD  -          Ran_BP1              PF00638.15   2.3e-09   36.3   0.6    0.0002   20.3   0.2   2.2   2   0   0   2   2   2   2 Nucleoporin NUP56 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP56 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CTHE/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:29:54 2022
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8J7T8|A8J7T8_CHLRE         -          TPR_MLP1_2           PF07926.9      0.087   13.0   4.0      0.25   11.5   4.0   1.8   1   1   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g407750v5 PE=4 SV=1
+tr|A0A2K3DZ55|A0A2K3DZ55_CHLRE -          TPR_MLP1_2           PF07926.9        0.3   11.2   1.6      0.89    9.7   0.2   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204000v5 PE=4 SV=1
+tr|A0A2K3DTC1|A0A2K3DTC1_CHLRE -          TPR_MLP1_2           PF07926.9       0.72   10.0   0.0       2.1    8.5   0.0   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g217220v5 PE=4 SV=1
+tr|A0A2K3DKL0|A0A2K3DKL0_CHLRE -          TPR_MLP1_2           PF07926.9        1.4    9.0   0.2         3    8.0   0.0   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g342250v5 PE=3 SV=1
+tr|A0A2K3D1N6|A0A2K3D1N6_CHLRE -          TPR_MLP1_2           PF07926.9        2.4    8.3   0.2       2.8    8.1   0.2   1.1   1   0   0   1   1   1   0 RNA_pol_L_2 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g484100v5 PE=3 SV=1
+tr|A0A2K3E0D5|A0A2K3E0D5_CHLRE -          TPR_MLP1_2           PF07926.9        2.5    8.2   0.8       5.7    7.1   0.1   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g078500v5 PE=4 SV=1
+tr|A0A2K3DT41|A0A2K3DT41_CHLRE -          TPR_MLP1_2           PF07926.9        3.4    7.8   0.5       6.9    6.8   0.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g239600v5 PE=4 SV=1
+tr|A9CQL4|A9CQL4_CHLRE         -          TPR_MLP1_2           PF07926.9        3.9    7.6   1.3        13    5.9   0.0   2.3   2   1   0   2   2   2   0 Centriole protein OS=Chlamydomonas reinhardtii OX=3055 GN=CrSAS-6 PE=1 SV=1
+tr|A0A2K3D2Z2|A0A2K3D2Z2_CHLRE -          TPR_MLP1_2           PF07926.9        5.7    7.1   0.8       9.2    6.4   0.8   1.2   1   0   0   1   1   1   0 Spc7 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g505300v5 PE=4 SV=1
+tr|A0A2K3DSY0|A0A2K3DSY0_CHLRE -          TPR_MLP1_2           PF07926.9        6.5    6.9   0.1       9.8    6.3   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g237750v5 PE=4 SV=1
+tr|A0A2K3DLR4|A0A2K3DLR4_CHLRE -          TPR_MLP1_2           PF07926.9          9    6.4   1.2        15    5.7   1.2   1.3   1   0   0   1   1   1   0 ING domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g357650v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/mtor.txt --max --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:36:23 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9US56|MUG31_SCHPO  -          NPCC                 PF08058.8    2.5e-13   48.5   0.0   5.9e-12   44.0   0.0   2.1   1   1   0   1   1   1   1 Meiotically up-regulated gene 31 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug31 PE=1 SV=1
+sp|O14086|RPA49_SCHPO  -          NPCC                 PF08058.8        1.1    7.6   0.1       2.9    6.2   0.0   1.8   2   0   0   2   2   2   0 DNA-directed RNA polymerase I subunit rpa49 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpa49 PE=2 SV=1
+sp|Q92368|RCD1_SCHPO   -          NPCC                 PF08058.8        1.9    6.8   0.7        21    3.4   0.1   2.6   2   2   0   2   2   2   0 Cell differentiation protein rcd1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rcd1 PE=3 SV=1
+sp|Q9URX3|1A1D_SCHPO   -          NPCC                 PF08058.8        4.4    5.6   0.0       8.9    4.6   0.0   1.5   1   1   0   1   1   1   0 Probable 1-aminocyclopropane-1-carboxylate deaminase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC922.03 PE=3 SV=1
+sp|Q9USM4|LUC7_SCHPO   -          NPCC                 PF08058.8        4.6    5.6   0.1       7.4    4.9   0.1   1.2   1   0   0   1   1   1   0 U1 snRNP-associated protein usp106 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=usp106 PE=1 SV=1
+sp|O94299|YOOG_SCHPO   -          NPCC                 PF08058.8        5.8    5.2   0.1       7.7    4.8   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein C887.16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC887.16 PE=4 SV=1
+sp|Q65ZA5|YFSA_SCHPO   -          NPCC                 PF08058.8        8.8    4.6   0.1       8.2    4.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein C19D5.10c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC19D5.10c PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:08:16 2022
+# [ok]

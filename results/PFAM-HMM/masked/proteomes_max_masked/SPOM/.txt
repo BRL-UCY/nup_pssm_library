@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A0ZWU1|EAF1_SCHPO  -          IR1-M                PF12185.5        1.1    7.5   0.0       2.1    6.6   0.0   1.4   1   0   0   1   1   1   0 Ell1-associated factor 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=eaf1 PE=1 SV=1
+sp|Q10167|YAUE_SCHPO  -          IR1-M                PF12185.5        2.1    6.6   0.0       2.5    6.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein C26A3.14c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC26A3.14c PE=4 SV=1
+sp|Q9USX0|PVG3_SCHPO  -          IR1-M                PF12185.5        2.8    6.2   0.0         7    4.9   0.0   1.6   1   1   0   1   1   1   0 Beta-1,3-galactosyltransferase pvg3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pvg3 PE=1 SV=1
+sp|O74833|DNLI4_SCHPO -          IR1-M                PF12185.5          4    5.7   0.1        10    4.4   0.1   1.6   1   0   0   1   1   1   0 DNA ligase 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lig4 PE=3 SV=3
+sp|Q9UTF6|COX6_SCHPO  -          IR1-M                PF12185.5        5.7    5.2   0.1        94    1.3   0.0   2.4   2   1   1   3   3   3   0 Cytochrome c oxidase subunit 6, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cox6 PE=3 SV=1
+sp|O94719|MUG4_SCHPO  -          IR1-M                PF12185.5        7.1    4.9   0.0        17    3.7   0.0   1.5   1   0   0   1   1   1   0 Meiotically up-regulated gene 4 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug4 PE=1 SV=1
+sp|Q9HE06|YK99_SCHPO  -          IR1-M                PF12185.5        8.3    4.7   0.0        20    3.5   0.0   1.5   1   0   0   1   1   1   0 Putative pre-mRNA-splicing factor ATP-dependent RNA helicase C20H4.09 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC20H4.09 PE=3 SV=1
+sp|Q09803|VPS4_SCHPO  -          IR1-M                PF12185.5        9.6    4.5   0.0        27    3.1   0.0   1.7   1   0   0   1   1   1   0 Suppressor protein of bem1/bed5 double mutants OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vps4 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:06:11 2022
+# [ok]

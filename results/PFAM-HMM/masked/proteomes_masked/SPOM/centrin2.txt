@@ -1,0 +1,29 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P05933|CALM_SCHPO  -          EF-hand_7            PF13499.3    9.3e-26   88.3   0.0   2.9e-12   45.1   0.0   2.1   2   0   0   2   2   2   2 Calmodulin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cam1 PE=1 SV=1
+sp|Q09711|NCS1_SCHPO  -          EF-hand_7            PF13499.3    3.4e-25   86.5   1.8   3.9e-16   57.5   0.1   2.6   2   1   0   2   2   2   2 Calcium-binding protein NCS-1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ncs1 PE=1 SV=2
+sp|O14008|CAM2_SCHPO  -          EF-hand_7            PF13499.3    7.9e-16   56.5   0.7   8.4e-10   37.2   0.2   2.1   2   0   0   2   2   2   2 Myosin 1 light chain cam2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cam2 PE=1 SV=1
+sp|O74435|CDC31_SCHPO -          EF-hand_7            PF13499.3    2.9e-15   54.7   1.0   3.3e-07   28.9   0.1   2.1   2   0   0   2   2   2   2 Cell division control protein 31 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc31 PE=1 SV=1
+sp|Q9UU93|CANB_SCHPO  -          EF-hand_7            PF13499.3    6.1e-12   44.1   0.7   1.9e-07   29.6   0.4   2.2   2   0   0   2   2   2   2 Calcineurin subunit B OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cnb1 PE=3 SV=1
+sp|O94455|YFFE_SCHPO  -          EF-hand_7            PF13499.3    5.3e-10   37.8   0.2   6.1e-10   37.6   0.2   1.1   1   0   0   1   1   1   1 Uncharacterized calcium-binding protein C1687.14c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC1687.14c PE=4 SV=1
+sp|Q09196|MLR4_SCHPO  -          EF-hand_7            PF13499.3    1.8e-08   33.0   0.0    0.0029   16.2   0.0   2.5   2   1   0   2   2   2   2 Myosin regulatory light chain cdc4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc4 PE=1 SV=1
+sp|P40977|PLC1_SCHPO  -          EF-hand_7            PF13499.3    1.3e-06   26.9   0.1   3.6e-06   25.6   0.1   1.7   1   0   0   1   1   1   1 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=plc1 PE=1 SV=1
+sp|Q9HGL2|YHLA_SCHPO  -          EF-hand_7            PF13499.3    3.5e-06   25.6   0.0       1.2    7.9   0.0   3.4   3   0   0   3   3   3   2 Uncharacterized calcium-binding protein C800.10c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC800.10c PE=4 SV=1
+sp|O74903|YCS3_SCHPO  -          EF-hand_7            PF13499.3    2.6e-05   22.8   0.3   3.6e-05   22.4   0.3   1.2   1   0   0   1   1   1   1 Uncharacterized calcium-binding protein C613.03 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC613.03 PE=3 SV=1
+sp|Q9UUG5|MLR1_SCHPO  -          EF-hand_7            PF13499.3    6.4e-05   21.5   0.0     0.055   12.1   0.0   2.1   2   0   0   2   2   2   2 Myosin regulatory light chain 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rlc1 PE=1 SV=1
+sp|O59945|FIMB_SCHPO  -          EF-hand_7            PF13499.3    0.00043   18.9   0.0   0.00089   17.9   0.0   1.5   1   0   0   1   1   1   1 Fimbrin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fim1 PE=1 SV=1
+sp|O43048|YH51_SCHPO  -          EF-hand_7            PF13499.3     0.0019   16.8   1.1       2.3    7.0   0.0   3.4   2   2   1   3   3   3   1 TBC domain-containing protein C215.01 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC215.01 PE=3 SV=4
+sp|Q10172|PAN1_SCHPO  -          EF-hand_7            PF13499.3      0.011   14.4   0.0      0.71    8.6   0.0   2.2   2   0   0   2   2   2   0 Actin cytoskeleton-regulatory complex protein pan1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pan1 PE=1 SV=1
+sp|O94685|UCP8_SCHPO  -          EF-hand_7            PF13499.3      0.033   12.9   0.0       1.5    7.5   0.0   2.9   3   0   0   3   3   3   0 UBA domain-containing protein 8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ucp8 PE=1 SV=2
+sp|O94711|GYP2_SCHPO  -          EF-hand_7            PF13499.3      0.041   12.5   0.7      0.15   10.7   0.3   2.2   2   1   0   2   2   1   0 GTPase-activating protein gyp2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gyp2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13499.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/centrin2.txt --cpu 8 hmm_profiles/PF13499.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:31:48 2022
+# [ok]

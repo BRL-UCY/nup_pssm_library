@@ -1,0 +1,29 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P78847|NU186_SCHPO -          Nup192               PF11894.5   1.1e-145  485.2  19.4  1.4e-145  484.9  19.4   1.0   1   0   0   1   1   1   1 Nucleoporin nup186 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup186 PE=2 SV=2
+sp|P14068|XPO1_SCHPO  -          Nup192               PF11894.5       0.45    5.8   0.0      0.77    5.1   0.0   1.2   1   0   0   1   1   1   0 Exportin-1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=xpo1 PE=1 SV=3
+sp|O94572|YGDF_SCHPO  -          Nup192               PF11894.5       0.96    4.7   0.0       1.5    4.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized transporter C1773.15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1773.15 PE=3 SV=1
+sp|O94258|XPOT_SCHPO  -          Nup192               PF11894.5        2.5    3.3   0.0       3.9    2.7   0.0   1.2   1   0   0   1   1   1   0 Exportin-T OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=los1 PE=1 SV=1
+sp|O42903|YBAC_SCHPO  -          Nup192               PF11894.5        2.5    3.3   0.3       3.3    3.0   0.3   1.0   1   0   0   1   1   1   0 GRIP domain-containing protein C119.12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC119.12 PE=2 SV=1
+sp|Q9UUJ3|RGA9_SCHPO  -          Nup192               PF11894.5        3.8    2.8   1.0        18    0.5   0.6   1.6   1   1   1   2   2   2   0 Probable Rho-GTPase-activating protein 9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rga9 PE=1 SV=2
+sp|O43028|VAC8_SCHPO  -          Nup192               PF11894.5        4.2    2.6   0.1       6.7    1.9   0.1   1.2   1   0   0   1   1   1   0 Vacuolar protein 8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vac8 PE=1 SV=4
+sp|O94465|CMS1_SCHPO  -          Nup192               PF11894.5        4.9    2.4   0.0       6.8    1.9   0.0   1.1   1   0   0   1   1   1   0 Protein cms1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cms1 PE=3 SV=1
+sp|O14106|RGG8_SCHPO  -          Nup192               PF11894.5          6    2.1   0.1       7.2    1.8   0.1   1.0   1   0   0   1   1   1   0 Protein rgg8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rgg8 PE=4 SV=2
+sp|O74846|SEC6_SCHPO  -          Nup192               PF11894.5        6.3    2.0   0.9       9.1    1.5   0.9   1.2   1   0   0   1   1   1   0 Exocyst complex component sec6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sec6 PE=1 SV=2
+sp|Q9UUG9|TSC2_SCHPO  -          Nup192               PF11894.5          7    1.9   0.2        10    1.3   0.2   1.1   1   0   0   1   1   1   0 Tuberous sclerosis 2 protein homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tsc2 PE=1 SV=1
+sp|O43005|AP2B_SCHPO  -          Nup192               PF11894.5        7.7    1.7   0.1       9.6    1.4   0.1   1.1   1   0   0   1   1   1   0 AP-2 complex subunit beta OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=apl1 PE=3 SV=1
+sp|O74994|RNG3_SCHPO  -          Nup192               PF11894.5        7.7    1.7   0.1        13    1.0   0.1   1.3   1   0   0   1   1   1   0 Ring assembly protein 3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rng3 PE=4 SV=1
+sp|Q9Y7N9|YCKC_SCHPO  -          Nup192               PF11894.5        7.8    1.7   0.6        11    1.2   0.6   1.1   1   0   0   1   1   1   0 PX domain-containing protein C1450.12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1450.12 PE=1 SV=1
+sp|Q9P6I1|UBC16_SCHPO -          Nup192               PF11894.5        8.5    1.6   0.0        11    1.3   0.0   1.0   1   0   0   1   1   1   0 Ubiquitin-conjugating enzyme E2 16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ubc16 PE=3 SV=2
+sp|O14343|KLP5_SCHPO  -          Nup192               PF11894.5        9.8    1.4   0.5        14    0.9   0.5   1.1   1   0   0   1   1   1   0 Kinesin-like protein 5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=klp5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:06:06 2022
+# [ok]

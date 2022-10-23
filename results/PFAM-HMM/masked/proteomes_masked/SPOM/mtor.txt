@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74424|NU211_SCHPO -          TPR_MLP1_2           PF07926.9    1.8e-19   68.3   8.8   9.4e-19   66.0   0.0   4.9   6   0   0   6   6   6   2 Nucleoporin nup211 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup211 PE=1 SV=1
+sp|Q9Y7S2|YQO3_SCHPO  -          TPR_MLP1_2           PF07926.9      0.028   12.7   0.0      0.43    8.9   0.0   2.6   1   1   0   1   1   1   0 UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:31:35 2022
+# [ok]

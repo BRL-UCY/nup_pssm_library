@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498ISK3|A0A498ISK3_MALDO -          Ran_BP1              PF00638.15   6.4e-28   98.7   0.0   7.6e-28   98.4   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041650 PE=4 SV=1
+tr|A0A498KCT1|A0A498KCT1_MALDO -          Ran_BP1              PF00638.15   9.2e-28   98.2   0.0   1.1e-27   97.9   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038448 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          Ran_BP1              PF00638.15   5.8e-12   47.1   0.0   7.8e-12   46.7   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498IZS3|A0A498IZS3_MALDO -          Ran_BP1              PF00638.15   7.2e-12   46.8   0.0   1.1e-11   46.3   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498K4X5|A0A498K4X5_MALDO -          Ran_BP1              PF00638.15     0.045   15.2   0.0      0.07   14.6   0.0   1.2   1   0   0   1   1   1   0 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001279 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:30:41 2022
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94652|GLE1_SCHPO  -          GLE1                 PF07817.10   8.3e-55  183.9   0.0   1.3e-54  183.3   0.0   1.1   1   0   0   1   1   1   1 mRNA export factor gle1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gle1 PE=3 SV=1
+sp|Q09174|GMA12_SCHPO -          GLE1                 PF07817.10       2.2    5.7   0.0       3.3    5.1   0.0   1.2   1   0   0   1   1   1   0 Alpha-1,2-galactosyltransferase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gma12 PE=1 SV=1
+sp|Q09774|ATPN_SCHPO  -          GLE1                 PF07817.10       3.3    5.1   0.0       3.8    4.9   0.0   1.1   1   0   0   1   1   1   0 ATP synthase subunit g, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=atp20 PE=3 SV=1
+sp|O74342|YH2B_SCHPO  -          GLE1                 PF07817.10       3.5    5.0   0.1       5.5    4.4   0.1   1.5   1   1   0   1   1   1   0 Uncharacterized protein C1A4.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1A4.09c PE=4 SV=1
+sp|P36604|BIP_SCHPO   -          GLE1                 PF07817.10       5.1    4.5   0.0       8.2    3.8   0.0   1.2   1   0   0   1   1   1   0 Endoplasmic reticulum chaperone BiP OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bip1 PE=3 SV=2
+sp|P87178|YB1D_SCHPO  -          GLE1                 PF07817.10       5.3    4.4   0.0       8.7    3.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein C3D6.13c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC3D6.13c PE=1 SV=1
+sp|O43091|DPS1_SCHPO  -          GLE1                 PF07817.10       5.8    4.3   0.1        12    3.2   0.1   1.5   1   0   0   1   1   1   0 Decaprenyl-diphosphate synthase subunit 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dps1 PE=1 SV=1
+sp|O14322|MU100_SCHPO -          GLE1                 PF07817.10       8.6    3.7   0.0        12    3.2   0.0   1.2   1   0   0   1   1   1   0 Meiotically up-regulated gene 100 protein, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug100 PE=1 SV=1
+sp|O94666|RPC1_SCHPO  -          GLE1                 PF07817.10        10    3.5   0.0        19    2.6   0.0   1.4   1   0   0   1   1   1   0 DNA-directed RNA polymerase III subunit rpc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpc1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/gle1.txt --max --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:07:57 2022
+# [ok]

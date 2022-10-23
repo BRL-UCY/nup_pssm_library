@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JNT9|A0A498JNT9_MALDO -          ELYS                 PF13934.3    8.7e-43  148.1   0.0   1.5e-42  147.3   0.0   1.4   1   0   0   1   1   1   1 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035888 PE=4 SV=1
+tr|A0A498JR90|A0A498JR90_MALDO -          ELYS                 PF13934.3       0.01   17.0   0.0     0.049   14.8   0.0   2.1   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010784 PE=4 SV=1
+tr|A0A498JTT4|A0A498JTT4_MALDO -          ELYS                 PF13934.3      0.013   16.7   0.0     0.017   16.3   0.0   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010781 PE=4 SV=1
+tr|A0A498I635|A0A498I635_MALDO -          ELYS                 PF13934.3       0.83   10.8   0.0       2.7    9.1   0.0   1.8   1   1   0   1   1   1   0 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023819 PE=4 SV=1
+tr|A0A498JC06|A0A498JC06_MALDO -          ELYS                 PF13934.3       0.92   10.7   0.0       2.4    9.3   0.0   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020335 PE=4 SV=1
+tr|A0A498IYJ6|A0A498IYJ6_MALDO -          ELYS                 PF13934.3        1.3   10.2   0.0       5.7    8.1   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021826 PE=4 SV=1
+tr|A0A498J2I1|A0A498J2I1_MALDO -          ELYS                 PF13934.3        1.5   10.0   0.1       5.5    8.1   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016864 PE=4 SV=1
+tr|A0A498HJJ0|A0A498HJJ0_MALDO -          ELYS                 PF13934.3        2.4    9.3   0.0         3    9.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_031466 PE=4 SV=1
+tr|A0A498KBB4|A0A498KBB4_MALDO -          ELYS                 PF13934.3        2.8    9.1   0.0       8.6    7.5   0.0   1.8   1   1   1   2   2   2   0 tRNA-binding domain-containing protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_039052 PE=4 SV=1
+tr|A0A498I6Q1|A0A498I6Q1_MALDO -          ELYS                 PF13934.3          4    8.6   0.1        36    5.5   0.0   2.4   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014688 PE=4 SV=1
+tr|A0A498J8I5|A0A498J8I5_MALDO -          ELYS                 PF13934.3        7.4    7.7   0.0       8.8    7.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021122 PE=4 SV=1
+tr|A0A498J6R7|A0A498J6R7_MALDO -          ELYS                 PF13934.3        7.4    7.7   0.0        13    6.9   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006821 PE=4 SV=1
+tr|A0A498I7V5|A0A498I7V5_MALDO -          ELYS                 PF13934.3        9.1    7.4   0.0        14    6.8   0.0   1.2   1   0   0   1   1   1   0 Glutamate decarboxylase OS=Malus domestica OX=3750 GN=DVH24_023447 PE=3 SV=1
+tr|A0A498K792|A0A498K792_MALDO -          ELYS                 PF13934.3        9.6    7.3   0.0     1e+02    4.0   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003920 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:59:58 2022
+# [ok]

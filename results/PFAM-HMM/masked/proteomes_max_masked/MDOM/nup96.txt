@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HQL7|A0A498HQL7_MALDO -          Nup96                PF12110.5    7.2e-61  207.1   0.1   9.8e-61  206.7   0.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016588 PE=4 SV=1
+tr|A0A498JEJ7|A0A498JEJ7_MALDO -          Nup96                PF12110.5      5e-55  187.9   0.1   7.2e-55  187.4   0.1   1.3   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033370 PE=4 SV=1
+tr|A0A498HRV9|A0A498HRV9_MALDO -          Nup96                PF12110.5      7e-42  144.8   0.1   9.8e-42  144.3   0.1   1.1   1   0   0   1   1   1   1 Nup96 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018938 PE=4 SV=1
+tr|A0A498IRS6|A0A498IRS6_MALDO -          Nup96                PF12110.5        1.7    8.9   0.1       2.5    8.4   0.1   1.1   1   0   0   1   1   1   0 Rep_fac-A_C domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_032886 PE=4 SV=1
+tr|A0A498I409|A0A498I409_MALDO -          Nup96                PF12110.5        3.6    7.9   0.1       4.2    7.6   0.1   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019812 PE=4 SV=1
+tr|A0A498IRM0|A0A498IRM0_MALDO -          Nup96                PF12110.5        5.6    7.2   0.0       7.2    6.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016912 PE=4 SV=1
+tr|A0A498K2C4|A0A498K2C4_MALDO -          Nup96                PF12110.5        6.8    7.0   0.0       9.1    6.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011776 PE=4 SV=1
+tr|A0A498IE48|A0A498IE48_MALDO -          Nup96                PF12110.5        8.5    6.6   0.0        12    6.2   0.0   1.2   1   0   0   1   1   1   0 HORMA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_040988 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 14:10:27 2022
+# [ok]

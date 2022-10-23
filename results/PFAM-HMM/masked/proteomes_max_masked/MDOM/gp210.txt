@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HES5|A0A498HES5_MALDO -          Big_2                PF02368.15   6.9e-10   39.9   0.0      0.01   16.9   0.0   3.8   4   0   0   4   4   4   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037293 PE=3 SV=1
+tr|A0A498I2L7|A0A498I2L7_MALDO -          Big_2                PF02368.15       6.8    7.9   0.1        14    6.9   0.1   1.4   1   0   0   1   1   1   0 Sulfotransferase OS=Malus domestica OX=3750 GN=DVH24_023684 PE=3 SV=1
+tr|A0A498IZE5|A0A498IZE5_MALDO -          Big_2                PF02368.15       7.4    7.7   0.1        76    4.5   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000249 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:43:12 2022
+# [ok]

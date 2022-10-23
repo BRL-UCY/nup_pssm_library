@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S235|NDC1_CHATD   -          Ndc1_Nup             PF09531.7   2.4e-136  454.6   0.2  2.7e-136  454.5   0.2   1.0   1   0   0   1   1   1   1 Nucleoporin NDC1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NDC1 PE=3 SV=1
+tr|G0S4I4|G0S4I4_CHATD -          Ndc1_Nup             PF09531.7       0.75    7.2   0.0      0.83    7.0   0.0   1.0   1   0   0   1   1   1   0 MICOS complex subunit MIC10 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0022940 PE=3 SV=1
+tr|G0SAC5|G0SAC5_CHATD -          Ndc1_Nup             PF09531.7        3.6    4.9   0.0       4.9    4.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0041790 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:19:05 2022
+# [ok]

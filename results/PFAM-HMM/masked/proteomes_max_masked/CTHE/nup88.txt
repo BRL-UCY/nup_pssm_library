@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S4F3|NUP82_CHATD  -          Nup88                PF10168.6       0.94    5.9   0.1       4.1    3.8   0.1   1.9   1   1   0   1   1   1   0 Nucleoporin NUP82 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP82 PE=1 SV=1
+tr|G0RZH3|G0RZH3_CHATD -          Nup88                PF10168.6        6.7    3.1   0.0       9.8    2.5   0.0   1.1   1   0   0   1   1   1   0 DNA-directed RNA polymerase subunit OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0002960 PE=3 SV=1
+tr|G0SFZ7|G0SFZ7_CHATD -          Nup88                PF10168.6        8.5    2.7   0.0        14    2.1   0.0   1.2   1   0   0   1   1   1   0 Putative ribosome assembly protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072720 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:13:37 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23DH4|Q23DH4_TETTS -          Nup35_RRM            PF05172.10    0.0027   18.2   0.1       2.4    8.7   0.0   2.5   2   1   0   2   2   2   2 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00047170 PE=4 SV=3
+tr|I7MH21|I7MH21_TETTS -          Nup35_RRM            PF05172.10     0.011   16.3   0.0       3.3    8.3   0.0   2.3   2   0   0   2   2   2   0 RNA-binding family CELF1 RNA recognition motif 3 in CELF/bruno-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00421000 PE=4 SV=2
+tr|W7XF17|W7XF17_TETTS -          Nup35_RRM            PF05172.10      0.12   12.9   1.6      0.18   12.3   1.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000629759 PE=4 SV=1
+tr|W7X719|W7X719_TETTS -          Nup35_RRM            PF05172.10      0.14   12.7   0.1       4.2    8.0   0.0   2.4   1   1   0   2   2   2   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000094109 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:52:05 2022
+# [ok]

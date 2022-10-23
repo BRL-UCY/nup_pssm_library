@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S7B6|NU170_CHATD  -          Nucleoporin_N        PF08801.8    1.9e-82  276.1   0.0   2.3e-82  275.8   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin NUP170 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP170 PE=1 SV=1
+sp|G0S9A7|NU133_CHATD  -          Nucleoporin_N        PF08801.8    2.5e-58  196.6   0.0     3e-58  196.3   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin NUP133 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP133 PE=3 SV=1
+tr|G0S3N3|G0S3N3_CHATD -          Nucleoporin_N        PF08801.8    0.00058   17.4   0.3     0.016   12.7   0.1   2.3   2   1   0   2   2   2   1 F-box domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0021870 PE=3 SV=1
+tr|G0S0F8|G0S0F8_CHATD -          Nucleoporin_N        PF08801.8     0.0042   14.6   0.0       0.7    7.3   0.0   2.5   2   1   1   3   3   3   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0009870 PE=4 SV=1
+tr|G0SFF1|G0SFF1_CHATD -          Nucleoporin_N        PF08801.8     0.0071   13.9   0.2       5.8    4.2   0.0   3.1   3   0   0   3   3   3   1 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061820 PE=4 SV=1
+tr|G0S3A8|G0S3A8_CHATD -          Nucleoporin_N        PF08801.8       0.01   13.3   0.1      0.14    9.6   0.1   2.4   1   1   1   2   2   2   0 Nuclear distribution protein PAC1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=PAC1 PE=3 SV=1
+tr|G0RZL9|G0RZL9_CHATD -          Nucleoporin_N        PF08801.8      0.011   13.2   0.9      0.42    8.0   0.1   3.5   4   1   0   4   4   4   0 Utp12 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003430 PE=1 SV=1
+tr|G0SH10|G0SH10_CHATD -          Nucleoporin_N        PF08801.8      0.014   12.9   0.1      0.25    8.8   0.0   2.7   3   0   0   3   3   3   0 Transcription initiation factor TFIID subunit-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0068280 PE=3 SV=1
+tr|G0S872|G0S872_CHATD -          Nucleoporin_N        PF08801.8      0.073   10.5   0.0       1.9    5.8   0.0   2.2   2   0   0   2   2   2   0 Putative U3 snoRNP protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037800 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CTHE/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:29:37 2022
+# [ok]

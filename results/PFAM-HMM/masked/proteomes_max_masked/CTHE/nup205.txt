@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S4T0|NU192_CHATD  -          Nup192               PF11894.5          0 1234.9   0.0         0 1234.7   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP192 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP192 PE=1 SV=1
+tr|G0S2F0|G0S2F0_CHATD -          Nup192               PF11894.5       0.52    6.1   0.2      0.61    5.9   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0017000 PE=4 SV=1
+tr|G0S9G2|G0S9G2_CHATD -          Nup192               PF11894.5        3.7    3.3   0.1       4.9    2.9   0.1   1.0   1   0   0   1   1   1   0 MYND-type zinc finger protein samB OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0045770 PE=3 SV=1
+tr|G0S352|G0S352_CHATD -          Nup192               PF11894.5        4.5    3.0   0.1       5.6    2.7   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0019680 PE=4 SV=1
+tr|G0SGK3|G0SGK3_CHATD -          Nup192               PF11894.5        4.8    2.9   0.1       6.4    2.5   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066640 PE=4 SV=1
+tr|G0SEL8|G0SEL8_CHATD -          Nup192               PF11894.5        6.3    2.5   0.2       7.9    2.2   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0064200 PE=3 SV=1
+tr|G0RYG4|G0RYG4_CHATD -          Nup192               PF11894.5        9.5    1.9   0.0        13    1.5   0.0   1.0   1   0   0   1   1   1   0 RNA helicase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0006600 PE=3 SV=1
+tr|G0S186|G0S186_CHATD -          Nup192               PF11894.5        9.9    1.9   0.0        12    1.6   0.0   1.0   1   0   0   1   1   1   0 Magnesium transporter OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0012710 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:15:46 2022
+# [ok]

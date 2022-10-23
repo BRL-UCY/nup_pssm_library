@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q24FG4|Q24FG4_TETTS   -          Nup192               PF11894.5       0.23    9.2   0.5       5.8    4.5   0.1   2.2   1   1   1   2   2   2   0 Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00864990 PE=4 SV=1
+tr|I7M724|I7M724_TETTS   -          Nup192               PF11894.5       0.43    8.3   0.3      0.66    7.7   0.3   1.1   1   0   0   1   1   1   0 CADG domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00540390 PE=4 SV=1
+tr|Q24D84|Q24D84_TETTS   -          Nup192               PF11894.5       0.86    7.3   0.6         1    7.0   0.6   1.0   1   0   0   1   1   1   0 Carbohydrate esterase family 1 protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01042010 PE=4 SV=1
+tr|Q23KI7|Q23KI7_TETTS   -          Nup192               PF11894.5        1.5    6.5   0.4       2.1    6.0   0.4   1.1   1   0   0   1   1   1   0 CLASP amine-terminal protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00193480 PE=4 SV=2
+tr|Q23R93|Q23R93_TETTS   -          Nup192               PF11894.5        1.6    6.4   1.5       1.9    6.1   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00389950 PE=4 SV=2
+tr|I7M8P4|I7M8P4_TETTS   -          Nup192               PF11894.5          2    6.0   2.9       2.3    5.9   2.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00133720 PE=4 SV=1
+tr|Q236M4|Q236M4_TETTS   -          Nup192               PF11894.5        3.2    5.4   2.0       5.4    4.6   2.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00086730 PE=4 SV=2
+tr|I7MH05|I7MH05_TETTS   -          Nup192               PF11894.5        5.1    4.7   0.3       5.4    4.6   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00420550 PE=4 SV=2
+tr|A4VF07|A4VF07_TETTS   -          Nup192               PF11894.5        5.1    4.7   0.0       6.3    4.4   0.0   1.0   1   0   0   1   1   1   0 Ubiquitin specific protease 39 and snRNP assembly factor OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00471279 PE=4 SV=1
+tr|W7XIH6|W7XIH6_TETTS   -          Nup192               PF11894.5        5.2    4.7   4.3       5.9    4.5   4.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001263981 PE=4 SV=1
+tr|Q23C04|Q23C04_TETTS   -          Nup192               PF11894.5        5.3    4.7   0.1       7.1    4.2   0.1   1.1   1   0   0   1   1   1   0 Adaptin amine-terminal region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00225780 PE=3 SV=2
+tr|I7M132|I7M132_TETTS   -          Nup192               PF11894.5        5.8    4.5   0.4         6    4.5   0.4   1.1   1   0   0   1   1   1   0 ELMO/CED-12 family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522170 PE=4 SV=2
+tr|Q236D1|Q236D1_TETTS   -          Nup192               PF11894.5        6.6    4.4   0.3        19    2.8   0.1   1.7   2   0   0   2   2   2   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00091620 PE=4 SV=2
+tr|I7M7A3|I7M7A3_TETTS   -          Nup192               PF11894.5        8.2    4.1   0.2       9.1    3.9   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00143580 PE=4 SV=1
+tr|I7M8S0|I7M8S0_TETTS   -          Nup192               PF11894.5        8.2    4.0   0.3       8.8    3.9   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00138120 PE=4 SV=1
+tr|I7MEK5|I7MEK5_TETTS   -          Nup192               PF11894.5        9.1    3.9   0.0       8.8    3.9   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00191970 PE=4 SV=1
+tr|Q23F47|Q23F47_TETTS   -          Nup192               PF11894.5        9.2    3.9   0.0       8.8    3.9   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00638860 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup205.txt --max --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:34:05 2022
+# [ok]

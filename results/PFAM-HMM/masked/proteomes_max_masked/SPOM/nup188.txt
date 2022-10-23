@@ -1,0 +1,28 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9P7M8|NU184_SCHPO -          Nup188               PF10487.6    1.7e-77  259.5  13.1   1.7e-77  259.5  13.1   2.3   2   1   1   3   3   3   1 Nucleoporin nup184 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup184 PE=4 SV=1
+sp|P78847|NU186_SCHPO -          Nup188               PF10487.6       0.13    8.3   4.3     0.068    9.3   1.3   1.9   2   0   0   2   2   2   0 Nucleoporin nup186 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup186 PE=2 SV=2
+sp|Q9UUA4|SEC66_SCHPO -          Nup188               PF10487.6       0.15    8.1   0.1      0.18    7.9   0.1   1.1   1   0   0   1   1   1   0 Translocation protein sec66 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sec66 PE=1 SV=1
+sp|P17609|YPT2_SCHPO  -          Nup188               PF10487.6       0.23    7.5   0.0      0.24    7.5   0.0   1.0   1   0   0   1   1   1   0 GTP-binding protein ypt2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ypt2 PE=3 SV=1
+sp|Q9USL6|YJK5_SCHPO  -          Nup188               PF10487.6       0.31    7.1   0.7      0.41    6.7   0.7   1.0   1   0   0   1   1   1   0 Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase C18B5.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC18B5.05c PE=3 SV=1
+sp|O74415|YJL2_SCHPO  -          Nup188               PF10487.6        1.2    5.2   1.7       1.3    5.0   0.1   1.9   2   0   0   2   2   2   0 Uncharacterized protein C14G10.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC14G10.02 PE=4 SV=1
+sp|Q9UU81|AP1G1_SCHPO -          Nup188               PF10487.6        1.9    4.5   0.1       3.1    3.8   0.1   1.3   1   0   0   1   1   1   0 AP-1 complex subunit gamma-1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=apl4 PE=3 SV=1
+sp|Q9UT03|SLS1_SCHPO  -          Nup188               PF10487.6        3.8    3.5   0.0       5.9    2.9   0.0   1.1   1   0   0   1   1   1   0 Protein sls1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sls1 PE=3 SV=1
+sp|Q9P6H9|REB1_SCHPO  -          Nup188               PF10487.6        4.6    3.2   0.0       7.6    2.5   0.0   1.2   1   0   0   1   1   1   0 DNA-binding protein reb1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=reb1 PE=1 SV=1
+sp|P87236|MU154_SCHPO -          Nup188               PF10487.6        6.1    2.8   0.6       7.6    2.5   0.6   1.0   1   0   0   1   1   1   0 Meiotically up-regulated gene 154 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug154 PE=1 SV=1
+sp|Q9P3A8|CAND1_SCHPO -          Nup188               PF10487.6        6.5    2.7   0.6        13    1.7   0.0   1.7   2   0   0   2   2   2   0 Cullin-associated NEDD8-dissociated protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=knd1 PE=3 SV=1
+sp|Q09829|YAD3_SCHPO  -          Nup188               PF10487.6        6.6    2.7   0.3        12    1.9   0.3   1.3   1   0   0   1   1   1   0 Pumilio domain-containing protein C4G8.03c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4G8.03c PE=4 SV=1
+sp|P87297|DAD1_SCHPO  -          Nup188               PF10487.6        8.3    2.4   0.2       9.1    2.2   0.2   1.0   1   0   0   1   1   1   0 DASH complex subunit dad1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dad1 PE=1 SV=2
+sp|O43060|EIF3F_SCHPO -          Nup188               PF10487.6        9.5    2.2   0.0        12    1.8   0.0   1.1   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit F OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=eif3f PE=1 SV=1
+sp|O94441|YPP1_SCHPO  -          Nup188               PF10487.6        9.6    2.2   0.1        18    1.3   0.1   1.3   1   0   0   1   1   1   0 Putative cargo-transport protein ypp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ypp1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:01:24 2022
+# [ok]

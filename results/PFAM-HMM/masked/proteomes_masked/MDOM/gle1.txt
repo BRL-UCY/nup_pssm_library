@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498I7R5|A0A498I7R5_MALDO -          GLE1                 PF07817.10     1e-45  157.2   0.4   1.5e-45  156.6   0.4   1.2   1   0   0   1   1   1   1 mRNA export factor GLE1 OS=Malus domestica OX=3750 GN=DVH24_040935 PE=3 SV=1
+tr|A0A498JQ59|A0A498JQ59_MALDO -          GLE1                 PF07817.10   1.4e-11   45.3   0.0     2e-11   44.8   0.0   1.1   1   0   0   1   1   1   1 mRNA export factor GLE1 OS=Malus domestica OX=3750 GN=DVH24_010233 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:30:39 2022
+# [ok]

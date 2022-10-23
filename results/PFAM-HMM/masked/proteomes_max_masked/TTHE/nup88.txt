@@ -1,0 +1,22 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22BV4|Q22BV4_TETTS   -          Nup88                PF10168.6        2.2    6.6   0.0       4.2    5.6   0.0   1.4   1   0   0   1   1   1   0 66 kDa stress protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01084130 PE=4 SV=2
+tr|I7MFB8|I7MFB8_TETTS   -          Nup88                PF10168.6        2.8    6.3   0.3       3.3    6.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00823380 PE=4 SV=1
+tr|W7XHB0|W7XHB0_TETTS   -          Nup88                PF10168.6        4.7    5.5   1.5       7.6    4.8   1.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000285449 PE=4 SV=1
+tr|Q24I01|Q24I01_TETTS   -          Nup88                PF10168.6        6.5    5.0   0.4       9.4    4.5   0.4   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00571730 PE=4 SV=2
+tr|I7M7K9|I7M7K9_TETTS   -          Nup88                PF10168.6          7    4.9   3.0       9.3    4.5   3.0   1.1   1   0   0   1   1   1   0 MORN motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522110 PE=4 SV=1
+tr|I7MHB9|I7MHB9_TETTS   -          Nup88                PF10168.6          7    4.9   1.3       7.8    4.8   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00349060 PE=4 SV=2
+tr|I7ME69|I7ME69_TETTS   -          Nup88                PF10168.6        7.2    4.9   0.6       7.8    4.8   0.6   1.0   1   0   0   1   1   1   0 Syntaxin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00266250 PE=4 SV=1
+tr|I7M4N6|I7M4N6_TETTS   -          Nup88                PF10168.6        8.7    4.6   0.3        16    3.7   0.3   1.3   1   0   0   1   1   1   0 DNA topoisomerase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00497920 PE=3 SV=1
+tr|I7M910|I7M910_TETTS   -          Nup88                PF10168.6        8.9    4.6   0.0        13    4.0   0.0   1.2   1   0   0   1   1   1   0 Serine/Threonine kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00220990 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup88.txt --max --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:24:14 2022
+# [ok]

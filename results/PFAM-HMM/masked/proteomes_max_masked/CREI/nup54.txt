@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D6R8|A0A2K3D6R8_CHLRE -          Nup54                PF13874.3    4.8e-13   49.5   0.0   6.7e-13   49.0   0.0   1.1   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g542950v5 PE=4 SV=1
+tr|A8I520|A8I520_CHLRE         -          Nup54                PF13874.3       0.76    9.9   0.0       1.4    9.1   0.0   1.4   1   0   0   1   1   1   0 Protein-serine/threonine kinase OS=Chlamydomonas reinhardtii OX=3055 GN=PDK3 PE=3 SV=1
+tr|A8J7T8|A8J7T8_CHLRE         -          Nup54                PF13874.3          2    8.6   1.6        17    5.6   0.4   1.9   1   1   1   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g407750v5 PE=4 SV=1
+tr|A0A2K3DVD1|A0A2K3DVD1_CHLRE -          Nup54                PF13874.3        2.2    8.5   0.0       3.2    7.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g146007v5 PE=4 SV=1
+tr|A0A2K3DAE4|A0A2K3DAE4_CHLRE -          Nup54                PF13874.3        2.7    8.1   0.1        31    4.7   0.1   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g439350v5 PE=4 SV=1
+tr|A0A2K3DZ55|A0A2K3DZ55_CHLRE -          Nup54                PF13874.3          4    7.6   0.2         5    7.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204000v5 PE=4 SV=1
+tr|A0A2K3DE80|A0A2K3DE80_CHLRE -          Nup54                PF13874.3          5    7.3   0.4       7.7    6.7   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g391430v5 PE=4 SV=1
+tr|A0A2K3DE60|A0A2K3DE60_CHLRE -          Nup54                PF13874.3        5.6    7.1   1.0       8.7    6.5   1.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g391467v5 PE=4 SV=1
+tr|A0A2K3CVQ5|A0A2K3CVQ5_CHLRE -          Nup54                PF13874.3        6.3    7.0   0.2       9.9    6.3   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g672721v5 PE=4 SV=1
+tr|A8J843|A8J843_CHLRE         -          Nup54                PF13874.3        8.9    6.5   0.0        12    6.1   0.0   1.2   1   0   0   1   1   1   0 NADH:ubiquinone oxidoreductase 17 kDa subunit OS=Chlamydomonas reinhardtii OX=3055 GN=NUO17 PE=4 SV=1
+tr|A0A2K3DT41|A0A2K3DT41_CHLRE -          Nup54                PF13874.3        9.1    6.4   1.7        15    5.8   1.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g239600v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:04:09 2022
+# [ok]

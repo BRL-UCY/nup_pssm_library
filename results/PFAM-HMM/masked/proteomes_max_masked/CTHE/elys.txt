@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S2G1|ELYS_CHATD   -          ELYS                 PF13934.3    8.4e-57  191.4   0.0     1e-56  191.1   0.0   1.1   1   0   0   1   1   1   1 Protein ELYS OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=ELYS PE=1 SV=1
+sp|G0S0E7|NU120_CHATD  -          ELYS                 PF13934.3      0.036   12.8   0.3     0.064   11.9   0.3   1.4   1   0   0   1   1   1   0 Nucleoporin NUP120 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP120 PE=1 SV=1
+tr|G0S7Y9|G0S7Y9_CHATD -          ELYS                 PF13934.3       0.27    9.9   0.1      0.47    9.1   0.1   1.3   1   0   0   1   1   1   0 Coatomer subunit beta' OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037490 PE=3 SV=1
+tr|G0SE88|G0SE88_CHATD -          ELYS                 PF13934.3        1.3    7.6   0.2       3.2    6.4   0.1   1.6   2   0   0   2   2   2   0 Mitochondrial import receptor subunit-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062880 PE=4 SV=1
+tr|G0SFP2|G0SFP2_CHATD -          ELYS                 PF13934.3        1.6    7.3   0.2       7.1    5.2   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0071570 PE=4 SV=1
+tr|G0S2P8|G0S2P8_CHATD -          ELYS                 PF13934.3        2.2    6.9   0.0       2.5    6.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0018020 PE=4 SV=1
+tr|G0SHQ1|G0SHQ1_CHATD -          ELYS                 PF13934.3          3    6.4   0.0        10    4.7   0.0   2.0   1   1   1   2   2   2   0 Clathrin heavy chain OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072960 PE=3 SV=1
+tr|G0SHW6|G0SHW6_CHATD -          ELYS                 PF13934.3        4.1    6.0   0.1         6    5.5   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0073620 PE=3 SV=1
+tr|G0SB90|G0SB90_CHATD -          ELYS                 PF13934.3        5.8    5.5   0.0        15    4.2   0.0   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0049310 PE=4 SV=1
+tr|G0S5H2|G0S5H2_CHATD -          ELYS                 PF13934.3        6.7    5.3   0.2        26    3.4   0.1   2.0   2   1   0   2   2   2   0 Sm domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0032950 PE=3 SV=1
+tr|G0SA71|G0SA71_CHATD -          ELYS                 PF13934.3        7.3    5.2   0.1        15    4.1   0.1   1.5   1   0   0   1   1   1   0 Putative cell differentiation protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0041220 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:17:14 2022
+# [ok]

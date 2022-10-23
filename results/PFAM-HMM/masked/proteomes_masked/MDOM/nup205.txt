@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498KJ27|A0A498KJ27_MALDO -          Nup192               PF11894.5      4e-33  115.1   4.0   2.7e-23   82.5   0.0   3.2   3   1   0   3   3   3   2 Methyltransf_21 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017797 PE=3 SV=1
+tr|A0A498IW40|A0A498IW40_MALDO -          Nup192               PF11894.5    5.1e-07   28.6   0.3    0.0036   15.8   0.2   2.2   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034499 PE=4 SV=1
+tr|A0A498HJB1|A0A498HJB1_MALDO -          Nup192               PF11894.5    0.00012   20.7   0.0   0.00013   20.6   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018901 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF11894.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup205.txt --cpu 8 hmm_profiles/PF11894.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:30:24 2022
+# [ok]

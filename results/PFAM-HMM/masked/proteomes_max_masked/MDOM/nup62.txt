@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JCG1|A0A498JCG1_MALDO -          Nsp1_C               PF05064.10     9e-12   46.0   0.1   1.4e-11   45.4   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin 62 OS=Malus domestica OX=3750 GN=DVH24_014004 PE=2 SV=1
+tr|A0A498HXQ8|A0A498HXQ8_MALDO -          Nsp1_C               PF05064.10       2.1    9.4   0.2       4.2    8.4   0.2   1.4   1   0   0   1   1   1   0 GED domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019064 PE=4 SV=1
+tr|A0A498J6P3|A0A498J6P3_MALDO -          Nsp1_C               PF05064.10       2.2    9.4   1.2       8.4    7.5   0.5   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020462 PE=4 SV=1
+tr|A0A498JPV4|A0A498JPV4_MALDO -          Nsp1_C               PF05064.10       4.4    8.4   0.0   1.5e+02    3.4   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_010133 PE=4 SV=1
+tr|A0A498IQI4|A0A498IQI4_MALDO -          Nsp1_C               PF05064.10       4.9    8.2   0.1       9.8    7.2   0.1   1.4   1   0   0   1   1   1   0 TIR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_009407 PE=3 SV=1
+tr|A0A498IQY7|A0A498IQY7_MALDO -          Nsp1_C               PF05064.10         5    8.2   0.2       8.6    7.4   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009491 PE=4 SV=1
+tr|A0A498JAD0|A0A498JAD0_MALDO -          Nsp1_C               PF05064.10       5.3    8.1   0.2       8.7    7.4   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020730 PE=3 SV=1
+tr|A0A498ILJ8|A0A498ILJ8_MALDO -          Nsp1_C               PF05064.10       5.6    8.0   1.0       8.6    7.4   1.0   1.2   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_027327 PE=4 SV=1
+tr|A0A498JXV2|A0A498JXV2_MALDO -          Nsp1_C               PF05064.10       5.9    8.0   0.1   1.2e+02    3.8   0.0   2.0   2   0   0   2   2   2   0 TIR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000964 PE=4 SV=1
+tr|A0A498K361|A0A498K361_MALDO -          Nsp1_C               PF05064.10       6.1    7.9   0.1        30    5.7   0.0   1.8   2   0   0   2   2   2   0 TIR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000968 PE=4 SV=1
+tr|A0A498I2N1|A0A498I2N1_MALDO -          Nsp1_C               PF05064.10       6.9    7.7   2.9   1.5e+02    3.4   0.3   2.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019065 PE=4 SV=1
+tr|A0A498HZU1|A0A498HZU1_MALDO -          Nsp1_C               PF05064.10       7.2    7.7   0.3        14    6.7   0.3   1.4   1   0   0   1   1   1   0 GED domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019057 PE=4 SV=1
+tr|A0A498IQ22|A0A498IQ22_MALDO -          Nsp1_C               PF05064.10       7.7    7.6   0.0        11    7.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026961 PE=4 SV=1
+tr|A0A498HGU5|A0A498HGU5_MALDO -          Nsp1_C               PF05064.10       8.4    7.5   0.3        15    6.6   0.2   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028430 PE=3 SV=1
+tr|A0A498KCJ2|A0A498KCJ2_MALDO -          Nsp1_C               PF05064.10       8.7    7.4   0.5        16    6.5   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018102 PE=4 SV=1
+tr|A0A498KCF6|A0A498KCF6_MALDO -          Nsp1_C               PF05064.10       9.6    7.3   0.1        12    6.9   0.1   1.2   1   0   0   1   1   1   0 Dynamin_M domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006475 PE=4 SV=1
+tr|A0A498K439|A0A498K439_MALDO -          Nsp1_C               PF05064.10       9.8    7.2   0.1        64    4.6   0.0   1.9   2   0   0   2   2   2   0 TIR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000959 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:29:33 2022
+# [ok]

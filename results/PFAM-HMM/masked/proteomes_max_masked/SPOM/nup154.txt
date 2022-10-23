@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTH0|NU132_SCHPO -          Nucleoporin_C        PF03177.11  1.9e-114  381.8  15.9  2.2e-114  381.6  15.9   1.1   1   0   0   1   1   1   1 Nucleoporin nup132 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup132 PE=1 SV=1
+sp|Q9URX8|NG06_SCHPO  -          Nucleoporin_C        PF03177.11   1.3e-42  144.6   0.4   1.8e-42  144.1   0.4   1.1   1   0   0   1   1   1   1 Probable nucleoporin C890.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC890.06 PE=3 SV=3
+sp|Q9P797|NU131_SCHPO -          Nucleoporin_C        PF03177.11   7.7e-26   89.2  11.6   1.2e-25   88.5  11.6   1.2   1   0   0   1   1   1   1 Nucleoporin nup131 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup131 PE=1 SV=3
+sp|O14322|MU100_SCHPO -          Nucleoporin_C        PF03177.11       2.5    5.0   0.1       4.9    4.0   0.0   1.4   2   0   0   2   2   2   0 Meiotically up-regulated gene 100 protein, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug100 PE=1 SV=1
+sp|Q9UTD4|PFD4_SCHPO  -          Nucleoporin_C        PF03177.11       2.7    4.8   0.2       2.7    4.8   0.2   1.1   1   0   0   1   1   1   0 Probable prefoldin subunit 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC227.05 PE=3 SV=1
+sp|O13715|MUG5_SCHPO  -          Nucleoporin_C        PF03177.11         3    4.7   0.6       4.4    4.1   0.6   1.2   1   0   0   1   1   1   0 Meiotically up-regulated gene 5 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug5 PE=1 SV=2
+sp|Q9P6M3|MIS14_SCHPO -          Nucleoporin_C        PF03177.11       4.5    4.1   0.1         6    3.7   0.1   1.1   1   0   0   1   1   1   0 Kinetochore protein mis14 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mis14 PE=1 SV=1
+sp|O60065|PEX14_SCHPO -          Nucleoporin_C        PF03177.11       4.7    4.0   0.6       6.5    3.6   0.6   1.1   1   0   0   1   1   1   0 Peroxisomal membrane protein pex14 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pex14 PE=3 SV=1
+sp|Q10308|MUG43_SCHPO -          Nucleoporin_C        PF03177.11       4.8    4.0   0.3         6    3.7   0.3   1.2   1   0   0   1   1   1   0 Meiotically up-regulated gene 43 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug43 PE=1 SV=1
+sp|O42866|FABG_SCHPO  -          Nucleoporin_C        PF03177.11       6.2    3.6   0.1       6.4    3.6   0.1   1.1   1   0   0   1   1   1   0 3-oxoacyl-[acyl-carrier-protein] reductase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=oar2 PE=3 SV=1
+sp|Q9UT07|UPS1_SCHPO  -          Nucleoporin_C        PF03177.11       6.5    3.6   0.0         7    3.5   0.0   1.1   1   0   0   1   1   1   0 Protein ups1 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAP8A3.10 PE=3 SV=1
+sp|O13798|CID16_SCHPO -          Nucleoporin_C        PF03177.11       6.6    3.5   0.1        10    2.9   0.1   1.1   1   0   0   1   1   1   0 Caffeine-induced protein 16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cid16 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:00:00 2022
+# [ok]

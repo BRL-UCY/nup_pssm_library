@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DI91|A0A2K3DI91_CHLRE -          Nucleopor_Nup85      PF07575.10   1.2e-12   47.3   0.0   5.7e-07   28.6   0.0   2.6   2   1   0   2   2   2   2 Nuclear pore complex protein Nup85 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g383650v5 PE=3 SV=1
+tr|A0A2K3CZM7|A0A2K3CZM7_CHLRE -          Nucleopor_Nup85      PF07575.10       1.8    7.1   0.0       1.8    7.1   0.0   1.1   1   0   0   1   1   1   0 Peptide-methionine (S)-S-oxide reductase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g570900v5 PE=3 SV=1
+tr|A0A2K3D3L2|A0A2K3D3L2_CHLRE -          Nucleopor_Nup85      PF07575.10         6    5.4   0.1       8.3    4.9   0.1   1.1   1   0   0   1   1   1   0 Exportin-T OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g496200v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:45:46 2022
+# [ok]

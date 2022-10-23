@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S156|NUP53_CHATD  -          Nup35_RRM            PF05172.10    0.0014   17.2   0.0    0.0025   16.5   0.0   1.3   1   0   0   1   1   1   1 Nucleoporin NUP53 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP53 PE=1 SV=2
+tr|G0SFK3|G0SFK3_CHATD -          Nup35_RRM            PF05172.10      0.29    9.8   0.0        20    3.9   0.0   2.8   3   0   0   3   3   3   0 Putative polyadenylated RNA protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0071140 PE=4 SV=1
+tr|G0SE55|G0SE55_CHATD -          Nup35_RRM            PF05172.10       0.4    9.4   0.0        18    4.1   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062490 PE=4 SV=1
+tr|G0SE06|G0SE06_CHATD -          Nup35_RRM            PF05172.10      0.47    9.2   0.0      0.72    8.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061980 PE=3 SV=1
+tr|G0S111|G0S111_CHATD -          Nup35_RRM            PF05172.10      0.63    8.8   0.0       9.8    4.9   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011950 PE=4 SV=1
+tr|G0SD31|G0SD31_CHATD -          Nup35_RRM            PF05172.10         2    7.2   0.1        39    3.0   0.0   2.2   2   0   0   2   2   2   0 AP-1 complex subunit mu-1-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0050630 PE=3 SV=1
+tr|G0S793|G0S793_CHATD -          Nup35_RRM            PF05172.10       2.4    6.9   0.0       4.3    6.1   0.0   1.3   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase, H3 lysine-4 specific OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0027870 PE=4 SV=1
+tr|G0S9J4|G0S9J4_CHATD -          Nup35_RRM            PF05172.10       2.5    6.9   0.0       3.8    6.3   0.0   1.3   1   0   0   1   1   1   0 Putative poly(A) binding protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0046100 PE=4 SV=1
+tr|G0S1A8|G0S1A8_CHATD -          Nup35_RRM            PF05172.10       6.6    5.5   0.0        13    4.5   0.0   1.4   1   0   0   1   1   1   0 RNA-directed RNA polymerase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0012940 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup53.txt --max --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:15:56 2022
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q241A4|Q241A4_TETTS   -          Nic96                PF04097.11      0.21   10.6   0.3      0.34    9.9   0.3   1.2   1   0   0   1   1   1   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00622800 PE=4 SV=1
+tr|W7X1C9|W7X1C9_TETTS   -          Nic96                PF04097.11      0.41    9.6   0.0      0.54    9.2   0.0   1.1   1   0   0   1   1   1   0 Ankyrin repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000151069 PE=4 SV=1
+tr|I7MMB2|I7MMB2_TETTS   -          Nic96                PF04097.11       0.5    9.3   0.0       0.7    8.9   0.0   1.1   1   0   0   1   1   1   0 Protein kinase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00237300 PE=4 SV=1
+tr|Q22AU9|Q22AU9_TETTS   -          Nic96                PF04097.11       1.4    7.9   0.4       1.7    7.6   0.4   1.2   1   0   0   1   1   1   0 Normocyte-binding protein 2a, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01151610 PE=4 SV=2
+tr|I7MAX9|I7MAX9_TETTS   -          Nic96                PF04097.11       1.4    7.8   0.0       2.7    6.9   0.0   1.3   1   0   0   1   1   1   0 RAVE protein 1 carboxy-terminal protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00688350 PE=4 SV=2
+tr|Q23U82|Q23U82_TETTS   -          Nic96                PF04097.11       1.7    7.6   0.2       2.7    6.9   0.2   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00890160 PE=4 SV=2
+tr|W7X4Y4|W7X4Y4_TETTS   -          Nic96                PF04097.11       2.8    6.9   0.1         4    6.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000274676 PE=4 SV=1
+tr|I7LVZ7|I7LVZ7_TETTS   -          Nic96                PF04097.11       3.3    6.7   0.3        29    3.5   0.0   2.5   3   0   0   3   3   3   0 Intraflagellar transporter OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00220810 PE=4 SV=1
+tr|I7LY09|I7LY09_TETTS   -          Nic96                PF04097.11       3.3    6.7   0.0       4.1    6.3   0.0   1.1   1   0   0   1   1   1   0 Tyrosine/nicotianamine aminotransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00683360 PE=3 SV=1
+tr|I7M0Y0|I7M0Y0_TETTS   -          Nic96                PF04097.11       3.4    6.6   0.1       4.8    6.1   0.1   1.2   1   0   0   1   1   1   0 Spinocerebellar ataxia type 10 domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00295300 PE=4 SV=2
+tr|W7XE43|W7XE43_TETTS   -          Nic96                PF04097.11       4.2    6.3   0.2         5    6.0   0.2   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000535353 PE=4 SV=1
+tr|Q22QR4|Q22QR4_TETTS   -          Nic96                PF04097.11       4.6    6.2   0.3       6.2    5.7   0.3   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01269140 PE=4 SV=3
+tr|Q22BP2|Q22BP2_TETTS   -          Nic96                PF04097.11       6.2    5.7   0.3        34    3.3   0.1   2.1   2   1   0   3   3   3   0 WD40 repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01093530 PE=4 SV=2
+tr|Q236H1|Q236H1_TETTS   -          Nic96                PF04097.11       6.7    5.6   0.6        46    2.9   0.0   2.3   3   0   0   3   3   3   0 Intraflagellar transporter, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00089240 PE=4 SV=2
+tr|A4VDM8|A4VDM8_TETTS   -          Nic96                PF04097.11       7.7    5.4   0.0        13    4.7   0.0   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00617751 PE=4 SV=2
+tr|I7MAN6|I7MAN6_TETTS   -          Nic96                PF04097.11       8.1    5.3   0.0        27    3.6   0.0   1.8   2   0   0   2   2   2   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00685910 PE=4 SV=1
+tr|W7XLG6|W7XLG6_TETTS   -          Nic96                PF04097.11       8.6    5.3   1.1       9.8    5.1   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000812609 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:15:44 2022
+# [ok]

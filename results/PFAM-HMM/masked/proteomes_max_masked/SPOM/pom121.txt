@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTB2|SYSM_SCHPO  -          POM121               PF15229.3        3.3    5.6   0.0       4.9    5.0   0.0   1.1   1   0   0   1   1   1   0 Serine--tRNA ligase, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dia4 PE=3 SV=2
+sp|O14278|MU129_SCHPO -          POM121               PF15229.3        8.2    4.3   0.0        12    3.7   0.0   1.1   1   0   0   1   1   1   0 Meiotically up-regulated gene 129 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug129 PE=1 SV=1
+sp|P78946|RL26_SCHPO  -          POM121               PF15229.3        8.8    4.2   0.1        13    3.7   0.1   1.2   1   0   0   1   1   1   0 60S ribosomal protein L26 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rpl26 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/pom121.txt --max --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:06:31 2022
+# [ok]

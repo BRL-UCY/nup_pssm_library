@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HC92|A0A498HC92_MALDO -          Nucleoporin_C        PF03177.11   1.9e-10   41.4   1.9   1.9e-08   34.8   1.9   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028051 PE=3 SV=1
+tr|A0A498HCT8|A0A498HCT8_MALDO -          Nucleoporin_C        PF03177.11      0.02   14.9   0.0       3.6    7.5   0.0   2.0   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_037062 PE=4 SV=1
+tr|A0A498HM15|A0A498HM15_MALDO -          Nucleoporin_C        PF03177.11      0.49   10.3   0.1       8.3    6.2   0.0   2.0   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_007229 PE=4 SV=1
+tr|A0A498IB10|A0A498IB10_MALDO -          Nucleoporin_C        PF03177.11       4.7    7.1   0.0        14    5.5   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040302 PE=3 SV=1
+tr|A0A498IBY6|A0A498IBY6_MALDO -          Nucleoporin_C        PF03177.11       6.6    6.6   0.0        11    5.8   0.0   1.3   1   0   0   1   1   1   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_040652 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:22:06 2022
+# [ok]

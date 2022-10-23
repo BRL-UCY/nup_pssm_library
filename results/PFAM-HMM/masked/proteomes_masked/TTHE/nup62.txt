@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MFB8|I7MFB8_TETTS -          Nsp1_C               PF05064.10      0.16   12.4   0.4      0.16   12.4   0.4   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00823380 PE=4 SV=1
+tr|Q23VW5|Q23VW5_TETTS -          Nsp1_C               PF05064.10      0.26   11.7   1.9       3.6    8.0   0.2   2.4   3   0   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00794660 PE=4 SV=1
+tr|Q22DR3|Q22DR3_TETTS -          Nsp1_C               PF05064.10      0.74   10.2   7.2      0.62   10.5   0.2   2.1   1   1   1   2   2   2   0 Transport system kinase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00938790 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:51:49 2022
+# [ok]

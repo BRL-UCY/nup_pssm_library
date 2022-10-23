@@ -1,0 +1,28 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23EG4|Q23EG4_TETTS   -          Nucleopor_Nup85      PF07575.10    0.0026   17.0   3.0    0.0064   15.7   3.0   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01028760 PE=4 SV=3
+tr|I7M185|I7M185_TETTS   -          Nucleopor_Nup85      PF07575.10      0.53    9.4   0.1      0.77    8.9   0.1   1.2   1   0   0   1   1   1   0 Polyprenyl synthetase protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00268030 PE=3 SV=1
+tr|Q23F24|Q23F24_TETTS   -          Nucleopor_Nup85      PF07575.10       1.1    8.3   0.1       2.1    7.4   0.1   1.3   1   0   0   1   1   1   0 Serine/Threonine kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00641080 PE=4 SV=2
+tr|Q22E49|Q22E49_TETTS   -          Nucleopor_Nup85      PF07575.10       3.9    6.5   0.0       6.9    5.7   0.0   1.3   1   0   0   1   1   1   0 Sec7 domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00895780 PE=4 SV=3
+tr|Q22G07|Q22G07_TETTS   -          Nucleopor_Nup85      PF07575.10       3.9    6.5   0.0       6.1    5.9   0.0   1.2   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00721500 PE=4 SV=2
+tr|I7M2H7|I7M2H7_TETTS   -          Nucleopor_Nup85      PF07575.10       5.9    5.9   0.1       9.6    5.2   0.1   1.2   1   0   0   1   1   1   0 Divergent CRAL/TRIO domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00220840 PE=4 SV=2
+tr|W7XJM3|W7XJM3_TETTS   -          Nucleopor_Nup85      PF07575.10       6.1    5.9   0.0       7.3    5.6   0.0   1.1   1   0   0   1   1   1   0 Cation channel family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000145119 PE=4 SV=1
+tr|I7M7B1|I7M7B1_TETTS   -          Nucleopor_Nup85      PF07575.10       7.1    5.7   0.8        31    3.6   0.1   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00145010 PE=1 SV=2
+tr|I7M660|I7M660_TETTS   -          Nucleopor_Nup85      PF07575.10       7.6    5.6   0.0        10    5.2   0.0   1.1   1   0   0   1   1   1   0 ADP-ribosylation factor(Arf)/Arf-like (Arl) small GTPase family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00691110 PE=3 SV=2
+tr|Q22LV2|Q22LV2_TETTS   -          Nucleopor_Nup85      PF07575.10       7.9    5.5   2.0        19    4.3   2.0   1.6   1   0   0   1   1   1   0 Exocyst complex component Sec6 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00042640 PE=4 SV=2
+tr|I7MHM0|I7MHM0_TETTS   -          Nucleopor_Nup85      PF07575.10         8    5.5   0.0        13    4.8   0.0   1.3   1   1   0   1   1   1   0 Septum formation protein Maf protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00444780 PE=3 SV=1
+tr|W7XCW7|W7XCW7_TETTS   -          Nucleopor_Nup85      PF07575.10       8.3    5.4   0.0        11    5.0   0.0   1.1   1   0   0   1   1   1   0 Cyclin-dependent kinase-like Serine/Threonine kinase family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000837979 PE=4 SV=1
+tr|Q22P55|Q22P55_TETTS   -          Nucleopor_Nup85      PF07575.10       8.8    5.3   1.0        15    4.6   1.0   1.3   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00414360 PE=4 SV=2
+tr|Q22AX6|Q22AX6_TETTS   -          Nucleopor_Nup85      PF07575.10       9.1    5.3   1.9       6.1    5.9   0.1   1.5   2   0   0   2   2   2   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01142720 PE=4 SV=2
+tr|Q228N4|Q228N4_TETTS   -          Nucleopor_Nup85      PF07575.10       9.6    5.2   0.1        13    4.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01528510 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:18:11 2022
+# [ok]

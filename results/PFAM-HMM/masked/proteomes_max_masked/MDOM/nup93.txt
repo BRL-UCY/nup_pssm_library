@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IC62|A0A498IC62_MALDO -          Nic96                PF04097.11   2.4e-82  278.6   0.0   1.4e-81  276.1   0.0   1.8   1   1   0   1   1   1   1 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_004970 PE=3 SV=1
+tr|A0A498I482|A0A498I482_MALDO -          Nic96                PF04097.11   1.1e-81  276.4   0.0   1.2e-80  273.0   0.0   1.9   1   1   0   1   1   1   1 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_019625 PE=3 SV=1
+tr|A0A498JUV1|A0A498JUV1_MALDO -          Nic96                PF04097.11       1.2    8.8   0.0       2.2    7.8   0.0   1.4   2   0   0   2   2   2   0 PROTEASOME_ALPHA_1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_011042 PE=3 SV=1
+tr|A0A498JG32|A0A498JG32_MALDO -          Nic96                PF04097.11       3.1    7.4   0.0       3.9    7.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015882 PE=3 SV=1
+tr|A0A498ICN9|A0A498ICN9_MALDO -          Nic96                PF04097.11       5.2    6.6   0.0       8.7    5.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004663 PE=4 SV=1
+tr|A0A498JDI9|A0A498JDI9_MALDO -          Nic96                PF04097.11       7.5    6.1   0.0        11    5.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014156 PE=4 SV=1
+tr|A0A498HRW5|A0A498HRW5_MALDO -          Nic96                PF04097.11       9.2    5.8   0.1       9.4    5.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028907 PE=4 SV=1
+tr|A0A498K2W1|A0A498K2W1_MALDO -          Nic96                PF04097.11       9.2    5.8   0.0        18    4.9   0.0   1.5   1   1   0   1   1   1   0 DNA helicase OS=Malus domestica OX=3750 GN=DVH24_002597 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup93.txt --max --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:33:58 2022
+# [ok]

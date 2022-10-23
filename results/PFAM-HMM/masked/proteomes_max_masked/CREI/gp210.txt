@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CZ35|A0A2K3CZ35_CHLRE -          Big_2                PF02368.15       4.2    7.4   0.0       9.7    6.2   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g563500v5 PE=4 SV=1
+tr|A0A2K3CXY0|A0A2K3CXY0_CHLRE -          Big_2                PF02368.15       5.5    7.0   0.0       8.4    6.4   0.0   1.2   1   0   0   1   1   1   0 Fe2OG dioxygenase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g619900v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:50:24 2022
+# [ok]

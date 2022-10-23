@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SBQ3|NSP1_CHATD   -          Nsp1_C               PF05064.10   1.2e-32  110.8   0.4   2.3e-32  110.0   0.4   1.3   1   0   0   1   1   1   1 Nucleoporin NSP1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NSP1 PE=1 SV=1
+tr|G0S7G6|G0S7G6_CHATD -          Nsp1_C               PF05064.10     0.049   12.2   0.8      0.69    8.5   0.4   2.4   2   0   0   2   2   2   0 Putative myosin MYO2 protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0028070 PE=3 SV=1
+tr|G0S254|G0S254_CHATD -          Nsp1_C               PF05064.10     0.061   11.9   0.0      0.11   11.0   0.0   1.3   1   0   0   1   1   1   0 Citrulline--aspartate ligase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0016030 PE=3 SV=1
+tr|G0SGH3|G0SGH3_CHATD -          Nsp1_C               PF05064.10      0.12   10.9   0.2      0.33    9.5   0.2   1.7   1   0   0   1   1   1   0 Structural maintenance of chromosomes protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066330 PE=1 SV=1
+tr|G0SB74|G0SB74_CHATD -          Nsp1_C               PF05064.10       1.9    7.0   0.1       6.9    5.2   0.1   1.9   2   0   0   2   2   2   0 Fido domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0049150 PE=4 SV=1
+tr|G0S2U6|G0S2U6_CHATD -          Nsp1_C               PF05064.10       2.8    6.5   0.2       4.2    5.9   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0018530 PE=3 SV=1
+tr|G0S694|G0S694_CHATD -          Nsp1_C               PF05064.10       4.1    6.0   0.0       6.3    5.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025940 PE=4 SV=1
+tr|G0S6C4|G0S6C4_CHATD -          Nsp1_C               PF05064.10       4.7    5.8   0.2        12    4.5   0.1   1.7   1   1   0   1   1   1   0 Synaptobrevin-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026260 PE=3 SV=1
+tr|G0S1L4|G0S1L4_CHATD -          Nsp1_C               PF05064.10       7.9    5.0   0.1        22    3.6   0.0   1.7   1   1   0   1   1   1   0 26S proteasome regulatory subunit rpn5-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0014020 PE=3 SV=1
+tr|G0SAY1|G0SAY1_CHATD -          Nsp1_C               PF05064.10       9.9    4.7   0.1        14    4.3   0.1   1.1   1   0   0   1   1   1   0 Histone H2A OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0048200 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup62.txt --max --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:10:42 2022
+# [ok]

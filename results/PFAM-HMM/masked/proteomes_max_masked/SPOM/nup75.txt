@@ -1,0 +1,29 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UUE5|NUP85_SCHPO -          Nucleopor_Nup85      PF07575.10  3.5e-104  347.6   8.9    4e-104  347.5   8.9   1.0   1   0   0   1   1   1   1 Nucleoporin nup85 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup85 PE=1 SV=1
+sp|O94332|RRN11_SCHPO -          Nucleopor_Nup85      PF07575.10      0.09    9.5   0.0      0.14    9.0   0.0   1.2   1   0   0   1   1   1   0 RNA polymerase I-specific transcription initiation factor rrn11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rrn11 PE=4 SV=1
+sp|O94659|NOG1_SCHPO  -          Nucleopor_Nup85      PF07575.10         1    6.1   0.1       1.5    5.5   0.1   1.1   1   0   0   1   1   1   0 Probable nucleolar GTP-binding protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nog1 PE=1 SV=2
+sp|Q09844|YAE3_SCHPO  -          Nucleopor_Nup85      PF07575.10       1.2    5.9   0.3       1.6    5.4   0.3   1.1   1   0   0   1   1   1   0 TBC domain-containing protein C23D3.03c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC23D3.03c PE=4 SV=1
+sp|O14172|MET8_SCHPO  -          Nucleopor_Nup85      PF07575.10       1.7    5.3   0.1       2.3    4.9   0.1   1.1   1   0   0   1   1   1   0 Siroheme biosynthesis protein met8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=met8 PE=3 SV=1
+sp|O42651|ATG17_SCHPO -          Nucleopor_Nup85      PF07575.10       2.1    5.0   1.4       7.2    3.3   0.2   1.9   2   0   0   2   2   2   0 Autophagy-related protein 17 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=atg17 PE=3 SV=2
+sp|Q9Y7P7|YQ63_SCHPO  -          Nucleopor_Nup85      PF07575.10       3.2    4.4   0.0       3.9    4.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein C191.03c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC191.03c PE=4 SV=1
+sp|Q09830|YAD4_SCHPO  -          Nucleopor_Nup85      PF07575.10       3.5    4.3   0.2       5.1    3.7   0.2   1.2   1   0   0   1   1   1   0 TBC domain-containing protein C4G8.04 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4G8.04 PE=1 SV=1
+sp|Q9UTB0|YL88_SCHPO  -          Nucleopor_Nup85      PF07575.10       3.8    4.2   0.1       5.7    3.6   0.1   1.1   1   0   0   1   1   1   0 Dilute domain-containing protein C25B8.08 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC25B8.08 PE=4 SV=1
+sp|O42963|NUP44_SCHPO -          Nucleopor_Nup85      PF07575.10       4.5    3.9   0.1       8.5    3.0   0.1   1.4   1   1   0   1   1   1   0 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+sp|P0CAN9|YK1G_SCHPO  -          Nucleopor_Nup85      PF07575.10       4.5    3.9   0.1        25    1.4   0.1   1.9   2   1   0   2   2   2   0 Uncharacterized protein PB1A10.16, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAPB1A10.16 PE=4 SV=1
+sp|P87297|DAD1_SCHPO  -          Nucleopor_Nup85      PF07575.10       6.9    3.3   0.4       6.5    3.4   0.4   1.0   1   0   0   1   1   1   0 DASH complex subunit dad1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dad1 PE=1 SV=2
+sp|P87140|COPG_SCHPO  -          Nucleopor_Nup85      PF07575.10       7.7    3.2   0.0        13    2.4   0.0   1.2   1   0   0   1   1   1   0 Probable coatomer subunit gamma OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sec21 PE=1 SV=1
+sp|Q09891|ATCX_SCHPO  -          Nucleopor_Nup85      PF07575.10       9.2    2.9   0.0        15    2.2   0.0   1.2   1   0   0   1   1   1   0 Putative phospholipid-transporting ATPase C24B11.12c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC24B11.12c PE=3 SV=1
+sp|Q7LL04|YQK1_SCHPO  -          Nucleopor_Nup85      PF07575.10       9.3    2.9   0.0        12    2.5   0.0   1.1   1   0   0   1   1   1   0 UPF0676 protein C1494.01 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1494.01 PE=3 SV=2
+sp|O74858|SYKM_SCHPO  -          Nucleopor_Nup85      PF07575.10       9.7    2.8   0.0        14    2.3   0.0   1.1   1   0   0   1   1   1   0 Lysine--tRNA ligase, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=msk1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:02:54 2022
+# [ok]

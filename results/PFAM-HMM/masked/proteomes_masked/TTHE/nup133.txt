@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MCI3|I7MCI3_TETTS -          Nucleoporin_N        PF08801.8    2.1e-18   66.9   8.1   2.4e-13   50.2   1.8   2.6   2   1   0   2   2   2   2 Nucleoporin_N domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760460 PE=4 SV=2
+tr|W7XKA0|W7XKA0_TETTS -          Nucleoporin_N        PF08801.8    6.4e-06   25.8   3.7     0.011   15.1   0.0   4.1   1   1   2   4   4   4   2 Required for amino acid permease transport from the to the cell surface protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000227669 PE=3 SV=1
+tr|I7M448|I7M448_TETTS -          Nucleoporin_N        PF08801.8      8e-06   25.5   0.0       1.6    8.0   0.0   4.0   2   1   2   4   4   4   3 Pre-mRNA-splicing factor prp46 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00684450 PE=3 SV=1
+tr|Q22CP3|Q22CP3_TETTS -          Nucleoporin_N        PF08801.8    1.3e-05   24.8   0.5      0.71    9.1   0.0   4.1   3   1   2   5   5   5   2 Striatin-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01026360 PE=4 SV=2
+tr|I7LT04|I7LT04_TETTS -          Nucleoporin_N        PF08801.8    6.4e-05   22.5   0.3      0.27   10.5   0.0   2.8   3   0   0   3   3   3   2 Lissencephaly-1 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760520 PE=3 SV=1
+tr|Q23K67|Q23K67_TETTS -          Nucleoporin_N        PF08801.8    0.00054   19.4   0.1     0.093   12.1   0.0   2.3   2   0   0   2   2   2   2 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194680 PE=3 SV=2
+tr|I7MLZ6|I7MLZ6_TETTS -          Nucleoporin_N        PF08801.8     0.0024   17.3   3.0       2.2    7.6   0.0   4.8   3   2   1   5   5   5   1 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00474420 PE=4 SV=2
+tr|W7XCG4|W7XCG4_TETTS -          Nucleoporin_N        PF08801.8     0.0039   16.6   0.2         4    6.7   0.0   3.6   3   1   1   4   4   4   2 Cyclic nucleotide-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000319961 PE=4 SV=1
+tr|W7X6G8|W7X6G8_TETTS -          Nucleoporin_N        PF08801.8     0.0065   15.9   4.2      0.48    9.7   0.1   3.2   1   1   1   3   3   3   2 Required for amino acid permease transport from the to the cell surface protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000147483 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:51:46 2022
+# [ok]

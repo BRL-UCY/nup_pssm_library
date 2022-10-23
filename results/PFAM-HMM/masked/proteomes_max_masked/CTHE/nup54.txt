@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S0R2|NUP57_CHATD  -          Nup54                PF13874.3    1.4e-30  105.0   0.0   1.8e-30  104.6   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin NUP57 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP57 PE=1 SV=1
+tr|G0S2Z4|G0S2Z4_CHATD -          Nup54                PF13874.3       0.96    8.3   0.0       1.3    7.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0019070 PE=4 SV=1
+tr|G0SEG8|G0SEG8_CHATD -          Nup54                PF13874.3        3.1    6.6   0.2       7.1    5.4   0.2   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0063700 PE=4 SV=1
+tr|G0S0Z7|G0S0Z7_CHATD -          Nup54                PF13874.3        3.6    6.4   1.1       6.3    5.6   1.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011810 PE=4 SV=1
+tr|G0SEN4|G0SEN4_CHATD -          Nup54                PF13874.3        4.4    6.1   0.0       7.5    5.4   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0064370 PE=3 SV=1
+tr|G0RYV9|G0RYV9_CHATD -          Nup54                PF13874.3        6.1    5.7   0.6       9.5    5.0   0.6   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0000750 PE=4 SV=1
+tr|G0RYH7|G0RYH7_CHATD -          Nup54                PF13874.3        6.2    5.6   3.9        26    3.6   0.3   2.2   2   0   0   2   2   2   0 V-type proton ATPase subunit a OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0006730 PE=3 SV=1
+tr|G0SEI3|G0SEI3_CHATD -          Nup54                PF13874.3        7.1    5.4   0.2        18    4.1   0.2   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0063850 PE=4 SV=1
+tr|G0S8E4|G0S8E4_CHATD -          Nup54                PF13874.3        7.2    5.4   0.2        14    4.5   0.2   1.4   1   0   0   1   1   1   0 Spindle pole body component OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0029590 PE=3 SV=1
+tr|G0RZI1|G0RZI1_CHATD -          Nup54                PF13874.3        9.3    5.1   0.0        21    3.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003040 PE=3 SV=1
+tr|G0SA58|G0SA58_CHATD -          Nup54                PF13874.3         10    5.0   0.2        21    3.9   0.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0041090 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup54.txt --max --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:17:59 2022
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7LWB0|I7LWB0_TETTS   -          TPR_MLP1_2           PF07926.9      0.065   13.9   1.3      0.11   13.1   1.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00149010 PE=4 SV=2
+tr|I7MEP5|I7MEP5_TETTS   -          TPR_MLP1_2           PF07926.9       0.89   10.2   0.1       2.2    8.9   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00335880 PE=4 SV=2
+tr|Q22V20|Q22V20_TETTS   -          TPR_MLP1_2           PF07926.9          2    9.1   1.6       6.5    7.4   1.6   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00576790 PE=4 SV=2
+tr|Q24HR0|Q24HR0_TETTS   -          TPR_MLP1_2           PF07926.9        2.3    8.9   0.0       2.8    8.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01339570 PE=4 SV=1
+tr|Q22GH8|Q22GH8_TETTS   -          TPR_MLP1_2           PF07926.9        2.3    8.8   2.3       5.6    7.6   2.3   1.7   1   1   0   1   1   1   0 Transport system kinase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00703450 PE=4 SV=1
+tr|Q22CI3|Q22CI3_TETTS   -          TPR_MLP1_2           PF07926.9        2.5    8.7   0.5       5.3    7.7   0.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01043260 PE=4 SV=2
+tr|I7MI12|I7MI12_TETTS   -          TPR_MLP1_2           PF07926.9        2.7    8.6   0.0       3.2    8.4   0.0   1.2   1   0   0   1   1   1   0 Iron-sulfur cluster assembly protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00657530 PE=3 SV=1
+tr|Q22XU0|Q22XU0_TETTS   -          TPR_MLP1_2           PF07926.9        2.9    8.5   0.2       6.8    7.3   0.2   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01005060 PE=4 SV=4
+tr|I7MCV5|I7MCV5_TETTS   -          TPR_MLP1_2           PF07926.9        3.5    8.2   0.1       4.3    8.0   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00529510 PE=4 SV=1
+tr|I7MHB9|I7MHB9_TETTS   -          TPR_MLP1_2           PF07926.9          4    8.1   0.4       8.3    7.1   0.4   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00349060 PE=4 SV=2
+tr|I7MFB8|I7MFB8_TETTS   -          TPR_MLP1_2           PF07926.9        4.7    7.9   0.0        10    6.8   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00823380 PE=4 SV=1
+tr|I7LVM2|I7LVM2_TETTS   -          TPR_MLP1_2           PF07926.9        5.1    7.7   0.8        12    6.6   0.8   1.5   1   0   0   1   1   1   0 Vacuolar sorting protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00292270 PE=3 SV=2
+tr|I7MIG8|I7MIG8_TETTS   -          TPR_MLP1_2           PF07926.9        8.2    7.1   2.4        51    4.5   0.2   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00614840 PE=4 SV=1
+tr|I7LT79|I7LT79_TETTS   -          TPR_MLP1_2           PF07926.9        8.2    7.1   0.2        19    5.9   0.2   1.6   1   0   0   1   1   1   0 Splicing factor subunit 3, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00649180 PE=4 SV=1
+tr|Q24DP2|Q24DP2_TETTS   -          TPR_MLP1_2           PF07926.9        8.6    7.0   1.3        27    5.4   1.3   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00790950 PE=4 SV=2
+tr|I7M8M8|I7M8M8_TETTS   -          TPR_MLP1_2           PF07926.9        8.7    7.0   7.2       2.8    8.6   0.3   2.9   3   1   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00292020 PE=4 SV=1
+tr|I7M612|I7M612_TETTS   -          TPR_MLP1_2           PF07926.9        8.7    7.0   1.3        28    5.4   0.1   2.0   2   0   0   2   2   2   0 MAP kinase kinase 1 interacting protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760540 PE=3 SV=2
+tr|Q23QH8|Q23QH8_TETTS   -          TPR_MLP1_2           PF07926.9        8.7    7.0   1.2        26    5.4   1.2   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00257000 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/mtor.txt --max --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:04:24 2022
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22R44|Q22R44_TETTS   -          Nucleoporin_C        PF03177.11       1.3    8.3   0.2       1.2    8.3   0.2   1.1   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00024370 PE=4 SV=2
+tr|Q244W3|Q244W3_TETTS   -          Nucleoporin_C        PF03177.11       1.9    7.7   0.8       3.4    6.9   0.8   1.3   1   0   0   1   1   1   0 Intraflagellar transport protein 122 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00694540 PE=4 SV=2
+tr|Q22CG8|Q22CG8_TETTS   -          Nucleoporin_C        PF03177.11         2    7.7   0.1         3    7.1   0.1   1.2   1   0   0   1   1   1   0 Integral membrane protein DUF6 containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01044400 PE=4 SV=2
+tr|Q23K81|Q23K81_TETTS   -          Nucleoporin_C        PF03177.11       2.3    7.5   1.0       4.8    6.4   0.1   1.8   2   0   0   2   2   2   0 TATA-binding protein interacting (TIP20) protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194540 PE=3 SV=2
+tr|W7XJW9|W7XJW9_TETTS   -          Nucleoporin_C        PF03177.11       2.9    7.1   0.3       3.4    6.9   0.3   1.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000371169 PE=4 SV=1
+tr|A4VDB7|A4VDB7_TETTS   -          Nucleoporin_C        PF03177.11       4.9    6.4   0.0         7    5.9   0.0   1.1   1   0   0   1   1   1   0 Rab-GTPase-TBC domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00219439 PE=4 SV=2
+tr|Q236K5|Q236K5_TETTS   -          Nucleoporin_C        PF03177.11       4.9    6.4   0.3       7.1    5.8   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00086920 PE=4 SV=1
+tr|I7MD72|I7MD72_TETTS   -          Nucleoporin_C        PF03177.11       5.5    6.2   1.5        11    5.2   1.5   1.4   1   0   0   1   1   1   0 MIR domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00420230 PE=4 SV=2
+tr|Q24GJ8|Q24GJ8_TETTS   -          Nucleoporin_C        PF03177.11       6.3    6.0   0.2        10    5.3   0.2   1.2   1   0   0   1   1   1   0 GAF domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00725920 PE=4 SV=1
+tr|W7X717|W7X717_TETTS   -          Nucleoporin_C        PF03177.11       6.3    6.0   0.1       7.3    5.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000691639 PE=4 SV=1
+tr|Q22YQ3|Q22YQ3_TETTS   -          Nucleoporin_C        PF03177.11       6.3    6.0   0.1       8.2    5.6   0.1   1.1   1   0   0   1   1   1   0 Senescence-associated protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00123680 PE=4 SV=1
+tr|W7XB48|W7XB48_TETTS   -          Nucleoporin_C        PF03177.11       7.4    5.8   0.3       8.5    5.6   0.3   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000414181 PE=4 SV=1
+tr|W7X9G8|W7X9G8_TETTS   -          Nucleoporin_C        PF03177.11       8.8    5.5   0.0       8.6    5.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000442589 PE=4 SV=1
+tr|W7XG73|W7XG73_TETTS   -          Nucleoporin_C        PF03177.11       8.9    5.5   0.5        13    5.0   0.5   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000615909 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:03:52 2022
+# [ok]

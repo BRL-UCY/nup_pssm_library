@@ -1,0 +1,36 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13838|NUP40_SCHPO -          Nup35_RRM            PF05172.10   1.6e-30  103.3   0.0   2.7e-30  102.6   0.0   1.4   1   0   0   1   1   1   1 Nucleoporin nup40 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup40 PE=1 SV=1
+sp|P31209|PABP_SCHPO  -          Nup35_RRM            PF05172.10    0.0034   15.6   0.1       2.8    6.2   0.0   2.9   3   0   0   3   3   2   0 Polyadenylate-binding protein, cytoplasmic and nuclear OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pab1 PE=1 SV=2
+sp|Q9USY2|YOW4_SCHPO  -          Nup35_RRM            PF05172.10     0.075   11.2   0.0      0.66    8.2   0.0   2.4   3   0   0   3   3   3   0 Uncharacterized RNA-binding protein C1861.04c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1861.04c PE=4 SV=1
+sp|Q10277|MSA1_SCHPO  -          Nup35_RRM            PF05172.10       1.1    7.5   0.0        29    3.0   0.0   2.2   2   0   0   2   2   2   0 Multicopy suppressor of sporulation protein msa1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=msa1 PE=4 SV=1
+sp|O14275|PPR4_SCHPO  -          Nup35_RRM            PF05172.10       1.2    7.4   0.0       2.7    6.3   0.0   1.6   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein 4, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ppr4 PE=4 SV=1
+sp|P87244|ALP16_SCHPO -          Nup35_RRM            PF05172.10       1.8    6.8   0.2        36    2.6   0.1   2.3   2   0   0   2   2   2   0 Spindle pole body component alp16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alp16 PE=1 SV=1
+sp|Q9P6M8|PABPX_SCHPO -          Nup35_RRM            PF05172.10       1.9    6.8   0.0       5.8    5.2   0.0   1.8   1   0   0   1   1   1   0 mRNA export factor crp79 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=crp79 PE=2 SV=2
+sp|O13741|NOP12_SCHPO -          Nup35_RRM            PF05172.10       2.3    6.5   0.0        25    3.1   0.0   2.1   2   0   0   2   2   2   0 Nucleolar protein 12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nop12 PE=1 SV=1
+sp|O94359|YHOC_SCHPO  -          Nup35_RRM            PF05172.10       2.5    6.4   0.0       2.9    6.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized RNA-binding protein C428.12c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC428.12c PE=4 SV=2
+sp|O13845|RSD1_SCHPO  -          Nup35_RRM            PF05172.10       3.2    6.0   0.0       6.5    5.0   0.0   1.4   1   0   0   1   1   1   0 RNA-binding protein rsd1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rsd1 PE=1 SV=2
+sp|O94621|US109_SCHPO -          Nup35_RRM            PF05172.10       3.3    6.0   0.0       6.8    5.0   0.0   1.5   1   0   0   1   1   1   0 U1 snRNP-associated protein usp109 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=usp109 PE=1 SV=2
+sp|O14327|PAB2_SCHPO  -          Nup35_RRM            PF05172.10       3.7    5.8   0.0       5.9    5.2   0.0   1.3   1   0   0   1   1   1   0 Polyadenylate-binding protein 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pab2 PE=1 SV=1
+sp|P41891|GAR2_SCHPO  -          Nup35_RRM            PF05172.10       5.1    5.4   0.0        11    4.3   0.0   1.5   1   1   0   1   1   1   0 Protein gar2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gar2 PE=1 SV=2
+sp|Q10220|PCC1_SCHPO  -          Nup35_RRM            PF05172.10       5.3    5.3   0.0       6.3    5.1   0.0   1.3   1   1   0   1   1   1   0 EKC/KEOPS complex subunit SPAC4H3.13 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4H3.13 PE=3 SV=1
+sp|P36629|U2AF2_SCHPO -          Nup35_RRM            PF05172.10       5.4    5.3   0.0        18    3.6   0.0   1.9   1   0   0   1   1   1   0 Splicing factor U2AF 59 kDa subunit OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=prp2 PE=1 SV=1
+sp|Q7LL14|RU2B_SCHPO  -          Nup35_RRM            PF05172.10       5.5    5.3   0.0       7.3    4.9   0.0   1.2   1   1   0   1   1   1   0 Probable U2 small nuclear ribonucleoprotein B'' OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=msl1 PE=1 SV=1
+sp|Q92370|TRPG_SCHPO  -          Nup35_RRM            PF05172.10       5.6    5.2   0.0        12    4.1   0.0   1.5   1   0   0   1   1   1   0 Multifunctional tryptophan biosynthesis protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=trp1 PE=2 SV=2
+sp|Q9UUE4|PPIL4_SCHPO -          Nup35_RRM            PF05172.10       6.2    5.1   0.0        10    4.4   0.0   1.3   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase cyp6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cyp6 PE=1 SV=1
+sp|Q9UT83|MUG28_SCHPO -          Nup35_RRM            PF05172.10       6.3    5.1   0.1     1e+02    1.2   0.0   2.5   3   0   0   3   3   3   0 Meiotically up-regulated gene 28 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug28 PE=1 SV=1
+sp|O94432|YHKF_SCHPO  -          Nup35_RRM            PF05172.10       8.4    4.7   0.0        48    2.3   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized RNA-binding protein C660.15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC660.15 PE=4 SV=1
+sp|O42847|YFH9_SCHPO  -          Nup35_RRM            PF05172.10         9    4.6   0.0        14    4.0   0.0   1.3   1   1   0   1   1   1   0 Uncharacterized RNA-binding protein C23A1.09 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC23A1.09 PE=4 SV=1
+sp|Q9USK5|TIP41_SCHPO -          Nup35_RRM            PF05172.10         9    4.6   0.0        21    3.4   0.0   1.5   1   0   0   1   1   1   0 Type 2A phosphatase activator tip41 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tip41 PE=2 SV=1
+sp|P0CS92|YKV6_SCHPO  -          Nup35_RRM            PF05172.10       9.3    4.5   0.0        12    4.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein C959.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC959.06c PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup53.txt --max --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:06:19 2022
+# [ok]

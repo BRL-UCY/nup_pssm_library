@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9USL4|NUP61_SCHPO -          NUP50                PF08911.8    1.4e-06   27.1   0.0   2.7e-06   26.1   0.0   1.5   1   0   0   1   1   1   1 Nucleoporin nup61 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup61 PE=1 SV=2
+sp|Q9UUG1|RPF2_SCHPO  -          NUP50                PF08911.8        5.9    5.8   0.0        13    4.7   0.0   1.5   1   0   0   1   1   1   0 Ribosome production factor 2 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC926.08c PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:07:43 2022
+# [ok]

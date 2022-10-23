@@ -1,0 +1,20 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22WD0|Q22WD0_TETTS   -          Ran_BP1              PF00638.15     1e-15   58.6   0.0   1.2e-15   58.4   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 2, Ran-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00158040 PE=4 SV=1
+tr|Q23K33|Q23K33_TETTS   -          Ran_BP1              PF00638.15     0.053   14.4   0.0      0.16   12.8   0.0   1.8   1   0   0   1   1   1   0 Component of IIS longevity pathway SMK-1 protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00196010 PE=4 SV=2
+tr|W7XG70|W7XG70_TETTS   -          Ran_BP1              PF00638.15       1.2   10.0   0.0       1.2   10.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001387101 PE=4 SV=1
+tr|Q233Y4|Q233Y4_TETTS   -          Ran_BP1              PF00638.15       1.9    9.4   0.0       2.4    9.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00107220 PE=4 SV=1
+tr|Q22UB5|Q22UB5_TETTS   -          Ran_BP1              PF00638.15       2.7    8.8   0.0       3.8    8.4   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00260700 PE=4 SV=2
+tr|Q23MR4|Q23MR4_TETTS   -          Ran_BP1              PF00638.15       4.1    8.3   0.0       8.4    7.2   0.0   1.4   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00954000 PE=4 SV=2
+tr|I7M066|I7M066_TETTS   -          Ran_BP1              PF00638.15       7.4    7.4   0.0        12    6.7   0.0   1.3   1   0   0   1   1   1   0 Small guanosine triphosphatase family Ras family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00419740 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:42:10 2022
+# [ok]

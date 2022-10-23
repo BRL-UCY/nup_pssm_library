@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTK4|NU189_SCHPO  -          Nup96                PF12110.5    2.3e-61  205.7   0.1   2.8e-61  205.4   0.1   1.1   1   0   0   1   1   1   1 Nucleoporin nup189 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup189 PE=1 SV=2
+sp|O74925|PEP3_SCHPO   -          Nup96                PF12110.5       0.99    6.7   0.0       1.7    5.9   0.0   1.3   1   0   0   1   1   1   0 Vacuolar membrane protein pep3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pep3 PE=3 SV=1
+sp|Q10212|YAY4_SCHPO   -          Nup96                PF12110.5        6.1    4.1   0.0       9.1    3.5   0.0   1.2   1   0   0   1   1   1   0 MEMO1 family protein C4H3.04c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4H3.04c PE=3 SV=1
+sp|O13775|SYEC_SCHPO   -          Nup96                PF12110.5        7.8    3.8   0.2        19    2.5   0.0   1.6   2   0   0   2   2   2   0 Probable glutamate--tRNA ligase, cytoplasmic OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gus1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:09:38 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498KKW9|A0A498KKW9_MALDO -          Nup88                PF10168.6      1e-16   61.2   0.0   3.3e-15   56.2   0.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022953 PE=4 SV=1
+tr|A0A498J349|A0A498J349_MALDO -          Nup88                PF10168.6      0.066   12.3   0.2     0.083   11.9   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000626 PE=4 SV=1
+tr|A0A498JET9|A0A498JET9_MALDO -          Nup88                PF10168.6       0.35    9.9   0.0      0.42    9.6   0.0   1.0   1   0   0   1   1   1   0 RNase H type-1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033138 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:30:18 2022
+# [ok]

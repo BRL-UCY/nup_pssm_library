@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SAK3|NU145_CHATD  -          Nup96                PF12110.5    3.4e-50  169.5   0.0   1.2e-48  164.5   0.0   2.1   1   1   0   1   1   1   1 Nucleoporin NUP145 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP145 PE=1 SV=1
+tr|G0SGV0|G0SGV0_CHATD -          Nup96                PF12110.5       0.71    7.7   0.0         1    7.2   0.0   1.1   1   0   0   1   1   1   0 Protein transport protein sec16 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0067660 PE=3 SV=1
+tr|G0S6C1|G0S6C1_CHATD -          Nup96                PF12110.5        2.4    5.9   0.0         3    5.6   0.0   1.1   1   0   0   1   1   1   0 RRM domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026230 PE=4 SV=1
+tr|G0SEM2|G0SEM2_CHATD -          Nup96                PF12110.5          3    5.6   0.1       4.8    4.9   0.1   1.2   1   0   0   1   1   1   0 Cysteine--tRNA ligase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0064250 PE=3 SV=1
+tr|G0SA71|G0SA71_CHATD -          Nup96                PF12110.5        4.6    5.0   0.3       9.6    3.9   0.0   1.6   2   0   0   2   2   2   0 Putative cell differentiation protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0041220 PE=3 SV=1
+tr|G0SHN9|G0SHN9_CHATD -          Nup96                PF12110.5        5.1    4.8   0.1       6.9    4.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072830 PE=4 SV=1
+tr|G0SAM7|G0SAM7_CHATD -          Nup96                PF12110.5        5.4    4.7   0.0       8.6    4.1   0.0   1.2   1   0   0   1   1   1   0 UPF0029 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0042830 PE=3 SV=1
+tr|G0S4R9|G0S4R9_CHATD -          Nup96                PF12110.5        6.5    4.5   0.0        12    3.7   0.0   1.3   1   0   0   1   1   1   0 Putative vacuolar protein sorting-associated protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0023300 PE=3 SV=1
+tr|G0S4J0|G0S4J0_CHATD -          Nup96                PF12110.5        8.3    4.1   0.0        13    3.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0023000 PE=4 SV=1
+tr|G0S749|G0S749_CHATD -          Nup96                PF12110.5        8.9    4.0   0.0        13    3.5   0.0   1.2   1   0   0   1   1   1   0 RNA-binding protein VTS1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0027430 PE=3 SV=1
+tr|G0RZR2|G0RZR2_CHATD -          Nup96                PF12110.5        9.9    3.9   0.0        13    3.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003870 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:19:22 2022
+# [ok]

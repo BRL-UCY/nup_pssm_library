@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J210|A0A498J210_MALDO -          UPF0121              PF03661.10   9.6e-10   39.4   7.3   1.6e-09   38.7   7.3   1.2   1   0   0   1   1   1   1 Histone acetyltransferase OS=Malus domestica OX=3750 GN=DVH24_032126 PE=3 SV=1
+tr|A0A498HD84|A0A498HD84_MALDO -          UPF0121              PF03661.10     1e-07   32.8   5.5   1.8e-06   28.7   5.5   2.1   1   1   0   1   1   1   1 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028381 PE=3 SV=1
+tr|A0A498JAV6|A0A498JAV6_MALDO -          UPF0121              PF03661.10     0.014   15.9   0.4     0.017   15.7   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020930 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/krh2.txt --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:30:35 2022
+# [ok]

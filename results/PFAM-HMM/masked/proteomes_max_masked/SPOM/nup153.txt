@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09904|NU124_SCHPO -          Nup153               PF08604.7    1.4e-43  147.7   5.9   4.9e-33  112.9   0.0   2.8   1   1   1   2   2   2   2 Nucleoporin nup124 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup124 PE=1 SV=1
+sp|Q9Y7X4|YGRG_SCHPO  -          Nup153               PF08604.7        1.1    6.1   0.1       1.6    5.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized membrane protein C365.16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC365.16 PE=4 SV=1
+sp|O74859|APTX_SCHPO  -          Nup153               PF08604.7        3.2    4.6   0.1       4.3    4.2   0.1   1.1   1   0   0   1   1   1   0 Aprataxin-like protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hnt3 PE=1 SV=1
+sp|O74526|KJ45_SCHPO  -          Nup153               PF08604.7         10    3.0   0.0        15    2.5   0.0   1.1   1   0   0   1   1   1   0 Probable serine/threonine-protein kinase C70.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC70.05c PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:08:51 2022
+# [ok]

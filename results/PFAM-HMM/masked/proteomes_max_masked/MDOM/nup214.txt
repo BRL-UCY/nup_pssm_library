@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JE66|A0A498JE66_MALDO -          NUP214               PF16755.2       0.82   10.1   0.1       0.8   10.1   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021136 PE=3 SV=1
+tr|A0A498IXW4|A0A498IXW4_MALDO -          NUP214               PF16755.2        6.6    7.1   0.0        10    6.5   0.0   1.1   1   0   0   1   1   1   0 Cellulose synthase OS=Malus domestica OX=3750 GN=DVH24_017366 PE=3 SV=1
+tr|A0A498J5U6|A0A498J5U6_MALDO -          NUP214               PF16755.2        6.9    7.0   0.0         7    7.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032462 PE=4 SV=1
+tr|A0A498HSE2|A0A498HSE2_MALDO -          NUP214               PF16755.2        7.2    7.0   0.0       8.3    6.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016482 PE=4 SV=1
+tr|A0A498HZ73|A0A498HZ73_MALDO -          NUP214               PF16755.2          9    6.7   0.1        20    5.5   0.1   1.5   1   0   0   1   1   1   0 Lgl_C domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_029626 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF16755.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup214.txt --max --cpu 8 hmm_profiles/PF16755.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:31:18 2022
+# [ok]

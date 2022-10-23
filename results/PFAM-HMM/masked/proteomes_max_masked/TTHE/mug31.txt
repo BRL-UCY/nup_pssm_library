@@ -1,0 +1,21 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22TS9|Q22TS9_TETTS   -          NPCC                 PF08058.8        3.8    8.1   0.2       7.4    7.2   0.2   1.5   1   0   0   1   1   1   0 Cyclic nucleotide-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00965380 PE=4 SV=3
+tr|Q23EB9|Q23EB9_TETTS   -          NPCC                 PF08058.8        4.8    7.8   0.1        11    6.6   0.1   1.6   1   0   0   1   1   1   0 Serine/Threonine kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00717590 PE=4 SV=2
+tr|Q224D3|Q224D3_TETTS   -          NPCC                 PF08058.8        5.2    7.7   0.5        11    6.7   0.5   1.5   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_02525180 PE=4 SV=1
+tr|W7XC54|W7XC54_TETTS   -          NPCC                 PF08058.8        6.7    7.4   2.3       8.3    7.1   2.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000484729 PE=4 SV=1
+tr|Q22LR5|Q22LR5_TETTS   -          NPCC                 PF08058.8        7.1    7.3   3.8        12    6.6   1.3   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00699850 PE=4 SV=2
+tr|W7X946|W7X946_TETTS   -          NPCC                 PF08058.8        8.6    7.0   0.1       8.8    7.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000975402 PE=4 SV=1
+tr|Q22MD8|Q22MD8_TETTS   -          NPCC                 PF08058.8        9.1    6.9   3.9        14    6.3   3.9   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00036810 PE=4 SV=1
+tr|I7MDE8|I7MDE8_TETTS   -          NPCC                 PF08058.8        9.5    6.9   0.6        32    5.1   0.6   1.8   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00061600 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:43:30 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JH97|A0A498JH97_MALDO -          IR1-M                PF12185.5        0.6   11.3   0.0        26    6.0   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024752 PE=4 SV=1
+tr|A0A498HLQ7|A0A498HLQ7_MALDO -          IR1-M                PF12185.5        3.5    8.9   0.0       6.2    8.0   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025360 PE=4 SV=1
+tr|A0A498JHM6|A0A498JHM6_MALDO -          IR1-M                PF12185.5          6    8.1   0.0        12    7.2   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024754 PE=4 SV=1
+tr|A0A498JSK5|A0A498JSK5_MALDO -          IR1-M                PF12185.5          9    7.5   0.0        16    6.7   0.0   1.4   1   0   0   1   1   1   0 Iron-sulfur cluster assembly protein OS=Malus domestica OX=3750 GN=DVH24_008725 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 13:53:02 2022
+# [ok]

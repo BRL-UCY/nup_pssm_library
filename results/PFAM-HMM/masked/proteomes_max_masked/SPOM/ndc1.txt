@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13961|NDC1_SCHPO  -          Ndc1_Nup             PF09531.7    3.3e-80  268.8  12.9   3.9e-80  268.5  12.9   1.0   1   0   0   1   1   1   1 Nuclear envelope protein ndc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cut11 PE=2 SV=2
+sp|O43022|YGV8_SCHPO  -          Ndc1_Nup             PF09531.7        1.4    5.8   0.6         2    5.3   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein C354.08c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC354.08c PE=3 SV=1
+sp|Q09906|TM184_SCHPO -          Ndc1_Nup             PF09531.7        3.2    4.6   2.0         5    4.0   2.0   1.2   1   0   0   1   1   1   0 Transmembrane protein 184 homolog C30D11.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC30D11.06c PE=1 SV=1
+sp|Q8TFG3|YL55_SCHPO  -          Ndc1_Nup             PF09531.7        5.3    3.9   0.3       5.7    3.8   0.3   1.0   1   0   0   1   1   1   0 Putative uncharacterized membrane protein PB18E9.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAPB18E9.05c PE=4 SV=1
+sp|P36209|ERG4_SCHPO  -          Ndc1_Nup             PF09531.7          9    3.1   1.6        12    2.7   1.6   1.1   1   0   0   1   1   1   0 Delta(24(24(1)))-sterol reductase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sts1 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/ndc1.txt --max --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:09:23 2022
+# [ok]
