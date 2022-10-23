@@ -1,5 +1,5 @@
 # A library of sensitive position-specific scoring matrices for high-throughput identification of nuclear pore complex subunits
-Andreas N Ioannides[^1], Katerina R Katsani[^2], Christos A Ouzounis[^3], Vasilis J Promponas[^1]<sup>*</sup>
+Andreas N Ioannides[^1], Katerina R Katsani[^2], Christos A Ouzounis[^3], Vasilis J Promponas[^1]
 
 
 
@@ -19,5 +19,4 @@ The nuclear pore complex presents different composition along eukaryotes, with e
 [^1]: Department of Biological Sciences, University of Cyprus, Nicosia, 1678, Cyprus
 [^2]: Department of Molecular Biology & Genetics, Democritus University of Thrace, Alexandroupolis, 68100, Greece 
 [^3]: Chemical Process & Energy Resources Institute, Centre for Research & Technology Hellas, Thessalonica, GR-57001, Greece.\
-\
-<sup>*</sup> To whom correspondence should be addressed. Tel: +357 22892879; Fax: +357 22895095; Email: vprobon[at]ucy.ac.cy
+[^1] To whom correspondence should be addressed. Tel: +357 22892879; Fax: +357 22895095; Email: vprobon[at]ucy.ac.cy
