@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498I8K0|A0A498I8K0_MALDO -          pom152               -               0.34    9.9   1.6      0.43    9.6   1.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041245 PE=4 SV=1
+tr|A0A498HJ17|A0A498HJ17_MALDO -          pom152               -               0.53    9.3   0.2      0.79    8.7   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007148 PE=4 SV=1
+tr|A0A498HT90|A0A498HT90_MALDO -          pom152               -                0.6    9.1   0.1      0.83    8.7   0.1   1.1   1   0   0   1   1   1   0 BSD domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025604 PE=4 SV=1
+tr|A0A498I0E1|A0A498I0E1_MALDO -          pom152               -               0.61    9.1   0.1      0.59    9.2   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039411 PE=4 SV=1
+tr|A0A498KP90|A0A498KP90_MALDO -          pom152               -                1.2    8.1   0.3       1.4    7.9   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034024 PE=4 SV=1
+tr|A0A498KL59|A0A498KL59_MALDO -          pom152               -                1.2    8.1   0.7       1.8    7.6   0.7   1.1   1   0   0   1   1   1   0 C2H2-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023054 PE=4 SV=1
+tr|A0A498J8M2|A0A498J8M2_MALDO -          pom152               -                  2    7.4   1.3       2.3    7.2   1.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_035268 PE=4 SV=1
+tr|A0A498KL69|A0A498KL69_MALDO -          pom152               -                2.1    7.3   0.9         3    6.8   0.9   1.1   1   0   0   1   1   1   0 C2H2-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023053 PE=4 SV=1
+tr|A0A498KPQ9|A0A498KPQ9_MALDO -          pom152               -                2.3    7.2   8.3       2.4    7.2   8.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033855 PE=4 SV=1
+tr|A0A498I0K4|A0A498I0K4_MALDO -          pom152               -                3.3    6.7   0.4       4.2    6.3   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039471 PE=4 SV=1
+tr|A0A498IUL9|A0A498IUL9_MALDO -          pom152               -                3.7    6.5   0.4       6.8    5.6   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016978 PE=4 SV=1
+tr|A0A498ITN7|A0A498ITN7_MALDO -          pom152               -                4.7    6.2   0.1         5    6.1   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022051 PE=4 SV=1
+tr|A0A498JYN0|A0A498JYN0_MALDO -          pom152               -                5.7    5.9   0.1       7.4    5.5   0.1   1.1   1   0   0   1   1   1   0 zf-RVT domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_010596 PE=4 SV=1
+tr|A0A498JT88|A0A498JT88_MALDO -          pom152               -                7.7    5.5   0.3        11    4.9   0.3   1.1   1   0   0   1   1   1   0 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_010591 PE=4 SV=1
+tr|A0A498JJN1|A0A498JJN1_MALDO -          pom152               -                  8    5.4   0.0        10    5.1   0.0   1.0   1   0   0   1   1   1   0 Rx_N domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_016060 PE=4 SV=1
+tr|A0A498HJG0|A0A498HJG0_MALDO -          pom152               -                8.7    5.3   0.7        11    5.0   0.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025107 PE=4 SV=1
+tr|A0A498IQC4|A0A498IQC4_MALDO -          pom152               -                9.1    5.2   0.0        13    4.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009499 PE=4 SV=1
+tr|A0A498J3D5|A0A498J3D5_MALDO -          pom152               -                9.3    5.2   0.6        11    4.9   0.6   1.0   1   0   0   1   1   1   0 HTH myb-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_032636 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:02:28 2022
+# [ok]

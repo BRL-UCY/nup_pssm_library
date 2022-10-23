@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CQ27|A0A2K3CQ27_CHLRE -          nup93                -            2.4e-63  214.4   0.0   1.5e-22   79.5   0.0   5.1   5   0   0   5   5   5   5 Nuclear pore protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g717800v5 PE=3 SV=1
+tr|A0A2K3DGM1|A0A2K3DGM1_CHLRE -          nup93                -            1.6e-05   23.2   5.6      0.62    8.0   0.3   4.2   2   1   2   4   4   4   3 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g362650v5 PE=4 SV=1
+tr|A9XPA7|A9XPA7_CHLRE         -          nup93                -              0.014   13.4   5.7     0.035   12.1   0.2   2.7   2   1   1   3   3   3   0 Intraflagellar transport protein 144 OS=Chlamydomonas reinhardtii OX=3055 GN=IFT144 PE=2 SV=1
+tr|H9CTG6|H9CTG6_CHLRE         -          nup93                -              0.019   13.0   4.0      0.23    9.4   1.5   2.8   2   1   1   3   3   3   0 Intraflagellar transport protein 122 homolog OS=Chlamydomonas reinhardtii OX=3055 GN=IFT122 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:33:55 2022
+# [ok]

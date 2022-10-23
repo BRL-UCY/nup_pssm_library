@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R480|NUP85_MOUSE          -          nup75                -           6.2e-242  806.0   2.7    7e-242  805.8   2.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YM95|Z4YM95_MOUSE         -          nup75                -           3.7e-115  387.2   2.0  4.5e-115  386.9   2.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YLV0|Z4YLV0_MOUSE         -          nup75                -           1.6e-100  338.9   0.8     1e-51  177.6   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|E9Q4V9|E9Q4V9_MOUSE         -          nup75                -               0.61    9.9   0.3       2.7    7.7   0.2   1.9   1   1   1   2   2   2   0 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8BH74|NU107_MOUSE          -          nup75                -               0.61    9.9   0.3       2.7    7.7   0.2   1.9   1   1   1   2   2   2   0 Nuclear pore complex protein Nup107 OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A0A6YVZ4|A0A0A6YVZ4_MOUSE -          nup75                -                3.1    7.5   0.1         4    7.2   0.1   1.0   1   0   0   1   1   1   0 Podocin (Fragment) OS=Mus musculus OX=10090 GN=Nphs2 PE=4 SV=1
+tr|F6Y2I6|F6Y2I6_MOUSE         -          nup75                -                3.2    7.5   0.0       4.1    7.1   0.0   1.1   1   0   0   1   1   1   0 Exportin-6 (Fragment) OS=Mus musculus OX=10090 GN=Xpo6 PE=1 SV=1
+sp|Q3UUF8|AN34B_MOUSE          -          nup75                -                4.8    6.9   0.0         7    6.4   0.0   1.1   1   0   0   1   1   1   0 Ankyrin repeat domain-containing protein 34B OS=Mus musculus OX=10090 GN=Ankrd34b PE=1 SV=1
+tr|E9Q9J6|E9Q9J6_MOUSE         -          nup75                -                5.3    6.8   0.1        17    5.1   0.1   1.7   2   0   0   2   2   2   0 Plectin (Fragment) OS=Mus musculus OX=10090 GN=Plec PE=1 SV=1
+tr|A0A0R4J221|A0A0R4J221_MOUSE -          nup75                -                5.6    6.7   0.1        18    5.0   0.1   1.7   2   0   0   2   2   2   0 Plectin (Fragment) OS=Mus musculus OX=10090 GN=Plec PE=1 SV=1
+tr|B8JJD2|B8JJD2_MOUSE         -          nup75                -                  6    6.6   0.1       6.1    6.5   0.1   1.0   1   0   0   1   1   1   0 Fanconi anemia, complementation group E (Fragment) OS=Mus musculus OX=10090 GN=Fance PE=4 SV=2
+tr|A0A0R4J223|A0A0R4J223_MOUSE -          nup75                -                8.2    6.1   0.2        26    4.5   0.1   1.7   2   0   0   2   2   2   0 Plectin (Fragment) OS=Mus musculus OX=10090 GN=Plec PE=1 SV=1
+tr|G3UWN7|G3UWN7_MOUSE         -          nup75                -                9.1    6.0   0.0        12    5.6   0.0   1.1   1   0   0   1   1   1   0 Ubiquitin carboxyl-terminal hydrolase 21 (Fragment) OS=Mus musculus OX=10090 GN=Usp21 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:48:53 2022
+# [ok]

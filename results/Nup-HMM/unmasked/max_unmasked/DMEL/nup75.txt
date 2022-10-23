@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1YK02|NUP75_DROME          -          nup75                -             8e-227  754.8   8.8    9e-227  754.6   8.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup75 OS=Drosophila melanogaster OX=7227 GN=Nup75 PE=2 SV=1
+tr|Q9VII8|Q9VII8_DROME         -          nup75                -              0.099   11.2   0.1      0.16   10.5   0.1   1.2   1   0   0   1   1   1   0 Outer segment 5 OS=Drosophila melanogaster OX=7227 GN=Oseg5 PE=4 SV=2
+tr|Q9VFE7|Q9VFE7_DROME         -          nup75                -                0.1   11.1   0.0       4.7    5.6   0.0   2.5   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9W138|SAMTR_DROME          -          nup75                -                0.2   10.2   0.9      0.26    9.8   0.9   1.1   1   0   0   1   1   1   0 S-adenosylmethionine sensor upstream of mTORC1 OS=Drosophila melanogaster OX=7227 GN=Samtor PE=2 SV=1
+tr|X2JBG9|X2JBG9_DROME         -          nup75                -               0.27    9.7   0.6      0.42    9.1   0.1   1.5   2   0   0   2   2   2   0 Alpha catenin, isoform B OS=Drosophila melanogaster OX=7227 GN=alpha-Cat PE=4 SV=1
+tr|Q9W097|Q9W097_DROME         -          nup75                -               0.44    9.0   0.2       0.9    8.0   0.2   1.4   1   0   0   1   1   1   0 LD29485p OS=Drosophila melanogaster OX=7227 GN=Oseg4 PE=2 SV=1
+sp|Q9VEU0|GR89A_DROME          -          nup75                -               0.52    8.8   0.8      0.74    8.3   0.8   1.2   1   0   0   1   1   1   0 Putative gustatory receptor 89a OS=Drosophila melanogaster OX=7227 GN=Gr89a PE=3 SV=2
+tr|Q9VA69|Q9VA69_DROME         -          nup75                -               0.83    8.1   0.0       1.5    7.3   0.0   1.3   1   0   0   1   1   1   0 Prolyl 4-hydroxylase alpha-related protein PH4[alpha]EFB OS=Drosophila melanogaster OX=7227 GN=PH4alphaEFB PE=1 SV=2
+sp|Q9XZ06|NU931_DROME          -          nup75                -               0.95    7.9   0.0        11    4.4   0.0   2.4   2   0   0   2   2   2   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+sp|P35220|CTNA_DROME           -          nup75                -               0.98    7.9   1.1       1.7    7.0   0.1   1.8   2   0   0   2   2   2   0 Catenin alpha OS=Drosophila melanogaster OX=7227 GN=alpha-Cat PE=1 SV=2
+sp|Q9V9I4|OR42B_DROME          -          nup75                -                1.1    7.7   0.1       4.5    5.7   0.0   1.7   2   0   0   2   2   2   0 Odorant receptor 42b OS=Drosophila melanogaster OX=7227 GN=Or42b PE=2 SV=2
+tr|Q8MSM9|Q8MSM9_DROME         -          nup75                -                1.3    7.4   1.9       1.8    7.0   1.9   1.2   1   0   0   1   1   1   0 AT18730p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11698 PE=2 SV=1
+sp|Q07327|ROP_DROME            -          nup75                -                1.4    7.4   0.1         2    6.8   0.1   1.1   1   0   0   1   1   1   0 Protein ROP OS=Drosophila melanogaster OX=7227 GN=Rop PE=2 SV=2
+tr|M9PEL1|M9PEL1_DROME         -          nup75                -                1.4    7.4   0.1         2    6.8   0.1   1.1   1   0   0   1   1   1   0 Ras opposite, isoform B OS=Drosophila melanogaster OX=7227 GN=Rop PE=3 SV=1
+tr|M9PD91|M9PD91_DROME         -          nup75                -                1.5    7.2   0.0       2.5    6.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11247 PE=4 SV=1
+tr|Q9VNZ4|Q9VNZ4_DROME         -          nup75                -                2.9    6.3   0.0       4.9    5.6   0.0   1.3   1   0   0   1   1   1   0 FI01120p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11247 PE=2 SV=1
+tr|Q8SZY9|Q8SZY9_DROME         -          nup75                -                  3    6.2   0.1       5.9    5.3   0.1   1.4   1   0   0   1   1   1   0 LD47413p OS=Drosophila melanogaster OX=7227 GN=CG6316 PE=1 SV=1
+sp|P10083|AST5_DROME           -          nup75                -                3.1    6.2   0.6       3.5    6.0   0.6   1.1   1   0   0   1   1   1   0 Achaete-scute complex protein T5 OS=Drosophila melanogaster OX=7227 GN=ac PE=2 SV=1
+tr|Q9W308|Q9W308_DROME         -          nup75                -                3.4    6.1   0.6       3.6    6.0   0.6   1.1   1   0   0   1   1   1   0 GH05731p OS=Drosophila melanogaster OX=7227 GN=BcDNA:GH05731 PE=2 SV=1
+sp|P10334|MS2B_DROME           -          nup75                -                3.4    6.1   0.0       3.8    5.9   0.0   1.1   1   0   0   1   1   1   0 Accessory gland-specific peptide 26Ab OS=Drosophila melanogaster OX=7227 GN=Acp26Ab PE=2 SV=1
+tr|X2J8T8|X2J8T8_DROME         -          nup75                -                3.4    6.1   0.0       3.8    5.9   0.0   1.1   1   0   0   1   1   1   0 Accessory gland protein 26Ab, isoform C OS=Drosophila melanogaster OX=7227 GN=Acp26Ab PE=2 SV=1
+sp|P48994|TRPL_DROME           -          nup75                -                3.4    6.1   0.1       6.5    5.2   0.1   1.3   1   0   0   1   1   1   0 Transient-receptor-potential-like protein OS=Drosophila melanogaster OX=7227 GN=trpl PE=1 SV=2
+tr|A8JNT6|A8JNT6_DROME         -          nup75                -                4.2    5.8   6.0       6.2    5.2   6.0   1.2   1   0   0   1   1   1   0 Myosin binding subunit, isoform F OS=Drosophila melanogaster OX=7227 GN=Mbs PE=1 SV=1
+tr|Q5LJR0|Q5LJR0_DROME         -          nup75                -                4.5    5.7   0.0         6    5.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17715 PE=1 SV=1
+sp|Q9W040|OSM1_DROME           -          nup75                -                4.6    5.7   0.1   1.2e+02    1.0   0.0   2.6   2   0   0   2   2   2   0 Intraflagellar transport protein 172 homolog OS=Drosophila melanogaster OX=7227 GN=Oseg2 PE=3 SV=3
+sp|P08171|EST6_DROME           -          nup75                -                4.7    5.6   0.0       6.6    5.1   0.0   1.1   1   0   0   1   1   1   0 Esterase-6 OS=Drosophila melanogaster OX=7227 GN=Est-6 PE=1 SV=2
+tr|C9QP21|C9QP21_DROME         -          nup75                -                4.7    5.6   0.0       6.6    5.1   0.0   1.1   1   0   0   1   1   1   0 Carboxylic ester hydrolase OS=Drosophila melanogaster OX=7227 GN=Est-6 PE=1 SV=1
+sp|Q9VZH1|CF298_DROME          -          nup75                -                5.1    5.5   0.0       7.9    4.9   0.0   1.2   1   0   0   1   1   1   0 Cilia- and flagella-associated protein 298 OS=Drosophila melanogaster OX=7227 GN=CG18675 PE=2 SV=2
+tr|Q9VUX7|Q9VUX7_DROME         -          nup75                -                5.9    5.3   4.4       8.8    4.7   4.4   1.2   1   0   0   1   1   1   0 GH16214p OS=Drosophila melanogaster OX=7227 GN=Mbs PE=1 SV=1
+tr|E1JIG3|E1JIG3_DROME         -          nup75                -                5.9    5.3   0.1       9.4    4.6   0.1   1.2   1   0   0   1   1   1   0 FI23917p1 OS=Drosophila melanogaster OX=7227 GN=Vps15 PE=2 SV=1
+tr|Q5LJR2|Q5LJR2_DROME         -          nup75                -                5.9    5.3   0.0       8.1    4.8   0.0   1.1   1   0   0   1   1   1   0 FI20805p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE63764 PE=1 SV=1
+sp|Q9VG76|MYCBP_DROME          -          nup75                -                  6    5.3   1.2       7.1    5.0   1.2   1.1   1   0   0   1   1   1   0 c-Myc-binding protein homolog OS=Drosophila melanogaster OX=7227 GN=CG17202 PE=2 SV=2
+tr|A0A0B4KGX5|A0A0B4KGX5_DROME -          nup75                -                  6    5.3   0.1       9.5    4.6   0.1   1.2   1   0   0   1   1   1   0 Vacuolar protein sorting 15, isoform C OS=Drosophila melanogaster OX=7227 GN=Vps15 PE=4 SV=1
+tr|Q9VJR9|Q9VJR9_DROME         -          nup75                -                6.1    5.2   0.0       9.3    4.6   0.0   1.3   1   0   0   1   1   1   0 COP9 signalosome subunit 1a OS=Drosophila melanogaster OX=7227 GN=CSN1a PE=2 SV=1
+sp|Q9VL13|MOB3_DROME           -          nup75                -                6.2    5.2   0.0        25    3.2   0.0   1.7   2   0   0   2   2   2   0 MOB kinase activator-like 3 OS=Drosophila melanogaster OX=7227 GN=Mob3 PE=2 SV=1
+sp|Q9V466|NU107_DROME          -          nup75                -                6.5    5.1   0.0        14    4.1   0.0   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+sp|Q961G1|COG3_DROME           -          nup75                -                6.7    5.1   0.4        15    4.0   0.4   1.5   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 3 OS=Drosophila melanogaster OX=7227 GN=Cog3 PE=1 SV=1
+sp|P25439|BRM_DROME            -          nup75                -                  7    5.0   3.0        12    4.2   3.0   1.4   1   0   0   1   1   1   0 ATP-dependent helicase brm OS=Drosophila melanogaster OX=7227 GN=brm PE=1 SV=2
+tr|M9PFM5|M9PFM5_DROME         -          nup75                -                  7    5.0   3.0        12    4.2   3.0   1.4   1   0   0   1   1   1   0 Brahma, isoform F OS=Drosophila melanogaster OX=7227 GN=brm PE=4 SV=1
+tr|M9PFS6|M9PFS6_DROME         -          nup75                -                7.1    5.0   3.0        13    4.2   3.0   1.3   1   0   0   1   1   1   0 Brahma, isoform E OS=Drosophila melanogaster OX=7227 GN=brm PE=4 SV=1
+tr|Q9VRD3|Q9VRD3_DROME         -          nup75                -                8.1    4.8   2.0       5.1    5.5   0.1   1.5   2   0   0   2   2   2   0 FI06015p OS=Drosophila melanogaster OX=7227 GN=r-cup PE=2 SV=1
+sp|P16378|GNAO_DROME           -          nup75                -                8.2    4.8   0.1        19    3.6   0.0   1.5   1   1   1   2   2   2   0 G protein alpha o subunit OS=Drosophila melanogaster OX=7227 GN=Galphao PE=1 SV=1
+tr|Q9W5D2|Q9W5D2_DROME         -          nup75                -                8.7    4.7   0.2        13    4.2   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=EG:34F3.9 PE=4 SV=1
+sp|P14003|HAIR_DROME           -          nup75                -                  9    4.7   0.1        28    3.0   0.1   1.6   1   1   1   2   2   2   0 Protein hairy OS=Drosophila melanogaster OX=7227 GN=h PE=1 SV=2
+sp|Q8T3L6|FABD_DROME           -          nup75                -                9.4    4.6   0.1        17    3.8   0.1   1.4   1   0   0   1   1   1   0 Probable malonyl-CoA-acyl carrier protein transacylase, mitochondrial OS=Drosophila melanogaster OX=7227 GN=beg PE=2 SV=2
+tr|Q8MYW2|Q8MYW2_DROME         -          nup75                -                9.7    4.6   2.6        11    4.4   2.6   1.1   1   0   0   1   1   1   0 RH02374p OS=Drosophila melanogaster OX=7227 GN=EG:171D11.5 PE=2 SV=1
+tr|Q9W262|Q9W262_DROME         -          nup75                -                9.9    4.5   0.9        10    4.5   0.9   1.1   1   0   0   1   1   1   0 AT10824p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11298 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:02:35 2022
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AU27|A0A509AU27_PLABA -          nup153               -            8.8e-06   21.6  27.1     1e-05   21.4  27.1   1.1   1   0   0   1   1   1   1 Zinc finger protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1415900 PE=4 SV=1
+tr|A0A509AK15|A0A509AK15_PLABA -          nup153               -              0.053    9.1   8.1     0.068    8.7   8.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0704800 PE=4 SV=1
+tr|A0A509AFZ4|A0A509AFZ4_PLABA -          nup153               -               0.36    6.4   5.1      0.38    6.3   5.1   1.0   1   0   0   1   1   1   0 Protein phosphatase inhibitor 3, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0515500 PE=4 SV=1
+tr|A0A509AUE6|A0A509AUE6_PLABA -          nup153               -               0.51    5.9   0.6       0.6    5.6   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1221900 PE=4 SV=1
+tr|A0A509AIB9|A0A509AIB9_PLABA -          nup153               -                1.4    4.4   7.8       3.3    3.2   7.8   1.5   1   0   0   1   1   1   0 Kinesin-8, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0805900 PE=3 SV=1
+tr|A0A509AV34|A0A509AV34_PLABA -          nup153               -                2.5    3.6   0.0         3    3.3   0.0   1.0   1   0   0   1   1   1   0 Dynein light chain Tctex-type, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1238300 PE=4 SV=1
+tr|A0A509ALU2|A0A509ALU2_PLABA -          nup153               -                3.4    3.1   2.9       4.6    2.7   2.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1114500 PE=4 SV=1
+tr|A0A509ALZ1|A0A509ALZ1_PLABA -          nup153               -                3.6    3.0   9.1       3.6    3.0   9.1   1.0   1   0   0   1   1   1   0 RNA-binding protein s1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0917200 PE=4 SV=1
+tr|A0A509AGR4|A0A509AGR4_PLABA -          nup153               -                4.7    2.6   2.1       6.2    2.3   2.1   1.1   1   0   0   1   1   1   0 DUF155 domain-containing protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0503000 PE=3 SV=1
+tr|A0A509ADS9|A0A509ADS9_PLABA -          nup153               -                5.9    2.3   2.3       8.4    1.8   2.3   1.1   1   0   0   1   1   1   0 AP-3 complex subunit beta, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0111800 PE=3 SV=1
+tr|A0A509AIC9|A0A509AIC9_PLABA -          nup153               -                6.3    2.2   3.0       7.7    1.9   3.0   1.0   1   0   0   1   1   1   0 Proteasome activator 28 subunit beta, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0809100 PE=3 SV=1
+tr|A0A509AIW1|A0A509AIW1_PLABA -          nup153               -                6.6    2.2   3.8       8.3    1.8   3.8   1.0   1   0   0   1   1   1   0 Ribosomal RNA-processing protein 8 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0826000 PE=3 SV=1
+tr|A0A509AJF8|A0A509AJF8_PLABA -          nup153               -                7.3    2.0   4.3       8.2    1.8   4.3   1.0   1   0   0   1   1   1   0 Selenoprotein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1017400 PE=4 SV=1
+tr|A0A509ASI8|A0A509ASI8_PLABA -          nup153               -                  8    1.9   0.5        18    0.7   0.5   1.4   1   0   0   1   1   1   0 Serine/threonine protein kinase, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1460500 PE=4 SV=1
+tr|A0A509ART9|A0A509ART9_PLABA -          nup153               -                9.3    1.7   0.0        13    1.2   0.0   1.0   1   0   0   1   1   1   0 Protein TSSC1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1436800 PE=3 SV=1
+tr|A0A509ARF1|A0A509ARF1_PLABA -          nup153               -                9.6    1.6   3.6        12    1.3   3.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1423000 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/PBERA/nup153.txt --max --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:42:33 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8LLD0|NUP96_ARATH          -          nup96                -           6.1e-236  787.8   0.4  4.7e-172  575.9   3.0   2.9   1   1   1   2   2   2   2 Nuclear pore complex protein NUP96 OS=Arabidopsis thaliana OX=3702 GN=NUP96 PE=1 SV=1
+tr|A0A1P8AN64|A0A1P8AN64_ARATH -          nup96                -            1.6e-66  226.0 135.0   5.6e-59  201.0   0.1   3.7   3   1   0   3   3   3   3 Nucleoporin autopeptidase OS=Arabidopsis thaliana OX=3702 GN=At1g59660 PE=4 SV=1
+sp|F4ID16|NU98B_ARATH          -          nup96                -            3.3e-66  224.9 135.2   5.6e-59  201.0   0.1   3.9   3   1   0   3   3   3   3 Nuclear pore complex protein NUP98B OS=Arabidopsis thaliana OX=3702 GN=NUP98B PE=1 SV=1
+sp|Q8RY25|NU98A_ARATH          -          nup96                -            3.7e-62  211.5  77.4   4.6e-58  197.9   0.0   4.0   3   1   1   4   4   4   2 Nuclear pore complex protein NUP98A OS=Arabidopsis thaliana OX=3702 GN=NUP98A PE=1 SV=1
+tr|Q9SH38|Q9SH38_ARATH         -          nup96                -            0.00012   20.8   2.5   0.00012   20.8   2.5   2.2   2   0   0   2   2   2   1 F2K11.10 OS=Arabidopsis thaliana OX=3702 GN=At1g63540 PE=4 SV=1
+tr|Q9SH37|Q9SH37_ARATH         -          nup96                -                4.8    5.5   4.8         7    5.0   4.7   1.2   1   1   0   1   1   1   0 F2K11.11 OS=Arabidopsis thaliana OX=3702 GN=At1g63530 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:45 2022
+# [ok]

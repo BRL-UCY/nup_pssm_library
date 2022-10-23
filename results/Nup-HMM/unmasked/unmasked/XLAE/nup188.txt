@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8F1N1|A0A1L8F1N1_XENLA -          nup188               -                  0 2522.2  29.7         0 2522.0  29.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup188 PE=1 SV=1
+tr|A0A1L8EJF6|A0A1L8EJF6_XENLA -          nup188               -              0.028   12.6   0.0     0.036   12.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18004665mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/XLAE/nup188.txt --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:56 2022
+# [ok]

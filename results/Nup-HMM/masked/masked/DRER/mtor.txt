@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5RI09|Q5RI09_DANRE         -          mtor                 -                  0 1113.7   0.0         0 1029.8   0.7   3.0   3   0   0   3   3   3   3 Translocated promoter region b, nuclear basket protein OS=Danio rerio OX=7955 GN=tprb PE=1 SV=1
+tr|A0A0R4IYL8|A0A0R4IYL8_DANRE -          mtor                 -                  0 1111.8  25.8  1.6e-298  995.3  41.0   3.0   3   0   0   3   3   3   3 Translocated promoter region a, nuclear basket protein OS=Danio rerio OX=7955 GN=tpra PE=1 SV=1
+tr|F1RA03|F1RA03_DANRE         -          mtor                 -            0.00091   17.7   1.4    0.0012   17.3   1.4   1.1   1   0   0   1   1   1   1 Vimentin-related 1 OS=Danio rerio OX=7955 GN=vimr1 PE=1 SV=2
+tr|F1R8W4|F1R8W4_DANRE         -          mtor                 -              0.072   11.4   0.3      0.11   10.9   0.3   1.1   1   0   0   1   1   1   0 Desmin a OS=Danio rerio OX=7955 GN=desma PE=1 SV=1
+tr|F1R8W3|F1R8W3_DANRE         -          mtor                 -              0.077   11.3   0.3      0.11   10.8   0.3   1.1   1   0   0   1   1   1   0 Desmin a OS=Danio rerio OX=7955 GN=desma PE=1 SV=1
+tr|A0A2R8QJ16|A0A2R8QJ16_DANRE -          mtor                 -              0.079   11.3   4.1     0.016   13.6   1.0   1.3   2   0   0   2   2   2   0 Huntingtin-interacting protein 1 OS=Danio rerio OX=7955 GN=hip1 PE=1 SV=1
+tr|X1WBM9|X1WBM9_DANRE         -          mtor                 -               0.08   11.3   4.1     0.016   13.6   1.0   1.3   2   0   0   2   2   2   0 Huntingtin-interacting protein 1 OS=Danio rerio OX=7955 GN=hip1 PE=1 SV=1
+tr|F1R6L2|F1R6L2_DANRE         -          mtor                 -               0.08   11.3   4.1     0.017   13.6   1.0   1.3   2   0   0   2   2   2   0 Huntingtin-interacting protein 1 OS=Danio rerio OX=7955 GN=hip1 PE=1 SV=3
+tr|A0A2R8QB02|A0A2R8QB02_DANRE -          mtor                 -              0.081   11.3   4.1     0.017   13.6   1.0   1.3   2   0   0   2   2   2   0 Huntingtin-interacting protein 1 OS=Danio rerio OX=7955 GN=hip1 PE=1 SV=1
+tr|Q8UVZ1|Q8UVZ1_DANRE         -          mtor                 -                1.1    7.5   1.0       1.4    7.2   1.0   1.0   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein OS=Danio rerio OX=7955 GN=cebpa PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:29 2022
+# [ok]

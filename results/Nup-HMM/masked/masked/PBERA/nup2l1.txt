@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509ALX5|A0A509ALX5_PLABA -          nup2l1               -               0.26    9.0   2.4      0.36    8.5   2.4   1.1   1   0   0   1   1   1   0 Zinc finger protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0608600 PE=4 SV=1
+tr|A0A509AIU4|A0A509AIU4_PLABA -          nup2l1               -                9.5    3.8   9.7       1.5    6.5   0.5   2.0   2   0   0   2   2   2   0 Splicing factor U2AF small subunit, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0928800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/PBERA/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:07 2022
+# [ok]

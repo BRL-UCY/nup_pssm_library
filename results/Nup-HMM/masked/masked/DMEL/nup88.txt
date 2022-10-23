@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9GYU8|NUP88_DROME          -          nup88                -           5.2e-171  570.6   0.0  5.8e-171  570.4   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Drosophila melanogaster OX=7227 GN=mbo PE=1 SV=2
+sp|Q7KNS3|LIS1_DROME           -          nup88                -            0.00097   17.7   0.0      0.93    7.9   0.0   2.4   2   1   0   2   2   2   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=1 SV=2
+tr|A0A0B4K812|A0A0B4K812_DROME -          nup88                -            0.00097   17.7   0.0      0.93    7.9   0.0   2.4   2   1   0   2   2   2   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=3 SV=1
+sp|Q9W328|LST8_DROME           -          nup88                -              0.087   11.3   0.0      0.19   10.1   0.0   1.5   2   0   0   2   2   2   0 Protein LST8 homolog OS=Drosophila melanogaster OX=7227 GN=Lst8 PE=1 SV=2
+tr|B7YZU7|B7YZU7_DROME         -          nup88                -               0.13   10.6   0.2      0.17   10.3   0.2   1.1   1   0   0   1   1   1   0 Lectin-22C OS=Drosophila melanogaster OX=7227 GN=lectin-22C PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:03 2022
+# [ok]

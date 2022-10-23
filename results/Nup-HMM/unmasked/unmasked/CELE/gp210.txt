@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|P91495|P91495_CAEEL -          gp210                -                  0 1175.3  26.5         0 1171.5  26.5   2.0   1   1   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-12 PE=1 SV=1
+tr|Q7YX20|Q7YX20_CAEEL -          gp210                -             0.0019   15.6   1.2    0.0022   15.4   1.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F42G4.7 PE=4 SV=1
+tr|Q17553|Q17553_CAEEL -          gp210                -              0.061   10.6   0.2     0.087   10.1   0.2   1.1   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C01F1.4 PE=4 SV=1
+tr|G5ECI4|G5ECI4_CAEEL -          gp210                -               0.17    9.2   6.0       0.2    8.9   6.0   1.1   1   0   0   1   1   1   0 MiRP K channel accessory Subunit OS=Caenorhabditis elegans OX=6239 GN=mps-3 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:15:25 2022
+# [ok]

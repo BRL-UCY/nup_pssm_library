@@ -1,0 +1,22 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S4X2|NUP49_CHATD  -          nup58                -              1e-20   72.3 137.4   8.7e-10   36.3  64.9   4.9   3   1   1   4   4   4   3 Nucleoporin NUP49 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP49 PE=1 SV=1
+sp|G0SAK3|NU145_CHATD  -          nup58                -            1.3e-05   22.5 101.1   1.3e-05   22.5 101.1   4.8   4   1   1   5   5   5   2 Nucleoporin NUP145 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP145 PE=1 SV=1
+sp|G0S0R2|NUP57_CHATD  -          nup58                -               0.11    9.6  16.2      0.21    8.6  11.7   2.4   2   0   0   2   2   2   0 Nucleoporin NUP57 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP57 PE=1 SV=1
+sp|G0S8I1|NUP56_CHATD  -          nup58                -               0.11    9.6  28.3       0.2    8.7  28.3   1.3   1   0   0   1   1   1   0 Nucleoporin NUP56 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP56 PE=3 SV=1
+tr|G0SFW3|G0SFW3_CHATD -          nup58                -               0.35    7.9  30.8      0.44    7.6  30.8   1.1   1   0   0   1   1   1   0 Putative UPF0619 GPI-anchored membrane protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072360 PE=4 SV=1
+tr|G0S888|G0S888_CHATD -          nup58                -                0.4    7.7   3.1      0.58    7.2   3.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037960 PE=4 SV=1
+tr|G0S8Q9|G0S8Q9_CHATD -          nup58                -               0.92    6.5   6.8      0.15    9.2   2.2   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0040010 PE=4 SV=1
+tr|G0S667|G0S667_CHATD -          nup58                -                1.6    5.7  28.9       2.1    5.3  28.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0034360 PE=3 SV=1
+tr|G0SF62|G0SF62_CHATD -          nup58                -                4.2    4.4  31.8         5    4.1  31.8   1.1   1   0   0   1   1   1   0 GPI-anchored domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0060930 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:36:39 2022
+# [ok]

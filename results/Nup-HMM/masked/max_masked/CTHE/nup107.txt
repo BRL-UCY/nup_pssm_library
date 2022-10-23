@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SER9|NUP84_CHATD  -          nup107               -             1e-137  459.1   7.6   3.7e-73  245.6   0.1   4.8   4   1   0   4   4   4   4 Nucleoporin NUP84 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP84 PE=3 SV=1
+tr|G0SI51|G0SI51_CHATD -          nup107               -                  4    4.0   0.0       5.4    3.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0074520 PE=3 SV=1
+tr|G0SCQ7|G0SCQ7_CHATD -          nup107               -                6.5    3.3   0.0       7.9    3.0   0.0   1.1   1   0   0   1   1   1   0 DNA replication complex GINS protein PSF1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0058080 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:35:32 2022
+# [ok]

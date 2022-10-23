@@ -1,0 +1,34 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P14907|NSP1_YEAST  -          nup62                -            1.4e-72  243.1  53.7   1.4e-72  243.1  53.7   5.4   1   1   5   6   6   4   3 Nucleoporin NSP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NSP1 PE=1 SV=1
+sp|P10863|TIR1_YEAST  -          nup62                -            0.00012   19.6  46.5   0.00017   19.1  46.5   1.3   1   0   0   1   1   1   1 Cold shock-induced protein TIR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIR1 PE=1 SV=1
+sp|Q04338|VTI1_YEAST  -          nup62                -            0.00037   17.9   0.6   0.00057   17.3   0.6   1.4   1   0   0   1   1   1   1 t-SNARE VTI1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VTI1 PE=1 SV=3
+sp|P48837|NUP57_YEAST -          nup62                -              0.012   13.0  82.5     0.063   10.6  47.6   3.6   2   1   1   3   3   3   0 Nucleoporin NUP57 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP57 PE=1 SV=1
+sp|O13547|CCW14_YEAST -          nup62                -              0.049   11.0  57.9     0.064   10.6  57.9   1.1   1   0   0   1   1   1   0 Covalently-linked cell wall protein 14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CCW14 PE=1 SV=1
+sp|Q12369|SFI1_YEAST  -          nup62                -              0.062   10.6   0.6      0.12    9.7   0.6   1.3   1   0   0   1   1   1   0 Protein SFI1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SFI1 PE=1 SV=1
+sp|Q02199|NUP49_YEAST -          nup62                -              0.062   10.6  58.5     0.083   10.2  35.5   2.6   1   1   1   2   2   2   0 Nucleoporin NUP49/NSP49 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP49 PE=1 SV=1
+sp|P38721|YHF0_YEAST  -          nup62                -               0.13    9.6  37.3     0.043   11.1  34.8   1.4   2   0   0   2   2   2   0 Uncharacterized protein YHL050C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHL050C PE=4 SV=1
+sp|P38900|YH19_YEAST  -          nup62                -               0.17    9.1  76.9      0.33    8.2  76.9   1.4   1   0   0   1   1   1   0 Putative uncharacterized protein YHR219W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHR219W PE=4 SV=1
+sp|Q03180|PIR3_YEAST  -          nup62                -                0.2    9.0  45.6      0.25    8.6  45.6   1.1   1   0   0   1   1   1   0 Cell wall mannoprotein PIR3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PIR3 PE=1 SV=3
+sp|P32623|CRH2_YEAST  -          nup62                -               0.45    7.8  39.2      0.63    7.3  39.2   1.1   1   0   0   1   1   1   0 Probable glycosidase CRH2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=UTR2 PE=1 SV=3
+sp|P36135|UTH1_YEAST  -          nup62                -               0.71    7.1  17.1      0.98    6.7  17.1   1.1   1   0   0   1   1   1   0 Probable secreted beta-glucosidase UTH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=UTH1 PE=1 SV=2
+sp|P28319|CWP1_YEAST  -          nup62                -                1.9    5.7  25.6       2.3    5.4  25.6   1.1   1   0   0   1   1   1   0 Cell wall protein CWP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CWP1 PE=1 SV=2
+sp|P27654|TIP1_YEAST  -          nup62                -                2.5    5.3  36.2       4.1    4.6  36.2   1.3   1   0   0   1   1   1   0 Temperature shock-inducible protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIP1 PE=1 SV=1
+sp|P32499|NUP2_YEAST  -          nup62                -                4.8    4.4 116.6      0.14    9.4  41.2   4.6   2   1   3   5   5   5   0 Nucleoporin NUP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP2 PE=1 SV=2
+sp|P33890|TIR2_YEAST  -          nup62                -                5.5    4.2  53.7        10    3.3  53.7   1.3   1   0   0   1   1   1   0 Cold shock-induced protein TIR2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIR2 PE=2 SV=1
+sp|P54867|SLG1_YEAST  -          nup62                -                6.6    3.9  59.7        11    3.2  59.7   1.3   1   0   0   1   1   1   0 Protein SLG1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SLG1 PE=1 SV=1
+sp|P47001|CIS3_YEAST  -          nup62                -                7.3    3.8  29.9       9.7    3.4  29.9   1.1   1   0   0   1   1   1   0 Cell wall mannoprotein CIS3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CIS3 PE=1 SV=1
+sp|P47032|PRY1_YEAST  -          nup62                -                  8    3.7  42.6        12    3.1  42.6   1.3   1   0   0   1   1   1   0 Protein PRY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PRY1 PE=1 SV=1
+sp|O13559|YRF14_YEAST -          nup62                -                8.7    3.5  79.9        16    2.6  79.9   1.3   1   0   0   1   1   1   0 Y' element ATP-dependent helicase protein 1 copy 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRF1-4 PE=2 SV=1
+sp|Q03099|YMN3_YEAST  -          nup62                -                9.1    3.5  82.4        16    2.7  82.4   1.3   1   0   0   1   1   1   0 Y' element ATP-dependent helicase YML133C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML133C PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SCER/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:19 2022
+# [ok]

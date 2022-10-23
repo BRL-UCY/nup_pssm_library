@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q02799|LEE1_YEAST  -          nup2l1               -            1.5e-07   29.8   8.1     2e-06   26.1   0.7   2.1   2   0   0   2   2   2   2 Zinc finger protein LEE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LEE1 PE=1 SV=1
+sp|P53769|CWC24_YEAST -          nup2l1               -             0.0082   14.2   0.1      0.01   13.8   0.1   1.1   1   0   0   1   1   1   1 Pre-mRNA-splicing factor CWC24 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CWC24 PE=1 SV=1
+sp|Q12000|TMA46_YEAST -          nup2l1               -               0.12   10.3   0.0       0.2    9.6   0.0   1.3   1   0   0   1   1   1   0 Translation machinery-associated protein 46 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TMA46 PE=1 SV=2
+sp|P47977|CTH2_YEAST  -          nup2l1               -               0.58    8.1   0.3       1.1    7.2   0.3   1.3   1   0   0   1   1   1   0 mRNA decay factor CTH2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIS11 PE=1 SV=1
+sp|P47976|CTH1_YEAST  -          nup2l1               -                6.4    4.7   8.8      0.19    9.7   2.6   1.5   2   0   0   2   2   2   0 mRNA decay factor CTH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CTH1 PE=1 SV=2
+sp|Q06053|DUS3_YEAST  -          nup2l1               -                6.7    4.6   0.3        10    4.0   0.3   1.1   1   0   0   1   1   1   0 tRNA-dihydrouridine(47) synthase [NAD(P)(+)] OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DUS3 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/nup2l1.txt --max --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:53:07 2022
+# [ok]

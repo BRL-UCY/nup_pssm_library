@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SDQ4|NUP85_CHATD  -          nup75                -              3e-71  239.2   2.2   3.1e-26   90.5   0.0   7.3   6   1   0   6   6   6   6 Nucleoporin NUP85 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP85 PE=1 SV=1
+tr|G0S204|G0S204_CHATD -          nup75                -             0.0078   13.2   0.1     0.012   12.5   0.1   1.2   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase PEP5 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0015500 PE=3 SV=1
+tr|G0SB47|G0SB47_CHATD -          nup75                -                7.1    3.4   0.0       8.2    3.2   0.0   1.0   1   0   0   1   1   1   0 Ribosome assembly protein 3 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0048870 PE=3 SV=1
+sp|G0SER9|NUP84_CHATD  -          nup75                -                8.3    3.2   0.0        13    2.6   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin NUP84 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP84 PE=3 SV=1
+tr|G0S7Q5|G0S7Q5_CHATD -          nup75                -                8.7    3.1   0.0        12    2.7   0.0   1.1   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0028450 PE=4 SV=1
+tr|G0SCY5|G0SCY5_CHATD -          nup75                -                  9    3.1   0.5        15    2.3   0.5   1.2   1   0   0   1   1   1   0 Vps53_N domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0058820 PE=3 SV=1
+tr|G0RYV6|G0RYV6_CHATD -          nup75                -                9.9    2.9   0.0        14    2.4   0.0   1.1   1   0   0   1   1   1   0 DNA replication factor C-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0000720 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:35:17 2022
+# [ok]

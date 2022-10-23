@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4I6V3|F4I6V3_ARATH         -          nup153               -               0.22   10.0  13.1       2.3    6.7  13.2   2.0   1   1   0   1   1   1   0 Ran BP2/NZF zinc finger-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g70650 PE=4 SV=1
+tr|F4I6V2|F4I6V2_ARATH         -          nup153               -               0.38    9.3  13.0       3.2    6.2  13.0   1.9   1   1   0   1   1   1   0 Ran BP2/NZF zinc finger-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g70650 PE=4 SV=1
+tr|Q8GWD1|Q8GWD1_ARATH         -          nup153               -               0.48    8.9  15.5     0.016   13.9   6.2   1.9   1   1   1   2   2   2   0 Ran BP2/NZF zinc finger-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g25490 PE=2 SV=1
+tr|Q0WPG7|Q0WPG7_ARATH         -          nup153               -               0.66    8.5   8.4         1    7.9   8.4   1.2   1   0   0   1   1   1   0 At1g55915 OS=Arabidopsis thaliana OX=3702 GN=At1g55915 PE=2 SV=1
+tr|A0A1P8ARI2|A0A1P8ARI2_ARATH -          nup153               -               0.81    8.2   8.4       1.2    7.6   8.4   1.2   1   0   0   1   1   1   0 Zinc ion binding protein OS=Arabidopsis thaliana OX=3702 GN=At1g55915 PE=4 SV=1
+tr|Q6ID73|Q6ID73_ARATH         -          nup153               -                4.8    5.6   3.1       6.3    5.2   3.1   1.1   1   0   0   1   1   1   0 At2g26695 OS=Arabidopsis thaliana OX=3702 GN=At2g26695 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:49 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F8WGT2|F8WGT2_MOUSE -          mug31                -            0.00019   22.6   0.5   0.00053   21.1   0.5   1.7   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=1 SV=1
+sp|Q8BRG8|TM209_MOUSE  -          mug31                -            0.00021   22.4   0.5    0.0006   20.9   0.5   1.7   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=2 SV=1
+sp|P84309|ADCY5_MOUSE  -          mug31                -               0.49   11.4   0.0       1.8    9.6   0.0   1.9   2   0   0   2   2   2   0 Adenylate cyclase type 5 OS=Mus musculus OX=10090 GN=Adcy5 PE=1 SV=2
+sp|P00158|CYB_MOUSE    -          mug31                -                8.4    7.4   4.2        23    6.0   4.2   1.7   1   0   0   1   1   1   0 Cytochrome b OS=Mus musculus OX=10090 GN=Mt-Cyb PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/mug31.txt --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:21:39 2022
+# [ok]

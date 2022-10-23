@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JNT9|A0A498JNT9_MALDO -          elys                 -            3.8e-43  148.1  18.6   6.4e-18   64.4   0.0   3.4   4   0   0   4   4   4   3 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035888 PE=4 SV=1
+tr|A0A498J1F0|A0A498J1F0_MALDO -          elys                 -             0.0067   14.6   0.0     0.011   13.8   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000084 PE=4 SV=1
+tr|A0A498HJV5|A0A498HJV5_MALDO -          elys                 -               0.06   11.4   0.2     0.076   11.1   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013350 PE=4 SV=1
+tr|A0A498ISX9|A0A498ISX9_MALDO -          elys                 -              0.071   11.2  17.7     0.081   11.0  17.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041985 PE=4 SV=1
+tr|A0A498JRV3|A0A498JRV3_MALDO -          elys                 -              0.074   11.1   0.0      0.11   10.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009117 PE=3 SV=1
+tr|A0A498I4Y0|A0A498I4Y0_MALDO -          elys                 -              0.074   11.1   0.0      0.11   10.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023518 PE=3 SV=1
+tr|A0A498K918|A0A498K918_MALDO -          elys                 -               0.11   10.5  18.7      0.13   10.3  18.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_038150 PE=4 SV=1
+tr|A0A498HFB9|A0A498HFB9_MALDO -          elys                 -               0.12   10.3   0.0      0.18    9.8   0.0   1.1   1   0   0   1   1   1   0 Utp12 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031347 PE=3 SV=1
+tr|A0A498K8Y3|A0A498K8Y3_MALDO -          elys                 -               0.39    8.7   1.3      0.56    8.2   1.3   1.1   1   0   0   1   1   1   0 XS domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_039013 PE=4 SV=1
+tr|A0A498KK22|A0A498KK22_MALDO -          elys                 -               0.42    8.6  12.4      0.39    8.7  12.4   1.0   1   0   0   1   1   1   0 HMA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_009837 PE=4 SV=1
+tr|A0A498HWE9|A0A498HWE9_MALDO -          elys                 -                  1    7.3  24.1       1.4    6.9  24.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016697 PE=3 SV=1
+tr|A0A498HS96|A0A498HS96_MALDO -          elys                 -                1.5    6.8  20.4       1.8    6.5  20.4   1.1   1   0   0   1   1   1   0 MBD domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_029149 PE=4 SV=1
+tr|A0A498KUZ3|A0A498KUZ3_MALDO -          elys                 -                1.8    6.5  10.3         2    6.4   0.0   3.7   3   1   1   4   4   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022937 PE=4 SV=1
+tr|A0A498JM22|A0A498JM22_MALDO -          elys                 -                  2    6.3  21.0       2.8    5.9  21.0   1.0   1   0   0   1   1   1   0 RNA helicase OS=Malus domestica OX=3750 GN=DVH24_024628 PE=3 SV=1
+tr|A0A498KB24|A0A498KB24_MALDO -          elys                 -                2.1    6.3  33.1       2.3    6.1  33.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_017582 PE=4 SV=1
+tr|A0A498HYH0|A0A498HYH0_MALDO -          elys                 -                2.3    6.2  31.6       2.5    6.1  31.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028942 PE=4 SV=1
+tr|A0A498K8X3|A0A498K8X3_MALDO -          elys                 -                7.4    4.5  62.4       8.9    4.2  62.4   1.1   1   0   0   1   1   1   0 Nkap_C domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002842 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:23 2022
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9I7N3|Q9I7N3_DROME         -          nup2l1               -            1.2e-21   78.1   6.5   2.6e-10   40.7   0.0   2.7   2   1   1   3   3   3   2 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18789 PE=4 SV=2
+tr|Q9I7N2|Q9I7N2_DROME         -          nup2l1               -            2.3e-21   77.2   7.5   2.6e-10   40.7   0.0   2.7   2   1   1   3   3   3   2 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18787 PE=4 SV=3
+tr|Q9VP20|Q9VP20_DROME         -          nup2l1               -              4e-08   33.5   6.9   1.3e-05   25.2   1.1   2.1   2   0   0   2   2   2   2 LD41384p OS=Drosophila melanogaster OX=7227 GN=Mkrn1 PE=2 SV=2
+tr|Q9VY20|Q9VY20_DROME         -          nup2l1               -            2.7e-05   24.2   0.1   2.7e-05   24.2   0.1   2.2   2   0   0   2   2   2   1 LP05025p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5347 PE=2 SV=1
+tr|Q9VY21|Q9VY21_DROME         -          nup2l1               -            0.00038   20.4   8.0    0.0049   16.8   0.1   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5334 PE=4 SV=1
+tr|X2JE07|X2JE07_DROME         -          nup2l1               -            0.00044   20.2   1.4   0.00059   19.8   1.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1677 PE=1 SV=1
+tr|Q9W3R9|Q9W3R9_DROME         -          nup2l1               -            0.00044   20.2   1.4   0.00059   19.8   1.4   1.1   1   0   0   1   1   1   1 FI03239p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1677 PE=1 SV=2
+sp|Q7JWR9|ZC3HF_DROME          -          nup2l1               -             0.0021   18.0   1.4     0.003   17.5   1.4   1.1   1   0   0   1   1   1   1 Zinc finger CCCH domain-containing protein 15 homolog OS=Drosophila melanogaster OX=7227 GN=CG8635 PE=1 SV=1
+tr|A0A0B4LEV3|A0A0B4LEV3_DROME -          nup2l1               -             0.0021   18.0   1.4     0.003   17.5   1.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8635 PE=4 SV=1
+tr|Q7KU01|Q7KU01_DROME         -          nup2l1               -             0.0069   16.3   2.2    0.0092   15.9   2.2   1.1   1   0   0   1   1   1   1 PNUTS, isoform D OS=Drosophila melanogaster OX=7227 GN=PNUTS PE=1 SV=1
+tr|Q95RB1|Q95RB1_DROME         -          nup2l1               -               0.12   12.2   3.3      0.17   11.7   3.3   1.2   1   0   0   1   1   1   0 LD46870p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14641 PE=1 SV=1
+tr|Q9VVS2|Q9VVS2_DROME         -          nup2l1               -               0.17   11.7   3.0      0.24   11.2   3.0   1.1   1   0   0   1   1   1   0 IP09428p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12477 PE=2 SV=1
+tr|A1Z7R9|A1Z7R9_DROME         -          nup2l1               -               0.17   11.7   0.1      0.23   11.3   0.1   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42382 PE=4 SV=1
+sp|Q9VL59|ZGPAT_DROME          -          nup2l1               -               0.21   11.4   0.2      0.27   11.1   0.2   1.1   1   0   0   1   1   1   0 Zinc finger CCCH-type with G patch domain-containing protein OS=Drosophila melanogaster OX=7227 GN=CG4709 PE=2 SV=1
+tr|X2JA03|X2JA03_DROME         -          nup2l1               -               0.21   11.4   0.2      0.27   11.1   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4709 PE=4 SV=1
+tr|Q9VDP8|Q9VDP8_DROME         -          nup2l1               -               0.26   11.1   0.9      0.39   10.5   0.9   1.2   1   0   0   1   1   1   0 CG4973 protein OS=Drosophila melanogaster OX=7227 GN=mdlc PE=1 SV=1
+tr|Q9VZ55|Q9VZ55_DROME         -          nup2l1               -               0.43   10.4   0.9      0.62    9.8   0.9   1.1   1   0   0   1   1   1   0 GH07148p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1582 PE=1 SV=2
+tr|Q8IMF0|Q8IMF0_DROME         -          nup2l1               -               0.95    9.2   1.1       1.3    8.8   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31601 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup2l1.txt --max --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:10:09 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8J7T8|A8J7T8_CHLRE         -          mtor                 -             0.0049   14.0   4.1    0.0054   13.9   4.1   1.0   1   0   0   1   1   1   1 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g407750v5 PE=4 SV=1
+tr|A0A2K3DTC1|A0A2K3DTC1_CHLRE -          mtor                 -              0.098    9.7   0.0      0.12    9.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g217220v5 PE=4 SV=1
+tr|A0A2K3DVD1|A0A2K3DVD1_CHLRE -          mtor                 -               0.12    9.3   0.0      0.15    9.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g146007v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CREI/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:22 2022
+# [ok]

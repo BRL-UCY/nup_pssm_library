@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R4R6|NUP35_MOUSE          -          nup53                -           5.2e-113  379.8  10.3  1.8e-111  374.7  10.3   2.3   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=2
+tr|A2ATJ2|A2ATJ2_MOUSE         -          nup53                -            7.8e-42  145.9   7.1   1.9e-41  144.6   7.1   1.5   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=1
+sp|Q8R0Z2|ENOX2_MOUSE          -          nup53                -            0.00038   22.0   0.0   0.00089   20.8   0.0   1.6   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Mus musculus OX=10090 GN=Enox2 PE=2 SV=1
+tr|A0A2I3BQT0|A0A2I3BQT0_MOUSE -          nup53                -             0.0011   20.5   0.0    0.0022   19.5   0.0   1.4   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 1 OS=Mus musculus OX=10090 GN=Enox1 PE=1 SV=1
+sp|Q9JLI8|SART3_MOUSE          -          nup53                -               0.39   12.1   0.4        19    6.6   0.2   2.8   2   1   0   2   2   2   0 Squamous cell carcinoma antigen recognized by T-cells 3 OS=Mus musculus OX=10090 GN=Sart3 PE=1 SV=1
+tr|A0A0N4SUT7|A0A0N4SUT7_MOUSE -          nup53                -                2.3    9.6  13.3         4    8.8  13.3   1.4   1   0   0   1   1   1   0 CLIP-associating protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Clasp1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:22:12 2022
+# [ok]

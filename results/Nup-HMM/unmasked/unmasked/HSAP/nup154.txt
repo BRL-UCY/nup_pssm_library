@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O75694|NU155_HUMAN          -          nup154               -                  0 1999.4   0.0         0 1997.9   0.0   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|E9PF10|E9PF10_HUMAN         -          nup154               -                  0 1862.2   0.4         0 1101.4   0.0   2.6   1   1   1   2   2   2   2 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|D6RA13|D6RA13_HUMAN         -          nup154               -            1.2e-06   28.5   0.1   1.3e-06   28.4   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Homo sapiens OX=9606 GN=NUP155 PE=1 SV=1
+tr|H0YNM2|H0YNM2_HUMAN         -          nup154               -               0.39   10.3   0.0      0.48    9.9   0.0   1.0   1   0   0   1   1   1   0 Semaphorin-4B (Fragment) OS=Homo sapiens OX=9606 GN=SEMA4B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:27:14 2022
+# [ok]

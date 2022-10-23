@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P34343|NU133_CAEEL          -          nup133               -            4.8e-68  230.4   0.0   2.3e-47  161.9   0.0   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein 15 OS=Caenorhabditis elegans OX=6239 GN=npp-15 PE=3 SV=4
+tr|M1Z882|M1Z882_CAEEL         -          nup133               -              0.026   12.7   0.1     0.042   12.0   0.1   1.2   1   0   0   1   1   1   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+tr|Q95Y15|Q95Y15_CAEEL         -          nup133               -              0.043   12.0   1.2      0.24    9.5   0.1   2.4   3   0   0   3   3   3   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=5
+sp|Q86D25|CFA20_CAEEL          -          nup133               -               0.86    7.7   0.0         1    7.4   0.0   1.1   1   0   0   1   1   1   0 Cilia- and flagella-associated protein 20 OS=Caenorhabditis elegans OX=6239 GN=C54C6.6 PE=3 SV=1
+tr|A0A0K3AX54|A0A0K3AX54_CAEEL -          nup133               -                1.1    7.3   0.0       1.5    6.8   0.0   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+tr|O01847|O01847_CAEEL         -          nup133               -                1.1    7.3   0.2       1.4    6.9   0.2   1.1   1   0   0   1   1   1   0 TIAM (Mammalian Tumor Invasion And Metastasis factor) homolog OS=Caenorhabditis elegans OX=6239 GN=tiam-1 PE=4 SV=3
+tr|Q5I9W0|Q5I9W0_CAEEL         -          nup133               -                1.2    7.2   0.0       1.7    6.7   0.0   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+sp|Q86DA5|SARM1_CAEEL          -          nup133               -                1.2    7.2   0.0       1.7    6.7   0.0   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:00:27 2022
+# [ok]

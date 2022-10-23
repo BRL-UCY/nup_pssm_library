@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23170|Q23170_CAEEL -          nup2l1               -            2.4e-05   24.7   1.5     3e-05   24.4   1.5   1.1   1   0   0   1   1   1   1 CCCH-type zinc finger putative transcription factor OS=Caenorhabditis elegans OX=6239 GN=ccch-3 PE=1 SV=1
+tr|Q9N373|Q9N373_CAEEL -          nup2l1               -             0.0003   21.0  17.2     0.053   13.7   2.1   3.1   2   1   1   3   3   3   3 LEPtoderan male tail OS=Caenorhabditis elegans OX=6239 GN=lep-2 PE=1 SV=1
+tr|H2L0R6|H2L0R6_CAEEL -          nup2l1               -            0.00039   20.7  18.3     0.043   14.0   2.2   3.1   2   1   1   3   3   3   3 LEPtoderan male tail OS=Caenorhabditis elegans OX=6239 GN=lep-2 PE=1 SV=1
+sp|Q94131|PIE1_CAEEL   -          nup2l1               -            0.00098   19.4   2.8   0.00098   19.4   2.8   1.9   2   0   0   2   2   2   1 Pharynx and intestine in excess protein 1 OS=Caenorhabditis elegans OX=6239 GN=pie-1 PE=1 SV=1
+tr|Q22805|Q22805_CAEEL -          nup2l1               -             0.0014   18.8   1.2    0.0014   18.8   1.2   1.9   3   0   0   3   3   3   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T26A8.4 PE=1 SV=1
+tr|Q22412|Q22412_CAEEL -          nup2l1               -             0.0095   16.1   0.7     0.013   15.6   0.7   1.1   1   0   0   1   1   1   1 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-22 PE=1 SV=2
+tr|G5EF15|G5EF15_CAEEL -          nup2l1               -              0.074   13.2   6.4      0.31   11.1   0.9   2.0   2   0   0   2   2   2   0 Cytoplasmic zinc-finger protein OS=Caenorhabditis elegans OX=6239 GN=pos-1 PE=1 SV=1
+tr|O45491|O45491_CAEEL -          nup2l1               -               0.26   11.4   8.3       1.4    9.0   1.0   2.4   3   0   0   3   3   3   0 CCCH-type zinc finger putative transcription factor OS=Caenorhabditis elegans OX=6239 GN=ccch-2 PE=4 SV=1
+tr|Q9U2V4|Q9U2V4_CAEEL -          nup2l1               -               0.56   10.3   0.1      0.56   10.3   0.1   1.5   2   0   0   2   2   2   0 DAF-16/FOXO Controlled, germline Tumor affecting OS=Caenorhabditis elegans OX=6239 GN=dct-13 PE=4 SV=1
+tr|O18251|O18251_CAEEL -          nup2l1               -                1.1    9.3   8.6       3.9    7.5   1.6   2.1   1   1   1   2   2   2   0 CCCH-type zinc finger putative transcription factor OS=Caenorhabditis elegans OX=6239 GN=ccch-5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:54 2022
+# [ok]

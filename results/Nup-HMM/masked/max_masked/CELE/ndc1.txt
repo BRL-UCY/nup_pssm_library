@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8I4N3|NDC1_CAEEL           -          ndc1                 -            3.4e-46  158.4  19.3   2.4e-45  155.6  19.3   2.2   1   1   0   1   1   1   1 Nucleoporin ndc-1 OS=Caenorhabditis elegans OX=6239 GN=npp-22 PE=3 SV=1
+tr|Q9TZF0|Q9TZF0_CAEEL         -          ndc1                 -               0.25   10.3   2.5      0.33    9.9   2.5   1.1   1   0   0   1   1   1   0 Serpentine Receptor, class I OS=Caenorhabditis elegans OX=6239 GN=sri-54 PE=4 SV=3
+tr|Q17553|Q17553_CAEEL         -          ndc1                 -               0.99    8.3   3.4       1.7    7.5   3.4   1.3   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C01F1.4 PE=4 SV=1
+tr|O16238|O16238_CAEEL         -          ndc1                 -                1.6    7.6   1.1       8.7    5.2   0.0   2.0   2   0   0   2   2   2   0 Serpentine Receptor, class SX OS=Caenorhabditis elegans OX=6239 GN=srsx-11 PE=4 SV=2
+tr|Q9TYR7|Q9TYR7_CAEEL         -          ndc1                 -                4.8    6.0   0.5       7.2    5.4   0.5   1.2   1   0   0   1   1   1   0 Serpentine Receptor, class V OS=Caenorhabditis elegans OX=6239 GN=srv-19 PE=4 SV=3
+tr|O01468|O01468_CAEEL         -          ndc1                 -                9.4    5.1   0.7        14    4.5   0.7   1.2   1   0   0   1   1   1   0 Serpentine Receptor, class D (Delta) OS=Caenorhabditis elegans OX=6239 GN=srd-15 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/ndc1.txt --max --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:00:43 2022
+# [ok]

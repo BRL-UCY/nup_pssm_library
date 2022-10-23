@@ -1,0 +1,27 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9BW27|NUP85_HUMAN  -          nup75                -           1.5e-241  805.1   4.9  1.7e-241  805.0   4.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3KT10|J3KT10_HUMAN -          nup75                -           6.9e-222  740.2   8.2  2.3e-171  573.3   8.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QL54|J3QL54_HUMAN -          nup75                -           5.7e-213  710.7   8.5  6.4e-213  710.6   8.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QLH0|J3QLH0_HUMAN -          nup75                -           3.4e-135  453.8   4.5    5e-133  446.6   3.4   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|F5H0W7|F5H0W7_HUMAN -          nup75                -             8e-114  383.2   2.9    9e-114  383.0   2.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QLD4|J3QLD4_HUMAN -          nup75                -            1.8e-99  335.8   0.5   1.1e-48  168.0   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QLV0|J3QLV0_HUMAN -          nup75                -            1.5e-54  187.4   0.1   1.7e-54  187.2   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QL91|J3QL91_HUMAN -          nup75                -            4.7e-39  136.2   0.1   5.4e-39  136.0   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3KRC0|J3KRC0_HUMAN -          nup75                -            6.6e-37  129.1   0.0     8e-37  128.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3KSH3|J3KSH3_HUMAN -          nup75                -              1e-28  102.1   0.0   1.1e-28  101.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3KS87|J3KS87_HUMAN -          nup75                -            8.1e-28   99.1   1.1   8.9e-28   98.9   1.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3KTC7|J3KTC7_HUMAN -          nup75                -            1.3e-22   81.8   0.6   1.4e-12   48.7   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QS63|J3QS63_HUMAN -          nup75                -            5.8e-12   46.7   0.1   5.8e-12   46.7   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=1 SV=1
+tr|J3QL49|J3QL49_HUMAN -          nup75                -              0.023   15.0   0.1     0.023   15.0   0.1   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup85 (Fragment) OS=Homo sapiens OX=9606 GN=NUP85 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:21 2022
+# [ok]

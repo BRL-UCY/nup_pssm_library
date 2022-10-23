@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09793|NUP45_SCHPO -          nup58                -            2.1e-58  196.1  62.0   2.6e-58  195.8  62.0   1.0   1   0   0   1   1   1   1 Nucleoporin nup45 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup45 PE=1 SV=2
+sp|O42963|NUP44_SCHPO -          nup58                -              0.001   15.8  38.6    0.0015   15.2  38.6   1.2   1   0   0   1   1   1   1 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+sp|Q10168|NSP1_SCHPO  -          nup58                -               0.15    8.6 198.9      0.29    7.7  87.2   3.4   1   1   2   3   3   3   0 Nucleoporin nsp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nsp1 PE=1 SV=1
+sp|Q9UTK4|NU189_SCHPO -          nup58                -               0.35    7.4 333.4       0.3    7.7  98.4   4.5   2   2   2   4   4   4   0 Nucleoporin nup189 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup189 PE=1 SV=2
+sp|P78813|YCTB_SCHPO  -          nup58                -                1.1    5.8  44.3       1.6    5.2  44.3   1.2   1   0   0   1   1   1   0 ENTH domain-containing protein C794.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC794.11c PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:49 2022
+# [ok]

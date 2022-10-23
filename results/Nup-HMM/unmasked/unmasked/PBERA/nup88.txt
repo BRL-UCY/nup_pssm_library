@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AS59|A0A509AS59_PLABA -          nup88                -             0.0065   12.8   6.1     0.044   10.1   2.0   2.1   2   0   0   2   2   2   2 Syntaxin-6, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1316200 PE=4 SV=1
+tr|A0A509AR99|A0A509AR99_PLABA -          nup88                -                7.6    2.7  20.6       9.8    2.3  20.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1417000 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/PBERA/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:39:09 2022
+# [ok]

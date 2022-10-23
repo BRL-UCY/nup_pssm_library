@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IB10|A0A498IB10_MALDO -          nup154               -             8e-234  780.4   0.0  3.1e-108  364.3   0.0   5.3   4   2   0   4   4   4   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040302 PE=3 SV=1
+tr|A0A498HHZ2|A0A498HHZ2_MALDO -          nup154               -           3.8e-107  360.7   0.0   2.5e-83  281.8   0.0   3.0   2   1   0   2   2   2   2 Nucleoporin_N domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007606 PE=4 SV=1
+tr|A0A498HH70|A0A498HH70_MALDO -          nup154               -            2.3e-09   36.7   0.0   2.5e-09   36.6   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007605 PE=4 SV=1
+tr|A0A498HZR2|A0A498HZR2_MALDO -          nup154               -               0.25   10.1   1.4      0.28    9.9   1.4   1.0   1   0   0   1   1   1   0 SynN domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019027 PE=4 SV=1
+tr|A0A498JBX3|A0A498JBX3_MALDO -          nup154               -                2.5    6.8   3.9       3.4    6.3   3.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020627 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:41 2022
+# [ok]

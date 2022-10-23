@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9FFK6|NUP88_ARATH          -          nup88                -           2.2e-123  414.0  13.0   2.2e-65  222.3   8.2   3.2   3   0   0   3   3   3   3 Nuclear pore complex protein NUP88 OS=Arabidopsis thaliana OX=3702 GN=NUP88 PE=1 SV=1
+tr|A0A1P8ARG2|A0A1P8ARG2_ARATH -          nup88                -              0.026   13.8   0.1     0.047   13.0   0.1   1.3   1   1   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g36070 PE=4 SV=1
+tr|A0A1P8ARF8|A0A1P8ARF8_ARATH -          nup88                -              0.047   13.0   0.1     0.086   12.1   0.1   1.3   1   1   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g36070 PE=4 SV=1
+tr|F4I1K5|F4I1K5_ARATH         -          nup88                -               0.05   12.9   0.1     0.093   12.0   0.1   1.3   1   1   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g36070 PE=4 SV=1
+tr|Q0V7U5|Q0V7U5_ARATH         -          nup88                -              0.051   12.9   0.1     0.093   12.0   0.1   1.3   1   1   0   1   1   1   0 At1g36070 OS=Arabidopsis thaliana OX=3702 GN=At1g36070 PE=2 SV=1
+tr|A0A1P8B6P4|A0A1P8B6P4_ARATH -          nup88                -              0.054   12.8   4.6      0.98    8.6   0.7   2.3   1   1   0   2   2   2   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g32990 PE=4 SV=1
+tr|F4JVW1|F4JVW1_ARATH         -          nup88                -              0.068   12.5   4.3       1.2    8.3   0.6   2.3   1   1   0   2   2   2   0 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Arabidopsis thaliana OX=3702 GN=At4g32990 PE=3 SV=1
+tr|A0A1P8B6J9|A0A1P8B6J9_ARATH -          nup88                -               0.12   11.6   0.3      0.26   10.5   0.1   1.5   2   0   0   2   2   2   0 Sensitive to freezing 6 OS=Arabidopsis thaliana OX=3702 GN=SFR6 PE=4 SV=1
+sp|F4JGZ1|MED16_ARATH          -          nup88                -               0.13   11.5   0.4      0.26   10.5   0.1   1.5   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 16 OS=Arabidopsis thaliana OX=3702 GN=MED16 PE=1 SV=1
+tr|Q9LFE2|Q9LFE2_ARATH         -          nup88                -               0.14   11.4   0.0      0.14   11.4   0.0   2.7   4   0   0   4   4   4   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=TORMOZEMBRYO DEFECTIVE PE=1 SV=1
+tr|Q9FIS4|Q9FIS4_ARATH         -          nup88                -                0.2   10.9   0.1      0.25   10.6   0.1   1.1   1   0   0   1   1   1   0 ATP-dependent Clp protease ATP-binding subunit OS=Arabidopsis thaliana OX=3702 GN=MTG10.17 PE=2 SV=1
+sp|Q2V0Z5|MIS12_ARATH          -          nup88                -               0.24   10.6   4.4      0.37   10.0   4.4   1.2   1   0   0   1   1   1   0 Protein MIS12 homolog OS=Arabidopsis thaliana OX=3702 GN=MIS12 PE=3 SV=1
+tr|Q3EBM1|Q3EBM1_ARATH         -          nup88                -               0.41    9.9  15.8      0.47    9.7  15.8   1.1   1   0   0   1   1   1   0 Transcriptional activator (DUF662) OS=Arabidopsis thaliana OX=3702 GN=At2g36410 PE=2 SV=1
+tr|Q9SK69|Q9SK69_ARATH         -          nup88                -               0.46    9.7   1.3       4.7    6.4   0.1   2.4   2   1   0   2   2   2   0 At2g20330/F11A3.12 OS=Arabidopsis thaliana OX=3702 GN=At2g20330 PE=1 SV=1
+tr|Q9ZUX5|Q9ZUX5_ARATH         -          nup88                -               0.54    9.5  15.5      0.53    9.5  15.5   1.0   1   0   0   1   1   1   0 At2g27740 OS=Arabidopsis thaliana OX=3702 GN=At2g27740 PE=2 SV=1
+tr|Q9SJR4|Q9SJR4_ARATH         -          nup88                -               0.83    8.9  16.9         1    8.6  16.9   1.1   1   0   0   1   1   1   0 Expressed protein OS=Arabidopsis thaliana OX=3702 GN=At2g36410 PE=2 SV=2
+sp|Q39230|SYSC_ARATH           -          nup88                -                1.2    8.4   6.2       1.7    7.8   6.2   1.2   1   0   0   1   1   1   0 Serine--tRNA ligase, cytoplasmic OS=Arabidopsis thaliana OX=3702 GN=At5g27470 PE=1 SV=1
+sp|Q9FND4|WDS_ARATH            -          nup88                -                1.2    8.3   2.7        46    3.1   0.0   3.0   3   0   0   3   3   3   0 WD repeat-containing protein WDS homolog OS=Arabidopsis thaliana OX=3702 GN=WDS PE=1 SV=1
+tr|A0A1P8AS84|A0A1P8AS84_ARATH -          nup88                -                2.5    7.3  11.0       3.5    6.8  11.0   1.1   1   0   0   1   1   1   0 RING/U-box superfamily protein OS=Arabidopsis thaliana OX=3702 GN=HEI10 PE=4 SV=1
+sp|F4HRI2|HEI10_ARATH          -          nup88                -                2.6    7.2  11.0       3.7    6.7  11.0   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase CCNB1IP1 homolog OS=Arabidopsis thaliana OX=3702 GN=HEI10 PE=2 SV=1
+sp|Q9LHD9|U496C_ARATH          -          nup88                -                  5    6.3  14.3         1    8.6   5.5   2.2   2   0   0   2   2   2   0 UPF0496 protein At3g28270 OS=Arabidopsis thaliana OX=3702 GN=At3g28270 PE=2 SV=1
+sp|O80990|CIA1_ARATH           -          nup88                -                5.6    6.1  11.0       6.3    6.0   0.3   3.3   2   1   1   3   3   3   0 Protein CIA1 OS=Arabidopsis thaliana OX=3702 GN=CIA1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:30 2022
+# [ok]

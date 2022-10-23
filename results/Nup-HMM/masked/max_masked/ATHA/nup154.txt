@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4HXV6|NU155_ARATH          -          nup154               -           8.1e-174  581.5   0.0   3.2e-74  251.5   0.0   5.9   5   1   0   5   5   5   5 Nuclear pore complex protein NUP155 OS=Arabidopsis thaliana OX=3702 GN=NUP155 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:48:24 2022
+# [ok]

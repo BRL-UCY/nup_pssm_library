@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94385|PO152_SCHPO -          pom152               -                  0 1406.6   3.0         0 1406.4   3.0   1.0   1   0   0   1   1   1   1 Nucleoporin pom152 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pom152 PE=3 SV=3
+sp|Q9UUC6|SMD3_SCHPO  -          pom152               -               0.84    5.6   0.0      0.97    5.4   0.0   1.0   1   0   0   1   1   1   0 Small nuclear ribonucleoprotein Sm D3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=smd3 PE=1 SV=1
+sp|O14166|YDX3_SCHPO  -          pom152               -                1.5    4.7   0.1       2.1    4.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein C4C5.03 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4C5.03 PE=4 SV=1
+sp|O60169|YHC5_SCHPO  -          pom152               -                3.1    3.7   0.6       4.9    3.0   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein C19F8.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC19F8.05 PE=4 SV=1
+sp|G2TRT4|NEW25_SCHPO -          pom152               -                4.5    3.2   0.1       4.6    3.1   0.1   1.0   1   0   0   1   1   1   0 SAP domain-containing new25 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=new25 PE=2 SV=1
+sp|Q9UT62|YKJ4_SCHPO  -          pom152               -                4.5    3.2   0.2       5.3    2.9   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein C513.04 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC513.04 PE=4 SV=1
+sp|G2TRL9|ACPS_SCHPO  -          pom152               -                4.9    3.0   0.0       6.1    2.7   0.0   1.0   1   0   0   1   1   1   0 Putative holo-[acyl-carrier-protein] synthase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=new8 PE=2 SV=1
+sp|Q9Y826|MEU31_SCHPO -          pom152               -                5.8    2.8   4.8       6.6    2.6   4.8   1.0   1   0   0   1   1   1   0 Meiotic expression up-regulated protein 31 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=meu31 PE=2 SV=1
+sp|O14218|YPI1_SCHPO  -          pom152               -                6.6    2.6   1.3       7.7    2.4   1.3   1.0   1   0   0   1   1   1   0 Type 1 phosphatases regulator ypi1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ypi1 PE=3 SV=1
+sp|Q9UUG3|DPH4_SCHPO  -          pom152               -                7.6    2.4   0.1       7.5    2.4   0.1   1.1   1   0   0   1   1   1   0 Diphthamide biosynthesis protein 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dph4 PE=3 SV=1
+sp|Q9USX3|RAD60_SCHPO -          pom152               -                7.8    2.4   0.0        15    1.5   0.0   1.4   1   0   0   1   1   1   0 DNA repair protein rad60 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rad60 PE=1 SV=1
+sp|P31317|OTC_SCHPO   -          pom152               -                8.8    2.2   0.1        13    1.7   0.1   1.1   1   0   0   1   1   1   0 Ornithine carbamoyltransferase, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=arg3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/SPOM/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:36:05 2022
+# [ok]

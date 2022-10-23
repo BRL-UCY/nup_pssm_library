@@ -1,0 +1,22 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q04487|SHH3_YEAST  -          elys                 -               0.11    7.7   0.1      0.14    7.3   0.1   1.0   1   0   0   1   1   1   0 Mitochondrial inner membrane protein SHH3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SHH3 PE=3 SV=1
+sp|Q01454|CTF4_YEAST  -          elys                 -               0.16    7.1   0.1      0.23    6.7   0.1   1.0   1   0   0   1   1   1   0 DNA polymerase alpha-binding protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CTF4 PE=1 SV=2
+sp|P38163|SRO77_YEAST -          elys                 -               0.38    5.9   0.1      0.56    5.4   0.1   1.1   1   0   0   1   1   1   0 Lethal(2) giant larvae protein homolog SRO77 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SRO77 PE=1 SV=2
+sp|P25635|PWP2_YEAST  -          elys                 -               0.43    5.7   0.0      0.58    5.3   0.0   1.0   1   0   0   1   1   1   0 Periodic tryptophan protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PWP2 PE=1 SV=2
+sp|Q06822|ASA1_YEAST  -          elys                 -                0.7    5.1   0.0      0.97    4.6   0.0   1.1   1   0   0   1   1   1   0 ASTRA-associated protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ASA1 PE=1 SV=2
+sp|P50082|AMA1_YEAST  -          elys                 -               0.84    4.8   0.0       2.6    3.2   0.0   1.6   2   0   0   2   2   2   0 Meiosis-specific APC/C activator protein AMA1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AMA1 PE=1 SV=2
+sp|Q12220|UTP12_YEAST -          elys                 -                1.1    4.4   0.0       3.7    2.6   0.0   1.6   2   0   0   2   2   2   0 U3 small nucleolar RNA-associated protein 12 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DIP2 PE=1 SV=1
+sp|P38011|GBLP_YEAST  -          elys                 -                6.6    1.8   0.0       8.7    1.4   0.0   1.0   1   0   0   1   1   1   0 Guanine nucleotide-binding protein subunit beta-like protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ASC1 PE=1 SV=4
+sp|Q8TGJ3|KISH_YEAST  -          elys                 -                8.2    1.5   0.0       9.1    1.4   0.0   1.0   1   0   0   1   1   1   0 Protein kish OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KSH1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:52:52 2022
+# [ok]

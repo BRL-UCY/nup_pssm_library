@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G3V5R6|G3V5R6_HUMAN         -          pom152               -              0.067   13.1   4.1     0.082   12.8   4.1   1.0   1   0   0   1   1   1   0 Mirror-image polydactyly gene 1 protein OS=Homo sapiens OX=9606 GN=MIPOL1 PE=1 SV=1
+sp|Q8WZ42|TITIN_HUMAN          -          pom152               -               0.16   11.8  31.2       3.5    7.4   0.1  11.8  13   0   0  13  13  13   0 Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=4
+tr|A0A0A0MTS7|A0A0A0MTS7_HUMAN -          pom152               -               0.23   11.3  30.9       3.7    7.3   0.1  11.7  13   0   0  13  13  13   0 Titin OS=Homo sapiens OX=9606 GN=TTN PE=1 SV=1
+sp|Q15054|DPOD3_HUMAN          -          pom152               -                1.6    8.5   3.3       2.3    8.0   3.3   1.2   1   0   0   1   1   1   0 DNA polymerase delta subunit 3 OS=Homo sapiens OX=9606 GN=POLD3 PE=1 SV=2
+tr|C9J845|C9J845_HUMAN         -          pom152               -                3.1    7.6   2.0       3.5    7.4   2.0   1.0   1   0   0   1   1   1   0 Microphthalmia-associated transcription factor (Fragment) OS=Homo sapiens OX=9606 GN=MITF PE=1 SV=1
+sp|Q71UM5|RS27L_HUMAN          -          pom152               -                3.3    7.4   0.0       3.4    7.4   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27-like OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=3
+tr|Q5T2B5|Q5T2B5_HUMAN         -          pom152               -                4.5    7.0   0.1       6.1    6.6   0.1   1.1   1   0   0   1   1   1   0 Cullin-2 OS=Homo sapiens OX=9606 GN=CUL2 PE=1 SV=1
+sp|Q13617|CUL2_HUMAN           -          pom152               -                4.6    7.0   0.1       6.6    6.5   0.1   1.1   1   0   0   1   1   1   0 Cullin-2 OS=Homo sapiens OX=9606 GN=CUL2 PE=1 SV=2
+tr|H0YMV8|H0YMV8_HUMAN         -          pom152               -                4.7    7.0   0.0       5.3    6.8   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=1
+tr|A0A0A0MTN0|A0A0A0MTN0_HUMAN -          pom152               -                4.8    6.9   0.1       6.8    6.4   0.1   1.1   1   0   0   1   1   1   0 Cullin-2 OS=Homo sapiens OX=9606 GN=CUL2 PE=1 SV=1
+tr|C9JLI6|C9JLI6_HUMAN         -          pom152               -                4.8    6.9   0.0         5    6.9   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27L PE=1 SV=1
+tr|A0A096LPB3|A0A096LPB3_HUMAN -          pom152               -                6.4    6.5   3.9       7.5    6.3   3.9   1.0   1   0   0   1   1   1   0 Colorectal mutant cancer protein (Fragment) OS=Homo sapiens OX=9606 GN=MCC PE=1 SV=1
+sp|P42677|RS27_HUMAN           -          pom152               -                  9    6.0   0.0       9.2    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Homo sapiens OX=9606 GN=RPS27 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/HSAP/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:19:04 2022
+# [ok]

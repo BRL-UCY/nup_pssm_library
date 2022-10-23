@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8VCB1|NDC1_MOUSE   -          ndc1                 -           1.3e-161  540.5  20.6  1.3e-109  368.8  16.7   3.4   1   1   2   3   3   3   3 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+tr|J3QPB5|J3QPB5_MOUSE -          ndc1                 -             7e-112  376.3  16.4  7.6e-110  369.6  16.7   2.2   1   1   0   2   2   2   2 Nucleoporin NDC1 OS=Mus musculus OX=10090 GN=Ndc1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:43 2022
+# [ok]

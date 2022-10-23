@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V6B9|NUP54_DROME -          nup54                -           2.1e-160  535.2   5.3  3.6e-158  527.9   0.0   2.0   1   1   1   2   2   2   1 Probable nucleoporin Nup54 OS=Drosophila melanogaster OX=7227 GN=Nup54 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:05 2022
+# [ok]

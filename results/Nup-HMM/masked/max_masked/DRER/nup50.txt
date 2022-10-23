@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1R0E4|F1R0E4_DANRE         -          nup50                -            2.6e-87  295.1   0.0   3.7e-45  155.9   0.1   2.5   2   1   0   2   2   2   2 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|X1WCS8|X1WCS8_DANRE         -          nup50                -            8.7e-49  167.9  13.8   1.9e-14   54.6   0.1   5.3   5   0   0   5   5   5   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|B8JMJ5|B8JMJ5_DANRE         -          nup50                -            2.3e-44  153.3  15.6   1.9e-14   54.5   0.1   5.3   5   0   0   5   5   5   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          nup50                -            2.3e-44  153.3  15.6   1.9e-14   54.5   0.1   5.3   5   0   0   5   5   5   4 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|F1Q591|F1Q591_DANRE         -          nup50                -            2.3e-05   24.6   0.0   3.2e-05   24.1   0.0   1.1   1   0   0   1   1   1   1 RAN-binding protein 3a OS=Danio rerio OX=7955 GN=ranbp3a PE=4 SV=1
+tr|A0A1L1QZM3|A0A1L1QZM3_DANRE -          nup50                -            0.00033   20.7   0.6   0.00033   20.7   0.6   1.0   1   0   0   1   1   1   1 Nucleoporin 50 (Fragment) OS=Danio rerio OX=7955 GN=nup50 PE=4 SV=1
+tr|Q6NWK3|Q6NWK3_DANRE         -          nup50                -              0.018   15.0   0.0     0.024   14.6   0.0   1.1   1   0   0   1   1   1   0 RAN-binding protein 1 OS=Danio rerio OX=7955 GN=ranbp1 PE=1 SV=1
+tr|K7DY47|K7DY47_DANRE         -          nup50                -              0.033   14.2   0.0     0.047   13.6   0.0   1.1   1   0   0   1   1   1   0 FinTRIM family, member 52, pseudogene OS=Danio rerio OX=7955 GN=ftr52p PE=4 SV=1
+tr|Q6PCR4|Q6PCR4_DANRE         -          nup50                -              0.034   14.1   0.0     0.045   13.7   0.0   1.1   1   0   0   1   1   1   0 RAN-binding protein 3b OS=Danio rerio OX=7955 GN=ranbp3b PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:31:29 2022
+# [ok]

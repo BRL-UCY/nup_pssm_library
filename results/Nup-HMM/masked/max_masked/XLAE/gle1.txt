@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HY77|A0A1L8HY77_XENLA -          gle1                 -                2.9    7.3   0.1       3.4    7.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006845mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:11:16 2022
+# [ok]

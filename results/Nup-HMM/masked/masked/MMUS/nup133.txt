@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R0G9|NU133_MOUSE  -          nup133               -                  0 1156.9   0.0         0 1156.7   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Mus musculus OX=10090 GN=Nup133 PE=1 SV=2
+tr|Q3UWE6|Q3UWE6_MOUSE -          nup133               -               0.77    8.9   0.0         1    8.5   0.0   1.0   1   0   0   1   1   1   0 MCG14935, isoform CRA_a OS=Mus musculus OX=10090 GN=Wdr20 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup133.txt --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:43 2022
+# [ok]

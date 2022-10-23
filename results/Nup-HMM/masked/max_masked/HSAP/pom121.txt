@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A8CG34|P121C_HUMAN          -          pom121               -                  0 1100.1   0.0         0 1099.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121C OS=Homo sapiens OX=9606 GN=POM121C PE=1 SV=3
+sp|Q96HA1|P121A_HUMAN          -          pom121               -                  0 1087.6   0.0         0 1087.4   0.0   1.0   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121 OS=Homo sapiens OX=9606 GN=POM121 PE=1 SV=2
+sp|Q96KW2|P12L2_HUMAN          -          pom121               -           9.3e-292  972.8   0.0  1.1e-291  972.5   0.0   1.0   1   0   0   1   1   1   1 POM121-like protein 2 OS=Homo sapiens OX=9606 GN=POM121L2 PE=3 SV=2
+sp|A6NF01|P121B_HUMAN          -          pom121               -           1.5e-213  713.8   0.0  1.8e-213  713.5   0.0   1.0   1   0   0   1   1   1   1 Putative nuclear envelope pore membrane protein POM 121B OS=Homo sapiens OX=9606 GN=POM121B PE=5 SV=2
+sp|A6NNC1|P12LL_HUMAN          -          pom121               -              2e-73  249.8   0.0   2.2e-56  193.4   0.0   3.4   4   0   0   4   4   4   3 Putative POM121-like protein 1-like OS=Homo sapiens OX=9606 PE=5 SV=3
+sp|Q9NZP6|NPAP1_HUMAN          -          pom121               -            1.6e-72  246.8   6.6   3.6e-34  119.9   0.0   3.9   4   0   0   4   4   4   3 Nuclear pore-associated protein 1 OS=Homo sapiens OX=9606 GN=NPAP1 PE=1 SV=2
+sp|Q3SYA9|P12L1_HUMAN          -          pom121               -            1.1e-70  240.8   0.0   1.3e-70  240.5   0.0   1.0   1   0   0   1   1   1   1 Putative POM121-like protein 1 OS=Homo sapiens OX=9606 GN=POM121L1P PE=5 SV=2
+tr|A0A1W2PR80|A0A1W2PR80_HUMAN -          pom121               -            6.6e-66  224.9   0.0   7.7e-66  224.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Homo sapiens OX=9606 PE=4 SV=1
+sp|Q8N7R1|P1L12_HUMAN          -          pom121               -            1.5e-53  184.0   4.7   1.9e-53  183.7   4.7   1.0   1   0   0   1   1   1   1 POM121-like protein 12 OS=Homo sapiens OX=9606 GN=POM121L12 PE=2 SV=3
+sp|A8MUI8|YA034_HUMAN          -          pom121               -            6.9e-41  142.1   0.0     8e-41  141.9   0.0   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000383783 OS=Homo sapiens OX=9606 PE=3 SV=2
+sp|A8MX80|YM017_HUMAN          -          pom121               -            5.9e-39  135.7   0.2   6.8e-39  135.5   0.2   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000383144 OS=Homo sapiens OX=9606 PE=3 SV=2
+sp|A8MU76|YP034_HUMAN          -          pom121               -            8.4e-39  135.2   0.1     1e-38  134.9   0.1   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000381418 OS=Homo sapiens OX=9606 PE=3 SV=2
+sp|Q8N9G6|YJ012_HUMAN          -          pom121               -            1.2e-36  128.0   0.0   1.4e-36  127.8   0.0   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein FLJ37424 OS=Homo sapiens OX=9606 PE=2 SV=1
+sp|A6NL46|YF016_HUMAN          -          pom121               -            6.4e-36  125.7   0.2   7.2e-36  125.5   0.2   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000332738 OS=Homo sapiens OX=9606 PE=3 SV=3
+sp|A8MUA0|YB057_HUMAN          -          pom121               -            4.9e-33  116.1   0.0   5.5e-33  115.9   0.0   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000381514 OS=Homo sapiens OX=9606 PE=3 SV=1
+sp|A8MV72|YH009_HUMAN          -          pom121               -            1.5e-29  104.5   0.0   1.7e-29  104.3   0.0   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein ENSP00000382826 OS=Homo sapiens OX=9606 PE=5 SV=2
+tr|C9JFL1|C9JFL1_HUMAN         -          pom121               -            1.9e-28  100.9   0.0     2e-28  100.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121C (Fragment) OS=Homo sapiens OX=9606 GN=POM121C PE=1 SV=1
+sp|Q6PJE2|POZP3_HUMAN          -          pom121               -            3.3e-28  100.1   0.0   3.9e-28   99.9   0.0   1.0   1   0   0   1   1   1   1 POM121 and ZP3 fusion protein OS=Homo sapiens OX=9606 GN=POMZP3 PE=2 SV=4
+tr|C9JER0|C9JER0_HUMAN         -          pom121               -            4.8e-27   96.3   0.2   5.7e-27   96.0   0.2   1.0   1   0   0   1   1   1   1 POM121 and ZP3 fusion protein OS=Homo sapiens OX=9606 GN=POMZP3 PE=4 SV=1
+tr|A0A0J9YWR1|A0A0J9YWR1_HUMAN -          pom121               -            1.4e-26   94.7   0.2   1.7e-26   94.4   0.2   1.0   1   0   0   1   1   1   1 POM121 and ZP3 fusion protein (Fragment) OS=Homo sapiens OX=9606 GN=POMZP3 PE=4 SV=1
+tr|C9J370|C9J370_HUMAN         -          pom121               -            1.4e-26   94.7   0.2   1.7e-26   94.4   0.2   1.0   1   0   0   1   1   1   1 POM121 and ZP3 fusion protein (Fragment) OS=Homo sapiens OX=9606 GN=POMZP3 PE=4 SV=1
+sp|Q5PR19|YI024_HUMAN          -          pom121               -            4.6e-26   93.0   3.0   5.4e-26   92.8   3.0   1.0   1   0   0   1   1   1   1 Putative UPF0607 protein LOC392364 OS=Homo sapiens OX=9606 PE=2 SV=3
+tr|A8MY32|A8MY32_HUMAN         -          pom121               -            3.2e-14   53.8   1.8   3.4e-14   53.7   1.8   1.0   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121C (Fragment) OS=Homo sapiens OX=9606 GN=POM121C PE=4 SV=2
+tr|H7C418|H7C418_HUMAN         -          pom121               -            0.00052   20.0   0.0    0.0006   19.8   0.0   1.0   1   0   0   1   1   1   1 POM121-like protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=POM121L2 PE=4 SV=1
+sp|Q8WTZ4|CA5BL_HUMAN          -          pom121               -              0.088   12.6   9.9      0.12   12.1   9.9   1.1   1   0   0   1   1   1   0 Putative inactive carbonic anhydrase 5B-like protein OS=Homo sapiens OX=9606 GN=CA5BP1 PE=5 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:49:58 2022
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21436|Q21436_CAEEL         -          nup188               -               0.02   12.4   0.0     0.034   11.6   0.0   1.2   1   0   0   1   1   1   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-3 PE=1 SV=1
+tr|G5EFS5|G5EFS5_CAEEL         -          nup188               -                1.7    6.0   0.1       2.2    5.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45D11.15 PE=4 SV=1
+tr|Q9N5T2|Q9N5T2_CAEEL         -          nup188               -                1.7    6.0   0.1       2.2    5.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45D11.14 PE=1 SV=1
+tr|G5ED04|G5ED04_CAEEL         -          nup188               -                3.1    5.1   0.3       4.2    4.7   0.3   1.0   1   0   0   1   1   1   0 Protein containing ALS2cr12 (ALS2CR12) signature OS=Caenorhabditis elegans OX=6239 GN=pals-14 PE=1 SV=1
+tr|D8FRP4|D8FRP4_CAEEL         -          nup188               -                3.8    4.8   0.0       4.7    4.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y43F8B.25 PE=4 SV=1
+tr|A0A486WVL2|A0A486WVL2_CAEEL -          nup188               -                4.1    4.7   0.1       4.7    4.5   0.1   1.0   1   0   0   1   1   1   0 Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Caenorhabditis elegans OX=6239 GN=pst-1 PE=4 SV=1
+sp|Q19426|MOGS1_CAEEL          -          nup188               -                7.8    3.8   0.0        11    3.4   0.0   1.0   1   0   0   1   1   1   0 Mannosyl-oligosaccharide glucosidase OS=Caenorhabditis elegans OX=6239 GN=mogs-1 PE=1 SV=2
+tr|Q93900|Q93900_CAEEL         -          nup188               -                8.6    3.6   0.3        11    3.2   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M163.5 PE=4 SV=2
+tr|O01467|O01467_CAEEL         -          nup188               -                8.6    3.6   0.0        11    3.3   0.0   1.1   1   0   0   1   1   1   0 USP domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C04E6.5 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:53:14 2022
+# [ok]

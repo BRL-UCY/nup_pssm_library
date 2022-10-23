@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HJC4|F7HJC4_MACMU         -          nup58                -           7.2e-129  431.6   0.0  2.1e-127  426.8   0.0   2.5   2   1   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP58 PE=4 SV=2
+tr|F7HJC6|F7HJC6_MACMU         -          nup58                -           3.1e-126  422.9   0.5  2.2e-123  413.5   0.0   2.9   2   1   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP58 PE=4 SV=2
+tr|F6XZS8|F6XZS8_MACMU         -          nup58                -           3.6e-122  409.5   0.0    5e-121  405.7   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP58 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:11:32 2022
+# [ok]

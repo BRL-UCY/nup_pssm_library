@@ -1,0 +1,27 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTK4|NU189_SCHPO -          nup96                -           6.9e-251  834.4 414.5  3.3e-187  623.2  24.1   5.8   1   1   3   4   4   4   4 Nucleoporin nup189 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup189 PE=1 SV=2
+sp|Q09793|NUP45_SCHPO -          nup96                -              3e-18   63.0  94.2   3.7e-18   62.7  94.2   1.1   1   0   0   1   1   1   1 Nucleoporin nup45 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup45 PE=1 SV=2
+sp|O42963|NUP44_SCHPO -          nup96                -            0.00033   16.4  35.9   0.00075   15.2  36.2   1.3   2   0   0   2   2   2   1 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+sp|Q10168|NSP1_SCHPO  -          nup96                -              0.075    8.6 196.3      0.14    7.7 116.0   2.1   1   1   1   2   2   2   0 Nucleoporin nsp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nsp1 PE=1 SV=1
+sp|Q9USU9|TOA1_SCHPO  -          nup96                -               0.14    7.7  18.9      0.18    7.4  18.9   1.0   1   0   0   1   1   1   0 Transcription initiation factor IIA large subunit OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=toa1 PE=1 SV=1
+sp|O42970|YB95_SCHPO  -          nup96                -               0.29    6.7  64.7      0.36    6.3  64.7   1.0   1   0   0   1   1   1   0 Uncharacterized serine-rich protein C1E8.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1E8.05 PE=2 SV=1
+sp|O74191|FKBP4_SCHPO -          nup96                -                1.1    4.8  22.8       1.3    4.5  22.8   1.1   1   0   0   1   1   1   0 FK506-binding protein 39 kDa OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fkbp39 PE=1 SV=1
+sp|P56329|IF2B_SCHPO  -          nup96                -                1.1    4.8  13.9       1.3    4.5  13.9   1.0   1   0   0   1   1   1   0 Probable eukaryotic translation initiation factor 2 subunit beta OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tif212 PE=1 SV=2
+sp|Q9URX9|PXR1_SCHPO  -          nup96                -                2.6    3.5  16.5         3    3.3  16.5   1.0   1   0   0   1   1   1   0 Protein pxr1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pxr1 PE=1 SV=1
+sp|O74736|ING2_SCHPO  -          nup96                -                3.7    3.0  15.8       4.6    2.7  15.8   1.0   1   0   0   1   1   1   0 Chromatin modification-related protein png2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=png2 PE=1 SV=1
+sp|O59825|TDG_SCHPO   -          nup96                -                5.5    2.4  10.6       7.2    2.0  10.6   1.0   1   0   0   1   1   1   0 G/U mismatch-specific uracil DNA glycosylase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=thp1 PE=3 SV=1
+sp|O94652|GLE1_SCHPO  -          nup96                -                6.6    2.1  14.5       8.6    1.8  14.5   1.0   1   0   0   1   1   1   0 mRNA export factor gle1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gle1 PE=3 SV=1
+sp|O42980|NESP1_SCHPO -          nup96                -                7.1    2.0  13.5       8.8    1.7  13.5   1.0   1   0   0   1   1   1   0 NEDD8-specific protease 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nep1 PE=1 SV=2
+sp|P78794|CWC15_SCHPO -          nup96                -                7.2    2.0  22.9       7.8    1.9  22.9   1.0   1   0   0   1   1   1   0 Pre-mRNA-splicing factor cwf15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf15 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:53 2022
+# [ok]

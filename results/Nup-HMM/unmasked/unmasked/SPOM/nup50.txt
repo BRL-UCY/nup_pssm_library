@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9USL4|NUP61_SCHPO -          nup50                -            1.5e-57  193.7  92.5   6.8e-39  132.1  37.9   3.9   1   1   2   3   3   3   3 Nucleoporin nup61 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup61 PE=1 SV=2
+sp|Q09146|HBA1_SCHPO  -          nup50                -            1.1e-19   68.7  24.1   1.1e-19   68.7  24.1   2.1   1   1   1   2   2   2   1 Brefeldin A resistance protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hba1 PE=1 SV=1
+sp|Q09717|RANG_SCHPO  -          nup50                -            1.3e-18   65.1  19.4   6.3e-18   62.9  19.4   1.8   1   1   0   1   1   1   1 Ran-specific GTPase-activating protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sbp1 PE=1 SV=1
+sp|Q10168|NSP1_SCHPO  -          nup50                -               0.11    9.3 181.3       0.6    6.8  70.8   3.0   1   1   2   3   3   3   0 Nucleoporin nsp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nsp1 PE=1 SV=1
+sp|O94549|YCDA_SCHPO  -          nup50                -                2.9    4.5  58.7       4.2    4.0  58.7   1.1   1   0   0   1   1   1   0 UPF0619 GPI-anchored membrane protein C1322.10 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1322.10 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:55 2022
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1R543|F1R543_DANRE         -          pom121               -           1.2e-159  534.7 260.3  3.2e-124  417.4  62.8   2.0   1   1   1   2   2   2   2 POM121 transmembrane nucleoporin OS=Danio rerio OX=7955 GN=pom121 PE=1 SV=1
+tr|A0A0J9YIZ2|A0A0J9YIZ2_DANRE -          pom121               -               0.61    9.2   0.1      0.72    8.9   0.1   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing 187 (Fragment) OS=Danio rerio OX=7955 GN=ccdc187 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/pom121.txt --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:20:52 2022
+# [ok]

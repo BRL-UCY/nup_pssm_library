@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DDA9|A0A2K3DDA9_CHLRE -          mug31                -               0.34   10.4   0.1      0.58    9.6   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394000v5 PE=4 SV=1
+tr|A0A2K3CSQ6|A0A2K3CSQ6_CHLRE -          mug31                -               0.46   10.0   0.4       5.6    6.4   0.3   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g648850v5 PE=4 SV=1
+tr|A0A2K3DZY6|A0A2K3DZY6_CHLRE -          mug31                -               0.55    9.7   0.5      0.81    9.2   0.5   1.2   1   0   0   1   1   1   0 Helicase C-terminal domain-containing protein (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g213649v5 PE=4 SV=1
+tr|A0A2K3E0N7|A0A2K3E0N7_CHLRE -          mug31                -                4.4    6.8   0.7        14    5.1   0.7   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g082900v5 PE=3 SV=1
+tr|A0A2K3CXI1|A0A2K3CXI1_CHLRE -          mug31                -                6.3    6.3   1.9       8.3    5.9   1.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g614650v5 PE=4 SV=1
+tr|A0A2K3CS89|A0A2K3CS89_CHLRE -          mug31                -                  7    6.1   6.3       8.8    5.8   6.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g685451v5 PE=4 SV=1
+tr|A0A2K3DV60|A0A2K3DV60_CHLRE -          mug31                -                7.7    6.0   2.5       8.7    5.8   2.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g144504v5 PE=4 SV=1
+tr|A0A2K3DBM8|A0A2K3DBM8_CHLRE -          mug31                -                8.6    5.8   1.2        22    4.5   1.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g457400v5 PE=4 SV=1
+tr|A0A2K3D8E7|A0A2K3D8E7_CHLRE -          mug31                -                9.5    5.7   1.6        20    4.6   1.6   1.5   1   0   0   1   1   1   0 Rieske domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g476500v5 PE=4 SV=1
+tr|A0A2K3DZ56|A0A2K3DZ56_CHLRE -          mug31                -                9.7    5.7   3.9        19    4.7   3.9   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g203900v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:28:04 2022
+# [ok]

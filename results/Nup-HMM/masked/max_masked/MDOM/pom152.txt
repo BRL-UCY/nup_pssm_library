@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498ISH5|A0A498ISH5_MALDO -          pom152               -                5.7    5.9   0.0       6.4    5.7   0.0   1.0   1   0   0   1   1   1   0 CS domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041620 PE=4 SV=1
+tr|A0A498IQC4|A0A498IQC4_MALDO -          pom152               -                8.7    5.3   0.0        12    4.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009499 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:47:36 2022
+# [ok]

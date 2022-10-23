@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8M7|Q1L8M7_DANRE         -          mug31                -               0.41   11.4   0.0      0.58   10.9   0.0   1.1   1   0   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=2
+tr|F6P528|F6P528_DANRE         -          mug31                -                1.2   10.0   0.0       1.9    9.3   0.0   1.2   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=1
+tr|A0A0R4IQ20|A0A0R4IQ20_DANRE -          mug31                -                3.9    8.2   0.1         6    7.6   0.1   1.2   1   0   0   1   1   1   0 Prolyl 4-hydroxylase, alpha polypeptide I a OS=Danio rerio OX=7955 GN=p4ha1a PE=1 SV=1
+tr|E9QJL6|E9QJL6_DANRE         -          mug31                -                5.4    7.8   0.1       8.1    7.2   0.1   1.1   1   0   0   1   1   1   0 STRA6-like (Fragment) OS=Danio rerio OX=7955 GN=stra6l PE=4 SV=1
+tr|F1RDD2|F1RDD2_DANRE         -          mug31                -                5.6    7.7   0.1       8.2    7.2   0.1   1.2   1   0   0   1   1   1   0 UDP glucuronosyltransferase 2 family, polypeptide A5 OS=Danio rerio OX=7955 GN=ugt2a5 PE=1 SV=3
+tr|E7FB28|E7FB28_DANRE         -          mug31                -                8.4    7.1   0.1        12    6.7   0.1   1.1   1   0   0   1   1   1   0 SET domain-containing 9 OS=Danio rerio OX=7955 GN=setd9 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:26:44 2022
+# [ok]

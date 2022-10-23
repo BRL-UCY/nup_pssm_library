@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          nup205               -                  0 1467.3  26.6         0 1462.9  26.6   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          nup205               -                  0 1435.3  26.0         0 1430.9  26.0   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          nup205               -                  0 1372.5  30.8         0 1366.7  30.7   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          nup205               -                  0 1370.5  30.9         0 1364.5  30.9   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+sp|Q9SDW0|TGT3A_ARATH          -          nup205               -             0.0028   15.7   3.0    0.0037   15.3   3.0   1.1   1   0   0   1   1   1   1 Trihelix transcription factor GT-3a OS=Arabidopsis thaliana OX=3702 GN=GT-3A PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:24 2022
+# [ok]

@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AQ74|A0A509AQ74_PLABA -          nup96                -               0.64    5.4  21.0      0.75    5.2  21.0   1.1   1   0   0   1   1   1   0 Protein transport protein YIP1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1335300 PE=3 SV=1
+tr|A0A509ARK6|A0A509ARK6_PLABA -          nup96                -                2.1    3.8  18.9       2.4    3.5  18.9   1.1   1   0   0   1   1   1   0 XAP-5 DNA binding protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1245000 PE=4 SV=1
+tr|A0A509AQ16|A0A509AQ16_PLABA -          nup96                -                2.5    3.5  14.5       3.5    3.0  14.5   1.1   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 6, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1405600 PE=4 SV=1
+tr|A0A509ALH4|A0A509ALH4_PLABA -          nup96                -                2.7    3.4   7.7       3.6    3.0   7.7   1.0   1   0   0   1   1   1   0 mRNA guanylyltransferase OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1028100 PE=4 SV=1
+tr|A0A509AQ71|A0A509AQ71_PLABA -          nup96                -                2.9    3.3  10.9       3.8    2.9  10.9   1.1   1   0   0   1   1   1   0 Membrane associated histidine-rich protein 1b OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1145900 PE=4 SV=1
+tr|A0A509ALU8|A0A509ALU8_PLABA -          nup96                -                3.2    3.1   6.0       5.1    2.5   6.0   1.1   1   0   0   1   1   1   0 Tudor staphylococcal nuclease, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0912300 PE=4 SV=1
+tr|A0A509AF97|A0A509AF97_PLABA -          nup96                -                3.4    3.0  17.0       4.3    2.7  17.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0523700 PE=4 SV=1
+tr|A0A509AMX0|A0A509AMX0_PLABA -          nup96                -                3.5    3.0  33.1       4.5    2.6  33.1   1.1   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1020200 PE=4 SV=1
+tr|A0A509AT47|A0A509AT47_PLABA -          nup96                -                4.1    2.8   6.7       4.8    2.6   6.7   1.0   1   0   0   1   1   1   0 Glideosome-associated protein 45, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1437600 PE=4 SV=1
+tr|A0A509AD37|A0A509AD37_PLABA -          nup96                -                4.5    2.6  13.4       5.1    2.5  13.4   1.0   1   0   0   1   1   1   0 Merozoite surface protein 4/5 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0304400 PE=4 SV=1
+tr|A0A509AIJ9|A0A509AIJ9_PLABA -          nup96                -                4.8    2.6   6.3       6.4    2.1   6.3   1.0   1   0   0   1   1   1   0 Fe-S cluster assembly protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0919700 PE=4 SV=1
+tr|A0A509AMI4|A0A509AMI4_PLABA -          nup96                -                5.5    2.3   9.0       8.9    1.7   9.0   1.3   1   0   0   1   1   1   0 Flap endonuclease 1 OS=Plasmodium berghei (strain Anka) OX=5823 GN=FEN1 PE=3 SV=1
+tr|A0A509ABS2|A0A509ABS2_PLABA -          nup96                -                5.6    2.3  45.9       8.5    1.7  45.9   1.2   1   0   0   1   1   1   0 RNA-binding protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0104900 PE=4 SV=1
+tr|A0A509ABG9|A0A509ABG9_PLABA -          nup96                -                5.8    2.3  23.0       7.1    2.0  23.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0206700 PE=4 SV=1
+tr|A0A509AU99|A0A509AU99_PLABA -          nup96                -                5.9    2.3  37.7       7.4    1.9  37.7   1.0   1   0   0   1   1   1   0 NPL domain-containing protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1424300 PE=4 SV=1
+tr|A0A509AQJ3|A0A509AQJ3_PLABA -          nup96                -                6.1    2.2  22.6       6.9    2.0  22.6   1.0   1   0   0   1   1   1   0 Rhoptry associated adhesin, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1210600 PE=4 SV=1
+tr|A0A509AHL7|A0A509AHL7_PLABA -          nup96                -                8.1    1.8   6.5        14    1.0   6.5   1.2   1   0   0   1   1   1   0 6-cysteine protein P230p OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0306000 PE=4 SV=1
+tr|A0A509ARV1|A0A509ARV1_PLABA -          nup96                -                8.3    1.8  15.7        13    1.1  15.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1321300 PE=4 SV=1
+tr|A0A509ALG7|A0A509ALG7_PLABA -          nup96                -                8.9    1.7  15.9      0.44    6.0   4.0   2.0   2   0   0   2   2   2   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1040561 PE=4 SV=1
+tr|A0A509AR37|A0A509AR37_PLABA -          nup96                -                8.9    1.7  15.9      0.44    6.0   4.0   2.0   2   0   0   2   2   2   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1400061 PE=4 SV=1
+tr|A0A509AT00|A0A509AT00_PLABA -          nup96                -                9.9    1.5  31.0        11    1.3  31.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1457900 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/PBERA/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:39:17 2022
+# [ok]

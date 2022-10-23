@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8Q7N6|A0A2R8Q7N6_DANRE -          nup53                -             4e-102  343.8  11.2    6e-101  340.0  11.2   2.3   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+sp|Q6P6X9|NUP35_DANRE          -          nup53                -           4.6e-102  343.6  11.1  6.6e-101  339.8  11.1   2.3   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z3|B0R0Z3_DANRE         -          nup53                -              2e-68  233.1   4.3   4.7e-68  231.9   4.3   1.5   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z4|B0R0Z4_DANRE         -          nup53                -            3.1e-64  219.3   6.7   1.9e-63  216.7   6.7   2.1   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z6|B0R0Z6_DANRE         -          nup53                -            1.2e-14   56.3   2.9   4.2e-14   54.5   2.9   1.7   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|A0A2R8RHR4|A0A2R8RHR4_DANRE -          nup53                -            0.00011   23.5   1.7    0.0026   19.0   0.0   2.6   2   0   0   2   2   2   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|E7EZB6|E7EZB6_DANRE         -          nup53                -            0.00011   23.5   1.7    0.0027   19.0   0.0   2.6   2   0   0   2   2   2   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=3
+tr|A0A0R4ISI3|A0A0R4ISI3_DANRE -          nup53                -            0.00011   23.5   1.7    0.0027   19.0   0.0   2.6   2   0   0   2   2   2   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|A0A2R8QIQ5|A0A2R8QIQ5_DANRE -          nup53                -            0.00046   21.5   0.0   0.00092   20.5   0.0   1.4   1   0   0   1   1   1   1 RRM domain-containing protein OS=Danio rerio OX=7955 GN=LOC110438986 PE=4 SV=1
+tr|F1QGS3|F1QGS3_DANRE         -          nup53                -              0.014   16.6   0.3     0.095   13.9   0.0   2.2   2   0   0   2   2   2   0 Speckle targeted PIP5K1A-regulated poly(A) polymerase OS=Danio rerio OX=7955 GN=tut1 PE=1 SV=1
+tr|F1R1E5|F1R1E5_DANRE         -          nup53                -              0.015   16.6   0.0     0.031   15.5   0.0   1.4   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 (Fragment) OS=Danio rerio OX=7955 GN=enox1 PE=4 SV=2
+tr|X1WCA2|X1WCA2_DANRE         -          nup53                -              0.017   16.4   0.0     0.034   15.4   0.0   1.4   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 OS=Danio rerio OX=7955 GN=enox1 PE=4 SV=2
+sp|Q4KMD7|STPAP_DANRE          -          nup53                -              0.022   16.0   0.2     0.095   13.9   0.0   2.0   2   0   0   2   2   2   0 Speckle targeted PIP5K1A-regulated poly(A) polymerase OS=Danio rerio OX=7955 GN=tut1 PE=2 SV=1
+tr|A0A2R8QDZ1|A0A2R8QDZ1_DANRE -          nup53                -              0.027   15.8   3.7     0.029   15.6   0.0   2.2   2   1   0   2   2   2   0 RNA-binding motif protein 26 OS=Danio rerio OX=7955 GN=rbm26 PE=1 SV=1
+tr|F1R0L7|F1R0L7_DANRE         -          nup53                -              0.078   14.2   3.5      0.12   13.6   3.5   1.2   1   0   0   1   1   1   0 Chloride intracellular channel protein OS=Danio rerio OX=7955 GN=clic5b PE=1 SV=1
+tr|A0A0R4IGJ0|A0A0R4IGJ0_DANRE -          nup53                -                1.7    9.8   8.8       1.8    9.7   8.8   1.0   1   0   0   1   1   1   0 Timeless circadian clock (Fragment) OS=Danio rerio OX=7955 GN=timeless PE=1 SV=1
+tr|F1QAE6|F1QAE6_DANRE         -          nup53                -                3.6    8.7  10.4       5.3    8.2  10.4   1.2   1   0   0   1   1   1   0 Calmodulin-regulated spectrin-associated protein family, member 2b (Fragment) OS=Danio rerio OX=7955 GN=camsap2b PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:54 2022
+# [ok]

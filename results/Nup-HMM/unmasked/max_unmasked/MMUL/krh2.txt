@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7H2H1|F7H2H1_MACMU         -          krh2                 -            1.8e-98  329.9  13.4     2e-98  329.8  13.4   1.0   1   0   0   1   1   1   1 Protein DB83 OS=Macaca mulatta OX=9544 GN=TMEM33 PE=2 SV=1
+tr|F6PM29|F6PM29_MACMU         -          krh2                 -              0.049   14.1   0.1     0.083   13.3   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=USE1 PE=4 SV=2
+tr|F6PM56|F6PM56_MACMU         -          krh2                 -               0.05   14.0   0.1     0.085   13.3   0.1   1.3   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Macaca mulatta OX=9544 GN=USE1 PE=2 SV=2
+tr|G7N8V0|G7N8V0_MACMU         -          krh2                 -               0.27   11.6   0.0      0.27   11.6   0.0   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM169 PE=4 SV=1
+tr|A0A1D5QW04|A0A1D5QW04_MACMU -          krh2                 -                1.1    9.7   0.0       1.1    9.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MANBAL PE=4 SV=1
+tr|A0A1D5RA85|A0A1D5RA85_MACMU -          krh2                 -                1.5    9.2   0.0       1.6    9.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FAM234A PE=4 SV=1
+tr|A0A1D5RKQ5|A0A1D5RKQ5_MACMU -          krh2                 -                1.7    9.1   0.1       3.1    8.2   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC57 PE=4 SV=1
+tr|F6PXD4|F6PXD4_MACMU         -          krh2                 -                  2    8.8   0.1       3.3    8.1   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC57 PE=4 SV=2
+tr|F6UQ54|F6UQ54_MACMU         -          krh2                 -                2.1    8.7   0.0       3.3    8.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FAM234B PE=4 SV=1
+tr|A0A1D5Q214|A0A1D5Q214_MACMU -          krh2                 -                2.7    8.4   0.0       3.2    8.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FAM234A PE=4 SV=1
+tr|F6VQJ8|F6VQJ8_MACMU         -          krh2                 -                2.8    8.3   0.0       4.1    7.8   0.0   1.2   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=OPN3 PE=4 SV=2
+tr|F7HQV3|F7HQV3_MACMU         -          krh2                 -                2.8    8.3   0.2       6.6    7.1   0.2   1.6   1   0   0   1   1   1   0 Peptidase_M14 domain-containing protein OS=Macaca mulatta OX=9544 GN=CPB2 PE=4 SV=2
+tr|F6US35|F6US35_MACMU         -          krh2                 -                2.8    8.3   1.5        38    4.6   1.1   2.5   2   0   0   2   2   2   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NTSR2 PE=3 SV=2
+tr|A0A1D5Q3R5|A0A1D5Q3R5_MACMU -          krh2                 -                  3    8.2   0.0       6.6    7.1   0.0   1.5   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=OPN3 PE=3 SV=1
+tr|F6SW26|F6SW26_MACMU         -          krh2                 -                3.4    8.0   0.3       4.4    7.7   0.3   1.1   1   0   0   1   1   1   0 Defensin, beta 103 OS=Macaca mulatta OX=9544 GN=LOC694235 PE=4 SV=1
+tr|A0A1D5Q7D6|A0A1D5Q7D6_MACMU -          krh2                 -                3.6    8.0   0.9         4    7.8   0.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QW82|A0A1D5QW82_MACMU -          krh2                 -                  4    7.8   0.7       5.2    7.5   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MBOAT2 PE=4 SV=1
+tr|A0A1D5QE05|A0A1D5QE05_MACMU -          krh2                 -                5.3    7.4   0.2         6    7.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CLEC4A PE=4 SV=1
+tr|F7EF92|F7EF92_MACMU         -          krh2                 -                5.6    7.4   1.1       7.5    6.9   0.3   1.5   1   1   0   1   1   1   0 Leukotriene C4 synthase OS=Macaca mulatta OX=9544 GN=LTC4S PE=4 SV=2
+tr|F7GSZ7|F7GSZ7_MACMU         -          krh2                 -                5.7    7.3   0.2         7    7.0   0.2   1.1   1   0   0   1   1   1   0 EGF-like domain-containing protein OS=Macaca mulatta OX=9544 GN=NRG4 PE=4 SV=2
+tr|F7EBG6|F7EBG6_MACMU         -          krh2                 -                6.3    7.2   0.1       7.5    6.9   0.1   1.1   1   0   0   1   1   1   0 Coiled-coil_56 domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F7H3Y0|F7H3Y0_MACMU         -          krh2                 -                6.9    7.0   0.0       7.1    7.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SMCO4 PE=2 SV=1
+tr|F7GPF6|F7GPF6_MACMU         -          krh2                 -                8.3    6.8   2.5        18    5.7   2.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LHFPL3 PE=4 SV=2
+tr|F6SFI5|F6SFI5_MACMU         -          krh2                 -                8.5    6.7   2.5        19    5.6   2.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LHFPL3 PE=4 SV=2
+tr|F7E2N7|F7E2N7_MACMU         -          krh2                 -                8.6    6.7   0.2        13    6.2   0.2   1.2   1   0   0   1   1   1   0 Protein lunapark OS=Macaca mulatta OX=9544 GN=LNPK PE=2 SV=1
+tr|A0A1D5RJZ9|A0A1D5RJZ9_MACMU -          krh2                 -                8.8    6.7   0.8        11    6.4   0.8   1.1   1   0   0   1   1   1   0 MFS domain-containing protein OS=Macaca mulatta OX=9544 GN=SLC2A1 PE=4 SV=1
+tr|A0A1D5R5A2|A0A1D5R5A2_MACMU -          krh2                 -                9.6    6.6   0.2        14    6.0   0.2   1.2   1   0   0   1   1   1   0 zinc_ribbon_10 domain-containing protein OS=Macaca mulatta OX=9544 GN=LNPK PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:46:48 2022
+# [ok]

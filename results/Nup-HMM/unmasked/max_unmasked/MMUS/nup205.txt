@@ -1,0 +1,52 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B9EJ54|B9EJ54_MOUSE         -          nup205               -                  0 2776.4  31.2         0 2773.0  31.2   1.9   1   1   0   1   1   1   1 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          nup205               -                  0 2776.2  31.2         0 2772.8  31.2   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|E9Q880|E9Q880_MOUSE         -          nup205               -           9.3e-133  445.5   0.8    1e-132  445.4   0.8   1.0   1   0   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+sp|Q6ZQH8|NU188_MOUSE          -          nup205               -              2e-19   69.7  26.7   1.3e-14   53.7   0.0   5.5   3   1   1   5   5   5   5 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|D3Z0Q2|D3Z0Q2_MOUSE         -          nup205               -               0.15   10.5   0.5      0.19   10.1   0.5   1.0   1   0   0   1   1   1   0 Serine-protein kinase ATM (Fragment) OS=Mus musculus OX=10090 GN=Atm PE=1 SV=1
+sp|O35047|HOP2_MOUSE           -          nup205               -               0.26    9.6   1.1      0.31    9.4   1.1   1.0   1   0   0   1   1   1   0 Homologous-pairing protein 2 homolog OS=Mus musculus OX=10090 GN=Psmc3ip PE=1 SV=1
+sp|Q8BTF8|RALYL_MOUSE          -          nup205               -               0.55    8.5   1.1      0.72    8.2   1.1   1.1   1   0   0   1   1   1   0 RNA-binding Raly-like protein OS=Mus musculus OX=10090 GN=Ralyl PE=2 SV=1
+tr|S4R188|S4R188_MOUSE         -          nup205               -               0.61    8.4   2.6       0.7    8.2   2.6   1.1   1   0   0   1   1   1   0 Centrosomal protein of 112 kDa (Fragment) OS=Mus musculus OX=10090 GN=Cep112 PE=1 SV=1
+sp|Q3TR54|GSDC4_MOUSE          -          nup205               -               0.92    7.8   1.4       1.1    7.5   1.4   1.1   1   0   0   1   1   1   0 Gasdermin-C4 OS=Mus musculus OX=10090 GN=Gsdmc4 PE=2 SV=2
+tr|D6RE40|D6RE40_MOUSE         -          nup205               -               0.98    7.7   0.2       1.3    7.4   0.2   1.1   1   0   0   1   1   1   0 BRCA1-associated ATM activator 1 OS=Mus musculus OX=10090 GN=Brat1 PE=1 SV=1
+tr|A0A286YDB7|A0A286YDB7_MOUSE -          nup205               -                1.2    7.5   0.1       1.2    7.4   0.1   1.0   1   0   0   1   1   1   0 Translocon-associated protein subunit alpha (Fragment) OS=Mus musculus OX=10090 GN=Ssr1 PE=1 SV=1
+tr|E0CX51|E0CX51_MOUSE         -          nup205               -                1.7    6.9   0.1       1.7    6.9   0.1   1.0   1   0   0   1   1   1   0 SUMO-interacting motifs-containing 1 (Fragment) OS=Mus musculus OX=10090 GN=Simc1 PE=1 SV=1
+tr|Z4YJL9|Z4YJL9_MOUSE         -          nup205               -                  2    6.7   1.0       2.3    6.5   1.0   1.0   1   0   0   1   1   1   0 Intraflagellar transport protein 20 homolog (Fragment) OS=Mus musculus OX=10090 GN=Ift20 PE=1 SV=1
+tr|F6RCX2|F6RCX2_MOUSE         -          nup205               -                2.3    6.5   3.4       2.3    6.5   3.4   1.0   1   0   0   1   1   1   0 Centrosomal protein of 89 kDa (Fragment) OS=Mus musculus OX=10090 GN=Cep89 PE=4 SV=1
+tr|A0A0G2JE90|A0A0G2JE90_MOUSE -          nup205               -                2.6    6.3   1.4         3    6.1   1.4   1.1   1   0   0   1   1   1   0 Prominin-1 (Fragment) OS=Mus musculus OX=10090 GN=Prom1 PE=1 SV=1
+sp|Q99LM2|CK5P3_MOUSE          -          nup205               -                2.8    6.2   2.9       4.1    5.7   2.9   1.1   1   0   0   1   1   1   0 CDK5 regulatory subunit-associated protein 3 OS=Mus musculus OX=10090 GN=Cdk5rap3 PE=1 SV=1
+tr|A0A0R4J2B4|A0A0R4J2B4_MOUSE -          nup205               -                2.9    6.1   4.8       3.6    5.8   4.8   1.0   1   0   0   1   1   1   0 Centrosomal protein of 70 kDa (Fragment) OS=Mus musculus OX=10090 GN=Cep70 PE=1 SV=1
+sp|Q8C3R1|BRAT1_MOUSE          -          nup205               -                  3    6.1   0.2       4.7    5.5   0.2   1.2   1   0   0   1   1   1   0 BRCA1-associated ATM activator 1 OS=Mus musculus OX=10090 GN=Brat1 PE=1 SV=1
+tr|A0A1B0GX15|A0A1B0GX15_MOUSE -          nup205               -                  3    6.1   2.0       3.7    5.8   2.0   1.0   1   0   0   1   1   1   0 Apolipoprotein E (Fragment) OS=Mus musculus OX=10090 GN=Apoe PE=1 SV=1
+tr|G3UWN5|G3UWN5_MOUSE         -          nup205               -                  3    6.1   2.0       3.8    5.8   2.0   1.0   1   0   0   1   1   1   0 Apolipoprotein E (Fragment) OS=Mus musculus OX=10090 GN=Apoe PE=1 SV=1
+tr|E9QLK3|E9QLK3_MOUSE         -          nup205               -                3.2    6.0   0.2         5    5.4   0.2   1.2   1   0   0   1   1   1   0 BRCA1-associated ATM activator 1 OS=Mus musculus OX=10090 GN=Brat1 PE=1 SV=1
+sp|Q61025|IFT20_MOUSE          -          nup205               -                3.4    5.9   1.1       3.8    5.8   1.1   1.0   1   0   0   1   1   1   0 Intraflagellar transport protein 20 homolog OS=Mus musculus OX=10090 GN=Ift20 PE=1 SV=1
+tr|F2Z4A7|F2Z4A7_MOUSE         -          nup205               -                3.4    5.9   0.1       3.6    5.9   0.1   1.0   1   0   0   1   1   1   0 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|A0A087WQX1|A0A087WQX1_MOUSE -          nup205               -                3.5    5.9   4.8       4.6    5.5   4.8   1.0   1   0   0   1   1   1   0 Centrosomal protein of 70 kDa OS=Mus musculus OX=10090 GN=Cep70 PE=1 SV=1
+tr|J3JSA4|J3JSA4_MOUSE         -          nup205               -                3.6    5.9   0.1       3.7    5.8   0.1   1.0   1   0   0   1   1   1   0 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+sp|Q45VK7|DYHC2_MOUSE          -          nup205               -                3.8    5.8   0.2       6.5    5.0   0.2   1.2   1   0   0   1   1   1   0 Cytoplasmic dynein 2 heavy chain 1 OS=Mus musculus OX=10090 GN=Dync2h1 PE=1 SV=1
+tr|F7BCN9|F7BCN9_MOUSE         -          nup205               -                4.4    5.6   0.1       4.9    5.4   0.1   1.0   1   0   0   1   1   1   0 Predicted gene, 28038 (Fragment) OS=Mus musculus OX=10090 GN=Gm28038 PE=4 SV=2
+tr|E9PYI6|E9PYI6_MOUSE         -          nup205               -                4.4    5.6   0.1       7.1    4.9   0.1   1.3   1   0   0   1   1   1   0 SUMO-interacting motifs-containing 1 OS=Mus musculus OX=10090 GN=Simc1 PE=1 SV=1
+tr|G5E8M5|G5E8M5_MOUSE         -          nup205               -                  6    5.1   0.3       6.8    4.9   0.3   1.0   1   0   0   1   1   1   0 Glutamate-rich protein 4 OS=Mus musculus OX=10090 GN=Erich4 PE=4 SV=1
+sp|Q3UNU4|ERIC4_MOUSE          -          nup205               -                6.1    5.1   0.3         7    4.9   0.3   1.0   1   0   0   1   1   1   0 Glutamate-rich protein 4 OS=Mus musculus OX=10090 GN=Erich4 PE=2 SV=2
+sp|P08226|APOE_MOUSE           -          nup205               -                6.1    5.1   2.0       8.3    4.6   2.0   1.1   1   0   0   1   1   1   0 Apolipoprotein E OS=Mus musculus OX=10090 GN=Apoe PE=1 SV=2
+tr|A2AWI5|A2AWI5_MOUSE         -          nup205               -                6.6    5.0   0.4       6.8    4.9   0.4   1.0   1   0   0   1   1   1   0 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|K7N6W5|K7N6W5_MOUSE         -          nup205               -                8.2    4.7   1.2        11    4.3   1.2   1.1   1   0   0   1   1   1   0 Predicted gene 17019 OS=Mus musculus OX=10090 GN=Gm17019 PE=4 SV=1
+tr|E9PX07|E9PX07_MOUSE         -          nup205               -                8.4    4.6   0.5        13    4.0   0.5   1.2   1   0   0   1   1   1   0 Cytosolic carboxypeptidase 1 (Fragment) OS=Mus musculus OX=10090 GN=Agtpbp1 PE=1 SV=2
+tr|E9Q628|E9Q628_MOUSE         -          nup205               -                8.7    4.6   1.6        11    4.2   1.6   1.0   1   0   0   1   1   1   0 Zinc finger protein 369 OS=Mus musculus OX=10090 GN=Zfp369 PE=4 SV=1
+tr|A0A1W2P795|A0A1W2P795_MOUSE -          nup205               -                8.7    4.6   0.0        11    4.2   0.0   1.0   1   0   0   1   1   1   0 MINDY lysine 48 deubiquitinase 4B, pseudogene (Fragment) OS=Mus musculus OX=10090 GN=Mindy4b-ps PE=4 SV=1
+tr|D3YZL0|D3YZL0_MOUSE         -          nup205               -                9.4    4.5   0.0        10    4.4   0.0   1.0   1   0   0   1   1   1   0 Alpha-1-antitrypsin 1-1 (Fragment) OS=Mus musculus OX=10090 GN=Serpina1a PE=3 SV=1
+sp|Q6PZD9|CEBPE_MOUSE          -          nup205               -                9.6    4.4   0.1        13    4.0   0.1   1.0   1   0   0   1   1   1   0 CCAAT/enhancer-binding protein epsilon OS=Mus musculus OX=10090 GN=Cebpe PE=1 SV=1
+tr|J3QP64|J3QP64_MOUSE         -          nup205               -                9.6    4.4   1.6        19    3.4   1.6   1.4   1   0   0   1   1   1   0 Baculoviral IAP repeat-containing protein 6 (Fragment) OS=Mus musculus OX=10090 GN=Birc6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:55:42 2022
+# [ok]

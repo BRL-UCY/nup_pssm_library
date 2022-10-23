@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B9EJ54|B9EJ54_MOUSE         -          nup205               -                  0 2385.0  13.8         0 2381.6  13.8   1.9   1   1   0   1   1   1   1 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          nup205               -                  0 2384.8  13.8         0 2381.4  13.8   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|E9Q880|E9Q880_MOUSE         -          nup205               -           2.6e-116  391.0   0.0  2.9e-116  390.8   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:35 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7AS82|F7AS82_MACMU         -          nup107               -                  0 1024.2  10.0         0 1024.0  10.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=2
+tr|F7AS65|F7AS65_MACMU         -          nup107               -                  0 1023.6  10.0         0 1023.4  10.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=2 SV=2
+tr|F6PUD9|F6PUD9_MACMU         -          nup107               -           2.1e-260  867.6  10.3  1.4e-168  563.9   2.5   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=1
+tr|F6TZL8|F6TZL8_MACMU         -          nup107               -               0.75    9.1   0.0      0.99    8.7   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR48 PE=4 SV=2
+tr|F6UTP4|F6UTP4_MACMU         -          nup107               -                7.1    5.8   0.1       9.5    5.4   0.1   1.1   1   0   0   1   1   1   0 14_3_3 domain-containing protein OS=Macaca mulatta OX=9544 PE=3 SV=2
+tr|A0A1D5Q1Z1|A0A1D5Q1Z1_MACMU -          nup107               -                9.2    5.5   0.0        13    5.0   0.0   1.1   1   0   0   1   1   1   0 Cyclin N-terminal domain-containing protein OS=Macaca mulatta OX=9544 GN=CCNA1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:12:11 2022
+# [ok]

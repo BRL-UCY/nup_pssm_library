@@ -1,0 +1,50 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9SYQ0|IDM3_ARATH           -          pom121               -              0.084   11.8   0.1      0.15   10.9   0.0   1.4   1   1   0   1   1   1   0 Increased DNA methylation 3 OS=Arabidopsis thaliana OX=3702 GN=IDM3 PE=1 SV=1
+tr|A0A178VRW1|A0A178VRW1_ARATH -          pom121               -               0.51    9.2   1.0      0.62    8.9   1.0   1.0   1   0   0   1   1   1   0 U2 small nuclear ribonucleoprotein B OS=Arabidopsis thaliana OX=3702 GN=U2B'' PE=4 SV=1
+tr|A0A1P8ASP2|A0A1P8ASP2_ARATH -          pom121               -               0.53    9.1   1.6      0.85    8.4   1.6   1.2   1   0   0   1   1   1   0 p-loop containing nucleoside triphosphate hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=CTF18 PE=4 SV=1
+tr|F4I5S3|F4I5S3_ARATH         -          pom121               -               0.57    9.0   1.6       1.2    8.0   1.6   1.4   1   0   0   1   1   1   0 p-loop containing nucleoside triphosphate hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=CTF18 PE=4 SV=1
+sp|O22922|RU2B1_ARATH          -          pom121               -                0.8    8.5   2.1         1    8.2   2.1   1.0   1   0   0   1   1   1   0 U2 small nuclear ribonucleoprotein B'' OS=Arabidopsis thaliana OX=3702 GN=U2B'' PE=1 SV=1
+tr|B9DGJ0|B9DGJ0_ARATH         -          pom121               -               0.85    8.4   2.2      0.96    8.3   2.2   1.1   1   0   0   1   1   1   0 AT5G18310 protein OS=Arabidopsis thaliana OX=3702 GN=At5g18310 PE=2 SV=1
+tr|Q9LQN3|Q9LQN3_ARATH         -          pom121               -               0.96    8.3   0.5       1.2    8.0   0.5   1.1   1   0   0   1   1   1   0 At1g32260 OS=Arabidopsis thaliana OX=3702 GN=F5D14.2 PE=2 SV=1
+sp|B3H4F1|SP1L1_ARATH          -          pom121               -               0.98    8.2   0.4      0.98    8.2   0.4   1.0   1   0   0   1   1   1   0 Protein SPIRAL1-like 1 OS=Arabidopsis thaliana OX=3702 GN=SP1L1 PE=2 SV=1
+tr|A0A1P8B4F6|A0A1P8B4F6_ARATH -          pom121               -                1.2    7.9   4.9       1.5    7.7   4.9   1.0   1   0   0   1   1   1   0 GRF1-interacting factor 3 OS=Arabidopsis thaliana OX=3702 GN=GIF3 PE=4 SV=1
+tr|F4JYR8|F4JYR8_ARATH         -          pom121               -                1.6    7.5   0.5       2.1    7.1   0.5   1.0   1   0   0   1   1   1   0 Prolamin-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g53905 PE=4 SV=1
+tr|A0A1P8APC6|A0A1P8APC6_ARATH -          pom121               -                  2    7.2   4.3       2.5    6.9   4.3   1.0   1   0   0   1   1   1   0 Myb domain protein 95 OS=Arabidopsis thaliana OX=3702 GN=MYB95 PE=4 SV=1
+tr|Q8GYC5|Q8GYC5_ARATH         -          pom121               -                2.1    7.2   6.7       2.7    6.8   6.7   1.1   1   0   0   1   1   1   0 At1g24268 OS=Arabidopsis thaliana OX=3702 GN=At1g24267 PE=1 SV=1
+tr|F4I978|F4I978_ARATH         -          pom121               -                2.1    7.2   6.7       2.7    6.8   6.7   1.1   1   0   0   1   1   1   0 BZIP transcription factor, putative (DUF1664) OS=Arabidopsis thaliana OX=3702 GN=At1g24267 PE=1 SV=1
+sp|Q9SUP6|WRK53_ARATH          -          pom121               -                2.9    6.7   1.9       4.5    6.0   1.9   1.2   1   0   0   1   1   1   0 Probable WRKY transcription factor 53 OS=Arabidopsis thaliana OX=3702 GN=WRKY53 PE=1 SV=1
+tr|A0A1P8AW31|A0A1P8AW31_ARATH -          pom121               -                3.1    6.6  12.2       4.5    6.0  12.2   1.2   1   0   0   1   1   1   0 Rad23 UV excision repair protein family OS=Arabidopsis thaliana OX=3702 GN=RAD23A PE=4 SV=1
+tr|A0A1P8B8Q4|A0A1P8B8Q4_ARATH -          pom121               -                3.2    6.5   1.7       3.2    6.5   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At4g05555 PE=4 SV=1
+sp|Q058G9|PCEP5_ARATH          -          pom121               -                3.4    6.4   1.2       3.8    6.3   1.2   1.0   1   0   0   1   1   1   0 Precursor of CEP5 OS=Arabidopsis thaliana OX=3702 GN=CEP5 PE=1 SV=1
+sp|Q84L32|RD23A_ARATH          -          pom121               -                3.5    6.4  12.1         5    5.9  12.1   1.1   1   0   0   1   1   1   0 Probable ubiquitin receptor RAD23a OS=Arabidopsis thaliana OX=3702 GN=RAD23A PE=2 SV=2
+tr|A0A1P8AU10|A0A1P8AU10_ARATH -          pom121               -                  4    6.2  39.4       4.9    5.9  39.4   1.0   1   0   0   1   1   1   0 Plasmodesmata callose-binding protein 4 OS=Arabidopsis thaliana OX=3702 GN=PDCB4 PE=4 SV=1
+sp|Q93V72|PDCB4_ARATH          -          pom121               -                4.2    6.1  39.4       5.2    5.8  39.4   1.0   1   0   0   1   1   1   0 PLASMODESMATA CALLOSE-BINDING PROTEIN 4 OS=Arabidopsis thaliana OX=3702 GN=PDCB4 PE=1 SV=1
+tr|A0A178UF68|A0A178UF68_ARATH -          pom121               -                4.4    6.1   4.7       4.9    5.9   4.7   1.1   1   0   0   1   1   1   0 Ubiquitin hydrolase OS=Arabidopsis thaliana OX=3702 GN=At5g18310 PE=4 SV=1
+tr|Q9SG63|Q9SG63_ARATH         -          pom121               -                4.5    6.1   4.7       5.6    5.7   4.7   1.0   1   0   0   1   1   1   0 At1g74430 OS=Arabidopsis thaliana OX=3702 GN=ATMYB95 PE=2 SV=1
+sp|O23225|PUB5_ARATH           -          pom121               -                4.8    5.9   1.8       7.4    5.3   1.8   1.2   1   0   0   1   1   1   0 U-box domain-containing protein 5 OS=Arabidopsis thaliana OX=3702 GN=PUB5 PE=3 SV=3
+sp|Q9SN12|MYB77_ARATH          -          pom121               -                4.8    5.9   4.3       5.9    5.6   4.3   1.1   1   0   0   1   1   1   0 Transcription factor MYB77 OS=Arabidopsis thaliana OX=3702 GN=MYB77 PE=1 SV=1
+sp|Q9S831|PSAE1_ARATH          -          pom121               -                5.2    5.8  10.2       5.9    5.6  10.2   1.0   1   0   0   1   1   1   0 Photosystem I reaction center subunit IV A, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=PSAE1 PE=1 SV=1
+sp|Q9LZ78|SIM_ARATH            -          pom121               -                5.2    5.8   3.2       5.8    5.7   3.2   1.2   1   0   0   1   1   1   0 Cyclin-dependent protein kinase inhibitor SIM OS=Arabidopsis thaliana OX=3702 GN=SIM PE=1 SV=1
+sp|Q9ZQI8|NLTL2_ARATH          -          pom121               -                5.5    5.7   2.8       7.1    5.4   2.8   1.0   1   0   0   1   1   1   0 Non-specific lipid-transfer protein-like protein At2g13820 OS=Arabidopsis thaliana OX=3702 GN=At2g13820 PE=2 SV=1
+tr|A0A1P8AZB0|A0A1P8AZB0_ARATH -          pom121               -                6.4    5.5   2.8       8.2    5.2   2.8   1.1   1   0   0   1   1   1   0 Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein OS=Arabidopsis thaliana OX=3702 GN=XYP2 PE=3 SV=1
+tr|Q9FN45|Q9FN45_ARATH         -          pom121               -                6.8    5.4   0.6       8.7    5.1   0.6   1.1   1   0   0   1   1   1   0 At5g23100 OS=Arabidopsis thaliana OX=3702 GN=MYJ24.9 PE=2 SV=1
+sp|Q9FG14|MYOB7_ARATH          -          pom121               -                  7    5.4   0.2       9.9    4.9   0.2   1.1   1   0   0   1   1   1   0 Myosin-binding protein 7 OS=Arabidopsis thaliana OX=3702 GN=MYOB7 PE=1 SV=1
+tr|Q9ZQ26|Q9ZQ26_ARATH         -          pom121               -                7.4    5.3   0.2       8.8    5.1   0.2   1.1   1   0   0   1   1   1   0 AT2G24420 protein OS=Arabidopsis thaliana OX=3702 GN=At2g24420 PE=2 SV=2
+tr|A0A1P8B8S4|A0A1P8B8S4_ARATH -          pom121               -                7.7    5.3   0.1       9.6    5.0   0.1   1.0   1   0   0   1   1   1   0 Basic helix-loop-helix (BHLH) DNA-binding superfamily protein OS=Arabidopsis thaliana OX=3702 GN=bHLH11 PE=4 SV=1
+tr|Q3EBR2|Q3EBR2_ARATH         -          pom121               -                  9    5.0   2.6       8.1    5.2   2.6   1.0   1   0   0   1   1   1   0 At2g30985 OS=Arabidopsis thaliana OX=3702 GN=At2g30985 PE=2 SV=1
+tr|F4K329|F4K329_ARATH         -          pom121               -                9.1    5.0   1.5       9.9    4.9   1.5   1.0   1   0   0   1   1   1   0 Plasma membrane fusion protein OS=Arabidopsis thaliana OX=3702 GN=At5g42765 PE=4 SV=1
+sp|Q93VH6|GIF3_ARATH           -          pom121               -                9.1    5.0   9.1        10    4.9   9.1   1.1   1   0   0   1   1   1   0 GRF1-interacting factor 3 OS=Arabidopsis thaliana OX=3702 GN=GIF3 PE=1 SV=1
+sp|P93735|ELIP1_ARATH          -          pom121               -                9.3    5.0   3.0        12    4.7   3.0   1.0   1   0   0   1   1   1   0 Early light-induced protein 1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=ELIP1 PE=1 SV=1
+sp|Q9SIC7|Y2142_ARATH          -          pom121               -                9.3    5.0   0.1        12    4.7   0.1   1.0   1   0   0   1   1   1   0 B3 domain-containing protein At2g31420 OS=Arabidopsis thaliana OX=3702 GN=At2g31420 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:30:20 2022
+# [ok]

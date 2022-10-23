@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8NFH5|NUP35_HUMAN          -          nup53                -            1.6e-90  306.4   0.0   1.1e-88  300.3   0.0   2.6   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|C9IYQ7|C9IYQ7_HUMAN         -          nup53                -            2.4e-15   59.3   0.1   1.6e-14   56.6   0.1   1.8   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|F8WEL4|F8WEL4_HUMAN         -          nup53                -            3.3e-15   58.8   0.1   1.9e-14   56.3   0.1   1.8   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|F8WCF5|F8WCF5_HUMAN         -          nup53                -            3.6e-12   48.8   0.0   2.3e-11   46.2   0.0   1.8   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|C9JIY9|C9JIY9_HUMAN         -          nup53                -            8.5e-09   37.7   0.0   9.6e-09   37.6   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|C9JWU7|C9JWU7_HUMAN         -          nup53                -              2e-07   33.2   0.0   2.2e-07   33.1   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Homo sapiens OX=9606 GN=NUP35 PE=1 SV=1
+tr|B1AKF7|B1AKF7_HUMAN         -          nup53                -            0.00064   21.7   0.0    0.0011   21.0   0.0   1.3   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 (Fragment) OS=Homo sapiens OX=9606 GN=ENOX2 PE=1 SV=1
+sp|Q16206|ENOX2_HUMAN          -          nup53                -             0.0013   20.7   0.0    0.0021   20.0   0.0   1.2   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Homo sapiens OX=9606 GN=ENOX2 PE=1 SV=2
+sp|Q8TC92|ENOX1_HUMAN          -          nup53                -               0.14   14.0   0.0      0.21   13.5   0.0   1.1   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 OS=Homo sapiens OX=9606 GN=ENOX1 PE=1 SV=1
+sp|P0CB38|PAB4L_HUMAN          -          nup53                -               0.88   11.4   0.0        14    7.4   0.0   2.2   2   0   0   2   2   2   0 Polyadenylate-binding protein 4-like OS=Homo sapiens OX=9606 GN=PABPC4L PE=2 SV=1
+tr|U3KPZ7|U3KPZ7_HUMAN         -          nup53                -                4.5    9.1   0.0       7.1    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Homo sapiens OX=9606 PE=4 SV=1
+sp|Q9P2N5|RBM27_HUMAN          -          nup53                -                4.7    9.0   0.0       7.4    8.4   0.0   1.2   1   0   0   1   1   1   0 RNA-binding protein 27 OS=Homo sapiens OX=9606 GN=RBM27 PE=1 SV=2
+tr|D6RA91|D6RA91_HUMAN         -          nup53                -                7.6    8.3   0.0        12    7.6   0.0   1.3   1   0   0   1   1   1   0 FAM47E-STBD1 readthrough (Fragment) OS=Homo sapiens OX=9606 GN=FAM47E-STBD1 PE=4 SV=2
+tr|Q5QPM2|Q5QPM2_HUMAN         -          nup53                -                9.4    8.0   0.0        12    7.7   0.0   1.1   1   0   0   1   1   1   0 RNA-binding protein Raly (Fragment) OS=Homo sapiens OX=9606 GN=RALY PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:43:39 2022
+# [ok]

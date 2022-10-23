@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J210|A0A498J210_MALDO -          krh2                 -            7.7e-30  105.1  14.3   1.2e-29  104.4  14.3   1.2   1   0   0   1   1   1   1 Histone acetyltransferase OS=Malus domestica OX=3750 GN=DVH24_032126 PE=3 SV=1
+tr|A0A498HD84|A0A498HD84_MALDO -          krh2                 -            3.2e-28   99.8   9.8   1.1e-26   94.7   9.8   2.1   1   1   0   1   1   1   1 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028381 PE=3 SV=1
+tr|A0A498IME8|A0A498IME8_MALDO -          krh2                 -               0.56   10.5   0.0      0.62   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003705 PE=4 SV=1
+tr|A0A498JAV6|A0A498JAV6_MALDO -          krh2                 -                1.1    9.5   0.1       1.2    9.5   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020930 PE=4 SV=1
+tr|A0A498JMN4|A0A498JMN4_MALDO -          krh2                 -                2.7    8.3   1.0       4.3    7.6   1.0   1.2   1   0   0   1   1   1   0 Nodulin-like domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_008810 PE=4 SV=1
+tr|A0A498KKR6|A0A498KKR6_MALDO -          krh2                 -                9.6    6.5   0.1        13    6.1   0.1   1.2   1   0   0   1   1   1   0 Na_H_Exchanger domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_022903 PE=4 SV=1
+tr|A0A498IRC6|A0A498IRC6_MALDO -          krh2                 -                9.8    6.5   0.2        11    6.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014404 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:56:13 2022
+# [ok]

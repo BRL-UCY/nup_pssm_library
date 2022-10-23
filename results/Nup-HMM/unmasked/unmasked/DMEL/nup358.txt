@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A0A0B4K7J2|RBP2_DROME       -          nup358               -                  0 3040.4  38.7         0 3036.0  38.7   1.9   1   1   0   1   1   1   1 E3 SUMO-protein ligase RanBP2 OS=Drosophila melanogaster OX=7227 GN=Nup358 PE=1 SV=1
+tr|A8JV18|A8JV18_DROME         -          nup358               -            5.3e-25   87.0  48.6   1.3e-12   45.9  11.4  10.2   3   1   6  10  10   5   5 Nucleoporin 153kD, isoform D OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=1
+sp|Q9VXE6|NU153_DROME          -          nup358               -              6e-24   83.6  48.4   8.6e-13   46.5  10.4  10.2   3   1   7  11  11   7   6 Nuclear pore complex protein Nup153 OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=4
+tr|A0A0B4KGQ0|A0A0B4KGQ0_DROME -          nup358               -            1.6e-10   39.0  21.6   6.7e-10   36.9   1.8   2.0   1   1   1   2   2   2   2 Ran binding protein 3, isoform B OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+tr|Q9VCI7|Q9VCI7_DROME         -          nup358               -            1.8e-10   38.9  21.8   3.4e-09   34.6   0.0   2.0   1   1   1   2   2   2   2 LD02979p OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+sp|Q7K0D8|NUP50_DROME          -          nup358               -              3e-09   34.8  16.1     3e-09   34.8  16.1   2.4   1   1   1   2   2   1   1 Nuclear pore complex protein Nup50 OS=Drosophila melanogaster OX=7227 GN=Nup50 PE=2 SV=1
+tr|A0A0B4KEV6|A0A0B4KEV6_DROME -          nup358               -            6.9e-05   20.3  17.3   7.6e-05   20.2  17.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG43711 PE=4 SV=1
+tr|A0A0B4LFX0|A0A0B4LFX0_DROME -          nup358               -             0.0002   18.8   0.0    0.0002   18.8   0.0   2.9   2   1   1   3   3   1   1 Enabled, isoform G OS=Drosophila melanogaster OX=7227 GN=ena PE=4 SV=1
+sp|Q8T4F7|ENA_DROME            -          nup358               -            0.00032   18.1   0.1   0.00032   18.1   0.1   4.0   2   2   0   4   4   1   1 Protein enabled OS=Drosophila melanogaster OX=7227 GN=ena PE=1 SV=4
+tr|Q9W215|Q9W215_DROME         -          nup358               -              0.011   13.0   2.6     0.011   12.9   2.6   1.2   1   0   0   1   1   1   0 GEO03726p1 OS=Drosophila melanogaster OX=7227 GN=RYBP PE=2 SV=2
+tr|Q9VNS4|Q9VNS4_DROME         -          nup358               -              0.088   10.0  12.0      0.11    9.7  12.0   1.0   1   0   0   1   1   1   0 RE45259p OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE59202 PE=2 SV=1
+tr|A0A0B4KFD9|A0A0B4KFD9_DROME -          nup358               -               0.39    7.9  22.7      0.44    7.7  22.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=CG15226 PE=4 SV=1
+sp|P39413|AEF1_DROME           -          nup358               -               0.41    7.8  15.9       0.4    7.8  15.9   1.2   1   0   0   1   1   1   0 Adult enhancer factor 1 OS=Drosophila melanogaster OX=7227 GN=Aef1 PE=2 SV=1
+tr|A4V287|A4V287_DROME         -          nup358               -               0.41    7.8  15.9       0.4    7.8  15.9   1.2   1   0   0   1   1   1   0 Adult enhancer factor 1, isoform C OS=Drosophila melanogaster OX=7227 GN=Aef1 PE=4 SV=1
+tr|Q9V401|Q9V401_DROME         -          nup358               -                0.6    7.2  19.7      0.66    7.1  19.7   1.0   1   0   0   1   1   1   0 RE43371p OS=Drosophila melanogaster OX=7227 GN=EG:96G10.8 PE=2 SV=1
+tr|Q9VA86|Q9VA86_DROME         -          nup358               -               0.75    6.9   9.8       0.7    7.0   9.0   1.2   1   1   0   1   1   1   0 RE19971p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9682 PE=1 SV=4
+tr|Q9VB13|Q9VB13_DROME         -          nup358               -               0.87    6.7  24.2         1    6.5  24.2   1.2   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=2
+tr|Q9W3Z5|Q9W3Z5_DROME         -          nup358               -                1.2    6.2  46.2       1.4    6.0  46.2   1.0   1   0   0   1   1   1   0 LD15209p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3918 PE=2 SV=1
+tr|Q8I0K8|Q8I0K8_DROME         -          nup358               -                1.2    6.2  10.8       1.4    6.0  10.8   1.0   1   0   0   1   1   1   0 Hemese, isoform B OS=Drosophila melanogaster OX=7227 GN=He PE=2 SV=1
+tr|Q9VLN9|Q9VLN9_DROME         -          nup358               -                1.3    6.1   2.8       1.7    5.7   2.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14273 PE=4 SV=3
+sp|Q9VPM5|MBM_DROME            -          nup358               -                1.4    6.0  39.9      0.16    9.2  25.8   2.0   2   0   0   2   2   2   0 Protein mushroom body miniature OS=Drosophila melanogaster OX=7227 GN=mbm PE=1 SV=1
+tr|E1JH68|E1JH68_DROME         -          nup358               -                3.1    4.9  19.7       4.1    4.5  19.7   1.1   1   0   0   1   1   1   0 FI20283p1 OS=Drosophila melanogaster OX=7227 GN=Pcf11 PE=1 SV=1
+tr|B7YZN0|B7YZN0_DROME         -          nup358               -                3.8    4.6  20.2         5    4.2  20.2   1.1   1   0   0   1   1   1   0 Syndecan OS=Drosophila melanogaster OX=7227 GN=Sdc PE=1 SV=2
+tr|Q9VTA8|Q9VTA8_DROME         -          nup358               -                4.2    4.5  18.2       4.4    4.4  18.2   1.0   1   0   0   1   1   1   0 RE35371p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14153 PE=2 SV=1
+tr|Q9VDK9|Q9VDK9_DROME         -          nup358               -                4.3    4.4  13.5       5.6    4.0  13.5   1.0   1   0   0   1   1   1   0 GH12359p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG16953 PE=1 SV=3
+tr|M9PBZ7|M9PBZ7_DROME         -          nup358               -                4.9    4.2  15.7       5.8    4.0  15.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=lincRNA.43 PE=4 SV=1
+sp|P49415|SDC_DROME            -          nup358               -                5.2    4.1  14.3       6.7    3.8  14.3   1.1   1   0   0   1   1   1   0 Syndecan OS=Drosophila melanogaster OX=7227 GN=Sdc PE=2 SV=2
+tr|A0A4P7VJV5|A0A4P7VJV5_DROME -          nup358               -                5.5    4.1  14.3         7    3.7  14.3   1.1   1   0   0   1   1   1   0 Syndecan OS=Drosophila melanogaster OX=7227 GN=Sdc PE=1 SV=1
+tr|A0A0B4LIS6|A0A0B4LIS6_DROME -          nup358               -                5.7    4.0  26.4       7.1    3.7  26.4   1.2   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=1
+tr|B7YZM9|B7YZM9_DROME         -          nup358               -                6.2    3.9  14.4       7.9    3.5  14.4   1.0   1   0   0   1   1   1   0 Syndecan OS=Drosophila melanogaster OX=7227 GN=Sdc PE=1 SV=1
+tr|Q9VH46|Q9VH46_DROME         -          nup358               -                7.3    3.6  11.6       9.6    3.2  11.6   1.0   1   0   0   1   1   1   0 Serpin 85F OS=Drosophila melanogaster OX=7227 GN=Spn85F PE=3 SV=3
+tr|E4NKK8|E4NKK8_DROME         -          nup358               -                7.6    3.6  27.0       8.4    3.4  27.0   1.0   1   0   0   1   1   1   0 RE43711p OS=Drosophila melanogaster OX=7227 GN=CG11638-RA PE=2 SV=1
+tr|A0A0B4KI45|A0A0B4KI45_DROME -          nup358               -                8.5    3.4  27.8       9.7    3.2  27.8   1.1   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=1
+tr|A0A0B4KHQ8|A0A0B4KHQ8_DROME -          nup358               -                8.8    3.4  27.5        10    3.2  27.5   1.1   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=1
+tr|Q9VZ44|Q9VZ44_DROME         -          nup358               -                9.8    3.2  13.9        13    2.8  13.9   1.0   1   0   0   1   1   1   0 C901 OS=Drosophila melanogaster OX=7227 GN=C901 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:13 2022
+# [ok]

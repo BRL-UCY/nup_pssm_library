@@ -1,0 +1,54 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HEM9|F7HEM9_MACMU         -          pom121               -                  0 1315.8 221.0         0 1315.6 221.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=1
+tr|F7G907|F7G907_MACMU         -          pom121               -                  0 1215.1 221.8         0 1214.8 221.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=2
+tr|F6QY21|F6QY21_MACMU         -          pom121               -            9.3e-75  253.5  27.2   1.1e-74  253.3  27.2   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|A0A1D5R4N0|A0A1D5R4N0_MACMU -          pom121               -            1.1e-63  216.9  23.7   1.4e-63  216.5  23.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121L12 PE=4 SV=1
+tr|A0A1D5QG05|A0A1D5QG05_MACMU -          pom121               -              1e-47  164.0  34.9   1.4e-47  163.5  34.9   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5Q7A6|A0A1D5Q7A6_MACMU -          pom121               -            1.8e-41  143.3  33.0   2.6e-41  142.8  33.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5QQL2|A0A1D5QQL2_MACMU -          pom121               -            2.3e-21   76.7   1.7   2.7e-21   76.5   1.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QXM7|A0A1D5QXM7_MACMU -          pom121               -               0.18   10.8   2.4      0.22   10.6   2.4   1.3   1   0   0   1   1   1   0 RHIM domain-containing protein OS=Macaca mulatta OX=9544 GN=ADCY4 PE=4 SV=1
+tr|F6QDF0|F6QDF0_MACMU         -          pom121               -                0.2   10.7   0.5      0.25   10.4   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PCBP2 PE=4 SV=2
+tr|F6USA4|F6USA4_MACMU         -          pom121               -               0.22   10.6  10.4      0.27   10.3  10.4   1.0   1   0   0   1   1   1   0 HIN-200 domain-containing protein OS=Macaca mulatta OX=9544 GN=IFI16 PE=4 SV=2
+tr|F7H2D5|F7H2D5_MACMU         -          pom121               -               0.38    9.8   0.8       0.5    9.4   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PCBP2 PE=4 SV=2
+tr|A0A1D5RAH2|A0A1D5RAH2_MACMU -          pom121               -                1.1    8.2   0.1       1.5    7.8   0.1   1.1   1   0   0   1   1   1   0 dNK domain-containing protein OS=Macaca mulatta OX=9544 GN=TK2 PE=4 SV=1
+tr|F7HRM5|F7HRM5_MACMU         -          pom121               -                1.2    8.1   0.1       1.6    7.7   0.1   1.1   1   0   0   1   1   1   0 dNK domain-containing protein OS=Macaca mulatta OX=9544 GN=TK2 PE=4 SV=2
+tr|A0A1D5R823|A0A1D5R823_MACMU -          pom121               -                1.3    8.0   0.1       1.7    7.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TK2 PE=4 SV=1
+tr|F6QPR4|F6QPR4_MACMU         -          pom121               -                1.4    7.9  16.6       1.7    7.6  16.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SERPING1 PE=4 SV=2
+tr|A0A1D5R3D9|A0A1D5R3D9_MACMU -          pom121               -                1.5    7.8   5.5       3.6    6.6   5.5   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MYT1 PE=4 SV=1
+tr|F7AVS7|F7AVS7_MACMU         -          pom121               -                1.6    7.7   7.6       2.3    7.2   7.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LYVE1 PE=4 SV=2
+tr|A0A1D5R637|A0A1D5R637_MACMU -          pom121               -                1.8    7.5   0.5       2.4    7.1   0.5   1.1   1   0   0   1   1   1   0 dNK domain-containing protein OS=Macaca mulatta OX=9544 GN=TK2 PE=4 SV=1
+tr|A0A1D5RCJ2|A0A1D5RCJ2_MACMU -          pom121               -                2.6    7.0   8.6       2.6    7.0   8.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC107000421 PE=4 SV=1
+tr|A0A1D5QM68|A0A1D5QM68_MACMU -          pom121               -                3.1    6.8  16.1         4    6.4  16.1   1.0   1   0   0   1   1   1   0 Rab-GAP TBC domain-containing protein OS=Macaca mulatta OX=9544 GN=CASTOR1 PE=4 SV=1
+tr|F7H8Z4|F7H8Z4_MACMU         -          pom121               -                3.1    6.8   1.4       4.4    6.3   1.4   1.1   1   0   0   1   1   1   0 AH domain-containing protein OS=Macaca mulatta OX=9544 GN=ICA1L PE=4 SV=2
+tr|F7HN48|F7HN48_MACMU         -          pom121               -                3.4    6.6   0.3       5.2    6.0   0.3   1.1   1   0   0   1   1   1   0 CPSF_A domain-containing protein OS=Macaca mulatta OX=9544 GN=DDB1 PE=4 SV=2
+tr|F7HU23|F7HU23_MACMU         -          pom121               -                3.6    6.5   0.4       3.8    6.5   0.4   1.1   1   0   0   1   1   1   0 Nanos-type domain-containing protein OS=Macaca mulatta OX=9544 GN=NANOS3 PE=3 SV=1
+tr|A0A1D5R0N4|A0A1D5R0N4_MACMU -          pom121               -                4.1    6.4   0.3         4    6.4   0.3   1.0   1   0   0   1   1   1   0 RWD domain-containing protein OS=Macaca mulatta OX=9544 GN=UBE2Q2 PE=4 SV=1
+tr|A0A1D5QHR6|A0A1D5QHR6_MACMU -          pom121               -                4.1    6.4   1.1       4.6    6.2   1.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CYFIP2 PE=4 SV=1
+tr|F7FAV6|F7FAV6_MACMU         -          pom121               -                4.1    6.4   0.5        15    4.5   0.5   1.7   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=POC1A PE=4 SV=1
+tr|A0A1D5QB08|A0A1D5QB08_MACMU -          pom121               -                4.2    6.3  14.3       6.1    5.8  14.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MUC4 PE=4 SV=1
+tr|A0A1D5QRQ8|A0A1D5QRQ8_MACMU -          pom121               -                4.2    6.3   5.2       5.3    6.0   5.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5R238|A0A1D5R238_MACMU -          pom121               -                4.7    6.2   0.5        16    4.4   0.5   1.7   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=POC1A PE=4 SV=1
+tr|F6VIP3|F6VIP3_MACMU         -          pom121               -                5.1    6.1   2.4       5.3    6.0   2.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=GATA2 PE=4 SV=2
+tr|A0A1D5QQH6|A0A1D5QQH6_MACMU -          pom121               -                5.1    6.1   0.1       4.8    6.2   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CLLU1OS PE=4 SV=1
+tr|G7N8P6|G7N8P6_MACMU         -          pom121               -                5.1    6.1   1.9       7.1    5.6   1.9   1.2   1   0   0   1   1   1   0 Islet cell autoantigen 1-like protein isoform 1 OS=Macaca mulatta OX=9544 GN=ICA1L PE=2 SV=1
+tr|F7HME5|F7HME5_MACMU         -          pom121               -                5.3    6.0   0.3       7.6    5.5   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PCBP2 PE=4 SV=2
+tr|A0A1D5Q4D1|A0A1D5Q4D1_MACMU -          pom121               -                6.8    5.7   1.1       8.1    5.4   1.1   1.0   1   0   0   1   1   1   0 LIM zinc-binding domain-containing protein OS=Macaca mulatta OX=9544 GN=PDLIM2 PE=4 SV=1
+tr|A0A1D5R7J9|A0A1D5R7J9_MACMU -          pom121               -                7.1    5.6   3.2       7.4    5.5   3.2   1.1   1   0   0   1   1   1   0 A20-type domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QCD1|A0A1D5QCD1_MACMU -          pom121               -                7.8    5.5   5.2         9    5.2   5.2   1.1   1   0   0   1   1   1   0 Ig-like domain-containing protein OS=Macaca mulatta OX=9544 GN=TREM1 PE=4 SV=1
+tr|F7HMF5|F7HMF5_MACMU         -          pom121               -                8.1    5.4   0.5        10    5.0   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PCBP2 PE=4 SV=2
+tr|F6QI07|F6QI07_MACMU         -          pom121               -                8.1    5.4   2.4        13    4.7   2.4   1.3   1   0   0   1   1   1   0 RNA binding protein fox-1 homolog OS=Macaca mulatta OX=9544 GN=RBFOX2 PE=4 SV=2
+tr|F7GG15|F7GG15_MACMU         -          pom121               -                8.6    5.3   1.0        11    5.0   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=AIM2 PE=4 SV=2
+tr|A0A1D5Q691|A0A1D5Q691_MACMU -          pom121               -                9.3    5.2   1.2        16    4.4   1.2   1.3   1   0   0   1   1   1   0 Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein isoform 1 OS=Macaca mulatta OX=9544 GN=HERPUD1 PE=2 SV=1
+tr|F6PZX7|F6PZX7_MACMU         -          pom121               -                9.6    5.1   1.2        14    4.6   1.2   1.1   1   0   0   1   1   1   0 Ubiquitin-like domain-containing protein OS=Macaca mulatta OX=9544 GN=HERPUD1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:45:13 2022
+# [ok]

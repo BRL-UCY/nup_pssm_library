@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JCG1|A0A498JCG1_MALDO -          nup62                -            1.5e-38  133.9   0.1   1.5e-38  133.9   0.1   2.3   2   0   0   2   2   2   1 Nucleoporin 62 OS=Malus domestica OX=3750 GN=DVH24_014004 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:35 2022
+# [ok]

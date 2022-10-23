@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F4JUG3|F4JUG3_ARATH         -          nup188               -            8.2e-40  136.8  11.2   2.9e-30  105.2   0.6   3.0   3   0   0   3   3   3   3 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          nup188               -             0.0046   15.0   0.2     0.016   13.3   0.0   1.8   2   0   0   2   2   2   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          nup188               -             0.0047   15.0   0.3     0.015   13.3   0.1   1.8   2   0   0   2   2   2   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|F4JKA2|F4JKA2_ARATH         -          nup188               -               0.23    9.4   0.5      0.35    8.8   0.5   1.2   1   0   0   1   1   1   0 Binding / calmodulin binding protein OS=Arabidopsis thaliana OX=3702 GN=At4g21820 PE=4 SV=1
+tr|A0A1P8B7Z7|A0A1P8B7Z7_ARATH -          nup188               -               0.23    9.4   0.5      0.36    8.8   0.5   1.2   1   0   0   1   1   1   0 Binding / calmodulin binding protein OS=Arabidopsis thaliana OX=3702 GN=At4g21820 PE=4 SV=1
+tr|A0A1P8B7Z9|A0A1P8B7Z9_ARATH -          nup188               -               0.23    9.4   0.5      0.36    8.7   0.5   1.2   1   0   0   1   1   1   0 Binding / calmodulin binding protein OS=Arabidopsis thaliana OX=3702 GN=At4g21820 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          nup188               -               0.87    7.5   0.1       3.5    5.5   0.0   1.8   2   0   0   2   2   2   0 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          nup188               -               0.87    7.5   0.1       3.5    5.5   0.0   1.8   2   0   0   2   2   2   0 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|Q8S8N3|CLE6_ARATH           -          nup188               -                3.3    5.6   0.1       3.7    5.4   0.1   1.0   1   0   0   1   1   1   0 CLAVATA3/ESR (CLE)-related protein 6 OS=Arabidopsis thaliana OX=3702 GN=CLE6 PE=2 SV=1
+tr|Q3E7C3|Q3E7C3_ARATH         -          nup188               -                9.5    4.0   0.2        11    3.8   0.2   1.0   1   0   0   1   1   1   0 Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g64235 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:38:26 2022
+# [ok]

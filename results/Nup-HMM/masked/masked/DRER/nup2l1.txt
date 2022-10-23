@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6P0U9|NUP42_DANRE          -          nup2l1               -              1e-64  221.1   1.2   1.5e-64  220.5   1.2   1.3   1   0   0   1   1   1   1 Nucleoporin NUP42 OS=Danio rerio OX=7955 GN=nup42 PE=2 SV=1
+sp|Q9DFG8|MKRN2_DANRE          -          nup2l1               -            1.4e-13   52.6  28.0   2.7e-07   31.9   2.8   4.1   4   0   0   4   4   4   4 Probable E3 ubiquitin-protein ligase makorin-2 OS=Danio rerio OX=7955 GN=mkrn2 PE=2 SV=2
+tr|A0A0R4I9G0|A0A0R4I9G0_DANRE -          nup2l1               -            1.4e-13   52.6  28.0   2.7e-07   31.9   2.8   4.1   4   0   0   4   4   4   4 Probable E3 ubiquitin-protein ligase makorin-2 OS=Danio rerio OX=7955 GN=mkrn2 PE=1 SV=1
+tr|A0A0R4I9A5|A0A0R4I9A5_DANRE -          nup2l1               -            4.4e-12   47.6  25.5   2.6e-07   31.9   2.8   4.1   4   0   0   4   4   4   3 Probable E3 ubiquitin-protein ligase makorin-2 OS=Danio rerio OX=7955 GN=mkrn2 PE=1 SV=1
+sp|Q4VBT5|MKRN1_DANRE          -          nup2l1               -              3e-09   38.3  24.0   6.5e-06   27.3   0.1   4.1   4   0   0   4   4   4   2 Probable E3 ubiquitin-protein ligase makorin-1 OS=Danio rerio OX=7955 GN=mkrn1 PE=2 SV=1
+tr|H0WEB8|H0WEB8_DANRE         -          nup2l1               -            6.4e-07   30.6  11.6    0.0011   20.0   1.9   2.0   2   0   0   2   2   2   2 Probable E3 ubiquitin-protein ligase makorin-1 OS=Danio rerio OX=7955 GN=mkrn1 PE=4 SV=1
+tr|E9QJB7|E9QJB7_DANRE         -          nup2l1               -            6.2e-06   27.4   0.4     7e-06   27.2   0.4   1.1   1   0   0   1   1   1   1 Leukocyte receptor cluster (LRC) member 9 OS=Danio rerio OX=7955 GN=leng9 PE=4 SV=1
+tr|A9C4A7|A9C4A7_DANRE         -          nup2l1               -              1e-05   26.7  16.5   0.00018   22.6   6.0   2.1   2   0   0   2   2   2   2 Makorin, ring finger protein, 4 (Fragment) OS=Danio rerio OX=7955 GN=mkrn4 PE=4 SV=1
+tr|Q1LX58|Q1LX58_DANRE         -          nup2l1               -            1.3e-05   26.3  10.0   0.00089   20.3   2.8   2.1   2   0   0   2   2   2   2 Si:dkey-24l11.2 (Fragment) OS=Danio rerio OX=7955 GN=si:dkey-24l11.2 PE=4 SV=1
+tr|A9C4A6|A9C4A6_DANRE         -          nup2l1               -            0.00012   23.2  17.9   0.00095   20.2   6.6   2.1   2   0   0   2   2   2   2 Makorin, ring finger protein, 4 OS=Danio rerio OX=7955 GN=mkrn4 PE=4 SV=1
+tr|E9QIB3|E9QIB3_DANRE         -          nup2l1               -            0.00012   23.1   1.7   0.00016   22.7   1.7   1.2   1   0   0   1   1   1   1 Leukocyte receptor cluster (LRC) member 9 (Fragment) OS=Danio rerio OX=7955 GN=leng9 PE=4 SV=1
+tr|A0A2R8QPT6|A0A2R8QPT6_DANRE -          nup2l1               -            0.00013   23.1   0.5   0.00017   22.6   0.5   1.1   1   0   0   1   1   1   1 Zinc finger CCCH domain-containing protein 18 OS=Danio rerio OX=7955 GN=zc3h18 PE=1 SV=1
+tr|A0A0R4IEF8|A0A0R4IEF8_DANRE -          nup2l1               -            0.00013   23.0   0.5   0.00018   22.6   0.5   1.1   1   0   0   1   1   1   1 Zinc finger CCCH domain-containing protein 18 OS=Danio rerio OX=7955 GN=zc3h18 PE=1 SV=1
+tr|A0A2R8RVJ0|A0A2R8RVJ0_DANRE -          nup2l1               -            0.00018   22.6  11.3     0.005   17.8   3.8   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A9C4A8|A9C4A8_DANRE         -          nup2l1               -            0.00018   22.6   6.0   0.00018   22.6   6.0   2.0   2   0   0   2   2   2   1 Makorin, ring finger protein, 4 (Fragment) OS=Danio rerio OX=7955 GN=mkrn4 PE=4 SV=1
+tr|F1R3F5|F1R3F5_DANRE         -          nup2l1               -             0.0005   21.1   2.1   0.00071   20.6   2.1   1.2   1   0   0   1   1   1   1 Leukocyte receptor cluster (LRC) member 9 OS=Danio rerio OX=7955 GN=leng9 PE=1 SV=1
+tr|Q6ZM22|Q6ZM22_DANRE         -          nup2l1               -            0.00061   20.8   7.2     0.028   15.4   0.4   2.1   2   0   0   2   2   2   2 Zinc finger CCCH-type-containing 10 OS=Danio rerio OX=7955 GN=zc3h10 PE=2 SV=1
+tr|A0A2R8Q6F6|A0A2R8Q6F6_DANRE -          nup2l1               -            0.00065   20.7  11.7    0.0082   17.1   3.8   2.1   2   0   0   2   2   2   2 Si:dkey-24l11.2 OS=Danio rerio OX=7955 GN=si:dkey-24l11.2 PE=1 SV=1
+tr|F1Q6H4|F1Q6H4_DANRE         -          nup2l1               -            0.00082   20.4   1.6   0.00082   20.4   1.6   3.1   3   0   0   3   3   3   1 Zinc finger CCCH-type-containing 6 OS=Danio rerio OX=7955 GN=zc3h6 PE=4 SV=3
+tr|A0A2R8RJV4|A0A2R8RJV4_DANRE -          nup2l1               -            0.00086   20.3   9.3      0.03   15.3   2.1   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F6P3B2|F6P3B2_DANRE         -          nup2l1               -             0.0011   20.0   6.2    0.0011   20.0   6.2   2.5   2   1   1   3   3   3   1 Si:ch211-244b2.4 OS=Danio rerio OX=7955 GN=si:ch211-244b2.4 PE=4 SV=1
+tr|Q5RGN8|Q5RGN8_DANRE         -          nup2l1               -             0.0011   19.9   6.2    0.0011   19.9   6.2   2.5   2   1   1   3   3   3   1 Novel protein OS=Danio rerio OX=7955 GN=si:ch211-244b2.4 PE=2 SV=1
+tr|F1QCB1|F1QCB1_DANRE         -          nup2l1               -              0.002   19.1   4.8    0.0029   18.6   4.8   1.1   1   0   0   1   1   1   1 DEAH (Asp-Glu-Ala-Asp/His) box polypeptide 57 OS=Danio rerio OX=7955 GN=dhx57 PE=4 SV=1
+tr|A0A2R8Q3V8|A0A2R8Q3V8_DANRE -          nup2l1               -             0.0021   19.1   4.8    0.0029   18.6   4.8   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Danio rerio OX=7955 GN=dhx57 PE=4 SV=1
+tr|E7FGZ9|E7FGZ9_DANRE         -          nup2l1               -               0.01   16.8   1.2      0.01   16.8   1.2   2.0   2   0   0   2   2   2   0 Zinc finger CCCH-type-containing 4 OS=Danio rerio OX=7955 GN=zc3h4 PE=1 SV=1
+sp|Q7SXW2|ZGPAT_DANRE          -          nup2l1               -              0.023   15.6   2.9     0.033   15.1   2.9   1.1   1   0   0   1   1   1   0 Zinc finger CCCH-type with G patch domain-containing protein OS=Danio rerio OX=7955 GN=zgpat PE=2 SV=1
+tr|A0A2R8PZG8|A0A2R8PZG8_DANRE -          nup2l1               -               0.03   15.3   0.0     0.039   14.9   0.0   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Danio rerio OX=7955 GN=si:ch211-113e8.11 PE=4 SV=1
+tr|F1QGQ9|F1QGQ9_DANRE         -          nup2l1               -               0.03   15.3   0.0     0.039   14.9   0.0   1.1   1   0   0   1   1   1   0 Si:ch211-113e8.11 OS=Danio rerio OX=7955 GN=si:ch211-113e8.11 PE=4 SV=1
+sp|Q803J8|ZC3HF_DANRE          -          nup2l1               -              0.032   15.2   1.6     0.049   14.5   1.6   1.2   1   0   0   1   1   1   0 Zinc finger CCCH domain-containing protein 15 OS=Danio rerio OX=7955 GN=zc3h15 PE=2 SV=1
+tr|B8JLK7|B8JLK7_DANRE         -          nup2l1               -              0.032   15.2   1.6     0.049   14.5   1.6   1.2   1   0   0   1   1   1   0 Zinc finger CCCH domain-containing protein 15 OS=Danio rerio OX=7955 GN=zc3h15 PE=1 SV=1
+tr|B0S518|B0S518_DANRE         -          nup2l1               -               0.07   14.0   0.7     0.077   13.9   0.7   1.1   1   0   0   1   1   1   0 Zinc finger matrin-type protein 5 OS=Danio rerio OX=7955 GN=zmat5 PE=4 SV=1
+tr|A0A0R4IH74|A0A0R4IH74_DANRE -          nup2l1               -              0.084   13.8   1.3      0.11   13.3   1.3   1.1   1   0   0   1   1   1   0 Si:ch73-252i11.1 OS=Danio rerio OX=7955 GN=si:ch73-252i11.1 PE=4 SV=3
+sp|Q6NZZ9|RBM22_DANRE          -          nup2l1               -              0.088   13.7   0.5      0.12   13.2   0.5   1.1   1   0   0   1   1   1   0 Pre-mRNA-splicing factor RBM22 OS=Danio rerio OX=7955 GN=rbm22 PE=2 SV=1
+tr|F1Q949|F1Q949_DANRE         -          nup2l1               -               0.11   13.4   1.0      0.11   13.4   1.0   3.8   3   1   1   4   4   4   0 Cleavage and polyadenylation-specific factor 4 OS=Danio rerio OX=7955 GN=cpsf4 PE=1 SV=1
+sp|Q6AXL8|ZMAT5_DANRE          -          nup2l1               -               0.13   13.1   1.2      0.15   13.0   1.2   1.1   1   0   0   1   1   1   0 Zinc finger matrin-type protein 5 OS=Danio rerio OX=7955 GN=zmat5 PE=2 SV=1
+tr|B0S517|B0S517_DANRE         -          nup2l1               -               0.15   13.0   1.3      0.17   12.8   1.3   1.1   1   0   0   1   1   1   0 Zinc finger matrin-type protein 5 OS=Danio rerio OX=7955 GN=zmat5 PE=4 SV=1
+tr|Q08BY7|Q08BY7_DANRE         -          nup2l1               -               0.51   11.2  12.1       2.4    9.0   0.1   3.1   3   0   0   3   3   3   0 Muscleblind-like (Drosophila) OS=Danio rerio OX=7955 GN=mbnl1 PE=2 SV=1
+tr|A0A2R8RWQ9|A0A2R8RWQ9_DANRE -          nup2l1               -               0.54   11.1   2.5      0.71   10.7   2.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=zrsr2 PE=4 SV=1
+tr|A0A2R8QF26|A0A2R8QF26_DANRE -          nup2l1               -               0.57   11.1   0.1      0.91   10.4   0.1   1.3   1   0   0   1   1   1   0 Muscleblind-like-splicing regulator 2 OS=Danio rerio OX=7955 GN=mbnl2 PE=4 SV=1
+tr|B8JL34|B8JL34_DANRE         -          nup2l1               -               0.61   10.9   5.1       0.8   10.6   5.1   1.1   1   0   0   1   1   1   0 Zgc:123010 OS=Danio rerio OX=7955 GN=zgc:123010 PE=1 SV=1
+tr|F1Q5U6|F1Q5U6_DANRE         -          nup2l1               -               0.64   10.9   0.1         1   10.2   0.1   1.3   1   0   0   1   1   1   0 Muscleblind-like-splicing regulator 2 OS=Danio rerio OX=7955 GN=mbnl2 PE=4 SV=1
+tr|A3KPX4|A3KPX4_DANRE         -          nup2l1               -               0.69   10.8   5.3      0.89   10.4   5.3   1.1   1   0   0   1   1   1   0 Protein phosphatase 1, regulatory subunit 10 OS=Danio rerio OX=7955 GN=ppp1r10 PE=1 SV=1
+tr|E7FD06|E7FD06_DANRE         -          nup2l1               -               0.72   10.7  11.4       3.6    8.4   0.1   3.1   3   0   0   3   3   3   0 Muscleblind-like-splicing regulator 1 OS=Danio rerio OX=7955 GN=mbnl1 PE=4 SV=3
+tr|A9UH05|A9UH05_DANRE         -          nup2l1               -                2.2    9.1  12.7       3.4    8.5   0.1   3.1   3   0   0   3   3   3   0 Muscleblind-like protein 1C OS=Danio rerio OX=7955 GN=mbnl1 PE=2 SV=1
+tr|E7F3S4|E7F3S4_DANRE         -          nup2l1               -                6.6    7.5   7.4       4.7    8.0   0.7   2.1   2   0   0   2   2   2   0 Sb:cb81 OS=Danio rerio OX=7955 GN=sb:cb81 PE=4 SV=1
+tr|F1RCP3|F1RCP3_DANRE         -          nup2l1               -                  7    7.5   9.3       1.4    9.8   1.0   2.0   2   0   0   2   2   2   0 Zinc finger protein 36, C3H type-like 1a OS=Danio rerio OX=7955 GN=zfp36l1a PE=4 SV=1
+tr|Q6P3H0|Q6P3H0_DANRE         -          nup2l1               -                7.5    7.4  11.9       1.5    9.7   1.6   2.1   2   0   0   2   2   2   0 Zinc finger protein 36, C3H type-like 1 like OS=Danio rerio OX=7955 GN=zfp36l1b PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:19 2022
+# [ok]

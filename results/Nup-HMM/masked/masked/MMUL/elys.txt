@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7FYF6|F7FYF6_MACMU         -          elys                 -                  0 3030.2   0.0         0 3030.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=AHCTF1 PE=4 SV=1
+tr|F7HQV9|F7HQV9_MACMU         -          elys                 -               0.17   10.0   0.0      0.21    9.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=4 SV=1
+tr|A0A1D5RL45|A0A1D5RL45_MACMU -          elys                 -                0.2    9.8   0.0      0.25    9.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=4 SV=1
+tr|A0A1D5Q9L6|A0A1D5Q9L6_MACMU -          elys                 -               0.23    9.6   0.0      0.29    9.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=4 SV=1
+tr|F7HQV7|F7HQV7_MACMU         -          elys                 -               0.23    9.6   0.0      0.29    9.2   0.0   1.0   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:57 2022
+# [ok]

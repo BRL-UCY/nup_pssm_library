@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DI91|A0A2K3DI91_CHLRE -          nup75                -            3.8e-33  114.7   0.0     1e-15   57.1   0.0   5.2   5   0   0   5   5   5   4 Nuclear pore complex protein Nup85 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g383650v5 PE=3 SV=1
+tr|A8HTE8|A8HTE8_CHLRE         -          nup75                -               0.27    9.5   0.7      0.42    8.8   0.7   1.2   1   0   0   1   1   1   0 Qb-SNARE protein, VTI1-family OS=Chlamydomonas reinhardtii OX=3055 GN=VTI1 PE=3 SV=1
+tr|A0A2K3CY97|A0A2K3CY97_CHLRE -          nup75                -               0.33    9.2   0.1      0.77    8.0   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g624950v5 PE=4 SV=1
+tr|A0A2K3DR40|A0A2K3DR40_CHLRE -          nup75                -               0.38    9.0   0.3      0.45    8.7   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g303183v5 PE=4 SV=1
+tr|A0A2K3D037|A0A2K3D037_CHLRE -          nup75                -               0.38    9.0   0.7      0.61    8.3   0.7   1.2   1   0   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g577500v5 PE=3 SV=1
+tr|A0A2K3DK83|A0A2K3DK83_CHLRE -          nup75                -                1.1    7.5   1.6       1.4    7.1   1.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g335850v5 PE=4 SV=1
+tr|A0A2K3D6X9|A0A2K3D6X9_CHLRE -          nup75                -                1.7    6.9   0.0         3    6.0   0.0   1.3   1   0   0   1   1   1   0 AB hydrolase-1 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g540550v5 PE=4 SV=1
+tr|A0A2K3DWP5|A0A2K3DWP5_CHLRE -          nup75                -                2.3    6.4   0.7       3.5    5.8   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g165550v5 PE=4 SV=1
+tr|A8JFR3|A8JFR3_CHLRE         -          nup75                -                2.5    6.3   6.9       0.9    7.8   0.3   2.5   3   0   0   3   3   3   0 Flagellar associated protein OS=Chlamydomonas reinhardtii OX=3055 GN=FAP118 PE=2 SV=1
+tr|A8JCG0|A8JCG0_CHLRE         -          nup75                -                  3    6.0   0.3       3.6    5.8   0.3   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g337400v5 PE=4 SV=1
+tr|A0A2K3D2Y9|A0A2K3D2Y9_CHLRE -          nup75                -                3.4    5.9   0.5        51    2.0   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g505000v5 PE=4 SV=1
+tr|A0A2K3CW77|A0A2K3CW77_CHLRE -          nup75                -                3.9    5.7   0.1       6.6    4.9   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g688526v5 PE=4 SV=1
+tr|A0A2K3DS62|A0A2K3DS62_CHLRE -          nup75                -                4.4    5.5   0.2        13    3.9   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g245950v5 PE=3 SV=1
+tr|A8HPU4|A8HPU4_CHLRE         -          nup75                -                4.4    5.5   0.0       6.6    4.9   0.0   1.1   1   0   0   1   1   1   0 WD40 repeat-containing protein SMU1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g020400v5 PE=3 SV=1
+tr|A0A2K3D672|A0A2K3D672_CHLRE -          nup75                -                4.5    5.5   0.4       7.5    4.7   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g550500v5 PE=4 SV=1
+tr|A0A2K3CYI5|A0A2K3CYI5_CHLRE -          nup75                -                4.5    5.4   0.0       6.1    5.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g628566v5 PE=4 SV=1
+tr|A0A2K3CUH0|A0A2K3CUH0_CHLRE -          nup75                -                4.9    5.3   0.2       6.8    4.9   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g671500v5 PE=4 SV=1
+tr|A0A2K3D4W1|A0A2K3D4W1_CHLRE -          nup75                -                5.9    5.1   0.0        12    4.1   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g531400v5 PE=4 SV=1
+tr|A0A2K3D656|A0A2K3D656_CHLRE -          nup75                -                  7    4.8   0.8        12    4.1   0.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g551100v5 PE=4 SV=1
+tr|A0A2K3D7P4|A0A2K3D7P4_CHLRE -          nup75                -                7.6    4.7   0.2       7.9    4.7   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467685v5 PE=4 SV=1
+tr|A0A2K3DH33|A0A2K3DH33_CHLRE -          nup75                -                7.6    4.7   0.1        15    3.7   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g368250v5 PE=4 SV=1
+tr|Q66YD0|Q66YD0_CHLRE         -          nup75                -                8.2    4.6   2.7        12    4.0   2.7   1.3   1   0   0   1   1   1   0 Chloroplast vesicle-inducing protein in plastids 1 OS=Chlamydomonas reinhardtii OX=3055 GN=VIPP1 PE=2 SV=1
+tr|A8IW47|A8IW47_CHLRE         -          nup75                -                8.4    4.5   0.6        13    3.9   0.1   1.4   1   1   0   1   1   1   0 Vacuolar ATP synthase subunit E OS=Chlamydomonas reinhardtii OX=3055 GN=ATPvE PE=3 SV=1
+tr|A0A2K3E8G7|A0A2K3E8G7_CHLRE -          nup75                -                9.3    4.4   0.8       9.5    4.4   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g065092v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:27:57 2022
+# [ok]

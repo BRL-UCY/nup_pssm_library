@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0S6K6|G0S6K6_CHATD -          nup358               -            7.9e-45  151.2   0.0   9.2e-45  151.0   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein 1-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026550 PE=4 SV=1
+sp|G0SDP9|NU152_CHATD  -          nup358               -            8.8e-07   25.0   0.0   1.2e-06   24.6   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP152 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP152 PE=3 SV=1
+sp|G0S8I1|NUP56_CHATD  -          nup358               -            6.6e-05   18.8   0.3     0.044    9.4   0.1   2.0   2   0   0   2   2   2   2 Nucleoporin NUP56 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP56 PE=3 SV=1
+tr|G0S4F8|G0S4F8_CHATD -          nup358               -            0.00012   17.9   0.2      0.77    5.3   0.0   3.8   4   0   0   4   4   4   3 Anaphase-promoting complex subunit-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0022660 PE=4 SV=1
+tr|G0RXW2|G0RXW2_CHATD -          nup358               -              0.011   11.4   0.0     0.027   10.1   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0004500 PE=4 SV=1
+tr|G0SFM7|G0SFM7_CHATD -          nup358               -               0.23    7.0   0.0       0.3    6.6   0.0   1.0   1   0   0   1   1   1   0 PB1 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0071400 PE=4 SV=1
+tr|G0S7R7|G0S7R7_CHATD -          nup358               -               0.31    6.6   0.6      0.69    5.4   0.0   1.7   2   1   0   2   2   2   0 ANAPC8 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0028570 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup358.txt --max --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:34:32 2022
+# [ok]

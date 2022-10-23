@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AZ42|A0A509AZ42_PLABA -          gle1                 -             0.0022   14.4   0.5      0.36    7.1   0.0   2.0   2   0   0   2   2   2   2 mRNA export factor GLE1 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1407500 PE=3 SV=1
+tr|A0A509AMX0|A0A509AMX0_PLABA -          gle1                 -             0.0057   13.1  54.2     0.008   12.6  54.2   1.2   1   0   0   1   1   1   1 Peptidyl-prolyl cis-trans isomerase, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1020200 PE=4 SV=1
+tr|A0A509AMV9|A0A509AMV9_PLABA -          gle1                 -              0.083    9.2  45.9     0.015   11.7  42.4   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1145400 PE=4 SV=1
+tr|A0A509AQH8|A0A509AQH8_PLABA -          gle1                 -               0.18    8.1  24.3      0.26    7.6  24.3   1.2   1   0   0   1   1   1   0 PUB domain-containing protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1343900 PE=4 SV=1
+tr|A0A509AKM4|A0A509AKM4_PLABA -          gle1                 -               0.31    7.3  20.2      0.49    6.7  20.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0806400 PE=4 SV=1
+tr|A0A509AF01|A0A509AF01_PLABA -          gle1                 -               0.58    6.4  43.8      0.92    5.8  43.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0300600 PE=4 SV=1
+tr|A0A509ANP1|A0A509ANP1_PLABA -          gle1                 -               0.63    6.3  54.3       5.1    3.3   0.0   2.3   2   0   0   2   2   2   0 DNA repair and recombination protein RAD54, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1226800 PE=4 SV=1
+tr|A0A509AGI7|A0A509AGI7_PLABA -          gle1                 -                1.1    5.5  33.1       1.4    5.2  33.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0519100 PE=4 SV=1
+tr|A0A509ADG4|A0A509ADG4_PLABA -          gle1                 -                1.2    5.4  50.6       1.3    5.3  50.6   1.0   1   0   0   1   1   1   0 ELM2 domain-containing protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0205000 PE=4 SV=1
+tr|A0A509AJ62|A0A509AJ62_PLABA -          gle1                 -                2.6    4.3  29.7       3.2    4.0  29.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0822800 PE=4 SV=1
+tr|A0A509ABG9|A0A509ABG9_PLABA -          gle1                 -                6.9    2.9  40.1       3.8    3.7  38.5   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0206700 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/PBERA/gle1.txt --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:39:17 2022
+# [ok]

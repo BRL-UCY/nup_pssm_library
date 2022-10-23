@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q95Y15|Q95Y15_CAEEL         -          nup154               -           1.4e-269  898.2   0.0  1.9e-269  897.8   0.0   1.1   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=5
+tr|Q95Y13|Q95Y13_CAEEL         -          nup154               -           1.4e-102  344.9   0.0  1.6e-102  344.7   0.0   1.0   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+tr|M1Z882|M1Z882_CAEEL         -          nup154               -            1.6e-63  215.5   0.1   1.8e-63  215.3   0.1   1.0   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+tr|G5EF32|G5EF32_CAEEL         -          nup154               -             0.0025   16.1   0.0       7.4    4.6   0.0   4.4   5   0   0   5   5   5   1 Nematode Polyprotein Allergen related OS=Caenorhabditis elegans OX=6239 GN=npa-1 PE=1 SV=1
+sp|P34343|NU133_CAEEL          -          nup154               -               0.15   10.2   0.1      0.22    9.6   0.1   1.1   1   0   0   1   1   1   0 Nuclear pore complex protein 15 OS=Caenorhabditis elegans OX=6239 GN=npp-15 PE=3 SV=4
+tr|Q20262|Q20262_CAEEL         -          nup154               -               0.84    7.7   0.0       1.2    7.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F41C3.6 PE=4 SV=3
+sp|P34289|YKO1_CAEEL           -          nup154               -               0.86    7.7   0.1         1    7.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein C05B5.1 OS=Caenorhabditis elegans OX=6239 GN=C05B5.1 PE=3 SV=3
+tr|Q9XUB7|Q9XUB7_CAEEL         -          nup154               -                3.3    5.7   0.0       4.2    5.4   0.0   1.1   1   0   0   1   1   1   0 Fatty Acid/Retinol binding protein OS=Caenorhabditis elegans OX=6239 GN=far-6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:01:14 2022
+# [ok]

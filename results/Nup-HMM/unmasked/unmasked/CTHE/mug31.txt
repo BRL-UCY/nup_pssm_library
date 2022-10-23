@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S7R3|POM34_CHATD  -          mug31                -            6.9e-50  168.0   5.6   6.9e-50  168.0   5.6   2.7   2   2   0   2   2   2   1 Nucleoporin POM34 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=POM34 PE=3 SV=2
+tr|G0SDE9|G0SDE9_CHATD -          mug31                -                  2    6.5   8.7      0.88    7.7   1.2   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0051540 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/mug31.txt --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:36:38 2022
+# [ok]

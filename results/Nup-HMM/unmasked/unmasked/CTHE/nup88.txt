@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S4F3|NUP82_CHATD  -          nup88                -           3.3e-150  500.2  32.8   9.5e-77  257.4  12.7   5.7   3   2   1   4   4   4   4 Nucleoporin NUP82 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP82 PE=1 SV=1
+tr|G0SFZ7|G0SFZ7_CHATD -          nup88                -            2.1e-05   21.6   0.1    0.0031   14.5   0.0   2.2   2   0   0   2   2   2   2 Putative ribosome assembly protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072720 PE=4 SV=1
+tr|G0SE76|G0SE76_CHATD -          nup88                -            0.00027   17.9   0.2     0.038   10.9   0.0   2.6   3   0   0   3   3   3   2 Target of rapamycin complex subunit LST8 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062750 PE=3 SV=1
+tr|G0RXW4|G0RXW4_CHATD -          nup88                -            0.00056   16.9   0.0   0.00056   16.9   0.0   2.9   3   0   0   3   3   3   1 WD40 repeat-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0004520 PE=4 SV=1
+tr|G0S9U0|G0S9U0_CHATD -          nup88                -             0.0011   15.9   0.0    0.0038   14.2   0.0   1.8   2   1   1   3   3   3   1 Putative guanine nucleotide-binding protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0047160 PE=1 SV=1
+tr|G0S0H2|G0S0H2_CHATD -          nup88                -             0.0018   15.2   0.0      0.14    9.0   0.0   2.4   1   1   1   2   2   2   2 WD40 repeat-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0010010 PE=4 SV=1
+tr|G0SFI7|G0SFI7_CHATD -          nup88                -               0.07   10.0  18.3     0.055   10.3   4.7   4.1   3   1   1   4   4   4   0 Coronin OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070970 PE=3 SV=1
+tr|G0S6D5|G0S6D5_CHATD -          nup88                -                0.5    7.2   7.1       6.2    3.5   0.0   3.5   4   0   0   4   4   4   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0034530 PE=4 SV=1
+tr|G0S9J1|G0S9J1_CHATD -          nup88                -               0.76    6.6   4.8       9.7    2.9   0.8   3.0   2   1   0   3   3   3   0 Putative actin cortical patch component protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0046070 PE=4 SV=1
+tr|G0SBN5|G0SBN5_CHATD -          nup88                -                3.8    4.2  10.1       4.4    4.0  10.1   1.1   1   0   0   1   1   1   0 Tubulin-specific chaperone A OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0054210 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:36:38 2022
+# [ok]

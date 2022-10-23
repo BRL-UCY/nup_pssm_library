@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8IQV9|NU205_DROME          -          nup205               -                  0 2427.8  37.0         0 2427.6  37.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Drosophila melanogaster OX=7227 GN=Nup205 PE=2 SV=1
+tr|Q9VBI1|Q9VBI1_DROME         -          nup205               -              0.055   10.5   0.5     0.068   10.2   0.5   1.1   1   0   0   1   1   1   0 DNA replication complex GINS protein SLD5 OS=Drosophila melanogaster OX=7227 GN=Sld5 PE=1 SV=1
+tr|Q9V455|Q9V455_DROME         -          nup205               -               0.86    6.6   1.1       1.3    6.0   1.1   1.2   1   0   0   1   1   1   0 Importin subunit alpha OS=Drosophila melanogaster OX=7227 GN=Kap-alpha3 PE=1 SV=1
+tr|Q9VF15|Q9VF15_DROME         -          nup205               -                1.3    6.0   0.0       1.7    5.6   0.0   1.0   1   0   0   1   1   1   0 GEO09476p1 OS=Drosophila melanogaster OX=7227 GN=glob1 PE=1 SV=1
+tr|M9NGG3|M9NGG3_DROME         -          nup205               -                2.2    5.2   0.2       3.8    4.5   0.2   1.2   1   0   0   1   1   1   0 Cyclic nucleotide-gated ion channel-like, isoform D OS=Drosophila melanogaster OX=7227 GN=Cngl PE=4 SV=1
+sp|Q01068|ESM3_DROME           -          nup205               -                2.8    4.9   0.5       3.8    4.4   0.5   1.2   1   0   0   1   1   1   0 Enhancer of split m3 protein OS=Drosophila melanogaster OX=7227 GN=E(spl)m3-HLH PE=1 SV=1
+tr|Q9VC29|Q9VC29_DROME         -          nup205               -                3.4    4.6   0.0       4.4    4.2   0.0   1.1   1   0   0   1   1   1   0 Epidermal stripes and patches, isoform A OS=Drosophila melanogaster OX=7227 GN=Esp PE=2 SV=1
+tr|Q9VTF1|Q9VTF1_DROME         -          nup205               -                3.6    4.5   5.1         4    4.4   5.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32071 PE=4 SV=2
+tr|M9PEK0|M9PEK0_DROME         -          nup205               -                3.8    4.5   0.1       7.2    3.5   0.1   1.4   1   0   0   1   1   1   0 Melted, isoform D OS=Drosophila melanogaster OX=7227 GN=melt PE=4 SV=1
+sp|Q9VS24|MELT_DROME           -          nup205               -                3.8    4.4   0.1       7.2    3.5   0.1   1.4   1   0   0   1   1   1   0 Protein melted OS=Drosophila melanogaster OX=7227 GN=melt PE=1 SV=2
+sp|O46077|OR2A_DROME           -          nup205               -                4.4    4.2   0.2       5.3    4.0   0.2   1.0   1   0   0   1   1   1   0 Odorant receptor 2a OS=Drosophila melanogaster OX=7227 GN=Or2a PE=2 SV=2
+sp|A1Z6K7|EI3F2_DROME          -          nup205               -                4.5    4.2   0.1       5.8    3.8   0.1   1.1   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit F-2 OS=Drosophila melanogaster OX=7227 GN=eIF3f2 PE=3 SV=2
+sp|Q9VPL3|RM10_DROME           -          nup205               -                4.7    4.1   0.2       6.9    3.6   0.2   1.1   1   0   0   1   1   1   0 39S ribosomal protein L10, mitochondrial OS=Drosophila melanogaster OX=7227 GN=mRpL10 PE=2 SV=1
+tr|Q9VC70|Q9VC70_DROME         -          nup205               -                4.8    4.1   0.3       8.7    3.3   0.3   1.5   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13617 PE=4 SV=1
+tr|A0A0B4LFI7|A0A0B4LFI7_DROME -          nup205               -                  5    4.1   0.6       7.3    3.5   0.6   1.1   1   0   0   1   1   1   0 NADPH oxidase, isoform B OS=Drosophila melanogaster OX=7227 GN=Nox PE=4 SV=1
+tr|A8DWJ8|A8DWJ8_DROME         -          nup205               -                5.2    4.0   0.6       7.7    3.4   0.6   1.1   1   0   0   1   1   1   0 NADPH oxidase, isoform C OS=Drosophila melanogaster OX=7227 GN=Nox PE=4 SV=1
+tr|A0A0B4KHN3|A0A0B4KHN3_DROME -          nup205               -                5.3    4.0   3.9        18    2.2   3.9   1.8   1   0   0   1   1   1   0 Scribble, isoform S OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|Q9VX93|Q9VX93_DROME         -          nup205               -                5.4    3.9   2.4       5.5    3.9   2.4   1.1   1   0   0   1   1   1   0 GEO02689p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13000 PE=2 SV=1
+tr|Q9W1K2|Q9W1K2_DROME         -          nup205               -                  6    3.8  12.1       7.1    3.6  12.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12491 PE=4 SV=1
+sp|Q9VG17|CP304_DROME          -          nup205               -                6.1    3.8   0.0       7.8    3.4   0.0   1.0   1   0   0   1   1   1   0 Probable cytochrome P450 304a1 OS=Drosophila melanogaster OX=7227 GN=Cyp304a1 PE=2 SV=2
+tr|Q9VRR9|Q9VRR9_DROME         -          nup205               -                6.4    3.7   0.3       9.6    3.1   0.3   1.2   1   0   0   1   1   1   0 LP07668p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10479 PE=2 SV=1
+tr|M9PEA4|M9PEA4_DROME         -          nup205               -                6.5    3.7   0.3       9.6    3.1   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10479 PE=4 SV=1
+tr|Q9VR60|Q9VR60_DROME         -          nup205               -                7.1    3.5   0.2        13    2.7   0.2   1.3   1   0   0   1   1   1   0 LD42024p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17600 PE=2 SV=2
+tr|M9PJS6|M9PJS6_DROME         -          nup205               -                7.1    3.5   0.2        13    2.7   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17600 PE=4 SV=1
+tr|Q9VH84|Q9VH84_DROME         -          nup205               -                7.4    3.5   0.6        10    3.0   0.6   1.1   1   0   0   1   1   1   0 Pinin, isoform A OS=Drosophila melanogaster OX=7227 GN=Pnn PE=1 SV=1
+tr|Q0E996|Q0E996_DROME         -          nup205               -                7.4    3.5   0.2        15    2.5   0.2   1.4   1   0   0   1   1   1   0 FI23508p1 OS=Drosophila melanogaster OX=7227 GN=NAT1 PE=1 SV=1
+tr|A8JQW3|A8JQW3_DROME         -          nup205               -                7.4    3.5   0.6        10    3.0   0.6   1.1   1   0   0   1   1   1   0 Pinin, isoform B OS=Drosophila melanogaster OX=7227 GN=Pnn PE=1 SV=1
+tr|M9NGF1|M9NGF1_DROME         -          nup205               -                7.6    3.4   1.5       6.9    3.6   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG43181 PE=4 SV=1
+tr|Q9V3N5|Q9V3N5_DROME         -          nup205               -                7.8    3.4   0.0       9.5    3.1   0.0   1.1   1   0   0   1   1   1   0 FI21292p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10793 PE=2 SV=1
+tr|Q9VNS4|Q9VNS4_DROME         -          nup205               -                7.8    3.4  12.4       8.6    3.3  12.4   1.0   1   0   0   1   1   1   0 RE45259p OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE59202 PE=2 SV=1
+tr|E1JIZ2|E1JIZ2_DROME         -          nup205               -                7.9    3.4   3.9        23    1.8   3.9   1.7   1   0   0   1   1   1   0 Scribble, isoform M OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|E1JIZ1|E1JIZ1_DROME         -          nup205               -                7.9    3.4   3.8        22    1.9   3.8   1.7   1   0   0   1   1   1   0 Scribble, isoform J OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|A0A0B4K6M4|A0A0B4K6M4_DROME -          nup205               -                8.1    3.4   3.9        24    1.8   3.9   1.7   1   0   0   1   1   1   0 Scribble, isoform O OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|Q9VY68|Q9VY68_DROME         -          nup205               -                8.1    3.4   0.2        11    2.9   0.2   1.1   1   0   0   1   1   1   0 AT20767p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11068 PE=2 SV=1
+tr|Q7KUG7|Q7KUG7_DROME         -          nup205               -                8.4    3.3   0.5       8.5    3.3   0.5   1.0   1   0   0   1   1   1   0 FI15601p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG33267 PE=2 SV=2
+tr|Q8SZX5|Q8SZX5_DROME         -          nup205               -                8.5    3.3   0.0        12    2.8   0.0   1.1   1   0   0   1   1   1   0 LP03268p OS=Drosophila melanogaster OX=7227 GN=CT19307 PE=2 SV=1
+tr|E1JIZ0|E1JIZ0_DROME         -          nup205               -                8.5    3.3   3.9        24    1.8   3.9   1.7   1   0   0   1   1   1   0 Scribble, isoform L OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|A0A0B4K7W1|A0A0B4K7W1_DROME -          nup205               -                8.5    3.3   3.9        24    1.8   3.9   1.7   1   0   0   1   1   1   0 Scribble, isoform Q OS=Drosophila melanogaster OX=7227 GN=scrib PE=1 SV=1
+tr|M9MSF6|M9MSF6_DROME         -          nup205               -                8.5    3.3   0.0        12    2.8   0.0   1.2   1   0   0   1   1   1   0 DUF4806 domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42854 PE=4 SV=1
+tr|A0A0B4KGJ1|A0A0B4KGJ1_DROME -          nup205               -                8.7    3.3   2.7        11    2.9   2.7   1.0   1   0   0   1   1   1   0 Septin 2, isoform B OS=Drosophila melanogaster OX=7227 GN=Sep2 PE=3 SV=1
+sp|Q9VVE2|ROGDI_DROME          -          nup205               -                8.7    3.2   0.0        14    2.6   0.0   1.2   1   0   0   1   1   1   0 Protein rogdi OS=Drosophila melanogaster OX=7227 GN=rogdi PE=2 SV=2
+tr|Q8INY1|Q8INY1_DROME         -          nup205               -                9.1    3.2   1.9        19    2.1   1.9   1.4   1   0   0   1   1   1   0 Suppressor of cytokine signaling at 36E, isoform D OS=Drosophila melanogaster OX=7227 GN=Socs36E PE=4 SV=2
+tr|X2JDM7|X2JDM7_DROME         -          nup205               -                9.4    3.1   0.2        15    2.5   0.2   1.2   1   0   0   1   1   1   0 Guanine nucleotide-binding protein subunit gamma OS=Drosophila melanogaster OX=7227 GN=Ggamma30A PE=1 SV=1
+tr|Q9VR51|Q9VR51_DROME         -          nup205               -                9.5    3.1   0.1        13    2.7   0.1   1.0   1   0   0   1   1   1   0 RE68036p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14615 PE=1 SV=1
+tr|Q6IIJ8|Q6IIJ8_DROME         -          nup205               -                9.7    3.1   0.1        12    2.8   0.1   1.0   1   0   0   1   1   1   0 HDC17852 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG43138 PE=4 SV=1
+sp|Q9VVY3|GBS76_DROME          -          nup205               -                9.8    3.1   0.3        17    2.3   0.3   1.2   1   0   0   1   1   1   0 Glycogen-binding subunit 76A OS=Drosophila melanogaster OX=7227 GN=Gbs-76A PE=1 SV=1
+tr|M9PCY7|M9PCY7_DROME         -          nup205               -                9.8    3.1   0.3        17    2.3   0.3   1.2   1   0   0   1   1   1   0 Glycogen binding subunit 76A, isoform B OS=Drosophila melanogaster OX=7227 GN=Gbs-76A PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:59:57 2022
+# [ok]

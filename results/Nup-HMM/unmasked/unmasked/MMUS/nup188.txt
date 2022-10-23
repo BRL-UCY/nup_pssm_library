@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6ZQH8|NU188_MOUSE  -          nup188               -                  0 2939.1  19.0         0 2938.9  19.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|A2AWI5|A2AWI5_MOUSE -          nup188               -              2e-49  169.2   1.5   2.3e-49  169.0   1.5   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|J3JSA4|J3JSA4_MOUSE -          nup188               -            1.5e-43  149.7   0.4   1.8e-43  149.5   0.4   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F2Z4A7|F2Z4A7_MOUSE -          nup188               -            5.3e-43  147.9   0.5     6e-43  147.7   0.5   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F7BCN9|F7BCN9_MOUSE -          nup188               -            7.1e-41  140.9   0.5     8e-41  140.7   0.5   1.0   1   0   0   1   1   1   1 Predicted gene, 28038 (Fragment) OS=Mus musculus OX=10090 GN=Gm28038 PE=4 SV=2
+sp|P09920|CSF3_MOUSE   -          nup188               -              0.066   11.7   0.1     0.079   11.4   0.1   1.1   1   0   0   1   1   1   0 Granulocyte colony-stimulating factor OS=Mus musculus OX=10090 GN=Csf3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup188.txt --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:20:54 2022
+# [ok]

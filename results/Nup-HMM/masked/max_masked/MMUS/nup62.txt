@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q63850|NUP62_MOUSE          -          nup62                -            1.3e-83  282.7   0.2   1.3e-83  282.7   0.2   2.4   3   0   0   3   3   3   1 Nuclear pore glycoprotein p62 OS=Mus musculus OX=10090 GN=Nup62 PE=1 SV=2
+tr|A2AG10|A2AG10_MOUSE         -          nup62                -            3.9e-54  185.6   0.9   4.8e-54  185.3   0.9   1.0   1   0   0   1   1   1   1 Nucleoporin 62 C-terminal-like OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG11|A2AG11_MOUSE         -          nup62                -            8.2e-41  141.7   0.2   9.7e-41  141.5   0.2   1.0   1   0   0   1   1   1   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=1 SV=1
+tr|A2AG12|A2AG12_MOUSE         -          nup62                -            5.3e-21   76.5   0.0   5.9e-21   76.4   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=4 SV=1
+tr|A2RSX9|A2RSX9_MOUSE         -          nup62                -                2.5    8.5   0.7       9.2    6.6   0.2   1.9   2   0   0   2   2   2   0 ADP-ribosylation factor interacting protein 1 OS=Mus musculus OX=10090 GN=Arfip1 PE=1 SV=1
+tr|G5E8V9|G5E8V9_MOUSE         -          nup62                -                2.8    8.3   0.5        10    6.4   0.2   1.8   2   0   0   2   2   2   0 ADP-ribosylation factor-interacting protein 1 OS=Mus musculus OX=10090 GN=Arfip1 PE=1 SV=1
+tr|A3KFY5|A3KFY5_MOUSE         -          nup62                -                3.9    7.8   0.1       5.1    7.5   0.1   1.1   1   0   0   1   1   1   0 Tektin-2 (Fragment) OS=Mus musculus OX=10090 GN=Tekt2 PE=1 SV=1
+tr|E9QAY5|E9QAY5_MOUSE         -          nup62                -                  4    7.8   0.2         6    7.2   0.2   1.2   1   0   0   1   1   1   0 Predicted gene, 37240 OS=Mus musculus OX=10090 GN=Gm37240 PE=4 SV=1
+tr|E9Q3G5|E9Q3G5_MOUSE         -          nup62                -                4.2    7.7   0.6        10    6.5   0.2   1.7   2   0   0   2   2   2   0 ADP-ribosylation factor interacting protein 1 OS=Mus musculus OX=10090 GN=Arfip1 PE=1 SV=1
+tr|F6RJV6|F6RJV6_MOUSE         -          nup62                -                6.1    7.2   0.0        91    3.3   0.0   1.9   2   0   0   2   2   2   0 LanC-like protein 2 (Fragment) OS=Mus musculus OX=10090 GN=Lancl2 PE=1 SV=1
+sp|Q9JJK2|LANC2_MOUSE          -          nup62                -                6.4    7.1   0.0        93    3.3   0.0   1.9   2   0   0   2   2   2   0 LanC-like protein 2 OS=Mus musculus OX=10090 GN=Lancl2 PE=1 SV=1
+tr|A0A1X7SB79|A0A1X7SB79_MOUSE -          nup62                -                7.3    6.9   0.1       9.2    6.6   0.1   1.1   1   0   0   1   1   1   0 Izumo sperm-egg fusion protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Izumo4 PE=1 SV=1
+sp|D3Z690|IZUM4_MOUSE          -          nup62                -                8.1    6.8   0.1        10    6.4   0.1   1.1   1   0   0   1   1   1   0 Izumo sperm-egg fusion protein 4 OS=Mus musculus OX=10090 GN=Izumo4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:48:08 2022
+# [ok]

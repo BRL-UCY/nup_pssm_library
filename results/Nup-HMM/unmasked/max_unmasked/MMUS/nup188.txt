@@ -1,0 +1,57 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6ZQH8|NU188_MOUSE          -          nup188               -                  0 2939.1  19.0         0 2938.9  19.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|A2AWI5|A2AWI5_MOUSE         -          nup188               -              2e-49  169.2   1.5   2.3e-49  169.0   1.5   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|J3JSA4|J3JSA4_MOUSE         -          nup188               -            1.5e-43  149.7   0.4   1.8e-43  149.5   0.4   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F2Z4A7|F2Z4A7_MOUSE         -          nup188               -            5.3e-43  147.9   0.5     6e-43  147.7   0.5   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F7BCN9|F7BCN9_MOUSE         -          nup188               -            7.1e-41  140.9   0.5     8e-41  140.7   0.5   1.0   1   0   0   1   1   1   1 Predicted gene, 28038 (Fragment) OS=Mus musculus OX=10090 GN=Gm28038 PE=4 SV=2
+tr|B9EJ54|B9EJ54_MOUSE         -          nup188               -            5.7e-07   28.5  12.9   9.4e-07   27.7   0.1   3.7   4   0   0   4   4   4   2 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          nup188               -            6.5e-07   28.3  12.9   9.7e-07   27.7   0.1   3.7   4   0   0   4   4   4   2 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+sp|P09920|CSF3_MOUSE           -          nup188               -              0.066   11.7   0.1     0.079   11.4   0.1   1.1   1   0   0   1   1   1   0 Granulocyte colony-stimulating factor OS=Mus musculus OX=10090 GN=Csf3 PE=1 SV=1
+sp|Q9DCF9|SSRG_MOUSE           -          nup188               -              0.077   11.5   0.0     0.097   11.1   0.0   1.0   1   0   0   1   1   1   0 Translocon-associated protein subunit gamma OS=Mus musculus OX=10090 GN=Ssr3 PE=1 SV=1
+tr|E9PXA7|E9PXA7_MOUSE         -          nup188               -               0.24    9.8   0.4         1    7.8   0.0   1.7   1   1   0   2   2   2   0 Cytosolic carboxypeptidase 1 OS=Mus musculus OX=10090 GN=Agtpbp1 PE=1 SV=1
+tr|A0A1W2P7Y4|A0A1W2P7Y4_MOUSE -          nup188               -                1.1    7.6   2.2       1.1    7.6   2.2   1.1   1   0   0   1   1   1   0 Ral GTPase-activating protein subunit alpha-1 (Fragment) OS=Mus musculus OX=10090 GN=Ralgapa1 PE=1 SV=1
+tr|F7A0X7|F7A0X7_MOUSE         -          nup188               -                1.2    7.5   0.6       1.7    7.0   0.6   1.1   1   0   0   1   1   1   0 MMS19 nucleotide excision repair protein homolog (Fragment) OS=Mus musculus OX=10090 GN=Mms19 PE=1 SV=1
+sp|P61202|CSN2_MOUSE           -          nup188               -                1.4    7.3   1.3         2    6.8   1.3   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 OS=Mus musculus OX=10090 GN=Cops2 PE=1 SV=1
+tr|E9PX07|E9PX07_MOUSE         -          nup188               -                1.4    7.3   2.1       1.9    6.9   2.1   1.1   1   0   0   1   1   1   0 Cytosolic carboxypeptidase 1 (Fragment) OS=Mus musculus OX=10090 GN=Agtpbp1 PE=1 SV=2
+tr|Q3TU36|Q3TU36_MOUSE         -          nup188               -                1.6    7.1   1.4       3.1    6.1   0.5   1.9   1   1   1   2   2   2   0 RAP1, GTP-GDP dissociation stimulator 1 OS=Mus musculus OX=10090 GN=Rap1gds1 PE=1 SV=1
+tr|E9Q912|E9Q912_MOUSE         -          nup188               -                1.7    7.0   1.4       3.1    6.1   0.5   1.9   1   1   1   2   2   2   0 RAP1, GTP-GDP dissociation stimulator 1 OS=Mus musculus OX=10090 GN=Rap1gds1 PE=1 SV=1
+tr|F7C9N6|F7C9N6_MOUSE         -          nup188               -                2.5    6.4   0.5       3.8    5.8   0.5   1.2   1   0   0   1   1   1   0 MMS19 nucleotide excision repair protein homolog (Fragment) OS=Mus musculus OX=10090 GN=Mms19 PE=1 SV=1
+sp|Q8BZB3|TM266_MOUSE          -          nup188               -                2.8    6.3   0.1       3.9    5.8   0.1   1.1   1   0   0   1   1   1   0 Transmembrane protein 266 OS=Mus musculus OX=10090 GN=Tmem266 PE=1 SV=3
+sp|Q9D071|MMS19_MOUSE          -          nup188               -                2.9    6.2   0.5       4.7    5.5   0.5   1.2   1   0   0   1   1   1   0 MMS19 nucleotide excision repair protein homolog OS=Mus musculus OX=10090 GN=Mms19 PE=1 SV=1
+tr|G3UWE9|G3UWE9_MOUSE         -          nup188               -                3.3    6.0   0.0       3.2    6.1   0.0   1.0   1   0   0   1   1   1   0 Microcephalin OS=Mus musculus OX=10090 GN=Mcph1 PE=1 SV=1
+tr|A0A0G2JEU6|A0A0G2JEU6_MOUSE -          nup188               -                  5    5.5   0.2       6.7    5.0   0.2   1.1   1   0   0   1   1   1   0 Rho guanine nucleotide exchange factor 9 (Fragment) OS=Mus musculus OX=10090 GN=Arhgef9 PE=1 SV=1
+tr|A0A0R4J079|A0A0R4J079_MOUSE -          nup188               -                5.6    5.3   0.1       9.4    4.5   0.1   1.3   1   0   0   1   1   1   0 Acyl-Coenzyme A binding domain containing 3, isoform CRA_b OS=Mus musculus OX=10090 GN=Acbd3 PE=1 SV=1
+tr|H3BL43|H3BL43_MOUSE         -          nup188               -                6.1    5.2   0.0       7.3    4.9   0.0   1.0   1   0   0   1   1   1   0 DCC-interacting protein 13-beta (Fragment) OS=Mus musculus OX=10090 GN=Appl2 PE=1 SV=1
+tr|A0A0G2JG45|A0A0G2JG45_MOUSE -          nup188               -                6.4    5.1   0.0       8.7    4.6   0.0   1.1   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 12-like protein (Fragment) OS=Mus musculus OX=10090 GN=Med12l PE=4 SV=1
+sp|Q8BMP6|GCP60_MOUSE          -          nup188               -                6.7    5.0   0.1        11    4.4   0.1   1.3   1   0   0   1   1   1   0 Golgi resident protein GCP60 OS=Mus musculus OX=10090 GN=Acbd3 PE=1 SV=3
+tr|A0A1L1SS93|A0A1L1SS93_MOUSE -          nup188               -                6.8    5.0   3.1       9.1    4.6   3.1   1.1   1   0   0   1   1   1   0 Tripartite motif-containing protein 6 OS=Mus musculus OX=10090 GN=Trim6 PE=1 SV=1
+tr|A0A0U1RNL5|A0A0U1RNL5_MOUSE -          nup188               -                6.8    5.0   0.0       6.9    5.0   0.0   1.0   1   0   0   1   1   1   0 Hsp70-binding protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Hspbp1 PE=1 SV=1
+sp|Q9ER47|KCNH7_MOUSE          -          nup188               -                7.2    4.9   0.0        11    4.3   0.0   1.2   1   0   0   1   1   1   0 Potassium voltage-gated channel subfamily H member 7 OS=Mus musculus OX=10090 GN=Kcnh7 PE=1 SV=2
+tr|D3Z119|D3Z119_MOUSE         -          nup188               -                7.4    4.9   0.0        11    4.3   0.0   1.2   1   0   0   1   1   1   0 Islet cell autoantigen 1 OS=Mus musculus OX=10090 GN=Ica1 PE=1 SV=1
+tr|E9PX19|E9PX19_MOUSE         -          nup188               -                7.6    4.8   0.2        11    4.3   0.2   1.1   1   0   0   1   1   1   0 Microcephalin OS=Mus musculus OX=10090 GN=Mcph1 PE=1 SV=1
+tr|A0A1L1SSD1|A0A1L1SSD1_MOUSE -          nup188               -                7.7    4.8   0.3       8.2    4.7   0.3   1.0   1   0   0   1   1   1   0 Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A OS=Mus musculus OX=10090 GN=Stt3a PE=4 SV=1
+tr|A0A286YDT7|A0A286YDT7_MOUSE -          nup188               -                7.9    4.8   3.3       7.9    4.8   3.3   1.0   1   0   0   1   1   1   0 Rho guanine nucleotide exchange factor 33 (Fragment) OS=Mus musculus OX=10090 GN=Arhgef33 PE=1 SV=1
+tr|D3YZJ8|D3YZJ8_MOUSE         -          nup188               -                7.9    4.8   0.0       8.9    4.6   0.0   1.0   1   0   0   1   1   1   0 Semaphorin-6A (Fragment) OS=Mus musculus OX=10090 GN=Sema6a PE=1 SV=1
+sp|Q6GYP7|RGPA1_MOUSE          -          nup188               -                  8    4.8   1.8        14    4.0   1.8   1.3   1   0   0   1   1   1   0 Ral GTPase-activating protein subunit alpha-1 OS=Mus musculus OX=10090 GN=Ralgapa1 PE=1 SV=1
+sp|Q8C0Q3|TTC34_MOUSE          -          nup188               -                8.2    4.7   0.3        25    3.1   0.1   1.6   1   1   1   2   2   2   0 Tetratricopeptide repeat protein 34 OS=Mus musculus OX=10090 GN=Ttc34 PE=2 SV=2
+tr|A0A1W2P712|A0A1W2P712_MOUSE -          nup188               -                8.3    4.7   1.8        14    4.0   1.8   1.3   1   0   0   1   1   1   0 Ral GTPase-activating protein subunit alpha-1 OS=Mus musculus OX=10090 GN=Ralgapa1 PE=1 SV=1
+tr|A0A1W2P832|A0A1W2P832_MOUSE -          nup188               -                8.3    4.7   1.8        14    4.0   1.8   1.3   1   0   0   1   1   1   0 Ral GTPase-activating protein subunit alpha-1 OS=Mus musculus OX=10090 GN=Ralgapa1 PE=1 SV=1
+tr|A0A140LJF1|A0A140LJF1_MOUSE -          nup188               -                8.5    4.7   0.1        10    4.4   0.1   1.0   1   0   0   1   1   1   0 COUP transcription factor 2 (Fragment) OS=Mus musculus OX=10090 GN=Nr2f2 PE=1 SV=1
+tr|B1AXQ4|B1AXQ4_MOUSE         -          nup188               -                8.6    4.7   1.4        10    4.4   1.4   1.0   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 5 (Fragment) OS=Mus musculus OX=10090 GN=Zbtb5 PE=1 SV=8
+tr|F7BG11|F7BG11_MOUSE         -          nup188               -                8.7    4.7   0.0       9.1    4.6   0.0   1.1   1   0   0   1   1   1   0 Islet cell autoantigen 1 (Fragment) OS=Mus musculus OX=10090 GN=Ica1 PE=1 SV=1
+tr|Q9DAY6|Q9DAY6_MOUSE         -          nup188               -                8.7    4.6   0.1        11    4.3   0.1   1.0   1   0   0   1   1   1   0 MCG16556, isoform CRA_a OS=Mus musculus OX=10090 GN=Yae1d1 PE=1 SV=1
+tr|E9PYP2|E9PYP2_MOUSE         -          nup188               -                9.1    4.6   0.0        16    3.8   0.0   1.3   1   0   0   1   1   1   0 Neurobeachin-like 1 OS=Mus musculus OX=10090 GN=Nbeal1 PE=1 SV=1
+sp|Q9Z0F7|SYUG_MOUSE           -          nup188               -                9.2    4.6   2.0        11    4.4   2.0   1.0   1   0   0   1   1   1   0 Gamma-synuclein OS=Mus musculus OX=10090 GN=Sncg PE=1 SV=1
+tr|A0A0G2JH09|A0A0G2JH09_MOUSE -          nup188               -                 10    4.5   0.1       8.9    4.6   0.1   1.0   1   0   0   1   1   1   0 Zinc finger CCHC domain-containing protein 8 (Fragment) OS=Mus musculus OX=10090 GN=Zcchc8 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:48:58 2022
+# [ok]

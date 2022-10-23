@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0XJZ9|A0A0P0XJZ9_ORYSJ -          pom121               -                1.2    8.2   1.6       1.2    8.2   1.6   1.0   1   0   0   1   1   1   0 Os09g0129500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0129500 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:13:40 2022
+# [ok]

@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0R4IVZ0|A0A0R4IVZ0_DANRE -          nup153               -                  0 1030.0 283.6         0 1026.4 283.6   2.1   1   1   0   1   1   1   1 Nucleoporin 153 OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          nup153               -            2.1e-44  152.9 119.9   6.1e-24   85.0  77.5   7.2   6   1   1   7   7   5   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|B8JMJ5|B8JMJ5_DANRE         -          nup153               -            2.1e-44  152.9 119.9   6.2e-24   85.0  77.5   7.2   6   1   1   7   7   4   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A0R4IEI9|A0A0R4IEI9_DANRE -          nup153               -            3.2e-44  152.3  34.3   3.5e-44  152.1  34.3   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|X1WCS8|X1WCS8_DANRE         -          nup153               -            6.2e-44  151.3 120.4   1.1e-23   84.2  77.3   7.2   6   1   1   7   7   5   2 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A0R4IDM8|A0A0R4IDM8_DANRE -          nup153               -              4e-07   29.3  66.9   7.1e-07   28.5  66.9   1.4   1   1   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|Q5SP49|Q5SP49_DANRE         -          nup153               -            0.00016   20.7   5.6   0.00016   20.7   5.6   2.1   1   1   1   2   2   1   1 YY1-associated factor 2 OS=Danio rerio OX=7955 GN=yaf2 PE=4 SV=1
+tr|Q5SP48|Q5SP48_DANRE         -          nup153               -            0.00022   20.3   5.7   0.00022   20.3   5.7   2.1   1   1   0   1   1   1   1 YY1-associated factor 2 OS=Danio rerio OX=7955 GN=yaf2 PE=4 SV=1
+tr|F1QA30|F1QA30_DANRE         -          nup153               -            0.00028   19.9   3.0   0.00028   19.9   3.0   2.1   1   1   1   2   2   1   1 RING1 and YY1-binding protein B OS=Danio rerio OX=7955 GN=rybpb PE=4 SV=1
+sp|Q5EG55|RYBPB_DANRE          -          nup153               -            0.00028   19.9   3.1   0.00028   19.9   3.1   2.1   1   1   1   2   2   1   1 RING1 and YY1-binding protein B OS=Danio rerio OX=7955 GN=rybpb PE=2 SV=1
+sp|A0JMQ9|ZRN1B_DANRE          -          nup153               -            0.00071   18.6  26.5     0.021   13.7  15.5   2.6   2   1   0   2   2   2   2 Ubiquitin thioesterase zranb1-B OS=Danio rerio OX=7955 GN=zranb1b PE=2 SV=1
+tr|F1R1S9|F1R1S9_DANRE         -          nup153               -            0.00086   18.3   3.0   0.00086   18.3   3.0   2.9   2   1   1   3   3   2   1 RING1 and YY1-binding protein A OS=Danio rerio OX=7955 GN=rybpa PE=4 SV=1
+sp|Q7SYB3|RYBPA_DANRE          -          nup153               -            0.00087   18.3   3.0   0.00087   18.3   3.0   3.0   3   0   0   3   3   3   1 RING1 and YY1-binding protein A OS=Danio rerio OX=7955 GN=rybpa PE=2 SV=1
+tr|A0A2R8RKD0|A0A2R8RKD0_DANRE -          nup153               -             0.0014   17.6   1.2    0.0014   17.6   1.2   1.9   1   1   0   1   1   1   1 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=1
+tr|F1Q570|F1Q570_DANRE         -          nup153               -             0.0015   17.5   1.4    0.0015   17.5   1.4   1.9   1   1   0   2   2   1   1 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=2
+tr|F1R7V7|F1R7V7_DANRE         -          nup153               -             0.0018   17.2   1.8    0.0018   17.2   1.8   1.8   1   1   0   2   2   2   1 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=2
+tr|E7EYV8|E7EYV8_DANRE         -          nup153               -             0.0029   16.5   9.3    0.0046   15.9   9.3   1.2   1   0   0   1   1   1   1 Zinc finger, RAN-binding domain-containing 1a OS=Danio rerio OX=7955 GN=zranb1a PE=4 SV=3
+tr|F1R4L1|F1R4L1_DANRE         -          nup153               -              0.025   13.5   0.6     0.035   13.0   0.6   1.1   1   0   0   1   1   1   0 RNA-binding motif protein 10 (Fragment) OS=Danio rerio OX=7955 GN=rbm10 PE=4 SV=1
+tr|E7F0V6|E7F0V6_DANRE         -          nup153               -              0.031   13.1  35.4     0.044   12.6  35.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC100334178 PE=4 SV=2
+tr|A0A0G2L3H6|A0A0G2L3H6_DANRE -          nup153               -              0.089   11.6   0.3      0.12   11.2   0.3   1.0   1   0   0   1   1   1   0 RNA-binding motif protein 5 (Fragment) OS=Danio rerio OX=7955 GN=rbm5 PE=1 SV=1
+tr|A0A2R8Q9Z9|A0A2R8Q9Z9_DANRE -          nup153               -                0.2   10.4  70.9      0.32    9.7   0.4   5.2   2   2   2   4   4   4   0 Calpain 15 OS=Danio rerio OX=7955 GN=capn15 PE=3 SV=1
+tr|E7FAX5|E7FAX5_DANRE         -          nup153               -               0.24   10.2  70.1      0.26   10.1  15.4   5.2   2   2   3   5   5   5   0 Calpain 15 OS=Danio rerio OX=7955 GN=capn15 PE=3 SV=1
+tr|Q6GMF9|Q6GMF9_DANRE         -          nup153               -               0.85    8.4   0.1       1.1    8.0   0.1   1.1   1   0   0   1   1   1   0 RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Danio rerio OX=7955 GN=rbck1 PE=2 SV=1
+tr|A0A2R8RKU1|A0A2R8RKU1_DANRE -          nup153               -                  1    8.1   3.9       1.4    7.6   3.9   1.1   1   0   0   1   1   1   0 Zinc finger, RAN-binding domain-containing 1a OS=Danio rerio OX=7955 GN=zranb1a PE=4 SV=1
+tr|A0A2R8PX38|A0A2R8PX38_DANRE -          nup153               -                1.1    8.0  22.3      0.42    9.4   3.2   2.9   2   1   0   2   2   2   0 Ubiquitin thioesterase zranb1-B OS=Danio rerio OX=7955 GN=zranb1b PE=4 SV=1
+sp|Q8JHI3|AR13B_DANRE          -          nup153               -                4.4    6.0   8.2       6.4    5.5   8.2   1.2   1   0   0   1   1   1   0 ADP-ribosylation factor-like protein 13B OS=Danio rerio OX=7955 GN=arl13b PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:20:03 2022
+# [ok]

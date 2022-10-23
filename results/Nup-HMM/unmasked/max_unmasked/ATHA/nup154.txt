@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4HXV6|NU155_ARATH          -          nup154               -             6e-233  777.4   1.7   2.3e-98  331.5   0.0   5.8   3   1   0   4   4   4   4 Nuclear pore complex protein NUP155 OS=Arabidopsis thaliana OX=3702 GN=NUP155 PE=1 SV=1
+tr|A0A1I9LSJ2|A0A1I9LSJ2_ARATH -          nup154               -              0.039   12.7   6.2     0.052   12.2   6.2   1.1   1   0   0   1   1   1   0 Tropomyosin OS=Arabidopsis thaliana OX=3702 GN=At3g10880 PE=4 SV=1
+tr|Q58FW3|Q58FW3_ARATH         -          nup154               -              0.042   12.6   6.2     0.066   11.9   6.2   1.2   1   0   0   1   1   1   0 Tropomyosin OS=Arabidopsis thaliana OX=3702 GN=At3g10880 PE=2 SV=1
+tr|A0A1P8B2Q9|A0A1P8B2Q9_ARATH -          nup154               -                0.3    9.7   3.3      0.43    9.2   3.3   1.1   1   0   0   1   1   1   0 Plant regulator RWP-RK family protein OS=Arabidopsis thaliana OX=3702 GN=NIN-like protein 8 PE=4 SV=1
+tr|A0A1P8B2R8|A0A1P8B2R8_ARATH -          nup154               -               0.31    9.7   3.3      0.44    9.2   3.3   1.1   1   0   0   1   1   1   0 Plant regulator RWP-RK family protein OS=Arabidopsis thaliana OX=3702 GN=NIN-like protein 8 PE=4 SV=1
+sp|Q9MAU3|TAF6_ARATH           -          nup154               -                1.5    7.4   0.5         2    7.0   0.5   1.1   1   0   0   1   1   1   0 Transcription initiation factor TFIID subunit 6 OS=Arabidopsis thaliana OX=3702 GN=TAF6 PE=1 SV=1
+sp|Q9LYU3|EF113_ARATH          -          nup154               -                2.7    6.6   1.4       3.1    6.4   1.4   1.2   1   0   0   1   1   1   0 Ethylene-responsive transcription factor ERF113 OS=Arabidopsis thaliana OX=3702 GN=ERF113 PE=2 SV=1
+tr|A0A1P8AXV0|A0A1P8AXV0_ARATH -          nup154               -                3.1    6.4   0.8       4.5    5.8   0.8   1.1   1   0   0   1   1   1   0 U-box domain-containing protein kinase family protein OS=Arabidopsis thaliana OX=3702 GN=At2g19410 PE=4 SV=1
+sp|Q8S8S7|PUB34_ARATH          -          nup154               -                3.2    6.3   0.8       4.6    5.8   0.8   1.1   1   0   0   1   1   1   0 U-box domain-containing protein 34 OS=Arabidopsis thaliana OX=3702 GN=PUB34 PE=3 SV=1
+tr|A0A1P8AY00|A0A1P8AY00_ARATH -          nup154               -                3.3    6.3   0.8       4.8    5.7   0.8   1.1   1   0   0   1   1   1   0 U-box domain-containing protein kinase family protein OS=Arabidopsis thaliana OX=3702 GN=At2g19410 PE=4 SV=1
+tr|A0A1P8BCH3|A0A1P8BCH3_ARATH -          nup154               -                3.4    6.2   0.1       4.7    5.8   0.1   1.1   1   0   0   1   1   1   0 WUSCHEL related homeobox 12 OS=Arabidopsis thaliana OX=3702 GN=WOX12 PE=4 SV=1
+sp|Q9FL69|AGD5_ARATH           -          nup154               -                3.8    6.1   3.9       6.6    5.3   3.9   1.3   1   0   0   1   1   1   0 ADP-ribosylation factor GTPase-activating protein AGD5 OS=Arabidopsis thaliana OX=3702 GN=AGD5 PE=1 SV=1
+sp|Q8GY25|WOX12_ARATH          -          nup154               -                  4    6.0   0.1       5.5    5.5   0.1   1.1   1   0   0   1   1   1   0 WUSCHEL-related homeobox 12 OS=Arabidopsis thaliana OX=3702 GN=WOX12 PE=2 SV=1
+tr|A0A1P8B343|A0A1P8B343_ARATH -          nup154               -                4.9    5.7   0.1       6.9    5.2   0.1   1.1   1   0   0   1   1   1   0 Phototropic-responsive NPH3 family protein OS=Arabidopsis thaliana OX=3702 GN=NPY4 PE=3 SV=1
+tr|F4JUZ6|F4JUZ6_ARATH         -          nup154               -                6.8    5.2   0.0         8    5.0   0.0   1.0   1   0   0   1   1   1   0 Nicotianamine synthase OS=Arabidopsis thaliana OX=3702 GN=At4g26483 PE=4 SV=1
+sp|O64814|NPY4_ARATH           -          nup154               -                7.1    5.2   0.1        10    4.7   0.1   1.1   1   0   0   1   1   1   0 BTB/POZ domain-containing protein NPY4 OS=Arabidopsis thaliana OX=3702 GN=NPY4 PE=2 SV=1
+tr|F4IPY7|F4IPY7_ARATH         -          nup154               -                7.3    5.1   0.0        10    4.6   0.0   1.1   1   0   0   1   1   1   0 TRF-like 8 OS=Arabidopsis thaliana OX=3702 GN=TRFL8 PE=4 SV=1
+tr|Q9SZ03|Q9SZ03_ARATH         -          nup154               -                7.7    5.1   0.2        24    3.4   0.1   1.8   3   0   0   3   3   3   0 At4g34380 OS=Arabidopsis thaliana OX=3702 GN=At4g34380 PE=2 SV=1
+tr|Q8L7G9|Q8L7G9_ARATH         -          nup154               -                8.2    5.0   3.0       9.8    4.7   3.0   1.0   1   0   0   1   1   1   0 SBP (S-ribonuclease binding protein) family protein OS=Arabidopsis thaliana OX=3702 GN=At4g17680 PE=2 SV=1
+tr|F4IGS5|F4IGS5_ARATH         -          nup154               -                8.4    4.9   2.3       8.4    4.9   2.3   1.0   1   0   0   1   1   1   0 RNA-binding (RRM/RBD/RNP motifs) family protein OS=Arabidopsis thaliana OX=3702 GN=At2g27790 PE=4 SV=1
+tr|Q9M8S5|Q9M8S5_ARATH         -          nup154               -                9.4    4.8   0.3        15    4.1   0.3   1.2   1   0   0   1   1   1   0 ARM repeat superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g02840 PE=2 SV=1
+tr|Q1G3W7|Q1G3W7_ARATH         -          nup154               -                9.6    4.7   0.5        14    4.2   0.5   1.1   1   0   0   1   1   1   0 Transcription repressor OFP17-like protein OS=Arabidopsis thaliana OX=3702 GN=At1g06923 PE=2 SV=1
+tr|Q9LIR5|Q9LIR5_ARATH         -          nup154               -                9.9    4.7   1.7        10    4.7   0.5   1.5   1   1   0   1   1   1   0 Troponin T, skeletal protein OS=Arabidopsis thaliana OX=3702 GN=At3g23930 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:26:14 2022
+# [ok]

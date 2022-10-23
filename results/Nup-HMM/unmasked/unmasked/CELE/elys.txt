@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q18508|MEL28_CAEEL          -          elys                 -            7.2e-17   60.2 166.6   5.4e-10   37.4   0.0   3.7   4   1   0   4   4   4   2 Protein mel-28 OS=Caenorhabditis elegans OX=6239 GN=mel-28 PE=1 SV=2
+tr|Q21314|Q21314_CAEEL         -          elys                 -              0.081   10.3  22.4     0.089   10.2  22.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K08C7.4 PE=1 SV=2
+tr|O45198|O45198_CAEEL         -          elys                 -               0.18    9.2  94.0      0.21    9.0  94.0   1.0   1   0   0   1   1   1   0 EF-hand domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W09G12.7 PE=1 SV=2
+tr|Q38G51|Q38G51_CAEEL         -          elys                 -               0.49    7.7  44.2       0.5    7.7  44.2   1.1   1   0   0   1   1   1   0 Retinoblastoma Binding Protein Like OS=Caenorhabditis elegans OX=6239 GN=rbpl-1 PE=1 SV=1
+tr|V6CJ99|V6CJ99_CAEEL         -          elys                 -               0.65    7.3  39.5      0.83    7.0  39.5   1.0   1   0   0   1   1   1   0 Neuropeptide-Like Protein OS=Caenorhabditis elegans OX=6239 GN=nlp-16 PE=4 SV=1
+tr|Q22142|Q22142_CAEEL         -          elys                 -               0.91    6.8  58.3         1    6.7  58.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T04A8.13 PE=4 SV=3
+tr|O62348|O62348_CAEEL         -          elys                 -                1.3    6.4  34.8       1.6    6.0  34.8   1.0   1   0   0   1   1   1   0 AP-3 complex subunit beta OS=Caenorhabditis elegans OX=6239 GN=apb-3 PE=1 SV=3
+tr|O45718|O45718_CAEEL         -          elys                 -                1.3    6.4  34.8       1.7    6.0  34.8   1.0   1   0   0   1   1   1   0 AP-3 complex subunit beta OS=Caenorhabditis elegans OX=6239 GN=apb-3 PE=1 SV=3
+tr|U4PDX1|U4PDX1_CAEEL         -          elys                 -                1.3    6.3  15.3       1.2    6.4  15.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.26 PE=1 SV=1
+tr|Q22442|Q22442_CAEEL         -          elys                 -                1.4    6.2  46.7       1.8    5.8  46.7   1.0   1   0   0   1   1   1   0 Neuropeptide-Like Protein OS=Caenorhabditis elegans OX=6239 GN=nlp-16 PE=4 SV=2
+tr|Q9GZD7|Q9GZD7_CAEEL         -          elys                 -                1.9    5.8  23.3       2.1    5.6  23.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F49F1.12 PE=4 SV=2
+tr|O61765|O61765_CAEEL         -          elys                 -                2.6    5.3  64.3         3    5.1  64.3   1.0   1   0   0   1   1   1   0 Major sperm protein OS=Caenorhabditis elegans OX=6239 GN=C35E7.9 PE=1 SV=1
+tr|Q21712|Q21712_CAEEL         -          elys                 -                2.8    5.2  31.1       3.6    4.9  31.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R04D3.2 PE=1 SV=1
+tr|Q8MNS3|Q8MNS3_CAEEL         -          elys                 -                3.4    4.9  26.8       4.5    4.5  26.8   1.0   1   0   0   1   1   1   0 Probable protein phosphatase 2C F42G9.1 OS=Caenorhabditis elegans OX=6239 GN=ppm-1.g PE=1 SV=1
+tr|Q9XUT1|Q9XUT1_CAEEL         -          elys                 -                3.4    4.9  43.0       4.3    4.6  43.0   1.0   1   0   0   1   1   1   0 Major sperm protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K08E3.2 PE=4 SV=1
+tr|H9G2Z7|H9G2Z7_CAEEL         -          elys                 -                4.1    4.7  17.7       4.6    4.5  17.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C30H6.12 PE=1 SV=1
+tr|C7FZT0|C7FZT0_CAEEL         -          elys                 -                4.3    4.6  17.6       5.2    4.3  17.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F26B1.1 PE=4 SV=1
+tr|C6KRJ6|C6KRJ6_CAEEL         -          elys                 -                4.3    4.6  33.9       5.3    4.3  33.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F44D12.8 PE=4 SV=1
+tr|Q8ITV5|Q8ITV5_CAEEL         -          elys                 -                4.6    4.5  16.3       5.5    4.3  16.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y14H12B.1 PE=1 SV=1
+tr|Q20395|Q20395_CAEEL         -          elys                 -                5.9    4.1  33.6         7    3.9  33.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F44D12.8 PE=4 SV=1
+sp|P49595|PP2C1_CAEEL          -          elys                 -                6.1    4.1  27.5         8    3.7  27.5   1.0   1   0   0   1   1   1   0 Probable protein phosphatase 2C F42G9.1 OS=Caenorhabditis elegans OX=6239 GN=F42G9.1 PE=3 SV=2
+tr|Q95XQ6|Q95XQ6_CAEEL         -          elys                 -                6.6    4.0  33.4       7.4    3.8  33.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39G10AR.16 PE=1 SV=1
+sp|Q19972|CEC4_CAEEL           -          elys                 -                8.2    3.7  19.1        11    3.2  19.1   1.1   1   0   0   1   1   1   0 Chromo domain-containing protein cec-4 OS=Caenorhabditis elegans OX=6239 GN=cec-4 PE=1 SV=1
+tr|Q564S7|Q564S7_CAEEL         -          elys                 -                8.3    3.7  27.8        11    3.3  27.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D1025.10 PE=4 SV=2
+sp|G5EEU2|SET25_CAEEL          -          elys                 -                9.1    3.5  25.4        13    3.1  25.4   1.1   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase set-25 OS=Caenorhabditis elegans OX=6239 GN=set-25 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:14:35 2022
+# [ok]

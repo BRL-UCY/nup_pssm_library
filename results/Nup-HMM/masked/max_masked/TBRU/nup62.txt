@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q381M9|Q381M9_TRYB2 -          nup62                -              1e-07   30.2   0.0     1e-07   30.2   0.0   2.1   2   0   0   2   2   2   1 Nsp1_C domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7200 PE=4 SV=1
+tr|Q385K1|Q385K1_TRYB2 -          nup62                -                1.2    6.9   0.1       1.7    6.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.3380 PE=4 SV=1
+tr|Q586B7|Q586B7_TRYB2 -          nup62                -                2.6    5.8   0.1       3.8    5.2   0.1   1.1   1   0   0   1   1   1   0 Glycosylphosphatidylinositol-specific phospholipase C OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.2.6000 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:56:29 2022
+# [ok]

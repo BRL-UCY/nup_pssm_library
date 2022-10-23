@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VFE7|Q9VFE7_DROME         -          nup93                -           9.8e-281  933.6   0.8  1.1e-280  933.4   0.8   1.0   1   0   0   1   1   1   1 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9XZ06|NU931_DROME          -          nup93                -           2.4e-240  800.0   2.6  2.8e-240  799.8   2.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+tr|A1ZBM3|A1ZBM3_DROME         -          nup93                -                0.1   10.8   0.3      0.28    9.3   0.1   1.7   2   0   0   2   2   2   0 Outer segment 6 OS=Drosophila melanogaster OX=7227 GN=Oseg6 PE=4 SV=1
+tr|Q9VPR0|Q9VPR0_DROME         -          nup93                -               0.67    8.1   1.5        38    2.3   0.0   3.4   3   1   1   4   4   4   0 LP14662p OS=Drosophila melanogaster OX=7227 GN=rempA PE=2 SV=2
+tr|Q7KTZ4|Q7KTZ4_DROME         -          nup93                -               0.75    7.9   1.5        40    2.2   0.0   3.4   3   1   1   4   4   4   0 Reduced mechanoreceptor potential A, isoform B OS=Drosophila melanogaster OX=7227 GN=rempA PE=4 SV=1
+sp|Q9Y0V3|T10B_DROME           -          nup93                -                  1    7.5   0.0       1.2    7.2   0.0   1.0   1   0   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit Tim10B OS=Drosophila melanogaster OX=7227 GN=Tim9b PE=3 SV=1
+tr|X2JG40|X2JG40_DROME         -          nup93                -                1.9    6.5   0.0       2.8    6.0   0.0   1.2   1   0   0   1   1   1   0 Gamma-tubulin complex component OS=Drosophila melanogaster OX=7227 GN=Grip84 PE=1 SV=1
+sp|Q9XYP7|GCP2_DROME           -          nup93                -                  2    6.5   0.0       2.9    6.0   0.0   1.2   1   0   0   1   1   1   0 Gamma-tubulin complex component 2 homolog OS=Drosophila melanogaster OX=7227 GN=Grip84 PE=1 SV=2
+tr|E1JJQ3|E1JJQ3_DROME         -          nup93                -                2.2    6.4   0.0       3.1    5.9   0.0   1.2   1   0   0   1   1   1   0 Gamma-tubulin complex component OS=Drosophila melanogaster OX=7227 GN=Grip84 PE=1 SV=1
+tr|E1JJQ4|E1JJQ4_DROME         -          nup93                -                2.2    6.4   0.0       2.8    6.0   0.0   1.1   1   0   0   1   1   1   0 Gamma-tubulin complex component OS=Drosophila melanogaster OX=7227 GN=Grip84 PE=1 SV=1
+tr|Q8IQW7|Q8IQW7_DROME         -          nup93                -                2.2    6.3   0.0       3.2    5.8   0.0   1.2   1   0   0   1   1   1   0 Gamma-tubulin complex component OS=Drosophila melanogaster OX=7227 GN=Grip84 PE=1 SV=1
+tr|Q9VJR9|Q9VJR9_DROME         -          nup93                -                3.4    5.7   0.0       4.6    5.3   0.0   1.1   1   0   0   1   1   1   0 COP9 signalosome subunit 1a OS=Drosophila melanogaster OX=7227 GN=CSN1a PE=2 SV=1
+sp|Q23978|MY31D_DROME          -          nup93                -                3.9    5.6   0.0       6.3    4.9   0.0   1.2   1   0   0   1   1   1   0 Unconventional myosin ID OS=Drosophila melanogaster OX=7227 GN=Myo31DF PE=1 SV=1
+sp|Q9W040|OSM1_DROME           -          nup93                -                4.3    5.4   5.8        26    2.8   0.1   3.8   4   1   0   5   5   5   0 Intraflagellar transport protein 172 homolog OS=Drosophila melanogaster OX=7227 GN=Oseg2 PE=3 SV=3
+tr|Q9VHT9|Q9VHT9_DROME         -          nup93                -                5.4    5.1   0.0       6.1    4.9   0.0   1.0   1   0   0   1   1   1   0 GEO08986p1 OS=Drosophila melanogaster OX=7227 GN=Nazo PE=1 SV=2
+sp|O76932|PP4C_DROME           -          nup93                -                6.3    4.9   0.0       8.4    4.5   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 catalytic subunit OS=Drosophila melanogaster OX=7227 GN=Pp4-19C PE=2 SV=1
+tr|X2JG90|X2JG90_DROME         -          nup93                -                6.3    4.9   0.0       8.4    4.5   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Drosophila melanogaster OX=7227 GN=Pp4-19C PE=3 SV=1
+tr|A0A0B4LEY8|A0A0B4LEY8_DROME -          nup93                -                7.6    4.6   0.0        11    4.1   0.0   1.1   1   0   0   1   1   1   0 Germ cell-less, isoform B OS=Drosophila melanogaster OX=7227 GN=gcl PE=4 SV=1
+sp|Q01820|GCL_DROME            -          nup93                -                7.6    4.6   0.0        11    4.1   0.0   1.1   1   0   0   1   1   1   0 Protein germ cell-less OS=Drosophila melanogaster OX=7227 GN=gcl PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:12:48 2022
+# [ok]

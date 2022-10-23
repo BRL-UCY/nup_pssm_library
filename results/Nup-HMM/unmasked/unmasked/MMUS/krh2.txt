@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9CR67|TMM33_MOUSE          -          krh2                 -            7.8e-99  331.4  14.0   8.6e-99  331.3  14.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|A0A0R4J1Z3|A0A0R4J1Z3_MOUSE -          krh2                 -            1.5e-98  330.5  13.8   1.6e-98  330.4  13.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|Q9CZM3|Q9CZM3_MOUSE         -          krh2                 -            2.8e-38  133.1   3.6   3.1e-38  132.9   3.6   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|E0CXY5|E0CXY5_MOUSE         -          krh2                 -            1.1e-10   42.6   0.3   1.2e-10   42.6   0.3   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Mus musculus OX=10090 GN=Tmem33 PE=4 SV=1
+tr|A0A0J9YV78|A0A0J9YV78_MOUSE -          krh2                 -              6e-10   40.3   0.1     6e-10   40.3   0.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:05 2022
+# [ok]

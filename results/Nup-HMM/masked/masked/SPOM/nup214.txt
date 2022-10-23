@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09847|NU146_SCHPO -          nup214               -            1.8e-48  162.7  26.0   5.6e-44  147.8   2.7   2.5   1   1   1   2   2   2   2 Nucleoporin nup146 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup146 PE=1 SV=1
+sp|Q9UUG8|TUP12_SCHPO -          nup214               -            6.8e-06   21.6   0.0    0.0003   16.1   0.0   2.4   1   1   1   2   2   2   2 Transcriptional repressor tup12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tup12 PE=1 SV=2
+sp|O14301|YE85_SCHPO  -          nup214               -            1.4e-05   20.6   0.1   2.7e-05   19.6   0.0   1.4   2   0   0   2   2   2   1 Uncharacterized WD repeat-containing protein C9G1.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC9G1.05 PE=3 SV=1
+sp|Q10437|BUN62_SCHPO -          nup214               -            0.00017   16.9   0.0   0.00024   16.4   0.0   1.1   1   0   0   1   1   1   1 UBP9-binding protein bun62 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bun62 PE=1 SV=1
+sp|O94423|MFR1_SCHPO  -          nup214               -            0.00038   15.8   0.9   0.00052   15.3   0.9   1.1   1   0   0   1   1   1   1 Meiotic fizzy-related protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mfr1 PE=1 SV=1
+sp|O13982|YEC8_SCHPO  -          nup214               -            0.00097   14.4   0.0    0.0035   12.6   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized WD repeat-containing protein C25H1.08c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC25H1.08c PE=4 SV=1
+sp|Q09715|TUP11_SCHPO -          nup214               -              0.001   14.3   0.0      0.22    6.6   0.0   2.3   2   1   0   2   2   2   2 Transcriptional repressor tup11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tup11 PE=1 SV=1
+sp|Q9UT73|YIPH_SCHPO  -          nup214               -              0.042    9.0   0.0     0.066    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized WD repeat-containing protein C343.17c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC343.17c PE=4 SV=1
+sp|O13686|WDR59_SCHPO -          nup214               -              0.056    8.6   0.0     0.075    8.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized RWD, RING finger and WD repeat-containing protein C11E3.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC11E3.05 PE=1 SV=1
+sp|O74340|DCA13_SCHPO -          nup214               -              0.064    8.4   0.0      0.08    8.1   0.0   1.0   1   0   0   1   1   1   0 Protein sof1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sof1 PE=3 SV=1
+sp|O60161|UTP4_SCHPO  -          nup214               -              0.092    7.9   0.0      0.14    7.2   0.0   1.2   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=utp4 PE=3 SV=1
+sp|Q9P783|RRB1_SCHPO  -          nup214               -               0.11    7.6   0.4      0.45    5.6   0.1   1.6   1   1   2   3   3   3   0 Ribosome assembly protein rrb1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rrb1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:00 2022
+# [ok]

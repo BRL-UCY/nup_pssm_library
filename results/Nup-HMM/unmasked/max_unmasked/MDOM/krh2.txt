@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J210|A0A498J210_MALDO -          krh2                 -            3.6e-41  142.1  15.2   6.9e-41  141.2  15.2   1.4   1   0   0   1   1   1   1 Histone acetyltransferase OS=Malus domestica OX=3750 GN=DVH24_032126 PE=3 SV=1
+tr|A0A498HD84|A0A498HD84_MALDO -          krh2                 -            1.9e-37  130.0  13.0     8e-36  124.7  13.0   2.3   1   1   0   1   1   1   1 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028381 PE=3 SV=1
+tr|A0A498KHE7|A0A498KHE7_MALDO -          krh2                 -               0.28   11.5   0.0      0.36   11.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025983 PE=4 SV=1
+tr|A0A498IME8|A0A498IME8_MALDO -          krh2                 -               0.56   10.5   0.0      0.62   10.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003705 PE=4 SV=1
+tr|A0A498IPD9|A0A498IPD9_MALDO -          krh2                 -                  1    9.7   8.1       2.2    8.6   8.0   1.6   1   1   0   1   1   1   0 Reticulon-like protein OS=Malus domestica OX=3750 GN=DVH24_041797 PE=4 SV=1
+tr|A0A498JAV6|A0A498JAV6_MALDO -          krh2                 -                1.6    9.0   0.1       1.8    8.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020930 PE=4 SV=1
+tr|A0A498JD33|A0A498JD33_MALDO -          krh2                 -                1.7    9.0   0.2       3.6    7.9   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020987 PE=4 SV=1
+tr|A0A498JWJ5|A0A498JWJ5_MALDO -          krh2                 -                2.4    8.4   0.1         4    7.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021552 PE=3 SV=1
+tr|A0A498IYC1|A0A498IYC1_MALDO -          krh2                 -                2.8    8.2   0.1       4.7    7.5   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042281 PE=3 SV=1
+tr|A0A498I0S4|A0A498I0S4_MALDO -          krh2                 -                3.7    7.8   0.2       8.7    6.6   0.2   1.6   1   0   0   1   1   1   0 acidPPc domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019387 PE=4 SV=1
+tr|A0A498IIH4|A0A498IIH4_MALDO -          krh2                 -                4.6    7.5   0.0       6.9    7.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003498 PE=4 SV=1
+tr|A0A498HX26|A0A498HX26_MALDO -          krh2                 -                4.7    7.5   0.1       9.4    6.5   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019056 PE=4 SV=1
+tr|A0A498I2H7|A0A498I2H7_MALDO -          krh2                 -                4.8    7.5   2.2       6.2    7.1   2.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019272 PE=4 SV=1
+tr|A0A498I307|A0A498I307_MALDO -          krh2                 -                5.2    7.4   0.8       5.9    7.2   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001716 PE=4 SV=1
+tr|A0A498IHH4|A0A498IHH4_MALDO -          krh2                 -                5.6    7.3   0.0       8.1    6.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002392 PE=4 SV=1
+tr|A0A498I551|A0A498I551_MALDO -          krh2                 -                6.2    7.1   0.1        35    4.6   0.1   2.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040000 PE=3 SV=1
+tr|A0A498HJ38|A0A498HJ38_MALDO -          krh2                 -                6.3    7.1   0.3        12    6.2   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018863 PE=4 SV=1
+tr|A0A498J1I5|A0A498J1I5_MALDO -          krh2                 -                6.3    7.1   0.4       9.5    6.5   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006094 PE=4 SV=1
+tr|A0A498ICD1|A0A498ICD1_MALDO -          krh2                 -                6.4    7.1   0.3       8.9    6.6   0.3   1.2   1   0   0   1   1   1   0 Nodulin-like domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004553 PE=4 SV=1
+tr|A0A498IBJ4|A0A498IBJ4_MALDO -          krh2                 -                6.8    7.0   0.6       9.2    6.5   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040502 PE=3 SV=1
+tr|A0A498JUI2|A0A498JUI2_MALDO -          krh2                 -                7.3    6.9   0.0        23    5.2   0.0   1.8   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021341 PE=4 SV=1
+tr|A0A498HRT1|A0A498HRT1_MALDO -          krh2                 -                8.3    6.7   0.0        10    6.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016301 PE=4 SV=1
+tr|A0A498KVQ5|A0A498KVQ5_MALDO -          krh2                 -                8.4    6.7   0.4        11    6.3   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034248 PE=4 SV=1
+tr|A0A498HCX8|A0A498HCX8_MALDO -          krh2                 -                9.3    6.5   0.0        11    6.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037102 PE=4 SV=1
+tr|A0A498HRF4|A0A498HRF4_MALDO -          krh2                 -                9.3    6.5   0.0        14    5.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013014 PE=3 SV=1
+tr|A0A498J0X3|A0A498J0X3_MALDO -          krh2                 -                9.5    6.5   2.0        15    5.8   2.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042356 PE=4 SV=1
+tr|A0A498JCC6|A0A498JCC6_MALDO -          krh2                 -                9.6    6.5   0.3        10    6.4   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020787 PE=4 SV=1
+tr|A0A498J863|A0A498J863_MALDO -          krh2                 -                9.7    6.5   0.5        19    5.5   0.5   1.4   1   0   0   1   1   1   0 RRM_2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006832 PE=4 SV=1
+tr|A0A498IRC6|A0A498IRC6_MALDO -          krh2                 -                9.8    6.5   0.2        11    6.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014404 PE=3 SV=1
+tr|A0A498JKM4|A0A498JKM4_MALDO -          krh2                 -                9.8    6.5   0.4        38    4.5   0.0   1.9   2   0   0   2   2   2   0 C2H2-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_008620 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:13:07 2022
+# [ok]

@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q10331|NU107_SCHPO -          nup107               -           3.5e-139  463.5   5.5  4.7e-139  463.1   5.5   1.0   1   0   0   1   1   1   1 Nucleoporin nup107 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup107 PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:01 2022
+# [ok]

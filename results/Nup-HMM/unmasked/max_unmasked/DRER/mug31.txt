@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8M7|Q1L8M7_DANRE         -          mug31                -            0.00053   20.9   0.1   0.00053   20.9   0.1   1.7   2   0   0   2   2   1   1 Transmembrane protein 209 (Fragment) OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=2
+tr|F6P528|F6P528_DANRE         -          mug31                -            0.00083   20.2   0.1    0.0025   18.7   0.1   1.8   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=1
+tr|A0A0R4IW33|A0A0R4IW33_DANRE -          mug31                -              0.068   14.0   1.6     0.089   13.6   1.6   1.2   1   0   0   1   1   1   0 Exoribonuclease 1 OS=Danio rerio OX=7955 GN=eri1 PE=4 SV=2
+tr|F1REL7|F1REL7_DANRE         -          mug31                -                0.1   13.4   4.2      0.22   12.3   4.2   1.5   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain family 3 OS=Danio rerio OX=7955 GN=tmcc3 PE=4 SV=2
+tr|Q5RH38|Q5RH38_DANRE         -          mug31                -               0.14   12.9   3.8       0.3   11.9   3.8   1.5   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain family 3 OS=Danio rerio OX=7955 GN=tmcc3 PE=2 SV=1
+tr|Q503G0|Q503G0_DANRE         -          mug31                -               0.22   12.3   1.4      0.33   11.8   1.4   1.2   1   0   0   1   1   1   0 Eri1 protein OS=Danio rerio OX=7955 GN=eri1 PE=1 SV=1
+tr|F1RD74|F1RD74_DANRE         -          mug31                -               0.38   11.5   0.1      0.64   10.8   0.1   1.3   1   0   0   1   1   1   0 Selenoprotein P2 OS=Danio rerio OX=7955 GN=selenop2 PE=4 SV=1
+tr|F1QWX3|F1QWX3_DANRE         -          mug31                -               0.49   11.2   0.2       2.5    8.9   0.1   2.2   2   0   0   2   2   2   0 G-protein-coupled receptor 22 OS=Danio rerio OX=7955 GN=gpr22a PE=4 SV=3
+tr|E7FB28|E7FB28_DANRE         -          mug31                -               0.58   10.9   0.1      0.83   10.4   0.1   1.2   1   0   0   1   1   1   0 SET domain-containing 9 OS=Danio rerio OX=7955 GN=setd9 PE=4 SV=3
+sp|A0A2R9YJI3|GPR22_DANRE      -          mug31                -               0.64   10.8   0.2         3    8.6   0.1   2.2   2   0   0   2   2   2   0 G-protein coupled receptor 22 OS=Danio rerio OX=7955 GN=gpr22a PE=2 SV=1
+tr|A0A2R8RXC1|A0A2R8RXC1_DANRE -          mug31                -               0.64   10.8   0.4       1.2    9.9   0.4   1.4   1   0   0   1   1   1   0 Si:dkey-246g23.2 OS=Danio rerio OX=7955 GN=si:dkey-246g23.2 PE=4 SV=1
+tr|A0A0R4IQZ2|A0A0R4IQZ2_DANRE -          mug31                -               0.75   10.6   1.9       1.6    9.5   1.9   1.5   1   0   0   1   1   1   0 Palmitoyltransferase OS=Danio rerio OX=7955 GN=zdhhc13 PE=3 SV=1
+tr|A0A2R8QSN0|A0A2R8QSN0_DANRE -          mug31                -               0.84   10.4   0.5       1.5    9.6   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC101884782 PE=4 SV=1
+tr|A0A2R8QQ35|A0A2R8QQ35_DANRE -          mug31                -               0.86   10.4   0.5       1.6    9.5   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC101884782 PE=4 SV=1
+tr|A3KQM5|A3KQM5_DANRE         -          mug31                -                1.1   10.1   0.4       2.1    9.1   0.4   1.4   1   0   0   1   1   1   0 Si:dkey-246g23.2 OS=Danio rerio OX=7955 GN=si:dkey-246g23.2 PE=4 SV=1
+tr|A0A0R4IEU1|A0A0R4IEU1_DANRE -          mug31                -                1.2    9.9   4.5       2.7    8.7   4.5   1.7   1   0   0   1   1   1   0 Si:ch211-11c3.11 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-11c3.11 PE=4 SV=1
+tr|F1RDD2|F1RDD2_DANRE         -          mug31                -                1.3    9.8   0.1       1.9    9.2   0.1   1.2   1   0   0   1   1   1   0 UDP glucuronosyltransferase 2 family, polypeptide A5 OS=Danio rerio OX=7955 GN=ugt2a5 PE=1 SV=3
+tr|A0A140LGW1|A0A140LGW1_DANRE -          mug31                -                1.4    9.7   1.2       5.5    7.7   1.2   2.1   1   0   0   1   1   1   0 Si:rp71-46j2.7 OS=Danio rerio OX=7955 GN=si:rp71-46j2.7 PE=4 SV=1
+tr|A0A0R4IQ20|A0A0R4IQ20_DANRE -          mug31                -                1.7    9.4   0.1       3.4    8.4   0.1   1.4   1   0   0   1   1   1   0 Prolyl 4-hydroxylase, alpha polypeptide I a OS=Danio rerio OX=7955 GN=p4ha1a PE=1 SV=1
+tr|E7FGX9|E7FGX9_DANRE         -          mug31                -                2.2    9.0   0.1       5.4    7.8   0.1   1.6   1   0   0   1   1   1   0 G protein-coupled receptor 22b OS=Danio rerio OX=7955 GN=gpr22b PE=4 SV=2
+tr|A0A2R8QN31|A0A2R8QN31_DANRE -          mug31                -                2.4    9.0   1.1       7.4    7.3   1.1   1.9   1   0   0   1   1   1   0 Alpha-2C adrenergic receptor OS=Danio rerio OX=7955 GN=adra2c PE=3 SV=1
+sp|Q90WY6|ADA2C_DANRE          -          mug31                -                2.4    9.0   1.1       7.4    7.3   1.1   1.9   1   0   0   1   1   1   0 Alpha-2C adrenergic receptor OS=Danio rerio OX=7955 GN=adra2c PE=3 SV=1
+tr|A0A2R8QPC7|A0A2R8QPC7_DANRE -          mug31                -                2.4    8.9   1.2       4.5    8.0   1.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=pqlc1 PE=4 SV=1
+tr|B8A452|B8A452_DANRE         -          mug31                -                3.2    8.5   0.0       9.9    6.9   0.0   1.6   1   1   0   1   1   1   0 FAST kinase domains 2 (Fragment) OS=Danio rerio OX=7955 GN=fastkd2 PE=1 SV=1
+sp|Q9MIY7|COX2_DANRE           -          mug31                -                3.5    8.4   4.4       4.8    7.9   4.4   1.2   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Danio rerio OX=7955 GN=mt-co2 PE=3 SV=1
+tr|F1RE69|F1RE69_DANRE         -          mug31                -                3.7    8.3   0.0        10    6.9   0.0   1.6   1   1   0   1   1   1   0 FAST kinase domains 2 OS=Danio rerio OX=7955 GN=fastkd2 PE=1 SV=3
+tr|E9QJL6|E9QJL6_DANRE         -          mug31                -                4.2    8.1   0.1       8.1    7.2   0.1   1.4   1   0   0   1   1   1   0 STRA6-like (Fragment) OS=Danio rerio OX=7955 GN=stra6l PE=4 SV=1
+tr|F1R3M6|F1R3M6_DANRE         -          mug31                -                4.9    7.9   0.4       9.8    6.9   0.4   1.5   1   0   0   1   1   1   0 NK3 homeobox 3 OS=Danio rerio OX=7955 GN=nkx3.3 PE=4 SV=3
+tr|E9QI56|E9QI56_DANRE         -          mug31                -                7.1    7.4   1.8        10    6.8   1.8   1.3   1   0   0   1   1   1   0 Elongin B OS=Danio rerio OX=7955 GN=elob PE=4 SV=1
+tr|X1WCU2|X1WCU2_DANRE         -          mug31                -                7.8    7.3   0.0       7.6    7.3   0.0   1.1   1   0   0   1   1   1   0 Neurofibromin 1a (Fragment) OS=Danio rerio OX=7955 GN=nf1a PE=4 SV=1
+tr|A4QNV9|A4QNV9_DANRE         -          mug31                -                7.9    7.2   0.0        17    6.2   0.0   1.4   1   0   0   1   1   1   0 LOC100004428 protein OS=Danio rerio OX=7955 GN=vasnb PE=2 SV=1
+tr|A0A2R8Q0T5|A0A2R8Q0T5_DANRE -          mug31                -                  8    7.2   0.2        14    6.4   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC101884782 PE=4 SV=1
+tr|F8W288|F8W288_DANRE         -          mug31                -                8.6    7.1   3.1        12    6.7   3.1   1.1   1   0   0   1   1   1   0 BTB/POZ domain-containing protein 6-B (Fragment) OS=Danio rerio OX=7955 GN=btbd6b PE=4 SV=1
+tr|F8W3M5|F8W3M5_DANRE         -          mug31                -                8.7    7.1   0.3        12    6.6   0.3   1.3   1   0   0   1   1   1   0 Myelin basic protein a OS=Danio rerio OX=7955 GN=mbpa PE=1 SV=2
+tr|I3ITP3|I3ITP3_DANRE         -          mug31                -                8.9    7.1   0.3        14    6.4   0.3   1.4   1   0   0   1   1   1   0 Myelin basic protein a OS=Danio rerio OX=7955 GN=mbpa PE=1 SV=1
+tr|A0A2R8QHV1|A0A2R8QHV1_DANRE -          mug31                -                9.3    7.0   0.0        15    6.3   0.0   1.3   1   0   0   1   1   1   0 F-box protein 15 OS=Danio rerio OX=7955 GN=fbxo15 PE=4 SV=1
+tr|F1RC48|F1RC48_DANRE         -          mug31                -                9.7    6.9   0.0        18    6.1   0.0   1.4   1   0   0   1   1   1   0 F-box protein 15 OS=Danio rerio OX=7955 GN=fbxo15 PE=4 SV=2
+tr|E9QGX5|E9QGX5_DANRE         -          mug31                -                9.8    6.9   0.0        18    6.1   0.0   1.4   1   0   0   1   1   1   0 F-box protein 15 OS=Danio rerio OX=7955 GN=fbxo15 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:28:17 2022
+# [ok]

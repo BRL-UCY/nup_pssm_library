@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D472|A0A2K3D472_CHLRE -          nup133               -            1.1e-15   56.5   0.1   2.6e-06   25.4   0.0   4.4   4   0   0   4   4   4   4 Nucleoporin_N domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g521750v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup133.txt --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:33:56 2022
+# [ok]

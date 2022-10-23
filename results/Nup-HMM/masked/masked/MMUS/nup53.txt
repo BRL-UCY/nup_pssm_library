@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R4R6|NUP35_MOUSE          -          nup53                -             4e-102  344.1   4.7  1.7e-100  338.7   4.7   2.6   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=2
+tr|A2ATJ2|A2ATJ2_MOUSE         -          nup53                -            3.3e-33  117.5   0.9   1.6e-32  115.3   0.9   1.8   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=1
+sp|Q8R0Z2|ENOX2_MOUSE          -          nup53                -            0.00089   20.8   0.0    0.0015   20.1   0.0   1.3   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Mus musculus OX=10090 GN=Enox2 PE=2 SV=1
+tr|A0A2I3BQT0|A0A2I3BQT0_MOUSE -          nup53                -              0.041   15.4   0.0     0.064   14.7   0.0   1.2   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 OS=Mus musculus OX=10090 GN=Enox1 PE=1 SV=1
+sp|Q8BHR2|ENOX1_MOUSE          -          nup53                -               0.11   14.0   0.0      0.16   13.5   0.0   1.1   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 OS=Mus musculus OX=10090 GN=Enox1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:43 2022
+# [ok]

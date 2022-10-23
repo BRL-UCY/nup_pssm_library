@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IZS3|A0A498IZS3_MALDO -          nup50                -              2e-17   64.2   0.1   2.8e-11   43.9   0.0   2.0   2   0   0   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          nup50                -            6.4e-16   59.3   0.0   3.3e-12   47.0   0.0   2.1   2   0   0   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498K4X5|A0A498K4X5_MALDO -          nup50                -            1.4e-09   38.3   0.0   1.6e-06   28.2   0.0   2.1   2   0   0   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001279 PE=4 SV=1
+tr|A0A498JK99|A0A498JK99_MALDO -          nup50                -            9.1e-09   35.7   0.0   8.1e-05   22.6   0.0   2.1   2   0   0   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007945 PE=4 SV=1
+tr|A0A498KCT1|A0A498KCT1_MALDO -          nup50                -            0.00051   20.0   0.0    0.0007   19.5   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038448 PE=4 SV=1
+tr|A0A498ISK3|A0A498ISK3_MALDO -          nup50                -            0.00056   19.9   0.0   0.00075   19.4   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041650 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:40 2022
+# [ok]

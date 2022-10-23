@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J210|A0A498J210_MALDO -          krh2                 -            3.6e-41  142.1  15.2   6.9e-41  141.2  15.2   1.4   1   0   0   1   1   1   1 Histone acetyltransferase OS=Malus domestica OX=3750 GN=DVH24_032126 PE=3 SV=1
+tr|A0A498HD84|A0A498HD84_MALDO -          krh2                 -            1.9e-37  130.0  13.0     8e-36  124.7  13.0   2.3   1   1   0   1   1   1   1 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028381 PE=3 SV=1
+tr|A0A498KHE7|A0A498KHE7_MALDO -          krh2                 -               0.28   11.5   0.0      0.36   11.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025983 PE=4 SV=1
+tr|A0A498IPD9|A0A498IPD9_MALDO -          krh2                 -                  1    9.7   8.1       2.2    8.6   8.0   1.6   1   1   0   1   1   1   0 Reticulon-like protein OS=Malus domestica OX=3750 GN=DVH24_041797 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:58 2022
+# [ok]

@@ -1,0 +1,57 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8HL24|A0A1L8HL24_XENLA -          krh2                 -            1.2e-95  320.7  12.2   1.3e-95  320.5  12.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=4 SV=1
+tr|Q6DFH3|Q6DFH3_XENLA         -          krh2                 -            2.6e-95  319.5  13.6   2.9e-95  319.4  13.6   1.0   1   0   0   1   1   1   1 Tmem33-prov protein OS=Xenopus laevis OX=8355 GN=tmem33 PE=2 SV=1
+tr|A0A1L8HS70|A0A1L8HS70_XENLA -          krh2                 -              0.027   14.9   0.5     0.031   14.7   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18011139mg PE=4 SV=1
+tr|A0A1L8FSS6|A0A1L8FSS6_XENLA -          krh2                 -              0.078   13.4   2.2      0.15   12.5   0.4   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033609mg PE=4 SV=1
+tr|Q2NLA4|Q2NLA4_XENLA         -          krh2                 -              0.092   13.2   0.1      0.15   12.5   0.1   1.3   1   0   0   1   1   1   0 MGC131274 protein OS=Xenopus laevis OX=8355 GN=use1 PE=1 SV=1
+tr|A0A1L8FM60|A0A1L8FM60_XENLA -          krh2                 -               0.51   10.7   3.7       0.8   10.1   3.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035640mg PE=4 SV=1
+tr|A0A1L8HHP6|A0A1L8HHP6_XENLA -          krh2                 -               0.51   10.7   0.6      0.73   10.2   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013318mg PE=4 SV=1
+tr|A0A1L8F0G2|A0A1L8F0G2_XENLA -          krh2                 -               0.54   10.6   0.2      0.89    9.9   0.2   1.3   1   0   0   1   1   1   0 Ubiquitin thioesterase OS=Xenopus laevis OX=8355 GN=XELAEV_18041297mg PE=1 SV=1
+tr|A0A1L8ENL2|A0A1L8ENL2_XENLA -          krh2                 -               0.65   10.4   0.0       1.2    9.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem169 PE=4 SV=1
+tr|A0A1L8FG98|A0A1L8FG98_XENLA -          krh2                 -               0.96    9.8   4.9       1.7    9.1   4.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037511mg PE=4 SV=1
+tr|A0A1L8G8K0|A0A1L8G8K0_XENLA -          krh2                 -                1.2    9.5   0.0       2.6    8.4   0.0   1.5   1   0   0   1   1   1   0 Pecanex_C domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18026944mg PE=4 SV=1
+tr|A0A1L8F8X3|A0A1L8F8X3_XENLA -          krh2                 -                1.3    9.4   0.7        34    4.7   0.0   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cyp2a6.13 PE=3 SV=1
+tr|A0A1L8GJ61|A0A1L8GJ61_XENLA -          krh2                 -                1.4    9.3   0.1       1.6    9.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18022010mg PE=4 SV=1
+tr|A0A1L8HMS9|A0A1L8HMS9_XENLA -          krh2                 -                1.6    9.1   0.1       1.5    9.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009614mg PE=4 SV=1
+tr|Q6DED8|Q6DED8_XENLA         -          krh2                 -                1.8    8.9   6.3       0.8   10.1   0.6   2.5   2   1   1   3   3   3   0 MGC78848 protein OS=Xenopus laevis OX=8355 GN=nipal4 PE=2 SV=1
+tr|Q6NU88|Q6NU88_XENLA         -          krh2                 -                1.9    8.9   1.4       3.6    8.0   1.4   1.4   1   0   0   1   1   1   0 MGC81142 protein OS=Xenopus laevis OX=8355 GN=tmem169 PE=2 SV=1
+tr|A0A1L8GR04|A0A1L8GR04_XENLA -          krh2                 -                1.9    8.8   5.2       1.2    9.6   0.6   2.4   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nipal4 PE=4 SV=1
+tr|A0A1L8H2J0|A0A1L8H2J0_XENLA -          krh2                 -                2.6    8.4   0.5       4.4    7.7   0.5   1.3   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018914mg PE=4 SV=1
+tr|A0A1L8G8P3|A0A1L8G8P3_XENLA -          krh2                 -                2.8    8.3   0.0       3.5    8.0   0.0   1.1   1   0   0   1   1   1   0 BEACH-type PH domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180268899mg PE=4 SV=1
+tr|A0A1L8H4B7|A0A1L8H4B7_XENLA -          krh2                 -                2.9    8.3   0.0         4    7.8   0.0   1.1   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019549mg PE=4 SV=1
+tr|A0A1L8HGX9|A0A1L8HGX9_XENLA -          krh2                 -                2.9    8.3   1.5       4.8    7.5   0.4   1.9   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013023mg PE=4 SV=1
+tr|A0A1L8EUT8|A0A1L8EUT8_XENLA -          krh2                 -                2.9    8.3   0.1       5.1    7.5   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044133mg PE=4 SV=1
+tr|A0A1L8H2S7|A0A1L8H2S7_XENLA -          krh2                 -                2.9    8.2   0.4       5.3    7.4   0.4   1.3   1   0   0   1   1   1   0 C-type lectin domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018912mg PE=4 SV=1
+tr|A0A1L8FKW7|A0A1L8FKW7_XENLA -          krh2                 -                  3    8.2   5.5       6.4    7.1   5.5   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035195mg PE=4 SV=1
+tr|A0A1L8GLM3|A0A1L8GLM3_XENLA -          krh2                 -                3.8    7.9   0.2       6.3    7.1   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18022831mg PE=4 SV=1
+tr|A0A1L8HGV9|A0A1L8HGV9_XENLA -          krh2                 -                  4    7.8   2.8       8.5    6.7   2.1   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013023mg PE=4 SV=1
+tr|A0A1L8I2P7|A0A1L8I2P7_XENLA -          krh2                 -                4.2    7.7   0.0       5.9    7.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008411mg PE=4 SV=1
+tr|A0A1L8GWG6|A0A1L8GWG6_XENLA -          krh2                 -                4.3    7.7   5.5         1    9.7   0.6   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nipal4 PE=4 SV=1
+tr|A0A1L8F300|A0A1L8F300_XENLA -          krh2                 -                4.5    7.6   0.1       3.9    7.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18042221mg PE=4 SV=1
+tr|A0A1L8EXZ8|A0A1L8EXZ8_XENLA -          krh2                 -                5.5    7.4   0.0        35    4.7   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045314mg PE=4 SV=1
+tr|A0A1L8FJL5|A0A1L8FJL5_XENLA -          krh2                 -                5.6    7.3   4.2       2.7    8.3   0.3   2.3   2   1   1   3   3   3   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034756mg PE=4 SV=1
+tr|A0A1L8I2S8|A0A1L8I2S8_XENLA -          krh2                 -                  7    7.0   0.1       7.5    6.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008399mg PE=4 SV=1
+tr|A0A1L8GM15|A0A1L8GM15_XENLA -          krh2                 -                7.1    7.0   0.1        11    6.3   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023040mg PE=4 SV=1
+tr|A0A1L8GG77|A0A1L8GG77_XENLA -          krh2                 -                8.1    6.8   0.1        15    5.9   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ccdc18 PE=4 SV=1
+tr|A0A1L8HY99|A0A1L8HY99_XENLA -          krh2                 -                8.3    6.8   1.0       9.1    6.6   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006856mg PE=4 SV=1
+tr|A0A1L8FKV9|A0A1L8FKV9_XENLA -          krh2                 -                8.8    6.7   0.7         9    6.7   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035178mg PE=4 SV=1
+tr|A0A1L8F817|A0A1L8F817_XENLA -          krh2                 -                8.9    6.7   0.4        17    5.8   0.4   1.4   1   0   0   1   1   1   0 TNF_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=cd40lg PE=3 SV=1
+tr|A0A1L8GJ42|A0A1L8GJ42_XENLA -          krh2                 -                  9    6.6   0.1        12    6.3   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ifitm5 PE=4 SV=1
+tr|A0A1L8EXG9|A0A1L8EXG9_XENLA -          krh2                 -                9.3    6.6   0.1        12    6.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045132mg PE=4 SV=1
+tr|A0A1L8FBA3|A0A1L8FBA3_XENLA -          krh2                 -                9.6    6.6   0.1        14    6.1   0.1   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18040111mg PE=4 SV=1
+tr|A0A1L8EJX3|A0A1L8EJX3_XENLA -          krh2                 -                9.6    6.6   2.3        14    6.1   1.1   1.7   1   1   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18003238mg PE=3 SV=1
+tr|A0A1L8EVI6|A0A1L8EVI6_XENLA -          krh2                 -                9.7    6.5   2.6        20    5.5   2.6   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem163 PE=4 SV=1
+tr|A0A1L8HQ43|A0A1L8HQ43_XENLA -          krh2                 -                9.8    6.5   0.6        10    6.5   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010427mg PE=4 SV=1
+tr|A0A1L8GMW9|A0A1L8GMW9_XENLA -          krh2                 -                9.9    6.5   0.1        19    5.6   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ccdc18 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/XLAE/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:18:42 2022
+# [ok]

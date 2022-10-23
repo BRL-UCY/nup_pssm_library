@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38B79|Q38B79_TRYB2 -          pom152               -               0.45    7.2   0.0      0.76    6.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.1860 PE=4 SV=1
+tr|Q57X39|Q57X39_TRYB2 -          pom152               -               0.58    6.9   0.4      0.78    6.4   0.4   1.2   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG, atypical), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.4730 PE=4 SV=1
+tr|Q582W3|Q582W3_TRYB2 -          pom152               -                6.7    3.3   0.1       9.8    2.8   0.1   1.1   1   0   0   1   1   1   0 VSG_B domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.2500 PE=4 SV=1
+tr|Q387P1|Q387P1_TRYB2 -          pom152               -                6.9    3.3   1.7       9.1    2.9   1.7   1.1   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.v4.0025 PE=4 SV=1
+tr|Q584H3|Q584H3_TRYB2 -          pom152               -                7.8    3.1   0.6        14    2.3   0.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.2140 PE=4 SV=1
+tr|Q38A04|Q38A04_TRYB2 -          pom152               -                7.9    3.1   3.0       5.1    3.7   0.3   1.6   1   1   1   2   2   2   0 RNA-editing-associated protein 1 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0620 PE=4 SV=1
+tr|Q57WS0|Q57WS0_TRYB2 -          pom152               -                  8    3.1   0.5        47    0.5   0.4   1.7   2   0   0   2   2   2   0 Protein disulfide isomerase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.1300 PE=3 SV=1
+tr|Q387P2|Q387P2_TRYB2 -          pom152               -                8.7    3.0   0.9        14    2.3   0.9   1.2   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.v4.0024 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TBRU/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:44:42 2022
+# [ok]

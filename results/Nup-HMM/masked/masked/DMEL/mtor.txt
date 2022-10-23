@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1Z8P9|TPR_DROME            -          mtor                 -                  0 1509.5   0.0         0 1509.2   0.0   1.0   1   0   0   1   1   1   1 Nucleoprotein TPR OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|A0A0B4KFE9|A0A0B4KFE9_DROME -          mtor                 -                  0 1509.5   0.0         0 1509.2   0.0   1.0   1   0   0   1   1   1   1 Megator, isoform B OS=Drosophila melanogaster OX=7227 GN=Mtor PE=1 SV=1
+tr|Q9VC70|Q9VC70_DROME         -          mtor                 -               0.19    8.9   0.7      0.27    8.5   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13617 PE=4 SV=1
+tr|Q8IR21|Q8IR21_DROME         -          mtor                 -               0.31    8.2   0.1      0.41    7.8   0.1   1.0   1   0   0   1   1   1   0 GH03748p2 OS=Drosophila melanogaster OX=7227 GN=CG9216 PE=1 SV=1
+tr|M9PHV4|M9PHV4_DROME         -          mtor                 -               0.31    8.2   0.1      0.42    7.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein, isoform F OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42354 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:11 2022
+# [ok]

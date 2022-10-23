@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P49790|NU153_HUMAN          -          nup153               -                  0 1654.3 304.7  2.4e-293  978.5  51.7   3.9   1   1   3   4   4   4   4 Nuclear pore complex protein Nup153 OS=Homo sapiens OX=9606 GN=NUP153 PE=1 SV=2
+sp|P49792|RBP2_HUMAN           -          nup153               -           7.4e-109  367.1 180.3   2.9e-45  156.4  73.0   8.8   5   2   5  10  10   7   4 E3 SUMO-protein ligase RanBP2 OS=Homo sapiens OX=9606 GN=RANBP2 PE=1 SV=2
+tr|G3V219|G3V219_HUMAN         -          nup153               -              2e-06   27.6   2.1   2.2e-06   27.5   2.1   1.0   1   0   0   1   1   1   1 YY1 associated factor 2, isoform CRA_d OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=1
+tr|G3V1X5|G3V1X5_HUMAN         -          nup153               -            3.7e-06   26.8   3.2   3.8e-06   26.8   3.2   1.0   1   0   0   1   1   1   1 YY1 associated factor 2, isoform CRA_g OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=1
+tr|A0A0B4J255|A0A0B4J255_HUMAN -          nup153               -            5.2e-06   26.3   4.4   5.2e-06   26.3   4.4   1.0   1   0   0   1   1   1   1 YY1-associated factor 2 OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=1
+tr|F8VRE5|F8VRE5_HUMAN         -          nup153               -            1.1e-05   25.2   2.6   1.2e-05   25.1   2.6   1.0   1   0   0   1   1   1   1 YY1-associated factor 2 OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=1
+tr|G3V212|G3V212_HUMAN         -          nup153               -            1.4e-05   24.9   1.4   1.6e-05   24.7   1.4   1.1   1   0   0   1   1   1   1 YY1 associated factor 2, isoform CRA_b OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=1
+sp|Q9UGI0|ZRAN1_HUMAN          -          nup153               -            1.6e-05   24.6  20.9   9.6e-05   22.1  10.9   2.1   1   1   0   2   2   2   2 Ubiquitin thioesterase ZRANB1 OS=Homo sapiens OX=9606 GN=ZRANB1 PE=1 SV=2
+sp|Q8IY57|YAF2_HUMAN           -          nup153               -            5.2e-05   23.0   4.6   5.2e-05   23.0   4.6   2.1   1   1   1   2   2   1   1 YY1-associated factor 2 OS=Homo sapiens OX=9606 GN=YAF2 PE=1 SV=3
+sp|Q8N488|RYBP_HUMAN           -          nup153               -            0.00012   21.8   2.5   0.00012   21.8   2.5   2.1   1   1   1   2   2   1   1 RING1 and YY1-binding protein OS=Homo sapiens OX=9606 GN=RYBP PE=1 SV=2
+sp|Q8TAT5|NEIL3_HUMAN          -          nup153               -            0.00058   19.5   6.7   0.00058   19.5   6.7   1.9   1   1   1   2   2   1   1 Endonuclease 8-like 3 OS=Homo sapiens OX=9606 GN=NEIL3 PE=1 SV=3
+tr|H0YKX0|H0YKX0_HUMAN         -          nup153               -             0.0041   16.7   7.9     0.006   16.1   7.9   1.1   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase RNF31 (Fragment) OS=Homo sapiens OX=9606 GN=RNF31 PE=1 SV=1
+sp|Q96EP0|RNF31_HUMAN          -          nup153               -             0.0053   16.3   7.9    0.0076   15.8   7.9   1.1   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase RNF31 OS=Homo sapiens OX=9606 GN=RNF31 PE=1 SV=1
+tr|H3BR03|H3BR03_HUMAN         -          nup153               -              0.031   13.8  10.8      0.21   11.0   2.1   2.1   2   0   0   2   2   2   0 Calpain-15 (Fragment) OS=Homo sapiens OX=9606 GN=CAPN15 PE=1 SV=8
+tr|H0YDH2|H0YDH2_HUMAN         -          nup153               -              0.037   13.5  23.3      0.04   13.4  23.3   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=4 SV=1
+tr|H0YNK5|H0YNK5_HUMAN         -          nup153               -               0.11   11.9   0.5      0.14   11.6   0.5   1.1   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF31 (Fragment) OS=Homo sapiens OX=9606 GN=RNF31 PE=1 SV=1
+tr|E9PN57|E9PN57_HUMAN         -          nup153               -               0.36   10.2   1.0      0.38   10.2   1.0   1.0   1   0   0   1   1   1   0 Sjoegren syndrome/scleroderma autoantigen 1 OS=Homo sapiens OX=9606 GN=SSSCA1 PE=1 SV=1
+tr|B4DML5|B4DML5_HUMAN         -          nup153               -                0.4   10.1   0.7      0.49    9.8   0.7   1.0   1   0   0   1   1   1   0 RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Homo sapiens OX=9606 GN=RBCK1 PE=1 SV=1
+tr|H0YDI2|H0YDI2_HUMAN         -          nup153               -               0.47    9.9  28.0      0.53    9.7  28.0   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=4 SV=1
+tr|G3XAG9|G3XAG9_HUMAN         -          nup153               -               0.49    9.8   0.7      0.69    9.3   0.7   1.1   1   0   0   1   1   1   0 HCG2019817, isoform CRA_d OS=Homo sapiens OX=9606 GN=RBCK1 PE=1 SV=1
+tr|C9J5X1|C9J5X1_HUMAN         -          nup153               -               0.52    9.7   3.5      0.78    9.1   3.5   1.1   1   0   0   1   1   1   0 Tyrosine-protein kinase receptor OS=Homo sapiens OX=9606 GN=IGF1R PE=1 SV=1
+sp|P08069|IGF1R_HUMAN          -          nup153               -               0.52    9.7   3.5      0.78    9.1   3.5   1.1   1   0   0   1   1   1   0 Insulin-like growth factor 1 receptor OS=Homo sapiens OX=9606 GN=IGF1R PE=1 SV=1
+tr|H0YNR0|H0YNR0_HUMAN         -          nup153               -               0.55    9.6   2.9      0.73    9.2   2.9   1.1   1   0   0   1   1   1   0 Insulin-like growth factor 1 receptor (Fragment) OS=Homo sapiens OX=9606 GN=IGF1R PE=1 SV=1
+tr|H0YEK1|H0YEK1_HUMAN         -          nup153               -               0.71    9.3   0.5      0.81    9.1   0.5   1.0   1   0   0   1   1   1   0 Sjoegren syndrome/scleroderma autoantigen 1 (Fragment) OS=Homo sapiens OX=9606 GN=SSSCA1 PE=1 SV=1
+sp|Q9BYM8|HOIL1_HUMAN          -          nup153               -               0.94    8.9   0.7       1.2    8.5   0.7   1.1   1   0   0   1   1   1   0 RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Homo sapiens OX=9606 GN=RBCK1 PE=1 SV=2
+tr|H0YEN4|H0YEN4_HUMAN         -          nup153               -                2.2    7.6  23.5       2.4    7.5  23.5   1.1   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|Q5T0Y3|Q5T0Y3_HUMAN         -          nup153               -                2.8    7.3   4.1       3.2    7.1   4.1   1.0   1   0   0   1   1   1   0 Protein Mdm4 (Fragment) OS=Homo sapiens OX=9606 GN=MDM4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:27:21 2022
+# [ok]

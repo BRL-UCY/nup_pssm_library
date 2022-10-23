@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8LAF4|Q8LAF4_ARATH -          ndc1                 -              3e-52  178.9   2.6   1.4e-50  173.5   0.1   2.8   3   0   0   3   3   3   3 Nucleoporin protein Ndc1-Nup protein OS=Arabidopsis thaliana OX=3702 GN=At1g73240 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:47 2022
+# [ok]

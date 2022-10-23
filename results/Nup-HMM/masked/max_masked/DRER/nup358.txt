@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WCS8|X1WCS8_DANRE         -          nup358               -                  0 2043.8   0.0         0 1221.3   0.0   5.2   3   1   2   5   5   5   5 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|B8JMJ5|B8JMJ5_DANRE         -          nup358               -                  0 2020.6   0.0         0 1215.9   0.0   5.2   3   1   2   5   5   5   5 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          nup358               -                  0 2020.6   0.0         0 1215.9   0.0   5.2   3   1   2   5   5   5   5 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|K7DY47|K7DY47_DANRE         -          nup358               -            2.9e-40  138.8   0.0   3.9e-40  138.3   0.0   1.0   1   0   0   1   1   1   1 FinTRIM family, member 52, pseudogene OS=Danio rerio OX=7955 GN=ftr52p PE=4 SV=1
+tr|Q6NWK3|Q6NWK3_DANRE         -          nup358               -            9.9e-40  137.0   0.1   1.2e-39  136.7   0.1   1.0   1   0   0   1   1   1   1 RAN-binding protein 1 OS=Danio rerio OX=7955 GN=ranbp1 PE=1 SV=1
+tr|A0A0R4IVZ0|A0A0R4IVZ0_DANRE -          nup358               -            5.1e-19   68.3   5.6   5.5e-05   21.7   0.1   4.0   2   2   2   4   4   4   4 Nucleoporin 153 OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|A0A2R8Q3A0|A0A2R8Q3A0_DANRE -          nup358               -            9.8e-18   64.0   0.0   1.2e-17   63.7   0.0   1.0   1   0   0   1   1   1   1 Peptidyl-prolyl cis-trans isomerase OS=Danio rerio OX=7955 GN=ftr52p PE=3 SV=1
+tr|F1Q591|F1Q591_DANRE         -          nup358               -            6.2e-06   24.9   0.0   8.2e-06   24.5   0.0   1.0   1   0   0   1   1   1   1 RAN-binding protein 3a OS=Danio rerio OX=7955 GN=ranbp3a PE=4 SV=1
+tr|Q6PCR4|Q6PCR4_DANRE         -          nup358               -            6.1e-05   21.6   0.1   8.1e-05   21.2   0.1   1.0   1   0   0   1   1   1   1 RAN-binding protein 3b OS=Danio rerio OX=7955 GN=ranbp3b PE=1 SV=1
+tr|A0A0R4IEI9|A0A0R4IEI9_DANRE -          nup358               -              0.038   12.3   0.1     0.045   12.1   0.1   1.0   1   0   0   1   1   1   0 Nucleoporin 153 (Fragment) OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|F1R0E4|F1R0E4_DANRE         -          nup358               -               0.85    7.8   0.0      0.98    7.6   0.0   1.0   1   0   0   1   1   1   0 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|E7F2R1|E7F2R1_DANRE         -          nup358               -                  1    7.5   0.1         6    5.0   0.0   2.0   2   0   0   2   2   2   0 Tetratricopeptide repeat domain 37 OS=Danio rerio OX=7955 GN=ttc37 PE=1 SV=2
+tr|E7F1Q7|E7F1Q7_DANRE         -          nup358               -                  1    7.5   0.4       1.2    7.3   0.4   1.0   1   0   0   1   1   1   0 Zinc finger Ran-binding domain-containing protein 2 OS=Danio rerio OX=7955 GN=zranb2 PE=1 SV=2
+tr|A0A1D5NS87|A0A1D5NS87_DANRE -          nup358               -                4.3    5.5   1.0       3.8    5.7   0.0   1.3   2   0   0   2   2   2   0 Si:dkey-1h4.4 OS=Danio rerio OX=7955 GN=si:dkey-1h4.4 PE=4 SV=1
+tr|F1RBR9|F1RBR9_DANRE         -          nup358               -                4.3    5.5   0.1       5.7    5.1   0.1   1.0   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|E9QDW8|E9QDW8_DANRE         -          nup358               -                6.6    4.9   1.2       9.4    4.4   1.2   1.3   1   1   0   1   1   1   0 STIP1 homology and U-Box-containing protein 1 (Fragment) OS=Danio rerio OX=7955 GN=stub1 PE=1 SV=1
+tr|E7EXH4|E7EXH4_DANRE         -          nup358               -                7.4    4.7   0.1       9.6    4.3   0.1   1.0   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|F1QC11|F1QC11_DANRE         -          nup358               -                7.5    4.7   0.0       7.5    4.7   0.0   1.0   1   0   0   1   1   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|F1QD06|F1QD06_DANRE         -          nup358               -                7.5    4.7   0.1        12    4.0   0.1   1.2   1   0   0   1   1   1   0 Tetratricopeptide repeat domain 13 OS=Danio rerio OX=7955 GN=ttc13 PE=1 SV=2
+tr|A0A286YBJ1|A0A286YBJ1_DANRE -          nup358               -                9.9    4.3   0.9        26    2.9   0.0   1.9   3   0   0   3   3   3   0 Cell division cycle 27 OS=Danio rerio OX=7955 GN=cdc27 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup358.txt --max --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:22:39 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q4V9|E9Q4V9_MOUSE         -          nup107               -                  0 1019.8  10.8         0 1019.6  10.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8BH74|NU107_MOUSE          -          nup107               -                  0 1019.8  10.8         0 1019.6  10.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A1W2P7R1|A0A1W2P7R1_MOUSE -          nup107               -            1.4e-58  200.3   0.3   1.7e-58  200.0   0.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A0A6YXA7|A0A0A6YXA7_MOUSE -          nup107               -                5.6    6.5   0.0       4.9    6.6   0.0   1.0   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase (Fragment) OS=Mus musculus OX=10090 GN=Arih2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:50:14 2022
+# [ok]

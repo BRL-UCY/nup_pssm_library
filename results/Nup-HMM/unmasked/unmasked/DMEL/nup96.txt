@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCH5|NUP98_DROME          -          nup96                -                  0 2469.9  58.1         0 2469.6  58.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Drosophila melanogaster OX=7227 GN=Nup98-96 PE=1 SV=3
+sp|Q9V6B9|NUP54_DROME          -          nup96                -            2.1e-07   29.1 108.0   4.5e-07   28.0 108.0   1.5   1   0   0   1   1   1   1 Probable nucleoporin Nup54 OS=Drosophila melanogaster OX=7227 GN=Nup54 PE=2 SV=1
+tr|Q9I7N2|Q9I7N2_DROME         -          nup96                -            1.2e-05   23.3  89.0   1.2e-05   23.3  89.0   1.7   2   0   0   2   2   2   1 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18787 PE=4 SV=3
+tr|Q9I7N3|Q9I7N3_DROME         -          nup96                -            1.4e-05   23.0  88.9   1.4e-05   23.0  88.9   1.7   2   0   0   2   2   2   1 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18789 PE=4 SV=2
+tr|A1ZBC5|A1ZBC5_DROME         -          nup96                -            4.5e-05   21.4   5.2   6.1e-05   20.9   5.2   1.1   1   0   0   1   1   1   1 FI04829p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15073 PE=2 SV=1
+tr|A0A0B4LG07|A0A0B4LG07_DROME -          nup96                -            7.4e-05   20.7   6.5   9.2e-05   20.3   6.5   1.1   1   0   0   1   1   1   1 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15073 PE=4 SV=1
+tr|A1ZB18|A1ZB18_DROME         -          nup96                -             0.0031   15.3 102.0      0.11   10.1  62.8   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10910 PE=4 SV=1
+sp|Q9NB71|HIW_DROME            -          nup96                -             0.0075   14.0   0.0    0.0075   14.0   0.0   3.1   4   0   0   4   4   2   1 E3 ubiquitin-protein ligase highwire OS=Drosophila melanogaster OX=7227 GN=hiw PE=1 SV=2
+tr|X2JF19|X2JF19_DROME         -          nup96                -             0.0075   14.0   0.0    0.0075   14.0   0.0   3.1   4   0   0   4   4   2   1 Highwire, isoform B OS=Drosophila melanogaster OX=7227 GN=hiw PE=4 SV=1
+tr|C6SUU1|C6SUU1_DROME         -          nup96                -             0.0076   14.0  20.6    0.0089   13.8  20.6   1.0   1   0   0   1   1   1   1 Cyclic-AMP response element binding protein B, isoform M OS=Drosophila melanogaster OX=7227 GN=CrebB PE=2 SV=1
+tr|A0A1Z1CK36|A0A1Z1CK36_DROME -          nup96                -              0.017   12.8  18.5     0.021   12.6  18.5   1.1   1   0   0   1   1   1   0 Cyclic-AMP response element binding protein B, isoform Q OS=Drosophila melanogaster OX=7227 GN=CrebB PE=4 SV=1
+tr|Q0E9B5|Q0E9B5_DROME         -          nup96                -              0.017   12.8   6.0     0.024   12.3   6.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmc1 PE=1 SV=1
+tr|M9PHZ6|M9PHZ6_DROME         -          nup96                -              0.028   12.1  17.8     0.034   11.8  17.8   1.1   1   0   0   1   1   1   0 Cyclic-AMP response element binding protein B, isoform N OS=Drosophila melanogaster OX=7227 GN=CrebB PE=4 SV=1
+tr|Q9VZY0|Q9VZY0_DROME         -          nup96                -               0.54    7.8  12.1      0.54    7.8  12.1   1.0   1   0   0   1   1   1   0 LD45195p OS=Drosophila melanogaster OX=7227 GN=Non2 PE=1 SV=1
+sp|Q9VDV3|NUP58_DROME          -          nup96                -               0.64    7.6 113.3     0.055   11.1  35.5   2.1   1   1   1   2   2   2   0 Nuclear pore complex protein Nup58 OS=Drosophila melanogaster OX=7227 GN=Nup58 PE=1 SV=1
+tr|A0A0B4KHQ8|A0A0B4KHQ8_DROME -          nup96                -               0.79    7.3  20.6       0.8    7.3  20.6   1.1   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=1
+tr|M9NFC0|M9NFC0_DROME         -          nup96                -               0.87    7.2   6.6      0.98    7.0   6.6   1.0   1   0   0   1   1   1   0 Wings up A, isoform I OS=Drosophila melanogaster OX=7227 GN=wupA PE=1 SV=1
+tr|A0A4P7V9T9|A0A4P7V9T9_DROME -          nup96                -               0.91    7.1  49.6       1.3    6.6  49.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform F OS=Drosophila melanogaster OX=7227 GN=CG46385 PE=4 SV=1
+tr|Q7KT85|Q7KT85_DROME         -          nup96                -                1.2    6.7  48.6       1.3    6.6  48.6   1.0   1   0   0   1   1   1   0 RE38252p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31775 PE=2 SV=1
+tr|A0A126GV16|A0A126GV16_DROME -          nup96                -                1.3    6.5  21.1       1.4    6.4  21.1   1.1   1   0   0   1   1   1   0 Microtubule-associated protein OS=Drosophila melanogaster OX=7227 GN=tau PE=1 SV=1
+tr|Q9VEA4|Q9VEA4_DROME         -          nup96                -                1.7    6.2   6.8       2.1    5.9   6.8   1.0   1   0   0   1   1   1   0 Trimethylguanosine synthase 1 OS=Drosophila melanogaster OX=7227 GN=Tgs1 PE=4 SV=3
+sp|Q9VKB4|RPF1_DROME           -          nup96                -                3.3    5.3  20.9       4.1    4.9  20.9   1.0   1   0   0   1   1   1   0 Probable ribosome production factor 1 OS=Drosophila melanogaster OX=7227 GN=CG6712 PE=2 SV=1
+tr|Q9VTF1|Q9VTF1_DROME         -          nup96                -                4.3    4.9  19.8       5.1    4.6  19.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32071 PE=4 SV=2
+tr|Q058Z0|Q058Z0_DROME         -          nup96                -                  6    4.4   8.6       7.3    4.1   8.6   1.0   1   0   0   1   1   1   0 IP09837p OS=Drosophila melanogaster OX=7227 GN=CG17042 PE=2 SV=1
+tr|Q7K1H5|Q7K1H5_DROME         -          nup96                -                6.8    4.2  31.0       8.5    3.9  31.0   1.0   1   0   0   1   1   1   0 GH08125p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG11808 PE=2 SV=1
+tr|Q9VZ43|Q9VZ43_DROME         -          nup96                -                8.6    3.9  19.6        12    3.4  19.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=CG15204 PE=4 SV=3
+tr|Q9VS41|Q9VS41_DROME         -          nup96                -                 10    3.6  22.1        15    3.0  22.1   1.1   1   0   0   1   1   1   0 Unc-13-4A, isoform B OS=Drosophila melanogaster OX=7227 GN=unc-13-4A PE=4 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:17:11 2022
+# [ok]

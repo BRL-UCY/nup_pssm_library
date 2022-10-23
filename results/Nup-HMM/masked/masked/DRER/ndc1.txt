@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7SZC5|NDC1_DANRE   -          ndc1                 -           7.5e-136  455.2  23.7   3.8e-92  310.9  14.5   3.2   2   1   0   3   3   3   2 Nucleoporin NDC1 OS=Danio rerio OX=7955 GN=ndc1 PE=2 SV=1
+tr|B0S5I6|B0S5I6_DANRE -          ndc1                 -           1.5e-134  450.9  22.6   2.8e-91  308.0  14.4   3.2   2   1   1   3   3   3   2 Nucleoporin NDC1 OS=Danio rerio OX=7955 GN=ndc1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:25 2022
+# [ok]

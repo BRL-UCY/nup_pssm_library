@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9I7N2|Q9I7N2_DROME         -          nup2l1               -            2.2e-36  126.6  90.2   5.9e-18   65.9  45.5   3.1   1   1   2   3   3   3   3 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18787 PE=4 SV=3
+tr|Q9I7N3|Q9I7N3_DROME         -          nup2l1               -            2.5e-35  123.2  91.6   7.9e-18   65.5  45.2   3.1   1   1   2   3   3   3   3 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG18789 PE=4 SV=2
+tr|Q9VP20|Q9VP20_DROME         -          nup2l1               -            9.9e-08   32.2  14.1   2.3e-05   24.5   7.0   2.6   2   1   0   2   2   2   2 LD41384p OS=Drosophila melanogaster OX=7227 GN=Mkrn1 PE=2 SV=2
+tr|Q9VY20|Q9VY20_DROME         -          nup2l1               -            1.1e-07   32.1  10.8   1.2e-06   28.6   0.0   2.3   2   0   0   2   2   2   1 LP05025p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5347 PE=2 SV=1
+tr|Q9VY21|Q9VY21_DROME         -          nup2l1               -            9.2e-06   25.8   5.0     0.001   19.0   0.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5334 PE=4 SV=1
+sp|Q7JWR9|ZC3HF_DROME          -          nup2l1               -            3.8e-05   23.7   4.0   0.00016   21.6   0.0   2.6   2   0   0   2   2   2   1 Zinc finger CCCH domain-containing protein 15 homolog OS=Drosophila melanogaster OX=7227 GN=CG8635 PE=1 SV=1
+tr|A0A0B4LEV3|A0A0B4LEV3_DROME -          nup2l1               -            3.8e-05   23.7   4.0   0.00016   21.6   0.0   2.6   2   0   0   2   2   2   1 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8635 PE=4 SV=1
+tr|A1Z7R9|A1Z7R9_DROME         -          nup2l1               -            0.00022   21.2   0.1   0.00022   21.2   0.1   2.1   2   0   0   2   2   2   1 C3H1-type domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42382 PE=4 SV=1
+tr|Q95RB1|Q95RB1_DROME         -          nup2l1               -              0.045   13.6   1.4     0.086   12.7   1.4   1.4   1   0   0   1   1   1   0 LD46870p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14641 PE=1 SV=1
+sp|Q9VPT8|CPSF4_DROME          -          nup2l1               -              0.074   12.9   0.1     0.074   12.9   0.1   3.1   3   1   1   4   4   4   0 Cleavage and polyadenylation specificity factor subunit 4 OS=Drosophila melanogaster OX=7227 GN=Clp PE=1 SV=1
+sp|P29681|IMPE2_DROME          -          nup2l1               -                1.1    9.0  33.7       1.7    8.4  33.7   1.3   1   0   0   1   1   1   0 20-hydroxyecdysone protein OS=Drosophila melanogaster OX=7227 GN=ImpE2 PE=1 SV=1
+sp|Q9VDV3|NUP58_DROME          -          nup2l1               -                2.7    7.7 102.6       2.3    7.9  61.0   3.9   2   1   1   3   3   3   0 Nuclear pore complex protein Nup58 OS=Drosophila melanogaster OX=7227 GN=Nup58 PE=1 SV=1
+tr|Q9VZ55|Q9VZ55_DROME         -          nup2l1               -                2.8    7.7   4.3      0.41   10.4   0.5   1.5   2   0   0   2   2   2   0 GH07148p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1582 PE=1 SV=2
+tr|Q9W1I6|Q9W1I6_DROME         -          nup2l1               -                  4    7.2   9.3       5.2    6.8   9.3   1.3   1   0   0   1   1   1   0 LD12035p OS=Drosophila melanogaster OX=7227 GN=ytr PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:40 2022
+# [ok]

@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1B0GSX7|A0A1B0GSX7_MOUSE -          nup96                -                  0 2370.8 103.1         0 2369.7 103.1   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+sp|Q6PFD9|NUP98_MOUSE          -          nup96                -                  0 2367.3 102.8         0 2366.2 102.8   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=2
+tr|A0A140T8J8|A0A140T8J8_MOUSE -          nup96                -                  0 1330.4 165.8         0 1329.0 165.8   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|B2RQL0|B2RQL0_MOUSE         -          nup96                -                  0 1276.8 214.1         0 1273.8 214.1   2.3   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GRA7|A0A1B0GRA7_MOUSE -          nup96                -                  0 1089.5 181.0         0 1087.9 181.0   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GRB5|A0A1B0GRB5_MOUSE -          nup96                -                  0 1042.1 223.3         0 1038.7 223.3   2.4   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GS62|A0A1B0GS62_MOUSE -          nup96                -            1.3e-56  193.6  69.4   1.2e-39  137.4   0.1   3.0   1   1   2   3   3   3   3 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A2ATN3|A2ATN3_MOUSE         -          nup96                -            0.00085   18.5  75.3   0.00085   18.5  75.3   3.9   1   1   3   4   4   4   2 Nuclear pore complex protein Nup214 (Fragment) OS=Mus musculus OX=10090 GN=Nup214 PE=1 SV=1
+tr|F6SMY7|F6SMY7_MOUSE         -          nup96                -              0.024   13.6   0.0     0.024   13.6   0.0   2.6   3   0   0   3   3   1   0 E3 ubiquitin-protein ligase MYCBP2 (Fragment) OS=Mus musculus OX=10090 GN=Mycbp2 PE=1 SV=1
+sp|Q7TPH6|MYCB2_MOUSE          -          nup96                -              0.025   13.6   0.0     0.025   13.6   0.0   2.6   3   0   0   3   3   1   0 E3 ubiquitin-protein ligase MYCBP2 OS=Mus musculus OX=10090 GN=Mycbp2 PE=1 SV=3
+tr|E9PZ11|E9PZ11_MOUSE         -          nup96                -               0.11   11.4   8.9      0.14   11.1   8.9   1.0   1   0   0   1   1   1   0 Zinc finger protein 651 OS=Mus musculus OX=10090 GN=Zfp651 PE=1 SV=1
+sp|P46061|RAGP1_MOUSE          -          nup96                -               0.23   10.4   9.4      0.31   10.0   9.4   1.0   1   0   0   1   1   1   0 Ran GTPase-activating protein 1 OS=Mus musculus OX=10090 GN=Rangap1 PE=1 SV=2
+tr|E9PZX1|E9PZX1_MOUSE         -          nup96                -               0.28   10.1   0.0      0.28   10.1   0.0   2.1   2   0   0   2   2   2   0 Death domain-containing 1 OS=Mus musculus OX=10090 GN=Dthd1 PE=4 SV=1
+tr|A0A571BG01|A0A571BG01_MOUSE -          nup96                -               0.33    9.9   0.0      0.33    9.9   0.0   2.1   2   0   0   2   2   2   0 Death domain-containing 1 OS=Mus musculus OX=10090 GN=Dthd1 PE=4 SV=1
+sp|Q8BYL4|SYYM_MOUSE           -          nup96                -               0.36    9.8   0.3      0.46    9.4   0.3   1.0   1   0   0   1   1   1   0 Tyrosine--tRNA ligase, mitochondrial OS=Mus musculus OX=10090 GN=Yars2 PE=1 SV=2
+tr|A0A1L1STM6|A0A1L1STM6_MOUSE -          nup96                -               0.56    9.1  11.5      0.72    8.8  11.5   1.0   1   0   0   1   1   1   0 Zinc finger protein 651 (Fragment) OS=Mus musculus OX=10090 GN=Zfp651 PE=1 SV=1
+sp|Q00PI9|HNRL2_MOUSE          -          nup96                -                  1    8.2  16.8       1.5    7.7  16.8   1.1   1   0   0   1   1   1   0 Heterogeneous nuclear ribonucleoprotein U-like protein 2 OS=Mus musculus OX=10090 GN=Hnrnpul2 PE=1 SV=2
+tr|F6Q8C0|F6Q8C0_MOUSE         -          nup96                -                1.7    7.5   5.9       1.9    7.3   5.9   1.0   1   0   0   1   1   1   0 Apoptotic chromatin condensation inducer in the nucleus (Fragment) OS=Mus musculus OX=10090 GN=Acin1 PE=1 SV=1
+tr|D3Z513|D3Z513_MOUSE         -          nup96                -                2.1    7.2  15.5       2.3    7.1  15.5   1.0   1   0   0   1   1   1   0 Osteopontin (Fragment) OS=Mus musculus OX=10090 GN=Spp1 PE=1 SV=1
+tr|F2Z435|F2Z435_MOUSE         -          nup96                -                2.3    7.1   5.5       2.2    7.1   5.5   1.0   1   0   0   1   1   1   0 Stimulated by retinoic acid gene 8 protein OS=Mus musculus OX=10090 GN=Stra8 PE=4 SV=1
+tr|D3Z4N2|D3Z4N2_MOUSE         -          nup96                -                2.4    7.1  15.4       2.6    6.9  15.4   1.0   1   0   0   1   1   1   0 Osteopontin (Fragment) OS=Mus musculus OX=10090 GN=Spp1 PE=1 SV=1
+tr|A0A0N4SV69|A0A0N4SV69_MOUSE -          nup96                -                2.6    6.9   7.3       2.7    6.8   7.3   1.0   1   0   0   1   1   1   0 WW domain-binding protein 11 (Fragment) OS=Mus musculus OX=10090 GN=Wbp11 PE=1 SV=1
+tr|A0A0G2JDF1|A0A0G2JDF1_MOUSE -          nup96                -                3.4    6.5   8.0       3.9    6.3   8.0   1.0   1   0   0   1   1   1   0 Serrate RNA effector molecule homolog (Fragment) OS=Mus musculus OX=10090 GN=Srrt PE=1 SV=1
+tr|D3Z6F1|D3Z6F1_MOUSE         -          nup96                -                4.7    6.1  14.3         5    6.0  14.3   1.0   1   0   0   1   1   1   0 ADP-ribosylation factor-like protein 6-interacting protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Arl6ip4 PE=1 SV=8
+tr|A2A9Q2|A2A9Q2_MOUSE         -          nup96                -                4.9    6.0  14.3       7.1    5.5  14.3   1.1   1   0   0   1   1   1   0 Nardilysin, N-arginine dibasic convertase, NRD convertase 1 OS=Mus musculus OX=10090 GN=Nrd1 PE=1 SV=1
+tr|G3UZR9|G3UZR9_MOUSE         -          nup96                -                  5    6.0   9.7       4.7    6.1   9.7   1.0   1   0   0   1   1   1   0 Bromodomain-containing protein 2 (Fragment) OS=Mus musculus OX=10090 GN=Brd2 PE=1 SV=1
+sp|Q920S3|GATD1_MOUSE          -          nup96                -                5.2    5.9  12.0         6    5.7  12.0   1.0   1   0   0   1   1   1   0 GATA zinc finger domain-containing protein 1 OS=Mus musculus OX=10090 GN=Gatad1 PE=2 SV=2
+sp|E9QA62|LMOD3_MOUSE          -          nup96                -                6.4    5.6  20.1       9.3    5.1  20.1   1.2   1   0   0   1   1   1   0 Leiomodin-3 OS=Mus musculus OX=10090 GN=Lmod3 PE=1 SV=1
+tr|E9Q2Q6|E9Q2Q6_MOUSE         -          nup96                -                6.5    5.6   8.8       8.5    5.2   8.8   1.1   1   0   0   1   1   1   0 Transducin-like enhancer protein 1 OS=Mus musculus OX=10090 GN=Tle1 PE=1 SV=2
+tr|G3UWW1|G3UWW1_MOUSE         -          nup96                -                7.5    5.4  10.2       9.7    5.0  10.2   1.0   1   0   0   1   1   1   0 Microtubule-associated protein (Fragment) OS=Mus musculus OX=10090 GN=Map2 PE=1 SV=1
+sp|Q9ERQ3|ZN704_MOUSE          -          nup96                -                8.2    5.3   8.5        10    4.9   8.5   1.1   1   0   0   1   1   1   0 Zinc finger protein 704 OS=Mus musculus OX=10090 GN=Znf704 PE=1 SV=1
+tr|A0A0G2JH01|A0A0G2JH01_MOUSE -          nup96                -                8.6    5.2  10.7       8.6    5.2  10.7   1.0   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 41 (Fragment) OS=Mus musculus OX=10090 GN=Zbtb41 PE=4 SV=1
+tr|S4R265|S4R265_MOUSE         -          nup96                -                9.2    5.1  31.8        11    4.8  31.8   1.1   1   0   0   1   1   1   0 Arginine/serine-rich coiled-coil protein 2 OS=Mus musculus OX=10090 GN=Rsrc2 PE=1 SV=1
+tr|E9Q8Y1|E9Q8Y1_MOUSE         -          nup96                -                9.6    5.0   5.1       9.3    5.1   5.1   1.0   1   0   0   1   1   1   0 Protein DEK (Fragment) OS=Mus musculus OX=10090 GN=Dek PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:22:01 2022
+# [ok]

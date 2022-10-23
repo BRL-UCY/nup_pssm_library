@@ -1,0 +1,61 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5SRE5|NU188_HUMAN          -          nup188               -                  0 3008.5  23.1         0 3008.3  23.1   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|H7C4K7|H7C4K7_HUMAN         -          nup188               -            7.2e-42  144.6   0.4     8e-42  144.4   0.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Homo sapiens OX=9606 PE=4 SV=2
+sp|Q92621|NU205_HUMAN          -          nup188               -              9e-06   24.9   0.1     9e-06   24.9   0.1   4.0   4   0   0   4   4   4   2 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+sp|Q9UNL2|SSRG_HUMAN           -          nup188               -              0.056   12.3   0.0     0.073   12.0   0.0   1.0   1   0   0   1   1   1   0 Translocon-associated protein subunit gamma OS=Homo sapiens OX=9606 GN=SSR3 PE=1 SV=1
+tr|H0YM03|H0YM03_HUMAN         -          nup188               -               0.38    9.6   1.7      0.48    9.3   1.7   1.0   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 (Fragment) OS=Homo sapiens OX=9606 GN=COPS2 PE=1 SV=1
+tr|A0A2R8YEJ8|A0A2R8YEJ8_HUMAN -          nup188               -               0.47    9.3   0.1      0.79    8.5   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|C9JA28|C9JA28_HUMAN         -          nup188               -               0.52    9.1   0.0      0.59    9.0   0.0   1.0   1   0   0   1   1   1   0 Translocon-associated protein subunit gamma OS=Homo sapiens OX=9606 GN=SSR3 PE=1 SV=1
+tr|U3KPX2|U3KPX2_HUMAN         -          nup188               -               0.54    9.1   0.6      0.61    8.9   0.6   1.2   1   0   0   1   1   1   0 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|C9J365|C9J365_HUMAN         -          nup188               -               0.74    8.6   0.0      0.89    8.4   0.0   1.0   1   0   0   1   1   1   0 Translocon-associated protein subunit gamma OS=Homo sapiens OX=9606 GN=SSR3 PE=1 SV=1
+tr|H0YKU5|H0YKU5_HUMAN         -          nup188               -               0.79    8.5   1.6       1.1    8.1   1.6   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 (Fragment) OS=Homo sapiens OX=9606 GN=COPS2 PE=1 SV=1
+tr|D6RB97|D6RB97_HUMAN         -          nup188               -                1.2    7.9   2.6       2.9    6.6   2.6   1.6   1   1   0   1   1   1   0 Rap1 GTPase-GDP dissociation stimulator 1 (Fragment) OS=Homo sapiens OX=9606 GN=RAP1GDS1 PE=1 SV=1
+tr|K7EKZ3|K7EKZ3_HUMAN         -          nup188               -                1.4    7.7   0.1       1.6    7.5   0.1   1.0   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 4B OS=Homo sapiens OX=9606 GN=VPS4B PE=1 SV=1
+tr|B4DIH5|B4DIH5_HUMAN         -          nup188               -                1.4    7.7   1.3         2    7.2   1.3   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 OS=Homo sapiens OX=9606 GN=COPS2 PE=1 SV=1
+tr|Q5JTQ9|Q5JTQ9_HUMAN         -          nup188               -                1.7    7.5   1.9         2    7.2   1.9   1.0   1   0   0   1   1   1   0 Alpha-catulin OS=Homo sapiens OX=9606 GN=CTNNAL1 PE=1 SV=1
+tr|A0A2R8YGU4|A0A2R8YGU4_HUMAN -          nup188               -                1.8    7.3   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|H3BUU1|H3BUU1_HUMAN         -          nup188               -                1.8    7.3   0.3       1.9    7.3   0.3   1.0   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 protein OS=Homo sapiens OX=9606 GN=BBS4 PE=1 SV=1
+tr|X5D2U8|X5D2U8_HUMAN         -          nup188               -                1.8    7.3   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin (Fragment) OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|A0A2R8YDZ2|A0A2R8YDZ2_HUMAN -          nup188               -                1.8    7.3   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+sp|P61201|CSN2_HUMAN           -          nup188               -                1.8    7.3   1.3       2.6    6.8   1.3   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 OS=Homo sapiens OX=9606 GN=COPS2 PE=1 SV=1
+tr|A0A2R8Y5F1|A0A2R8Y5F1_HUMAN -          nup188               -                  2    7.2   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|H3BMQ0|H3BMQ0_HUMAN         -          nup188               -                  2    7.2   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|A0A2R8Y7X5|A0A2R8Y7X5_HUMAN -          nup188               -                  2    7.2   0.1       3.1    6.6   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|Q5JRG1|Q5JRG1_HUMAN         -          nup188               -                  2    7.2   2.4       2.3    7.0   2.4   1.1   1   0   0   1   1   1   0 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|A0A2R8Y7C8|A0A2R8Y7C8_HUMAN -          nup188               -                  2    7.2   0.1       3.1    6.5   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|A0A2R8YDR3|A0A2R8YDR3_HUMAN -          nup188               -                2.1    7.2   0.1       3.1    6.5   0.1   1.2   1   0   0   1   1   1   0 Tuberin (Fragment) OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+tr|A0A2R8YGD6|A0A2R8YGD6_HUMAN -          nup188               -                2.1    7.1   0.1       3.2    6.5   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=1
+sp|P49815|TSC2_HUMAN           -          nup188               -                2.1    7.1   0.1       3.2    6.5   0.1   1.2   1   0   0   1   1   1   0 Tuberin OS=Homo sapiens OX=9606 GN=TSC2 PE=1 SV=2
+tr|H7BYF2|H7BYF2_HUMAN         -          nup188               -                2.2    7.1   2.2       2.6    6.8   2.2   1.1   1   0   0   1   1   1   0 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+sp|Q9NXG2|THUM1_HUMAN          -          nup188               -                2.3    7.0   0.1       3.2    6.5   0.1   1.1   1   0   0   1   1   1   0 THUMP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=THUMPD1 PE=1 SV=2
+sp|Q2M3C6|TM266_HUMAN          -          nup188               -                2.5    6.9   0.1       3.3    6.5   0.1   1.1   1   0   0   1   1   1   0 Transmembrane protein 266 OS=Homo sapiens OX=9606 GN=TMEM266 PE=1 SV=2
+tr|H7C1D8|H7C1D8_HUMAN         -          nup188               -                2.9    6.7   0.1       2.8    6.7   0.1   1.0   1   0   0   1   1   1   0 Clathrin heavy chain linker domain-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=CLHC1 PE=4 SV=1
+tr|H0Y8M2|H0Y8M2_HUMAN         -          nup188               -                  3    6.6   0.8       3.9    6.2   0.6   1.2   1   1   0   1   1   1   0 Rap1 GTPase-GDP dissociation stimulator 1 (Fragment) OS=Homo sapiens OX=9606 GN=RAP1GDS1 PE=1 SV=1
+sp|Q8NHS4|CLHC1_HUMAN          -          nup188               -                3.3    6.5   0.1       5.6    5.7   0.1   1.3   1   0   0   1   1   1   0 Clathrin heavy chain linker domain-containing protein 1 OS=Homo sapiens OX=9606 GN=CLHC1 PE=1 SV=3
+tr|F1T0B5|F1T0B5_HUMAN         -          nup188               -                3.5    6.4   0.3        41    2.8   0.0   1.8   1   1   1   2   2   2   0 Aryl-hydrocarbon-interacting protein-like 1 OS=Homo sapiens OX=9606 GN=AIPL1 PE=1 SV=1
+tr|Q5TCT4|Q5TCT4_HUMAN         -          nup188               -                3.5    6.4   0.2       4.7    6.0   0.2   1.0   1   0   0   1   1   1   0 RNA-binding protein 34 (Fragment) OS=Homo sapiens OX=9606 GN=RBM34 PE=1 SV=1
+tr|A0A2R8Y7E3|A0A2R8Y7E3_HUMAN -          nup188               -                3.7    6.3   0.0       3.8    6.3   0.0   1.0   1   0   0   1   1   1   0 Fukutin OS=Homo sapiens OX=9606 GN=FKTN PE=4 SV=1
+tr|C9J8P8|C9J8P8_HUMAN         -          nup188               -                4.2    6.1   0.3       4.3    6.1   0.3   1.1   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+tr|H7C4J4|H7C4J4_HUMAN         -          nup188               -                4.2    6.1   0.0       4.3    6.1   0.0   1.0   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+sp|Q2VYF4|LETM2_HUMAN          -          nup188               -                  6    5.6   0.4       7.8    5.2   0.4   1.1   1   0   0   1   1   1   0 LETM1 domain-containing protein LETM2, mitochondrial OS=Homo sapiens OX=9606 GN=LETM2 PE=2 SV=2
+sp|Q9BVL2|NUP58_HUMAN          -          nup188               -                6.1    5.6   3.1         8    5.2   3.1   1.1   1   0   0   1   1   1   0 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|A0A087WZQ1|A0A087WZQ1_HUMAN -          nup188               -                  7    5.4   0.0        12    4.7   0.0   1.2   1   0   0   1   1   1   0 Potassium voltage-gated channel subfamily H member 7 OS=Homo sapiens OX=9606 GN=KCNH7 PE=1 SV=1
+tr|H7C5H2|H7C5H2_HUMAN         -          nup188               -                  7    5.4   0.1       6.7    5.5   0.1   1.1   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+tr|A0A1B0GTF0|A0A1B0GTF0_HUMAN -          nup188               -                7.3    5.3   0.2        10    4.9   0.2   1.1   1   0   0   1   1   1   0 Rho guanine nucleotide exchange factor 9 (Fragment) OS=Homo sapiens OX=9606 GN=ARHGEF9 PE=1 SV=1
+sp|P49643|PRI2_HUMAN           -          nup188               -                7.6    5.3   0.5        11    4.8   0.5   1.1   1   0   0   1   1   1   0 DNA primase large subunit OS=Homo sapiens OX=9606 GN=PRIM2 PE=1 SV=2
+sp|Q9NS40|KCNH7_HUMAN          -          nup188               -                7.8    5.2   0.0        13    4.5   0.0   1.2   1   0   0   1   1   1   0 Potassium voltage-gated channel subfamily H member 7 OS=Homo sapiens OX=9606 GN=KCNH7 PE=2 SV=2
+tr|H0YBP8|H0YBP8_HUMAN         -          nup188               -                8.4    5.1   0.0       8.3    5.1   0.0   1.1   1   0   0   1   1   1   0 Chromatin accessibility complex protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=CHRAC1 PE=1 SV=1
+sp|Q6PKC3|TXD11_HUMAN          -          nup188               -                8.5    5.1   2.5        12    4.6   2.5   1.1   1   0   0   1   1   1   0 Thioredoxin domain-containing protein 11 OS=Homo sapiens OX=9606 GN=TXNDC11 PE=1 SV=2
+tr|C9JAA7|C9JAA7_HUMAN         -          nup188               -                9.5    5.0   0.3        11    4.8   0.3   1.1   1   0   0   1   1   1   0 Armadillo repeat-containing protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=ARMC8 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/HSAP/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:49:54 2022
+# [ok]

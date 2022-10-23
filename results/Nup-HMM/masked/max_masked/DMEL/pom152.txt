@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B7Z0D9|B7Z0D9_DROME         -          pom152               -                1.6    6.8   0.0       2.5    6.1   0.0   1.1   1   0   0   1   1   1   0 Down syndrome cell adhesion molecule 4, isoform H OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=1
+tr|Q0E8G9|Q0E8G9_DROME         -          pom152               -                1.7    6.7   0.0       2.5    6.1   0.0   1.1   1   0   0   1   1   1   0 Down syndrome cell adhesion molecule 4, isoform D OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=2
+tr|M9PHS6|M9PHS6_DROME         -          pom152               -                1.7    6.7   0.0       2.6    6.1   0.0   1.1   1   0   0   1   1   1   0 Down syndrome cell adhesion molecule 4, isoform I OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=1
+tr|Q8IPK2|Q8IPK2_DROME         -          pom152               -                3.1    5.8   0.0       3.9    5.5   0.0   1.0   1   0   0   1   1   1   0 AT02387p OS=Drosophila melanogaster OX=7227 GN=NEST:bs35c08 PE=2 SV=1
+tr|X2J6Q6|X2J6Q6_DROME         -          pom152               -                3.2    5.7   0.1       4.2    5.4   0.1   1.0   1   0   0   1   1   1   0 Palmitoyltransferase OS=Drosophila melanogaster OX=7227 GN=GABPI PE=3 SV=1
+tr|Q9VQK9|Q9VQK9_DROME         -          pom152               -                4.4    5.3   0.1       5.8    4.9   0.1   1.0   1   0   0   1   1   1   0 Palmitoyltransferase OS=Drosophila melanogaster OX=7227 GN=GABPI PE=2 SV=2
+tr|X2JID2|X2JID2_DROME         -          pom152               -                5.6    5.0   0.0       6.6    4.7   0.0   1.0   1   0   0   1   1   1   0 GEO13083p1 OS=Drosophila melanogaster OX=7227 GN=TrxT PE=2 SV=1
+sp|Q8IFW4|THIOT_DROME          -          pom152               -                6.5    4.8   0.0       7.4    4.6   0.0   1.0   1   0   0   1   1   1   0 Thioredoxin-T OS=Drosophila melanogaster OX=7227 GN=TrxT PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:11:00 2022
+# [ok]

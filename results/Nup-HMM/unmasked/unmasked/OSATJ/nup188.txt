@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0XSU3|A0A0P0XSU3_ORYSJ -          nup188               -              0.028   12.7   0.0     0.033   12.5   0.0   1.0   1   0   0   1   1   1   0 Os10g0154566 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0154566 PE=1 SV=1
+tr|C7J8K1|C7J8K1_ORYSJ         -          nup188               -                0.5    8.6   0.0      0.63    8.3   0.0   1.0   1   0   0   1   1   1   0 Os11g0192500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0192500 PE=1 SV=1
+sp|Q10Q26|Y3123_ORYSJ          -          nup188               -               0.97    7.6   0.0       1.2    7.4   0.0   1.0   1   0   0   1   1   1   0 B3 domain-containing protein Os03g0212300 OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0212300 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup188.txt --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:59 2022
+# [ok]

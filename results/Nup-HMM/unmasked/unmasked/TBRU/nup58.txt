@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q582K2|Q582K2_TRYB2 -          nup58                -              0.025   12.0   0.6      0.11    9.9   0.1   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.5870 PE=4 SV=1
+tr|Q57VC0|Q57VC0_TRYB2 -          nup58                -               0.48    7.7  10.8      0.72    7.1  10.8   1.2   1   0   0   1   1   1   0 65 kDa invariant surface glycoprotein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.1430 PE=4 SV=1
+tr|Q586L2|Q586L2_TRYB2 -          nup58                -                2.8    5.2  15.0       3.6    4.8  15.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.2.2390 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TBRU/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:41 2022
+# [ok]

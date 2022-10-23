@@ -1,0 +1,39 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P39705|NUP60_YEAST -          nup60                -             1e-149  498.5  78.8  9.6e-149  495.3  78.8   1.9   1   1   0   1   1   1   1 Nucleoporin NUP60 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP60 PE=1 SV=1
+sp|P08465|MET2_YEAST  -          nup60                -               0.47    7.8   8.8      0.67    7.3   8.8   1.1   1   0   0   1   1   1   0 Homoserine O-acetyltransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MET2 PE=1 SV=2
+sp|P39940|RSP5_YEAST  -          nup60                -               0.73    7.2  12.4       1.1    6.5  12.4   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RSP5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RSP5 PE=1 SV=1
+sp|Q3E742|YL412_YEAST -          nup60                -                1.4    6.2   4.9       1.5    6.1   4.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein YLR412C-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YLR412C-A PE=4 SV=1
+sp|Q08931|PRM3_YEAST  -          nup60                -                1.9    5.8   7.1       2.2    5.6   7.1   1.1   1   0   0   1   1   1   0 Pheromone-regulated membrane protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PRM3 PE=1 SV=1
+sp|P41920|YRB1_YEAST  -          nup60                -                2.2    5.6   5.3       2.8    5.2   5.3   1.2   1   0   0   1   1   1   0 Ran-specific GTPase-activating protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRB1 PE=1 SV=1
+sp|P54964|ORN_YEAST   -          nup60                -                3.6    4.9   0.8         5    4.4   0.8   1.1   1   0   0   1   1   1   0 Oligoribonuclease, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=REX2 PE=1 SV=1
+sp|P38784|VMA22_YEAST -          nup60                -                3.6    4.9   1.1       3.9    4.7   1.1   1.1   1   0   0   1   1   1   0 Vacuolar ATPase assembly protein VMA22 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VMA22 PE=1 SV=1
+sp|P40018|RSMB_YEAST  -          nup60                -                4.4    4.6  10.6       5.6    4.2  10.6   1.1   1   0   0   1   1   1   0 Small nuclear ribonucleoprotein-associated protein B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SMB1 PE=1 SV=1
+sp|Q3E824|YO020_YEAST -          nup60                -                4.4    4.6   3.3       4.4    4.6   3.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein YOR020W-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YOR020W-A PE=1 SV=1
+sp|P43497|CWP2_YEAST  -          nup60                -                4.7    4.5   3.4       5.1    4.4   3.4   1.0   1   0   0   1   1   1   0 Cell wall protein CWP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CWP2 PE=1 SV=1
+sp|Q12145|YP013_YEAST -          nup60                -                  5    4.4   5.0       7.2    3.9   5.0   1.2   1   0   0   1   1   1   0 Zinc finger protein YPR013C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPR013C PE=1 SV=1
+sp|Q12110|YL049_YEAST -          nup60                -                5.3    4.3   5.0       8.6    3.6   5.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein YLR049C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YLR049C PE=1 SV=1
+sp|Q2V2P3|YK023_YEAST -          nup60                -                5.5    4.3   2.3       6.5    4.0   2.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein YKL023C-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YKL023C-A PE=4 SV=1
+sp|Q12487|RM23_YEAST  -          nup60                -                5.6    4.2   0.1         7    3.9   0.1   1.1   1   0   0   1   1   1   0 54S ribosomal protein L23, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MRPL23 PE=1 SV=1
+sp|P35725|YKG3_YEAST  -          nup60                -                6.1    4.1  16.1       7.6    3.8  16.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein YKL063C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YKL063C PE=1 SV=1
+sp|Q12192|RFM1_YEAST  -          nup60                -                6.2    4.1   7.4        11    3.2   7.4   1.4   1   0   0   1   1   1   0 Repression factor of MSEs protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RFM1 PE=1 SV=1
+sp|P01123|YPT1_YEAST  -          nup60                -                6.3    4.1   0.7         8    3.7   0.7   1.1   1   0   0   1   1   1   0 GTP-binding protein YPT1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPT1 PE=1 SV=2
+sp|P40080|VFA1_YEAST  -          nup60                -                6.7    4.0   6.1       8.2    3.7   6.1   1.1   1   0   0   1   1   1   0 VPS4-associated protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VFA1 PE=1 SV=1
+sp|P0CY11|HMRA1_YEAST -          nup60                -                6.7    4.0   1.6       7.9    3.7   1.6   1.1   1   0   0   1   1   1   0 Silenced mating-type protein A1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HMRA1 PE=1 SV=1
+sp|P21374|ISY1_YEAST  -          nup60                -                6.8    3.9   0.6        12    3.1   0.6   1.4   1   0   0   1   1   1   0 Pre-mRNA-splicing factor ISY1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ISY1 PE=1 SV=2
+sp|P47141|RT26_YEAST  -          nup60                -                  8    3.7   0.0        12    3.1   0.0   1.2   1   0   0   1   1   1   0 37S ribosomal protein S26, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RSM26 PE=1 SV=1
+sp|P33328|SNC2_YEAST  -          nup60                -                8.6    3.6   0.1       8.6    3.6   0.1   1.0   1   0   0   1   1   1   0 Synaptobrevin homolog 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SNC2 PE=1 SV=2
+sp|Q03558|OYE2_YEAST  -          nup60                -                  9    3.5   0.3        12    3.1   0.3   1.1   1   0   0   1   1   1   0 NADPH dehydrogenase 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=OYE2 PE=1 SV=3
+sp|P45819|SPO74_YEAST -          nup60                -                9.1    3.5   6.0        21    2.3   6.0   1.6   1   0   0   1   1   1   0 Sporulation-specific protein 74 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPO74 PE=1 SV=1
+sp|Q06188|YL455_YEAST -          nup60                -                9.6    3.5   8.1        12    3.2   8.1   1.3   1   0   0   1   1   1   0 PWWP domain-containing protein YLR455W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YLR455W PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/SCER/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:38:37 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AN67|A0A509AN67_PLABA -          nup188               -                2.6    2.9   0.2       3.5    2.5   0.2   1.0   1   0   0   1   1   1   0 Zinc finger protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1314100 PE=4 SV=1
+tr|A0A509AEH1|A0A509AEH1_PLABA -          nup188               -                7.3    1.4   2.0       9.3    1.1   2.0   1.0   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0500971 PE=4 SV=1
+tr|A0A509ANR0|A0A509ANR0_PLABA -          nup188               -                7.4    1.4   0.5        13    0.6   0.3   1.3   1   1   0   1   1   1   0 Karyopherin beta, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1238800 PE=4 SV=1
+tr|A0A509AE09|A0A509AE09_PLABA -          nup188               -                7.7    1.4   0.1       8.5    1.2   0.1   1.0   1   0   0   1   1   1   0 Dynein light chain, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0302200 PE=4 SV=1
+tr|A0A509ASR9|A0A509ASR9_PLABA -          nup188               -                8.7    1.2   5.0        12    0.7   5.0   1.0   1   0   0   1   1   1   0 Hydroxymethyldihydropterin pyrophosphokinase-dihydropteroate synthase, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1426700 PE=4 SV=1
+tr|A0A509AM65|A0A509AM65_PLABA -          nup188               -                  9    1.1   1.1        12    0.7   1.1   1.0   1   0   0   1   1   1   0 WW domain-containing protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0936400 PE=4 SV=1
+tr|A0A509ASH3|A0A509ASH3_PLABA -          nup188               -                9.4    1.1   0.0        11    0.8   0.0   1.0   1   0   0   1   1   1   0 SNARE protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1339900 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/PBERA/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:18:47 2022
+# [ok]

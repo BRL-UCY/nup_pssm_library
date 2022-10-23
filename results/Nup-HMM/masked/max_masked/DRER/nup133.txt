@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F1QNV4|NU133_DANRE          -          nup133               -           8.6e-294  978.8   0.0  1.1e-293  978.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Danio rerio OX=7955 GN=nup133 PE=2 SV=1
+tr|E7FA76|E7FA76_DANRE         -          nup133               -                2.8    6.8   0.1       3.7    6.4   0.1   1.0   1   0   0   1   1   1   0 WD repeat domain 20a OS=Danio rerio OX=7955 GN=wdr20a PE=4 SV=1
+tr|A0A0H2UKJ5|A0A0H2UKJ5_DANRE -          nup133               -                3.5    6.5   0.3       3.9    6.3   0.3   1.1   1   0   0   1   1   1   0 Utrophin (Fragment) OS=Danio rerio OX=7955 GN=utrn PE=4 SV=1
+tr|A0A0R4IQH3|A0A0R4IQH3_DANRE -          nup133               -                5.4    5.8   0.1       7.8    5.3   0.1   1.1   1   0   0   1   1   1   0 Si:dkey-254e13.6 OS=Danio rerio OX=7955 GN=si:dkey-254e13.6 PE=4 SV=2
+tr|F1QE76|F1QE76_DANRE         -          nup133               -                6.6    5.5   3.9       6.7    5.5   1.2   1.9   2   0   0   2   2   2   0 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1Q953|F1Q953_DANRE         -          nup133               -                  8    5.3   3.9       8.6    5.2   1.2   2.1   2   0   0   2   2   2   0 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|A0A0R4IQK5|A0A0R4IQK5_DANRE -          nup133               -                9.3    5.0   0.0        12    4.7   0.0   1.0   1   0   0   1   1   1   0 Cd8 beta OS=Danio rerio OX=7955 GN=cd8b PE=4 SV=1
+tr|F1Q5J5|F1Q5J5_DANRE         -          nup133               -                9.4    5.0   0.0        13    4.6   0.0   1.0   1   0   0   1   1   1   0 WD repeat domain 20b OS=Danio rerio OX=7955 GN=wdr20b PE=4 SV=2
+tr|F6PA60|F6PA60_DANRE         -          nup133               -                9.5    5.0   0.1        14    4.4   0.1   1.1   1   0   0   1   1   1   0 Si:dkey-254e13.6 OS=Danio rerio OX=7955 GN=si:dkey-254e13.6 PE=4 SV=2
+tr|E7FD41|E7FD41_DANRE         -          nup133               -                9.7    5.0   0.0        12    4.6   0.0   1.0   1   0   0   1   1   1   0 Cd8 beta OS=Danio rerio OX=7955 GN=cd8b PE=4 SV=1
+sp|Q803V5|LST8_DANRE           -          nup133               -                9.8    5.0   0.2        51    2.6   0.0   1.6   1   1   1   2   2   2   0 Target of rapamycin complex subunit lst8 OS=Danio rerio OX=7955 GN=mlst8 PE=2 SV=1
+tr|X1WEZ6|X1WEZ6_DANRE         -          nup133               -                9.9    5.0   0.0        14    4.4   0.0   1.1   1   0   0   1   1   1   0 Nucleoporin 160 (Fragment) OS=Danio rerio OX=7955 GN=nup160 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:32:38 2022
+# [ok]

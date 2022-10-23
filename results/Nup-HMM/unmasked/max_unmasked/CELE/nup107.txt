@@ -1,0 +1,52 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q19131|NPP5_CAEEL           -          nup107               -            3.3e-54  184.8   3.2   1.1e-47  163.3   2.4   2.2   2   0   0   2   2   2   2 Nuclear pore complex protein 5 OS=Caenorhabditis elegans OX=6239 GN=npp-5 PE=1 SV=1
+tr|X5M8Y9|X5M8Y9_CAEEL         -          nup107               -            0.00063   18.5   0.1    0.0014   17.3   0.1   1.5   1   0   0   1   1   1   1 Nuclear pore protein OS=Caenorhabditis elegans OX=6239 GN=npp-13 PE=1 SV=1
+tr|Q9BKT9|Q9BKT9_CAEEL         -          nup107               -            0.00087   18.0   0.1    0.0019   16.9   0.1   1.4   1   0   0   1   1   1   1 Nuclear pore protein OS=Caenorhabditis elegans OX=6239 GN=npp-13 PE=1 SV=1
+sp|Q10918|YT15_CAEEL           -          nup107               -              0.044   12.4   0.4     0.054   12.1   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein B0252.5 OS=Caenorhabditis elegans OX=6239 GN=B0252.5 PE=4 SV=1
+tr|O45995|O45995_CAEEL         -          nup107               -               0.26    9.9   1.4      0.44    9.1   1.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK1053.4 PE=1 SV=2
+tr|Q5FC55|Q5FC55_CAEEL         -          nup107               -               0.26    9.8   1.3      0.32    9.5   1.3   1.0   1   0   0   1   1   1   0 DUF148 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK822.6 PE=4 SV=2
+tr|Q19007|Q19007_CAEEL         -          nup107               -               0.77    8.3   0.0      0.98    7.9   0.0   1.1   1   0   0   1   1   1   0 Nucleosome Assembly Protein OS=Caenorhabditis elegans OX=6239 GN=nap-1 PE=1 SV=1
+tr|Q21539|Q21539_CAEEL         -          nup107               -               0.85    8.2   0.2         1    7.9   0.2   1.1   1   0   0   1   1   1   0 14_3_3 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M117.3 PE=4 SV=1
+sp|P34453|PEX19_CAEEL          -          nup107               -                1.4    7.4   0.4         2    6.9   0.4   1.2   1   0   0   1   1   1   0 Putative peroxisomal biogenesis factor 19 OS=Caenorhabditis elegans OX=6239 GN=prx-19 PE=1 SV=1
+tr|O02336|O02336_CAEEL         -          nup107               -                1.7    7.1   0.5       2.2    6.8   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W02D9.4 PE=4 SV=2
+tr|H2FLM0|H2FLM0_CAEEL         -          nup107               -                1.8    7.0   0.2       1.8    7.1   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R08A2.9 PE=4 SV=2
+sp|Q09444|UBH4_CAEEL           -          nup107               -                1.9    7.0   1.0       2.6    6.5   1.0   1.1   1   0   0   1   1   1   0 Ubiquitin carboxyl-terminal hydrolase ubh-4 OS=Caenorhabditis elegans OX=6239 GN=ubh-4 PE=1 SV=2
+tr|Q19126|Q19126_CAEEL         -          nup107               -                2.1    6.8   1.6       2.9    6.4   1.6   1.1   1   0   0   1   1   1   0 ATP Synthase B homolog OS=Caenorhabditis elegans OX=6239 GN=asb-2 PE=1 SV=1
+tr|G5EGP6|G5EGP6_CAEEL         -          nup107               -                2.3    6.7   0.1       6.3    5.3   0.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F37H8.2 PE=4 SV=1
+tr|A0A2C9C369|A0A2C9C369_CAEEL -          nup107               -                2.6    6.6   0.0       3.2    6.2   0.0   1.1   1   0   0   1   1   1   0 Acyl CoA DeHydrogenase OS=Caenorhabditis elegans OX=6239 GN=acdh-2 PE=4 SV=1
+tr|Q9BIB0|Q9BIB0_CAEEL         -          nup107               -                2.7    6.5   0.0       3.6    6.1   0.0   1.1   1   0   0   1   1   1   0 Acyl CoA DeHydrogenase OS=Caenorhabditis elegans OX=6239 GN=acdh-2 PE=4 SV=3
+tr|Q9N3C0|Q9N3C0_CAEEL         -          nup107               -                2.8    6.4   3.6         7    5.1   3.6   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.13 PE=4 SV=3
+tr|Q95QT5|Q95QT5_CAEEL         -          nup107               -                2.9    6.4   0.4       4.2    5.9   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C28C12.12 PE=1 SV=1
+tr|O62346|O62346_CAEEL         -          nup107               -                  3    6.3   0.1         4    5.9   0.1   1.2   1   1   0   1   1   1   0 Neuropeptide-Like Protein OS=Caenorhabditis elegans OX=6239 GN=nlp-67 PE=1 SV=1
+sp|P34619|SOR1_CAEEL           -          nup107               -                4.1    5.9   0.4         7    5.1   0.4   1.3   1   0   0   1   1   1   0 Sop-2-related protein 1 OS=Caenorhabditis elegans OX=6239 GN=sor-1 PE=1 SV=1
+tr|Q21494|Q21494_CAEEL         -          nup107               -                4.2    5.8   0.2       8.7    4.8   0.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M03D4.4 PE=4 SV=2
+tr|Q5TYL4|Q5TYL4_CAEEL         -          nup107               -                4.5    5.8   0.2       7.5    5.0   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M03D4.4 PE=4 SV=1
+tr|Q23363|Q23363_CAEEL         -          nup107               -                4.7    5.7   0.2       7.5    5.0   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZC513.3 PE=4 SV=1
+tr|A0A2C9C2X1|A0A2C9C2X1_CAEEL -          nup107               -                5.2    5.5   0.0         7    5.1   0.0   1.1   1   0   0   1   1   1   0 Acyl CoA DeHydrogenase OS=Caenorhabditis elegans OX=6239 GN=acdh-2 PE=1 SV=1
+tr|Q22537|Q22537_CAEEL         -          nup107               -                  6    5.3   0.8       8.1    4.9   0.8   1.1   1   0   0   1   1   1   0 DUF148 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T17H7.1 PE=1 SV=1
+tr|H2KYT9|H2KYT9_CAEEL         -          nup107               -                6.2    5.3   0.0       8.3    4.9   0.0   1.1   1   0   0   1   1   1   0 Acyl CoA DeHydrogenase OS=Caenorhabditis elegans OX=6239 GN=acdh-2 PE=1 SV=1
+tr|B3WFU5|B3WFU5_CAEEL         -          nup107               -                6.7    5.2   0.2       7.3    5.1   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F35C8.8 PE=4 SV=2
+tr|Q22178|Q22178_CAEEL         -          nup107               -                7.1    5.1   0.3        11    4.5   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T04H1.5 PE=1 SV=1
+tr|Q1XFY7|Q1XFY7_CAEEL         -          nup107               -                7.3    5.1   0.1       9.4    4.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F49D11.3 PE=4 SV=1
+tr|G5EEK4|G5EEK4_CAEEL         -          nup107               -                7.4    5.0   0.4        12    4.3   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y45F3A.1 PE=1 SV=1
+sp|O16000|STX1A_CAEEL          -          nup107               -                7.6    5.0   1.9        29    3.1   0.2   2.0   1   1   1   2   2   2   0 Syntaxin-1A homolog OS=Caenorhabditis elegans OX=6239 GN=unc-64 PE=1 SV=1
+sp|Q18688|HSP90_CAEEL          -          nup107               -                8.1    4.9   0.0        16    3.9   0.0   1.4   1   0   0   1   1   1   0 Heat shock protein 90 OS=Caenorhabditis elegans OX=6239 GN=daf-21 PE=1 SV=1
+tr|H2KYU0|H2KYU0_CAEEL         -          nup107               -                8.4    4.9   0.0        11    4.4   0.0   1.1   1   0   0   1   1   1   0 Acyl CoA DeHydrogenase OS=Caenorhabditis elegans OX=6239 GN=acdh-2 PE=1 SV=2
+sp|P34410|TWK7_CAEEL           -          nup107               -                8.6    4.8   0.1        14    4.2   0.1   1.2   1   0   0   1   1   1   0 TWiK family of potassium channels protein 7 OS=Caenorhabditis elegans OX=6239 GN=twk-7 PE=3 SV=3
+tr|A0A0K3AVJ4|A0A0K3AVJ4_CAEEL -          nup107               -                8.8    4.8   0.0        12    4.3   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F48G7.12 PE=4 SV=1
+sp|Q03560|CTR9_CAEEL           -          nup107               -                9.2    4.7   2.8        25    3.3   2.8   1.8   1   0   0   1   1   1   0 RNA polymerase-associated protein CTR9 OS=Caenorhabditis elegans OX=6239 GN=ctr-9 PE=3 SV=3
+tr|Q9U3L4|Q9U3L4_CAEEL         -          nup107               -                9.6    4.7   0.1       9.9    4.6   0.1   1.1   1   0   0   1   1   1   0 S4 RNA-binding domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C47B2.9 PE=1 SV=2
+tr|Q7Z1Q6|Q7Z1Q6_CAEEL         -          nup107               -                9.8    4.6   0.0        17    3.9   0.0   1.3   1   0   0   1   1   1   0 Protein containing ALS2cr12 (ALS2CR12) signature OS=Caenorhabditis elegans OX=6239 GN=pals-18 PE=4 SV=2
+tr|G5ECN7|G5ECN7_CAEEL         -          nup107               -                9.9    4.6   1.9        12    4.4   1.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y38C1AB.3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CELE/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:41:22 2022
+# [ok]

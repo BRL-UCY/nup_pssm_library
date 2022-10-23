@@ -1,0 +1,20 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9US56|MUG31_SCHPO -          mug31                -            2.3e-51  172.3   6.6   2.6e-51  172.1   6.6   1.0   1   0   0   1   1   1   1 Meiotically up-regulated gene 31 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug31 PE=1 SV=1
+sp|Q9P6I4|YHG6_SCHPO  -          mug31                -                1.2    6.8   0.1       1.8    6.2   0.1   1.2   1   0   0   1   1   1   0 Putative mannan endo-1,6-alpha-mannosidase C1198.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1198.06c PE=3 SV=1
+sp|Q9URX3|1A1D_SCHPO  -          mug31                -                2.3    5.8   0.0       3.4    5.3   0.0   1.2   1   0   0   1   1   1   0 Probable 1-aminocyclopropane-1-carboxylate deaminase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC922.03 PE=3 SV=1
+sp|Q9P7N1|BUD32_SCHPO -          mug31                -                3.4    5.3   0.0       4.3    5.0   0.0   1.1   1   0   0   1   1   1   0 EKC/KEOPS complex subunit SPAP27G11.07c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAP27G11.07c PE=3 SV=1
+sp|O74834|UNG_SCHPO   -          mug31                -                8.5    4.0   0.2        14    3.3   0.2   1.2   1   0   0   1   1   1   0 Uracil-DNA glycosylase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ung1 PE=3 SV=1
+sp|Q92368|RCD1_SCHPO  -          mug31                -                 10    3.8   0.0        30    2.2   0.0   1.7   1   0   0   1   1   1   0 Cell differentiation protein rcd1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rcd1 PE=3 SV=1
+sp|O74951|YJC2_SCHPO  -          mug31                -                 10    3.8   0.1        19    2.8   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein C736.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC736.02 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:16:23 2022
+# [ok]

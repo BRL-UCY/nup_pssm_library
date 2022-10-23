@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HS46|A0A498HS46_MALDO -          nup54                -            2.4e-32  113.7   0.0   5.2e-25   89.4   0.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033825 PE=4 SV=1
+tr|A0A498I9Q2|A0A498I9Q2_MALDO -          nup54                -            9.5e-31  108.4   0.1   1.6e-24   87.9   0.0   3.0   3   0   0   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041037 PE=4 SV=1
+tr|A0A498JY51|A0A498JY51_MALDO -          nup54                -                4.6    7.1   0.1       6.2    6.7   0.1   1.1   1   0   0   1   1   1   0 Myb-like domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001064 PE=4 SV=1
+tr|A0A498IPQ1|A0A498IPQ1_MALDO -          nup54                -                9.5    6.1   2.4        12    5.8   2.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003701 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:47:48 2022
+# [ok]

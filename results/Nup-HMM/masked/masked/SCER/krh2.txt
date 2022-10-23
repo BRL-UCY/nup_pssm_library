@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q12164|POM33_YEAST -          krh2                 -            3.1e-45  152.7  12.1   4.2e-44  149.0  12.1   1.9   1   1   0   1   1   1   1 Pore membrane protein of 33 kDa OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=POM33 PE=1 SV=1
+sp|Q12144|PER33_YEAST -          krh2                 -            3.3e-13   47.8   7.0   9.3e-08   30.0   1.8   2.1   2   0   0   2   2   2   2 Pore and endoplasmic reticulum protein of 33 kDa OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PER33 PE=1 SV=1
+sp|P53217|YG1I_YEAST  -          krh2                 -            2.6e-06   25.2   7.2   4.2e-06   24.5   1.1   2.2   2   0   0   2   2   2   2 Uncharacterized membrane protein YGR026W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YGR026W PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:43 2022
+# [ok]

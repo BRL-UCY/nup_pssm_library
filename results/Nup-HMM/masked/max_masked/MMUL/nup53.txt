@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XL37|F6XL37_MACMU         -          nup53                -            1.5e-90  305.8   0.0   1.5e-88  299.2   0.0   2.7   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=2
+tr|A0A1D5QUE9|A0A1D5QUE9_MACMU -          nup53                -            1.6e-90  305.6   0.0   1.6e-88  299.1   0.0   2.7   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=1
+tr|A0A1D5R653|A0A1D5R653_MACMU -          nup53                -            1.8e-90  305.5   0.0   1.7e-88  299.0   0.0   2.7   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=2 SV=1
+tr|A0A1D5Q543|A0A1D5Q543_MACMU -          nup53                -            4.6e-12   47.8   0.0   4.3e-11   44.6   0.0   1.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP35 PE=4 SV=1
+tr|F6Z248|F6Z248_MACMU         -          nup53                -            0.00078   20.7   0.0    0.0012   20.1   0.0   1.2   1   0   0   1   1   1   1 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX2 PE=4 SV=2
+tr|F6TRT5|F6TRT5_MACMU         -          nup53                -             0.0008   20.7   0.0    0.0013   20.0   0.0   1.2   1   0   0   1   1   1   1 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX2 PE=4 SV=2
+tr|F7C6A7|F7C6A7_MACMU         -          nup53                -              0.078   14.2   0.0      0.12   13.6   0.0   1.2   1   0   0   1   1   1   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX1 PE=4 SV=2
+tr|A0A1D5RBQ6|A0A1D5RBQ6_MACMU -          nup53                -                2.3    9.3   0.0       3.7    8.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POU4F3 PE=4 SV=1
+tr|A0A1D5R6L1|A0A1D5R6L1_MACMU -          nup53                -                2.8    9.1   0.0       4.3    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POU4F3 PE=4 SV=1
+tr|A0A1D5QID4|A0A1D5QID4_MACMU -          nup53                -                2.8    9.0   0.0       4.5    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POU4F3 PE=4 SV=1
+tr|A0A1D5QTL8|A0A1D5QTL8_MACMU -          nup53                -                2.9    9.0   0.0       4.5    8.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POU4F3 PE=4 SV=1
+tr|F7GIP2|F7GIP2_MACMU         -          nup53                -                2.9    9.0   0.0       4.5    8.4   0.0   1.2   1   0   0   1   1   1   0 RNA-binding protein 27 OS=Macaca mulatta OX=9544 GN=POU4F3 PE=2 SV=1
+tr|F7DND4|F7DND4_MACMU         -          nup53                -                6.8    7.8   0.0        11    7.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RBM34 PE=4 SV=2
+tr|F7DNE6|F7DNE6_MACMU         -          nup53                -                7.3    7.7   0.0        12    7.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RBM34 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:16:56 2022
+# [ok]

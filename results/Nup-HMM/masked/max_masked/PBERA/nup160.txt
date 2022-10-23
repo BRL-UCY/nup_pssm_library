@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AQN5|A0A509AQN5_PLABA -          nup160               -              0.035    9.7   0.7     0.046    9.3   0.7   1.0   1   0   0   1   1   1   0 Tetratricopeptide repeat protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1428400 PE=4 SV=1
+tr|A0A509AAJ9|A0A509AAJ9_PLABA -          nup160               -              0.046    9.3   0.4      0.11    8.0   0.2   1.7   2   0   0   2   2   2   0 Coatomer alpha subunit, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0105400 PE=4 SV=1
+tr|A0A509ARD2|A0A509ARD2_PLABA -          nup160               -              0.065    8.8   0.1      0.09    8.3   0.1   1.1   1   0   0   1   1   1   0 Alternative splicing regulator, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1409700 PE=3 SV=1
+tr|A0A509AK43|A0A509AK43_PLABA -          nup160               -              0.089    8.3   1.9       1.5    4.3   0.1   2.1   1   1   1   2   2   2   0 U5 small nuclear ribonucleoprotein 40 kDa protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0707800 PE=4 SV=1
+tr|A0A509ALI0|A0A509ALI0_PLABA -          nup160               -               0.18    7.3   0.3      0.22    7.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0518600 PE=4 SV=1
+tr|A0A509ARB7|A0A509ARB7_PLABA -          nup160               -               0.29    6.6   1.0       4.3    2.8   0.0   1.9   1   1   1   2   2   2   0 Periodic tryptophan protein 1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1452200 PE=4 SV=1
+tr|A0A509AFQ6|A0A509AFQ6_PLABA -          nup160               -               0.51    5.8   0.1       1.8    4.0   0.1   1.7   2   0   0   2   2   2   0 Coatomer subunit beta' OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0415500 PE=3 SV=1
+tr|A0A509AHM6|A0A509AHM6_PLABA -          nup160               -               0.53    5.8   0.0      0.71    5.3   0.0   1.1   1   0   0   1   1   1   0 Pre-mRNA-processing factor 19 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0406800 PE=3 SV=1
+tr|A0A509AVX2|A0A509AVX2_PLABA -          nup160               -               0.56    5.7   0.0      0.76    5.2   0.0   1.0   1   0   0   1   1   1   0 N-alpha-acetyltransferase 15, NatA auxiliary subunit, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1457400 PE=4 SV=1
+tr|A0A509ATA1|A0A509ATA1_PLABA -          nup160               -               0.56    5.7   0.1      0.85    5.1   0.1   1.2   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 15, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1364900 PE=4 SV=1
+tr|A0A509AQ79|A0A509AQ79_PLABA -          nup160               -               0.66    5.5   0.4       2.9    3.3   0.3   1.8   2   0   0   2   2   2   0 U3 small nucleolar RNA-associated protein 12, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1311800 PE=4 SV=1
+tr|A0A509AK10|A0A509AK10_PLABA -          nup160               -               0.71    5.3   0.1         1    4.8   0.1   1.1   1   0   0   1   1   1   0 Guanine nucleotide-exchange factor SEC12, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0931600 PE=4 SV=1
+tr|A0A509ANY5|A0A509ANY5_PLABA -          nup160               -               0.76    5.2   2.5      0.77    5.2   0.2   1.8   2   0   0   2   2   2   0 Anaphase-promoting complex subunit 3 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1101500 PE=4 SV=1
+tr|A0A509AR52|A0A509AR52_PLABA -          nup160               -                4.8    2.6   0.1       6.2    2.2   0.1   1.0   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1400021 PE=4 SV=1
+tr|A0A509AJ11|A0A509AJ11_PLABA -          nup160               -                6.8    2.1   0.0       9.8    1.6   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 70, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0517300 PE=4 SV=1
+tr|A0A509AMX7|A0A509AMX7_PLABA -          nup160               -                7.9    1.9   0.0        11    1.4   0.0   1.1   1   0   0   1   1   1   0 Polyubiquitin binding protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1139400 PE=4 SV=1
+tr|A0A509AD99|A0A509AD99_PLABA -          nup160               -                9.4    1.6   0.0        13    1.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0307400 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup160.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/PBERA/nup160.txt --max --cpu 8 hmm_profiles_from_msa/nup160.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:18:32 2022
+# [ok]

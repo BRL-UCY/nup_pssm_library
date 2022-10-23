@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QLD8|A0A1D5QLD8_MACMU -          pom152               -              0.017   14.4   0.1      0.47    9.6   0.0   2.7   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QWL0|A0A1D5QWL0_MACMU -          pom152               -                2.4    7.2   1.5       2.9    6.9   1.1   1.3   1   1   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/pom152.txt --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:59 2022
+# [ok]

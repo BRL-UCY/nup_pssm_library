@@ -1,0 +1,14 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D060|A0A2K3D060_CHLRE -          nup205               -            4.3e-30  103.5  12.5   3.7e-14   50.7   0.1   4.1   4   0   0   4   4   4   4 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g578100v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CREI/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:12 2022
+# [ok]

@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S024|NIC96_CHATD  -          nup93                -           1.4e-107  359.3   0.0   1.3e-83  280.1   0.0   4.8   4   1   0   4   4   4   3 Nucleoporin NIC96 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NIC96 PE=1 SV=1
+tr|G0S5Z2|G0S5Z2_CHATD -          nup93                -            0.00057   16.6   0.0   0.00083   16.1   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025440 PE=4 SV=1
+tr|G0S390|G0S390_CHATD -          nup93                -             0.0024   14.6   0.1      0.15    8.6   0.1   2.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0020120 PE=4 SV=1
+tr|G0S679|G0S679_CHATD -          nup93                -               0.59    6.7   0.0      0.87    6.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025790 PE=3 SV=1
+tr|G0S7N1|G0S7N1_CHATD -          nup93                -                1.2    5.6   0.0       1.8    5.1   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0036920 PE=3 SV=1
+tr|G0RZ82|G0RZ82_CHATD -          nup93                -                2.4    4.6   0.0       3.2    4.2   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0002040 PE=3 SV=1
+tr|G0SGK9|G0SGK9_CHATD -          nup93                -                  3    4.3   0.0       4.5    3.7   0.0   1.1   1   0   0   1   1   1   0 ER membrane protein complex subunit 2 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066700 PE=3 SV=1
+tr|G0SHQ1|G0SHQ1_CHATD -          nup93                -                3.5    4.1   0.4       7.2    3.1   0.1   1.6   2   0   0   2   2   2   0 Clathrin heavy chain OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072960 PE=3 SV=1
+tr|G0S4C5|G0S4C5_CHATD -          nup93                -                4.1    3.9   0.0       5.8    3.4   0.0   1.1   1   0   0   1   1   1   0 APH domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0039690 PE=4 SV=1
+tr|G0S6W9|G0S6W9_CHATD -          nup93                -                6.9    3.1   0.0       8.9    2.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0027150 PE=4 SV=1
+sp|G0SDQ4|NUP85_CHATD  -          nup93                -                6.9    3.1   0.6        11    2.4   0.1   1.4   2   0   0   2   2   2   0 Nucleoporin NUP85 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP85 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:36:18 2022
+# [ok]

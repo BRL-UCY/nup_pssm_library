@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O64747|WRK35_ARATH          -          nup60                -               0.59   10.1   8.8         1    9.4   8.8   1.5   1   0   0   1   1   1   0 Probable WRKY transcription factor 35 OS=Arabidopsis thaliana OX=3702 GN=WRKY35 PE=2 SV=1
+tr|A0A1P8AZG0|A0A1P8AZG0_ARATH -          nup60                -               0.61   10.1   8.8       1.1    9.3   8.8   1.5   1   0   0   1   1   1   0 WRKY DNA-binding protein 35 OS=Arabidopsis thaliana OX=3702 GN=WRKY35 PE=4 SV=1
+tr|Q9SMT1|Q9SMT1_ARATH         -          nup60                -               0.82    9.7   1.8       1.3    9.0   1.8   1.2   1   0   0   1   1   1   0 MYB transcription factor OS=Arabidopsis thaliana OX=3702 GN=T2J13.240 PE=2 SV=1
+tr|A0A1P8ASK4|A0A1P8ASK4_ARATH -          nup60                -                1.5    8.8   0.0       2.2    8.3   0.0   1.2   1   0   0   1   1   1   0 2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g78550 PE=3 SV=1
+tr|Q6NQ32|Q6NQ32_ARATH         -          nup60                -                1.6    8.7   8.6       1.8    8.6   8.6   1.0   1   0   0   1   1   1   0 At3g24750 OS=Arabidopsis thaliana OX=3702 GN=At3g24750 PE=2 SV=1
+tr|Q9ZNU8|Q9ZNU8_ARATH         -          nup60                -                1.7    8.7   0.1       2.2    8.3   0.1   1.1   1   0   0   1   1   1   0 Expressed protein OS=Arabidopsis thaliana OX=3702 GN=At2g01400 PE=2 SV=1
+tr|Q67Z56|Q67Z56_ARATH         -          nup60                -                1.7    8.6   8.6         2    8.4   8.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein At3g24750 OS=Arabidopsis thaliana OX=3702 GN=At3g24750 PE=2 SV=1
+tr|A0A1P8B402|A0A1P8B402_ARATH -          nup60                -                2.1    8.3   2.9         3    7.8   2.9   1.1   1   0   0   1   1   1   0 Myb domain protein 41 OS=Arabidopsis thaliana OX=3702 GN=MYB41 PE=4 SV=1
+tr|Q9SYM7|Q9SYM7_ARATH         -          nup60                -                2.1    8.3   0.0       3.1    7.8   0.0   1.1   1   0   0   1   1   1   0 2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g78550 PE=2 SV=1
+tr|A0A1I9LQU9|A0A1I9LQU9_ARATH -          nup60                -                2.8    7.9   8.0       4.1    7.4   8.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At3g24750 PE=4 SV=1
+tr|Q9FI08|Q9FI08_ARATH         -          nup60                -                3.5    7.6   0.1       4.3    7.3   0.1   1.1   1   0   0   1   1   1   0 RNA-binding (RRM/RBD/RNP motifs) family protein OS=Arabidopsis thaliana OX=3702 GN=MGN6.2 PE=4 SV=1
+sp|Q9M0J5|MYB41_ARATH          -          nup60                -                4.6    7.2   2.9       6.4    6.7   2.9   1.1   1   0   0   1   1   1   0 Transcription factor MYB41 OS=Arabidopsis thaliana OX=3702 GN=MYB41 PE=1 SV=1
+tr|Q9C754|Q9C754_ARATH         -          nup60                -                6.2    6.8   1.4       6.1    6.8   1.4   1.0   1   0   0   1   1   1   0 At1g30260/F12P21_9 OS=Arabidopsis thaliana OX=3702 GN=AGAMOUS-like 79 PE=2 SV=1
+tr|F4JXP5|F4JXP5_ARATH         -          nup60                -                6.4    6.7   0.0       9.6    6.1   0.0   1.2   1   0   0   1   1   1   0 ACT domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=ACR12 PE=4 SV=1
+sp|Q9LZ78|SIM_ARATH            -          nup60                -                7.6    6.5   4.6       2.3    8.2   1.9   1.4   1   1   0   1   1   1   0 Cyclin-dependent protein kinase inhibitor SIM OS=Arabidopsis thaliana OX=3702 GN=SIM PE=1 SV=1
+sp|Q9LZ23|ACR12_ARATH          -          nup60                -                8.4    6.3   0.0        13    5.8   0.0   1.2   1   0   0   1   1   1   0 ACT domain-containing protein ACR12 OS=Arabidopsis thaliana OX=3702 GN=ACR12 PE=2 SV=1
+sp|Q1G3Y0|RIC9_ARATH           -          nup60                -                8.8    6.3   1.8        11    6.0   1.8   1.1   1   0   0   1   1   1   0 CRIB domain-containing protein RIC9 OS=Arabidopsis thaliana OX=3702 GN=RIC9 PE=1 SV=1
+tr|O23683|O23683_ARATH         -          nup60                -                9.3    6.2   2.0        12    5.8   2.0   1.1   1   0   0   1   1   1   0 At2g42110 OS=Arabidopsis thaliana OX=3702 GN=At2g42110 PE=2 SV=1
+tr|A0A1P8BBB7|A0A1P8BBB7_ARATH -          nup60                -                9.6    6.1   3.5        17    5.3   3.5   1.3   1   0   0   1   1   1   0 MORN (Membrane Occupation and Recognition Nexus) repeat-containing protein OS=Arabidopsis thaliana OX=3702 GN=emb1211 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:18:34 2022
+# [ok]

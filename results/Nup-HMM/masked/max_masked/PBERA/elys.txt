@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AUN7|A0A509AUN7_PLABA -          elys                 -               0.91    4.4   0.0       1.2    4.0   0.0   1.0   1   0   0   1   1   1   0 Periodic tryptophan protein 2, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1227900 PE=3 SV=1
+tr|A0A509ASB1|A0A509ASB1_PLABA -          elys                 -                1.2    3.9   0.0       1.6    3.5   0.0   1.0   1   0   0   1   1   1   0 U3 small nucleolar RNA-interacting protein 2, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1441500 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/PBERA/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:19:59 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WUM0|NU133_HUMAN          -          nup133               -                  0 1200.9   0.0         0 1200.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Homo sapiens OX=9606 GN=NUP133 PE=1 SV=2
+tr|A0A088AWN2|A0A088AWN2_HUMAN -          nup133               -               0.67    9.5   0.0      0.92    9.0   0.0   1.0   1   0   0   1   1   1   0 WD repeat-containing protein 20 OS=Homo sapiens OX=9606 GN=WDR20 PE=1 SV=1
+tr|H7BZM3|H7BZM3_HUMAN         -          nup133               -                0.8    9.2   0.0       1.4    8.4   0.0   1.3   1   0   0   1   1   1   0 N-glycosylase/DNA lyase (Fragment) OS=Homo sapiens OX=9606 GN=OGG1 PE=1 SV=1
+sp|Q8TBZ3|WDR20_HUMAN          -          nup133               -                1.1    8.8   0.0       1.5    8.3   0.0   1.0   1   0   0   1   1   1   0 WD repeat-containing protein 20 OS=Homo sapiens OX=9606 GN=WDR20 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup133.txt --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:29 2022
+# [ok]

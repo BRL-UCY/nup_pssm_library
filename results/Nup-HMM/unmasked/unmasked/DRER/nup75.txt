@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6DBY0|NUP85_DANRE          -          nup75                -           1.7e-238  794.4  15.2  1.9e-238  794.3  15.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Danio rerio OX=7955 GN=nup85 PE=2 SV=1
+tr|A0A0R4IBW5|A0A0R4IBW5_DANRE -          nup75                -           6.4e-132  442.3   4.9  7.2e-132  442.2   4.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Danio rerio OX=7955 GN=nup85 PE=1 SV=2
+tr|A0A2R8Q668|A0A2R8Q668_DANRE -          nup75                -            2.9e-99  334.4   6.2   3.5e-99  334.2   6.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Danio rerio OX=7955 PE=3 SV=1
+tr|A0A0R4IZD5|A0A0R4IZD5_DANRE -          nup75                -            4.7e-94  317.3   1.4   5.2e-94  317.1   1.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Danio rerio OX=7955 GN=nup85 PE=1 SV=1
+sp|A2CES0|NEUFC_DANRE          -          nup75                -               0.55    9.8   0.1      0.76    9.3   0.1   1.1   1   0   0   1   1   1   0 Neuferricin OS=Danio rerio OX=7955 GN=cyb5d2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:15 2022
+# [ok]

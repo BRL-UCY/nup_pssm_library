@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S9A7|NU133_CHATD  -          nup133               -           1.6e-176  587.7   0.0   2.8e-76  255.8   0.0   4.1   4   0   0   4   4   4   4 Nucleoporin NUP133 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP133 PE=3 SV=1
+sp|G0S7B6|NU170_CHATD  -          nup133               -                3.8    3.6   0.0       5.8    3.0   0.0   1.1   1   0   0   1   1   1   0 Nucleoporin NUP170 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP170 PE=1 SV=1
+tr|G0S6C2|G0S6C2_CHATD -          nup133               -                4.2    3.5   0.1       5.8    3.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026240 PE=4 SV=1
+tr|G0S162|G0S162_CHATD -          nup133               -                5.8    3.0   0.0       7.9    2.6   0.0   1.0   1   0   0   1   1   1   0 ENDO3c domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0012470 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:36:26 2022
+# [ok]

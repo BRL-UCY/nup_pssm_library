@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7FYF6|F7FYF6_MACMU         -          elys                 -                  0 3848.4  40.8         0 3848.2  40.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=AHCTF1 PE=4 SV=1
+tr|F7HQV9|F7HQV9_MACMU         -          elys                 -               0.13   10.3   0.0      0.17   10.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=4 SV=1
+tr|A0A1D5RL45|A0A1D5RL45_MACMU -          elys                 -               0.15   10.1   0.0       0.2    9.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDSUB1 PE=4 SV=1
+tr|F7F1A7|F7F1A7_MACMU         -          elys                 -               0.19    9.8   0.0       1.6    6.7   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WIPI2 PE=4 SV=2
+tr|F7F192|F7F192_MACMU         -          elys                 -                0.2    9.8   0.0       1.6    6.7   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WIPI2 PE=4 SV=2
+tr|A0A1D5QVD0|A0A1D5QVD0_MACMU -          elys                 -               0.22    9.6   0.1      0.27    9.3   0.1   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=SCAP PE=4 SV=1
+tr|F7AH97|F7AH97_MACMU         -          elys                 -               0.39    8.8   0.1      0.51    8.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SCAP PE=4 SV=2
+tr|F7ANE8|F7ANE8_MACMU         -          elys                 -               0.39    8.8   0.1      0.51    8.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SCAP PE=4 SV=2
+tr|F6UW16|F6UW16_MACMU         -          elys                 -               0.41    8.7   1.9       2.8    6.0   0.0   2.2   3   0   0   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=AAMP PE=4 SV=2
+tr|F7EIA1|F7EIA1_MACMU         -          elys                 -               0.57    8.3  15.6      0.72    7.9  15.6   1.1   1   0   0   1   1   1   0 Rab-GAP TBC domain-containing protein OS=Macaca mulatta OX=9544 GN=TBC1D10B PE=4 SV=2
+tr|F7ANE1|F7ANE1_MACMU         -          elys                 -               0.57    8.3   0.1       0.8    7.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SCAP PE=4 SV=2
+tr|F7CV69|F7CV69_MACMU         -          elys                 -               0.74    7.9  25.9       1.1    7.3  25.9   1.1   1   0   0   1   1   1   0 MAGE domain-containing protein OS=Macaca mulatta OX=9544 GN=MAGED2 PE=4 SV=1
+tr|F7EA20|F7EA20_MACMU         -          elys                 -               0.83    7.7  26.7       1.1    7.3  26.7   1.1   1   0   0   1   1   1   0 MAGE domain-containing protein OS=Macaca mulatta OX=9544 GN=MAGED2 PE=4 SV=2
+tr|F7E9N0|F7E9N0_MACMU         -          elys                 -                2.6    6.1  30.7       3.4    5.7  30.7   1.1   1   0   0   1   1   1   0 Melanoma-associated antigen D2 OS=Macaca mulatta OX=9544 GN=MAGED2 PE=2 SV=1
+tr|F7GPW3|F7GPW3_MACMU         -          elys                 -                2.7    6.0  52.0         4    5.4  52.0   1.1   1   0   0   1   1   1   0 DNA (cytosine-5)-methyltransferase OS=Macaca mulatta OX=9544 GN=DNMT1 PE=3 SV=2
+tr|F6SGS7|F6SGS7_MACMU         -          elys                 -                3.1    5.8   7.0       3.1    5.8   7.0   1.0   1   0   0   1   1   1   0 PWWP domain-containing protein OS=Macaca mulatta OX=9544 GN=HDGFL1 PE=4 SV=1
+tr|F7F4P3|F7F4P3_MACMU         -          elys                 -                3.8    5.5  33.5       5.2    5.1  33.5   1.1   1   0   0   1   1   1   0 Zinc finger protein 652 OS=Macaca mulatta OX=9544 GN=ZNF652 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:47 2022
+# [ok]

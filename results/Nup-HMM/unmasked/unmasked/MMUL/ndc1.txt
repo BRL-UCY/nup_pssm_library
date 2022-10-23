@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QE88|A0A1D5QE88_MACMU -          ndc1                 -           1.9e-219  731.2  45.8  5.8e-153  511.7  28.5   3.4   1   1   2   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=1
+tr|F7EXN3|F7EXN3_MACMU         -          ndc1                 -           9.5e-218  725.6  45.2  4.3e-151  505.5  28.8   3.4   1   1   2   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+tr|H9H2X7|H9H2X7_MACMU         -          ndc1                 -           7.1e-204  679.7  41.2  6.7e-153  511.4  29.3   2.7   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NDC1 PE=4 SV=2
+tr|F6ZHQ6|F6ZHQ6_MACMU         -          ndc1                 -               0.41   10.3   5.0      0.57    9.8   5.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CWF19L2 PE=4 SV=2
+tr|F7HLY8|F7HLY8_MACMU         -          ndc1                 -                2.1    8.0   4.7        52    3.4   5.4   2.1   2   0   0   2   2   2   0 Midnolin OS=Macaca mulatta OX=9544 GN=MIDN PE=4 SV=2
+tr|A0A1D5RJA7|A0A1D5RJA7_MACMU -          ndc1                 -                2.8    7.5   6.0       5.5    6.6   6.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CWF19L2 PE=4 SV=1
+tr|F6RX90|F6RX90_MACMU         -          ndc1                 -                  3    7.4   6.0       5.9    6.5   6.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CWF19L2 PE=4 SV=2
+tr|A0A1D5Q430|A0A1D5Q430_MACMU -          ndc1                 -                5.6    6.6   3.4       8.6    5.9   3.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZMYM3 PE=4 SV=1
+tr|A0A1D5QFK3|A0A1D5QFK3_MACMU -          ndc1                 -                7.7    6.1  10.7       9.4    5.8  10.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HMGA2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:24:29 2022
+# [ok]

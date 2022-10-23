@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9QY81|PO210_MOUSE          -          gp210                -                  0 2485.6   6.4         0 2485.0   6.4   1.2   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+sp|Q9D2F7|P210L_MOUSE          -          gp210                -                  0 2433.1  22.8         0 2432.7  22.8   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=2
+tr|A0A0G2JFZ8|A0A0G2JFZ8_MOUSE -          gp210                -                  0 2427.6  22.9         0 2427.2  22.9   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=1
+tr|A0A0R4J1I6|A0A0R4J1I6_MOUSE -          gp210                -                  0 2399.2   6.7         0 1340.7   3.9   2.2   1   1   1   2   2   2   2 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=1
+tr|F6XGN0|F6XGN0_MOUSE         -          gp210                -                  0 1289.9   6.7         0 1289.6   6.7   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 (Fragment) OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+tr|A0A1W2P7F3|A0A1W2P7F3_MOUSE -          gp210                -              0.048   12.0   0.0     0.064   11.6   0.0   1.1   1   0   0   1   1   1   0 Leukocyte immunoglobulin-like receptor, subfamily B, member 4B OS=Mus musculus OX=10090 GN=Lilr4b PE=1 SV=1
+sp|Q61450|GP49A_MOUSE          -          gp210                -                0.1   10.9   0.0      0.14   10.5   0.0   1.0   1   0   0   1   1   1   0 Mast cell surface glycoprotein Gp49A OS=Mus musculus OX=10090 GN=Gp49a PE=1 SV=1
+sp|Q9ET35|TR13B_MOUSE          -          gp210                -               0.14   10.5   0.0      0.17   10.2   0.0   1.0   1   0   0   1   1   1   0 Tumor necrosis factor receptor superfamily member 13B OS=Mus musculus OX=10090 GN=Tnfrsf13b PE=2 SV=1
+tr|Q9D7M5|Q9D7M5_MOUSE         -          gp210                -               0.19   10.0   1.3      0.18   10.1   1.3   1.0   1   0   0   1   1   1   0 Dynactin-associated protein OS=Mus musculus OX=10090 GN=Dynap PE=2 SV=1
+sp|Q9JLC4|SORC1_MOUSE          -          gp210                -                0.2   10.0   0.2      0.93    7.7   0.0   1.8   2   0   0   2   2   2   0 VPS10 domain-containing receptor SorCS1 OS=Mus musculus OX=10090 GN=Sorcs1 PE=1 SV=1
+tr|A0A1B0GRN1|A0A1B0GRN1_MOUSE -          gp210                -                0.2   10.0   0.2      0.93    7.7   0.0   1.8   2   0   0   2   2   2   0 VPS10 domain-containing receptor SorCS1 OS=Mus musculus OX=10090 GN=Sorcs1 PE=1 SV=1
+tr|E9PYT6|E9PYT6_MOUSE         -          gp210                -                0.2   10.0   0.2      0.93    7.7   0.0   1.8   2   0   0   2   2   2   0 VPS10 domain-containing receptor SorCS1 OS=Mus musculus OX=10090 GN=Sorcs1 PE=1 SV=2
+sp|Q8R007|NECT4_MOUSE          -          gp210                -               0.21    9.9   0.0      0.28    9.5   0.0   1.1   1   0   0   1   1   1   0 Nectin-4 OS=Mus musculus OX=10090 GN=Nectin4 PE=2 SV=1
+sp|Q8CCS2|F155A_MOUSE          -          gp210                -               0.36    9.1   3.2      0.48    8.7   3.2   1.0   1   0   0   1   1   1   0 Transmembrane protein FAM155A OS=Mus musculus OX=10090 GN=Fam155a PE=2 SV=1
+tr|A0A140LI94|A0A140LI94_MOUSE -          gp210                -               0.36    9.1   0.3      0.39    9.0   0.3   1.0   1   0   0   1   1   1   0 Mucolipin-1 (Fragment) OS=Mus musculus OX=10090 GN=Mcoln1 PE=4 SV=1
+tr|A0A0G2JGP8|A0A0G2JGP8_MOUSE -          gp210                -                1.2    7.4   0.4       1.4    7.1   0.4   1.0   1   0   0   1   1   1   0 Protein shisa-5 OS=Mus musculus OX=10090 GN=Shisa5 PE=1 SV=1
+tr|A0A0G2JER0|A0A0G2JER0_MOUSE -          gp210                -                1.3    7.3   0.5       1.3    7.2   0.5   1.0   1   0   0   1   1   1   0 Protein shisa-5 (Fragment) OS=Mus musculus OX=10090 GN=Shisa5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:05 2022
+# [ok]

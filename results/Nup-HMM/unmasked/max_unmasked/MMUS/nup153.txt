@@ -1,0 +1,59 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q3G8|E9Q3G8_MOUSE         -          nup153               -                  0 1467.2 290.7  1.2e-266  889.7  56.8   3.8   1   1   2   3   3   3   3 Nucleoporin 153 OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YCP2|A0A286YCP2_MOUSE -          nup153               -           1.5e-123  415.4  18.8  1.7e-123  415.2  18.8   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A286YE24|A0A286YE24_MOUSE -          nup153               -            1.7e-85  289.3  56.7   3.5e-45  155.7  17.9   2.4   1   1   1   2   2   2   2 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+sp|Q9ERU9|RBP2_MOUSE           -          nup153               -            2.9e-59  202.3  97.9   2.8e-36  126.2  62.8   7.3   6   1   1   7   7   5   3 E3 SUMO-protein ligase RanBP2 OS=Mus musculus OX=10090 GN=Ranbp2 PE=1 SV=2
+tr|A0A286YCY7|A0A286YCY7_MOUSE -          nup153               -            7.5e-49  167.9  25.8   8.2e-49  167.7  25.8   1.0   1   0   0   1   1   1   1 Nucleoporin 153 (Fragment) OS=Mus musculus OX=10090 GN=Nup153 PE=1 SV=1
+tr|A0A1B0GQZ6|A0A1B0GQZ6_MOUSE -          nup153               -            8.3e-07   28.5  22.7   9.8e-06   25.0  12.3   2.1   1   1   0   2   2   2   2 Ubiquitin thioesterase Zranb1 OS=Mus musculus OX=10090 GN=Zranb1 PE=1 SV=1
+tr|A0A1L1SQ24|A0A1L1SQ24_MOUSE -          nup153               -            4.1e-06   26.2  22.5   2.9e-05   23.4  12.4   2.1   1   1   0   2   2   2   2 Ubiquitin thioesterase Zranb1 OS=Mus musculus OX=10090 GN=Zranb1 PE=1 SV=1
+sp|Q7M760|ZRAN1_MOUSE          -          nup153               -              7e-06   25.4  23.1   4.1e-05   22.9  13.0   2.1   1   1   0   2   2   2   2 Ubiquitin thioesterase Zranb1 OS=Mus musculus OX=10090 GN=Zranb1 PE=2 SV=1
+sp|Q99LW6|YAF2_MOUSE           -          nup153               -            2.7e-05   23.5   3.7   2.7e-05   23.5   3.7   2.0   1   1   1   2   2   2   1 YY1-associated factor 2 OS=Mus musculus OX=10090 GN=Yaf2 PE=1 SV=1
+sp|Q8CCI5|RYBP_MOUSE           -          nup153               -            8.9e-05   21.8   2.4   8.9e-05   21.8   2.4   2.1   1   1   1   2   2   1   1 RING1 and YY1-binding protein OS=Mus musculus OX=10090 GN=Rybp PE=1 SV=1
+tr|F6XVP7|F6XVP7_MOUSE         -          nup153               -              0.019   14.1  15.7     0.029   13.4  15.7   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF31 (Fragment) OS=Mus musculus OX=10090 GN=Rnf31 PE=1 SV=1
+sp|Q924T7|RNF31_MOUSE          -          nup153               -              0.024   13.7  15.7     0.038   13.1  15.7   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF31 OS=Mus musculus OX=10090 GN=Rnf31 PE=1 SV=2
+tr|A0A1D5RLI7|A0A1D5RLI7_MOUSE -          nup153               -              0.055   12.5  48.1      0.14   11.2   0.1   4.9   4   1   0   4   4   4   0 Calpain-15 OS=Mus musculus OX=10090 GN=Capn15 PE=1 SV=1
+tr|F7B6D3|F7B6D3_MOUSE         -          nup153               -                0.1   11.7   0.2       0.1   11.7   0.2   1.0   1   0   0   1   1   1   0 Protein ZNRD2 (Fragment) OS=Mus musculus OX=10090 GN=Znrd2 PE=1 SV=1
+tr|S4R1U7|S4R1U7_MOUSE         -          nup153               -               0.11   11.6   1.4      0.14   11.2   1.4   1.1   1   0   0   1   1   1   0 RNA-binding protein 5 (Fragment) OS=Mus musculus OX=10090 GN=Rbm5 PE=1 SV=1
+tr|F6Z1P8|F6Z1P8_MOUSE         -          nup153               -               0.17   10.9   1.4       0.2   10.7   1.4   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase DZIP3 (Fragment) OS=Mus musculus OX=10090 GN=Dzip3 PE=1 SV=1
+tr|F6UHH8|F6UHH8_MOUSE         -          nup153               -               0.27   10.3   2.8      0.28   10.2   2.8   1.1   1   0   0   1   1   1   0 Sharpin (Fragment) OS=Mus musculus OX=10090 GN=Sharpin PE=1 SV=1
+tr|A2ATN3|A2ATN3_MOUSE         -          nup153               -               0.44    9.5 240.8     0.026   13.6 151.6   2.2   1   1   1   2   2   2   0 Nuclear pore complex protein Nup214 (Fragment) OS=Mus musculus OX=10090 GN=Nup214 PE=1 SV=1
+tr|M0QW93|M0QW93_MOUSE         -          nup153               -               0.63    9.0   9.2       0.6    9.1   9.2   1.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 3B (Fragment) OS=Mus musculus OX=10090 GN=Ppp4r3b PE=1 SV=1
+tr|A2AG14|A2AG14_MOUSE         -          nup153               -               0.74    8.8   1.5      0.75    8.8   1.5   1.0   1   0   0   1   1   1   0 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=4 SV=1
+tr|Q3UTC9|Q3UTC9_MOUSE         -          nup153               -               0.78    8.7   3.8       1.4    7.9   3.8   1.3   1   0   0   1   1   1   0 Protein Mdm4 OS=Mus musculus OX=10090 GN=Mdm4 PE=1 SV=1
+sp|O35618|MDM4_MOUSE           -          nup153               -               0.78    8.7   3.8       1.4    7.9   3.8   1.3   1   0   0   1   1   1   0 Protein Mdm4 OS=Mus musculus OX=10090 GN=Mdm4 PE=1 SV=2
+tr|E9QNX9|E9QNX9_MOUSE         -          nup153               -                1.1    8.3   3.8       1.5    7.8   3.8   1.1   1   0   0   1   1   1   0 Tyrosine-protein kinase receptor OS=Mus musculus OX=10090 GN=Igf1r PE=1 SV=1
+sp|Q60751|IGF1R_MOUSE          -          nup153               -                1.1    8.2   3.8       1.5    7.8   3.8   1.1   1   0   0   1   1   1   0 Insulin-like growth factor 1 receptor OS=Mus musculus OX=10090 GN=Igf1r PE=1 SV=3
+tr|F6XQ46|F6XQ46_MOUSE         -          nup153               -                1.2    8.1   1.5       1.5    7.7   1.5   1.1   1   0   0   1   1   1   0 Protein lin-54 homolog (Fragment) OS=Mus musculus OX=10090 GN=Lin54 PE=1 SV=1
+tr|Q3UZP7|Q3UZP7_MOUSE         -          nup153               -                2.2    7.2   2.2       2.3    7.1   2.2   1.1   1   0   0   1   1   1   0 Paralemmin-1 OS=Mus musculus OX=10090 GN=Palm PE=1 SV=1
+sp|Q9WUB0|HOIL1_MOUSE          -          nup153               -                2.4    7.1   1.4       3.3    6.6   1.4   1.1   1   0   0   1   1   1   0 RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Mus musculus OX=10090 GN=Rbck1 PE=1 SV=2
+tr|A2AG13|A2AG13_MOUSE         -          nup153               -                2.6    7.0   1.9       2.7    6.9   1.9   1.0   1   0   0   1   1   1   0 Nucleoporin 62 C-terminal-like (Fragment) OS=Mus musculus OX=10090 GN=Nup62cl PE=4 SV=2
+tr|A0A0A6YXE2|A0A0A6YXE2_MOUSE -          nup153               -                2.6    7.0   0.9       2.8    6.9   0.9   1.0   1   0   0   1   1   1   0 RNA-binding motif protein 6 (Fragment) OS=Mus musculus OX=10090 GN=Rbm6 PE=1 SV=5
+tr|A0A1B0GS62|A0A1B0GS62_MOUSE -          nup153               -                2.8    6.9  35.4       3.1    6.7  35.4   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1D5RLJ4|A0A1D5RLJ4_MOUSE -          nup153               -                4.6    6.1  48.9      0.31   10.1   0.2   4.8   4   1   0   4   4   3   0 Calpain-15 OS=Mus musculus OX=10090 GN=Capn15 PE=1 SV=1
+sp|Q9Z0P4|PALM_MOUSE           -          nup153               -                4.8    6.1   1.0       7.1    5.5   1.0   1.2   1   0   0   1   1   1   0 Paralemmin-1 OS=Mus musculus OX=10090 GN=Palm PE=1 SV=1
+sp|Q91WA6|SHRPN_MOUSE          -          nup153               -                4.8    6.1   3.4       7.3    5.5   3.4   1.3   1   0   0   1   1   1   0 Sharpin OS=Mus musculus OX=10090 GN=Sharpin PE=1 SV=1
+tr|A0A2I3BR02|A0A2I3BR02_MOUSE -          nup153               -                5.2    6.0   2.7       6.6    5.6   2.7   1.1   1   0   0   1   1   1   0 RIKEN cDNA 4930539E08 gene (Fragment) OS=Mus musculus OX=10090 GN=4930539E08Rik PE=4 SV=1
+sp|Q9CXG9|PHF19_MOUSE          -          nup153               -                5.4    5.9   1.4       7.4    5.5   1.4   1.1   1   0   0   1   1   1   0 PHD finger protein 19 OS=Mus musculus OX=10090 GN=Phf19 PE=1 SV=1
+tr|G3UZD2|G3UZD2_MOUSE         -          nup153               -                6.2    5.7   1.2       6.6    5.6   1.2   1.0   1   0   0   1   1   1   0 RNA-binding protein FUS (Fragment) OS=Mus musculus OX=10090 GN=Fus PE=1 SV=1
+tr|A0A087WRP9|A0A087WRP9_MOUSE -          nup153               -                6.4    5.7   1.0       7.6    5.4   1.0   1.0   1   0   0   1   1   1   0 Ankyrin-3 (Fragment) OS=Mus musculus OX=10090 GN=Ank3 PE=1 SV=1
+tr|D6RJL6|D6RJL6_MOUSE         -          nup153               -                6.7    5.6  10.1       7.8    5.4  10.1   1.0   1   0   0   1   1   1   0 Protein lin-54 homolog OS=Mus musculus OX=10090 GN=Lin54 PE=1 SV=1
+tr|G3UXT7|G3UXT7_MOUSE         -          nup153               -                7.1    5.5   0.7       8.1    5.3   0.7   1.1   1   0   0   1   1   1   0 RNA-binding protein FUS (Fragment) OS=Mus musculus OX=10090 GN=Fus PE=1 SV=1
+tr|A0A140LJ77|A0A140LJ77_MOUSE -          nup153               -                7.4    5.5  62.3       8.1    5.4  62.3   1.0   1   0   0   1   1   1   0 Nuclear pore glycoprotein p62 (Fragment) OS=Mus musculus OX=10090 GN=Nup62 PE=1 SV=1
+tr|A0A2I3BRH1|A0A2I3BRH1_MOUSE -          nup153               -                8.1    5.4  14.5       9.1    5.2  14.5   1.0   1   0   0   1   1   1   0 FYN-binding protein (Fragment) OS=Mus musculus OX=10090 GN=Fyb PE=1 SV=1
+tr|E0CYT6|E0CYT6_MOUSE         -          nup153               -                8.4    5.3   1.5       9.2    5.2   1.5   1.0   1   0   0   1   1   1   0 Syndecan-1 (Fragment) OS=Mus musculus OX=10090 GN=Sdc1 PE=1 SV=1
+sp|Q9JLG8|CAN15_MOUSE          -          nup153               -                8.4    5.3  48.7      0.36    9.8   0.2   4.8   4   1   0   4   4   3   0 Calpain-15 OS=Mus musculus OX=10090 GN=Capn15 PE=1 SV=1
+tr|G3UZN3|G3UZN3_MOUSE         -          nup153               -                9.1    5.2   0.9        11    5.0   0.9   1.0   1   0   0   1   1   1   0 Pituitary homeobox 3 (Fragment) OS=Mus musculus OX=10090 GN=Pitx3 PE=4 SV=8
+tr|D3Z6F1|D3Z6F1_MOUSE         -          nup153               -                9.2    5.2  10.9        10    5.0  10.9   1.0   1   0   0   1   1   1   0 ADP-ribosylation factor-like protein 6-interacting protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Arl6ip4 PE=1 SV=8
+sp|P59325|IF5_MOUSE            -          nup153               -                9.6    5.1   1.2        12    4.8   1.2   1.1   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 5 OS=Mus musculus OX=10090 GN=Eif5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup153.txt --max --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:11:55 2022
+# [ok]

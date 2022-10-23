@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SBQ3|NSP1_CHATD   -          nup62                -            4.2e-62  208.9   5.3   1.6e-61  207.0   5.3   1.8   1   1   0   1   1   1   1 Nucleoporin NSP1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NSP1 PE=1 SV=1
+tr|G0S254|G0S254_CHATD -          nup62                -               0.46    8.0   0.0      0.62    7.6   0.0   1.1   1   0   0   1   1   1   0 Citrulline--aspartate ligase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0016030 PE=3 SV=1
+tr|G0RY25|G0RY25_CHATD -          nup62                -                2.8    5.4   0.0       3.9    4.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0005150 PE=3 SV=1
+tr|G0S624|G0S624_CHATD -          nup62                -                3.9    4.9   0.3       5.3    4.5   0.3   1.1   1   0   0   1   1   1   0 tRNA-splicing endonuclease subunit Sen34 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0033920 PE=3 SV=1
+sp|G0S4X2|NUP49_CHATD  -          nup62                -                5.3    4.5   1.8       8.7    3.8   1.8   1.4   1   0   0   1   1   1   0 Nucleoporin NUP49 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP49 PE=1 SV=1
+tr|G0RZC6|G0RZC6_CHATD -          nup62                -                  9    3.7   0.1        12    3.3   0.1   1.1   1   0   0   1   1   1   0 Mitotic-spindle organizing protein 1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0002490 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:35:08 2022
+# [ok]

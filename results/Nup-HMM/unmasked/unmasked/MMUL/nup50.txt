@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YDF5|F6YDF5_MACMU         -          nup50                -           3.5e-190  634.6  36.8  6.9e-189  630.4  36.8   2.0   1   1   0   1   1   1   1 Nuclear pore complex protein Nup50 isoform b OS=Macaca mulatta OX=9544 GN=NUP50 PE=2 SV=1
+tr|F7HI99|F7HI99_MACMU         -          nup50                -            6.8e-76  257.3  58.0   1.8e-23   84.3  21.1   7.9   6   1   0   7   7   5   5 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7HGB6|F7HGB6_MACMU         -          nup50                -            1.4e-43  150.6  20.9   6.1e-24   85.8  11.1   3.6   4   0   0   4   4   4   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7GZD7|F7GZD7_MACMU         -          nup50                -            2.3e-43  150.0  20.9   7.3e-24   85.6  11.1   3.6   4   0   0   4   4   4   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|A0A1D5Q649|A0A1D5Q649_MACMU -          nup50                -            5.6e-13   49.6   1.1   5.6e-13   49.6   1.1   2.0   1   1   1   2   2   2   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F7GMJ1|F7GMJ1_MACMU         -          nup50                -              6e-13   49.5   1.3     6e-13   49.5   1.3   2.0   1   1   1   2   2   2   1 Ran-specific GTPase-activating protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=2 SV=2
+tr|A0A1D5RHC9|A0A1D5RHC9_MACMU -          nup50                -            1.1e-12   48.7   1.3   1.1e-12   48.7   1.3   1.9   1   1   1   2   2   2   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|A0A1D5Q231|A0A1D5Q231_MACMU -          nup50                -            2.8e-09   37.4   0.0   3.9e-09   37.0   0.0   1.2   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|H9ETK8|H9ETK8_MACMU         -          nup50                -            0.00041   20.4  21.8     0.032   14.1   0.0   2.5   2   1   0   2   2   2   2 Serine/threonine-protein phosphatase 4 regulatory subunit 3B isoform 1 OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=2 SV=1
+tr|F7DKA4|F7DKA4_MACMU         -          nup50                -            0.00049   20.1  22.4      0.03   14.2   0.0   2.5   2   1   0   2   2   2   1 Serine/threonine-protein phosphatase 4 regulatory subunit 3B isoform 1 OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=2 SV=2
+tr|H9FXJ6|H9FXJ6_MACMU         -          nup50                -            0.00056   19.9  22.3      0.03   14.2   0.0   2.4   2   1   0   2   2   2   1 Serine/threonine-protein phosphatase 4 regulatory subunit 3B isoform 1 OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=2 SV=1
+tr|A0A1D5QYR4|A0A1D5QYR4_MACMU -          nup50                -            0.00066   19.7   0.0   0.00076   19.5   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=4 SV=1
+tr|F6VUH1|F6VUH1_MACMU         -          nup50                -             0.0017   18.3  12.7      0.11   12.4   0.0   2.2   2   0   0   2   2   2   2 SMK-1 domain-containing protein OS=Macaca mulatta OX=9544 GN=PPP4R3A PE=4 SV=2
+tr|H9EMJ9|H9EMJ9_MACMU         -          nup50                -             0.0061   16.5  12.8       0.2   11.5   0.0   2.2   2   0   0   2   2   2   1 Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Macaca mulatta OX=9544 GN=PPP4R3A PE=2 SV=1
+tr|F6QGT5|F6QGT5_MACMU         -          nup50                -               0.65    9.8  49.4      0.83    9.5  49.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RNPS1 PE=4 SV=2
+tr|F7F6I1|F7F6I1_MACMU         -          nup50                -                5.1    6.9  11.3       8.4    6.1  11.3   1.2   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RNF34 PE=4 SV=2
+tr|I2CYW0|I2CYW0_MACMU         -          nup50                -                5.1    6.9  11.3       8.4    6.1  11.3   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF34 isoform 2 OS=Macaca mulatta OX=9544 GN=RNF34 PE=2 SV=1
+tr|A0A1D5R1K1|A0A1D5R1K1_MACMU -          nup50                -                5.1    6.9  11.3       8.5    6.1  11.3   1.2   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RNF34 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:24:26 2022
+# [ok]

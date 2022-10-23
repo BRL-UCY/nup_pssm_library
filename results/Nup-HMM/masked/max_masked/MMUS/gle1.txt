@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R322|GLE1_MOUSE           -          gle1                 -           1.1e-143  481.0   0.0  2.8e-143  479.6   0.0   1.5   1   1   0   1   1   1   1 Nucleoporin GLE1 OS=Mus musculus OX=10090 GN=Gle1 PE=1 SV=2
+tr|M0QWC0|M0QWC0_MOUSE         -          gle1                 -                2.9    7.6   3.0       3.6    7.3   3.0   1.1   1   0   0   1   1   1   0 X-linked retinitis pigmentosa GTPase regulator-interacting protein 1 OS=Mus musculus OX=10090 GN=Rpgrip1 PE=4 SV=1
+tr|D3YUR9|D3YUR9_MOUSE         -          gle1                 -                3.1    7.5   3.2       3.7    7.2   3.2   1.0   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 (Fragment) OS=Mus musculus OX=10090 GN=Ccdc92 PE=1 SV=1
+sp|Q61806|XL3C_MOUSE           -          gle1                 -                3.6    7.3   1.4       4.4    7.0   1.4   1.0   1   0   0   1   1   1   0 X-linked lymphocyte-regulated protein 3C OS=Mus musculus OX=10090 GN=Xlr3c PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:53:26 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0W396|A0A0P0W396_ORYSJ -          elys                 -              0.058   11.7   0.1     0.069   11.4   0.1   1.0   1   0   0   1   1   1   0 Os03g0737200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0737200 PE=1 SV=1
+tr|C7IWZ8|C7IWZ8_ORYSJ         -          elys                 -               0.36    9.0   0.0      0.48    8.6   0.0   1.1   1   0   0   1   1   1   0 Os01g0754700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0754700 PE=4 SV=1
+tr|A0A5S6R956|A0A5S6R956_ORYSJ -          elys                 -               0.65    8.2   0.0      0.82    7.8   0.0   1.0   1   0   0   1   1   1   0 Os04g0591900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0591900 PE=4 SV=1
+tr|Q65X07|Q65X07_ORYSJ         -          elys                 -                1.9    6.7   0.0       2.5    6.2   0.0   1.0   1   0   0   1   1   1   0 Os05g0519500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0519500 PE=1 SV=1
+tr|Q0DGP5|Q0DGP5_ORYSJ         -          elys                 -                2.4    6.3   0.0       3.2    5.9   0.0   1.0   1   0   0   1   1   1   0 Os05g0519500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0519500 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:03:18 2022
+# [ok]

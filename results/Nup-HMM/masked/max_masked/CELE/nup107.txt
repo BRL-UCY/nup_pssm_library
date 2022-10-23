@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q19131|NPP5_CAEEL           -          nup107               -            2.1e-38  132.5   0.1   4.6e-32  111.6   0.0   2.1   2   0   0   2   2   2   2 Nuclear pore complex protein 5 OS=Caenorhabditis elegans OX=6239 GN=npp-5 PE=1 SV=1
+tr|O45995|O45995_CAEEL         -          nup107               -                2.7    6.5   0.2       4.1    5.9   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_ZK1053.4 PE=1 SV=2
+sp|Q9NEU2|SDA1_CAEEL           -          nup107               -                2.9    6.4   0.0       4.1    5.9   0.0   1.1   1   0   0   1   1   1   0 Protein SDA1 homolog OS=Caenorhabditis elegans OX=6239 GN=pro-3 PE=1 SV=4
+tr|A0A1X7RBI1|A0A1X7RBI1_CAEEL -          nup107               -                3.9    6.0   0.0       4.2    5.8   0.0   1.0   1   0   0   1   1   1   0 PRogression Of Meiosis OS=Caenorhabditis elegans OX=6239 GN=prom-1 PE=4 SV=1
+tr|Q18160|Q18160_CAEEL         -          nup107               -                7.9    4.9   0.0       9.9    4.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C25E10.11 PE=4 SV=1
+tr|Q9U3L4|Q9U3L4_CAEEL         -          nup107               -                 10    4.6   0.1        10    4.6   0.1   1.0   1   0   0   1   1   1   0 S4 RNA-binding domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C47B2.9 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:57:51 2022
+# [ok]

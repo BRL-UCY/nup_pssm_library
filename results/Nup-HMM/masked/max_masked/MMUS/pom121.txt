@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8K3Z9|PO121_MOUSE          -          pom121               -           4.3e-278  927.1   0.2  4.9e-278  926.9   0.2   1.0   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121 OS=Mus musculus OX=10090 GN=Pom121 PE=1 SV=2
+sp|Q5SW25|P12L2_MOUSE          -          pom121               -           1.1e-211  707.2  15.4  5.2e-208  695.1  15.4   2.9   1   1   0   1   1   1   1 POM121-like protein 2 OS=Mus musculus OX=10090 GN=Pom121l2 PE=3 SV=1
+tr|Q3V0N0|Q3V0N0_MOUSE         -          pom121               -            1.3e-99  336.2   6.4   2.1e-98  332.1   6.4   1.9   1   1   0   1   1   1   1 Novel protein similar to nuclear envelope pore membrane protein POM121 OS=Mus musculus OX=10090 GN=Pom121l2 PE=2 SV=1
+tr|A0A1B0GSJ4|A0A1B0GSJ4_MOUSE -          pom121               -            4.8e-52  178.6   0.8   6.1e-52  178.3   0.8   1.0   1   0   0   1   1   1   1 POM121 membrane glycoprotein-like 12 OS=Mus musculus OX=10090 GN=Pom121l12 PE=4 SV=1
+sp|Q8VDR7|TGDS_MOUSE           -          pom121               -                6.5    6.0   0.1         9    5.5   0.1   1.0   1   0   0   1   1   1   0 dTDP-D-glucose 4,6-dehydratase OS=Mus musculus OX=10090 GN=Tgds PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:00:27 2022
+# [ok]

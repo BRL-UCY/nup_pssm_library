@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8G7Z4|A0A1L8G7Z4_XENLA -          elys                 -                  0 1866.6   2.5         0 1850.2  11.1   2.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026789mg PE=1 SV=1
+tr|A0A1L8G293|A0A1L8G293_XENLA -          elys                 -                  0 1860.0   0.0         0 1852.6   4.0   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029035mg PE=4 SV=1
+tr|A0A1L8H496|A0A1L8H496_XENLA -          elys                 -               0.27    9.3   0.1      0.35    8.9   0.1   1.0   1   0   0   1   1   1   0 Olfactory receptor OS=Xenopus laevis OX=8355 GN=XELAEV_18019540mg PE=3 SV=1
+tr|A0A1L8H3T3|A0A1L8H3T3_XENLA -          elys                 -               0.33    9.0   0.1      0.43    8.6   0.1   1.0   1   0   0   1   1   1   0 Olfactory receptor OS=Xenopus laevis OX=8355 GN=XELAEV_18019372mg PE=3 SV=1
+tr|Q5U244|Q5U244_XENLA         -          elys                 -               0.35    8.9   0.0       8.2    4.4   0.0   1.9   2   0   0   2   2   2   0 LOC495692 protein OS=Xenopus laevis OX=8355 GN=aamp PE=1 SV=1
+tr|Q6DE71|Q6DE71_XENLA         -          elys                 -                0.8    7.7   0.0         9    4.3   0.0   1.9   2   0   0   2   2   2   0 MGC80037 protein OS=Xenopus laevis OX=8355 GN=aamp PE=1 SV=1
+tr|A0A1L8ENS0|A0A1L8ENS0_XENLA -          elys                 -               0.95    7.5   0.0       9.9    4.1   0.0   1.9   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18046985mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:54 2022
+# [ok]

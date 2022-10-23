@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P34343|NU133_CAEEL          -          nup133               -            3.1e-99  333.7   0.1   5.7e-99  332.8   0.1   1.3   1   1   0   1   1   1   1 Nuclear pore complex protein 15 OS=Caenorhabditis elegans OX=6239 GN=npp-15 PE=3 SV=4
+tr|Q95Y15|Q95Y15_CAEEL         -          nup133               -            0.00027   19.3   2.1    0.0033   15.7   0.1   3.0   4   0   0   4   4   4   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=5
+tr|M1Z882|M1Z882_CAEEL         -          nup133               -             0.0003   19.1   0.1   0.00046   18.5   0.1   1.2   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+tr|A0A0K3AX54|A0A0K3AX54_CAEEL -          nup133               -               0.55    8.3   0.1      0.82    7.7   0.1   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+tr|Q5I9W0|Q5I9W0_CAEEL         -          nup133               -                0.6    8.2   0.1      0.89    7.6   0.1   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+sp|Q86DA5|SARM1_CAEEL          -          nup133               -                0.6    8.2   0.1      0.91    7.6   0.1   1.1   1   0   0   1   1   1   0 Sterile alpha and TIR motif-containing protein tir-1 OS=Caenorhabditis elegans OX=6239 GN=tir-1 PE=1 SV=1
+tr|O01847|O01847_CAEEL         -          nup133               -               0.77    7.8   0.1       1.2    7.2   0.1   1.2   1   0   0   1   1   1   0 TIAM (Mammalian Tumor Invasion And Metastasis factor) homolog OS=Caenorhabditis elegans OX=6239 GN=tiam-1 PE=4 SV=3
+tr|E8MDV8|E8MDV8_CAEEL         -          nup133               -               0.89    7.6   0.0      0.94    7.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y38E10A.22 PE=1 SV=2
+sp|Q86D25|CFA20_CAEEL          -          nup133               -               0.96    7.5   0.0       1.1    7.3   0.0   1.1   1   0   0   1   1   1   0 Cilia- and flagella-associated protein 20 OS=Caenorhabditis elegans OX=6239 GN=C54C6.6 PE=3 SV=1
+tr|A5Z2U3|A5Z2U3_CAEEL         -          nup133               -                1.7    6.7   0.0       2.5    6.2   0.0   1.2   1   0   0   1   1   1   0 OCRL (Lowe's oculocerebrorenal syndrome protein) homolog OS=Caenorhabditis elegans OX=6239 GN=ocrl-1 PE=1 SV=1
+tr|Q22677|Q22677_CAEEL         -          nup133               -                2.3    6.3   1.4       2.7    6.0   1.4   1.0   1   0   0   1   1   1   0 C2H2-type domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T22C8.4 PE=4 SV=3
+tr|Q93621|Q93621_CAEEL         -          nup133               -                2.4    6.2   1.4       2.7    6.0   1.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F28C6.10 PE=4 SV=1
+tr|G3MTX4|G3MTX4_CAEEL         -          nup133               -                2.6    6.1   2.1       3.1    5.8   2.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R10E11.5 PE=1 SV=1
+sp|Q9TZM3|LRK1_CAEEL           -          nup133               -                2.6    6.1   0.4       4.1    5.4   0.4   1.2   1   0   0   1   1   1   0 Leucine-rich repeat serine/threonine-protein kinase 1 OS=Caenorhabditis elegans OX=6239 GN=lrk-1 PE=1 SV=6
+tr|H2KMK6|H2KMK6_CAEEL         -          nup133               -                  3    5.9   0.3        15    3.6   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y38E10A.22 PE=1 SV=2
+tr|Q20379|Q20379_CAEEL         -          nup133               -                3.9    5.5   0.0         6    4.9   0.0   1.2   1   0   0   1   1   1   0 Nuclear Hormone Receptor family OS=Caenorhabditis elegans OX=6239 GN=nhr-39 PE=3 SV=1
+tr|O44551|O44551_CAEEL         -          nup133               -                4.5    5.3   0.8       6.1    4.9   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K06A5.2 PE=1 SV=1
+tr|O62240|O62240_CAEEL         -          nup133               -                4.6    5.3   0.1       6.2    4.8   0.1   1.1   1   0   0   1   1   1   0 Seven TM Receptor OS=Caenorhabditis elegans OX=6239 GN=str-25 PE=4 SV=2
+tr|G5EFX5|G5EFX5_CAEEL         -          nup133               -                4.7    5.2   0.9       4.9    5.2   0.9   1.1   1   0   0   1   1   1   0 BZIP transcription factor family OS=Caenorhabditis elegans OX=6239 GN=zip-6 PE=4 SV=1
+tr|P90891|P90891_CAEEL         -          nup133               -                5.2    5.1   0.9         8    4.5   0.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F55H12.3 PE=4 SV=6
+tr|O17831|O17831_CAEEL         -          nup133               -                5.3    5.1   0.1       7.4    4.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F22B8.3 PE=4 SV=1
+tr|G5EGQ7|G5EGQ7_CAEEL         -          nup133               -                5.6    5.0   0.9       5.9    4.9   0.9   1.1   1   0   0   1   1   1   0 BZIP transcription factor family OS=Caenorhabditis elegans OX=6239 GN=zip-6 PE=4 SV=1
+sp|P90917|RBA1_CAEEL           -          nup133               -                  6    4.9   0.1        40    2.1   0.1   1.8   2   0   0   2   2   2   0 Probable histone-binding protein rba-1 OS=Caenorhabditis elegans OX=6239 GN=rba-1 PE=3 SV=1
+tr|P90743|P90743_CAEEL         -          nup133               -                6.5    4.8   3.3       7.4    4.6   3.3   1.1   1   0   0   1   1   1   0 PH_15 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C10C6.3 PE=4 SV=2
+tr|I7J4D0|I7J4D0_CAEEL         -          nup133               -                6.8    4.7   3.3       7.8    4.5   3.3   1.1   1   0   0   1   1   1   0 PH_15 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C10C6.3 PE=4 SV=1
+tr|O17393|O17393_CAEEL         -          nup133               -                7.1    4.6   1.2         8    4.5   1.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F52H2.3 PE=4 SV=1
+tr|P91476|P91476_CAEEL         -          nup133               -                7.3    4.6   0.1       8.8    4.3   0.1   1.0   1   0   0   1   1   1   0 DUF19 domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T20D4.19 PE=4 SV=1
+tr|O17765|O17765_CAEEL         -          nup133               -                7.4    4.6   0.7        12    3.8   0.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F01G10.4 PE=4 SV=3
+tr|O17590|O17590_CAEEL         -          nup133               -                7.4    4.6   0.0        11    4.0   0.0   1.1   1   0   0   1   1   1   0 OCRL (Lowe's oculocerebrorenal syndrome protein) homolog OS=Caenorhabditis elegans OX=6239 GN=ocrl-1 PE=1 SV=3
+tr|Q20422|Q20422_CAEEL         -          nup133               -                8.2    4.4   0.4        10    4.1   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45D3.2 PE=4 SV=2
+tr|U4PBK8|U4PBK8_CAEEL         -          nup133               -                8.4    4.4   0.6       9.5    4.2   0.6   1.0   1   0   0   1   1   1   0 CKI family (Cyclin-dependent Kinase Inhibitor) OS=Caenorhabditis elegans OX=6239 GN=cki-2 PE=1 SV=1
+tr|Q965Q2|Q965Q2_CAEEL         -          nup133               -                8.6    4.4   0.2        15    3.6   0.2   1.3   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y22D7AL.9 PE=4 SV=2
+tr|O18199|O18199_CAEEL         -          nup133               -                8.7    4.4   0.2        14    3.7   0.2   1.2   1   0   0   1   1   1   0 Mitochondrial Ribosomal Protein, Large OS=Caenorhabditis elegans OX=6239 GN=mrpl-37 PE=1 SV=3
+tr|Q95Y13|Q95Y13_CAEEL         -          nup133               -                9.4    4.2   0.0        44    2.0   0.0   1.7   2   0   0   2   2   2   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-8 PE=1 SV=1
+tr|A7LPJ6|A7LPJ6_CAEEL         -          nup133               -                9.6    4.2   0.0        12    3.8   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F11A5.17 PE=4 SV=1
+sp|Q9U9K0|ADD1_CAEEL           -          nup133               -                9.7    4.2   0.8        13    3.8   0.8   1.1   1   0   0   1   1   1   0 Adducin-related protein 1 OS=Caenorhabditis elegans OX=6239 GN=add-1 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CELE/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:45:47 2022
+# [ok]

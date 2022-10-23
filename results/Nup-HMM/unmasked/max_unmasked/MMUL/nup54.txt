@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7H507|F7H507_MACMU         -          nup54                -           3.8e-234  779.6  31.8  3.8e-234  779.6  31.8   2.0   1   1   1   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|F7H505|F7H505_MACMU         -          nup54                -           9.7e-233  774.9  24.8  1.2e-232  774.6  24.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|A0A1D5QWW6|A0A1D5QWW6_MACMU -          nup54                -           1.2e-232  774.6  26.3  1.4e-232  774.4  26.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|A0A1D5R3P0|A0A1D5R3P0_MACMU -          nup54                -           2.9e-218  727.2  15.8  3.5e-218  726.9  15.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H6A0|F7H6A0_MACMU         -          nup54                -              0.064   13.4   1.2      0.07   13.2   1.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F6WYB6|F6WYB6_MACMU         -          nup54                -               0.41   10.7   0.3       0.6   10.1   0.3   1.1   1   0   0   1   1   1   0 SERPIN domain-containing protein OS=Macaca mulatta OX=9544 GN=SERPINA5 PE=3 SV=2
+tr|F7A9E0|F7A9E0_MACMU         -          nup54                -                0.5   10.4   6.3      0.62   10.1   6.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F7G2D3|F7G2D3_MACMU         -          nup54                -               0.64   10.1  10.1       1.3    9.1  10.1   1.5   1   0   0   1   1   1   0 Homeobox domain-containing protein OS=Macaca mulatta OX=9544 GN=ARGFX PE=4 SV=2
+tr|A0A1D5QZ04|A0A1D5QZ04_MACMU -          nup54                -                1.1    9.3   0.5       1.9    8.5   0.5   1.3   1   0   0   1   1   1   0 SERPIN domain-containing protein OS=Macaca mulatta OX=9544 GN=SERPINA5 PE=3 SV=1
+tr|A0A1D5QQT0|A0A1D5QQT0_MACMU -          nup54                -                1.2    9.1  22.6       2.1    8.3  22.6   1.3   1   0   0   1   1   1   0 Runt domain-containing protein OS=Macaca mulatta OX=9544 GN=RUNX2 PE=4 SV=1
+tr|A0A1D5RK12|A0A1D5RK12_MACMU -          nup54                -                1.3    9.1   5.9         2    8.4   5.9   1.3   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC699321 PE=4 SV=1
+tr|F6Y0L7|F6Y0L7_MACMU         -          nup54                -                1.9    8.5   1.8       4.4    7.3   1.8   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RC3H1 PE=4 SV=1
+tr|A0A1D5QE10|A0A1D5QE10_MACMU -          nup54                -                  2    8.4   1.8       4.3    7.3   1.8   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RC3H1 PE=4 SV=1
+tr|D7RVD1|D7RVD1_MACMU         -          nup54                -                2.1    8.3   0.8       3.1    7.8   0.8   1.2   1   0   0   1   1   1   0 Bone marrow stromal cell antigen 2 OS=Macaca mulatta OX=9544 GN=BST2 PE=2 SV=1
+tr|A0A1D5QWL7|A0A1D5QWL7_MACMU -          nup54                -                2.3    8.2   6.1       3.9    7.5   6.1   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=1
+tr|A0A1D5QXR0|A0A1D5QXR0_MACMU -          nup54                -                2.4    8.2   1.0       2.8    7.9   1.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QQK5|A0A1D5QQK5_MACMU -          nup54                -                2.4    8.2   0.7       4.5    7.3   0.7   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC719082 PE=4 SV=1
+tr|A0A1D5QRN4|A0A1D5QRN4_MACMU -          nup54                -                2.4    8.1   0.1       3.8    7.5   0.1   1.2   1   0   0   1   1   1   0 SERPIN domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC701315 PE=3 SV=1
+tr|A0A1D5QGX9|A0A1D5QGX9_MACMU -          nup54                -                2.5    8.1  18.8       3.9    7.5  18.8   1.3   1   0   0   1   1   1   0 POU domain protein OS=Macaca mulatta OX=9544 GN=POU3F2 PE=3 SV=1
+tr|F7BCI1|F7BCI1_MACMU         -          nup54                -                2.5    8.1   5.6       2.8    7.9   5.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC701053 PE=4 SV=2
+tr|H9H470|H9H470_MACMU         -          nup54                -                3.2    7.8   6.3       5.3    7.0   6.3   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=2
+tr|H9FUL0|H9FUL0_MACMU         -          nup54                -                3.3    7.7   6.3       5.6    6.9   6.3   1.4   1   0   0   1   1   1   0 Ataxin-3 reference isoform OS=Macaca mulatta OX=9544 GN=ATXN3 PE=2 SV=1
+tr|G7MW44|G7MW44_MACMU         -          nup54                -                3.8    7.5   0.0       4.2    7.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=EGK_18528 PE=4 SV=1
+tr|F6YI26|F6YI26_MACMU         -          nup54                -                  4    7.4   1.1       6.1    6.8   1.1   1.2   1   0   0   1   1   1   0 Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex OS=Macaca mulatta OX=9544 GN=DLST PE=3 SV=1
+tr|F7G761|F7G761_MACMU         -          nup54                -                4.1    7.4   0.5         8    6.4   0.5   1.4   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 18 homolog OS=Macaca mulatta OX=9544 GN=VPS18 PE=2 SV=1
+tr|A0A1D5REK4|A0A1D5REK4_MACMU -          nup54                -                4.2    7.4   7.1       6.7    6.7   7.1   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=1
+tr|A0A1D5R1Y0|A0A1D5R1Y0_MACMU -          nup54                -                4.4    7.3   7.1       7.1    6.6   7.1   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=1
+tr|A0A1D5Q2L0|A0A1D5Q2L0_MACMU -          nup54                -                4.4    7.3   6.9       5.4    7.0   6.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|H9H469|H9H469_MACMU         -          nup54                -                4.5    7.3   7.1       7.1    6.6   7.1   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=2
+tr|F6Y6W5|F6Y6W5_MACMU         -          nup54                -                4.5    7.2   3.1       5.5    7.0   3.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|H9H2Z0|H9H2Z0_MACMU         -          nup54                -                4.6    7.2  14.1       6.7    6.7  14.1   1.1   1   0   0   1   1   1   0 Nup96 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|H9H3D2|H9H3D2_MACMU         -          nup54                -                4.6    7.2  12.7       5.7    6.9  12.7   1.1   1   0   0   1   1   1   0 GATA zinc finger domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=GATAD1 PE=2 SV=1
+tr|F6YPP0|F6YPP0_MACMU         -          nup54                -                4.9    7.1   0.3       6.4    6.8   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NVL PE=4 SV=2
+tr|F7HB97|F7HB97_MACMU         -          nup54                -                5.1    7.1   3.4       8.1    6.4   1.3   1.9   2   0   0   2   2   2   0 Rab_eff_C domain-containing protein OS=Macaca mulatta OX=9544 GN=MLPH PE=4 SV=2
+tr|F6YI09|F6YI09_MACMU         -          nup54                -                6.2    6.8   1.1        12    5.8   1.1   1.4   1   0   0   1   1   1   0 Lipoyl-binding domain-containing protein OS=Macaca mulatta OX=9544 GN=DLST PE=4 SV=2
+tr|F6YNF6|F6YNF6_MACMU         -          nup54                -                6.3    6.8   1.1        12    5.8   1.1   1.4   1   0   0   1   1   1   0 Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Macaca mulatta OX=9544 GN=DLST PE=2 SV=1
+tr|F6WEM0|F6WEM0_MACMU         -          nup54                -                6.3    6.8   0.1        16    5.5   0.0   1.5   1   1   0   1   1   1   0 Tektin-3 OS=Macaca mulatta OX=9544 GN=TEKT3 PE=4 SV=1
+tr|A0A1D5RKG5|A0A1D5RKG5_MACMU -          nup54                -                6.4    6.8   1.1        10    6.1   1.1   1.2   1   0   0   1   1   1   0 RabBD domain-containing protein OS=Macaca mulatta OX=9544 GN=MLPH PE=4 SV=1
+tr|F7H1M4|F7H1M4_MACMU         -          nup54                -                6.8    6.7  17.4        11    5.9  17.4   1.3   1   0   0   1   1   1   0 AXH domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN1 PE=4 SV=2
+tr|A0A1D5QEC8|A0A1D5QEC8_MACMU -          nup54                -                6.8    6.7   3.0       9.4    6.2   1.1   1.9   2   0   0   2   2   2   0 RabBD domain-containing protein OS=Macaca mulatta OX=9544 GN=MLPH PE=4 SV=1
+tr|H9H4W8|H9H4W8_MACMU         -          nup54                -                7.4    6.5   7.4        13    5.8   7.4   1.4   1   0   0   1   1   1   0 Josephin domain-containing protein OS=Macaca mulatta OX=9544 GN=ATXN3 PE=4 SV=2
+tr|F6S273|F6S273_MACMU         -          nup54                -                7.5    6.5   3.1        11    6.0   3.1   1.1   1   0   0   1   1   1   0 Hexosyltransferase OS=Macaca mulatta OX=9544 GN=CSGALNACT2 PE=3 SV=2
+tr|F6ZKC9|F6ZKC9_MACMU         -          nup54                -                7.9    6.5  35.0      0.47   10.5  25.1   2.2   2   0   0   2   2   2   0 THAP-type domain-containing protein OS=Macaca mulatta OX=9544 GN=THAP11 PE=4 SV=1
+tr|F7DZG9|F7DZG9_MACMU         -          nup54                -                7.9    6.4   3.7        12    5.9   3.7   1.2   1   0   0   1   1   1   0 Hexosyltransferase OS=Macaca mulatta OX=9544 GN=CSGALNACT2 PE=3 SV=2
+tr|F7HMN7|F7HMN7_MACMU         -          nup54                -                8.3    6.4   0.4       8.6    6.3   0.4   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MLKL PE=4 SV=2
+tr|F6T8D1|F6T8D1_MACMU         -          nup54                -                8.5    6.4   4.4        12    5.9   4.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MAST4 PE=4 SV=1
+tr|A0A1D5RG65|A0A1D5RG65_MACMU -          nup54                -                8.7    6.3   4.3        12    5.8   4.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MAST4 PE=4 SV=1
+tr|F7E0L3|F7E0L3_MACMU         -          nup54                -                8.9    6.3   4.6        18    5.3   4.6   1.4   1   0   0   1   1   1   0 CAP-ZIP_m domain-containing protein OS=Macaca mulatta OX=9544 GN=LOC719082 PE=4 SV=2
+tr|A0A1D5R3Y4|A0A1D5R3Y4_MACMU -          nup54                -                9.9    6.1   3.2        16    5.4   2.7   1.6   1   1   0   1   1   1   0 Fibrinogen C-terminal domain-containing protein OS=Macaca mulatta OX=9544 GN=ANGPTL4 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:33:03 2022
+# [ok]

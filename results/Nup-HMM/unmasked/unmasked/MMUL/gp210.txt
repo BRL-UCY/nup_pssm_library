@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6VQT3|F6VQT3_MACMU         -          gp210                -                  0 2507.8  21.0         0 2507.2  21.0   1.1   1   0   0   1   1   1   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6XNW1|F6XNW1_MACMU         -          gp210                -                  0 2506.8   1.6         0 2506.3   1.6   1.2   1   0   0   1   1   1   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|A0A1D5QGU5|A0A1D5QGU5_MACMU -          gp210                -                  0 2502.8   1.5         0 2502.3   1.5   1.2   1   0   0   1   1   1   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=1
+tr|F6VTV1|F6VTV1_MACMU         -          gp210                -                  0 2357.3  23.8         0 2319.7  16.4   2.1   1   1   1   2   2   2   2 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210L PE=4 SV=2
+tr|F6XNY4|F6XNY4_MACMU         -          gp210                -                  0 2201.1   6.3         0 2200.6   6.3   1.2   1   0   0   1   1   1   1 BIG2 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP210 PE=4 SV=2
+tr|A0A1D5Q0X1|A0A1D5Q0X1_MACMU -          gp210                -               0.17    9.9   0.3      0.55    8.2   0.0   1.7   2   0   0   2   2   2   0 PKD domain-containing protein OS=Macaca mulatta OX=9544 GN=SORCS1 PE=4 SV=1
+tr|F7A6D9|F7A6D9_MACMU         -          gp210                -               0.26    9.3   0.3      0.72    7.8   0.0   1.6   2   0   0   2   2   2   0 PKD domain-containing protein OS=Macaca mulatta OX=9544 GN=SORCS1 PE=4 SV=1
+tr|F7E0Q9|F7E0Q9_MACMU         -          gp210                -                0.4    8.7   0.0      0.49    8.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein C11orf87 OS=Macaca mulatta OX=9544 GN=C14H11orf87 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:25:23 2022
+# [ok]

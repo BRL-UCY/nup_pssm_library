@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498I9Q2|A0A498I9Q2_MALDO -          nup54                -            1.1e-66  226.9  23.7   4.3e-57  195.3  15.1   2.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041037 PE=4 SV=1
+tr|A0A498HS46|A0A498HS46_MALDO -          nup54                -            7.6e-64  217.6  21.4   2.4e-54  186.2  15.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033825 PE=4 SV=1
+tr|A0A498HSM0|A0A498HSM0_MALDO -          nup54                -              0.011   15.7   0.1     0.012   15.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012958 PE=4 SV=1
+tr|A0A498I3B3|A0A498I3B3_MALDO -          nup54                -                2.5    8.0   7.1         3    7.8   7.1   1.1   1   0   0   1   1   1   0 AT-hook motif nuclear-localized protein OS=Malus domestica OX=3750 GN=DVH24_001806 PE=4 SV=1
+tr|A0A498IN90|A0A498IN90_MALDO -          nup54                -                9.3    6.1  17.1      0.88    9.5   9.8   2.2   2   1   0   2   2   2   0 RAB6-interacting golgin OS=Malus domestica OX=3750 GN=DVH24_005750 PE=3 SV=1
+tr|A0A498KR20|A0A498KR20_MALDO -          nup54                -                9.6    6.1  38.8        13    5.7  38.8   1.1   1   0   0   1   1   1   0 Dimer_Tnp_hAT domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023068 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:28 2022
+# [ok]

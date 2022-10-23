@@ -1,0 +1,62 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          nup205               -                  0 2516.5  41.1         0 2512.5  41.1   1.9   1   1   0   1   1   1   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QJ18|F1QJ18_DANRE         -          nup205               -                  0 2513.0  42.7         0 2509.0  42.7   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          nup205               -                  0 2487.5  47.5         0 2447.2  39.7   2.9   1   1   1   2   2   2   2 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          nup205               -                  0 2486.3  48.2         0 2445.9  40.7   2.9   1   1   1   2   2   2   2 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          nup205               -                  0 2486.1  42.8         0 2482.2  42.8   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          nup205               -                  0 2458.0  48.3         0 2444.1  48.3   2.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|E7EXJ6|E7EXJ6_DANRE         -          nup205               -            3.9e-15   55.3  28.7   4.1e-13   48.6   0.2   3.7   4   0   0   4   4   4   3 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|A0A0R4IRS8|A0A0R4IRS8_DANRE -          nup205               -             0.0091   14.2   0.9     0.011   13.9   0.9   1.1   1   0   0   1   1   1   1 Signal sequence receptor, alpha OS=Danio rerio OX=7955 GN=ssr1 PE=1 SV=1
+tr|E9QBB8|E9QBB8_DANRE         -          nup205               -                1.6    6.8   3.7       1.7    6.7   3.7   1.0   1   0   0   1   1   1   0 Apolipoprotein Eb (Fragment) OS=Danio rerio OX=7955 GN=apoeb PE=1 SV=1
+tr|F1QI05|F1QI05_DANRE         -          nup205               -                2.1    6.4   0.0       3.4    5.7   0.0   1.2   1   0   0   1   1   1   0 Elastin microfibril interfacer 2a (Fragment) OS=Danio rerio OX=7955 GN=emilin2a PE=4 SV=1
+tr|A0A0R4ILE7|A0A0R4ILE7_DANRE -          nup205               -                2.3    6.3   0.2       3.4    5.7   0.2   1.1   1   0   0   1   1   1   0 DNA helicase OS=Danio rerio OX=7955 GN=mcm6l PE=1 SV=2
+tr|F1QKR6|F1QKR6_DANRE         -          nup205               -                2.7    6.0   1.0       3.5    5.6   1.0   1.0   1   0   0   1   1   1   0 RALY heterogeneous nuclear ribonucleoprotein OS=Danio rerio OX=7955 GN=raly PE=4 SV=1
+tr|F1QCB8|F1QCB8_DANRE         -          nup205               -                2.8    6.0   4.1       3.7    5.6   4.1   1.1   1   0   0   1   1   1   0 Zgc:153935 OS=Danio rerio OX=7955 GN=zgc:153935 PE=4 SV=1
+tr|Q6NZU4|Q6NZU4_DANRE         -          nup205               -                2.9    5.9   0.5         4    5.4   0.5   1.1   1   0   0   1   1   1   0 Iroquois homeobox 4a OS=Danio rerio OX=7955 GN=irx4a PE=2 SV=1
+tr|F1QAY0|F1QAY0_DANRE         -          nup205               -                3.2    5.8   1.0         4    5.4   1.0   1.0   1   0   0   1   1   1   0 RALY heterogeneous nuclear ribonucleoprotein OS=Danio rerio OX=7955 GN=raly PE=4 SV=1
+tr|F1R1C5|F1R1C5_DANRE         -          nup205               -                3.3    5.8   0.0       5.3    5.1   0.0   1.2   1   0   0   1   1   1   0 Elastin microfibril interfacer 2a OS=Danio rerio OX=7955 GN=emilin2a PE=4 SV=2
+tr|A0A0R4I9H0|A0A0R4I9H0_DANRE -          nup205               -                3.3    5.7   1.4       3.9    5.5   1.4   1.0   1   0   0   1   1   1   0 Intraflagellar transport protein 20 homolog OS=Danio rerio OX=7955 GN=ift20 PE=4 SV=1
+tr|B0S7S1|B0S7S1_DANRE         -          nup205               -                3.5    5.7   0.3       5.2    5.1   0.3   1.1   1   0   0   1   1   1   0 DNA helicase OS=Danio rerio OX=7955 GN=mcm6l PE=1 SV=1
+tr|A0A0E4AYA7|A0A0E4AYA7_DANRE -          nup205               -                3.5    5.6   0.3       5.3    5.1   0.3   1.1   1   0   0   1   1   1   0 DNA helicase OS=Danio rerio OX=7955 GN=mcm6l PE=1 SV=1
+tr|Q08BK6|Q08BK6_DANRE         -          nup205               -                3.6    5.6   1.0       3.2    5.8   1.0   1.0   1   0   0   1   1   1   0 Complexin 4a OS=Danio rerio OX=7955 GN=cplx4a PE=2 SV=1
+tr|F1QVW0|F1QVW0_DANRE         -          nup205               -                3.7    5.6   0.9       4.2    5.4   0.9   1.0   1   0   0   1   1   1   0 Natriuretic peptide A OS=Danio rerio OX=7955 GN=nppa PE=1 SV=1
+tr|A0A0G2KFQ1|A0A0G2KFQ1_DANRE -          nup205               -                3.8    5.5   0.5       6.6    4.7   0.5   1.3   1   0   0   1   1   1   0 IQ motif-containing GTPase-activating protein 3 OS=Danio rerio OX=7955 GN=iqgap3 PE=1 SV=2
+tr|A0A0R4IYQ4|A0A0R4IYQ4_DANRE -          nup205               -                4.1    5.4   0.9       4.8    5.2   0.9   1.1   1   0   0   1   1   1   0 Rap guanine nucleotide exchange factor (GEF) 2 (Fragment) OS=Danio rerio OX=7955 GN=rapgef2 PE=4 SV=1
+tr|A0A2R8QNG4|A0A2R8QNG4_DANRE -          nup205               -                4.4    5.3   0.8       5.3    5.1   0.8   1.0   1   0   0   1   1   1   0 Si:dkey-30j16.3 OS=Danio rerio OX=7955 GN=si:dkey-30j16.3 PE=4 SV=1
+tr|A0A0R4IUL3|A0A0R4IUL3_DANRE -          nup205               -                4.5    5.3   0.8       5.4    5.0   0.8   1.0   1   0   0   1   1   1   0 Si:dkey-30j16.3 OS=Danio rerio OX=7955 GN=si:dkey-30j16.3 PE=4 SV=2
+tr|Q6DBT0|Q6DBT0_DANRE         -          nup205               -                4.9    5.2   1.4       4.6    5.3   1.4   1.0   1   0   0   1   1   1   0 Olfactomedin 1b OS=Danio rerio OX=7955 GN=olfm1b PE=2 SV=1
+tr|A0A286YA12|A0A286YA12_DANRE -          nup205               -                4.9    5.2   0.0       6.8    4.7   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=1
+tr|E7FGY3|E7FGY3_DANRE         -          nup205               -                  5    5.1   0.8       6.1    4.9   0.8   1.0   1   0   0   1   1   1   0 Si:dkey-30j16.3 OS=Danio rerio OX=7955 GN=si:dkey-30j16.3 PE=4 SV=1
+tr|A0A2R8QAS6|A0A2R8QAS6_DANRE -          nup205               -                  5    5.1   0.0       6.9    4.7   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=1
+tr|A0A2R8RIY5|A0A2R8RIY5_DANRE -          nup205               -                5.1    5.1   0.0         7    4.7   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=1
+sp|Q1LYM3|SPIR1_DANRE          -          nup205               -                5.1    5.1   0.0       7.1    4.6   0.0   1.1   1   0   0   1   1   1   0 Protein spire homolog 1 OS=Danio rerio OX=7955 GN=spire1 PE=2 SV=1
+tr|A0A2R8QH89|A0A2R8QH89_DANRE -          nup205               -                5.2    5.1   0.0       7.2    4.6   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=1
+tr|A0A0R4ITV6|A0A0R4ITV6_DANRE -          nup205               -                5.3    5.1   0.0       7.3    4.6   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=2
+tr|A0A0R4IHM3|A0A0R4IHM3_DANRE -          nup205               -                5.3    5.0   0.0       7.4    4.6   0.0   1.1   1   0   0   1   1   1   0 Spire-type actin nucleation factor 1a OS=Danio rerio OX=7955 GN=spire1a PE=4 SV=1
+tr|F1Q9M2|F1Q9M2_DANRE         -          nup205               -                5.4    5.0   0.8       7.2    4.6   0.8   1.1   1   0   0   1   1   1   0 CD2 (cytoplasmic tail)-binding protein 2 OS=Danio rerio OX=7955 GN=cd2bp2 PE=1 SV=1
+tr|A0JML0|A0JML0_DANRE         -          nup205               -                6.2    4.8   5.5       7.3    4.6   5.5   1.1   1   0   0   1   1   1   0 Zgc:153935 OS=Danio rerio OX=7955 GN=zgc:153935 PE=2 SV=1
+tr|A0A0R4IN92|A0A0R4IN92_DANRE -          nup205               -                6.4    4.8   0.0       8.5    4.4   0.0   1.1   1   0   0   1   1   1   0 Polybromo 1,-like OS=Danio rerio OX=7955 GN=pbrm1l PE=1 SV=2
+tr|A0A0R4IK07|A0A0R4IK07_DANRE -          nup205               -                6.6    4.7   6.9      0.81    7.8   3.0   1.4   2   0   0   2   2   2   0 Si:ch211-208k15.1 OS=Danio rerio OX=7955 GN=si:ch211-208k15.1 PE=3 SV=1
+tr|A0A2R8PY68|A0A2R8PY68_DANRE -          nup205               -                6.6    4.7   4.3       7.9    4.5   4.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=mcidas PE=4 SV=1
+tr|A5WVJ1|A5WVJ1_DANRE         -          nup205               -                6.7    4.7   0.1       6.2    4.8   0.1   1.1   1   0   0   1   1   1   0 Protein phosphatase 6, regulatory subunit 2b (Fragment) OS=Danio rerio OX=7955 GN=ppp6r2b PE=4 SV=1
+tr|A0A2R8QBC4|A0A2R8QBC4_DANRE -          nup205               -                6.7    4.7   0.4        11    4.0   0.4   1.2   1   0   0   1   1   1   0 ATP-dependent DNA helicase OS=Danio rerio OX=7955 GN=LOC101882029 PE=3 SV=1
+tr|E7F4F2|E7F4F2_DANRE         -          nup205               -                6.9    4.7   0.7        11    4.1   0.7   1.1   1   0   0   1   1   1   0 Adhesion G protein-coupled receptor G2a OS=Danio rerio OX=7955 GN=adgrg2a PE=3 SV=2
+sp|Q66I67|IFT20_DANRE          -          nup205               -                7.5    4.6   1.1       8.6    4.4   1.1   1.1   1   0   0   1   1   1   0 Intraflagellar transport protein 20 homolog OS=Danio rerio OX=7955 GN=ift20 PE=2 SV=1
+tr|B7ZD16|B7ZD16_DANRE         -          nup205               -                  8    4.5   0.8       9.6    4.2   0.8   1.0   1   0   0   1   1   1   0 Olfactomedin 1b OS=Danio rerio OX=7955 GN=olfm1b PE=4 SV=1
+tr|F1Q784|F1Q784_DANRE         -          nup205               -                8.3    4.4   3.2       9.3    4.3   3.2   1.1   1   0   0   1   1   1   0 KAT8 regulatory NSL complex subunit 1-like (Fragment) OS=Danio rerio OX=7955 GN=kansl1l PE=4 SV=1
+tr|A0A2R8RMZ3|A0A2R8RMZ3_DANRE -          nup205               -                8.3    4.4   6.2       7.1    4.6   5.3   1.2   1   1   0   1   1   1   0 Zgc:153935 OS=Danio rerio OX=7955 GN=zgc:153935 PE=4 SV=1
+tr|A0A2R8QGU0|A0A2R8QGU0_DANRE -          nup205               -                9.2    4.3   0.7        13    3.8   0.7   1.1   1   0   0   1   1   1   0 Slingshot protein phosphatase 2a OS=Danio rerio OX=7955 GN=ssh2a PE=4 SV=1
+tr|X1WFY2|X1WFY2_DANRE         -          nup205               -                9.9    4.2   0.8        14    3.7   0.8   1.1   1   0   0   1   1   1   0 Slingshot protein phosphatase 2a OS=Danio rerio OX=7955 GN=ssh2a PE=4 SV=1
+tr|E7FH10|E7FH10_DANRE         -          nup205               -                 10    4.1   0.8        14    3.7   0.8   1.1   1   0   0   1   1   1   0 Slingshot protein phosphatase 2a OS=Danio rerio OX=7955 GN=ssh2a PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:24:26 2022
+# [ok]

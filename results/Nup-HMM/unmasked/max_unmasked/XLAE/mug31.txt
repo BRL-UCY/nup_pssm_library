@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GTM5|A0A1L8GTM5_XENLA -          mug31                -            5.3e-05   24.1   0.7   0.00015   22.5   0.7   1.8   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tmem209 PE=4 SV=1
+tr|A0A1L8GZK3|A0A1L8GZK3_XENLA -          mug31                -            0.00047   21.0   2.9   0.00047   21.0   2.9   2.1   2   1   0   2   2   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017894mg PE=1 SV=1
+tr|A0A1L8FJ48|A0A1L8FJ48_XENLA -          mug31                -                1.5    9.5   0.1       1.5    9.5   0.1   2.0   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=clrn3 PE=4 SV=1
+tr|A0A1L8ELG6|A0A1L8ELG6_XENLA -          mug31                -                2.1    9.1   0.5        11    6.7   0.5   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=znf217 PE=4 SV=1
+tr|A0A1L8H8X4|A0A1L8H8X4_XENLA -          mug31                -                2.2    9.0   3.3       2.4    8.9   3.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015621mg PE=4 SV=1
+tr|A0A1L8ELQ1|A0A1L8ELQ1_XENLA -          mug31                -                2.5    8.8   0.0       6.1    7.5   0.0   1.6   1   0   0   1   1   1   0 MFS domain-containing protein OS=Xenopus laevis OX=8355 GN=slc17a9 PE=4 SV=1
+tr|A0A1L8EMA6|A0A1L8EMA6_XENLA -          mug31                -                  3    8.5   0.0       6.1    7.5   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18046491mg PE=4 SV=1
+tr|A0A1L8H337|A0A1L8H337_XENLA -          mug31                -                3.2    8.4   1.2       7.4    7.3   1.2   1.5   1   0   0   1   1   1   0 DCAF15_WD40 domain-containing protein OS=Xenopus laevis OX=8355 GN=dcaf15 PE=1 SV=1
+tr|B7X613|B7X613_XENLA         -          mug31                -                3.8    8.2   1.8        37    5.0   0.7   2.4   2   0   0   2   2   2   0 Nucleolar GTP-binding protein 1 OS=Xenopus laevis OX=8355 GN=gtpbp4 PE=1 SV=1
+tr|A0A1L8FZW9|A0A1L8FZW9_XENLA -          mug31                -                3.9    8.2   0.2       4.8    7.9   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18032327mg PE=4 SV=1
+tr|A0A1L8HYS2|A0A1L8HYS2_XENLA -          mug31                -                4.2    8.1   0.3       5.7    7.6   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007072mg PE=4 SV=1
+tr|A0A1L8FRI3|A0A1L8FRI3_XENLA -          mug31                -                4.5    8.0   1.3         8    7.1   1.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033164mg PE=4 SV=1
+tr|A0A1L8HEW3|A0A1L8HEW3_XENLA -          mug31                -                4.7    7.9   0.0       7.1    7.3   0.0   1.2   1   0   0   1   1   1   0 OTU domain-containing protein OS=Xenopus laevis OX=8355 GN=yod1 PE=1 SV=1
+tr|A0A1L8GTF0|A0A1L8GTF0_XENLA -          mug31                -                5.1    7.8   2.8       2.2    9.0   0.9   1.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020809mg PE=4 SV=1
+tr|A0A1L8GT18|A0A1L8GT18_XENLA -          mug31                -                5.3    7.7   0.1       5.9    7.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020669mg PE=4 SV=1
+tr|A0A1L8EK41|A0A1L8EK41_XENLA -          mug31                -                5.4    7.7   1.1       6.7    7.4   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002911mg PE=4 SV=1
+tr|A0A1L8FBP3|A0A1L8FBP3_XENLA -          mug31                -                5.5    7.7   0.8        11    6.7   0.8   1.5   1   0   0   1   1   1   0 Olfactory receptor OS=Xenopus laevis OX=8355 GN=XELAEV_18040309mg PE=3 SV=1
+tr|A0A1L8HNJ3|A0A1L8HNJ3_XENLA -          mug31                -                5.7    7.6   0.4       7.2    7.3   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18009888mg PE=4 SV=1
+tr|A0A1L8EMU0|A0A1L8EMU0_XENLA -          mug31                -                5.9    7.6   1.5       9.3    6.9   1.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=lrrc59 PE=1 SV=1
+tr|A0A1L8GFU6|A0A1L8GFU6_XENLA -          mug31                -                7.7    7.2   5.1        23    5.6   5.1   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=gpbp1l1 PE=4 SV=1
+tr|A0A1L8ETZ9|A0A1L8ETZ9_XENLA -          mug31                -                8.3    7.1   0.7         9    7.0   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18043917mg PE=4 SV=1
+tr|A0A1L8H045|A0A1L8H045_XENLA -          mug31                -                8.5    7.1   1.3        12    6.5   0.1   2.0   2   0   0   2   2   2   0 Secretory carrier-associated membrane protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018094mg PE=1 SV=1
+tr|A0A1L8FBT0|A0A1L8FBT0_XENLA -          mug31                -                8.9    7.0   0.8        21    5.8   0.8   1.6   1   0   0   1   1   1   0 Olfactory receptor OS=Xenopus laevis OX=8355 GN=XELAEV_18040306mg PE=3 SV=1
+tr|A0A1L8F925|A0A1L8F925_XENLA -          mug31                -                9.6    6.9   0.0        14    6.4   0.0   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit K OS=Xenopus laevis OX=8355 GN=EIF3K PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/XLAE/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:00:57 2022
+# [ok]

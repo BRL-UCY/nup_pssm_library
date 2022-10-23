@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38E82|Q38E82_TRYB2 -          ndc1                 -                3.4    4.9   2.3       3.9    4.7   2.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.0750 PE=4 SV=1
+tr|Q387X7|Q387X7_TRYB2 -          ndc1                 -                5.8    4.1   0.0       8.2    3.6   0.0   1.1   1   0   0   1   1   1   0 Histone H3 variant OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.1090 PE=3 SV=1
+tr|Q38C93|Q38C93_TRYB2 -          ndc1                 -                7.5    3.8   0.1       9.2    3.5   0.1   1.1   1   0   0   1   1   1   0 Hypoxanthine phosphoribosyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.6540 PE=3 SV=1
+tr|Q38CA0|Q38CA0_TRYB2 -          ndc1                 -                7.6    3.7   0.1       9.2    3.5   0.1   1.1   1   0   0   1   1   1   0 Hypoxanthine phosphoribosyltransferase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.6650 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/ndc1.txt --max --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:57:58 2022
+# [ok]

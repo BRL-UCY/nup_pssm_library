@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P40368|NUP82_YEAST -          nup88                -            1.7e-84  282.8   9.1   6.5e-83  277.5   9.1   2.7   1   1   0   1   1   1   1 Nucleoporin NUP82 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP82 PE=1 SV=2
+sp|P39706|SWD1_YEAST  -          nup88                -              0.032   10.8   0.6      0.42    7.2   0.1   2.2   2   1   0   2   2   2   0 COMPASS component SWD1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SWD1 PE=1 SV=1
+sp|P41318|LST8_YEAST  -          nup88                -              0.088    9.4   3.7       1.8    5.0   0.5   3.1   1   1   3   4   4   4   0 Target of rapamycin complex subunit LST8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LST8 PE=1 SV=1
+sp|P38163|SRO77_YEAST -          nup88                -               0.19    8.3   1.8      0.16    8.6   0.2   1.5   2   0   0   2   2   2   0 Lethal(2) giant larvae protein homolog SRO77 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SRO77 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:39 2022
+# [ok]

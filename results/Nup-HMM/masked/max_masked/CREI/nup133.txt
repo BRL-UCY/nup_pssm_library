@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D472|A0A2K3D472_CHLRE -          nup133               -            8.4e-08   30.4   0.4   0.00074   17.3   0.0   3.3   4   0   0   4   4   4   2 Nucleoporin_N domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g521750v5 PE=3 SV=1
+tr|A0A2K3DLB7|A0A2K3DLB7_CHLRE -          nup133               -               0.22    9.1   0.0      0.26    8.9   0.0   1.1   1   0   0   1   1   1   0 DUF667 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g351650v5 PE=4 SV=1
+tr|A0A2K3DHL8|A0A2K3DHL8_CHLRE -          nup133               -                4.7    4.7   0.1       6.5    4.2   0.1   1.0   1   0   0   1   1   1   0 Cilia- and flagella-associated protein 43 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g374700v5 PE=3 SV=1
+tr|A0A2K3CNR0|A0A2K3CNR0_CHLRE -          nup133               -                8.4    3.9   0.2        11    3.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g698200v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:29:12 2022
+# [ok]

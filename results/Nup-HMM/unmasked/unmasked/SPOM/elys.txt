@@ -1,0 +1,24 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94384|ELY5_SCHPO  -          elys                 -              4e-36  121.7  16.0   4.8e-36  121.5  16.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein ely5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ely5 PE=4 SV=2
+sp|O14053|UTP21_SCHPO -          elys                 -             0.0016   13.6   0.2     0.013   10.5   0.0   1.9   1   1   1   2   2   2   1 U3 small nucleolar RNA-associated protein 21 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1672.07 PE=3 SV=1
+sp|Q9C1X1|PWP2_SCHPO  -          elys                 -             0.0023   13.0   0.4      0.04    8.9   0.0   2.0   2   0   0   2   2   2   2 Periodic tryptophan protein 2 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC713.04c PE=1 SV=1
+sp|O14340|YB35_SCHPO  -          elys                 -              0.014   10.5  77.1      0.02    9.9  77.1   1.1   1   0   0   1   1   1   0 Oxysterol-binding protein homolog C2F12.05c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC2F12.05c PE=1 SV=2
+sp|Q10281|GBLP_SCHPO  -          elys                 -              0.018   10.1   0.0     0.024    9.7   0.0   1.0   1   0   0   1   1   1   0 Guanine nucleotide-binding protein subunit beta-like protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rkp1 PE=1 SV=3
+sp|Q9URX9|PXR1_SCHPO  -          elys                 -               0.79    4.6  25.8      0.92    4.4  25.8   1.0   1   0   0   1   1   1   0 Protein pxr1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pxr1 PE=1 SV=1
+sp|P78794|CWC15_SCHPO -          elys                 -                1.1    4.2  29.6       1.3    4.0  29.6   1.0   1   0   0   1   1   1   0 Pre-mRNA-splicing factor cwf15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf15 PE=1 SV=2
+sp|O74191|FKBP4_SCHPO -          elys                 -                2.9    2.7  25.1       4.2    2.2  25.1   1.1   1   0   0   1   1   1   0 FK506-binding protein 39 kDa OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fkbp39 PE=1 SV=1
+sp|P08090|MEI3_SCHPO  -          elys                 -                3.7    2.4  15.7         4    2.3  15.7   1.0   1   0   0   1   1   1   0 21 kDa protein inducing meiosis and sporulation OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mei3 PE=4 SV=1
+sp|Q10988|UVE1_SCHPO  -          elys                 -                  5    2.0  30.0         7    1.5  30.0   1.1   1   0   0   1   1   1   0 UV-damage endonuclease OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=uve1 PE=2 SV=1
+sp|Q9P7S7|NOP58_SCHPO -          elys                 -                5.2    1.9  21.0       6.5    1.6  21.0   1.1   1   0   0   1   1   1   0 Nucleolar protein 58 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nop58 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:48 2022
+# [ok]

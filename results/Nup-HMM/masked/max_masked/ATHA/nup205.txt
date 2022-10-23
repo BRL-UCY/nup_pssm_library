@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          nup205               -                  0 1186.5  10.7         0 1182.1  10.7   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          nup205               -                  0 1154.2  10.5         0 1149.8  10.5   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          nup205               -                  0 1114.2  13.8         0 1108.3  13.8   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          nup205               -                  0 1111.8  14.3         0 1105.9  14.3   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|F4JUG3|F4JUG3_ARATH         -          nup205               -            2.1e-08   32.7   5.2   0.00079   17.5   0.6   3.6   4   0   0   4   4   4   3 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+sp|Q9LNC9|MYB13_ARATH          -          nup205               -                1.9    6.3   0.0       2.4    5.9   0.0   1.0   1   0   0   1   1   1   0 Transcription factor MYB13 OS=Arabidopsis thaliana OX=3702 GN=MYB13 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:41:37 2022
+# [ok]

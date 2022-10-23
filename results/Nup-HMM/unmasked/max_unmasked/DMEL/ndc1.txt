@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCG4|NDC1_DROME           -          ndc1                 -           1.4e-158  529.2  14.3  1.5e-158  529.0  14.3   1.0   1   0   0   1   1   1   1 Nucleoporin Ndc1 OS=Drosophila melanogaster OX=7227 GN=Ndc1 PE=1 SV=1
+tr|Q8IRA7|Q8IRA7_DROME         -          ndc1                 -            5.3e-60  203.7  25.4   2.7e-34  118.8  25.9   3.0   1   1   1   3   3   3   3 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32246 PE=4 SV=2
+sp|Q9VQD6|ELBA2_DROME          -          ndc1                 -               0.17   10.5   0.1      0.25   10.0   0.1   1.2   1   0   0   1   1   1   0 Early boundary activity protein 2 OS=Drosophila melanogaster OX=7227 GN=Elba2 PE=1 SV=1
+tr|Q9VMB3|Q9VMB3_DROME         -          ndc1                 -               0.19   10.3   0.3      0.29    9.8   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=BcDNA:LD22339 PE=1 SV=1
+tr|Q9VZ39|Q9VZ39_DROME         -          ndc1                 -               0.46    9.1   0.6       0.6    8.7   0.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=BcDNA:GH01560 PE=4 SV=2
+tr|Q0E8L1|Q0E8L1_DROME         -          ndc1                 -               0.61    8.7   0.4       0.7    8.5   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=CG8475 PE=4 SV=1
+sp|O76902|PKHF1_DROME          -          ndc1                 -                1.1    7.8   0.2       1.6    7.3   0.2   1.1   1   0   0   1   1   1   0 Pleckstrin homology domain-containing family F member 1 homolog OS=Drosophila melanogaster OX=7227 GN=rush PE=1 SV=1
+tr|Q7JWN2|Q7JWN2_DROME         -          ndc1                 -                1.5    7.4   1.4       1.6    7.3   1.4   1.1   1   0   0   1   1   1   0 RE25177p OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE25177 PE=2 SV=1
+tr|Q9VST8|Q9VST8_DROME         -          ndc1                 -                1.6    7.3   0.4       2.8    6.5   0.4   1.3   1   0   0   1   1   1   0 LD38503p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4942 PE=2 SV=1
+tr|Q9VY65|Q9VY65_DROME         -          ndc1                 -                1.9    7.1   0.0         2    7.0   0.0   1.0   1   0   0   1   1   1   0 MICOS complex subunit MIC10 OS=Drosophila melanogaster OX=7227 GN=Minos1a PE=2 SV=1
+sp|P23938|NG1_DROME            -          ndc1                 -                1.9    7.1   4.1       2.1    6.9   4.1   1.1   1   0   0   1   1   1   0 Protein new-glue 1 OS=Drosophila melanogaster OX=7227 GN=ng1 PE=2 SV=2
+tr|Q9VCT6|Q9VCT6_DROME         -          ndc1                 -                  2    7.0   7.6       2.8    6.5   7.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13840 PE=4 SV=3
+tr|A8JRH4|A8JRH4_DROME         -          ndc1                 -                  2    7.0   1.9       3.2    6.3   1.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG34432 PE=4 SV=1
+tr|Q9VTR1|Q9VTR1_DROME         -          ndc1                 -                2.1    7.0   0.3       2.8    6.5   0.3   1.1   1   0   0   1   1   1   0 LP01340p OS=Drosophila melanogaster OX=7227 GN=BcDNA:LP01340 PE=2 SV=1
+tr|Q8MZ67|Q8MZ67_DROME         -          ndc1                 -                2.2    6.9   0.1       2.5    6.7   0.1   1.2   1   0   0   1   1   1   0 AT28918p OS=Drosophila melanogaster OX=7227 GN=ms(2)35Ci PE=2 SV=1
+tr|Q9W333|Q9W333_DROME         -          ndc1                 -                2.4    6.8   0.1        15    4.1   0.0   1.8   2   0   0   2   2   2   0 IP06839p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15317 PE=2 SV=1
+tr|Q9V401|Q9V401_DROME         -          ndc1                 -                3.3    6.3  11.9       3.6    6.2  11.9   1.2   1   0   0   1   1   1   0 RE43371p OS=Drosophila melanogaster OX=7227 GN=EG:96G10.8 PE=2 SV=1
+tr|Q9VQ80|Q9VQ80_DROME         -          ndc1                 -                3.4    6.2   2.3         4    6.0   2.3   1.1   1   0   0   1   1   1   0 GEO07570p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15382 PE=2 SV=1
+sp|P40139|NG2_DROME            -          ndc1                 -                4.3    5.9   5.5       4.3    5.9   5.5   1.1   1   0   0   1   1   1   0 Protein new-glue 2 OS=Drosophila melanogaster OX=7227 GN=ng2 PE=2 SV=2
+tr|Q9VY41|Q9VY41_DROME         -          ndc1                 -                4.4    5.9   0.3       5.7    5.5   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13404 PE=4 SV=2
+tr|Q5BI62|Q5BI62_DROME         -          ndc1                 -                4.5    5.8   4.0       2.3    6.8   0.4   2.1   2   0   0   2   2   2   0 LP14331p OS=Drosophila melanogaster OX=7227 GN=Mdr50 PE=1 SV=1
+tr|Q9VTF1|Q9VTF1_DROME         -          ndc1                 -                4.6    5.8  10.3       5.9    5.4  10.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32071 PE=4 SV=2
+tr|Q9VT01|Q9VT01_DROME         -          ndc1                 -                4.7    5.8   3.0       8.8    4.9   3.0   1.4   1   0   0   1   1   1   0 FI06792p OS=Drosophila melanogaster OX=7227 GN=pall PE=2 SV=1
+tr|Q9VKF6|Q9VKF6_DROME         -          ndc1                 -                4.8    5.7   1.8        12    4.4   1.8   1.6   1   0   0   1   1   1   0 V-type proton ATPase subunit a OS=Drosophila melanogaster OX=7227 GN=Vha100-5 PE=1 SV=1
+sp|P43332|SNRPA_DROME          -          ndc1                 -                5.5    5.5   3.0        22    3.6   1.2   2.0   2   0   0   2   2   2   0 U1 small nuclear ribonucleoprotein A OS=Drosophila melanogaster OX=7227 GN=snf PE=1 SV=1
+tr|Q9VWL7|Q9VWL7_DROME         -          ndc1                 -                6.3    5.3   1.3        16    4.0   1.3   1.7   1   0   0   1   1   1   0 Rho GTPase activating protein at 18B, isoform C OS=Drosophila melanogaster OX=7227 GN=RhoGAP18B PE=4 SV=2
+tr|Q7K3K5|Q7K3K5_DROME         -          ndc1                 -                6.7    5.3   0.4        11    4.5   0.4   1.4   1   0   0   1   1   1   0 LD22804p OS=Drosophila melanogaster OX=7227 GN=ZnT63C PE=1 SV=1
+tr|E0R7Q1|E0R7Q1_DROME         -          ndc1                 -                6.7    5.3   0.6       6.2    5.4   0.6   1.0   1   0   0   1   1   1   0 MIP08409p OS=Drosophila melanogaster OX=7227 GN=CG31222-RA PE=2 SV=1
+tr|M9PEG6|M9PEG6_DROME         -          ndc1                 -                  7    5.2   0.3        14    4.2   0.3   1.5   1   0   0   1   1   1   0 Zinc transporter 63C, isoform F OS=Drosophila melanogaster OX=7227 GN=ZnT63C PE=1 SV=1
+sp|Q8MT36|MES4_DROME           -          ndc1                 -                7.1    5.2   1.4        14    4.2   1.4   1.4   1   0   0   1   1   1   0 Probable histone-lysine N-methyltransferase Mes-4 OS=Drosophila melanogaster OX=7227 GN=Mes-4 PE=1 SV=2
+tr|A0A0B4KHR6|A0A0B4KHR6_DROME -          ndc1                 -                7.1    5.2   1.4        14    4.2   1.4   1.4   1   0   0   1   1   1   0 Histone-lysine N-methyltransferase OS=Drosophila melanogaster OX=7227 GN=NSD PE=4 SV=1
+tr|Q9VFH2|Q9VFH2_DROME         -          ndc1                 -                7.3    5.1   5.4        10    4.7   5.4   1.2   1   0   0   1   1   1   0 Hexamethylene bisacetamide inducible, isoform A OS=Drosophila melanogaster OX=7227 GN=Hexim PE=2 SV=1
+sp|P84345|ATP8_DROME           -          ndc1                 -                7.4    5.1   0.2       7.5    5.1   0.2   1.0   1   0   0   1   1   1   0 ATP synthase protein 8 OS=Drosophila melanogaster OX=7227 GN=mt:ATPase8 PE=3 SV=1
+sp|Q9VYY2|SPCS2_DROME          -          ndc1                 -                7.5    5.1   0.1       9.6    4.7   0.1   1.1   1   0   0   1   1   1   0 Signal peptidase complex subunit 2 OS=Drosophila melanogaster OX=7227 GN=Spase25 PE=2 SV=1
+tr|B4F5U4|B4F5U4_DROME         -          ndc1                 -                7.5    5.1   0.1       9.6    4.7   0.1   1.1   1   0   0   1   1   1   0 CG1751-PA OS=Drosophila melanogaster OX=7227 GN=Spase25 PE=1 SV=1
+tr|A0A0B4KGQ0|A0A0B4KGQ0_DROME -          ndc1                 -                7.7    5.1   7.1        15    4.2   7.1   1.3   1   0   0   1   1   1   0 Ran binding protein 3, isoform B OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+tr|A0A0B4K6S9|A0A0B4K6S9_DROME -          ndc1                 -                7.7    5.1   0.6        18    3.9   0.6   1.6   1   0   0   1   1   1   0 Major facilitator superfamily transporter 12, isoform B OS=Drosophila melanogaster OX=7227 GN=MFS12 PE=4 SV=1
+tr|Q9VCI7|Q9VCI7_DROME         -          ndc1                 -                7.7    5.1   7.1        15    4.1   7.1   1.3   1   0   0   1   1   1   0 LD02979p OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+tr|Q8MS66|Q8MS66_DROME         -          ndc1                 -                7.9    5.0   0.5        18    3.8   0.5   1.6   1   0   0   1   1   1   0 LP07366p OS=Drosophila melanogaster OX=7227 GN=MFS12 PE=2 SV=1
+tr|Q9VTF3|Q9VTF3_DROME         -          ndc1                 -                  8    5.0  14.7       9.6    4.7  14.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12522 PE=4 SV=3
+tr|Q9VW41|Q9VW41_DROME         -          ndc1                 -                8.1    5.0   0.2         9    4.8   0.2   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing 58, isoform A OS=Drosophila melanogaster OX=7227 GN=Ccdc58 PE=1 SV=2
+tr|Q9VDW5|Q9VDW5_DROME         -          ndc1                 -                9.2    4.8   1.3        13    4.3   1.3   1.1   1   0   0   1   1   1   0 AT22101p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15025 PE=2 SV=1
+tr|Q9VB29|Q9VB29_DROME         -          ndc1                 -                9.3    4.8   0.2        12    4.4   0.2   1.2   1   0   0   1   1   1   0 GEO10302p1 OS=Drosophila melanogaster OX=7227 GN=anon-WO0140519.87 PE=2 SV=1
+tr|Q8INF6|Q8INF6_DROME         -          ndc1                 -                9.5    4.8   5.7        13    4.3   5.7   1.2   1   0   0   1   1   1   0 Hexamethylene bisacetamide inducible, isoform B OS=Drosophila melanogaster OX=7227 GN=Hexim PE=4 SV=1
+tr|Q9VS03|Q9VS03_DROME         -          ndc1                 -                9.7    4.7   0.0        12    4.5   0.0   1.1   1   0   0   1   1   1   0 FI08349p OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT30027 PE=1 SV=1
+tr|Q9W2V1|Q9W2V1_DROME         -          ndc1                 -                9.9    4.7   2.7        10    4.6   2.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12640 PE=4 SV=1
+tr|Q8IQP0|Q8IQP0_DROME         -          ndc1                 -                 10    4.7   0.8        14    4.2   0.8   1.3   1   0   0   1   1   1   0 AT13484p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32161 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/ndc1.txt --max --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:09:12 2022
+# [ok]

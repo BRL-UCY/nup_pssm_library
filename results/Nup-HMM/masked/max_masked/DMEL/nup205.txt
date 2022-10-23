@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8IQV9|NU205_DROME          -          nup205               -                  0 2095.3  22.8         0 2095.1  22.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Drosophila melanogaster OX=7227 GN=Nup205 PE=2 SV=1
+tr|Q9VF15|Q9VF15_DROME         -          nup205               -                1.3    6.0   0.0       1.7    5.6   0.0   1.0   1   0   0   1   1   1   0 GEO09476p1 OS=Drosophila melanogaster OX=7227 GN=glob1 PE=1 SV=1
+tr|M9PEK0|M9PEK0_DROME         -          nup205               -                  5    4.0   0.1       7.8    3.4   0.1   1.1   1   0   0   1   1   1   0 Melted, isoform D OS=Drosophila melanogaster OX=7227 GN=melt PE=4 SV=1
+sp|Q9VS24|MELT_DROME           -          nup205               -                  5    4.0   0.1       7.8    3.4   0.1   1.1   1   0   0   1   1   1   0 Protein melted OS=Drosophila melanogaster OX=7227 GN=melt PE=1 SV=2
+tr|Q9V3N5|Q9V3N5_DROME         -          nup205               -                  8    3.4   0.0       9.5    3.1   0.0   1.0   1   0   0   1   1   1   0 FI21292p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10793 PE=2 SV=1
+tr|Q9VR51|Q9VR51_DROME         -          nup205               -                9.5    3.1   0.1        13    2.7   0.1   1.0   1   0   0   1   1   1   0 RE68036p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14615 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:08:09 2022
+# [ok]

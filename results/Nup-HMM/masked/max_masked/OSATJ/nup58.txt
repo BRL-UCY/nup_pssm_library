@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q67UZ2|Q67UZ2_ORYSJ         -          nup58                -            5.3e-18   66.1   0.6   2.5e-17   63.9   1.0   1.8   2   0   0   2   2   2   1 Os09g0453500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0453500 PE=1 SV=1
+tr|A0A0P0W3F0|A0A0P0W3F0_ORYSJ -          nup58                -            1.7e-12   48.0   0.0   1.7e-12   48.0   0.0   1.7   2   0   0   2   2   2   1 Os03g0765400 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0765400 PE=4 SV=1
+tr|Q6YVE2|Q6YVE2_ORYSJ         -          nup58                -               0.42   10.4   9.3      0.59    9.9   9.3   1.2   1   0   0   1   1   1   0 Os07g0295400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0295400 PE=1 SV=1
+tr|Q6I5Q0|Q6I5Q0_ORYSJ         -          nup58                -               0.81    9.5   0.4       1.1    9.0   0.4   1.1   1   0   0   1   1   1   0 Os05g0373000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0373000 PE=1 SV=1
+tr|Q6Z240|Q6Z240_ORYSJ         -          nup58                -                1.8    8.3   0.0       2.5    7.9   0.0   1.2   1   0   0   1   1   1   0 Os08g0480500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0480500 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:04:40 2022
+# [ok]

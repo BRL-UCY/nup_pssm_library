@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4J284|NU93B_ARATH          -          nup93                -            2.9e-70  238.3   3.8     2e-68  232.2   3.8   2.9   1   1   0   1   1   1   1 Nuclear pore complex protein NUP93B OS=Arabidopsis thaliana OX=3702 GN=NUP93B PE=1 SV=1
+sp|O22224|NP93A_ARATH          -          nup93                -            9.9e-70  236.6   1.0   2.8e-68  231.8   1.0   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein NUP93A OS=Arabidopsis thaliana OX=3702 GN=NUP93A PE=1 SV=2
+tr|F4J109|F4J109_ARATH         -          nup93                -              0.022   13.8   0.1       0.2   10.7   0.0   2.0   2   0   0   2   2   2   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+sp|Q8L611|SC31B_ARATH          -          nup93                -              0.022   13.8   0.1       0.2   10.7   0.0   2.0   2   0   0   2   2   2   0 Protein transport protein SEC31 homolog B OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+tr|F4J110|F4J110_ARATH         -          nup93                -              0.024   13.7   0.1      0.19   10.7   0.0   2.0   2   0   0   2   2   2   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+tr|A0A1P8AP97|A0A1P8AP97_ARATH -          nup93                -              0.077   12.0   0.2       4.4    6.2   0.0   2.1   2   0   0   2   2   2   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=SEC31A PE=4 SV=1
+sp|F4ICD9|SC31A_ARATH          -          nup93                -              0.078   12.0   0.2       4.4    6.2   0.0   2.1   2   0   0   2   2   2   0 Protein transport protein SEC31 homolog A OS=Arabidopsis thaliana OX=3702 GN=SEC31A PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:45 2022
+# [ok]

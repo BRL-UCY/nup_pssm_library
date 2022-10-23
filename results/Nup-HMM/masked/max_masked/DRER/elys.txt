@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WE68|X1WE68_DANRE         -          elys                 -                  0 1963.7   9.7         0 1963.7   9.7   2.4   3   0   0   3   3   3   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=1
+tr|A0A286Y877|A0A286Y877_DANRE -          elys                 -                  0 1899.4  11.7         0 1899.4  11.7   2.4   3   0   0   3   3   3   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=2
+tr|A0A2R8QRQ1|A0A2R8QRQ1_DANRE -          elys                 -               0.62    8.2   0.1      0.78    7.8   0.1   1.0   1   0   0   1   1   1   0 Fizzy/cell division cycle 20-related 1b OS=Danio rerio OX=7955 GN=fzr1b PE=4 SV=1
+tr|F1QHZ6|F1QHZ6_DANRE         -          elys                 -                1.2    7.3   0.0        11    4.0   0.0   1.9   2   0   0   2   2   2   0 WD repeat domain 78 OS=Danio rerio OX=7955 GN=wdr78 PE=4 SV=1
+tr|F1QVG9|F1QVG9_DANRE         -          elys                 -                1.6    6.8   0.0       2.1    6.4   0.0   1.0   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 11 homolog OS=Danio rerio OX=7955 GN=vps11 PE=1 SV=1
+tr|A5WW52|A5WW52_DANRE         -          elys                 -                2.4    6.2   0.1        28    2.7   0.0   1.9   2   0   0   2   2   2   0 Syntaxin-binding protein 5a (tomosyn) (Fragment) OS=Danio rerio OX=7955 GN=stxbp5a PE=4 SV=1
+tr|Q4VBV0|Q4VBV0_DANRE         -          elys                 -                2.6    6.1   0.0       3.5    5.7   0.0   1.0   1   0   0   1   1   1   0 WD repeat and FYVE domain-containing 1 OS=Danio rerio OX=7955 GN=wdfy1 PE=1 SV=1
+tr|Q7ZUP9|Q7ZUP9_DANRE         -          elys                 -                2.6    6.1   0.0       3.4    5.7   0.0   1.0   1   0   0   1   1   1   0 Fizzy/cell division cycle 20 related 1 (Drosophila) OS=Danio rerio OX=7955 GN=fzr1a PE=2 SV=1
+tr|F1QG20|F1QG20_DANRE         -          elys                 -                3.2    5.8   0.0       5.5    5.0   0.0   1.3   1   0   0   1   1   1   0 Intraflagellar transport 140 homolog (Chlamydomonas) OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=2
+tr|A0A2R8QQQ9|A0A2R8QQQ9_DANRE -          elys                 -                3.3    5.8   0.0       5.4    5.1   0.0   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Danio rerio OX=7955 GN=ift140 PE=4 SV=1
+tr|F1RAC4|F1RAC4_DANRE         -          elys                 -                4.3    5.4   0.0       5.8    5.0   0.0   1.0   1   0   0   1   1   1   0 PWP2 small subunit processome component OS=Danio rerio OX=7955 GN=pwp2h PE=1 SV=1
+tr|F1RCD6|F1RCD6_DANRE         -          elys                 -                4.3    5.4   0.0       5.5    5.0   0.0   1.0   1   0   0   1   1   1   0 Angio-associated, migratory cell protein OS=Danio rerio OX=7955 GN=aamp PE=1 SV=1
+tr|F1QUU3|F1QUU3_DANRE         -          elys                 -                5.7    5.0   0.0       8.9    4.3   0.0   1.2   1   0   0   1   1   1   0 Angio-associated, migratory cell protein OS=Danio rerio OX=7955 GN=aamp PE=1 SV=1
+tr|A9JRX1|A9JRX1_DANRE         -          elys                 -                8.7    4.4   0.0        11    4.0   0.0   1.0   1   0   0   1   1   1   0 Actinodin2 OS=Danio rerio OX=7955 GN=and2 PE=1 SV=1
+tr|A0A2R8QHJ3|A0A2R8QHJ3_DANRE -          elys                 -                9.8    4.2   0.1        17    3.4   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=wdr7 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:25:43 2022
+# [ok]

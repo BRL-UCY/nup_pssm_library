@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q386H3|Q386H3_TRYB2 -          nup358               -            1.4e-19   67.7   0.1   1.7e-19   67.4   0.1   1.0   1   0   0   1   1   1   1 Ran-binding protein 1, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0870 PE=4 SV=1
+tr|Q38AA7|Q38AA7_TRYB2 -          nup358               -             0.0037   13.2   0.1    0.0047   12.9   0.1   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.1890 PE=4 SV=1
+tr|Q38E33|Q38E33_TRYB2 -          nup358               -               0.25    7.2   0.0      0.31    6.8   0.0   1.0   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1220 PE=4 SV=1
+tr|Q38B21|Q38B21_TRYB2 -          nup358               -               0.66    5.8  16.9      0.07    9.0   0.8   2.4   2   1   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.1110 PE=4 SV=1
+tr|Q387K6|Q387K6_TRYB2 -          nup358               -                  9    2.0   0.7        12    1.6   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0690 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup358.txt --max --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:55:49 2022
+# [ok]

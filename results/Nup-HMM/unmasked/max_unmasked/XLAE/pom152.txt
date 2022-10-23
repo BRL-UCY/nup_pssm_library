@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8EWD9|A0A1L8EWD9_XENLA -          pom152               -              2e-05   24.0  12.5     0.002   17.4   2.3   6.2   3   2   1   6   6   6   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18044763mg PE=4 SV=1
+tr|A0A1L8EPD4|A0A1L8EPD4_XENLA -          pom152               -              0.032   13.4  14.2     0.016   14.5   2.5   5.0   4   2   0   5   5   5   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18047225mg PE=4 SV=1
+tr|A0A1L8GVI7|A0A1L8GVI7_XENLA -          pom152               -               0.24   10.5   0.0      0.36    9.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18021570mg PE=4 SV=1
+tr|A0A1L8FV06|A0A1L8FV06_XENLA -          pom152               -                1.5    7.8   0.1       1.7    7.7   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18030587mg PE=4 SV=1
+tr|A0A310U5S5|A0A310U5S5_XENLA -          pom152               -                1.8    7.6   0.1       2.5    7.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18003736mg PE=4 SV=1
+tr|Q7T0P2|Q7T0P2_XENLA         -          pom152               -                3.2    6.8   0.8       3.3    6.8   0.8   1.0   1   0   0   1   1   1   0 MGC69115 protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023630mg PE=2 SV=1
+tr|Q7ZXP7|Q7ZXP7_XENLA         -          pom152               -                3.5    6.6   0.1       4.9    6.2   0.1   1.1   1   0   0   1   1   1   0 MGC64588 protein (Fragment) OS=Xenopus laevis OX=8355 GN=mybph PE=2 SV=1
+tr|A0A1L8GI33|A0A1L8GI33_XENLA -          pom152               -                4.5    6.3   2.0       7.7    5.5   2.0   1.3   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025998mg PE=4 SV=1
+tr|A0A1L8HT86|A0A1L8HT86_XENLA -          pom152               -                4.7    6.2   7.6       5.8    5.9   7.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180050995mg PE=4 SV=1
+tr|A0A1L8EJM5|A0A1L8EJM5_XENLA -          pom152               -                5.4    6.0   0.0       5.6    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Xenopus laevis OX=8355 GN=XELAEV_18004112mg PE=3 SV=1
+tr|A0A1L8FCI8|A0A1L8FCI8_XENLA -          pom152               -                5.5    6.0   0.0       8.6    5.4   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18040598mg PE=4 SV=1
+tr|A0A1L8F516|A0A1L8F516_XENLA -          pom152               -                5.5    6.0   0.0       5.7    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Xenopus laevis OX=8355 GN=rps27 PE=3 SV=1
+tr|A0A1L8G3Y0|A0A1L8G3Y0_XENLA -          pom152               -                6.3    5.8   0.0       7.5    5.6   0.0   1.0   1   0   0   1   1   1   0 LRAT domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029672mg PE=4 SV=1
+tr|A0A1L8H8U6|A0A1L8H8U6_XENLA -          pom152               -                6.4    5.8   0.3       6.8    5.7   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015521mg PE=4 SV=1
+tr|A0A1L8GTE8|A0A1L8GTE8_XENLA -          pom152               -                6.9    5.7   0.0       7.2    5.6   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18020804mg PE=3 SV=1
+tr|A0A1L8F536|A0A1L8F536_XENLA -          pom152               -                7.1    5.6   0.0         7    5.7   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Xenopus laevis OX=8355 GN=XELAEV_18042936mg PE=3 SV=1
+tr|A0A1L8FS59|A0A1L8FS59_XENLA -          pom152               -                7.4    5.6   0.1       7.5    5.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033411mg PE=3 SV=1
+tr|Q3KQD0|Q3KQD0_XENLA         -          pom152               -                7.9    5.5   2.0        10    5.2   2.0   1.0   1   0   0   1   1   1   0 MGC78966 protein OS=Xenopus laevis OX=8355 GN=MGC78966 PE=2 SV=1
+tr|A0A1L8G1M3|A0A1L8G1M3_XENLA -          pom152               -                8.6    5.4   0.0        12    4.8   0.0   1.1   1   0   0   1   1   1   0 S1 motif domain-containing protein OS=Xenopus laevis OX=8355 GN=pnpt1 PE=1 SV=1
+tr|Q7SYP8|Q7SYP8_XENLA         -          pom152               -                8.6    5.4   0.1        11    4.9   0.1   1.1   1   0   0   1   1   1   0 MGC64588 protein OS=Xenopus laevis OX=8355 GN=mybph PE=2 SV=1
+tr|A0A1L8GZY5|A0A1L8GZY5_XENLA -          pom152               -                  9    5.3   0.0       9.4    5.2   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Xenopus laevis OX=8355 GN=XELAEV_18018006mg PE=3 SV=1
+tr|A0A1L8FLI1|A0A1L8FLI1_XENLA -          pom152               -                9.6    5.2   0.0        16    4.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=mcam PE=4 SV=1
+tr|A0A1L8HK64|A0A1L8HK64_XENLA -          pom152               -                9.7    5.2   0.4        14    4.7   0.4   1.1   1   0   0   1   1   1   0 G_PROTEIN_RECEP_F3_4 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008679mg PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/XLAE/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:03:57 2022
+# [ok]

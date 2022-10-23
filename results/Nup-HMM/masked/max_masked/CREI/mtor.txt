@@ -1,0 +1,42 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D858|A0A2K3D858_CHLRE -          mtor                 -            1.4e-07   29.1   6.4   9.6e-07   26.3   0.1   3.2   3   0   0   3   3   3   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g468356v5 PE=4 SV=1
+tr|A0A2K3D847|A0A2K3D847_CHLRE -          mtor                 -            1.4e-07   29.1   6.4   9.7e-07   26.3   0.1   3.2   3   0   0   3   3   3   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g468356v5 PE=4 SV=1
+tr|A8J7T8|A8J7T8_CHLRE         -          mtor                 -             0.0049   14.0   4.1    0.0054   13.9   4.1   1.0   1   0   0   1   1   1   1 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g407750v5 PE=4 SV=1
+tr|A0A2K3DZE8|A0A2K3DZE8_CHLRE -          mtor                 -              0.093    9.8   6.7      0.16    9.0   6.7   1.3   1   0   0   1   1   1   0 Kinesin motor domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g200600v5 PE=3 SV=1
+tr|A0A2K3DTC1|A0A2K3DTC1_CHLRE -          mtor                 -              0.098    9.7   0.0      0.12    9.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g217220v5 PE=4 SV=1
+tr|A0A2K3DZD8|A0A2K3DZD8_CHLRE -          mtor                 -                0.1    9.6   6.7      0.18    8.8   6.7   1.3   1   0   0   1   1   1   0 Kinesin motor domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g200600v5 PE=3 SV=1
+tr|A0A2K3DVD1|A0A2K3DVD1_CHLRE -          mtor                 -               0.12    9.3   0.0      0.15    9.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g146007v5 PE=4 SV=1
+tr|A0A2K3DH40|A0A2K3DH40_CHLRE -          mtor                 -               0.23    8.5   0.4      0.34    7.9   0.4   1.1   1   0   0   1   1   1   0 Centrosomal protein of 162 kDa OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g368350v5 PE=3 SV=1
+tr|A0A2K3CV94|A0A2K3CV94_CHLRE -          mtor                 -               0.54    7.2   0.5      0.71    6.8   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g677920v5 PE=4 SV=1
+tr|A0A2K3DW00|A0A2K3DW00_CHLRE -          mtor                 -               0.56    7.2   0.4      0.72    6.8   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g155600v5 PE=4 SV=1
+tr|A0A2K3DLR4|A0A2K3DLR4_CHLRE -          mtor                 -               0.56    7.2   0.6      0.74    6.8   0.6   1.0   1   0   0   1   1   1   0 ING domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g357650v5 PE=4 SV=1
+tr|A0A2K3DYZ5|A0A2K3DYZ5_CHLRE -          mtor                 -               0.68    6.9   0.9      0.88    6.5   0.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g207918v5 PE=4 SV=1
+tr|A8IWB2|A8IWB2_CHLRE         -          mtor                 -               0.76    6.7   4.1      0.83    6.6   4.1   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g592350v5 PE=4 SV=1
+tr|A0A2K3DHA5|A0A2K3DHA5_CHLRE -          mtor                 -                1.2    6.1   0.1       1.4    5.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g371840v5 PE=4 SV=1
+tr|A0A2K3D1Z4|A0A2K3D1Z4_CHLRE -          mtor                 -                1.7    5.6   0.0       2.3    5.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g495000v5 PE=4 SV=1
+tr|A0A2K3DE60|A0A2K3DE60_CHLRE -          mtor                 -                2.4    5.1   1.2       2.8    4.8   1.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g391467v5 PE=4 SV=1
+tr|A0A2K3D643|A0A2K3D643_CHLRE -          mtor                 -                3.8    4.4   0.5         5    4.0   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g551650v5 PE=4 SV=1
+tr|A0A2K3DT41|A0A2K3DT41_CHLRE -          mtor                 -                3.8    4.4   1.7       5.1    4.0   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g239600v5 PE=4 SV=1
+tr|A0A2K3DZP0|A0A2K3DZP0_CHLRE -          mtor                 -                3.8    4.4   0.0       4.9    4.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204241v5 PE=4 SV=1
+tr|A0A2K3DIS5|A0A2K3DIS5_CHLRE -          mtor                 -                3.8    4.4   0.2       5.2    4.0   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g317421v5 PE=4 SV=1
+tr|A0A2K3DZ55|A0A2K3DZ55_CHLRE -          mtor                 -                4.2    4.3   0.6       4.4    4.2   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204000v5 PE=4 SV=1
+tr|A0A2K3E2Y2|A0A2K3E2Y2_CHLRE -          mtor                 -                4.5    4.2  10.2       2.6    5.0   1.3   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g110050v5 PE=4 SV=1
+tr|A0A2K3E2X2|A0A2K3E2X2_CHLRE -          mtor                 -                  6    3.8   6.9       2.4    5.1   1.3   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g110050v5 PE=4 SV=1
+tr|A0A2K3E2U2|A0A2K3E2U2_CHLRE -          mtor                 -                6.6    3.6   2.0         9    3.2   2.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g109900v5 PE=4 SV=1
+tr|A0A2K3DQ91|A0A2K3DQ91_CHLRE -          mtor                 -                8.3    3.3   2.3        10    3.0   2.3   1.0   1   0   0   1   1   1   0 CH_2 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g290900v5 PE=4 SV=1
+tr|A0A2K3CVQ5|A0A2K3CVQ5_CHLRE -          mtor                 -                8.6    3.2   0.2        11    2.8   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g672721v5 PE=4 SV=1
+tr|A8I3S5|A8I3S5_CHLRE         -          mtor                 -                8.9    3.2   0.3        13    2.7   0.3   1.1   1   0   0   1   1   1   0 Endoplasmic reticulum transmembrane protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g108050v5 PE=3 SV=1
+tr|A8HYU2|A8HYU2_CHLRE         -          mtor                 -                8.9    3.2   0.3        13    2.6   0.3   1.2   1   0   0   1   1   1   0 V-type proton ATPase subunit C OS=Chlamydomonas reinhardtii OX=3055 GN=ATPvC PE=3 SV=1
+tr|A0A2K3DV21|A0A2K3DV21_CHLRE -          mtor                 -                9.7    3.1   0.4        14    2.6   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g143827v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/mtor.txt --max --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:32:03 2022
+# [ok]

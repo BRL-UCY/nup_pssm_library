@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AIE0|A0A509AIE0_PLABA -          nup62                -               0.63    7.0   0.3      0.92    6.5   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0807900 PE=4 SV=1
+tr|A0A509AKD6|A0A509AKD6_PLABA -          nup62                -               0.81    6.6   0.3      0.99    6.4   0.3   1.1   1   0   0   1   1   1   0 Prefoldin subunit 6, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1111600 PE=3 SV=1
+tr|A0A509ANV2|A0A509ANV2_PLABA -          nup62                -                3.6    4.5   0.1         5    4.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1109600 PE=4 SV=1
+tr|A0A509AIV3|A0A509AIV3_PLABA -          nup62                -                4.9    4.1   1.7       6.4    3.7   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0719700 PE=4 SV=1
+tr|A0A509AGS6|A0A509AGS6_PLABA -          nup62                -                7.4    3.5   0.3        11    2.9   0.3   1.1   1   0   0   1   1   1   0 LETM1-like protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0719400 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/PBERA/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:20:01 2022
+# [ok]

@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4I1T7|NP214_ARATH          -          nup214               -           9.9e-131  438.3 302.8   1.5e-61  209.0 158.0   4.2   1   1   2   3   3   3   3 Nuclear pore complex protein NUP214 OS=Arabidopsis thaliana OX=3702 GN=NUP214 PE=1 SV=1
+sp|O65418|APC4_ARATH           -          nup214               -            3.9e-08   31.9   0.0   5.4e-08   31.5   0.0   1.0   1   0   0   1   1   1   1 Anaphase-promoting complex subunit 4 OS=Arabidopsis thaliana OX=3702 GN=APC4 PE=2 SV=2
+sp|Q9SZQ5|VIP3_ARATH           -          nup214               -            1.9e-06   26.3   0.2     3e-06   25.7   0.2   1.2   1   0   0   1   1   1   1 WD repeat-containing protein VIP3 OS=Arabidopsis thaliana OX=3702 GN=VIP3 PE=1 SV=1
+sp|Q9FLX9|NLE1_ARATH           -          nup214               -            4.4e-05   21.8  10.3    0.0083   14.3   0.1   3.0   3   0   0   3   3   3   2 Notchless protein homolog OS=Arabidopsis thaliana OX=3702 GN=NLE1 PE=2 SV=1
+tr|Q93VK1|Q93VK1_ARATH         -          nup214               -            0.00012   20.4   0.0      0.15   10.1   0.0   2.0   2   0   0   2   2   2   2 AT4g28450/F20O9_130 OS=Arabidopsis thaliana OX=3702 GN=At4g28450 PE=2 SV=1
+sp|Q6NNP0|ATG16_ARATH          -          nup214               -            0.00018   19.8   2.5   0.00039   18.7   2.2   1.7   1   1   0   1   1   1   1 Autophagy-related protein 16 OS=Arabidopsis thaliana OX=3702 GN=ATG16 PE=2 SV=1
+sp|Q8RY25|NU98A_ARATH          -          nup214               -            0.00042   18.6 404.0    0.0034   15.5  88.3   4.7   2   2   3   5   5   5   4 Nuclear pore complex protein NUP98A OS=Arabidopsis thaliana OX=3702 GN=NUP98A PE=1 SV=1
+tr|Q9ZUN8|Q9ZUN8_ARATH         -          nup214               -            0.00082   17.6   0.2    0.0012   17.0   0.2   1.2   1   0   0   1   1   1   1 Putative WD-40 repeat protein OS=Arabidopsis thaliana OX=3702 GN=heat stress tolerant DWD 1 PE=1 SV=1
+tr|F4JN04|F4JN04_ARATH         -          nup214               -             0.0014   16.8   0.2    0.0014   16.8   0.2   2.3   3   0   0   3   3   3   1 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g35370 PE=4 SV=1
+tr|F4JSB9|F4JSB9_ARATH         -          nup214               -             0.0019   16.4   0.3      0.47    8.4   0.2   2.2   2   0   0   2   2   2   2 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g18900 PE=4 SV=1
+sp|O22468|MSI2_ARATH           -          nup214               -              0.003   15.7   0.0      0.14   10.2   0.0   2.0   2   0   0   2   2   2   1 WD-40 repeat-containing protein MSI2 OS=Arabidopsis thaliana OX=3702 GN=MSI2 PE=2 SV=1
+tr|Q8RXQ4|Q8RXQ4_ARATH         -          nup214               -             0.0068   14.6   5.7      0.38    8.8   0.1   2.9   2   1   1   3   3   3   2 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=At1g71840 PE=2 SV=1
+sp|O22467|MSI1_ARATH           -          nup214               -              0.013   13.7   0.1     0.024   12.7   0.0   1.4   2   0   0   2   2   2   0 Histone-binding protein MSI1 OS=Arabidopsis thaliana OX=3702 GN=MSI1 PE=1 SV=1
+tr|A0A1P8BFI9|A0A1P8BFI9_ARATH -          nup214               -              0.023   12.8   3.6     0.026   12.6   3.6   1.0   1   0   0   1   1   1   0 Plectin-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g01570 PE=4 SV=1
+tr|A0A1P8BFI7|A0A1P8BFI7_ARATH -          nup214               -              0.037   12.1   3.5     0.044   11.9   3.5   1.0   1   0   0   1   1   1   0 Plectin-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g01570 PE=4 SV=1
+tr|A0A1P8BFF1|A0A1P8BFF1_ARATH -          nup214               -              0.037   12.1   3.5     0.044   11.9   3.5   1.0   1   0   0   1   1   1   0 Plectin-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g01570 PE=4 SV=1
+tr|F4K9F4|F4K9F4_ARATH         -          nup214               -              0.042   11.9   3.5     0.051   11.7   3.5   1.0   1   0   0   1   1   1   0 Plectin-like protein OS=Arabidopsis thaliana OX=3702 GN=At5g01570 PE=4 SV=2
+sp|O22469|MSI3_ARATH           -          nup214               -              0.057   11.5   0.0       0.2    9.7   0.0   1.7   2   0   0   2   2   2   0 WD-40 repeat-containing protein MSI3 OS=Arabidopsis thaliana OX=3702 GN=MSI3 PE=1 SV=2
+sp|Q93VR9|SEH1_ARATH           -          nup214               -              0.095   10.8   0.6      0.14   10.2   0.6   1.2   1   0   0   1   1   1   0 Protein SEH1 OS=Arabidopsis thaliana OX=3702 GN=SEH1 PE=1 SV=1
+sp|Q9S7I8|CDC22_ARATH          -          nup214               -               0.15   10.1   0.0      0.15   10.1   0.0   2.9   3   0   0   3   3   3   0 Cell division cycle 20.2, cofactor of APC complex OS=Arabidopsis thaliana OX=3702 GN=CDC20-2 PE=1 SV=1
+sp|Q9SZA4|CDC21_ARATH          -          nup214               -               0.16   10.0   0.0      0.16   10.0   0.0   2.9   3   0   0   3   3   3   0 Cell division cycle 20.1, cofactor of APC complex OS=Arabidopsis thaliana OX=3702 GN=CDC20-1 PE=1 SV=1
+sp|O80990|CIA1_ARATH           -          nup214               -               0.21    9.6   1.0      0.27    9.3   1.0   1.2   1   0   0   1   1   1   0 Protein CIA1 OS=Arabidopsis thaliana OX=3702 GN=CIA1 PE=1 SV=2
+tr|A0A1P8AU10|A0A1P8AU10_ARATH -          nup214               -               0.68    7.9  46.4      0.81    7.7  46.4   1.0   1   0   0   1   1   1   0 Plasmodesmata callose-binding protein 4 OS=Arabidopsis thaliana OX=3702 GN=PDCB4 PE=4 SV=1
+sp|Q93V72|PDCB4_ARATH          -          nup214               -               0.71    7.9  46.4      0.85    7.6  46.4   1.0   1   0   0   1   1   1   0 PLASMODESMATA CALLOSE-BINDING PROTEIN 4 OS=Arabidopsis thaliana OX=3702 GN=PDCB4 PE=1 SV=1
+tr|A0A1P8AN64|A0A1P8AN64_ARATH -          nup214               -               0.75    7.8 354.7      0.01   14.0 114.5   4.4   2   1   2   4   4   4   0 Nucleoporin autopeptidase OS=Arabidopsis thaliana OX=3702 GN=At1g59660 PE=4 SV=1
+sp|Q9XF57|PEX7_ARATH           -          nup214               -               0.75    7.8   0.0       1.7    6.6   0.0   1.5   2   0   0   2   2   2   0 Peroxisome biogenesis protein 7 OS=Arabidopsis thaliana OX=3702 GN=PEX7 PE=1 SV=2
+tr|Q93VS5|Q93VS5_ARATH         -          nup214               -               0.85    7.6   5.3      0.95    7.4   0.1   2.9   3   1   1   4   4   4   0 AT4g18900/F13C5_70 OS=Arabidopsis thaliana OX=3702 GN=At4g18905 PE=1 SV=1
+tr|Q949S2|Q949S2_ARATH         -          nup214               -               0.86    7.6  34.4         1    7.3  34.4   1.0   1   0   0   1   1   1   0 TPRXL OS=Arabidopsis thaliana OX=3702 GN=At1g30750 PE=2 SV=1
+sp|Q9FND4|WDS_ARATH            -          nup214               -                1.2    7.2   2.3        11    3.9   0.1   2.6   3   0   0   3   3   3   0 WD repeat-containing protein WDS homolog OS=Arabidopsis thaliana OX=3702 GN=WDS PE=1 SV=1
+tr|F4JSC0|F4JSC0_ARATH         -          nup214               -                7.9    4.4   9.8      0.98    7.4   1.4   2.9   3   1   1   4   4   4   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g18905 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:18 2022
+# [ok]

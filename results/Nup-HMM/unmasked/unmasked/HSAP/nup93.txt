@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8N1F7|NUP93_HUMAN          -          nup93                -                  0 1193.2   2.7         0 1193.0   2.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=2
+tr|H3BVG0|H3BVG0_HUMAN         -          nup93                -                  0 1133.8   2.2         0 1133.5   2.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BPA9|H3BPA9_HUMAN         -          nup93                -            1.2e-86  293.4   0.1   1.6e-86  293.0   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=8
+tr|H3BM93|H3BM93_HUMAN         -          nup93                -            2.7e-64  219.5   1.1   2.9e-64  219.4   1.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BRI8|H3BRI8_HUMAN         -          nup93                -            5.5e-57  195.3   3.3   6.1e-57  195.2   3.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BV11|H3BV11_HUMAN         -          nup93                -              1e-49  171.3   2.1   1.1e-49  171.2   2.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BP95|H3BP95_HUMAN         -          nup93                -            2.4e-49  170.0   0.1   2.7e-49  169.9   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BNN5|H3BNN5_HUMAN         -          nup93                -              9e-47  161.5   1.5   9.8e-47  161.4   1.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BVE2|H3BVE2_HUMAN         -          nup93                -            2.2e-43  150.3   0.1   2.6e-43  150.1   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BRD9|H3BRD9_HUMAN         -          nup93                -            9.5e-40  138.3   0.1   1.1e-39  138.1   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BMX0|H3BMX0_HUMAN         -          nup93                -            1.2e-38  134.7   0.0   1.3e-38  134.6   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BV15|H3BV15_HUMAN         -          nup93                -              3e-31  110.2   0.7     9e-16   59.0   0.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BNG7|H3BNG7_HUMAN         -          nup93                -            4.1e-08   33.7   0.2   4.2e-08   33.6   0.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+sp|Q9HBG6|IF122_HUMAN          -          nup93                -              0.012   15.6   0.6       4.7    7.0   0.0   2.9   3   0   0   3   3   3   0 Intraflagellar transport protein 122 homolog OS=Homo sapiens OX=9606 GN=IFT122 PE=1 SV=2
+tr|D6RIB5|D6RIB5_HUMAN         -          nup93                -              0.038   14.0   0.4       2.6    7.9   0.0   2.0   1   1   1   2   2   2   0 Intraflagellar transport protein 122 homolog (Fragment) OS=Homo sapiens OX=9606 GN=IFT122 PE=1 SV=8
+tr|H0Y9Q2|H0Y9Q2_HUMAN         -          nup93                -               0.31   10.9   0.4        10    5.9   0.0   2.1   1   1   0   2   2   2   0 Intraflagellar transport protein 122 homolog (Fragment) OS=Homo sapiens OX=9606 GN=IFT122 PE=1 SV=1
+tr|A0A0U1RQR0|A0A0U1RQR0_HUMAN -          nup93                -                0.9    9.4   0.1         1    9.2   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein C1orf232 OS=Homo sapiens OX=9606 GN=C1orf232 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:27:10 2022
+# [ok]

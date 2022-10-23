@@ -1,0 +1,26 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38FD2|Q38FD2_TRYB2 -          nup60                -               0.11   10.4   3.5      0.11   10.4   3.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.2640 PE=4 SV=1
+tr|Q384A6|Q384A6_TRYB2 -          nup60                -                1.6    6.5   1.5       2.9    5.7   1.5   1.3   1   0   0   1   1   1   0 Proteasome regulatory non-ATP-ase subunit 2 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.0960 PE=3 SV=1
+tr|Q57Y18|Q57Y18_TRYB2 -          nup60                -                3.6    5.3   0.3       5.2    4.8   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.4140 PE=4 SV=1
+tr|Q57WL1|Q57WL1_TRYB2 -          nup60                -                3.7    5.3   0.2       5.4    4.8   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.8190 PE=4 SV=1
+tr|Q386Q0|Q386Q0_TRYB2 -          nup60                -                3.9    5.2   8.9         6    4.6   8.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0200 PE=4 SV=1
+tr|Q582R4|Q582R4_TRYB2 -          nup60                -                4.1    5.2   7.3       7.6    4.3   7.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.4710 PE=4 SV=1
+tr|Q38BC7|Q38BC7_TRYB2 -          nup60                -                4.7    5.0   0.1       4.3    5.1   0.1   1.0   1   0   0   1   1   1   0 Nucleolar RNA-binding protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.2465 PE=4 SV=1
+tr|Q38F74|Q38F74_TRYB2 -          nup60                -                6.6    4.5   3.9       6.4    4.5   3.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.3290 PE=4 SV=1
+tr|Q38D44|Q38D44_TRYB2 -          nup60                -                  7    4.4   5.2       8.5    4.1   5.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.4660 PE=4 SV=1
+tr|Q57XJ9|Q57XJ9_TRYB2 -          nup60                -                7.4    4.3   2.6       9.8    3.9   2.6   1.2   1   0   0   1   1   1   0 High mobility group protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.3490 PE=4 SV=1
+tr|Q38D02|Q38D02_TRYB2 -          nup60                -                8.6    4.1   3.3       9.7    3.9   3.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2870 PE=4 SV=1
+tr|Q57WU5|Q57WU5_TRYB2 -          nup60                -                9.1    4.0   6.9       1.1    7.0   0.0   2.0   2   0   0   2   2   2   0 RNA helicase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.620 PE=3 SV=1
+tr|Q4GZ36|Q4GZ36_TRYB2 -          nup60                -                9.5    4.0   2.2        10    3.9   2.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.1830 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TBRU/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:44:10 2022
+# [ok]

@@ -1,0 +1,46 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9FFK6|NUP88_ARATH          -          nup88                -            3.8e-94  317.4   0.0     4e-45  155.4   0.0   3.3   3   0   0   3   3   3   3 Nuclear pore complex protein NUP88 OS=Arabidopsis thaliana OX=3702 GN=NUP88 PE=1 SV=1
+tr|A0A1I9LSK4|A0A1I9LSK4_ARATH -          nup88                -              0.099   11.9   0.0      0.19   11.0   0.0   1.3   1   0   0   1   1   1   0 Auxin transport protein (BIG) OS=Arabidopsis thaliana OX=3702 GN=BIG PE=1 SV=1
+tr|A0A1I9LSK5|A0A1I9LSK5_ARATH -          nup88                -              0.099   11.9   0.0      0.19   11.0   0.0   1.3   1   0   0   1   1   1   0 Auxin transport protein (BIG) OS=Arabidopsis thaliana OX=3702 GN=BIG PE=1 SV=1
+tr|A0A1I9LSK3|A0A1I9LSK3_ARATH -          nup88                -                0.1   11.9   0.0      0.19   11.0   0.0   1.3   1   0   0   1   1   1   0 Auxin transport protein (BIG) OS=Arabidopsis thaliana OX=3702 GN=BIG PE=1 SV=1
+sp|Q9SRU2|BIG_ARATH            -          nup88                -                0.1   11.9   0.0      0.19   11.0   0.0   1.3   1   0   0   1   1   1   0 Auxin transport protein BIG OS=Arabidopsis thaliana OX=3702 GN=BIG PE=1 SV=2
+tr|Q9LFE2|Q9LFE2_ARATH         -          nup88                -               0.16   11.2   0.0      0.33   10.2   0.0   1.4   1   0   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=TORMOZEMBRYO DEFECTIVE PE=1 SV=1
+tr|Q8VYF2|Q8VYF2_ARATH         -          nup88                -               0.32   10.2   0.8      0.37   10.0   0.8   1.0   1   0   0   1   1   1   0 Uveal autoantigen with coiled-coil/ankyrin OS=Arabidopsis thaliana OX=3702 GN=At4g15790 PE=1 SV=1
+tr|Q9SK69|Q9SK69_ARATH         -          nup88                -                0.6    9.3   1.5       4.8    6.3   0.1   2.2   2   1   0   2   2   2   0 At2g20330/F11A3.12 OS=Arabidopsis thaliana OX=3702 GN=At2g20330 PE=1 SV=1
+tr|F4KEP8|F4KEP8_ARATH         -          nup88                -               0.93    8.7   0.0       1.7    7.8   0.0   1.3   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+tr|A0A1P8AU50|A0A1P8AU50_ARATH -          nup88                -                1.2    8.4   0.1       7.8    5.7   0.1   1.9   1   1   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g78070 PE=4 SV=1
+tr|A0A1P8AU19|A0A1P8AU19_ARATH -          nup88                -                1.2    8.4   0.1       8.3    5.6   0.1   2.0   1   1   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At1g78070 PE=4 SV=1
+sp|Q9M2Z2|WDR5A_ARATH          -          nup88                -                1.4    8.2   0.0       5.1    6.3   0.0   1.9   2   0   0   2   2   2   0 COMPASS-like H3K4 histone methylase component WDR5A OS=Arabidopsis thaliana OX=3702 GN=WDR5A PE=1 SV=1
+sp|Q9LT93|AGL71_ARATH          -          nup88                -                1.4    8.1   0.0       2.4    7.3   0.0   1.3   1   0   0   1   1   1   0 MADS-box protein AGL71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=2 SV=1
+tr|A0A1P8BDR0|A0A1P8BDR0_ARATH -          nup88                -                1.6    8.0   0.0       2.7    7.2   0.0   1.3   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+tr|A0A1P8BDN7|A0A1P8BDN7_ARATH -          nup88                -                1.6    8.0   0.0       2.2    7.5   0.0   1.1   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=1
+tr|F4KEP6|F4KEP6_ARATH         -          nup88                -                1.7    7.9   0.0       2.9    7.1   0.0   1.3   1   0   0   1   1   1   0 AGAMOUS-like 71 OS=Arabidopsis thaliana OX=3702 GN=AGL71 PE=4 SV=2
+tr|A0A1P8BA79|A0A1P8BA79_ARATH -          nup88                -                1.7    7.8   0.0       2.6    7.2   0.0   1.2   1   0   0   1   1   1   0 TBP-associated factor 5 OS=Arabidopsis thaliana OX=3702 GN=TAF5 PE=4 SV=1
+sp|Q6S7B0|TAF5_ARATH           -          nup88                -                1.7    7.8   0.0       2.6    7.2   0.0   1.2   1   0   0   1   1   1   0 Transcription initiation factor TFIID subunit 5 OS=Arabidopsis thaliana OX=3702 GN=TAF5 PE=1 SV=1
+sp|O24456|GBLPA_ARATH          -          nup88                -                2.1    7.5   0.1       4.4    6.5   0.0   1.6   2   0   0   2   2   2   0 Receptor for activated C kinase 1A OS=Arabidopsis thaliana OX=3702 GN=RACK1A PE=1 SV=2
+tr|Q94JT6|Q94JT6_ARATH         -          nup88                -                2.2    7.5   0.1        12    5.1   0.1   1.9   1   1   0   1   1   1   0 At1g78070/F28K19_28 OS=Arabidopsis thaliana OX=3702 GN=At1g78070 PE=2 SV=1
+tr|Q94AB4|Q94AB4_ARATH         -          nup88                -                  3    7.0   0.0        11    5.2   0.0   1.7   1   1   0   1   1   1   0 AT3g13340/MDC11_13 OS=Arabidopsis thaliana OX=3702 GN=At3g13340 PE=2 SV=1
+tr|F4I5P3|F4I5P3_ARATH         -          nup88                -                  3    7.0   0.0        55    2.8   0.0   2.0   1   1   1   2   2   2   0 MOS4-associated complex 3A OS=Arabidopsis thaliana OX=3702 GN=MAC3A PE=4 SV=1
+sp|Q94BR4|PR19A_ARATH          -          nup88                -                  3    7.0   0.0        55    2.8   0.0   2.0   1   1   1   2   2   2   0 Pre-mRNA-processing factor 19 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=PRP19A PE=1 SV=1
+tr|F4IJA3|F4IJA3_ARATH         -          nup88                -                5.8    6.1   0.0         8    5.6   0.0   1.0   1   0   0   1   1   1   0 En/Spm-like transposon, putative (DUF1985) OS=Arabidopsis thaliana OX=3702 GN=At2g06420 PE=4 SV=1
+sp|O22607|MSI4_ARATH           -          nup88                -                5.8    6.1   0.0       8.7    5.5   0.0   1.1   1   0   0   1   1   1   0 WD-40 repeat-containing protein MSI4 OS=Arabidopsis thaliana OX=3702 GN=MSI4 PE=1 SV=3
+tr|Q9LQ39|Q9LQ39_ARATH         -          nup88                -                6.3    6.0   0.0       7.1    5.8   0.0   1.0   1   0   0   1   1   1   0 T30E16.35 OS=Arabidopsis thaliana OX=3702 GN=At1g59724 PE=4 SV=1
+tr|Q9C5M5|Q9C5M5_ARATH         -          nup88                -                  7    5.8   1.6        10    5.3   1.6   1.1   1   0   0   1   1   1   0 At1g27000/T7N9_6 OS=Arabidopsis thaliana OX=3702 GN=At1g27000 PE=2 SV=1
+tr|F4IHX8|F4IHX8_ARATH         -          nup88                -                7.6    5.7   0.8        10    5.3   0.8   1.1   1   0   0   1   1   1   0 Cytomegalovirus UL139 protein OS=Arabidopsis thaliana OX=3702 GN=At2g34580 PE=4 SV=1
+tr|Q94AH2|Q94AH2_ARATH         -          nup88                -                8.1    5.6   0.6        23    4.1   0.1   1.8   2   0   0   2   2   2   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=MVP7.5 PE=2 SV=1
+tr|A0A1P8BHR8|A0A1P8BHR8_ARATH -          nup88                -                8.2    5.6   0.0        12    5.0   0.0   1.1   1   0   0   1   1   1   0 Octicosapeptide/Phox/Bem1p (PB1) domain-containing protein / tetratricopeptide repeat (TPR)-containing protein OS=Arabidopsis thaliana OX=3702 GN=Phox3 PE=1 SV=1
+tr|A0A1R7T3E0|A0A1R7T3E0_ARATH -          nup88                -                8.4    5.6   0.0        13    4.9   0.0   1.1   1   0   0   1   1   1   0 Octicosapeptide/Phox/Bem1p (PB1) domain-containing protein / tetratricopeptide repeat (TPR)-containing protein OS=Arabidopsis thaliana OX=3702 GN=Phox3 PE=1 SV=1
+tr|A0A1R7T3E1|A0A1R7T3E1_ARATH -          nup88                -                8.7    5.5   0.0        14    4.8   0.0   1.2   1   0   0   1   1   1   0 Octicosapeptide/Phox/Bem1p (PB1) domain-containing protein / tetratricopeptide repeat (TPR)-containing protein OS=Arabidopsis thaliana OX=3702 GN=Phox3 PE=1 SV=1
+sp|F4K487|PHOX3_ARATH          -          nup88                -                8.9    5.5   0.0        14    4.8   0.0   1.2   1   0   0   1   1   1   0 Protein PHOX3 OS=Arabidopsis thaliana OX=3702 GN=PHOX3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup88.txt --max --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:43:04 2022
+# [ok]

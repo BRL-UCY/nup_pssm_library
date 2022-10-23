@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8TEM1|PO210_HUMAN          -          gp210                -                  0 2530.4   1.7         0 2529.9   1.7   1.2   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 OS=Homo sapiens OX=9606 GN=NUP210 PE=1 SV=3
+sp|Q5VU65|P210L_HUMAN          -          gp210                -                  0 2505.0  20.0         0 2504.5  20.0   1.1   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210-like OS=Homo sapiens OX=9606 GN=NUP210L PE=2 SV=1
+tr|X6R6V8|X6R6V8_HUMAN         -          gp210                -           6.7e-234  781.2  14.4  1.5e-223  746.8   7.2   2.0   1   1   1   2   2   2   2 Nuclear pore membrane glycoprotein 210-like OS=Homo sapiens OX=9606 GN=NUP210L PE=1 SV=1
+sp|Q4VNC0|AT135_HUMAN          -          gp210                -               0.26   10.0   0.0      0.38    9.4   0.0   1.1   1   0   0   1   1   1   0 Probable cation-transporting ATPase 13A5 OS=Homo sapiens OX=9606 GN=ATP13A5 PE=2 SV=1
+tr|A0A087WTI0|A0A087WTI0_HUMAN -          gp210                -               0.27   10.0   0.2       0.9    8.2   0.0   1.7   2   0   0   2   2   2   0 VPS10 domain-containing receptor SorCS1 OS=Homo sapiens OX=9606 GN=SORCS1 PE=1 SV=1
+sp|Q8WY21|SORC1_HUMAN          -          gp210                -               0.41    9.3   0.3       1.2    7.8   0.0   1.6   2   0   0   2   2   2   0 VPS10 domain-containing receptor SorCS1 OS=Homo sapiens OX=9606 GN=SORCS1 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:11 2022
+# [ok]

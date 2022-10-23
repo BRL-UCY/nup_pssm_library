@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VFE7|Q9VFE7_DROME -          nup93                -                  0 1019.9   6.0         0 1019.7   6.0   1.0   1   0   0   1   1   1   1 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9XZ06|NU931_DROME  -          nup93                -           1.1e-265  883.8   3.2  1.3e-265  883.6   3.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+sp|Q9Y0V3|T10B_DROME   -          nup93                -             0.0056   15.0   1.1    0.0067   14.7   1.1   1.0   1   0   0   1   1   1   1 Mitochondrial import inner membrane translocase subunit Tim10B OS=Drosophila melanogaster OX=7227 GN=Tim9b PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:17:18 2022
+# [ok]

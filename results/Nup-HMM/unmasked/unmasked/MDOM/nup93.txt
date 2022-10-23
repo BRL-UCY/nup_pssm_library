@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IC62|A0A498IC62_MALDO -          nup93                -            1.1e-69  236.6   0.5   3.4e-54  185.3   0.7   3.3   2   1   0   2   2   2   2 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_004970 PE=3 SV=1
+tr|A0A498I482|A0A498I482_MALDO -          nup93                -            1.7e-67  229.3   0.3   1.4e-53  183.2   0.4   3.3   2   1   0   2   2   2   2 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_019625 PE=3 SV=1
+tr|A0A498KHS7|A0A498KHS7_MALDO -          nup93                -             0.0046   16.2   0.1    0.0076   15.5   0.1   1.2   1   0   0   1   1   1   1 ERCC4 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006562 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:38 2022
+# [ok]

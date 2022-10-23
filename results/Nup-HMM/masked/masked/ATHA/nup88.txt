@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9FFK6|NUP88_ARATH  -          nup88                -            3.8e-94  317.4   0.0     4e-45  155.4   0.0   3.3   3   0   0   3   3   3   3 Nuclear pore complex protein NUP88 OS=Arabidopsis thaliana OX=3702 GN=NUP88 PE=1 SV=1
+tr|Q9LFE2|Q9LFE2_ARATH -          nup88                -               0.16   11.2   0.0      0.33   10.2   0.0   1.4   1   0   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=TORMOZEMBRYO DEFECTIVE PE=1 SV=1
+tr|Q9SK69|Q9SK69_ARATH -          nup88                -                0.6    9.3   1.5       4.8    6.3   0.1   2.2   2   1   0   2   2   2   0 At2g20330/F11A3.12 OS=Arabidopsis thaliana OX=3702 GN=At2g20330 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:42 2022
+# [ok]

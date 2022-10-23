@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F8WGT2|F8WGT2_MOUSE         -          mug31                -            0.00019   22.6   0.5   0.00053   21.1   0.5   1.7   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=1 SV=1
+sp|Q8BRG8|TM209_MOUSE          -          mug31                -            0.00021   22.4   0.5    0.0006   20.9   0.5   1.7   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Mus musculus OX=10090 GN=Tmem209 PE=2 SV=1
+sp|P84309|ADCY5_MOUSE          -          mug31                -               0.49   11.4   0.0       1.8    9.6   0.0   1.9   2   0   0   2   2   2   0 Adenylate cyclase type 5 OS=Mus musculus OX=10090 GN=Adcy5 PE=1 SV=2
+tr|Q8BRT3|Q8BRT3_MOUSE         -          mug31                -                3.4    8.7   0.0       5.4    8.0   0.0   1.2   1   0   0   1   1   1   0 Protein Wnt OS=Mus musculus OX=10090 GN=Wnt16 PE=2 SV=1
+tr|H3BJ29|H3BJ29_MOUSE         -          mug31                -                3.5    8.6   0.0       5.4    8.0   0.0   1.2   1   0   0   1   1   1   0 Protein Wnt OS=Mus musculus OX=10090 GN=Wnt16 PE=3 SV=1
+tr|H7BX37|H7BX37_MOUSE         -          mug31                -                3.7    8.5   1.0        13    6.7   1.0   1.9   1   0   0   1   1   1   0 Secretin receptor OS=Mus musculus OX=10090 GN=Sctr PE=3 SV=1
+tr|D3YYH5|D3YYH5_MOUSE         -          mug31                -                4.2    8.4   0.2       5.9    7.9   0.2   1.1   1   0   0   1   1   1   0 PQ loop repeat-containing 1 (Fragment) OS=Mus musculus OX=10090 GN=Pqlc1 PE=4 SV=1
+tr|E9Q8R2|E9Q8R2_MOUSE         -          mug31                -                4.2    8.4   1.5       5.2    8.1   1.5   1.3   1   0   0   1   1   1   0 Phospholipid-transporting ATPase ID (Fragment) OS=Mus musculus OX=10090 GN=Atp8b2 PE=4 SV=1
+sp|Q61190|I10R2_MOUSE          -          mug31                -                4.7    8.2   0.0        11    7.0   0.0   1.5   1   0   0   1   1   1   0 Interleukin-10 receptor subunit beta OS=Mus musculus OX=10090 GN=Il10rb PE=1 SV=1
+tr|Q8VHM7|Q8VHM7_MOUSE         -          mug31                -                4.7    8.2   0.0        11    7.0   0.0   1.5   1   0   0   1   1   1   0 Interleukin 10 receptor 2 OS=Mus musculus OX=10090 GN=Il10rb PE=1 SV=1
+sp|Q9QYS1|WNT16_MOUSE          -          mug31                -                4.9    8.2   0.0       9.6    7.2   0.0   1.4   1   0   0   1   1   1   0 Protein Wnt-16 OS=Mus musculus OX=10090 GN=Wnt16 PE=2 SV=2
+tr|A8Y5J9|A8Y5J9_MOUSE         -          mug31                -                5.1    8.1   1.1       5.4    8.0   1.1   1.1   1   0   0   1   1   1   0 Transmembrane protein 39B (Fragment) OS=Mus musculus OX=10090 GN=Tmem39b PE=4 SV=8
+tr|A0A0J9YTY5|A0A0J9YTY5_MOUSE -          mug31                -                5.5    8.0   1.8       8.4    7.4   1.8   1.2   1   0   0   1   1   1   0 Syntaxin-18 (Fragment) OS=Mus musculus OX=10090 GN=Stx18 PE=1 SV=3
+tr|Q8BTB2|Q8BTB2_MOUSE         -          mug31                -                7.6    7.5   2.4       8.9    7.3   2.4   1.2   1   0   0   1   1   1   0 Armadillo repeat-containing protein 2 OS=Mus musculus OX=10090 GN=Armc2 PE=2 SV=1
+tr|D3Z2D5|D3Z2D5_MOUSE         -          mug31                -                8.2    7.4   0.2        12    6.9   0.2   1.1   1   0   0   1   1   1   0 PQ loop repeat-containing 1 OS=Mus musculus OX=10090 GN=Pqlc1 PE=4 SV=1
+sp|P00158|CYB_MOUSE            -          mug31                -                8.4    7.4   4.2        23    6.0   4.2   1.7   1   0   0   1   1   1   0 Cytochrome b OS=Mus musculus OX=10090 GN=Mt-Cyb PE=1 SV=1
+tr|G3UX72|G3UX72_MOUSE         -          mug31                -                9.6    7.2   0.5        34    5.4   0.5   1.8   1   0   0   1   1   1   0 Guanine nucleotide exchange factor DBS OS=Mus musculus OX=10090 GN=Mcf2l PE=1 SV=1
+tr|D3YUF3|D3YUF3_MOUSE         -          mug31                -                9.6    7.2   0.5        25    5.9   0.5   1.6   1   0   0   1   1   1   0 Guanine nucleotide exchange factor DBS (Fragment) OS=Mus musculus OX=10090 GN=Mcf2l PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:59:28 2022
+# [ok]

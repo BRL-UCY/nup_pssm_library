@@ -1,0 +1,52 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0B4K859|A0A0B4K859_DROME -          nup188               -                  0 1748.0  46.1         0 1685.5  41.4   2.0   2   0   0   2   2   2   2 Nucleoporin 188kDa, isoform C OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=1
+tr|A1Z945|A1Z945_DROME         -          nup188               -                  0 1677.5  49.0         0 1142.1  18.2   3.0   2   1   1   3   3   3   3 Nucleoporin 188kDa, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=2
+sp|Q8IQV9|NU205_DROME          -          nup188               -               0.16    9.1   6.9     0.071   10.2   0.4   2.4   2   0   0   2   2   2   0 Nuclear pore complex protein Nup205 OS=Drosophila melanogaster OX=7227 GN=Nup205 PE=2 SV=1
+sp|Q94899|CSN2_DROME           -          nup188               -               0.38    7.8   1.6      0.55    7.3   1.6   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 OS=Drosophila melanogaster OX=7227 GN=alien PE=1 SV=2
+tr|M9PFB5|M9PFB5_DROME         -          nup188               -               0.38    7.8   1.6      0.55    7.3   1.6   1.1   1   0   0   1   1   1   0 Alien, isoform D OS=Drosophila melanogaster OX=7227 GN=alien PE=4 SV=1
+tr|Q8IPG8|Q8IPG8_DROME         -          nup188               -                0.4    7.7   0.0      0.45    7.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31606 PE=4 SV=1
+sp|Q24151|STAT_DROME           -          nup188               -               0.78    6.8   0.0       1.2    6.2   0.0   1.2   1   0   0   1   1   1   0 Signal transducer and transcription activator OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=1 SV=1
+tr|A0A0B4KHS7|A0A0B4KHS7_DROME -          nup188               -               0.78    6.8   0.0       1.2    6.2   0.0   1.2   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+tr|A0A0B4KGI7|A0A0B4KGI7_DROME -          nup188               -               0.85    6.7   0.0       1.3    6.1   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+tr|A0A0B4KGE1|A0A0B4KGE1_DROME -          nup188               -               0.86    6.7   0.0       1.3    6.0   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+tr|Q961T9|Q961T9_DROME         -          nup188               -               0.88    6.6   0.2       1.1    6.4   0.2   1.1   1   0   0   1   1   1   0 GH07914p OS=Drosophila melanogaster OX=7227 GN=BG:DS00941.11 PE=1 SV=1
+tr|Q9VPW6|Q9VPW6_DROME         -          nup188               -                1.4    6.0   0.8       1.7    5.7   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14340 PE=4 SV=2
+tr|Q9VW54|Q9VW54_DROME         -          nup188               -                1.4    6.0   1.6       2.5    5.1   1.6   1.3   1   0   0   1   1   1   0 26S proteasome non-ATPase regulatory subunit 2 OS=Drosophila melanogaster OX=7227 GN=Rpn1 PE=1 SV=2
+tr|Q9W3F1|Q9W3F1_DROME         -          nup188               -                  2    5.4   0.0       2.7    5.0   0.0   1.1   1   0   0   1   1   1   0 RE21057p OS=Drosophila melanogaster OX=7227 GN=144701_at PE=2 SV=1
+tr|Q7KS14|Q7KS14_DROME         -          nup188               -                2.5    5.1   0.1       3.6    4.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6695 PE=4 SV=1
+tr|Q9W2S8|Q9W2S8_DROME         -          nup188               -                2.9    4.9   0.0       4.5    4.3   0.0   1.2   1   0   0   1   1   1   0 Aminopeptidase OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9806 PE=3 SV=1
+sp|Q9UAS6|CMTR2_DROME          -          nup188               -                3.2    4.8   1.1       4.2    4.4   1.1   1.1   1   0   0   1   1   1   0 Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 2 OS=Drosophila melanogaster OX=7227 GN=cmtr2 PE=2 SV=2
+tr|Q9VC54|Q9VC54_DROME         -          nup188               -                3.3    4.7   0.1       5.1    4.1   0.1   1.2   1   0   0   1   1   1   0 SD06668p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6695 PE=2 SV=3
+sp|Q9XTM1|EXOC5_DROME          -          nup188               -                3.5    4.6   2.9        18    2.2   1.0   2.2   2   0   0   2   2   2   0 Exocyst complex component 5 OS=Drosophila melanogaster OX=7227 GN=Sec10 PE=2 SV=1
+sp|Q9W358|RIC8_DROME           -          nup188               -                4.2    4.4   0.5       7.6    3.5   0.5   1.3   1   0   0   1   1   1   0 Synembryn OS=Drosophila melanogaster OX=7227 GN=ric8a PE=1 SV=2
+tr|X2JEL4|X2JEL4_DROME         -          nup188               -                4.2    4.4   0.5       7.6    3.5   0.5   1.3   1   0   0   1   1   1   0 Ric8a, isoform B OS=Drosophila melanogaster OX=7227 GN=ric8a PE=4 SV=1
+tr|Q9VH64|Q9VH64_DROME         -          nup188               -                4.4    4.3   0.1       6.8    3.7   0.1   1.3   1   0   0   1   1   1   0 LD29322p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8507 PE=1 SV=1
+tr|X2JHQ0|X2JHQ0_DROME         -          nup188               -                4.6    4.3   0.2       6.3    3.8   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17707 PE=4 SV=1
+tr|A8JUS7|A8JUS7_DROME         -          nup188               -                4.6    4.3   0.2       6.3    3.8   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17707 PE=4 SV=2
+sp|P31369|PDM2A_DROME          -          nup188               -                5.5    4.0   1.3       8.6    3.3   1.3   1.2   1   0   0   1   1   1   0 POU domain protein 2, isoform A OS=Drosophila melanogaster OX=7227 GN=pdm2 PE=1 SV=1
+sp|P48604|GRPE_DROME           -          nup188               -                5.8    3.9   1.1       7.4    3.6   1.1   1.1   1   0   0   1   1   1   0 GrpE protein homolog, mitochondrial OS=Drosophila melanogaster OX=7227 GN=Roe1 PE=2 SV=2
+tr|Q9VYN4|Q9VYN4_DROME         -          nup188               -                6.2    3.8   0.0       8.6    3.4   0.0   1.0   1   0   0   1   1   1   0 Ionotropic receptor 11a OS=Drosophila melanogaster OX=7227 GN=Ir11a PE=4 SV=2
+sp|P40140|NG3_DROME            -          nup188               -                6.4    3.8   3.5       2.8    5.0   1.4   1.4   1   1   0   1   1   1   0 Protein new-glue 3 OS=Drosophila melanogaster OX=7227 GN=ng3 PE=2 SV=2
+tr|Q9VUE4|Q9VUE4_DROME         -          nup188               -                6.4    3.8   0.0       8.4    3.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3868 PE=4 SV=1
+sp|Q9VM08|GR28B_DROME          -          nup188               -                6.8    3.7   1.7       5.9    3.9   0.3   1.5   2   0   0   2   2   2   0 Putative gustatory receptor 28b OS=Drosophila melanogaster OX=7227 GN=Gr28b PE=2 SV=2
+tr|Q9VS26|Q9VS26_DROME         -          nup188               -                6.9    3.7   0.3       7.8    3.5   0.3   1.0   1   0   0   1   1   1   0 GEO11440p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8620 PE=2 SV=1
+sp|Q9V345|CSN4_DROME           -          nup188               -                7.2    3.6   0.0        11    3.0   0.0   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 4 OS=Drosophila melanogaster OX=7227 GN=CSN4 PE=1 SV=1
+tr|E1JH01|E1JH01_DROME         -          nup188               -                7.2    3.6   0.0        11    3.0   0.0   1.1   1   0   0   1   1   1   0 COP9 signalosome subunit 4, isoform B OS=Drosophila melanogaster OX=7227 GN=CSN4 PE=1 SV=1
+tr|M9NGF1|M9NGF1_DROME         -          nup188               -                7.5    3.5   0.3       8.4    3.4   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG43181 PE=4 SV=1
+tr|Q29QP4|Q29QP4_DROME         -          nup188               -                7.9    3.5   0.5        11    3.0   0.5   1.2   1   0   0   1   1   1   0 CG13178 OS=Drosophila melanogaster OX=7227 GN=OSCP1 PE=2 SV=1
+tr|Q9VEA4|Q9VEA4_DROME         -          nup188               -                8.2    3.4   0.2        11    3.0   0.2   1.2   1   0   0   1   1   1   0 Trimethylguanosine synthase 1 OS=Drosophila melanogaster OX=7227 GN=Tgs1 PE=4 SV=3
+tr|Q9VGR8|Q9VGR8_DROME         -          nup188               -                8.3    3.4   0.4        12    2.9   0.4   1.1   1   0   0   1   1   1   0 LD13921p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6689 PE=2 SV=1
+sp|P25455|PIP1_DROME           -          nup188               -                9.9    3.1   0.9        15    2.6   0.9   1.1   1   0   0   1   1   1   0 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase classes I and II OS=Drosophila melanogaster OX=7227 GN=Plc21C PE=2 SV=3
+sp|Q9V6L9|FBSP1_DROME          -          nup188               -                9.9    3.1   0.1        12    2.8   0.1   1.0   1   0   0   1   1   1   0 F-box/SPRY domain-containing protein 1 OS=Drosophila melanogaster OX=7227 GN=Fsn PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:53:48 2022
+# [ok]

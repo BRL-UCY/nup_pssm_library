@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A0A0B4K7J2|RBP2_DROME       -          nup358               -                  0 2183.9   0.0         0 2179.3   0.0   2.0   1   1   0   1   1   1   1 E3 SUMO-protein ligase RanBP2 OS=Drosophila melanogaster OX=7227 GN=Nup358 PE=1 SV=1
+tr|Q4V4X9|Q4V4X9_DROME         -          nup358               -              1e-10   39.7   0.1   1.2e-10   39.4   0.1   1.0   1   0   0   1   1   1   1 IP12864p OS=Drosophila melanogaster OX=7227 GN=Sprn PE=2 SV=1
+tr|Q9VTQ2|Q9VTQ2_DROME         -          nup358               -            1.1e-10   39.6   0.1   1.3e-10   39.3   0.1   1.0   1   0   0   1   1   1   1 Spermitin, isoform B OS=Drosophila melanogaster OX=7227 GN=Sprn PE=4 SV=3
+sp|Q9VXE6|NU153_DROME          -          nup358               -            3.4e-10   37.9  14.6   5.7e-05   20.6   1.4   4.0   2   1   1   4   4   4   3 Nuclear pore complex protein Nup153 OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=4
+tr|A8JV18|A8JV18_DROME         -          nup358               -            3.5e-10   37.9  14.6   5.9e-05   20.5   1.4   4.1   2   1   1   4   4   4   3 Nucleoporin 153kD, isoform D OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=1
+tr|Q4V503|Q4V503_DROME         -          nup358               -            3.7e-05   21.2   0.0   4.8e-05   20.8   0.0   1.0   1   0   0   1   1   1   1 IP13064p OS=Drosophila melanogaster OX=7227 GN=Sprn PE=2 SV=1
+tr|E1JHY2|E1JHY2_DROME         -          nup358               -            3.8e-05   21.2   0.0     5e-05   20.8   0.0   1.0   1   0   0   1   1   1   1 Spermitin, isoform F OS=Drosophila melanogaster OX=7227 GN=Sprn PE=4 SV=1
+tr|A0A0B4KGQ0|A0A0B4KGQ0_DROME -          nup358               -             0.0088   13.3   0.1     0.011   13.0   0.1   1.0   1   0   0   1   1   1   1 Ran binding protein 3, isoform B OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+tr|Q9VCI7|Q9VCI7_DROME         -          nup358               -             0.0088   13.3   0.1     0.011   13.0   0.1   1.0   1   0   0   1   1   1   1 LD02979p OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+sp|Q7K0D8|NUP50_DROME          -          nup358               -              0.058   10.6   0.1      0.11    9.7   0.0   1.4   2   0   0   2   2   2   0 Nuclear pore complex protein Nup50 OS=Drosophila melanogaster OX=7227 GN=Nup50 PE=2 SV=1
+tr|A0A0B4LFX0|A0A0B4LFX0_DROME -          nup358               -               0.13    9.4   0.1      0.17    9.1   0.1   1.0   1   0   0   1   1   1   0 Enabled, isoform G OS=Drosophila melanogaster OX=7227 GN=ena PE=4 SV=1
+sp|Q8T4F7|ENA_DROME            -          nup358               -               0.21    8.8   0.1      0.27    8.4   0.1   1.0   1   0   0   1   1   1   0 Protein enabled OS=Drosophila melanogaster OX=7227 GN=ena PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:02 2022
+# [ok]

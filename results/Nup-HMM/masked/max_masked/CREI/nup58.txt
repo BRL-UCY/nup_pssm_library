@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CU41|A0A2K3CU41_CHLRE -          nup58                -              0.014   13.9   8.4      0.27    9.7   0.0   3.6   4   0   0   4   4   4   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g685217v5 PE=4 SV=1
+tr|A8J5W3|A8J5W3_CHLRE         -          nup58                -                0.6    8.5   0.0      0.91    7.9   0.0   1.1   1   0   0   1   1   1   0 SM/Sec1-family protein OS=Chlamydomonas reinhardtii OX=3055 GN=SLY1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:25:48 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q803C2|Q803C2_DANRE -          krh2                 -            8.6e-95  317.9  14.8   9.5e-95  317.8  14.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Danio rerio OX=7955 GN=tmem33 PE=1 SV=1
+sp|Q7ZTY7|USE1_DANRE   -          krh2                 -              0.089   13.3   0.2      0.14   12.6   0.2   1.3   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Danio rerio OX=7955 GN=use1 PE=2 SV=1
+tr|Q1LVG2|Q1LVG2_DANRE -          krh2                 -              0.093   13.2   0.2      0.15   12.5   0.2   1.3   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Danio rerio OX=7955 GN=use1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:20:53 2022
+# [ok]

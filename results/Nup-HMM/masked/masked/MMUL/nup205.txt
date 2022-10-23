@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QYJ7|A0A1D5QYJ7_MACMU -          nup205               -                  0 2421.1  16.6         0 2416.8  16.6   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5QRU5|A0A1D5QRU5_MACMU -          nup205               -                  0 2420.1  13.6         0 2415.7  13.6   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5Q852|A0A1D5Q852_MACMU -          nup205               -                  0 2408.1  16.6         0 2403.8  16.6   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7G2Q1|F7G2Q1_MACMU         -          nup205               -                  0 2407.5  13.2         0 2403.2  13.2   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|F7HS95|F7HS95_MACMU         -          nup205               -            5.1e-63  214.0   1.9   1.3e-60  206.0   1.9   2.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|A0A1D5RJ52|A0A1D5RJ52_MACMU -          nup205               -            6.6e-09   34.5   0.2   6.6e-09   34.5   0.2   3.0   3   0   0   3   3   3   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|A0A1D5QSC3|A0A1D5QSC3_MACMU -          nup205               -            6.7e-09   34.5   0.2   6.7e-09   34.5   0.2   3.0   3   0   0   3   3   3   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:56 2022
+# [ok]

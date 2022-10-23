@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7H2H1|F7H2H1_MACMU         -          krh2                 -            3.8e-84  283.0   8.3   4.2e-84  282.9   8.3   1.0   1   0   0   1   1   1   1 Protein DB83 OS=Macaca mulatta OX=9544 GN=TMEM33 PE=2 SV=1
+tr|H9H551|H9H551_MACMU         -          krh2                 -                7.2    7.0   1.4        13    6.1   1.4   1.6   1   0   0   1   1   1   0 Olfactory receptor OS=Macaca mulatta OX=9544 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:23:09 2022
+# [ok]

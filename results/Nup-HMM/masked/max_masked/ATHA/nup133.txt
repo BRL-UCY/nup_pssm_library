@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4IGA5|NU133_ARATH          -          nup133               -           6.4e-152  508.7   0.5  7.7e-103  346.2   0.0   3.8   3   1   0   3   3   3   3 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          nup133               -           7.4e-132  442.3   1.6     7e-83  280.1   0.0   3.6   3   1   0   3   3   3   3 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+sp|Q9SN74|BH047_ARATH          -          nup133               -                  3    6.4   0.1       3.6    6.2   0.1   1.0   1   0   0   1   1   1   0 Transcription factor bHLH47 OS=Arabidopsis thaliana OX=3702 GN=BHLH47 PE=1 SV=1
+tr|A0A1P8BHN8|A0A1P8BHN8_ARATH -          nup133               -                3.3    6.3   0.0       4.7    5.8   0.0   1.1   1   0   0   1   1   1   0 Pentatricopeptide repeat (PPR) superfamily protein OS=Arabidopsis thaliana OX=3702 GN=MLN1.16 PE=3 SV=1
+tr|Q6DBF8|Q6DBF8_ARATH         -          nup133               -                3.6    6.1   0.1       4.4    5.9   0.1   1.0   1   0   0   1   1   1   0 At2g41400 OS=Arabidopsis thaliana OX=3702 GN=At2g41400 PE=2 SV=1
+sp|Q9FFG8|PP417_ARATH          -          nup133               -                4.1    6.0   0.0       5.9    5.5   0.0   1.1   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At5g44230 OS=Arabidopsis thaliana OX=3702 GN=PCMP-H17 PE=2 SV=1
+tr|Q93ZI1|Q93ZI1_ARATH         -          nup133               -                4.4    5.9   0.0       5.3    5.6   0.0   1.0   1   0   0   1   1   1   0 AT3g12300/F28J15_117 OS=Arabidopsis thaliana OX=3702 GN=BUG22 PE=2 SV=1
+tr|B3H4A1|B3H4A1_ARATH         -          nup133               -                5.9    5.4   0.0       7.9    5.0   0.0   1.1   1   0   0   1   1   1   0 Mitochondrial inner membrane translocase complex, subunit Tim44-related protein OS=Arabidopsis thaliana OX=3702 GN=At5g27395 PE=4 SV=1
+tr|A0A1P8BB12|A0A1P8BB12_ARATH -          nup133               -                6.1    5.4   0.1       7.7    5.1   0.1   1.0   1   0   0   1   1   1   0 BES1-interacting Myc-like protein 3 OS=Arabidopsis thaliana OX=3702 GN=BIM3 PE=4 SV=1
+tr|Q8GXP7|Q8GXP7_ARATH         -          nup133               -                6.4    5.3   0.0       8.5    4.9   0.0   1.1   1   0   0   1   1   1   0 Mitochondrial inner membrane translocase complex, subunit Tim44-related protein OS=Arabidopsis thaliana OX=3702 GN=At5g27390/F21A20_100 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:47:26 2022
+# [ok]

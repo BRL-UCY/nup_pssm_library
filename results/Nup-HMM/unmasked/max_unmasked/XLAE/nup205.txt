@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GQN1|A0A1L8GQN1_XENLA -          nup205               -                  0 2227.3  34.2         0 2018.4  22.0   2.9   1   1   1   2   2   2   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019805mg PE=1 SV=1
+tr|A0A310U2L0|A0A310U2L0_XENLA -          nup205               -            2.6e-32  112.1   0.5   2.9e-32  111.9   0.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002032mg PE=4 SV=1
+tr|A0A1L8F1N1|A0A1L8F1N1_XENLA -          nup205               -            3.2e-24   85.3  32.6     2e-16   59.5   0.1   4.8   3   1   1   4   4   4   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=nup188 PE=1 SV=1
+tr|A0A1L8EKC8|A0A1L8EKC8_XENLA -          nup205               -              0.084   11.0   1.5     0.096   10.8   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18002671mg PE=4 SV=1
+tr|A0A1L8HX54|A0A1L8HX54_XENLA -          nup205               -               0.27    9.2   0.0      0.34    8.9   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006235mg PE=4 SV=1
+tr|A0A1L8HQ12|A0A1L8HQ12_XENLA -          nup205               -                1.1    7.3   0.2       1.6    6.7   0.2   1.2   1   0   0   1   1   1   0 HECT domain-containing protein OS=Xenopus laevis OX=8355 GN=ube3b PE=4 SV=1
+tr|A0A1L8ERZ6|A0A1L8ERZ6_XENLA -          nup205               -                1.7    6.6   0.9       2.7    6.0   0.9   1.2   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043196mg PE=1 SV=1
+tr|A0A1L8EKG6|A0A1L8EKG6_XENLA -          nup205               -                1.8    6.5   0.2       2.9    5.9   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045870mg PE=4 SV=1
+tr|A0A1L8GK41|A0A1L8GK41_XENLA -          nup205               -                2.5    6.1   1.4       3.5    5.6   1.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cd248 PE=4 SV=1
+tr|A0A1L8FZF6|A0A1L8FZF6_XENLA -          nup205               -                  4    5.4   0.2       4.7    5.2   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180321811mg PE=4 SV=1
+tr|A0A1L8ENW7|A0A1L8ENW7_XENLA -          nup205               -                4.3    5.3   0.4       6.3    4.7   0.4   1.1   1   0   0   1   1   1   0 Poly [ADP-ribose] polymerase OS=Xenopus laevis OX=8355 GN=XELAEV_18047087mg PE=4 SV=1
+tr|A0A1L8HZZ8|A0A1L8HZZ8_XENLA -          nup205               -                4.6    5.2   0.3       6.5    4.7   0.3   1.1   1   0   0   1   1   1   0 HECT domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007471mg PE=4 SV=1
+tr|A0A1L8H347|A0A1L8H347_XENLA -          nup205               -                4.9    5.1   1.9       8.5    4.3   1.9   1.3   1   0   0   1   1   1   0 RFX-type winged-helix domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019111mg PE=1 SV=1
+tr|A0A1L8GN16|A0A1L8GN16_XENLA -          nup205               -                5.2    5.0   0.1       6.7    4.6   0.1   1.1   1   0   0   1   1   1   0 V-SNARE coiled-coil homology domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023391mg PE=4 SV=1
+tr|Q6NU15|Q6NU15_XENLA         -          nup205               -                5.2    5.0   0.2       9.5    4.2   0.2   1.3   1   0   0   1   1   1   0 LOC398496 protein OS=Xenopus laevis OX=8355 GN=jup PE=1 SV=1
+tr|A0A1L8H1E5|A0A1L8H1E5_XENLA -          nup205               -                5.7    4.9   0.0       8.1    4.4   0.0   1.1   1   0   0   1   1   1   0 TFIIB-type domain-containing protein OS=Xenopus laevis OX=8355 GN=brf2 PE=4 SV=1
+tr|A0A1L8H310|A0A1L8H310_XENLA -          nup205               -                5.7    4.9   1.9       9.3    4.2   1.9   1.2   1   0   0   1   1   1   0 RFX-type winged-helix domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019111mg PE=1 SV=1
+tr|A0A1L8H435|A0A1L8H435_XENLA -          nup205               -                6.8    4.6   0.1        14    3.5   0.1   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019477mg PE=4 SV=1
+tr|A0A1L8FQE4|A0A1L8FQE4_XENLA -          nup205               -                7.1    4.6   0.1       8.2    4.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18032752mg PE=4 SV=1
+tr|A0A1L8GGW1|A0A1L8GGW1_XENLA -          nup205               -                7.2    4.5   1.3        11    4.0   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025616mg PE=4 SV=1
+tr|A0A1L8FNQ5|A0A1L8FNQ5_XENLA -          nup205               -                7.6    4.5   0.2       9.1    4.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18036196mg PE=4 SV=1
+tr|Q6GLW5|Q6GLW5_XENLA         -          nup205               -                7.6    4.5   0.6        11    3.9   0.6   1.1   1   0   0   1   1   1   0 Scg3-A protein OS=Xenopus laevis OX=8355 GN=scg3 PE=2 SV=1
+tr|A0A310U2P2|A0A310U2P2_XENLA -          nup205               -                  9    4.2   1.1        10    4.1   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18000376mg PE=4 SV=1
+tr|A0A1L8HJY7|A0A1L8HJY7_XENLA -          nup205               -                  9    4.2   1.0        10    4.0   1.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014027mg PE=4 SV=1
+tr|A0A1L8GSK5|A0A1L8GSK5_XENLA -          nup205               -                9.6    4.1   0.3        23    2.9   0.3   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020488mg PE=4 SV=1
+tr|B7ZQ18|B7ZQ18_XENLA         -          nup205               -                9.6    4.1   0.7        11    3.9   0.7   1.0   1   0   0   1   1   1   0 Ift20 protein OS=Xenopus laevis OX=8355 GN=ift20 PE=2 SV=1
+tr|A0A1L8H621|A0A1L8H621_XENLA -          nup205               -                9.8    4.1   0.7        11    3.9   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ift20 PE=4 SV=1
+tr|Q5EAT9|Q5EAT9_XENLA         -          nup205               -                9.9    4.1   0.1        19    3.1   0.0   1.4   2   0   0   2   2   2   0 MGC85203 protein OS=Xenopus laevis OX=8355 GN=vipas39 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/XLAE/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:57:07 2022
+# [ok]

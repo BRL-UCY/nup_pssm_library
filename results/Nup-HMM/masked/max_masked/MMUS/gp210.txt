@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9QY81|PO210_MOUSE          -          gp210                -                  0 2223.6   0.0         0 2223.2   0.0   1.1   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+sp|Q9D2F7|P210L_MOUSE          -          gp210                -                  0 2193.3   2.2         0 2192.9   2.2   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=2
+tr|A0A0G2JFZ8|A0A0G2JFZ8_MOUSE -          gp210                -                  0 2188.0   2.1         0 2187.6   2.1   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210-like OS=Mus musculus OX=10090 GN=Nup210l PE=1 SV=1
+tr|A0A0R4J1I6|A0A0R4J1I6_MOUSE -          gp210                -                  0 2137.6   0.0         0 1187.4   0.0   2.1   1   1   1   2   2   2   2 Nuclear pore membrane glycoprotein 210 OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=1
+tr|F6XGN0|F6XGN0_MOUSE         -          gp210                -                  0 1150.6   0.0         0 1150.4   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 (Fragment) OS=Mus musculus OX=10090 GN=Nup210 PE=1 SV=2
+tr|A0A0G2JET0|A0A0G2JET0_MOUSE -          gp210                -                  2    6.6   0.0       2.7    6.2   0.0   1.1   1   0   0   1   1   1   0 F-box/WD repeat-containing protein 15 (Fragment) OS=Mus musculus OX=10090 GN=Fbxw15 PE=4 SV=1
+sp|L7N1X6|FBW15_MOUSE          -          gp210                -                4.6    5.4   0.0       6.5    4.9   0.0   1.1   1   0   0   1   1   1   0 F-box/WD repeat-containing protein 15 OS=Mus musculus OX=10090 GN=Fbxw15 PE=1 SV=1
+tr|F7CR78|F7CR78_MOUSE         -          gp210                -                9.7    4.3   0.0        14    3.8   0.0   1.1   1   0   0   1   1   1   0 Titin (Fragment) OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:01:48 2022
+# [ok]

@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q10PQ6|Q10PQ6_ORYSJ         -          nup133               -           2.2e-184  616.6  15.9  4.7e-111  373.7   3.1   4.1   3   1   0   3   3   3   3 Nup133 nucleoporin family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g12450 PE=1 SV=1
+tr|A0A0P0VUZ1|A0A0P0VUZ1_ORYSJ -          nup133               -            7.7e-60  204.1   0.6   4.3e-43  148.6   0.0   2.8   2   2   0   2   2   2   2 Os03g0225500 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0225500 PE=1 SV=1
+tr|B7FAJ1|B7FAJ1_ORYSJ         -          nup133               -               0.46    9.4   0.0      0.61    9.0   0.0   1.1   1   0   0   1   1   1   0 Os11g0269900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0269900 PE=2 SV=1
+tr|A0A0P0XUH5|A0A0P0XUH5_ORYSJ -          nup133               -               0.48    9.4   0.0      0.55    9.2   0.0   1.0   1   0   0   1   1   1   0 Os10g0436825 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0436825 PE=4 SV=1
+tr|A0A0N7KFT8|A0A0N7KFT8_ORYSJ -          nup133               -                  1    8.2   0.0       1.6    7.6   0.0   1.2   1   0   0   1   1   1   0 Os02g0661000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0661000 PE=1 SV=1
+tr|Q2QP63|Q2QP63_ORYSJ         -          nup133               -                1.2    8.1   2.1       1.5    7.7   2.1   1.1   1   0   0   1   1   1   0 Kelch motif family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g35560 PE=1 SV=2
+tr|A0A0P0WXD0|A0A0P0WXD0_ORYSJ -          nup133               -                1.6    7.6   0.2         2    7.3   0.2   1.1   1   0   0   1   1   1   0 Os06g0494250 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0494250 PE=4 SV=1
+tr|A0A0P0XBL2|A0A0P0XBL2_ORYSJ -          nup133               -                1.7    7.5   0.4       1.8    7.5   0.4   1.0   1   0   0   1   1   1   0 Os08g0123767 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0123767 PE=4 SV=1
+sp|Q01883|RAG1_ORYSJ           -          nup133               -                  2    7.3   0.0       2.6    6.9   0.0   1.0   1   0   0   1   1   1   0 Seed allergenic protein RAG1 OS=Oryza sativa subsp. japonica OX=39947 GN=RAG1 PE=1 SV=2
+tr|Q6Z875|Q6Z875_ORYSJ         -          nup133               -                2.2    7.2   0.7       7.7    5.4   1.3   1.5   2   0   0   2   2   2   0 Os02g0325100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0325100 PE=1 SV=1
+tr|A0A0P0XMZ5|A0A0P0XMZ5_ORYSJ -          nup133               -                2.2    7.2   0.2       4.3    6.2   0.2   1.4   1   0   0   1   1   1   0 Os09g0450300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0450300 PE=1 SV=1
+tr|A0A0P0WM68|A0A0P0WM68_ORYSJ -          nup133               -                2.4    7.1   0.0       3.3    6.6   0.0   1.1   1   0   0   1   1   1   0 Os05g0405500 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0405500 PE=3 SV=1
+tr|Q6ZC85|Q6ZC85_ORYSJ         -          nup133               -                3.3    6.6   0.1       5.9    5.8   0.1   1.3   1   0   0   1   1   1   0 Os08g0338200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0338200 PE=1 SV=1
+tr|A0A0P0XX67|A0A0P0XX67_ORYSJ -          nup133               -                4.7    6.1   0.6       6.3    5.7   0.6   1.1   1   0   0   1   1   1   0 Os10g0556200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0556200 PE=3 SV=1
+sp|Q6H647|KN7B_ORYSJ           -          nup133               -                4.7    6.1   0.8       7.2    5.5   0.8   1.2   1   0   0   1   1   1   0 Putative inactive kinesin-like protein KIN-7B (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=KIN7B PE=5 SV=2
+tr|Q0J1C5|Q0J1C5_ORYSJ         -          nup133               -                4.8    6.0   0.2       8.7    5.2   0.2   1.3   1   0   0   1   1   1   0 Os09g0450300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0450300 PE=1 SV=2
+tr|Q7XQR7|Q7XQR7_ORYSJ         -          nup133               -                5.5    5.9   0.0       7.7    5.4   0.0   1.1   1   0   0   1   1   1   0 Hexosyltransferase OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0636100 PE=1 SV=2
+tr|Q67J13|Q67J13_ORYSJ         -          nup133               -                5.7    5.8   0.0       7.3    5.5   0.0   1.1   1   0   0   1   1   1   0 Os09g0460000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0460000 PE=2 SV=1
+tr|Q94CQ0|Q94CQ0_ORYSJ         -          nup133               -                6.1    5.7   0.4        26    3.6   0.0   1.8   2   0   0   2   2   2   0 Os01g0946100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=P0660F12.30 PE=4 SV=1
+tr|A0A0P0YA38|A0A0P0YA38_ORYSJ -          nup133               -                6.9    5.5   1.1       7.9    5.3   1.1   1.0   1   0   0   1   1   1   0 Os12g0483300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0483300 PE=4 SV=1
+sp|Q69KN0|EMF2B_ORYSJ          -          nup133               -                6.9    5.5   0.6        11    4.9   0.6   1.2   1   0   0   1   1   1   0 Polycomb group protein EMF2B OS=Oryza sativa subsp. japonica OX=39947 GN=EMF2B PE=1 SV=1
+sp|Q6H638|KN7C_ORYSJ           -          nup133               -                7.2    5.5   0.9        11    4.8   0.9   1.2   1   0   0   1   1   1   0 Kinesin-like protein KIN-7C OS=Oryza sativa subsp. japonica OX=39947 GN=KIN7C PE=2 SV=1
+tr|Q6Z7R9|Q6Z7R9_ORYSJ         -          nup133               -                7.9    5.3   2.7        14    4.5   2.7   1.4   1   0   0   1   1   1   0 Os02g0741500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0741500 PE=1 SV=1
+tr|Q7XVM5|Q7XVM5_ORYSJ         -          nup133               -                8.6    5.2   2.4        17    4.2   2.4   1.4   1   0   0   1   1   1   0 Os04g0394700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0394700 PE=2 SV=1
+tr|A0A0P0Y9U6|A0A0P0Y9U6_ORYSJ -          nup133               -                9.2    5.1   0.0        14    4.5   0.0   1.2   1   0   0   1   1   1   0 Os12g0456100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0456100 PE=4 SV=1
+tr|Q53JF1|Q53JF1_ORYSJ         -          nup133               -                9.2    5.1   0.0        11    4.9   0.0   1.0   1   0   0   1   1   1   0 Expressed protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g26190 PE=1 SV=1
+tr|A0A0P0XQU9|A0A0P0XQU9_ORYSJ -          nup133               -                9.5    5.1   1.6        10    5.0   1.6   1.0   1   0   0   1   1   1   0 Os09g0571632 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0571632 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/OSATJ/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:27:33 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q584I6|Q584I6_TRYB2 -          nup54                -            1.6e-34  118.5   3.7   3.4e-32  110.9   3.2   6.1   2   1   4   6   6   6   4 Nucleoporin (NUP54/57), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.5200 PE=4 SV=1
+tr|Q585M4|Q585M4_TRYB2 -          nup54                -               0.51    8.0   9.8      0.79    7.4   9.8   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 4E, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.1870 PE=3 SV=1
+tr|Q586L2|Q586L2_TRYB2 -          nup54                -                1.4    6.5  20.5       1.8    6.2  20.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.2.2390 PE=4 SV=1
+tr|Q57WN8|Q57WN8_TRYB2 -          nup54                -                2.5    5.7   6.1       3.7    5.2   6.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.1620 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TBRU/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:42 2022
+# [ok]

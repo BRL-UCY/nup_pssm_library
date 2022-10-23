@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SBS8|NU159_CHATD  -          nup214               -            2.3e-96  322.0  24.9   3.7e-96  321.3  22.4   2.3   2   1   0   2   2   2   1 Nucleoporin NUP159 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP159 PE=1 SV=1
+tr|G0SFF1|G0SFF1_CHATD -          nup214               -            3.9e-05   19.5   0.0      0.13    7.8   0.0   2.8   3   0   0   3   3   3   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061820 PE=4 SV=1
+tr|G0S0H2|G0S0H2_CHATD -          nup214               -            0.00025   16.9   0.1   0.00056   15.7   0.1   1.5   2   0   0   2   2   2   1 WD40 repeat-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0010010 PE=4 SV=1
+tr|G0S8Z4|G0S8Z4_CHATD -          nup214               -             0.0004   16.2   0.0    0.0019   13.9   0.0   1.7   2   0   0   2   2   2   1 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0043980 PE=4 SV=1
+tr|G0SFI7|G0SFI7_CHATD -          nup214               -              0.012   11.3   0.1     0.034    9.8   0.1   1.6   2   0   0   2   2   2   0 Coronin OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070970 PE=3 SV=1
+tr|G0SFZ7|G0SFZ7_CHATD -          nup214               -              0.047    9.3   0.1       1.1    4.8   0.0   2.0   2   0   0   2   2   2   0 Putative ribosome assembly protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072720 PE=4 SV=1
+tr|G0S9H3|G0S9H3_CHATD -          nup214               -              0.074    8.7   0.0     0.089    8.4   0.0   1.1   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit I OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=TIF34 PE=3 SV=1
+sp|G0SC29|NLE1_CHATD   -          nup214               -               0.12    7.9   0.4      0.25    6.9   0.4   1.4   1   0   0   1   1   1   0 Ribosome assembly protein 4 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0055700 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CTHE/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:24 2022
+# [ok]

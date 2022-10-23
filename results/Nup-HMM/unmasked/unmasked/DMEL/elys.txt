@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWE6|ELYS_DROME           -          elys                 -             3e-301 1003.2   1.5    3e-301 1003.2   1.5   2.0   1   1   0   2   2   2   2 Protein ELYS homolog OS=Drosophila melanogaster OX=7227 GN=Elys PE=1 SV=2
+tr|X2JG50|X2JG50_DROME         -          elys                 -             3e-301 1003.2   1.5    3e-301 1003.2   1.5   2.0   1   1   0   2   2   2   2 Elys, isoform B OS=Drosophila melanogaster OX=7227 GN=Elys PE=4 SV=1
+tr|A1Z7Y4|A1Z7Y4_DROME         -          elys                 -             0.0061   13.7   0.0    0.0079   13.4   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10459 PE=4 SV=1
+tr|Q5U0X8|Q5U0X8_DROME         -          elys                 -              0.019   12.1   6.0     0.024   11.8   0.0   2.3   2   0   0   2   2   2   0 LD10780p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12325 PE=1 SV=1
+tr|Q7JW48|Q7JW48_DROME         -          elys                 -               0.12    9.4  46.9      0.14    9.3  46.9   1.2   1   0   0   1   1   1   0 RE12410p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10911 PE=2 SV=1
+sp|Q8T079|GLYR1_DROME          -          elys                 -               0.96    6.5   7.4       1.1    6.2   7.4   1.0   1   0   0   1   1   1   0 Putative oxidoreductase GLYR1 homolog OS=Drosophila melanogaster OX=7227 GN=Ndf PE=1 SV=1
+tr|X2JDP6|X2JDP6_DROME         -          elys                 -               0.96    6.5   7.4       1.1    6.2   7.4   1.0   1   0   0   1   1   1   0 Nucleosome-destabilizing factor, isoform C OS=Drosophila melanogaster OX=7227 GN=Ndf PE=4 SV=1
+tr|M9MRG2|M9MRG2_DROME         -          elys                 -               0.97    6.4   7.4       1.1    6.2   7.4   1.0   1   0   0   1   1   1   0 Nucleosome-destabilizing factor, isoform B OS=Drosophila melanogaster OX=7227 GN=Ndf PE=4 SV=1
+sp|Q9VYB0|BTHD_DROME           -          elys                 -                1.7    5.6  35.7         2    5.4  35.7   1.0   1   0   0   1   1   1   0 Selenoprotein BthD OS=Drosophila melanogaster OX=7227 GN=BthD PE=1 SV=5
+sp|Q9VZQ1|YTDC1_DROME          -          elys                 -                3.6    4.5  31.8       4.7    4.2  31.8   1.0   1   0   0   1   1   1   0 YTH domain-containing protein 1 OS=Drosophila melanogaster OX=7227 GN=Ythdc1 PE=2 SV=2
+tr|Q9VTF3|Q9VTF3_DROME         -          elys                 -                3.9    4.4  16.6       4.2    4.3  16.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12522 PE=4 SV=3
+tr|Q9V459|Q9V459_DROME         -          elys                 -                4.6    4.2  23.6       5.4    4.0  23.6   1.0   1   0   0   1   1   1   0 EG:BACR43E12.7 protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14416 PE=4 SV=1
+tr|A1Z7L1|A1Z7L1_DROME         -          elys                 -                8.3    3.4  31.9        11    3.0  31.9   1.1   1   0   0   1   1   1   0 Fanconi anemia complementation group I OS=Drosophila melanogaster OX=7227 GN=FANCI PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:30 2022
+# [ok]

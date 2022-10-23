@@ -1,0 +1,58 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7G4R2|F7G4R2_MACMU         -          nup2l1               -           1.8e-150  503.5   0.0    2e-150  503.3   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin-like protein 2 OS=Macaca mulatta OX=9544 GN=NUP42 PE=2 SV=2
+tr|F7G4S1|F7G4S1_MACMU         -          nup2l1               -            2.1e-64  220.0   1.0   2.4e-64  219.8   1.0   1.0   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP42 PE=4 SV=2
+tr|A0A1D5RA31|A0A1D5RA31_MACMU -          nup2l1               -            1.3e-07   32.9  23.7       0.1   13.5   3.2   4.1   4   0   0   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN2 PE=4 SV=1
+tr|F6YF04|F6YF04_MACMU         -          nup2l1               -            2.6e-06   28.6  14.9     0.017   16.0   0.8   3.1   3   0   0   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN2 PE=4 SV=2
+tr|A0A1D5RA36|A0A1D5RA36_MACMU -          nup2l1               -            5.1e-06   27.6   7.2    0.0036   18.2   2.6   2.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN1 PE=4 SV=1
+tr|F7GTV1|F7GTV1_MACMU         -          nup2l1               -            6.6e-06   27.3  10.2    0.0077   17.2   1.3   2.3   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZC3H6 PE=4 SV=2
+tr|A0A1D5QG00|A0A1D5QG00_MACMU -          nup2l1               -            8.1e-06   27.0   2.5   1.1e-05   26.6   2.5   1.1   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=LENG9 PE=4 SV=1
+tr|A0A1D5RCP6|A0A1D5RCP6_MACMU -          nup2l1               -            2.7e-05   25.2   5.0    0.0099   16.8   1.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN2 PE=4 SV=1
+tr|F7CXF4|F7CXF4_MACMU         -          nup2l1               -            2.9e-05   25.1  18.4    0.0029   18.6   2.2   3.1   3   0   0   3   3   3   2 Cleavage and polyadenylation specific factor 4 like OS=Macaca mulatta OX=9544 GN=CPSF4L PE=4 SV=2
+tr|F6YEZ7|F6YEZ7_MACMU         -          nup2l1               -              4e-05   24.7   4.6     0.014   16.3   0.8   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN2 PE=4 SV=2
+tr|A0A1D5QRE1|A0A1D5QRE1_MACMU -          nup2l1               -            0.00014   22.9   0.9   0.00018   22.5   0.9   1.1   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H18 PE=4 SV=1
+tr|F7GTV4|F7GTV4_MACMU         -          nup2l1               -            0.00051   21.0  21.4    0.0077   17.2   1.3   3.1   3   0   0   3   3   3   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZC3H6 PE=4 SV=2
+tr|A0A1D5Q225|A0A1D5Q225_MACMU -          nup2l1               -             0.0013   19.7   5.3    0.0013   19.7   5.3   2.0   2   0   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PARP12 PE=4 SV=1
+tr|F6Z321|F6Z321_MACMU         -          nup2l1               -             0.0023   18.9   5.3    0.0023   18.9   5.3   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PARP12 PE=4 SV=2
+tr|F7GSF2|F7GSF2_MACMU         -          nup2l1               -             0.0025   18.8   0.6    0.0025   18.8   0.6   1.9   2   0   0   2   2   2   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZC3H4 PE=4 SV=2
+tr|A0A1D5RKX2|A0A1D5RKX2_MACMU -          nup2l1               -             0.0036   18.2   3.1    0.0036   18.2   3.1   2.8   3   0   0   3   3   3   1 Cleavage and polyadenylation specific factor 4 like OS=Macaca mulatta OX=9544 GN=CPSF4L PE=4 SV=1
+tr|F7H061|F7H061_MACMU         -          nup2l1               -             0.0044   17.9   1.1    0.0063   17.4   1.1   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DHX57 PE=4 SV=2
+tr|F7CXP2|F7CXP2_MACMU         -          nup2l1               -             0.0054   17.7  30.3     0.031   15.2   2.4   4.1   4   0   0   4   4   4   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MKRN1 PE=4 SV=2
+tr|F7H9Q2|F7H9Q2_MACMU         -          nup2l1               -             0.0075   17.2   1.7     0.012   16.5   1.7   1.2   1   0   0   1   1   1   1 Zinc finger CCCH domain-containing protein 15 OS=Macaca mulatta OX=9544 GN=ZC3H15 PE=2 SV=1
+tr|F7GY30|F7GY30_MACMU         -          nup2l1               -             0.0091   16.9   9.9      0.48   11.2   1.3   2.1   2   0   0   2   2   2   2 Zinc finger CCCH domain-containing protein 10 OS=Macaca mulatta OX=9544 GN=ZC3H10 PE=2 SV=1
+tr|A0A1D5Q4Y1|A0A1D5Q4Y1_MACMU -          nup2l1               -             0.0099   16.8  18.1     0.046   14.6   4.7   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZFP36 PE=4 SV=1
+tr|F7GUR6|F7GUR6_MACMU         -          nup2l1               -              0.017   16.0   1.7     0.025   15.4   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZGPAT PE=4 SV=1
+tr|A0A1D5R4E9|A0A1D5R4E9_MACMU -          nup2l1               -              0.054   14.4  13.7     0.084   13.7   1.1   3.0   2   1   1   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CPSF4 PE=4 SV=1
+tr|F7H3N6|F7H3N6_MACMU         -          nup2l1               -              0.063   14.1   0.8     0.073   13.9   0.8   1.0   1   0   0   1   1   1   0 Zinc finger matrin-type protein 5 OS=Macaca mulatta OX=9544 GN=ZMAT5 PE=2 SV=1
+tr|A0A1D5RB86|A0A1D5RB86_MACMU -          nup2l1               -              0.074   13.9   0.5     0.099   13.5   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RBM22 PE=4 SV=1
+tr|F6QYI7|F6QYI7_MACMU         -          nup2l1               -              0.085   13.7   1.2     0.085   13.7   1.2   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CPSF4 PE=4 SV=2
+tr|F6PL59|F6PL59_MACMU         -          nup2l1               -              0.087   13.7   0.5      0.12   13.3   0.5   1.1   1   0   0   1   1   1   0 Pre-mRNA-splicing factor RBM22 OS=Macaca mulatta OX=9544 GN=RBM22 PE=2 SV=2
+tr|F6V6W1|F6V6W1_MACMU         -          nup2l1               -              0.089   13.6   2.5      0.34   11.8   0.1   2.0   2   0   0   2   2   2   0 Muscleblind-like protein 3 isoform 3 OS=Macaca mulatta OX=9544 GN=MBNL3 PE=2 SV=1
+tr|F7BI49|F7BI49_MACMU         -          nup2l1               -               0.11   13.3   1.3      0.11   13.3   1.3   3.5   3   1   1   4   4   3   0 Cleavage and polyadenylation specificity factor subunit 4 isoform 1 OS=Macaca mulatta OX=9544 GN=CPSF4 PE=2 SV=2
+tr|F6U256|F6U256_MACMU         -          nup2l1               -               0.38   11.6   0.1      0.38   11.6   0.1   3.0   3   0   0   3   3   3   0 Muscleblind-like protein 3 isoform 2 OS=Macaca mulatta OX=9544 GN=MBNL3 PE=2 SV=1
+tr|F6V6X7|F6V6X7_MACMU         -          nup2l1               -               0.41   11.5   0.1      0.41   11.5   0.1   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MBNL3 PE=4 SV=1
+tr|F6TSP4|F6TSP4_MACMU         -          nup2l1               -               0.41   11.5   0.1      0.41   11.5   0.1   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MBNL3 PE=4 SV=2
+sp|Q5TM61|PP1RA_MACMU          -          nup2l1               -                0.7   10.7   4.4         1   10.2   4.4   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 1 regulatory subunit 10 OS=Macaca mulatta OX=9544 GN=PPP1R10 PE=3 SV=1
+tr|F7H6P7|F7H6P7_MACMU         -          nup2l1               -                0.7   10.7   4.4         1   10.2   4.4   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 1 regulatory subunit 10 OS=Macaca mulatta OX=9544 GN=PPP1R10 PE=4 SV=2
+tr|A0A1D5Q605|A0A1D5Q605_MACMU -          nup2l1               -               0.91   10.3   2.1       1.2    9.9   2.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|G7MYI0|G7MYI0_MACMU         -          nup2l1               -                1.3    9.8   6.2       1.2    9.9   1.0   2.0   2   0   0   2   2   2   0 Zinc finger protein 36, C3H1 type-like 1 OS=Macaca mulatta OX=9544 GN=ZFP36L1 PE=2 SV=1
+tr|F6R4B0|F6R4B0_MACMU         -          nup2l1               -                1.6    9.6   2.6       2.1    9.1   2.6   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=PRR3 PE=4 SV=2
+tr|A0A1D5Q486|A0A1D5Q486_MACMU -          nup2l1               -                2.6    8.8   0.9       3.6    8.4   0.9   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H13 PE=4 SV=1
+tr|F7D581|F7D581_MACMU         -          nup2l1               -                2.9    8.7   0.1       4.1    8.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZC3H18 PE=4 SV=2
+tr|F7D596|F7D596_MACMU         -          nup2l1               -                3.4    8.4   0.1       4.8    7.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZC3H18 PE=4 SV=2
+tr|F6SJ36|F6SJ36_MACMU         -          nup2l1               -                4.5    8.1  17.6       2.5    8.9   2.8   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC705904 PE=4 SV=2
+tr|F7HQY8|F7HQY8_MACMU         -          nup2l1               -                6.2    7.6   4.1       8.6    7.1   4.1   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H13 PE=4 SV=2
+tr|A0A1D5Q6N9|A0A1D5Q6N9_MACMU -          nup2l1               -                6.6    7.5   4.1       9.2    7.0   4.1   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H13 PE=4 SV=1
+tr|F7HQZ5|F7HQZ5_MACMU         -          nup2l1               -                6.8    7.5   4.1       9.4    7.0   4.1   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H13 PE=4 SV=2
+tr|A0A1D5R5Q9|A0A1D5R5Q9_MACMU -          nup2l1               -                7.4    7.3   1.7        10    6.9   1.7   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Macaca mulatta OX=9544 GN=ZC3H13 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup2l1.txt --max --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:11:45 2022
+# [ok]

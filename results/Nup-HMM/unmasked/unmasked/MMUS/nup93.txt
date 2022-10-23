@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8BJ71|NUP93_MOUSE          -          nup93                -                  0 1190.8   1.5         0 1190.6   1.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+tr|A0A1D5RLQ0|A0A1D5RLQ0_MOUSE -          nup93                -           4.2e-303 1008.9   0.6    5e-303 1008.6   0.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+sp|Q6NWV3|IF122_MOUSE          -          nup93                -               0.14   11.7   1.9        17    4.8   0.0   2.9   2   1   0   3   3   3   0 Intraflagellar transport protein 122 homolog OS=Mus musculus OX=10090 GN=Ift122 PE=1 SV=1
+tr|E9Q9G8|E9Q9G8_MOUSE         -          nup93                -               0.16   11.5   1.9        17    4.7   0.0   2.9   2   1   0   3   3   3   0 Intraflagellar transport protein 122 homolog OS=Mus musculus OX=10090 GN=Ift122 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:22:10 2022
+# [ok]

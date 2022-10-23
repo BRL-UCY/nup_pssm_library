@@ -1,0 +1,55 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QRU5|A0A1D5QRU5_MACMU -          nup205               -                  0 2799.3  29.3         0 2794.2  29.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7G2Q1|F7G2Q1_MACMU         -          nup205               -                  0 2786.0  28.3         0 2780.9  28.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|A0A1D5QYJ7|A0A1D5QYJ7_MACMU -          nup205               -                  0 2784.9  28.9         0 2779.8  28.9   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5Q852|A0A1D5Q852_MACMU -          nup205               -                  0 2755.8  27.3         0 2750.7  27.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7HS95|F7HS95_MACMU         -          nup205               -            5.4e-71  240.4   3.4   4.1e-68  230.9   3.4   2.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|A0A1D5QSC3|A0A1D5QSC3_MACMU -          nup205               -            1.3e-22   80.0  25.2   1.1e-16   60.3   0.2   5.4   5   0   0   5   5   5   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|F7HSL2|F7HSL2_MACMU         -          nup205               -            2.4e-22   79.1  27.3   6.7e-17   61.0   0.0   5.4   4   1   1   5   5   5   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=2
+tr|A0A1D5QNS4|A0A1D5QNS4_MACMU -          nup205               -            4.2e-21   75.0  21.3     1e-16   60.5   0.9   5.4   5   0   0   5   5   5   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|A0A1D5RJ52|A0A1D5RJ52_MACMU -          nup205               -            1.1e-20   73.6  21.0   1.1e-16   60.3   0.2   5.4   5   0   0   5   5   5   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP188 PE=4 SV=1
+tr|A0A1D5QV28|A0A1D5QV28_MACMU -          nup205               -               0.41    8.7   3.1      0.45    8.6   3.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CEP112 PE=4 SV=1
+tr|F6ZVR0|F6ZVR0_MACMU         -          nup205               -               0.53    8.3   0.0      0.58    8.2   0.0   1.0   1   0   0   1   1   1   0 Vesicle-associated membrane protein 5 OS=Macaca mulatta OX=9544 GN=VAMP5 PE=2 SV=1
+tr|A0A1D5Q3Z2|A0A1D5Q3Z2_MACMU -          nup205               -                1.1    7.3   0.1       1.6    6.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HUWE1 PE=4 SV=1
+tr|F6W5U7|F6W5U7_MACMU         -          nup205               -                1.1    7.2   5.4      0.74    7.8   4.3   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CEP112 PE=4 SV=1
+tr|A0A1D5QQ50|A0A1D5QQ50_MACMU -          nup205               -                1.1    7.2   0.1       1.7    6.6   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HUWE1 PE=4 SV=1
+tr|F7EKK2|F7EKK2_MACMU         -          nup205               -                1.5    6.9   1.0       1.7    6.6   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FAM207A PE=4 SV=2
+tr|A0A1D5RHP8|A0A1D5RHP8_MACMU -          nup205               -                1.6    6.8   0.1       2.5    6.1   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HUWE1 PE=4 SV=1
+tr|F6QYP0|F6QYP0_MACMU         -          nup205               -                1.7    6.7   1.0         2    6.4   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=FAM207A PE=4 SV=2
+tr|A0A1D5R5M5|A0A1D5R5M5_MACMU -          nup205               -                3.7    5.5   0.3       4.1    5.4   0.3   1.0   1   0   0   1   1   1   0 EF1_GNE domain-containing protein OS=Macaca mulatta OX=9544 PE=3 SV=1
+tr|F6ZUL3|F6ZUL3_MACMU         -          nup205               -                3.8    5.5   0.2       7.1    4.6   0.0   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SIMC1 PE=4 SV=1
+tr|F6STP2|F6STP2_MACMU         -          nup205               -                4.4    5.3   1.4       5.1    5.1   1.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=IFT20 PE=4 SV=2
+tr|F7HFR0|F7HFR0_MACMU         -          nup205               -                4.5    5.2   1.3       5.3    5.0   1.3   1.0   1   0   0   1   1   1   0 ANK_REP_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=GABPB1 PE=4 SV=2
+sp|Q8SQ01|NR1I2_MACMU          -          nup205               -                4.5    5.2   0.1       5.9    4.9   0.1   1.0   1   0   0   1   1   1   0 Nuclear receptor subfamily 1 group I member 2 OS=Macaca mulatta OX=9544 GN=NR1I2 PE=2 SV=1
+tr|F7DL10|F7DL10_MACMU         -          nup205               -                4.8    5.1   0.0       4.5    5.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HAUS1 PE=4 SV=2
+tr|F6VGK2|F6VGK2_MACMU         -          nup205               -                5.1    5.1   0.1       6.6    4.7   0.1   1.0   1   0   0   1   1   1   0 Nuclear receptor subfamily 1 group I member 2 OS=Macaca mulatta OX=9544 GN=NR1I2 PE=3 SV=1
+tr|F7HJR6|F7HJR6_MACMU         -          nup205               -                5.4    5.0   6.7       7.2    4.6   6.7   1.0   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 92 OS=Macaca mulatta OX=9544 GN=CCDC92 PE=2 SV=1
+tr|H9H3A1|H9H3A1_MACMU         -          nup205               -                5.5    5.0   0.1        18    3.2   0.2   1.8   2   0   0   2   2   2   0 FA complementation group D2 OS=Macaca mulatta OX=9544 GN=FANCD2 PE=4 SV=2
+tr|F7G0D5|F7G0D5_MACMU         -          nup205               -                5.7    4.9   0.0        11    3.9   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SIMC1 PE=4 SV=1
+tr|A0A1D5R801|A0A1D5R801_MACMU -          nup205               -                5.8    4.9   1.4       6.7    4.7   1.4   1.0   1   0   0   1   1   1   0 Intraflagellar transport protein 20-like protein OS=Macaca mulatta OX=9544 GN=IFT20 PE=4 SV=1
+tr|H9H4F8|H9H4F8_MACMU         -          nup205               -                5.9    4.9   0.1        18    3.2   0.2   1.7   2   0   0   2   2   2   0 FA complementation group D2 OS=Macaca mulatta OX=9544 GN=FANCD2 PE=4 SV=2
+tr|A0A1D5RHD5|A0A1D5RHD5_MACMU -          nup205               -                6.1    4.8   0.1        19    3.2   0.2   1.7   2   0   0   2   2   2   0 FA complementation group D2 OS=Macaca mulatta OX=9544 GN=FANCD2 PE=4 SV=1
+tr|A0A1D5R9X4|A0A1D5R9X4_MACMU -          nup205               -                6.3    4.8   0.2       7.2    4.6   0.2   1.1   1   0   0   1   1   1   0 ING domain-containing protein OS=Macaca mulatta OX=9544 GN=ING1 PE=4 SV=1
+tr|F7ELB8|F7ELB8_MACMU         -          nup205               -                6.9    4.6   2.6        12    3.9   2.6   1.3   1   0   0   1   1   1   0 Dystrobrevin OS=Macaca mulatta OX=9544 GN=DTNA PE=3 SV=2
+tr|F7H0V7|F7H0V7_MACMU         -          nup205               -                7.1    4.6   1.6       9.3    4.2   1.6   1.0   1   0   0   1   1   1   0 SAP domain-containing protein OS=Macaca mulatta OX=9544 GN=SARNP PE=4 SV=2
+tr|F7E8N5|F7E8N5_MACMU         -          nup205               -                7.6    4.5  12.5        10    4.1  12.5   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=ATG16L1 PE=4 SV=2
+tr|H9EQN2|H9EQN2_MACMU         -          nup205               -                7.7    4.5   1.5        10    4.1   1.5   1.0   1   0   0   1   1   1   0 SAP domain-containing ribonucleoprotein OS=Macaca mulatta OX=9544 GN=SARNP PE=2 SV=1
+tr|F7BW14|F7BW14_MACMU         -          nup205               -                8.5    4.3   0.0       8.7    4.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR83OS PE=4 SV=2
+tr|F7E8Q7|F7E8Q7_MACMU         -          nup205               -                8.7    4.3  12.5        12    3.9  12.5   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=ATG16L1 PE=4 SV=2
+tr|A0A1D5QBB3|A0A1D5QBB3_MACMU -          nup205               -                8.9    4.3   0.4        10    4.1   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QZZ2|A0A1D5QZZ2_MACMU -          nup205               -                9.3    4.2   0.0       8.4    4.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=HAUS1 PE=4 SV=1
+tr|F7GQZ1|F7GQZ1_MACMU         -          nup205               -                9.4    4.2   0.5        11    4.0   0.5   1.0   1   0   0   1   1   1   0 NANOG neighbor homeobox OS=Macaca mulatta OX=9544 GN=NANOGNB PE=4 SV=2
+tr|A0A1D5QNV9|A0A1D5QNV9_MACMU -          nup205               -                9.8    4.1   0.1        13    3.8   0.0   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC719437 PE=4 SV=1
+tr|G7MEF6|G7MEF6_MACMU         -          nup205               -                9.9    4.1   0.0        12    3.8   0.0   1.1   1   0   0   1   1   1   0 Signal recognition particle 9 kDa protein OS=Macaca mulatta OX=9544 GN=SRP9 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:26:15 2022
+# [ok]

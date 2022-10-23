@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UMR3|TBX20_HUMAN          -          nup60                -                1.4    9.8   0.9       2.3    9.1   0.9   1.3   1   0   0   1   1   1   0 T-box transcription factor TBX20 OS=Homo sapiens OX=9606 GN=TBX20 PE=1 SV=4
+tr|B5ME25|B5ME25_HUMAN         -          nup60                -                1.9    9.4   1.9       2.7    8.9   1.9   1.1   1   0   0   1   1   1   0 Methyltransferase-like protein 8 (Fragment) OS=Homo sapiens OX=9606 GN=METTL8 PE=1 SV=9
+tr|H0YD05|H0YD05_HUMAN         -          nup60                -                3.8    8.4   0.3       5.7    7.8   0.3   1.2   1   0   0   1   1   1   0 Myotubularin-related protein 13 (Fragment) OS=Homo sapiens OX=9606 GN=SBF2 PE=1 SV=1
+sp|Q9H825|METL8_HUMAN          -          nup60                -                4.9    8.0   2.6         7    7.5   2.6   1.1   1   0   0   1   1   1   0 Methyltransferase-like protein 8 OS=Homo sapiens OX=9606 GN=METTL8 PE=2 SV=2
+tr|H0YC05|H0YC05_HUMAN         -          nup60                -                4.9    8.0   1.7       5.4    7.9   1.7   1.1   1   0   0   1   1   1   0 PHD finger protein 20-like protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=PHF20L1 PE=1 SV=1
+tr|E9PQN0|E9PQN0_HUMAN         -          nup60                -                5.4    7.9   9.0       5.2    7.9   9.0   1.1   1   0   0   1   1   1   0 Band 4.1-like protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=EPB41L2 PE=1 SV=1
+tr|E9PJ07|E9PJ07_HUMAN         -          nup60                -                  7    7.5   4.2        11    6.9   4.2   1.2   1   0   0   1   1   1   0 Erythroid differentiation-related factor 1 OS=Homo sapiens OX=9606 GN=EDRF1 PE=1 SV=1
+tr|E7ETE0|E7ETE0_HUMAN         -          nup60                -                7.5    7.4   2.6        11    6.9   2.6   1.1   1   0   0   1   1   1   0 Methyltransferase-like protein OS=Homo sapiens OX=9606 GN=METTL8 PE=1 SV=2
+tr|F6X0R3|F6X0R3_HUMAN         -          nup60                -                7.9    7.3   1.3       9.6    7.1   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein C9orf85 OS=Homo sapiens OX=9606 GN=C9orf85 PE=1 SV=1
+tr|G3V5W6|G3V5W6_HUMAN         -          nup60                -                8.2    7.3   8.2       9.8    7.0   8.2   1.2   1   0   0   1   1   1   0 Probable RNA-binding protein 23 (Fragment) OS=Homo sapiens OX=9606 GN=RBM23 PE=1 SV=1
+tr|E5RJB8|E5RJB8_HUMAN         -          nup60                -                9.2    7.1   5.2       9.9    7.0   5.2   1.0   1   0   0   1   1   1   0 Syndecan-2 (Fragment) OS=Homo sapiens OX=9606 GN=SDC2 PE=1 SV=1
+tr|X6R7N2|X6R7N2_HUMAN         -          nup60                -                9.3    7.1  11.5        12    6.7  11.5   1.1   1   0   0   1   1   1   0 Sperm protein-associated with the nucleus on the X chromosome N4 OS=Homo sapiens OX=9606 GN=SPANXN4 PE=1 SV=1
+tr|H0YLQ7|H0YLQ7_HUMAN         -          nup60                -                9.5    7.1   3.2       9.8    7.0   3.2   1.1   1   0   0   1   1   1   0 DnaJ homolog subfamily C member 17 OS=Homo sapiens OX=9606 GN=DNAJC17 PE=1 SV=1
+tr|D6RB00|D6RB00_HUMAN         -          nup60                -                9.7    7.0   1.3       9.7    7.0   1.3   1.0   1   0   0   1   1   1   0 Amyloid-beta A4 precursor protein-binding family B member 2 (Fragment) OS=Homo sapiens OX=9606 GN=APBB2 PE=1 SV=1
+tr|I3L3T3|I3L3T3_HUMAN         -          nup60                -                9.8    7.0   0.0        11    6.9   0.0   1.0   1   0   0   1   1   1   0 N-sulphoglucosamine sulphohydrolase (Fragment) OS=Homo sapiens OX=9606 GN=SGSH PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/HSAP/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:15:58 2022
+# [ok]

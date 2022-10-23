@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5R3P0|A0A1D5R3P0_MACMU -          nup54                -           9.5e-167  557.2   0.0  1.2e-166  556.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H507|F7H507_MACMU         -          nup54                -           1.4e-163  546.7   0.0  1.7e-163  546.5   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|A0A1D5QWW6|A0A1D5QWW6_MACMU -          nup54                -             7e-163  544.4   0.0  8.4e-163  544.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H505|F7H505_MACMU         -          nup54                -           7.8e-163  544.3   0.0  9.1e-163  544.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|F7H6A0|F7H6A0_MACMU         -          nup54                -               0.35   10.9   0.0      0.41   10.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:00 2022
+# [ok]

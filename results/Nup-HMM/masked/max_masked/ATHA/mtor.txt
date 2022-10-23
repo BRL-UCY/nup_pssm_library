@@ -1,0 +1,56 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A4GSN8|NUA_ARATH            -          mtor                 -            1.9e-48  165.7  39.8   5.4e-23   81.3  27.4   3.0   3   0   0   3   3   3   3 Nuclear-pore anchor OS=Arabidopsis thaliana OX=3702 GN=NUA PE=1 SV=1
+sp|Q9LZP8|BZP53_ARATH          -          mtor                 -             0.0059   14.8   1.5    0.0069   14.6   1.5   1.0   1   0   0   1   1   1   1 bZIP transcription factor 53 OS=Arabidopsis thaliana OX=3702 GN=BZIP53 PE=1 SV=1
+tr|Q683G3|Q683G3_ARATH         -          mtor                 -              0.051   11.7   0.2     0.066   11.3   0.2   1.0   1   0   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=At5g50970 PE=2 SV=1
+tr|A0A1P8B1N9|A0A1P8B1N9_ARATH -          mtor                 -               0.11   10.6   3.7      0.12   10.4   3.7   1.0   1   0   0   1   1   1   0 Protein FLC EXPRESSOR OS=Arabidopsis thaliana OX=3702 GN=At2g30120 PE=4 SV=1
+sp|C0Z2L5|BZP44_ARATH          -          mtor                 -               0.27    9.3   0.1      0.33    9.0   0.1   1.0   1   0   0   1   1   1   0 bZIP transcription factor 44 OS=Arabidopsis thaliana OX=3702 GN=BZIP44 PE=1 SV=1
+tr|Q8VYF2|Q8VYF2_ARATH         -          mtor                 -               0.27    9.3   2.0      0.29    9.2   2.0   1.0   1   0   0   1   1   1   0 Uveal autoantigen with coiled-coil/ankyrin OS=Arabidopsis thaliana OX=3702 GN=At4g15790 PE=1 SV=1
+sp|F4IJK6|KN14R_ARATH          -          mtor                 -               0.52    8.3   0.9      0.72    7.9   0.9   1.0   1   0   0   1   1   1   0 Kinesin-like protein KIN-14R OS=Arabidopsis thaliana OX=3702 GN=KIN14R PE=3 SV=1
+tr|A0A1P8B002|A0A1P8B002_ARATH -          mtor                 -               0.52    8.3   0.9      0.72    7.9   0.9   1.0   1   0   0   1   1   1   0 Di-glucose binding protein with Kinesin motor domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=At2g22610 PE=3 SV=1
+tr|A0A1P8B2R9|A0A1P8B2R9_ARATH -          mtor                 -                  2    6.4   2.2       2.6    6.0   2.2   1.0   1   0   0   1   1   1   0 Mitochondrial ATP synthase D chain-related protein OS=Arabidopsis thaliana OX=3702 GN=At2g38580 PE=4 SV=1
+tr|A0A1P8AYB9|A0A1P8AYB9_ARATH -          mtor                 -                3.1    5.8   0.3        35    2.3   0.1   1.9   2   0   0   2   2   2   0 E3 ubiquitin protein ligase OS=Arabidopsis thaliana OX=3702 GN=HUB1 PE=3 SV=1
+tr|A0A2H1ZEN2|A0A2H1ZEN2_ARATH -          mtor                 -                3.8    5.5   0.2       4.3    5.3   0.2   1.0   1   0   0   1   1   1   0 Vesicle-associated membrane protein 724 OS=Arabidopsis thaliana OX=3702 GN=VAMP724 PE=3 SV=1
+tr|Q9C5M5|Q9C5M5_ARATH         -          mtor                 -                  4    5.4   3.4       5.4    5.0   3.4   1.1   1   0   0   1   1   1   0 At1g27000/T7N9_6 OS=Arabidopsis thaliana OX=3702 GN=At1g27000 PE=2 SV=1
+sp|A8MQR0|WIT2_ARATH           -          mtor                 -                4.4    5.3   2.0       3.4    5.7   0.6   1.4   2   0   0   2   2   2   0 WPP domain-interacting tail-anchored protein 2 OS=Arabidopsis thaliana OX=3702 GN=WIT2 PE=1 SV=1
+tr|F4JL78|F4JL78_ARATH         -          mtor                 -                4.5    5.2   0.2       5.6    4.9   0.2   1.0   1   0   0   1   1   1   0 Formin-like protein (DUF1421) OS=Arabidopsis thaliana OX=3702 GN=At4g28300 PE=1 SV=1
+sp|Q9FF14|FH19_ARATH           -          mtor                 -                4.7    5.2   0.6       6.2    4.8   0.6   1.0   1   0   0   1   1   1   0 Formin-like protein 19 OS=Arabidopsis thaliana OX=3702 GN=FH19 PE=2 SV=1
+sp|Q39160|MYO5_ARATH           -          mtor                 -                4.9    5.1   0.4       6.7    4.7   0.4   1.0   1   0   0   1   1   1   0 Myosin-5 OS=Arabidopsis thaliana OX=3702 GN=XI-1 PE=1 SV=1
+sp|O23429|VA724_ARATH          -          mtor                 -                5.4    5.0   0.1       6.5    4.7   0.1   1.0   1   0   0   1   1   1   0 Vesicle-associated membrane protein 724 OS=Arabidopsis thaliana OX=3702 GN=VAMP724 PE=2 SV=2
+sp|B9DGI8|BZP63_ARATH          -          mtor                 -                5.4    5.0   3.0       6.9    4.6   3.0   1.0   1   0   0   1   1   1   0 Basic leucine zipper 63 OS=Arabidopsis thaliana OX=3702 GN=BZIP63 PE=1 SV=1
+tr|Q8VZR8|Q8VZR8_ARATH         -          mtor                 -                5.5    5.0   0.2       6.8    4.6   0.2   1.0   1   0   0   1   1   1   0 Formin-like protein (DUF1421) OS=Arabidopsis thaliana OX=3702 GN=At4g28300 PE=1 SV=1
+sp|Q8RXD6|BRE1A_ARATH          -          mtor                 -                5.6    4.9   0.3        48    1.8   0.1   1.9   2   0   0   2   2   2   0 E3 ubiquitin-protein ligase BRE1-like 1 OS=Arabidopsis thaliana OX=3702 GN=HUB1 PE=1 SV=1
+sp|Q9FGX2|BZIP1_ARATH          -          mtor                 -                  6    4.8   0.2       6.9    4.6   0.2   1.0   1   0   0   1   1   1   0 Basic leucine zipper 1 OS=Arabidopsis thaliana OX=3702 GN=BZIP1 PE=1 SV=1
+sp|O65683|BZP11_ARATH          -          mtor                 -                6.4    4.7   0.5         8    4.4   0.5   1.0   1   0   0   1   1   1   0 bZIP transcription factor 11 OS=Arabidopsis thaliana OX=3702 GN=BZIP11 PE=1 SV=1
+tr|A0A1R7T3E6|A0A1R7T3E6_ARATH -          mtor                 -                6.7    4.7   0.1         9    4.2   0.1   1.0   1   0   0   1   1   1   0 Formin-like protein OS=Arabidopsis thaliana OX=3702 GN=AtFH16 PE=3 SV=1
+sp|Q9SI15|BZIP2_ARATH          -          mtor                 -                6.7    4.7   1.9       7.9    4.4   1.9   1.0   1   0   0   1   1   1   0 bZIP transcription factor 2 OS=Arabidopsis thaliana OX=3702 GN=BZIP2 PE=1 SV=1
+tr|A0A1P8B2V6|A0A1P8B2V6_ARATH -          mtor                 -                6.7    4.7   3.1       8.8    4.3   3.1   1.0   1   0   0   1   1   1   0 Mitochondrial ATP synthase D chain-related protein OS=Arabidopsis thaliana OX=3702 GN=At2g38580 PE=4 SV=1
+tr|Q682E1|Q682E1_ARATH         -          mtor                 -                7.2    4.6   3.1       9.5    4.2   3.1   1.0   1   0   0   1   1   1   0 Mitochondrial ATP synthase D chain-related protein OS=Arabidopsis thaliana OX=3702 GN=At2g38580 PE=2 SV=1
+tr|A0A1P8B4B7|A0A1P8B4B7_ARATH -          mtor                 -                7.4    4.5   0.5       9.5    4.2   0.5   1.0   1   0   0   1   1   1   0 Protein kinase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g24100 PE=1 SV=1
+tr|A0A1P8B4B2|A0A1P8B4B2_ARATH -          mtor                 -                7.6    4.5   0.5       9.8    4.1   0.5   1.0   1   0   0   1   1   1   0 Protein kinase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g24100 PE=1 SV=1
+tr|Q8RWU9|Q8RWU9_ARATH         -          mtor                 -                7.7    4.5   0.5       9.9    4.1   0.5   1.0   1   0   0   1   1   1   0 Protein kinase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g24100 PE=1 SV=1
+tr|A0A1P8AZA6|A0A1P8AZA6_ARATH -          mtor                 -                7.8    4.4   0.5       9.4    4.2   0.5   1.1   1   0   0   1   1   1   0 FRIGIDA interacting protein 1 OS=Arabidopsis thaliana OX=3702 GN=FIP1 PE=4 SV=1
+tr|A0A1P8B1P9|A0A1P8B1P9_ARATH -          mtor                 -                7.8    4.4   2.4       9.6    4.1   2.4   1.1   1   0   0   1   1   1   0 Protein FLC EXPRESSOR OS=Arabidopsis thaliana OX=3702 GN=At2g30120 PE=4 SV=1
+tr|A0A1P8B4A5|A0A1P8B4A5_ARATH -          mtor                 -                7.9    4.4   0.5        10    4.1   0.5   1.0   1   0   0   1   1   1   0 Protein kinase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At4g24100 PE=1 SV=1
+sp|Q94JY4|BRK1_ARATH           -          mtor                 -                  8    4.4   0.2       8.9    4.3   0.2   1.0   1   0   0   1   1   1   0 Protein BRICK 1 OS=Arabidopsis thaliana OX=3702 GN=BRK1 PE=1 SV=1
+tr|F4K851|F4K851_ARATH         -          mtor                 -                8.2    4.4   0.1        11    3.9   0.1   1.0   1   0   0   1   1   1   0 Formin-like protein OS=Arabidopsis thaliana OX=3702 GN=MBK20.23 PE=3 SV=1
+sp|Q9LUI2|NET1A_ARATH          -          mtor                 -                8.2    4.4   7.0       4.3    5.3   1.0   2.5   2   0   0   2   2   2   0 Protein NETWORKED 1A OS=Arabidopsis thaliana OX=3702 GN=NET1A PE=1 SV=1
+sp|Q9FF15|FH16_ARATH           -          mtor                 -                8.6    4.3   0.1        12    3.9   0.1   1.0   1   0   0   1   1   1   0 Formin-like protein 16 OS=Arabidopsis thaliana OX=3702 GN=FH16 PE=3 SV=2
+tr|A0A1R7T3E7|A0A1R7T3E7_ARATH -          mtor                 -                8.7    4.3   0.1        12    3.9   0.1   1.0   1   0   0   1   1   1   0 Formin-like protein OS=Arabidopsis thaliana OX=3702 GN=AtFH16 PE=3 SV=1
+sp|F4IMQ0|FLX_ARATH            -          mtor                 -                8.9    4.2   2.4        11    3.9   2.4   1.1   1   0   0   1   1   1   0 Protein FLC EXPRESSOR OS=Arabidopsis thaliana OX=3702 GN=FLX PE=1 SV=1
+tr|A0A1P8B1P6|A0A1P8B1P6_ARATH -          mtor                 -                9.3    4.2   2.4        11    3.9   2.4   1.1   1   0   0   1   1   1   0 Protein FLC EXPRESSOR OS=Arabidopsis thaliana OX=3702 GN=At2g30120 PE=4 SV=1
+sp|P0DMS1|NET2A_ARATH          -          mtor                 -                9.3    4.2   1.6        14    3.6   1.6   1.2   1   0   0   1   1   1   0 Protein NETWORKED 2A OS=Arabidopsis thaliana OX=3702 GN=NET2A PE=2 SV=1
+sp|Q9LXU9|IRKI_ARATH           -          mtor                 -                9.4    4.2   0.4        12    3.8   0.4   1.0   1   0   0   1   1   1   0 IRK-interacting protein OS=Arabidopsis thaliana OX=3702 GN=IRKI PE=1 SV=1
+sp|Q9CA64|PRE3_ARATH           -          mtor                 -                9.8    4.1   1.0        10    4.1   1.0   1.0   1   0   0   1   1   1   0 Transcription factor PRE3 OS=Arabidopsis thaliana OX=3702 GN=PRE3 PE=1 SV=1
+sp|P46603|HAT9_ARATH           -          mtor                 -                9.9    4.1   0.5        13    3.7   0.5   1.0   1   0   0   1   1   1   0 Homeobox-leucine zipper protein HAT9 OS=Arabidopsis thaliana OX=3702 GN=HAT9 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/mtor.txt --max --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:50:35 2022
+# [ok]

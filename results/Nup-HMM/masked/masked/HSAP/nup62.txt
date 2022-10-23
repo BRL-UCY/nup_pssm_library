@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P37198|NUP62_HUMAN  -          nup62                -            2.2e-87  295.5   4.2   2.2e-87  295.5   4.2   2.1   2   1   0   2   2   2   1 Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=3
+tr|H0Y6X7|H0Y6X7_HUMAN -          nup62                -            6.4e-72  244.6   0.6   7.3e-72  244.4   0.6   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP62CL PE=4 SV=1
+tr|M0QXN5|M0QXN5_HUMAN -          nup62                -            4.4e-68  231.9   4.7   4.4e-68  231.9   4.7   2.2   3   0   0   3   3   3   1 Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+sp|Q9H1M0|N62CL_HUMAN  -          nup62                -            5.6e-30  106.5   0.0   6.9e-30  106.2   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein OS=Homo sapiens OX=9606 GN=NUP62CL PE=1 SV=3
+tr|Q5JSN5|Q5JSN5_HUMAN -          nup62                -            4.7e-27   96.9   0.0   5.4e-27   96.7   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP62CL PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:20 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P06704|CDC31_YEAST -          centrin2             -            8.9e-55  183.4   4.7     1e-54  183.3   4.7   1.0   1   0   0   1   1   1   1 Cell division control protein 31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC31 PE=1 SV=2
+sp|P06787|CALM_YEAST  -          centrin2             -            3.1e-38  129.6   3.4   3.3e-38  129.5   3.4   1.0   1   0   0   1   1   1   1 Calmodulin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CMD1 PE=1 SV=1
+sp|P53141|MLC1_YEAST  -          centrin2             -            6.8e-19   66.6   3.2   8.5e-19   66.3   3.2   1.1   1   0   0   1   1   1   1 Myosin light chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC1 PE=1 SV=1
+sp|P25296|CANB_YEAST  -          centrin2             -            2.6e-14   51.7   5.3   3.5e-14   51.3   5.3   1.2   1   0   0   1   1   1   1 Calcineurin subunit B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CNB1 PE=1 SV=3
+sp|Q06580|MLC2_YEAST  -          centrin2             -              2e-09   35.8   2.3   3.5e-08   31.7   0.3   2.5   1   1   2   3   3   3   2 Myosin light chain 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC2 PE=1 SV=1
+sp|Q06389|NCS1_YEAST  -          centrin2             -              9e-08   30.4   2.1   1.2e-05   23.5   0.2   2.4   1   1   1   2   2   2   2 Calcium-binding protein NCS-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FRQ1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/centrin2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SCER/centrin2.txt --cpu 8 hmm_profiles_from_msa/centrin2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:29 2022
+# [ok]

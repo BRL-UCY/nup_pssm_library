@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3E799|A0A2K3E799_CHLRE -          nup214               -            5.5e-06   23.7   1.9   0.00019   18.6   0.0   2.7   3   0   0   3   3   3   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g039500v5 PE=4 SV=1
+tr|A8IVI0|A8IVI0_CHLRE         -          nup214               -            2.7e-05   21.5   0.0     0.043   10.8   0.0   3.0   2   1   1   3   3   3   3 Flagellar outer dynein arm intermediate chain 1 OS=Chlamydomonas reinhardtii OX=3055 GN=ODA9 PE=4 SV=1
+tr|A0A2K3D5S1|A0A2K3D5S1_CHLRE -          nup214               -            0.00027   18.1   0.0   0.00036   17.7   0.0   1.0   1   0   0   1   1   1   1 Anaphase-promoting complex subunit 4 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g556650v5 PE=4 SV=1
+tr|A8J5T5|A8J5T5_CHLRE         -          nup214               -             0.0029   14.7   3.6      0.42    7.5   0.1   2.9   2   1   1   3   3   3   3 COP-II coat subunit OS=Chlamydomonas reinhardtii OX=3055 GN=SEC31 PE=3 SV=1
+tr|A0A2K3E700|A0A2K3E700_CHLRE -          nup214               -              0.025   11.6   0.7     0.036   11.1   0.5   1.3   1   1   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g035000v5 PE=4 SV=1
+tr|A0A2K3D4J8|A0A2K3D4J8_CHLRE -          nup214               -               0.03   11.4   0.2       2.1    5.3   0.3   2.2   2   0   0   2   2   2   0 LisH domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g527500v5 PE=4 SV=1
+tr|A0A2K3D956|A0A2K3D956_CHLRE -          nup214               -              0.035   11.1   0.5       2.2    5.2   0.0   2.0   2   0   0   2   2   2   0 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g420650v5 PE=4 SV=1
+tr|A8HPU4|A8HPU4_CHLRE         -          nup214               -              0.052   10.6   0.0     0.073   10.1   0.0   1.1   1   0   0   1   1   1   0 WD40 repeat-containing protein SMU1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g020400v5 PE=3 SV=1
+tr|A0A2K3DXJ7|A0A2K3DXJ7_CHLRE -          nup214               -              0.056   10.4   0.1      0.12    9.3   0.1   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g178100v5 PE=3 SV=1
+tr|A0A2K3DHM0|A0A2K3DHM0_CHLRE -          nup214               -              0.077   10.0   3.3      0.31    8.0   0.0   2.3   3   0   0   3   3   3   0 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g374400v5 PE=3 SV=1
+tr|A0A2K3CZ71|A0A2K3CZ71_CHLRE -          nup214               -              0.085    9.9   0.0      0.15    9.0   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g565150v5 PE=4 SV=1
+tr|A0A2K3CQT7|A0A2K3CQT7_CHLRE -          nup214               -              0.092    9.7   0.4       1.8    5.4   0.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g728650v5 PE=4 SV=1
+tr|A0A2K3CZH2|A0A2K3CZH2_CHLRE -          nup214               -               0.19    8.7   1.8       1.3    5.9   0.0   2.7   4   0   0   4   4   4   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g567150v5 PE=4 SV=1
+tr|A0A2K3DIV8|A0A2K3DIV8_CHLRE -          nup214               -               0.36    7.8   0.0      0.46    7.4   0.0   1.1   1   0   0   1   1   1   0 DDB1- and CUL4-associated factor 13 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g318702v5 PE=3 SV=1
+tr|A8J8Y1|A8J8Y1_CHLRE         -          nup214               -               0.58    7.1   0.0         6    3.7   0.0   1.9   2   0   0   2   2   2   0 Receptor of activated protein kinase C 1 OS=Chlamydomonas reinhardtii OX=3055 GN=RACK1 PE=3 SV=1
+tr|A5Z0S9|A5Z0S9_CHLRE         -          nup214               -               0.73    6.8   0.2         1    6.2   0.2   1.1   1   0   0   1   1   1   0 Intraflagellar transport protein 80 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204150v5 PE=1 SV=1
+tr|A0A2K3DSS7|A0A2K3DSS7_CHLRE -          nup214               -               0.82    6.6  17.3     0.072   10.1   0.5   3.0   4   0   0   4   4   4   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g236250v5 PE=4 SV=1
+tr|A0A2K3E4M5|A0A2K3E4M5_CHLRE -          nup214               -               0.95    6.4   0.1       1.2    6.0   0.1   1.0   1   0   0   1   1   1   0 NLE domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g000600v5 PE=4 SV=1
+tr|A0A2K3DL87|A0A2K3DL87_CHLRE -          nup214               -                  1    6.3   0.6       9.3    3.1   0.1   2.2   2   1   1   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g350451v5 PE=4 SV=1
+tr|A0A2K3CQG1|A0A2K3CQG1_CHLRE -          nup214               -                1.1    6.2   0.0         2    5.3   0.0   1.3   1   0   0   1   1   1   0 NACHT domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g723450v5 PE=4 SV=1
+tr|A8IL73|A8IL73_CHLRE         -          nup214               -                1.2    6.1   0.0       1.7    5.5   0.0   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g487200v5 PE=4 SV=1
+tr|A8HYC0|A8HYC0_CHLRE         -          nup214               -                1.6    5.7   0.0         3    4.7   0.0   1.4   1   0   0   1   1   1   0 Nucleolar protein, component of the U3 processome OS=Chlamydomonas reinhardtii OX=3055 GN=UTP1 PE=3 SV=1
+tr|A0A2K3DTR4|A0A2K3DTR4_CHLRE -          nup214               -                1.8    5.4   0.0       2.4    5.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g215750v5 PE=4 SV=1
+tr|A8JFH6|A8JFH6_CHLRE         -          nup214               -                1.9    5.4   0.1       5.3    3.9   0.0   1.6   2   0   0   2   2   2   0 Peroxin-7 OS=Chlamydomonas reinhardtii OX=3055 GN=PEX7 PE=3 SV=1
+tr|A0A2K3CSZ2|A0A2K3CSZ2_CHLRE -          nup214               -                  2    5.3   0.0         3    4.7   0.0   1.2   1   0   0   1   1   1   0 Mcl1_mid domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g652950v5 PE=4 SV=1
+tr|A0A2K3CQJ9|A0A2K3CQJ9_CHLRE -          nup214               -                2.8    4.8   0.0       3.9    4.4   0.0   1.1   1   0   0   1   1   1   0 CAF1C_H4-bd domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g724850v5 PE=3 SV=1
+tr|A0A2K3DP17|A0A2K3DP17_CHLRE -          nup214               -                3.5    4.5   0.2        38    1.1   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278176v5 PE=4 SV=1
+tr|A8JFR3|A8JFR3_CHLRE         -          nup214               -                3.7    4.4   0.0       4.9    4.0   0.0   1.1   1   0   0   1   1   1   0 Flagellar associated protein OS=Chlamydomonas reinhardtii OX=3055 GN=FAP118 PE=2 SV=1
+tr|A0A2K3D611|A0A2K3D611_CHLRE -          nup214               -                5.8    3.8   0.3       7.8    3.3   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g552900v5 PE=4 SV=1
+tr|A0A2K3D9D5|A0A2K3D9D5_CHLRE -          nup214               -                9.8    3.0   0.2        14    2.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g423600v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup214.txt --max --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:21:46 2022
+# [ok]

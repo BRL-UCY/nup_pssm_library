@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WYP5|ELYS_HUMAN           -          elys                 -                  0 3886.4  40.1         0 3886.2  40.0   1.0   1   0   0   1   1   1   1 Protein ELYS OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=3
+tr|H7C4S1|H7C4S1_HUMAN         -          elys                 -            7.7e-20   71.5  12.8   8.3e-20   71.4  12.8   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=1
+tr|B8ZZF2|B8ZZF2_HUMAN         -          elys                 -              0.032   13.1   0.0     0.041   12.7   0.0   1.1   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDSUB1 PE=1 SV=2
+sp|Q8N9V3|WSDU1_HUMAN          -          elys                 -              0.037   12.9   0.0     0.048   12.5   0.0   1.1   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDSUB1 PE=1 SV=3
+tr|C9JEH3|C9JEH3_HUMAN         -          elys                 -               0.24   10.2   0.0       4.8    5.9   0.0   2.0   2   0   0   2   2   2   0 Angio-associated migratory cell protein OS=Homo sapiens OX=9606 GN=AAMP PE=1 SV=1
+sp|Q13685|AAMP_HUMAN           -          elys                 -               0.24   10.2   0.0       4.8    5.9   0.0   2.0   2   0   0   2   2   2   0 Angio-associated migratory cell protein OS=Homo sapiens OX=9606 GN=AAMP PE=1 SV=2
+tr|C9JG97|C9JG97_HUMAN         -          elys                 -               0.66    8.7   1.9       4.5    6.0   0.0   2.2   3   0   0   3   3   3   0 Angio-associated migratory cell protein OS=Homo sapiens OX=9606 GN=AAMP PE=1 SV=1
+tr|H0YIB0|H0YIB0_HUMAN         -          elys                 -               0.67    8.7   0.4      0.74    8.6   0.4   1.0   1   0   0   1   1   1   0 Protein FAM186B (Fragment) OS=Homo sapiens OX=9606 GN=FAM186B PE=1 SV=1
+tr|A0A0A0MTG6|A0A0A0MTG6_HUMAN -          elys                 -               0.78    8.5   0.1       1.1    8.0   0.1   1.1   1   0   0   1   1   1   0 Sterol regulatory element-binding protein cleavage-activating protein OS=Homo sapiens OX=9606 GN=SCAP PE=1 SV=1
+tr|H7C0R2|H7C0R2_HUMAN         -          elys                 -                1.1    8.0   0.0       1.4    7.7   0.0   1.0   1   0   0   1   1   1   0 Angio-associated migratory cell protein (Fragment) OS=Homo sapiens OX=9606 GN=AAMP PE=1 SV=1
+sp|Q12770|SCAP_HUMAN           -          elys                 -                1.1    8.0   0.1       1.6    7.4   0.1   1.1   1   0   0   1   1   1   0 Sterol regulatory element-binding protein cleavage-activating protein OS=Homo sapiens OX=9606 GN=SCAP PE=1 SV=4
+sp|Q4KMP7|TB10B_HUMAN          -          elys                 -                1.2    7.9  15.5       1.6    7.5  15.5   1.1   1   0   0   1   1   1   0 TBC1 domain family member 10B OS=Homo sapiens OX=9606 GN=TBC1D10B PE=1 SV=3
+sp|Q5M9Q1|NKAPL_HUMAN          -          elys                 -                1.3    7.8  37.8       1.5    7.5  37.8   1.2   1   0   0   1   1   1   0 NKAP-like protein OS=Homo sapiens OX=9606 GN=NKAPL PE=2 SV=3
+tr|Q5H907|Q5H907_HUMAN         -          elys                 -                  3    6.6  26.0       4.4    6.0  26.0   1.1   1   0   0   1   1   1   0 Melanoma antigen family D, 2, isoform CRA_d OS=Homo sapiens OX=9606 GN=MAGED2 PE=1 SV=1
+tr|K7EP28|K7EP28_HUMAN         -          elys                 -                5.9    5.6  11.8         7    5.3  11.8   1.0   1   0   0   1   1   1   0 Transcription activator BRG1 (Fragment) OS=Homo sapiens OX=9606 GN=SMARCA4 PE=1 SV=2
+tr|H3BP82|H3BP82_HUMAN         -          elys                 -                6.2    5.5  10.5       6.6    5.4  10.5   1.0   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 (Fragment) OS=Homo sapiens OX=9606 GN=RNPS1 PE=1 SV=1
+sp|Q9Y2D9|ZN652_HUMAN          -          elys                 -                6.2    5.5  33.5       8.5    5.1  33.5   1.1   1   0   0   1   1   1   0 Zinc finger protein 652 OS=Homo sapiens OX=9606 GN=ZNF652 PE=1 SV=3
+tr|Q5H909|Q5H909_HUMAN         -          elys                 -                7.9    5.2  26.5        11    4.7  26.5   1.1   1   0   0   1   1   1   0 Melanoma-associated antigen D2 OS=Homo sapiens OX=9606 GN=MAGED2 PE=1 SV=2
+tr|H7C4R6|H7C4R6_HUMAN         -          elys                 -                8.7    5.0  23.1        10    4.8  23.1   1.0   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 12B (Fragment) OS=Homo sapiens OX=9606 GN=PPP1R12B PE=1 SV=1
+tr|G3V1U3|G3V1U3_HUMAN         -          elys                 -                  9    5.0   7.7        10    4.8   7.7   1.0   1   0   0   1   1   1   0 Methionine aminopeptidase 2 OS=Homo sapiens OX=9606 GN=METAP2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:26:19 2022
+# [ok]

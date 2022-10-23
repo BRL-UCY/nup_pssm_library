@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0W290|A0A0P0W290_ORYSJ -          nup60                -                0.3   11.4   0.3      0.37   11.1   0.3   1.0   1   0   0   1   1   1   0 Os03g0713700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0713700 PE=1 SV=1
+tr|A0A0N7KP59|A0A0N7KP59_ORYSJ -          nup60                -               0.59   10.5   0.6       0.7   10.2   0.6   1.0   1   0   0   1   1   1   0 Os08g0111000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0111000 PE=4 SV=1
+tr|A0A0N7KS98|A0A0N7KS98_ORYSJ -          nup60                -                1.1    9.6   1.2       1.5    9.1   1.2   1.1   1   0   0   1   1   1   0 Os10g0577800 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0577800 PE=4 SV=1
+tr|A0A0P0Y993|A0A0P0Y993_ORYSJ -          nup60                -                1.7    8.9   0.1       2.3    8.5   0.1   1.1   1   0   0   1   1   1   0 Os12g0289900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0289900 PE=4 SV=1
+tr|Q8W3G3|Q8W3G3_ORYSJ         -          nup60                -                2.1    8.6   1.2       3.1    8.1   1.2   1.1   1   0   0   1   1   1   0 Os10g0577800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os10g42710 PE=2 SV=1
+tr|A0A0P0X292|A0A0P0X292_ORYSJ -          nup60                -                2.8    8.2   1.9       3.1    8.1   1.9   1.0   1   0   0   1   1   1   0 Os07g0145500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0145500 PE=4 SV=1
+tr|A0A0P0YBV3|A0A0P0YBV3_ORYSJ -          nup60                -                4.4    7.6   3.8       5.1    7.4   3.8   1.0   1   0   0   1   1   1   0 Os12g0590066 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0590066 PE=4 SV=1
+tr|A0A0N7KDR5|A0A0N7KDR5_ORYSJ -          nup60                -                5.1    7.4   5.6       8.5    6.6   5.6   1.3   1   0   0   1   1   1   0 Os01g0750100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0750100 PE=4 SV=1
+tr|A0A0P0VBC7|A0A0P0VBC7_ORYSJ -          nup60                -                6.4    7.0   5.9       7.5    6.8   5.9   1.1   1   0   0   1   1   1   0 Os01g0887700 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0887700 PE=4 SV=1
+tr|Q6ZLD6|Q6ZLD6_ORYSJ         -          nup60                -                7.8    6.8   4.9        11    6.3   4.9   1.1   1   0   0   1   1   1   0 Os07g0179000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0179000 PE=2 SV=1
+tr|A0A0P0V453|A0A0P0V453_ORYSJ -          nup60                -                7.9    6.7   4.1        14    5.9   4.1   1.3   1   0   0   1   1   1   0 Protein FAR1-RELATED SEQUENCE OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0553750 PE=3 SV=1
+tr|A0A0P0VSG8|A0A0P0VSG8_ORYSJ -          nup60                -                8.4    6.6   0.3        13    6.0   0.3   1.2   1   0   0   1   1   1   0 Os03g0122000 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0122000 PE=4 SV=1
+tr|A0A0P0WRK1|A0A0P0WRK1_ORYSJ -          nup60                -                8.9    6.6   1.0        10    6.4   1.0   1.0   1   0   0   1   1   1   0 Os05g0592350 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0592350 PE=4 SV=1
+tr|Q0JC23|Q0JC23_ORYSJ         -          nup60                -                9.2    6.5   3.1        17    5.6   3.1   1.4   1   0   0   1   1   1   0 Os04g0496400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0496400 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/OSATJ/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:22:09 2022
+# [ok]

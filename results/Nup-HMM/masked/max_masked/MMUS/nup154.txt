@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q99P88|NU155_MOUSE          -          nup154               -                  0 1698.1   0.0         0 1696.7   0.0   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+tr|A0A2R8VHH1|A0A2R8VHH1_MOUSE -          nup154               -                  0 1664.2   0.0         0 1662.7   0.0   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+tr|A0A0G2JDL4|A0A0G2JDL4_MOUSE -          nup154               -                6.9    5.7   0.0       8.7    5.4   0.0   1.0   1   0   0   1   1   1   0 Sulfotransferase (Fragment) OS=Mus musculus OX=10090 GN=Ndst4 PE=3 SV=1
+tr|F6Q3W0|F6Q3W0_MOUSE         -          nup154               -                9.9    5.2   0.0        15    4.5   0.0   1.2   1   0   0   1   1   1   0 WD repeat-containing protein 5 (Fragment) OS=Mus musculus OX=10090 GN=Wdr5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:56:35 2022
+# [ok]

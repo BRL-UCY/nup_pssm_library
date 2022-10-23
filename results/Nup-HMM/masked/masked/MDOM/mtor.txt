@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IYC6|A0A498IYC6_MALDO -          mtor                 -              5e-60  204.2  22.6   1.1e-43  150.0  12.8   2.4   2   1   0   2   2   2   2 TPR_MLP1_2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021975 PE=4 SV=1
+tr|A0A498JRR2|A0A498JRR2_MALDO -          mtor                 -            2.5e-56  191.9  25.6   3.4e-39  135.1  16.7   3.0   2   1   0   2   2   2   2 TPR_MLP1_2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_010954 PE=4 SV=1
+tr|A0A498JGU7|A0A498JGU7_MALDO -          mtor                 -               0.36    9.0   2.2      0.44    8.7   2.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024454 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:45 2022
+# [ok]

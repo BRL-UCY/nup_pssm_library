@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q02199|NUP49_YEAST -          nup58                -            4.1e-05   20.6   0.1   4.1e-05   20.6   0.1   3.2   3   1   0   3   3   3   1 Nucleoporin NUP49/NSP49 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP49 PE=1 SV=1
+sp|P80210|PURA_YEAST  -          nup58                -                1.1    6.1   0.0       1.6    5.5   0.0   1.1   1   0   0   1   1   1   0 Adenylosuccinate synthetase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ADE12 PE=1 SV=3
+sp|Q04272|VPS20_YEAST -          nup58                -                1.9    5.3   0.0       2.6    4.8   0.0   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 20 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VPS20 PE=1 SV=3
+sp|P40368|NUP82_YEAST -          nup58                -                  4    4.2   0.1       5.9    3.6   0.1   1.1   1   0   0   1   1   1   0 Nucleoporin NUP82 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP82 PE=1 SV=2
+sp|Q12154|GET3_YEAST  -          nup58                -                4.4    4.1   0.0        42    0.8   0.0   1.8   2   0   0   2   2   2   0 ATPase GET3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GET3 PE=1 SV=1
+sp|P07264|LEUC_YEAST  -          nup58                -                4.9    3.9   0.0       7.3    3.3   0.0   1.1   1   0   0   1   1   1   0 3-isopropylmalate dehydratase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LEU1 PE=1 SV=3
+sp|Q02455|MLP1_YEAST  -          nup58                -                6.4    3.5   0.3        11    2.7   0.3   1.3   1   0   0   1   1   1   0 Protein MLP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLP1 PE=1 SV=2
+sp|P40309|KHA1_YEAST  -          nup58                -                  7    3.4   0.0        10    2.8   0.0   1.1   1   0   0   1   1   1   0 K(+)/H(+) antiporter 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KHA1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:53:05 2022
+# [ok]

@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9Q4V9|E9Q4V9_MOUSE         -          nup107               -                  0 1147.2  22.7         0 1147.0  22.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8BH74|NU107_MOUSE          -          nup107               -                  0 1147.2  22.7         0 1147.0  22.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+tr|A0A1W2P7R1|A0A1W2P7R1_MOUSE -          nup107               -            4.4e-64  218.5   2.1   5.3e-64  218.2   2.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Mus musculus OX=10090 GN=Nup107 PE=1 SV=1
+sp|Q8VCI5|PEX19_MOUSE          -          nup107               -               0.18   11.4   0.1      0.18   11.4   0.1   1.8   2   0   0   2   2   2   0 Peroxisomal biogenesis factor 19 OS=Mus musculus OX=10090 GN=Pex19 PE=1 SV=1
+tr|F6TNB3|F6TNB3_MOUSE         -          nup107               -               0.81    9.2   3.1      0.91    9.1   3.1   1.2   1   0   0   1   1   1   0 Transforming acidic coiled-coil-containing protein 3 (Fragment) OS=Mus musculus OX=10090 GN=Tacc3 PE=1 SV=2
+tr|F7AGT6|F7AGT6_MOUSE         -          nup107               -                1.1    8.8   4.0       1.4    8.4   4.0   1.1   1   0   0   1   1   1   0 Transforming acidic coiled-coil-containing protein 3 (Fragment) OS=Mus musculus OX=10090 GN=Tacc3 PE=1 SV=1
+tr|E9PX59|E9PX59_MOUSE         -          nup107               -                1.5    8.4   0.0       3.1    7.3   0.0   1.4   1   0   0   1   1   1   0 Sterile alpha motif domain-containing protein 9-like OS=Mus musculus OX=10090 GN=Samd9l PE=1 SV=1
+sp|Q69Z37|SAM9L_MOUSE          -          nup107               -                1.5    8.4   0.0       3.1    7.3   0.0   1.4   1   0   0   1   1   1   0 Sterile alpha motif domain-containing protein 9-like OS=Mus musculus OX=10090 GN=Samd9l PE=1 SV=2
+tr|A0A1D5RLQ0|A0A1D5RLQ0_MOUSE -          nup107               -                1.6    8.3   0.3       2.8    7.4   0.3   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+sp|Q8BJ71|NUP93_MOUSE          -          nup107               -                1.9    8.0   0.3       3.6    7.1   0.3   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Mus musculus OX=10090 GN=Nup93 PE=1 SV=1
+tr|J3QPR5|J3QPR5_MOUSE         -          nup107               -                2.1    7.9   1.8       2.9    7.4   1.8   1.1   1   0   0   1   1   1   0 Mitochondria-eating protein (Fragment) OS=Mus musculus OX=10090 GN=Spata18 PE=1 SV=2
+sp|Q8BGS0|MAK16_MOUSE          -          nup107               -                2.7    7.5   5.1       4.3    6.9   5.1   1.3   1   0   0   1   1   1   0 Protein MAK16 homolog OS=Mus musculus OX=10090 GN=Mak16 PE=1 SV=1
+tr|F6UPM1|F6UPM1_MOUSE         -          nup107               -                2.8    7.5   1.0       3.6    7.1   1.0   1.1   1   0   0   1   1   1   0 MLX-interacting protein (Fragment) OS=Mus musculus OX=10090 GN=Mlxip PE=1 SV=1
+sp|O54724|CAVN1_MOUSE          -          nup107               -                3.6    7.1   5.1       5.6    6.5   5.1   1.2   1   0   0   1   1   1   0 Caveolae-associated protein 1 OS=Mus musculus OX=10090 GN=Cavin1 PE=1 SV=1
+sp|A6H6E9|TT23L_MOUSE          -          nup107               -                  4    7.0   0.2       8.8    5.8   0.2   1.5   1   0   0   1   1   1   0 Tetratricopeptide repeat protein 23-like OS=Mus musculus OX=10090 GN=Ttc23l PE=2 SV=1
+tr|Q14BS3|Q14BS3_MOUSE         -          nup107               -                  4    6.9   1.9       7.8    6.0   0.3   1.8   2   0   0   2   2   2   0 4930550C14Rik protein OS=Mus musculus OX=10090 GN=4930550C14Rik PE=2 SV=1
+tr|A0A338P6B7|A0A338P6B7_MOUSE -          nup107               -                4.1    6.9   0.2       8.7    5.8   0.2   1.5   1   0   0   1   1   1   0 MCG18320, isoform CRA_b OS=Mus musculus OX=10090 GN=Ttc23l PE=4 SV=1
+tr|G5E8D8|G5E8D8_MOUSE         -          nup107               -                4.3    6.9   0.5       6.7    6.2   0.5   1.2   1   0   0   1   1   1   0 MLX interacting protein, isoform CRA_a OS=Mus musculus OX=10090 GN=Mlxip PE=1 SV=1
+sp|Q2VPU4|MLXIP_MOUSE          -          nup107               -                4.3    6.9   0.5       6.7    6.2   0.5   1.2   1   0   0   1   1   1   0 MLX-interacting protein OS=Mus musculus OX=10090 GN=Mlxip PE=1 SV=1
+tr|E9QAP8|E9QAP8_MOUSE         -          nup107               -                5.4    6.5   4.3       9.2    5.8   4.3   1.3   1   0   0   1   1   1   0 Mitochondria-eating protein OS=Mus musculus OX=10090 GN=Spata18 PE=1 SV=3
+tr|A0A087WQR6|A0A087WQR6_MOUSE -          nup107               -                5.5    6.5   0.2         8    6.0   0.2   1.2   1   0   0   1   1   1   0 Tripeptidyl-peptidase 2 (Fragment) OS=Mus musculus OX=10090 GN=Tpp2 PE=1 SV=1
+tr|F6TQL3|F6TQL3_MOUSE         -          nup107               -                6.7    6.2   3.0       8.3    5.9   3.0   1.1   1   0   0   1   1   1   0 DnaJ homolog subfamily C member 8 (Fragment) OS=Mus musculus OX=10090 GN=Dnajc8 PE=1 SV=1
+sp|Q0P557|MIEAP_MOUSE          -          nup107               -                6.8    6.2   3.3        11    5.5   3.3   1.3   1   0   0   1   1   1   0 Mitochondria-eating protein OS=Mus musculus OX=10090 GN=Spata18 PE=1 SV=2
+sp|Q9WUP0|RAMP2_MOUSE          -          nup107               -                  7    6.1   0.0       8.2    5.9   0.0   1.0   1   0   0   1   1   1   0 Receptor activity-modifying protein 2 OS=Mus musculus OX=10090 GN=Ramp2 PE=1 SV=1
+tr|B1AS03|B1AS03_MOUSE         -          nup107               -                  7    6.1   1.6       7.5    6.1   1.6   1.0   1   0   0   1   1   1   0 Protein LZIC (Fragment) OS=Mus musculus OX=10090 GN=Lzic PE=1 SV=1
+tr|D3Z5N2|D3Z5N2_MOUSE         -          nup107               -                7.1    6.1   6.2       8.4    5.9   6.2   1.1   1   0   0   1   1   1   0 Stathmin OS=Mus musculus OX=10090 GN=Stmn1 PE=1 SV=1
+tr|B1AS04|B1AS04_MOUSE         -          nup107               -                7.8    6.0   1.6         8    5.9   1.6   1.0   1   0   0   1   1   1   0 Protein LZIC (Fragment) OS=Mus musculus OX=10090 GN=Lzic PE=1 SV=1
+tr|A0A1Y7VKX7|A0A1Y7VKX7_MOUSE -          nup107               -                7.9    6.0   0.5        12    5.4   0.5   1.2   1   0   0   1   1   1   0 ATP-dependent RNA helicase DDX24 OS=Mus musculus OX=10090 GN=Ddx24 PE=1 SV=1
+tr|A0A1B0GSX7|A0A1B0GSX7_MOUSE -          nup107               -                8.2    5.9   0.1        26    4.3   0.1   1.7   2   0   0   2   2   2   0 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|D3Z342|D3Z342_MOUSE         -          nup107               -                8.4    5.9   0.0        11    5.5   0.0   1.1   1   0   0   1   1   1   0 Paraplegin (Fragment) OS=Mus musculus OX=10090 GN=Spg7 PE=1 SV=1
+tr|D3YTM3|D3YTM3_MOUSE         -          nup107               -                8.5    5.9   0.9        14    5.2   0.1   1.6   1   1   1   2   2   2   0 Noelin-3 (Fragment) OS=Mus musculus OX=10090 GN=Olfm3 PE=1 SV=1
+tr|A0A0A6YXA7|A0A0A6YXA7_MOUSE -          nup107               -                8.5    5.9   0.0       9.2    5.8   0.0   1.0   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase (Fragment) OS=Mus musculus OX=10090 GN=Arih2 PE=1 SV=1
+sp|Q9EQR6|FANCG_MOUSE          -          nup107               -                8.5    5.9   0.1        18    4.8   0.1   1.4   1   0   0   1   1   1   0 Fanconi anemia group G protein homolog OS=Mus musculus OX=10090 GN=Fancg PE=2 SV=1
+sp|Q9D9H3|MB3L1_MOUSE          -          nup107               -                8.7    5.8   0.1       9.3    5.7   0.1   1.1   1   0   0   1   1   1   0 Methyl-CpG-binding domain protein 3-like 1 OS=Mus musculus OX=10090 GN=Mbd3l1 PE=2 SV=1
+sp|O35047|HOP2_MOUSE           -          nup107               -                9.3    5.7   2.2        12    5.4   2.2   1.1   1   0   0   1   1   1   0 Homologous-pairing protein 2 homolog OS=Mus musculus OX=10090 GN=Psmc3ip PE=1 SV=1
+tr|F6ZC60|F6ZC60_MOUSE         -          nup107               -                9.3    5.7   1.7        11    5.5   1.7   1.3   1   0   0   1   1   1   0 Lysine-specific histone demethylase 1A (Fragment) OS=Mus musculus OX=10090 GN=Kdm1a PE=1 SV=1
+tr|H3BK81|H3BK81_MOUSE         -          nup107               -                9.6    5.7   0.5       9.9    5.6   0.5   1.0   1   0   0   1   1   1   0 Cytohesin-3 (Fragment) OS=Mus musculus OX=10090 GN=Cyth3 PE=1 SV=1
+sp|Q6PFD9|NUP98_MOUSE          -          nup107               -                9.7    5.7   0.3        26    4.3   0.1   1.6   2   0   0   2   2   2   0 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:01:15 2022
+# [ok]

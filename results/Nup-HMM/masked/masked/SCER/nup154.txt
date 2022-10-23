@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P38181|NU170_YEAST -          nup154               -           3.6e-167  556.8   4.3   8.4e-96  320.3   3.5   4.1   3   1   0   3   3   3   3 Nucleoporin NUP170 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP170 PE=1 SV=1
+sp|P40064|NU157_YEAST -          nup154               -           1.5e-146  488.4   4.7   5.5e-97  324.2   0.4   3.7   2   2   0   2   2   2   2 Nucleoporin NUP157 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP157 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:41 2022
+# [ok]

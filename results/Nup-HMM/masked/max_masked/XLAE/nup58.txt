@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5EAX5|Q5EAX5_XENLA         -          nup58                -           4.8e-114  382.7   0.0  4.8e-114  382.7   0.0   2.6   2   1   1   3   3   3   1 MGC84997 protein OS=Xenopus laevis OX=8355 GN=nup58 PE=1 SV=1
+tr|A0A1L8HAS4|A0A1L8HAS4_XENLA -          nup58                -           6.5e-114  382.2   2.6  1.2e-113  381.4   0.0   2.4   3   0   0   3   3   3   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016222mg PE=4 SV=1
+tr|A0A1L8HJ76|A0A1L8HJ76_XENLA -          nup58                -           2.7e-112  376.9   0.0  2.7e-112  376.9   0.0   3.0   1   1   1   2   2   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013773mg PE=1 SV=1
+tr|A0A1L8HJ31|A0A1L8HJ31_XENLA -          nup58                -           1.1e-104  351.8   2.5    1e-103  348.6   0.0   2.9   2   1   0   2   2   2   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013773mg PE=1 SV=1
+tr|A0A1L8H7K3|A0A1L8H7K3_XENLA -          nup58                -                5.1    6.7   0.2       8.1    6.0   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=tekt2 PE=1 SV=1
+tr|A0A1L8GL01|A0A1L8GL01_XENLA -          nup58                -                6.1    6.5   0.2         7    6.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18022663mg PE=4 SV=1
+tr|Q6GNZ2|Q6GNZ2_XENLA         -          nup58                -                9.5    5.8   0.7       9.7    5.8   0.7   1.1   1   0   0   1   1   1   0 MGC80776 protein OS=Xenopus laevis OX=8355 GN=ssna1 PE=1 SV=1
+tr|A0A1L8I2R5|A0A1L8I2R5_XENLA -          nup58                -                9.7    5.8   0.3        13    5.4   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008445mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:07:57 2022
+# [ok]

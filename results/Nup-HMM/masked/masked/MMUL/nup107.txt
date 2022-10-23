@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7AS82|F7AS82_MACMU -          nup107               -                  0 1024.2  10.0         0 1024.0  10.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=2
+tr|F7AS65|F7AS65_MACMU -          nup107               -                  0 1023.6  10.0         0 1023.4  10.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=2 SV=2
+tr|F6PUD9|F6PUD9_MACMU -          nup107               -           2.1e-260  867.6  10.3  1.4e-168  563.9   2.5   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein OS=Macaca mulatta OX=9544 GN=NUP107 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:59 2022
+# [ok]

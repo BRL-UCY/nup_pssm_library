@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q03790|NUP53_YEAST -          nup53                -            2.5e-08   32.7   0.0   0.00033   19.1   0.0   2.1   2   0   0   2   2   2   2 Nucleoporin NUP53 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP53 PE=1 SV=1
+sp|Q05166|NUP59_YEAST -          nup53                -            6.4e-07   28.0   0.0   0.00038   18.9   0.0   2.1   2   0   0   2   2   2   2 Nucleoporin ASM4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ASM4 PE=1 SV=1
+sp|Q12198|METW_YEAST  -          nup53                -               0.76    8.0   0.0       1.1    7.5   0.0   1.1   1   0   0   1   1   1   0 Putative cystathionine gamma-synthase YLL058W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YLL058W PE=1 SV=1
+sp|Q04533|METX_YEAST  -          nup53                -               0.97    7.7   0.0       1.4    7.2   0.0   1.1   1   0   0   1   1   1   0 Putative cystathionine gamma-synthase YML082W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML082W PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:53:51 2022
+# [ok]

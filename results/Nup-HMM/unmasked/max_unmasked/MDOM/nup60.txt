@@ -1,0 +1,45 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IIR4|A0A498IIR4_MALDO -          nup60                -               0.92    9.6   0.5       1.9    8.6   0.5   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036356 PE=4 SV=1
+tr|A0A498IPU9|A0A498IPU9_MALDO -          nup60                -               0.97    9.5   0.0       1.4    9.0   0.0   1.2   1   0   0   1   1   1   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_026986 PE=3 SV=1
+tr|A0A498ISU3|A0A498ISU3_MALDO -          nup60                -                1.3    9.2   5.7       1.8    8.6   5.7   1.2   1   0   0   1   1   1   0 HSF_DOMAIN domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017382 PE=3 SV=1
+tr|A0A498I4I0|A0A498I4I0_MALDO -          nup60                -                1.5    8.9   5.9       1.9    8.6   5.9   1.1   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019725 PE=4 SV=1
+tr|A0A498IL61|A0A498IL61_MALDO -          nup60                -                1.9    8.6   0.0       3.5    7.7   0.0   1.3   1   0   0   1   1   1   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_026985 PE=3 SV=1
+tr|A0A498IV95|A0A498IV95_MALDO -          nup60                -                  2    8.5   3.3       2.3    8.3   3.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028610 PE=4 SV=1
+tr|A0A498HT69|A0A498HT69_MALDO -          nup60                -                2.2    8.3   4.0      0.53   10.4   0.5   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012856 PE=4 SV=1
+tr|A0A498IQ42|A0A498IQ42_MALDO -          nup60                -                2.8    8.0   0.0        10    6.2   0.0   1.8   2   0   0   2   2   2   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_026981 PE=3 SV=1
+tr|A0A498JH68|A0A498JH68_MALDO -          nup60                -                2.8    8.0   1.7         4    7.5   1.7   1.1   1   0   0   1   1   1   0 Trehalose 6-phosphate phosphatase OS=Malus domestica OX=3750 GN=DVH24_024873 PE=3 SV=1
+tr|A0A498K3U4|A0A498K3U4_MALDO -          nup60                -                2.9    8.0   0.0       4.4    7.4   0.0   1.2   1   0   0   1   1   1   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002948 PE=3 SV=1
+tr|A0A498HHR1|A0A498HHR1_MALDO -          nup60                -                3.3    7.8   5.9       4.8    7.3   5.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030994 PE=4 SV=1
+tr|A0A498ICT2|A0A498ICT2_MALDO -          nup60                -                3.4    7.8   5.8       6.6    6.8   5.8   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005180 PE=4 SV=1
+tr|A0A498J184|A0A498J184_MALDO -          nup60                -                4.5    7.3   3.5       5.2    7.1   3.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034632 PE=4 SV=1
+tr|A0A498HSW1|A0A498HSW1_MALDO -          nup60                -                4.8    7.2  14.2       6.3    6.9  14.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012241 PE=4 SV=1
+tr|A0A498K6H7|A0A498K6H7_MALDO -          nup60                -                5.1    7.2   2.4       4.8    7.2   2.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003803 PE=4 SV=1
+tr|A0A498KLP6|A0A498KLP6_MALDO -          nup60                -                5.6    7.0   4.0       7.1    6.7   4.0   1.1   1   0   0   1   1   1   0 FYVE-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018305 PE=4 SV=1
+tr|A0A498KTW5|A0A498KTW5_MALDO -          nup60                -                6.7    6.8   4.6       8.4    6.4   4.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023313 PE=4 SV=1
+tr|A0A498IWT1|A0A498IWT1_MALDO -          nup60                -                6.7    6.8   1.9        10    6.2   1.9   1.2   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_034550 PE=4 SV=1
+tr|A0A498IRI2|A0A498IRI2_MALDO -          nup60                -                6.9    6.7   0.0        12    6.0   0.0   1.3   1   0   0   1   1   1   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_026980 PE=3 SV=1
+tr|A0A498ICK4|A0A498ICK4_MALDO -          nup60                -                7.4    6.6   2.0       9.4    6.3   2.0   1.1   1   0   0   1   1   1   0 Transcription repressor OS=Malus domestica OX=3750 GN=DVH24_034849 PE=4 SV=1
+tr|A0A498KLD0|A0A498KLD0_MALDO -          nup60                -                7.4    6.6   0.8        11    6.1   0.8   1.1   1   0   0   1   1   1   0 Trehalose 6-phosphate phosphatase OS=Malus domestica OX=3750 GN=DVH24_022441 PE=3 SV=1
+tr|A0A498IUG9|A0A498IUG9_MALDO -          nup60                -                7.6    6.6   5.5        14    5.7   5.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041771 PE=3 SV=1
+tr|A0A498IH70|A0A498IH70_MALDO -          nup60                -                8.1    6.5   1.3       8.3    6.5   1.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004497 PE=4 SV=1
+tr|A0A498J1U1|A0A498J1U1_MALDO -          nup60                -                8.1    6.5   0.2       9.3    6.3   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042395 PE=4 SV=1
+tr|A0A498JRK3|A0A498JRK3_MALDO -          nup60                -                8.4    6.4   1.5       9.5    6.3   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010130 PE=4 SV=1
+tr|A0A498KAU2|A0A498KAU2_MALDO -          nup60                -                8.4    6.4   3.6       8.6    6.4   3.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006717 PE=4 SV=1
+tr|A0A498IWV7|A0A498IWV7_MALDO -          nup60                -                8.5    6.4   1.2        10    6.2   1.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037544 PE=4 SV=1
+tr|A0A498KPB6|A0A498KPB6_MALDO -          nup60                -                8.6    6.4   3.1       9.7    6.2   3.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005325 PE=3 SV=1
+tr|A0A498HMZ3|A0A498HMZ3_MALDO -          nup60                -                8.9    6.4   3.3       9.6    6.3   3.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012510 PE=4 SV=1
+tr|A0A498JAW0|A0A498JAW0_MALDO -          nup60                -                9.1    6.3   2.8        10    6.2   2.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020277 PE=4 SV=1
+tr|A0A498IHD1|A0A498IHD1_MALDO -          nup60                -                9.4    6.3   6.0       9.4    6.3   6.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004845 PE=4 SV=1
+tr|A0A498JPG5|A0A498JPG5_MALDO -          nup60                -                9.5    6.3   2.3        14    5.7   2.3   1.2   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_009983 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:00:35 2022
+# [ok]

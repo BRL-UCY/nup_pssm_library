@@ -1,0 +1,32 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0RYQ5|G0RYQ5_CHATD -          gp210                -              0.032    9.6   1.8     0.037    9.4   1.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0007520 PE=4 SV=1
+tr|G0SBU9|G0SBU9_CHATD -          gp210                -                1.5    4.1   0.4       2.2    3.6   0.4   1.0   1   0   0   1   1   1   0 Ubiquitin-protein ligase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0054870 PE=4 SV=1
+tr|G0SEF5|G0SEF5_CHATD -          gp210                -                1.7    4.0   0.4       2.1    3.6   0.4   1.1   1   0   0   1   1   1   0 ENDO3c domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0063560 PE=4 SV=1
+tr|G0S2E9|G0S2E9_CHATD -          gp210                -                  2    3.7   0.1       2.5    3.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0016990 PE=4 SV=1
+tr|G0SHX1|G0SHX1_CHATD -          gp210                -                  2    3.7   0.8       3.5    2.9   0.8   1.3   1   0   0   1   1   1   0 Serine/threonine protein kinase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0073670 PE=3 SV=1
+tr|G0S9A9|G0S9A9_CHATD -          gp210                -                2.5    3.4   0.6       3.3    3.0   0.6   1.0   1   0   0   1   1   1   0 CAP10 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0045170 PE=4 SV=1
+tr|G0S4R6|G0S4R6_CHATD -          gp210                -                3.4    2.9   0.0       4.4    2.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0023270 PE=4 SV=1
+tr|G0RZW5|G0RZW5_CHATD -          gp210                -                3.5    2.9   0.0       5.6    2.2   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0007870 PE=4 SV=1
+tr|G0RYX3|G0RYX3_CHATD -          gp210                -                3.8    2.8   0.6         5    2.4   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0000900 PE=4 SV=1
+tr|G0SGB7|G0SGB7_CHATD -          gp210                -                4.2    2.6   0.9       5.8    2.2   0.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0065750 PE=4 SV=1
+tr|G0RY76|G0RY76_CHATD -          gp210                -                5.1    2.3   0.0       5.1    2.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0005700 PE=4 SV=1
+tr|G0S3J1|G0S3J1_CHATD -          gp210                -                5.4    2.3   0.1         8    1.7   0.1   1.1   1   0   0   1   1   1   0 Putative phosphate metabolism protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0021440 PE=3 SV=1
+tr|G0S987|G0S987_CHATD -          gp210                -                5.4    2.3   0.8       6.5    2.0   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0044950 PE=4 SV=1
+tr|G0S1R3|G0S1R3_CHATD -          gp210                -                5.4    2.3   0.0       8.1    1.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0014520 PE=4 SV=1
+tr|G0SG19|G0SG19_CHATD -          gp210                -                5.9    2.1   0.1       7.6    1.8   0.1   1.0   1   0   0   1   1   1   0 Phosphatidate cytidylyltransferase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0064720 PE=3 SV=1
+tr|G0RZK9|G0RZK9_CHATD -          gp210                -                7.1    1.9   0.0       8.6    1.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003320 PE=4 SV=1
+tr|G0S4D3|G0S4D3_CHATD -          gp210                -                7.3    1.8   0.0        11    1.3   0.0   1.1   1   0   0   1   1   1   0 Synthetase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0039770 PE=4 SV=1
+tr|G0RZ22|G0RZ22_CHATD -          gp210                -                7.7    1.8   1.5        11    1.3   1.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0001430 PE=4 SV=1
+tr|G0SEM7|G0SEM7_CHATD -          gp210                -                9.5    1.4   0.0        11    1.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0064300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CTHE/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:48:58 2022
+# [ok]

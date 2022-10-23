@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8J6L2|A8J6L2_CHLRE         -          nup60                -              0.076   12.0   1.4     0.071   12.1   1.4   1.1   1   0   0   1   1   1   0 Deflagellation inducible protein OS=Chlamydomonas reinhardtii OX=3055 GN=DIP13 PE=4 SV=1
+tr|A0A2K3CQW5|A0A2K3CQW5_CHLRE -          nup60                -                5.7    5.8   0.5       7.3    5.5   0.5   1.0   1   0   0   1   1   1   0 Sulfiredoxin OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g729950v5 PE=3 SV=1
+tr|A0A2K3CTJ1|A0A2K3CTJ1_CHLRE -          nup60                -                6.3    5.7  12.1       7.5    5.4  12.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g660850v5 PE=4 SV=1
+tr|A0A2K3DDE0|A0A2K3DDE0_CHLRE -          nup60                -                6.8    5.6   4.3       8.3    5.3   4.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g392654v5 PE=4 SV=1
+tr|A0A2K3E027|A0A2K3E027_CHLRE -          nup60                -                6.9    5.6   1.4        11    4.9   0.3   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g074800v5 PE=3 SV=1
+tr|A0A2K3DJE2|A0A2K3DJE2_CHLRE -          nup60                -                7.2    5.5   0.1        10    5.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325722v5 PE=3 SV=1
+tr|A0A2K3DJE4|A0A2K3DJE4_CHLRE -          nup60                -                7.2    5.5   0.1        10    5.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325722v5 PE=3 SV=1
+tr|A0A2K3DJD3|A0A2K3DJD3_CHLRE -          nup60                -                7.4    5.5   0.1        11    4.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325722v5 PE=3 SV=1
+tr|A0A2K3E4H6|A0A2K3E4H6_CHLRE -          nup60                -                7.5    5.4   6.8        10    5.0   6.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g143027v5 PE=4 SV=1
+tr|A8I5S5|A8I5S5_CHLRE         -          nup60                -                8.2    5.3   1.8        12    4.7   1.8   1.2   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g247950v5 PE=4 SV=1
+tr|Q39576|Q39576_CHLRE         -          nup60                -                9.2    5.1  40.9       9.2    5.2  40.9   1.2   1   0   0   1   1   1   0 Histone H1 OS=Chlamydomonas reinhardtii OX=3055 GN=ch1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:28:18 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8EPE3|A0A1L8EPE3_XENLA -          nup53                -           3.7e-104  350.4  11.0    1e-102  345.7  11.0   2.3   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=XELAEV_18047247mg PE=1 SV=1
+tr|A0A1L8EWH5|A0A1L8EWH5_XENLA -          nup53                -           3.2e-103  347.3  13.2  1.8e-101  341.6  13.2   2.5   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=XELAEV_18044791mg PE=3 SV=1
+tr|A0A1L8EPF0|A0A1L8EPF0_XENLA -          nup53                -           1.4e-100  338.7  15.5   5.8e-99  333.4  15.5   2.7   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Xenopus laevis OX=8355 GN=nup35 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/XLAE/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:30:04 2022
+# [ok]

@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P49792|RBP2_HUMAN           -          nup358               -                  0 3155.8   4.3         0 2043.6   0.0   6.1   2   1   4   6   6   6   6 E3 SUMO-protein ligase RanBP2 OS=Homo sapiens OX=9606 GN=RANBP2 PE=1 SV=2
+sp|O14715|RGPD8_HUMAN          -          nup358               -                  0 1968.9   0.0         0 1414.4   0.2   3.1   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 8 OS=Homo sapiens OX=9606 GN=RGPD8 PE=1 SV=2
+sp|Q99666|RGPD5_HUMAN          -          nup358               -                  0 1964.3   0.0         0 1412.1   0.4   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 5/6 OS=Homo sapiens OX=9606 GN=RGPD5 PE=1 SV=3
+sp|Q7Z3J3|RGPD4_HUMAN          -          nup358               -                  0 1944.0   0.0         0 1357.2   2.6   3.1   1   1   2   3   3   3   3 RanBP2-like and GRIP domain-containing protein 4 OS=Homo sapiens OX=9606 GN=RGPD4 PE=2 SV=3
+tr|A0A286YES2|A0A286YES2_HUMAN -          nup358               -                  0 1918.8   0.0         0 1335.5   2.6   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RGPD1 PE=4 SV=1
+tr|F8VYC4|F8VYC4_HUMAN         -          nup358               -                  0 1914.8   0.0         0 1331.2   2.8   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RGPD1 PE=4 SV=1
+sp|P0DJD1|RGPD2_HUMAN          -          nup358               -                  0 1910.5   0.0         0 1331.2   2.8   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 2 OS=Homo sapiens OX=9606 GN=RGPD2 PE=2 SV=1
+tr|A0A1W2PNU4|A0A1W2PNU4_HUMAN -          nup358               -                  0 1910.5   0.0         0 1331.2   2.8   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 2 OS=Homo sapiens OX=9606 GN=RGPD2 PE=4 SV=1
+sp|A6NKT7|RGPD3_HUMAN          -          nup358               -                  0 1908.0   0.0         0 1363.7   1.2   3.1   1   1   2   3   3   3   3 RanBP2-like and GRIP domain-containing protein 3 OS=Homo sapiens OX=9606 GN=RGPD3 PE=3 SV=2
+sp|P0DJD0|RGPD1_HUMAN          -          nup358               -                  0 1887.7   0.2         0 1302.1   5.8   3.0   1   1   2   3   3   3   3 RANBP2-like and GRIP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RGPD1 PE=2 SV=1
+tr|J3KNE0|J3KNE0_HUMAN         -          nup358               -                  0 1882.2   0.0         0 1338.6   0.5   3.1   1   1   2   3   3   3   3 RanBP2-like and GRIP domain-containing protein 3 OS=Homo sapiens OX=9606 GN=RGPD3 PE=4 SV=2
+tr|J3KQ37|J3KQ37_HUMAN         -          nup358               -                  0 1736.3   0.0  6.3e-239  798.5   0.0   4.1   1   1   3   4   4   4   4 RANBP2-like and GRIP domain-containing protein 8 OS=Homo sapiens OX=9606 GN=RGPD8 PE=1 SV=1
+tr|F8W705|F8W705_HUMAN         -          nup358               -                  0 1365.1   6.3         0 1364.8   6.3   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 8 OS=Homo sapiens OX=9606 GN=RGPD8 PE=1 SV=1
+tr|C9J6W1|C9J6W1_HUMAN         -          nup358               -            5.6e-83  281.1   1.7   6.6e-83  280.9   1.7   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD8 PE=4 SV=1
+tr|C9JF75|C9JF75_HUMAN         -          nup358               -            1.6e-75  256.4   0.8   1.7e-75  256.3   0.8   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD6 PE=1 SV=1
+tr|C9J1W9|C9J1W9_HUMAN         -          nup358               -            9.8e-75  253.8   0.7   1.1e-74  253.6   0.7   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD5 PE=1 SV=1
+tr|H0YBN8|H0YBN8_HUMAN         -          nup358               -            1.3e-59  203.6   0.9   1.4e-59  203.5   0.9   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD5 PE=4 SV=1
+sp|P43487|RANG_HUMAN           -          nup358               -            3.9e-43  148.9   0.0   4.8e-43  148.6   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=1
+tr|F6WQW2|F6WQW2_HUMAN         -          nup358               -            2.9e-42  146.0   0.0   3.7e-42  145.7   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=1
+tr|C9JJ34|C9JJ34_HUMAN         -          nup358               -            2.1e-40  139.9   0.0   2.5e-40  139.6   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein (Fragment) OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=1
+tr|C9JXG8|C9JXG8_HUMAN         -          nup358               -            1.5e-35  123.8   0.0   1.7e-35  123.6   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein (Fragment) OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=2
+tr|C9JGV6|C9JGV6_HUMAN         -          nup358               -            4.3e-35  122.3   0.0   5.1e-35  122.0   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein (Fragment) OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=8
+tr|C9J1P2|C9J1P2_HUMAN         -          nup358               -            4.4e-22   79.1   1.0   4.7e-22   79.0   1.0   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD6 PE=4 SV=1
+tr|F8WBP7|F8WBP7_HUMAN         -          nup358               -            3.1e-19   69.6   0.2   3.6e-19   69.4   0.2   1.0   1   0   0   1   1   1   1 E3 SUMO-protein ligase RanBP2 OS=Homo sapiens OX=9606 GN=RANBP2 PE=1 SV=1
+tr|C9JIC6|C9JIC6_HUMAN         -          nup358               -            2.4e-16   60.1   0.0   2.6e-16   60.0   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein (Fragment) OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=1
+tr|C9JDM3|C9JDM3_HUMAN         -          nup358               -            1.7e-13   50.6   0.0   1.9e-13   50.4   0.0   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein (Fragment) OS=Homo sapiens OX=9606 GN=RANBP1 PE=1 SV=8
+sp|P49790|NU153_HUMAN          -          nup358               -            7.5e-13   48.5   9.1   6.7e-09   35.4   0.1   2.8   4   0   0   4   4   4   2 Nuclear pore complex protein Nup153 OS=Homo sapiens OX=9606 GN=NUP153 PE=1 SV=2
+sp|Q86VV4|RNB3L_HUMAN          -          nup358               -            5.9e-09   35.6   0.1   7.6e-09   35.2   0.1   1.0   1   0   0   1   1   1   1 Ran-binding protein 3-like OS=Homo sapiens OX=9606 GN=RANBP3L PE=1 SV=2
+tr|H7C1V8|H7C1V8_HUMAN         -          nup358               -            2.5e-07   30.1   0.0   2.6e-07   30.1   0.0   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD1 PE=4 SV=1
+tr|H7BZ48|H7BZ48_HUMAN         -          nup358               -            1.1e-06   28.0   0.0   1.2e-06   27.8   0.0   1.0   1   0   0   1   1   1   1 RANBP2-like and GRIP domain-containing protein 5/6 (Fragment) OS=Homo sapiens OX=9606 GN=RGPD6 PE=4 SV=1
+tr|B7Z7F3|B7Z7F3_HUMAN         -          nup358               -            6.6e-06   25.4   0.0   8.4e-06   25.1   0.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 3 OS=Homo sapiens OX=9606 GN=RANBP3 PE=1 SV=1
+sp|Q9H6Z4|RANB3_HUMAN          -          nup358               -            8.2e-06   25.1   0.0     1e-05   24.8   0.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 3 OS=Homo sapiens OX=9606 GN=RANBP3 PE=1 SV=1
+tr|K7EIJ4|K7EIJ4_HUMAN         -          nup358               -            1.2e-05   24.5   0.0   1.4e-05   24.3   0.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 3 (Fragment) OS=Homo sapiens OX=9606 GN=RANBP3 PE=1 SV=1
+sp|Q9UKX7|NUP50_HUMAN          -          nup358               -             0.0056   15.7   0.0    0.0071   15.4   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 OS=Homo sapiens OX=9606 GN=NUP50 PE=1 SV=2
+tr|A0A286YEQ5|A0A286YEQ5_HUMAN -          nup358               -               0.27   10.1   0.0      0.29   10.0   0.0   1.0   1   0   0   1   1   1   0 RANBP2-like and GRIP domain-containing protein 1 OS=Homo sapiens OX=9606 GN=RGPD1 PE=4 SV=1
+sp|Q9UJX2|CDC23_HUMAN          -          nup358               -                2.7    6.8   4.8      0.82    8.5   0.2   2.2   3   0   0   3   3   3   0 Cell division cycle protein 23 homolog OS=Homo sapiens OX=9606 GN=CDC23 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:18 2022
+# [ok]

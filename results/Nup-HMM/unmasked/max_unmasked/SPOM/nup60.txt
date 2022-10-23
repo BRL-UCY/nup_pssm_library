@@ -1,0 +1,37 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74500|NUP60_SCHPO -          nup60                -           3.7e-201  668.1  82.4  3.7e-201  668.1  82.4   2.4   1   1   2   3   3   2   1 Nucleoporin nup60 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup60 PE=1 SV=1
+sp|P50519|HSP9_SCHPO  -          nup60                -             0.0041   14.3   3.1    0.0048   14.1   3.1   1.0   1   0   0   1   1   1   1 Heat shock protein hsp9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hsp9 PE=2 SV=1
+sp|Q10315|BUR6_SCHPO  -          nup60                -              0.058   10.5  11.0     0.077   10.1  11.0   1.1   1   0   0   1   1   1   0 Transcription regulator complex subunit bur6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bur6 PE=3 SV=1
+sp|Q92383|MAG1_SCHPO  -          nup60                -               0.34    8.0   0.3         1    6.4   0.1   1.7   2   0   0   2   2   2   0 DNA-3-methyladenine glycosylase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mag1 PE=1 SV=1
+sp|P87239|MDJ1_SCHPO  -          nup60                -               0.81    6.8   3.0       1.4    6.0   3.0   1.3   1   0   0   1   1   1   0 DnaJ homolog 1, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mdj1 PE=3 SV=1
+sp|Q9URX9|PXR1_SCHPO  -          nup60                -                1.9    5.6  23.6       2.3    5.3  23.6   1.1   1   0   0   1   1   1   0 Protein pxr1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pxr1 PE=1 SV=1
+sp|O13719|LAF1_SCHPO  -          nup60                -                3.6    4.6   0.9       5.1    4.1   0.9   1.2   1   0   0   1   1   1   0 SWIRM domain-containing protein laf1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=laf1 PE=1 SV=1
+sp|Q9Y7T7|PRP28_SCHPO -          nup60                -                3.7    4.6   5.9         7    3.7   5.9   1.4   1   0   0   1   1   1   0 Pre-mRNA-splicing ATP-dependent RNA helicase prp28 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=prp28 PE=3 SV=1
+sp|Q9C0V9|YNH1_SCHPO  -          nup60                -                4.1    4.4  10.7       5.1    4.1  10.7   1.2   1   0   0   1   1   1   0 UPF0589 protein C32H8.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC32H8.01c PE=3 SV=1
+sp|O14129|RAD55_SCHPO -          nup60                -                  5    4.2   2.9       9.5    3.2   2.9   1.5   1   0   0   1   1   1   0 DNA repair protein rhp55 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rhp55 PE=1 SV=1
+sp|O74469|YQC7_SCHPO  -          nup60                -                5.4    4.0   1.4       6.1    3.9   1.4   1.1   1   0   0   1   1   1   0 Exosome complex protein C1739.07 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1739.07 PE=1 SV=1
+sp|Q9UT40|YIQ3_SCHPO  -          nup60                -                6.1    3.9   0.0       8.1    3.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein C824.03c, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC824.03c PE=4 SV=1
+sp|O74348|YO88_SCHPO  -          nup60                -                6.9    3.7   2.8       9.9    3.2   2.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein C21D10.08c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC21D10.08c PE=4 SV=1
+sp|O74790|GLRX4_SCHPO -          nup60                -                7.5    3.6   0.7        11    3.1   0.7   1.2   1   0   0   1   1   1   0 Monothiol glutaredoxin-4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=grx4 PE=1 SV=1
+sp|Q9P7C1|YKU3_SCHPO  -          nup60                -                7.9    3.5   0.8        11    3.1   0.8   1.2   1   0   0   1   1   1   0 Uncharacterized J domain-containing protein C2E1P5.03 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC2E1P5.03 PE=3 SV=1
+sp|Q92346|YDH1_SCHPO  -          nup60                -                8.1    3.5   4.5       8.8    3.3   4.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein C6G9.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC6G9.01c PE=4 SV=2
+sp|O74174|VATG_SCHPO  -          nup60                -                8.3    3.4   7.4       8.9    3.3   7.4   1.1   1   0   0   1   1   1   0 V-type proton ATPase subunit G OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vma10 PE=3 SV=2
+sp|O94465|CMS1_SCHPO  -          nup60                -                8.4    3.4   6.5        12    2.9   6.5   1.2   1   0   0   1   1   1   0 Protein cms1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cms1 PE=3 SV=1
+sp|G2TRT4|NEW25_SCHPO -          nup60                -                8.7    3.4   1.4       8.2    3.5   1.4   1.0   1   0   0   1   1   1   0 SAP domain-containing new25 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=new25 PE=2 SV=1
+sp|O59816|ODP2_SCHPO  -          nup60                -                  9    3.3   1.9        13    2.8   1.9   1.2   1   0   0   1   1   1   0 Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=lat1 PE=3 SV=1
+sp|Q96WV2|YJO2_SCHPO  -          nup60                -                9.3    3.3   1.3        15    2.6   1.3   1.3   1   0   0   1   1   1   0 Uncharacterized PH domain-containing protein PB16A4.02c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCPB16A4.02c PE=4 SV=2
+sp|O14146|VPS51_SCHPO -          nup60                -                9.3    3.3   1.9        12    2.9   1.9   1.3   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 51 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vps51 PE=1 SV=1
+sp|Q92363|YEJL_SCHPO  -          nup60                -                9.4    3.3   8.1        11    3.1   8.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein C31G5.21 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=N118 PE=4 SV=1
+sp|Q9Y7T9|YCJD_SCHPO  -          nup60                -                9.7    3.2   4.8        12    2.9   4.8   1.1   1   0   0   1   1   1   0 Uncharacterized J domain-containing protein C63.13 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC63.13 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/SPOM/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:35:44 2022
+# [ok]

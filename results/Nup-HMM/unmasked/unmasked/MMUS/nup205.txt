@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B9EJ54|B9EJ54_MOUSE         -          nup205               -                  0 2776.4  31.2         0 2773.0  31.2   1.9   1   1   0   1   1   1   1 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          nup205               -                  0 2776.2  31.2         0 2772.8  31.2   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|E9Q880|E9Q880_MOUSE         -          nup205               -           9.3e-133  445.5   0.8    1e-132  445.4   0.8   1.0   1   0   0   1   1   1   1 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+sp|Q8BTF8|RALYL_MOUSE          -          nup205               -               0.55    8.5   1.1      0.72    8.2   1.1   1.1   1   0   0   1   1   1   0 RNA-binding Raly-like protein OS=Mus musculus OX=10090 GN=Ralyl PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:21:23 2022
+# [ok]

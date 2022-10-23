@@ -1,0 +1,58 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R0G9|NU133_MOUSE          -          nup133               -                  0 1381.1   8.8         0 1380.8   8.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup133 OS=Mus musculus OX=10090 GN=Nup133 PE=1 SV=2
+tr|F6RR81|F6RR81_MOUSE         -          nup133               -               0.26   10.4   0.0      0.28   10.3   0.0   1.0   1   0   0   1   1   1   0 Protein cordon-bleu (Fragment) OS=Mus musculus OX=10090 GN=Cobl PE=1 SV=8
+sp|P13438|TSP_MOUSE            -          nup133               -               0.31   10.2   0.1      0.35   10.0   0.1   1.0   1   0   0   1   1   1   0 Trophoblast-specific protein alpha OS=Mus musculus OX=10090 GN=Tpbpa PE=2 SV=2
+tr|Q9CPR0|Q9CPR0_MOUSE         -          nup133               -               0.43    9.7   0.2      0.49    9.5   0.2   1.0   1   0   0   1   1   1   0 MCG3437 OS=Mus musculus OX=10090 GN=Tpbpa PE=2 SV=1
+tr|Q3UWE6|Q3UWE6_MOUSE         -          nup133               -               0.55    9.4   0.0      0.77    8.9   0.0   1.1   1   0   0   1   1   1   0 MCG14935, isoform CRA_a OS=Mus musculus OX=10090 GN=Wdr20 PE=1 SV=1
+tr|D6RHP2|D6RHP2_MOUSE         -          nup133               -               0.59    9.2   0.1      0.74    8.9   0.1   1.1   1   0   0   1   1   1   0 DNA repair endonuclease XPF OS=Mus musculus OX=10090 GN=Ercc4 PE=1 SV=1
+tr|F7A043|F7A043_MOUSE         -          nup133               -               0.89    8.7   0.1       1.3    8.1   0.1   1.1   1   0   0   1   1   1   0 DNA repair endonuclease XPF (Fragment) OS=Mus musculus OX=10090 GN=Ercc4 PE=1 SV=1
+tr|A2BI28|A2BI28_MOUSE         -          nup133               -               0.93    8.6   0.6         1    8.5   0.6   1.0   1   0   0   1   1   1   0 CD59B glycoprotein OS=Mus musculus OX=10090 GN=Cd59b PE=4 SV=1
+sp|Q9CYX7|RRP15_MOUSE          -          nup133               -               0.97    8.5   2.7       1.3    8.2   2.7   1.2   1   0   0   1   1   1   0 RRP15-like protein OS=Mus musculus OX=10090 GN=Rrp15 PE=1 SV=2
+sp|Q8BHH8|CLRN3_MOUSE          -          nup133               -                1.2    8.3   0.0       1.5    7.9   0.0   1.1   1   0   0   1   1   1   0 Clarin-3 OS=Mus musculus OX=10090 GN=Clrn3 PE=1 SV=1
+tr|F6Z1P8|F6Z1P8_MOUSE         -          nup133               -                1.8    7.7   0.5       2.2    7.4   0.5   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase DZIP3 (Fragment) OS=Mus musculus OX=10090 GN=Dzip3 PE=1 SV=1
+sp|Q9QZD4|XPF_MOUSE            -          nup133               -                2.1    7.4   0.1       3.1    6.9   0.1   1.1   1   0   0   1   1   1   0 DNA repair endonuclease XPF OS=Mus musculus OX=10090 GN=Ercc4 PE=1 SV=3
+tr|A0A3Q4L2Y8|A0A3Q4L2Y8_MOUSE -          nup133               -                2.3    7.3   0.1        14    4.7   0.0   1.8   1   1   1   2   2   2   0 Target of rapamycin complex subunit LST8 (Fragment) OS=Mus musculus OX=10090 GN=Mlst8 PE=1 SV=1
+tr|A0A494BA07|A0A494BA07_MOUSE -          nup133               -                2.4    7.2   0.0       3.3    6.8   0.0   1.1   1   0   0   1   1   1   0 Geranylgeranyl transferase type-1 subunit beta OS=Mus musculus OX=10090 GN=Pggt1b PE=1 SV=1
+tr|Q8BVV6|Q8BVV6_MOUSE         -          nup133               -                2.5    7.1   0.1       4.1    6.5   0.1   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 5 OS=Mus musculus OX=10090 GN=Eif5 PE=1 SV=1
+tr|B8JKU9|B8JKU9_MOUSE         -          nup133               -                2.6    7.1   0.0       3.1    6.9   0.0   1.0   1   0   0   1   1   1   0 Antagonist of mitotic exit network 1 (Fragment) OS=Mus musculus OX=10090 GN=Amn1 PE=1 SV=1
+tr|A0A3Q4EC26|A0A3Q4EC26_MOUSE -          nup133               -                2.9    7.0   0.1        20    4.2   0.1   1.8   1   1   1   2   2   2   0 Target of rapamycin complex subunit LST8 OS=Mus musculus OX=10090 GN=Mlst8 PE=1 SV=1
+sp|Q99KN2|CIAO1_MOUSE          -          nup133               -                3.1    6.9   0.0       4.3    6.4   0.0   1.1   1   0   0   1   1   1   0 Probable cytosolic iron-sulfur protein assembly protein CIAO1 OS=Mus musculus OX=10090 GN=Ciao1 PE=1 SV=1
+tr|F6TQN1|F6TQN1_MOUSE         -          nup133               -                3.2    6.8   0.0       3.2    6.8   0.0   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase RNF19B (Fragment) OS=Mus musculus OX=10090 GN=Rnf19b PE=1 SV=1
+tr|B2FDI6|B2FDI6_MOUSE         -          nup133               -                3.2    6.8   0.0       3.8    6.6   0.0   1.0   1   0   0   1   1   1   0 N-acetyllactosaminide alpha-1,3-galactosyltransferase (Fragment) OS=Mus musculus OX=10090 GN=Ggta1 PE=1 SV=1
+tr|A0A3Q4L2V5|A0A3Q4L2V5_MOUSE -          nup133               -                3.2    6.8   0.1        21    4.1   0.0   1.8   1   1   1   2   2   2   0 Target of rapamycin complex subunit LST8 OS=Mus musculus OX=10090 GN=Mlst8 PE=1 SV=1
+tr|D3YZW7|D3YZW7_MOUSE         -          nup133               -                3.8    6.6   2.5       5.2    6.1   2.5   1.1   1   0   0   1   1   1   0 Autophagy-related protein 16-1 (Fragment) OS=Mus musculus OX=10090 GN=Atg16l1 PE=1 SV=1
+tr|G3X9X1|G3X9X1_MOUSE         -          nup133               -                4.2    6.4   0.4       5.9    5.9   0.4   1.1   1   0   0   1   1   1   0 Kelch repeat and BTB (POZ) domain-containing 2 OS=Mus musculus OX=10090 GN=Kbtbd2 PE=1 SV=1
+sp|Q9R229|BMP10_MOUSE          -          nup133               -                4.4    6.4   0.7       5.9    5.9   0.7   1.1   1   0   0   1   1   1   0 Bone morphogenetic protein 10 OS=Mus musculus OX=10090 GN=Bmp10 PE=1 SV=2
+sp|Q9DCJ1|LST8_MOUSE           -          nup133               -                5.1    6.1   0.1        30    3.6   0.0   1.8   1   1   1   2   2   2   0 Target of rapamycin complex subunit LST8 OS=Mus musculus OX=10090 GN=Mlst8 PE=1 SV=1
+sp|Q9QZ59|DMRT1_MOUSE          -          nup133               -                5.7    6.0   1.0       9.2    5.3   1.0   1.2   1   0   0   1   1   1   0 Doublesex- and mab-3-related transcription factor 1 OS=Mus musculus OX=10090 GN=Dmrt1 PE=1 SV=2
+tr|B1AS04|B1AS04_MOUSE         -          nup133               -                5.8    6.0   4.3       6.5    5.8   4.3   1.0   1   0   0   1   1   1   0 Protein LZIC (Fragment) OS=Mus musculus OX=10090 GN=Lzic PE=1 SV=1
+sp|Q6PDM4|IHO1_MOUSE           -          nup133               -                6.3    5.8   0.3        11    5.1   0.3   1.3   1   0   0   1   1   1   0 Interactor of HORMAD1 protein 1 OS=Mus musculus OX=10090 GN=Ccdc36 PE=1 SV=3
+tr|S4R1B8|S4R1B8_MOUSE         -          nup133               -                6.3    5.8   0.0        18    4.3   0.0   1.7   1   0   0   1   1   1   0 Bridging integrator 2 OS=Mus musculus OX=10090 GN=Bin2 PE=1 SV=1
+tr|S4R2J8|S4R2J8_MOUSE         -          nup133               -                6.5    5.8   0.1        17    4.4   0.1   1.7   1   0   0   1   1   1   0 Bridging integrator 2 OS=Mus musculus OX=10090 GN=Bin2 PE=1 SV=1
+tr|B2KG08|B2KG08_MOUSE         -          nup133               -                6.5    5.8   0.0       8.9    5.3   0.0   1.1   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase OS=Mus musculus OX=10090 GN=Rnf19b PE=1 SV=1
+tr|S4R270|S4R270_MOUSE         -          nup133               -                6.8    5.7   0.0        20    4.2   0.0   1.7   1   0   0   1   1   1   0 Bridging integrator 2 OS=Mus musculus OX=10090 GN=Bin2 PE=1 SV=1
+tr|B9EJW5|B9EJW5_MOUSE         -          nup133               -                6.8    5.7   0.0       9.8    5.2   0.0   1.1   1   0   0   1   1   1   0 Zinc finger protein 174 OS=Mus musculus OX=10090 GN=Zfp174 PE=2 SV=1
+sp|D3Z6Q9|BIN2_MOUSE           -          nup133               -                  7    5.7   0.0        19    4.2   0.0   1.7   1   0   0   1   1   1   0 Bridging integrator 2 OS=Mus musculus OX=10090 GN=Bin2 PE=1 SV=1
+tr|A0A1Y7VLC8|A0A1Y7VLC8_MOUSE -          nup133               -                7.1    5.7   0.0       8.4    5.4   0.0   1.1   1   0   0   1   1   1   0 WD repeat domain 20, retrogene OS=Mus musculus OX=10090 GN=Wdr20rt PE=4 SV=1
+tr|A0A1W2P7B3|A0A1W2P7B3_MOUSE -          nup133               -                7.5    5.6   0.0       8.5    5.4   0.0   1.0   1   0   0   1   1   1   0 A-kinase anchor protein 7 isoform alpha (Fragment) OS=Mus musculus OX=10090 GN=Akap7 PE=4 SV=1
+sp|P02664|CS2LB_MOUSE          -          nup133               -                7.5    5.6   0.5       7.9    5.5   0.5   1.0   1   0   0   1   1   1   0 Alpha-S2-casein-like B OS=Mus musculus OX=10090 GN=Csn1s2b PE=2 SV=1
+tr|A0A0G2JDI4|A0A0G2JDI4_MOUSE -          nup133               -                  8    5.5   0.0       9.9    5.2   0.0   1.0   1   0   0   1   1   1   0 Glutamate--cysteine ligase regulatory subunit (Fragment) OS=Mus musculus OX=10090 GN=Gclm PE=1 SV=1
+tr|A0A338P7L8|A0A338P7L8_MOUSE -          nup133               -                8.2    5.5   5.7       9.9    5.2   5.7   1.1   1   0   0   1   1   1   0 Charged multivesicular body protein 2b OS=Mus musculus OX=10090 GN=Chmp2b PE=1 SV=1
+sp|Q8BPK2|ZCHC3_MOUSE          -          nup133               -                8.5    5.4   0.1        12    5.0   0.1   1.1   1   0   0   1   1   1   0 Zinc finger CCHC domain-containing protein 3 OS=Mus musculus OX=10090 GN=Zcchc3 PE=2 SV=1
+sp|Q8BJF9|CHM2B_MOUSE          -          nup133               -                8.6    5.4   5.7        10    5.1   5.7   1.1   1   0   0   1   1   1   0 Charged multivesicular body protein 2b OS=Mus musculus OX=10090 GN=Chmp2b PE=1 SV=1
+tr|A0A286YCI4|A0A286YCI4_MOUSE -          nup133               -                8.9    5.3   0.1        10    5.1   0.1   1.1   1   0   0   1   1   1   0 Trophoblast-specific protein alpha OS=Mus musculus OX=10090 GN=Tpbpa PE=4 SV=1
+sp|Q8R1V4|TMED4_MOUSE          -          nup133               -                8.9    5.3   0.2        11    5.0   0.2   1.1   1   0   0   1   1   1   0 Transmembrane emp24 domain-containing protein 4 OS=Mus musculus OX=10090 GN=Tmed4 PE=1 SV=1
+sp|Q07417|ACADS_MOUSE          -          nup133               -                  9    5.3   0.1        13    4.8   0.1   1.1   1   0   0   1   1   1   0 Short-chain specific acyl-CoA dehydrogenase, mitochondrial OS=Mus musculus OX=10090 GN=Acads PE=1 SV=2
+tr|E9Q2L7|E9Q2L7_MOUSE         -          nup133               -                 10    5.2   0.0        14    4.7   0.0   1.1   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase OS=Mus musculus OX=10090 GN=Rnf19b PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:07:51 2022
+# [ok]

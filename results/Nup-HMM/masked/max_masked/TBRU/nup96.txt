@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q387F2|Q387F2_TRYB2 -          nup96                -              6e-61  205.3   0.0   3.4e-31  106.6   0.0   3.5   3   1   0   3   3   3   2 Nucleoporin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0140 PE=4 SV=1
+tr|Q386V0|Q386V0_TRYB2 -          nup96                -               0.95    5.7   0.0       1.4    5.2   0.0   1.1   1   0   0   1   1   1   0 Choline/ethanolamine kinase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.18.0017 PE=4 SV=1
+tr|Q386L6|Q386L6_TRYB2 -          nup96                -                9.8    2.3   0.1        14    1.8   0.1   1.1   1   0   0   1   1   1   0 Nuclear pore complex protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0460 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:57:28 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9URX8|NG06_SCHPO  -          nup154               -           1.7e-280  932.0   0.6  1.9e-278  925.3   0.6   2.8   1   1   0   1   1   1   1 Probable nucleoporin C890.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC890.06 PE=3 SV=3
+sp|Q09731|BU107_SCHPO -          nup154               -              0.046    9.5   0.1      0.17    7.6   0.0   1.7   2   0   0   2   2   2   0 UBP9-binding protein bun107 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bun107 PE=1 SV=1
+sp|O94423|MFR1_SCHPO  -          nup154               -                1.2    4.7   0.0       1.7    4.3   0.0   1.1   1   0   0   1   1   1   0 Meiotic fizzy-related protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mfr1 PE=1 SV=1
+sp|O74772|CWF14_SCHPO -          nup154               -                  3    3.5   0.0         3    3.5   0.0   1.0   1   0   0   1   1   1   0 Pre-mRNA-splicing factor cwf14 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf14 PE=1 SV=1
+sp|O74967|VPS25_SCHPO -          nup154               -                6.3    2.4   0.0       7.7    2.1   0.0   1.0   1   0   0   1   1   1   0 Vacuolar protein-sorting-associated protein 25 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vps25 PE=3 SV=1
+sp|O94560|YGD1_SCHPO  -          nup154               -                7.1    2.2   0.0        11    1.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized WD repeat-containing protein C1773.01 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1773.01 PE=4 SV=1
+sp|Q10205|RRP43_SCHPO -          nup154               -                8.2    2.0   0.0        11    1.6   0.0   1.0   1   0   0   1   1   1   0 Exosome complex component rrp43 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rrp43 PE=3 SV=1
+sp|O94532|FOR3_SCHPO  -          nup154               -                9.6    1.8   0.1        20    0.8   0.0   1.4   2   0   0   2   2   2   0 Formin-3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=for3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:17:33 2022
+# [ok]

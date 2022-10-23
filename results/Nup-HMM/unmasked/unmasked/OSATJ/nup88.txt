@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0WET2|A0A0P0WET2_ORYSJ -          nup88                -           2.5e-103  348.0   0.1   5.2e-56  191.6   0.0   3.2   2   1   0   2   2   2   2 Os04g0608400 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0608400 PE=1 SV=1
+tr|A0A0P0WEN1|A0A0P0WEN1_ORYSJ -          nup88                -           5.2e-103  347.0   0.1   7.1e-56  191.2   0.0   3.2   2   1   0   2   2   2   2 Os04g0608400 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0608400 PE=1 SV=1
+tr|A0A0N7KJN6|A0A0N7KJN6_ORYSJ -          nup88                -           1.9e-102  345.1   0.2   4.8e-56  191.7   0.0   3.2   2   1   0   2   2   2   2 Os04g0608400 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0608400 PE=1 SV=1
+tr|A0A0P0VQD8|A0A0P0VQD8_ORYSJ -          nup88                -            0.00032   20.5   0.0      0.12   12.0   0.0   2.2   1   1   1   2   2   2   2 Os02g0785900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0785900 PE=1 SV=1
+sp|Q6H6Q7|HSFA3_ORYSJ          -          nup88                -              0.019   14.6   2.8     0.029   14.0   2.8   1.2   1   0   0   1   1   1   0 Heat stress transcription factor A-3 OS=Oryza sativa subsp. japonica OX=39947 GN=HSFA3 PE=2 SV=1
+tr|Q6YVM7|Q6YVM7_ORYSJ         -          nup88                -              0.081   12.5   6.5     0.072   12.7   2.0   2.9   4   1   0   4   4   4   0 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0252000 PE=1 SV=1
+tr|Q2QP55|Q2QP55_ORYSJ         -          nup88                -               0.11   12.0   7.2      0.15   11.7   7.2   1.1   1   0   0   1   1   1   0 Expressed protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g35620 PE=1 SV=1
+tr|A0A0N7KNL9|A0A0N7KNL9_ORYSJ -          nup88                -               0.21   11.2   4.7      0.24   11.0   4.7   1.1   1   0   0   1   1   1   0 Os07g0543000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0543000 PE=3 SV=1
+tr|Q9FNU4|Q9FNU4_ORYSJ         -          nup88                -               0.28   10.7   0.1        28    4.1   0.0   2.4   1   1   1   2   2   2   0 Cleavage stimulation factor 50 kDa subunit OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g54770 PE=1 SV=1
+sp|Q6VBB2|HFA2B_ORYSJ          -          nup88                -               0.32   10.5   8.0      0.46   10.0   8.0   1.1   1   0   0   1   1   1   0 Heat stress transcription factor A-2b OS=Oryza sativa subsp. japonica OX=39947 GN=HSFA2B PE=2 SV=1
+tr|Q8RYP6|Q8RYP6_ORYSJ         -          nup88                -               0.37   10.3   1.4      0.43   10.1   1.4   1.0   1   0   0   1   1   1   0 Os01g0542700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0542700 PE=2 SV=1
+tr|Q7XXQ5|Q7XXQ5_ORYSJ         -          nup88                -               0.38   10.3   5.0      0.47   10.0   5.0   1.2   1   0   0   1   1   1   0 BHLH transcription factor OS=Oryza sativa subsp. japonica OX=39947 GN=OsMYC1 PE=2 SV=1
+tr|Q6Z3F8|Q6Z3F8_ORYSJ         -          nup88                -               0.43   10.1   0.0      0.81    9.2   0.0   1.4   1   0   0   1   1   1   0 Os08g0554000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0554000 PE=1 SV=1
+tr|A0A0P0WTS1|A0A0P0WTS1_ORYSJ -          nup88                -               0.49    9.9   4.0      0.63    9.6   4.0   1.1   1   0   0   1   1   1   0 Os06g0176150 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0176150 PE=3 SV=1
+tr|Q6Z3F7|Q6Z3F7_ORYSJ         -          nup88                -               0.51    9.9   0.6      0.75    9.3   0.0   1.5   2   0   0   2   2   2   0 Os08g0554000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0554000 PE=1 SV=1
+tr|A0A0P0XJC2|A0A0P0XJC2_ORYSJ -          nup88                -                0.6    9.7  18.0      0.46   10.0  16.5   1.6   1   1   0   1   1   1   0 Os08g0559800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0559800 PE=4 SV=1
+tr|A0A0P0UZG9|A0A0P0UZG9_ORYSJ -          nup88                -                0.7    9.4   4.6      0.92    9.0   4.6   1.1   1   0   0   1   1   1   0 Os01g0185100 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0185100 PE=4 SV=1
+tr|Q65WY7|Q65WY7_ORYSJ         -          nup88                -               0.77    9.3   4.0       1.2    8.7   4.0   1.2   1   0   0   1   1   1   0 Os05g0182700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0182700 PE=1 SV=1
+tr|B7F3S5|B7F3S5_ORYSJ         -          nup88                -               0.84    9.2   6.1      0.88    9.1   6.1   1.1   1   0   0   1   1   1   0 Os09g0491692 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0491692 PE=1 SV=1
+sp|Q8H594|WDR12_ORYSJ          -          nup88                -                1.1    8.7   2.3       2.8    7.5   0.7   2.0   2   0   0   2   2   2   0 Ribosome biogenesis protein WDR12 homolog OS=Oryza sativa subsp. japonica OX=39947 GN=WDR12 PE=3 SV=1
+tr|B9GD63|B9GD63_ORYSJ         -          nup88                -                1.3    8.6   6.0       1.7    8.1   6.0   1.1   1   0   0   1   1   1   0 Os12g0487250 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0487250 PE=3 SV=1
+tr|A0A0N7KMC4|A0A0N7KMC4_ORYSJ -          nup88                -                2.9    7.4   4.3       3.5    7.1   4.3   1.0   1   0   0   1   1   1   0 Os06g0590850 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0590850 PE=4 SV=1
+sp|Q8H7Y6|HFA2D_ORYSJ          -          nup88                -                3.8    7.0   7.5      0.62    9.6   3.4   1.6   2   0   0   2   2   2   0 Heat stress transcription factor A-2d OS=Oryza sativa subsp. japonica OX=39947 GN=HSFA2D PE=2 SV=2
+tr|Q10PC3|Q10PC3_ORYSJ         -          nup88                -                4.2    6.9  12.5       8.3    5.9  11.0   2.1   2   0   0   2   2   2   0 Os03g0239400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g13614 PE=1 SV=1
+tr|Q0JBZ1|Q0JBZ1_ORYSJ         -          nup88                -                5.3    6.5  11.2       7.3    6.1  11.2   1.2   1   0   0   1   1   1   0 OSJNBa0029H02.27 protein OS=Oryza sativa subsp. japonica OX=39947 GN=OSJNBa0029H02.27 PE=1 SV=1
+tr|Q5SMT1|Q5SMT1_ORYSJ         -          nup88                -                5.4    6.5  11.3       8.7    5.8  11.3   1.2   1   0   0   1   1   1   0 Os02g0822800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0822800 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:13 2022
+# [ok]

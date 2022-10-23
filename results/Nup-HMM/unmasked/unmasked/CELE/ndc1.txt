@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8I4N3|NDC1_CAEEL           -          ndc1                 -              4e-67  227.5  15.2     4e-67  227.5  15.2   1.6   2   1   0   2   2   2   1 Nucleoporin ndc-1 OS=Caenorhabditis elegans OX=6239 GN=npp-22 PE=3 SV=1
+tr|Q8I4D5|Q8I4D5_CAEEL         -          ndc1                 -             0.0041   16.2   0.7    0.0045   16.0   0.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y41C4A.17 PE=4 SV=2
+tr|Q93621|Q93621_CAEEL         -          ndc1                 -              0.082   11.9   1.0     0.095   11.7   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F28C6.10 PE=4 SV=1
+tr|Q965P3|Q965P3_CAEEL         -          ndc1                 -               0.31   10.0   5.0      0.39    9.6   5.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y22D7AL.1 PE=4 SV=1
+sp|Q19972|CEC4_CAEEL           -          ndc1                 -               0.51    9.2   5.2      0.69    8.8   5.2   1.1   1   0   0   1   1   1   0 Chromo domain-containing protein cec-4 OS=Caenorhabditis elegans OX=6239 GN=cec-4 PE=1 SV=1
+tr|G5EDE2|G5EDE2_CAEEL         -          ndc1                 -               0.63    8.9   0.4      0.85    8.5   0.4   1.1   1   0   0   1   1   1   0 Chromo-domain protein OS=Caenorhabditis elegans OX=6239 GN=hpl-2 PE=1 SV=1
+tr|Q9N4P4|Q9N4P4_CAEEL         -          ndc1                 -               0.98    8.3   4.6       1.7    7.5   4.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y9C12A.1 PE=1 SV=1
+sp|Q18336|H1X_CAEEL            -          ndc1                 -                2.5    7.0   4.9       3.4    6.5   4.9   1.1   1   0   0   1   1   1   0 Histone H1.X OS=Caenorhabditis elegans OX=6239 GN=hil-1 PE=2 SV=1
+tr|C6KRG2|C6KRG2_CAEEL         -          ndc1                 -                3.1    6.7   4.7       4.1    6.2   4.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C38C5.1 PE=4 SV=2
+tr|C5VUJ9|C5VUJ9_CAEEL         -          ndc1                 -                4.1    6.3   6.0       1.3    7.9   3.7   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y105C5A.508 PE=4 SV=2
+tr|F5GU87|F5GU87_CAEEL         -          ndc1                 -                5.3    5.9   5.3       6.8    5.5   5.3   1.1   1   0   0   1   1   1   0 OTUBain deubiquitylating protease homolog OS=Caenorhabditis elegans OX=6239 GN=otub-3 PE=1 SV=1
+tr|Q95ZS5|Q95ZS5_CAEEL         -          ndc1                 -                5.5    5.8   7.1       7.9    5.3   7.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F56A8.3 PE=1 SV=1
+tr|Q9N363|Q9N363_CAEEL         -          ndc1                 -                7.3    5.4   5.8        11    4.8   5.8   1.2   1   0   0   1   1   1   0 mRNA DeCAPping enzyme OS=Caenorhabditis elegans OX=6239 GN=dcap-1 PE=1 SV=1
+tr|Q19681|Q19681_CAEEL         -          ndc1                 -                8.2    5.3   6.0        11    4.9   6.0   1.1   1   0   0   1   1   1   0 OTUBain deubiquitylating protease homolog OS=Caenorhabditis elegans OX=6239 GN=otub-3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:15:01 2022
+# [ok]

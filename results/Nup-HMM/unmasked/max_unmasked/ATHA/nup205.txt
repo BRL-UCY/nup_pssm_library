@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8BGZ1|A0A1P8BGZ1_ARATH -          nup205               -                  0 1467.3  26.6         0 1462.9  26.6   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A1P8BGY9|A0A1P8BGY9_ARATH -          nup205               -                  0 1435.3  26.0         0 1430.9  26.0   2.1   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+tr|A0A2H1ZE90|A0A2H1ZE90_ARATH -          nup205               -                  0 1372.5  30.8         0 1366.7  30.7   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=EMB3142 PE=4 SV=1
+sp|F4KBW6|NU205_ARATH          -          nup205               -                  0 1370.5  30.9         0 1364.5  30.9   2.7   1   1   0   1   1   1   1 Nuclear pore complex protein NUP205 OS=Arabidopsis thaliana OX=3702 GN=NUP205 PE=1 SV=1
+tr|F4JUG3|F4JUG3_ARATH         -          nup205               -            1.1e-15   56.8  21.1     5e-10   38.0   6.9   4.1   3   1   0   3   3   3   3 Nucleoporin (DUF3414) OS=Arabidopsis thaliana OX=3702 GN=At4g38760 PE=4 SV=1
+sp|Q9SDW0|TGT3A_ARATH          -          nup205               -             0.0028   15.7   3.0    0.0037   15.3   3.0   1.1   1   0   0   1   1   1   1 Trihelix transcription factor GT-3a OS=Arabidopsis thaliana OX=3702 GN=GT-3A PE=1 SV=1
+sp|Q24JK4|XRCC1_ARATH          -          nup205               -               0.13   10.2   0.4      0.17    9.7   0.4   1.1   1   0   0   1   1   1   0 DNA-repair protein XRCC1 OS=Arabidopsis thaliana OX=3702 GN=XRCC1 PE=1 SV=1
+sp|Q8S4Q6|FHY1_ARATH           -          nup205               -               0.46    8.3   2.0      0.48    8.3   2.0   1.2   1   0   0   1   1   1   0 Protein FAR-RED ELONGATED HYPOCOTYL 1 OS=Arabidopsis thaliana OX=3702 GN=FHY1 PE=1 SV=1
+sp|Q9LNC9|MYB13_ARATH          -          nup205               -               0.88    7.4   0.2       2.4    5.9   0.0   1.6   2   0   0   2   2   2   0 Transcription factor MYB13 OS=Arabidopsis thaliana OX=3702 GN=MYB13 PE=2 SV=1
+sp|Q9LP46|SCAR3_ARATH          -          nup205               -                1.6    6.5   0.6       2.9    5.7   0.6   1.3   1   0   0   1   1   1   0 Protein SCAR3 OS=Arabidopsis thaliana OX=3702 GN=SCAR3 PE=1 SV=1
+tr|Q9M8M9|Q9M8M9_ARATH         -          nup205               -                1.7    6.4   0.4       2.2    6.1   0.4   1.1   1   0   0   1   1   1   0 S15/NS1, RNA-binding protein OS=Arabidopsis thaliana OX=3702 GN=T21F11.5 PE=3 SV=1
+tr|A0A1P8B4W8|A0A1P8B4W8_ARATH -          nup205               -                  2    6.2   0.1       3.4    5.5   0.1   1.3   1   0   0   1   1   1   0 FANCD2 OS=Arabidopsis thaliana OX=3702 GN=At4g14970 PE=2 SV=1
+tr|A0A1P8B4Y0|A0A1P8B4Y0_ARATH -          nup205               -                  2    6.2   0.1       3.3    5.5   0.1   1.2   1   0   0   1   1   1   0 Fanconi anemia group D2 protein OS=Arabidopsis thaliana OX=3702 GN=At4g14970 PE=4 SV=1
+tr|A0A1P8B4X0|A0A1P8B4X0_ARATH -          nup205               -                  2    6.2   0.1       3.4    5.5   0.1   1.2   1   0   0   1   1   1   0 Fanconi anemia group D2 protein OS=Arabidopsis thaliana OX=3702 GN=At4g14970 PE=4 SV=1
+tr|A0A1P8B4W1|A0A1P8B4W1_ARATH -          nup205               -                2.1    6.1   0.1       3.3    5.5   0.1   1.2   1   0   0   1   1   1   0 Fanconi anemia group D2 protein OS=Arabidopsis thaliana OX=3702 GN=At4g14970 PE=4 SV=1
+tr|F4I1B8|F4I1B8_ARATH         -          nup205               -                2.4    6.0   1.3       2.3    6.0   1.3   1.2   1   0   0   1   1   1   0 14-3-3 family protein OS=Arabidopsis thaliana OX=3702 GN=At1g22290 PE=3 SV=1
+sp|O23225|PUB5_ARATH           -          nup205               -                2.6    5.8   4.1       3.9    5.2   4.1   1.2   1   0   0   1   1   1   0 U-box domain-containing protein 5 OS=Arabidopsis thaliana OX=3702 GN=PUB5 PE=3 SV=3
+sp|P48348|14338_ARATH          -          nup205               -                3.3    5.5   0.0         4    5.2   0.0   1.0   1   0   0   1   1   1   0 14-3-3-like protein GF14 kappa OS=Arabidopsis thaliana OX=3702 GN=GRF8 PE=1 SV=2
+tr|F4KHY7|F4KHY7_ARATH         -          nup205               -                3.7    5.3   0.0       4.6    5.0   0.0   1.0   1   0   0   1   1   1   0 General regulatory factor 8 OS=Arabidopsis thaliana OX=3702 GN=GRF8 PE=3 SV=1
+tr|Q5HZ03|Q5HZ03_ARATH         -          nup205               -                4.1    5.2   3.9       5.3    4.8   3.9   1.0   1   0   0   1   1   1   0 At5g55530 OS=Arabidopsis thaliana OX=3702 GN=MTE17.25 PE=1 SV=1
+tr|F4I1B7|F4I1B7_ARATH         -          nup205               -                4.1    5.2   1.8       6.1    4.6   1.8   1.2   1   0   0   1   1   1   0 14-3-3 family protein OS=Arabidopsis thaliana OX=3702 GN=At1g22290 PE=3 SV=1
+sp|Q9SZH0|VATG3_ARATH          -          nup205               -                4.1    5.2   0.9       4.2    5.1   0.9   1.0   1   0   0   1   1   1   0 V-type proton ATPase subunit G3 OS=Arabidopsis thaliana OX=3702 GN=VHA-G3 PE=3 SV=1
+tr|Q9SJH1|Q9SJH1_ARATH         -          nup205               -                4.3    5.1   2.1         6    4.6   2.1   1.1   1   0   0   1   1   1   0 Expressed protein OS=Arabidopsis thaliana OX=3702 GN=At2g42860 PE=4 SV=2
+sp|Q9LNB6|HSOP1_ARATH          -          nup205               -                4.8    5.0   0.0       6.8    4.5   0.0   1.1   1   0   0   1   1   1   0 Hsp70-Hsp90 organizing protein 1 OS=Arabidopsis thaliana OX=3702 GN=HOP1 PE=2 SV=1
+sp|Q9S7R7|Y3903_ARATH          -          nup205               -                4.8    4.9   0.0       9.4    4.0   0.0   1.4   2   0   0   2   2   2   0 BTB/POZ domain-containing protein At3g09030 OS=Arabidopsis thaliana OX=3702 GN=At3g09030 PE=2 SV=1
+tr|F4IC87|F4IC87_ARATH         -          nup205               -                4.9    4.9   6.6       7.6    4.3   6.6   1.1   1   0   0   1   1   1   0 Kinesin-like protein OS=Arabidopsis thaliana OX=3702 GN=ARK3 PE=3 SV=1
+sp|Q9FZ06|KINUA_ARATH          -          nup205               -                5.1    4.9   6.7         8    4.2   6.7   1.2   1   0   0   1   1   1   0 Kinesin-like protein KIN-UA OS=Arabidopsis thaliana OX=3702 GN=KINUA PE=1 SV=1
+tr|Q9M2M2|Q9M2M2_ARATH         -          nup205               -                6.8    4.4   0.4       8.2    4.2   0.4   1.0   1   0   0   1   1   1   0 Emsy N Terminus (ENT) domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=F28O9.100 PE=4 SV=1
+tr|A0A1I9LS59|A0A1I9LS59_ARATH -          nup205               -                6.9    4.4   0.0       9.2    4.0   0.0   1.1   1   0   0   1   1   1   0 BTB-POZ and MATH domain 6 OS=Arabidopsis thaliana OX=3702 GN=BPM6 PE=4 SV=1
+tr|Q8L428|Q8L428_ARATH         -          nup205               -                  7    4.4   0.0       8.7    4.1   0.0   1.1   1   0   0   1   1   1   0 Calcium-binding EF-hand family protein OS=Arabidopsis thaliana OX=3702 GN=At4g38810 PE=2 SV=1
+sp|A1L4W5|BPM6_ARATH           -          nup205               -                8.1    4.2   0.1        11    3.7   0.1   1.1   1   0   0   1   1   1   0 BTB/POZ and MATH domain-containing protein 6 OS=Arabidopsis thaliana OX=3702 GN=BPM6 PE=1 SV=1
+tr|Q67XE6|Q67XE6_ARATH         -          nup205               -                8.5    4.1   0.2       8.7    4.1   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein At1g07490 OS=Arabidopsis thaliana OX=3702 GN=At1g07485 PE=2 SV=1
+sp|Q9M897|DMP5_ARATH           -          nup205               -                8.6    4.1   0.0        10    3.8   0.0   1.0   1   0   0   1   1   1   0 Protein DMP5 OS=Arabidopsis thaliana OX=3702 GN=DMP5 PE=2 SV=1
+sp|Q93XY5|TET18_ARATH          -          nup205               -                8.6    4.1   0.0        11    3.7   0.0   1.1   1   0   0   1   1   1   0 Tetraspanin-18 OS=Arabidopsis thaliana OX=3702 GN=TOM2AH2 PE=1 SV=1
+tr|Q2V422|Q2V422_ARATH         -          nup205               -                  9    4.0   2.3        10    3.9   2.3   1.0   1   0   0   1   1   1   0 Transcriptional activator (DUF662) OS=Arabidopsis thaliana OX=3702 GN=At2g36410 PE=4 SV=2
+sp|Q9LR74|NAC6_ARATH           -          nup205               -                9.2    4.0   4.0        13    3.5   4.0   1.2   1   0   0   1   1   1   0 NAC domain-containing protein 6 OS=Arabidopsis thaliana OX=3702 GN=NAC006 PE=1 SV=1
+tr|A0A1I9LS60|A0A1I9LS60_ARATH -          nup205               -                9.3    4.0   0.1        13    3.5   0.1   1.1   1   0   0   1   1   1   0 BTB-POZ and MATH domain 6 OS=Arabidopsis thaliana OX=3702 GN=BPM6 PE=4 SV=1
+sp|Q5XEP2|HSOP2_ARATH          -          nup205               -                9.8    3.9   0.1        15    3.3   0.1   1.2   1   0   0   1   1   1   0 Hsp70-Hsp90 organizing protein 2 OS=Arabidopsis thaliana OX=3702 GN=HOP2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:15:12 2022
+# [ok]

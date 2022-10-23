@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V466|NU107_DROME          -          nup107               -           4.8e-276  918.3   3.6  5.8e-276  918.0   3.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          nup107               -                4.6    5.4   0.0        11    4.2   0.0   1.6   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q23983|SNAP_DROME           -          nup107               -                6.1    5.0   0.7       7.9    4.7   0.7   1.1   1   0   0   1   1   1   0 Alpha-soluble NSF attachment protein OS=Drosophila melanogaster OX=7227 GN=alphaSnap PE=1 SV=1
+sp|Q9VTN3|TIM13_DROME          -          nup107               -                7.2    4.8   0.1       7.5    4.7   0.1   1.0   1   0   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit Tim13 OS=Drosophila melanogaster OX=7227 GN=Tim13 PE=3 SV=1
+tr|Q9VUT0|Q9VUT0_DROME         -          nup107               -                8.9    4.5   0.0        10    4.3   0.0   1.0   1   0   0   1   1   1   0 Ecdysone-induced gene 71Eg OS=Drosophila melanogaster OX=7227 GN=Eig71Eg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:10:26 2022
+# [ok]

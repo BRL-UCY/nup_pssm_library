@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DI91|A0A2K3DI91_CHLRE -          nup75                -            3.3e-16   58.8   0.1   6.4e-09   34.7   0.0   2.9   3   0   0   3   3   3   2 Nuclear pore complex protein Nup85 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g383650v5 PE=3 SV=1
+tr|A0A2K3D672|A0A2K3D672_CHLRE -          nup75                -                3.2    6.0   0.2       4.6    5.4   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g550500v5 PE=4 SV=1
+tr|A8HPU4|A8HPU4_CHLRE         -          nup75                -                4.6    5.4   0.0       6.6    4.9   0.0   1.1   1   0   0   1   1   1   0 WD40 repeat-containing protein SMU1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g020400v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:25:25 2022
+# [ok]

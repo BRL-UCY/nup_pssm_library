@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GGX7|A0A1L8GGX7_XENLA -          mtor                 -                  0 1329.1  28.7         0 1187.1  36.0   3.0   3   0   0   3   3   3   3 TPR_MLP1_2 domain-containing protein OS=Xenopus laevis OX=8355 GN=tpr PE=1 SV=1
+tr|A0A1L8GNN2|A0A1L8GNN2_XENLA -          mtor                 -            8.3e-31  107.4   0.0     1e-30  107.1   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023625mg PE=4 SV=1
+tr|A0A1L8ERQ7|A0A1L8ERQ7_XENLA -          mtor                 -              0.028   12.7   5.1     0.044   12.1   5.1   1.3   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18043110mg PE=3 SV=1
+tr|A0A1L8HIL0|A0A1L8HIL0_XENLA -          mtor                 -               0.12   10.6   3.6       0.2    9.9   3.6   1.3   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=krt78.4 PE=3 SV=1
+tr|A0A1L8HJZ0|A0A1L8HJZ0_XENLA -          mtor                 -               0.26    9.5   1.3      0.31    9.3   1.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014063mg PE=4 SV=1
+tr|A0A1L8HIM1|A0A1L8HIM1_XENLA -          mtor                 -               0.32    9.2   6.3      0.42    8.8   6.3   1.0   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18013618mg PE=3 SV=1
+tr|A0A1L8GRR3|A0A1L8GRR3_XENLA -          mtor                 -               0.36    9.0   1.0      0.47    8.7   1.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020222mg PE=4 SV=1
+tr|A0A1L8GB11|A0A1L8GB11_XENLA -          mtor                 -               0.41    8.9   0.7      0.54    8.5   0.7   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=atg16l1 PE=4 SV=1
+tr|A0A1L8G4S4|A0A1L8G4S4_XENLA -          mtor                 -               0.43    8.8   0.5      0.57    8.4   0.5   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18029906mg PE=4 SV=1
+tr|A0A1L8H8I7|A0A1L8H8I7_XENLA -          mtor                 -                3.4    5.8   4.5       2.5    6.3   0.1   1.9   2   0   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180154782mg PE=4 SV=1
+tr|A0A1L8GGP9|A0A1L8GGP9_XENLA -          mtor                 -                5.3    5.2   4.2       1.7    6.8   0.8   1.6   2   0   0   2   2   2   0 FIP-RBD domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025554mg PE=4 SV=1
+tr|A0A1L8EKM9|A0A1L8EKM9_XENLA -          mtor                 -                9.8    4.3  15.4      0.71    8.1   0.6   2.9   2   1   1   3   3   3   0 IF rod domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18045880mg PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:08 2022
+# [ok]

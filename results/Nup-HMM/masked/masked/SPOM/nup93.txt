@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94418|MUG87_SCHPO -          nup93                -           4.8e-135  449.6   0.2  1.4e-134  448.1   0.2   1.7   1   1   0   1   1   1   1 Meiotically up-regulated gene 87 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug87 PE=1 SV=1
+sp|O14310|NP106_SCHPO -          nup93                -           8.4e-102  339.7   4.8   3.7e-87  291.3   0.4   3.6   2   1   0   2   2   2   2 Nucleoporin npp106 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=npp106 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:03 2022
+# [ok]

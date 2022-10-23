@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38DV1|Q38DV1_TRYB2 -          gp210                -              0.042    9.5   0.1     0.047    9.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.2060 PE=4 SV=1
+tr|Q4GYB2|Q4GYB2_TRYB2 -          gp210                -               0.17    7.5   0.8       0.2    7.3   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4660 PE=4 SV=1
+tr|Q388Z5|Q388Z5_TRYB2 -          gp210                -               0.25    7.0   0.1      0.33    6.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.389.1220 PE=4 SV=1
+tr|Q38CT9|Q38CT9_TRYB2 -          gp210                -               0.31    6.6   1.6      0.38    6.4   1.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2290 PE=4 SV=1
+tr|Q38DI0|Q38DI0_TRYB2 -          gp210                -               0.66    5.6   0.8      0.85    5.2   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.3260 PE=4 SV=1
+tr|Q4GYE9|Q4GYE9_TRYB2 -          gp210                -                1.8    4.1   0.2       1.7    4.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4290 PE=4 SV=1
+tr|Q384J3|Q384J3_TRYB2 -          gp210                -                2.8    3.5   0.0       3.9    3.0   0.0   1.1   1   0   0   1   1   1   0 Carbonic anhydrase-like protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.0290 PE=4 SV=1
+tr|Q4GZ83|Q4GZ83_TRYB2 -          gp210                -                3.4    3.2   0.0       3.6    3.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.1360 PE=4 SV=1
+tr|Q38FQ6|Q38FQ6_TRYB2 -          gp210                -                3.5    3.1   0.0       3.9    3.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.1300 PE=4 SV=1
+tr|Q586G8|Q586G8_TRYB2 -          gp210                -                4.4    2.8   0.7       5.6    2.5   0.7   1.1   1   0   0   1   1   1   0 Zinc finger-domain protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.4960 PE=4 SV=1
+tr|Q38AE0|Q38AE0_TRYB2 -          gp210                -                4.6    2.8   0.5       5.6    2.5   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.2280 PE=4 SV=1
+tr|Q583C9|Q583C9_TRYB2 -          gp210                -                5.8    2.4   0.1       7.9    2.0   0.1   1.1   1   0   0   1   1   1   0 Receptor-type adenylate cyclase GRESAG 4, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.4440 PE=4 SV=1
+tr|Q387X4|Q387X4_TRYB2 -          gp210                -                  6    2.4   1.7        10    1.6   1.7   1.2   1   0   0   1   1   1   0 Kinesin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.61.1020 PE=3 SV=1
+tr|Q381J9|Q381J9_TRYB2 -          gp210                -                7.3    2.1   0.0       9.1    1.8   0.0   1.1   1   0   0   1   1   1   0 VASt domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.7530 PE=4 SV=1
+tr|Q38CW4|Q38CW4_TRYB2 -          gp210                -                7.5    2.0   0.6        10    1.6   0.6   1.0   1   0   0   1   1   1   0 ADP-ribosylation factor GTPase activating protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.2540 PE=4 SV=1
+tr|Q386R4|Q386R4_TRYB2 -          gp210                -                7.7    2.0   0.0        11    1.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.0060 PE=4 SV=1
+tr|Q583M8|Q583M8_TRYB2 -          gp210                -                8.7    1.8   0.3        11    1.4   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.3060 PE=4 SV=1
+tr|Q383F8|Q383F8_TRYB2 -          gp210                -                8.9    1.8   0.0        12    1.4   0.0   1.1   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 8 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.2990 PE=3 SV=1
+tr|Q57UN7|Q57UN7_TRYB2 -          gp210                -                  9    1.8   0.0       9.5    1.7   0.0   1.0   1   0   0   1   1   1   0 Calpain-like cysteine peptidase, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.4070 PE=4 SV=1
+tr|Q583G6|Q583G6_TRYB2 -          gp210                -                9.9    1.7   0.2        18    0.8   0.0   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.4810 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TBRU/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:47:51 2022
+# [ok]

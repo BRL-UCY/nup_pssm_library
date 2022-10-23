@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q803C2|Q803C2_DANRE         -          krh2                 -            8.6e-95  317.9  14.8   9.5e-95  317.8  14.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Danio rerio OX=7955 GN=tmem33 PE=1 SV=1
+sp|Q7ZTY7|USE1_DANRE           -          krh2                 -              0.089   13.3   0.2      0.14   12.6   0.2   1.3   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Danio rerio OX=7955 GN=use1 PE=2 SV=1
+tr|Q1LVG2|Q1LVG2_DANRE         -          krh2                 -              0.093   13.2   0.2      0.15   12.5   0.2   1.3   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Danio rerio OX=7955 GN=use1 PE=1 SV=1
+tr|A0A2R8Q3A6|A0A2R8Q3A6_DANRE -          krh2                 -                0.6   10.6   0.5       0.6   10.6   0.5   1.1   1   0   0   1   1   1   0 Vacuolar ATPase assembly integral membrane protein VMA21 OS=Danio rerio OX=7955 GN=vma21 PE=3 SV=1
+tr|F1QPJ5|F1QPJ5_DANRE         -          krh2                 -                1.8    9.0   1.7       4.5    7.7   1.7   1.6   1   0   0   1   1   1   0 Solute carrier family 4 member 4a (Fragment) OS=Danio rerio OX=7955 GN=slc4a4a PE=1 SV=1
+tr|F1QRN1|F1QRN1_DANRE         -          krh2                 -                1.9    8.9   0.0       3.1    8.3   0.0   1.3   1   0   0   1   1   1   0 Transmembrane protein 119b OS=Danio rerio OX=7955 GN=tmem119b PE=4 SV=1
+tr|A0A2R8QJ25|A0A2R8QJ25_DANRE -          krh2                 -                1.9    8.9   0.0       3.1    8.3   0.0   1.3   1   0   0   1   1   1   0 Transmembrane protein 119b OS=Danio rerio OX=7955 GN=tmem119b PE=4 SV=1
+tr|A0A0R4IUU7|A0A0R4IUU7_DANRE -          krh2                 -                2.1    8.8   0.1       3.5    8.1   0.1   1.3   1   0   0   1   1   1   0 Si:dkeyp-61b2.1 OS=Danio rerio OX=7955 GN=si:dkeyp-61b2.1 PE=4 SV=2
+tr|X1WHN5|X1WHN5_DANRE         -          krh2                 -                2.7    8.4   0.0       4.1    7.8   0.0   1.2   1   0   0   1   1   1   0 Zgc:171967 (Fragment) OS=Danio rerio OX=7955 GN=zgc:171967 PE=1 SV=1
+tr|A0A2R8Q4M8|A0A2R8Q4M8_DANRE -          krh2                 -                3.5    8.1   1.9       6.1    7.3   1.9   1.5   1   0   0   1   1   1   0 Transmembrane protein 163a OS=Danio rerio OX=7955 GN=tmem163a PE=4 SV=1
+tr|I3IT06|I3IT06_DANRE         -          krh2                 -                3.9    7.9   0.1       5.7    7.4   0.1   1.1   1   0   0   1   1   1   0 Bloodthirsty-related gene family, member 31 (Fragment) OS=Danio rerio OX=7955 GN=btr31 PE=4 SV=1
+tr|B0UY98|B0UY98_DANRE         -          krh2                 -                4.5    7.7   2.3       7.2    7.0   2.3   1.3   1   0   0   1   1   1   0 Transmembrane protein 163a OS=Danio rerio OX=7955 GN=tmem163a PE=4 SV=1
+tr|F1R033|F1R033_DANRE         -          krh2                 -                4.6    7.7   0.9       8.9    6.7   0.0   1.9   2   0   0   2   2   2   0 Pecanex 2 (Fragment) OS=Danio rerio OX=7955 GN=pcnx2 PE=4 SV=1
+tr|A0A0R4ITQ4|A0A0R4ITQ4_DANRE -          krh2                 -                4.7    7.6   0.9       8.6    6.8   0.9   1.3   1   0   0   1   1   1   0 GLI pathogenesis-related 1a (Fragment) OS=Danio rerio OX=7955 GN=glipr1a PE=3 SV=1
+tr|A0A2R8Q5D5|A0A2R8Q5D5_DANRE -          krh2                 -                4.8    7.6   2.4       7.6    7.0   2.4   1.3   1   0   0   1   1   1   0 Transmembrane protein 163a OS=Danio rerio OX=7955 GN=tmem163a PE=4 SV=1
+tr|A0A2R8Q4U7|A0A2R8Q4U7_DANRE -          krh2                 -                  5    7.6   2.4       8.2    6.9   2.4   1.4   1   0   0   1   1   1   0 Transmembrane protein 163a OS=Danio rerio OX=7955 GN=tmem163a PE=4 SV=1
+tr|F1QBC2|F1QBC2_DANRE         -          krh2                 -                5.2    7.5   0.1       8.1    6.9   0.1   1.2   1   0   0   1   1   1   0 Zgc:162611 OS=Danio rerio OX=7955 GN=zgc:162611 PE=4 SV=1
+tr|A0A2R8QBU9|A0A2R8QBU9_DANRE -          krh2                 -                5.4    7.4   2.4       8.6    6.8   2.4   1.3   1   0   0   1   1   1   0 Transmembrane protein 163a OS=Danio rerio OX=7955 GN=tmem163a PE=4 SV=1
+tr|A0A2R8QD45|A0A2R8QD45_DANRE -          krh2                 -                5.5    7.4   1.7        13    6.2   1.7   1.5   1   0   0   1   1   1   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4a PE=1 SV=1
+sp|A2BGG1|MTMRC_DANRE          -          krh2                 -                5.6    7.4   0.2       9.9    6.6   0.2   1.3   1   0   0   1   1   1   0 Myotubularin-related protein 12 OS=Danio rerio OX=7955 GN=mtmr12 PE=1 SV=1
+tr|F1QHT2|F1QHT2_DANRE         -          krh2                 -                5.6    7.4   1.7        13    6.2   1.7   1.5   1   0   0   1   1   1   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4a PE=1 SV=3
+tr|A0A140LGT6|A0A140LGT6_DANRE -          krh2                 -                5.6    7.4   0.0        11    6.4   0.0   1.4   1   0   0   1   1   1   0 Solute carrier family 2 member 3b (Fragment) OS=Danio rerio OX=7955 GN=slc2a3b PE=3 SV=1
+tr|A0A0R4IW75|A0A0R4IW75_DANRE -          krh2                 -                5.7    7.4   0.2        10    6.5   0.2   1.3   1   0   0   1   1   1   0 Myotubularin-related protein 12 OS=Danio rerio OX=7955 GN=mtmr12 PE=1 SV=1
+tr|A0A2R8QJJ4|A0A2R8QJJ4_DANRE -          krh2                 -                5.7    7.4   2.6        14    6.1   1.3   2.2   2   0   0   2   2   2   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4b PE=3 SV=1
+tr|A0A2R8PYB9|A0A2R8PYB9_DANRE -          krh2                 -                5.8    7.3   1.7        13    6.2   1.7   1.5   1   0   0   1   1   1   0 Anion exchange protein OS=Danio rerio OX=7955 GN=slc4a4a PE=1 SV=1
+tr|F1R4Z9|F1R4Z9_DANRE         -          krh2                 -                6.5    7.2   0.7        13    6.2   0.0   1.9   2   0   0   2   2   1   0 Pecanex 2 OS=Danio rerio OX=7955 GN=pcnx2 PE=4 SV=3
+tr|A0A2R8QI88|A0A2R8QI88_DANRE -          krh2                 -                6.7    7.1   0.7        13    6.2   0.0   1.9   2   0   0   2   2   1   0 Pecanex 2 OS=Danio rerio OX=7955 GN=pcnx2 PE=4 SV=1
+tr|E7F6Y3|E7F6Y3_DANRE         -          krh2                 -                  7    7.1   2.8        12    6.3   2.8   1.4   1   0   0   1   1   1   0 Transmembrane protein 163b (Fragment) OS=Danio rerio OX=7955 GN=tmem163b PE=4 SV=2
+tr|Q2HX27|Q2HX27_DANRE         -          krh2                 -                  7    7.1   0.8        17    5.8   0.8   1.6   1   0   0   1   1   1   0 ATP-binding cassette, sub-family C (CFTR/MRP), member 8 (Fragment) OS=Danio rerio OX=7955 GN=abcc8 PE=2 SV=1
+tr|E7F3T7|E7F3T7_DANRE         -          krh2                 -                7.4    7.0   0.1        12    6.3   0.1   1.2   1   0   0   1   1   1   0 G protein-coupled receptor kinase OS=Danio rerio OX=7955 GN=grk6 PE=1 SV=1
+tr|A0A0R4IQD0|A0A0R4IQD0_DANRE -          krh2                 -                7.9    6.9   2.8        14    6.1   2.8   1.4   1   0   0   1   1   1   0 Transmembrane protein 163b OS=Danio rerio OX=7955 GN=tmem163b PE=4 SV=1
+tr|F2Z4R5|F2Z4R5_DANRE         -          krh2                 -                  8    6.9   2.8        14    6.1   2.8   1.4   1   0   0   1   1   1   0 Transmembrane protein 163b OS=Danio rerio OX=7955 GN=tmem163b PE=4 SV=1
+tr|F1R484|F1R484_DANRE         -          krh2                 -                8.1    6.9   0.4        17    5.8   0.4   1.5   1   0   0   1   1   1   0 Diablo, IAP-binding mitochondrial protein b (Fragment) OS=Danio rerio OX=7955 GN=diablob PE=1 SV=1
+tr|X1WFI1|X1WFI1_DANRE         -          krh2                 -                8.9    6.7   0.6        12    6.3   0.6   1.2   1   0   0   1   1   1   0 Adhesion G protein-coupled receptor E5a (Fragment) OS=Danio rerio OX=7955 GN=adgre5a PE=4 SV=1
+tr|F1QRT8|F1QRT8_DANRE         -          krh2                 -                  9    6.7   0.1        14    6.1   0.1   1.3   1   0   0   1   1   1   0 Transmembrane protein 68 OS=Danio rerio OX=7955 GN=tmem68 PE=4 SV=2
+tr|A0A0R4IMZ1|A0A0R4IMZ1_DANRE -          krh2                 -                9.4    6.7   0.5         9    6.7   0.5   1.2   1   0   0   1   1   1   0 Si:dkey-83k24.5 OS=Danio rerio OX=7955 GN=si:dkey-83k24.5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:46:21 2022
+# [ok]

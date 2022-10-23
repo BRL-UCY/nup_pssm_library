@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8LAF4|Q8LAF4_ARATH         -          ndc1                 -            3.3e-77  261.3  22.4   4.2e-76  257.7  22.4   1.9   1   1   0   1   1   1   1 Nucleoporin protein Ndc1-Nup protein OS=Arabidopsis thaliana OX=3702 GN=At1g73240 PE=2 SV=1
+tr|Q8W576|Q8W576_ARATH         -          ndc1                 -               0.13   11.7   7.4      0.18   11.2   7.4   1.1   1   0   0   1   1   1   0 1,3-beta-glucan synthase component (DUF1218) OS=Arabidopsis thaliana OX=3702 GN=At1g61065 PE=2 SV=1
+tr|A0A1P8AXV3|A0A1P8AXV3_ARATH -          ndc1                 -               0.32   10.5   3.7      0.45   10.0   3.7   1.1   1   0   0   1   1   1   0 Pseudouridine synthase family protein OS=Arabidopsis thaliana OX=3702 GN=SVR1 PE=4 SV=1
+tr|Q8L7D0|Q8L7D0_ARATH         -          ndc1                 -               0.34   10.4  16.2      0.42   10.1  16.2   1.0   1   0   0   1   1   1   0 DVL13 OS=Arabidopsis thaliana OX=3702 GN=RTFL2 PE=2 SV=1
+sp|Q8L960|SVR1_ARATH           -          ndc1                 -               0.34   10.3   3.7      0.49    9.8   3.7   1.1   1   0   0   1   1   1   0 Putative ribosomal large subunit pseudouridine synthase SVR1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=SVR1 PE=1 SV=1
+tr|A0A1P8AW31|A0A1P8AW31_ARATH -          ndc1                 -                0.4   10.1   2.9      0.59    9.6   2.9   1.2   1   0   0   1   1   1   0 Rad23 UV excision repair protein family OS=Arabidopsis thaliana OX=3702 GN=RAD23A PE=4 SV=1
+tr|A0A1P8AM80|A0A1P8AM80_ARATH -          ndc1                 -               0.42   10.1   0.1       0.5    9.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At1g01715 PE=4 SV=1
+sp|Q8RVQ9|HTR12_ARATH          -          ndc1                 -               0.45   10.0   1.4      0.53    9.7   1.4   1.0   1   0   0   1   1   1   0 Histone H3-like centromeric protein HTR12 OS=Arabidopsis thaliana OX=3702 GN=HTR12 PE=1 SV=3
+sp|Q84L32|RD23A_ARATH          -          ndc1                 -               0.45   10.0   2.9      0.67    9.4   2.9   1.2   1   0   0   1   1   1   0 Probable ubiquitin receptor RAD23a OS=Arabidopsis thaliana OX=3702 GN=RAD23A PE=2 SV=2
+tr|Q6IM92|Q6IM92_ARATH         -          ndc1                 -               0.64    9.5   7.3      0.78    9.2   7.3   1.1   1   0   0   1   1   1   0 At1g07490 OS=Arabidopsis thaliana OX=3702 GN=DVL9 PE=1 SV=1
+tr|A0A1P8AP97|A0A1P8AP97_ARATH -          ndc1                 -               0.73    9.3   2.6       1.3    8.4   2.6   1.3   1   0   0   1   1   1   0 Transducin/WD40 repeat-like superfamily protein OS=Arabidopsis thaliana OX=3702 GN=SEC31A PE=4 SV=1
+sp|F4ICD9|SC31A_ARATH          -          ndc1                 -               0.74    9.3   2.6       1.3    8.4   2.6   1.3   1   0   0   1   1   1   0 Protein transport protein SEC31 homolog A OS=Arabidopsis thaliana OX=3702 GN=SEC31A PE=1 SV=1
+sp|O81864|FK171_ARATH          -          ndc1                 -               0.91    8.9   6.3       1.2    8.6   6.3   1.1   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase FKBP17-1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=FKBP17-1 PE=2 SV=1
+tr|A0A1I9LTS5|A0A1I9LTS5_ARATH -          ndc1                 -                1.3    8.5   2.3       1.4    8.3   2.3   1.1   1   0   0   1   1   1   0 Sterile alpha motif (SAM) domain-containing protein OS=Arabidopsis thaliana OX=3702 GN=At3g07170 PE=4 SV=1
+tr|A0A1P8BA45|A0A1P8BA45_ARATH -          ndc1                 -                1.4    8.4   2.8       1.8    8.0   2.8   1.1   1   0   0   1   1   1   0 VERDANDI OS=Arabidopsis thaliana OX=3702 GN=VDD PE=4 SV=1
+tr|Q9SFU7|Q9SFU7_ARATH         -          ndc1                 -                1.4    8.3   2.3       1.8    8.0   2.3   1.1   1   0   0   1   1   1   0 AT3g07170/T1B9_17 OS=Arabidopsis thaliana OX=3702 GN=T1B9.17 PE=2 SV=1
+sp|Q9FJG2|Y5800_ARATH          -          ndc1                 -                1.7    8.1   2.8       2.2    7.7   2.8   1.1   1   0   0   1   1   1   0 B3 domain-containing protein At5g18000 OS=Arabidopsis thaliana OX=3702 GN=At5g18000 PE=2 SV=1
+sp|Q9FGH6|CHX25_ARATH          -          ndc1                 -                1.7    8.1   4.2      0.68    9.4   1.1   1.9   2   0   0   2   2   2   0 Cation/H(+) antiporter 25 OS=Arabidopsis thaliana OX=3702 GN=CHX25 PE=2 SV=1
+tr|A0A1I9LT94|A0A1I9LT94_ARATH -          ndc1                 -                2.2    7.7   5.4       3.4    7.1   5.4   1.3   1   0   0   1   1   1   0 Integrase-type DNA-binding superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g16280 PE=4 SV=1
+sp|Q8GWP3|COPT6_ARATH          -          ndc1                 -                2.7    7.4   4.3       3.2    7.2   4.3   1.1   1   0   0   1   1   1   0 Copper transporter 6 OS=Arabidopsis thaliana OX=3702 GN=COPT6 PE=2 SV=1
+sp|F4J158|DTX24_ARATH          -          ndc1                 -                5.9    6.3  10.5      0.75    9.2   4.0   2.4   2   0   0   2   2   2   0 Protein DETOXIFICATION 24 OS=Arabidopsis thaliana OX=3702 GN=DTX24 PE=2 SV=1
+sp|Q9LU18|ERF36_ARATH          -          ndc1                 -                8.7    5.7   7.0       8.9    5.7   6.5   1.3   1   1   0   1   1   1   0 Ethylene-responsive transcription factor ERF036 OS=Arabidopsis thaliana OX=3702 GN=ERF036 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:47 2022
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8K3Z9|PO121_MOUSE          -          pom121               -                  0 1551.5 224.9         0 1551.2 224.9   1.1   1   0   0   1   1   1   1 Nuclear envelope pore membrane protein POM 121 OS=Mus musculus OX=10090 GN=Pom121 PE=1 SV=2
+sp|Q5SW25|P12L2_MOUSE          -          pom121               -             4e-296  986.8 155.4  7.9e-293  975.9 155.4   2.7   1   1   0   1   1   1   1 POM121-like protein 2 OS=Mus musculus OX=10090 GN=Pom121l2 PE=3 SV=1
+tr|Q3V0N0|Q3V0N0_MOUSE         -          pom121               -           2.5e-142  477.6  65.3  9.5e-140  469.0  50.5   2.8   1   1   1   2   2   2   2 Novel protein similar to nuclear envelope pore membrane protein POM121 OS=Mus musculus OX=10090 GN=Pom121l2 PE=2 SV=1
+tr|A0A1B0GSJ4|A0A1B0GSJ4_MOUSE -          pom121               -            5.3e-65  221.5  19.4   6.5e-65  221.2  19.4   1.1   1   0   0   1   1   1   1 POM121 membrane glycoprotein-like 12 OS=Mus musculus OX=10090 GN=Pom121l12 PE=4 SV=1
+tr|A0A0J9YUV2|A0A0J9YUV2_MOUSE -          pom121               -               0.36   10.1  10.2      0.51    9.7  10.2   1.1   1   0   0   1   1   1   0 Tyrosine-protein kinase Yes (Fragment) OS=Mus musculus OX=10090 GN=Yes1 PE=1 SV=1
+sp|Q04736|YES_MOUSE            -          pom121               -                2.8    7.2  10.7       3.8    6.8  10.7   1.1   1   0   0   1   1   1   0 Tyrosine-protein kinase Yes OS=Mus musculus OX=10090 GN=Yes1 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/pom121.txt --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:04 2022
+# [ok]

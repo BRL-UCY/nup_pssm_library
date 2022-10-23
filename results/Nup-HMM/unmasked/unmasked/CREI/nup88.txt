@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DPJ7|A0A2K3DPJ7_CHLRE -          nup88                -              7e-32  110.5   0.6   3.4e-18   65.3   0.0   2.3   2   0   0   2   2   2   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278900v5 PE=4 SV=1
+tr|A0A2K3DL87|A0A2K3DL87_CHLRE -          nup88                -              0.019   13.3   0.5      0.82    7.8   0.1   2.8   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g350451v5 PE=4 SV=1
+tr|A0A2K3DY82|A0A2K3DY82_CHLRE -          nup88                -               0.05   11.8   1.7     0.057   11.7   1.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g188350v5 PE=4 SV=1
+tr|A0A2K3DTS0|A0A2K3DTS0_CHLRE -          nup88                -                0.1   10.8   2.2      0.15   10.3   2.2   1.2   1   0   0   1   1   1   0 V-SNARE coiled-coil homology domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g214750v5 PE=4 SV=1
+tr|A0A2K3E1Z5|A0A2K3E1Z5_CHLRE -          nup88                -               0.17   10.1  10.0      0.31    9.2  10.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g097300v5 PE=4 SV=1
+tr|A0A2K3E222|A0A2K3E222_CHLRE -          nup88                -               0.17   10.1  10.0      0.25    9.5  10.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g097300v5 PE=4 SV=1
+tr|A8IHW6|A8IHW6_CHLRE         -          nup88                -               0.18   10.0   5.4      0.26    9.5   5.4   1.2   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CGL63 PE=4 SV=1
+tr|A0A2K3CVQ5|A0A2K3CVQ5_CHLRE -          nup88                -               0.19    9.9   0.1      0.28    9.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g672721v5 PE=4 SV=1
+tr|A8IYK8|A8IYK8_CHLRE         -          nup88                -               0.19    9.9   0.5      0.25    9.5   0.5   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g552500v5 PE=4 SV=1
+tr|A0A2K3DR92|A0A2K3DR92_CHLRE -          nup88                -               0.22    9.7  12.2      0.28    9.4  12.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g304800v5 PE=4 SV=1
+tr|A0A2K3DX12|A0A2K3DX12_CHLRE -          nup88                -               0.87    7.7   9.6       1.2    7.3   9.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g170500v5 PE=4 SV=1
+tr|A0A2K3E723|A0A2K3E723_CHLRE -          nup88                -                1.7    6.8  15.0       3.4    5.8  15.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g036150v5 PE=4 SV=1
+tr|A0A2K3CRR5|A0A2K3CRR5_CHLRE -          nup88                -                1.8    6.7  16.2       2.3    6.4  16.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g740900v5 PE=4 SV=1
+tr|A0A2K3E392|A0A2K3E392_CHLRE -          nup88                -                4.8    5.3   7.9       2.9    6.0   0.0   3.2   4   1   1   5   5   5   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g115250v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:32:44 2022
+# [ok]

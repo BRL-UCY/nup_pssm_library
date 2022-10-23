@@ -1,0 +1,19 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94652|GLE1_SCHPO  -          gle1                 -            9.1e-56  187.4   0.1   2.4e-55  186.0   0.1   1.6   2   0   0   2   2   2   1 mRNA export factor gle1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gle1 PE=3 SV=1
+sp|P87178|YB1D_SCHPO  -          gle1                 -                1.2    5.5   0.1       1.6    5.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein C3D6.13c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC3D6.13c PE=1 SV=1
+sp|O94364|WAPL_SCHPO  -          gle1                 -                1.7    5.0   0.3       2.6    4.3   0.3   1.2   1   0   0   1   1   1   0 Wings apart-like protein homolog 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=wpl1 PE=3 SV=1
+sp|O43034|YGU5_SCHPO  -          gle1                 -                1.7    5.0   0.0       1.9    4.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein C3B9.05 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC3B9.05 PE=4 SV=2
+sp|O74342|YH2B_SCHPO  -          gle1                 -                2.8    4.2   0.1       3.2    4.1   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein C1A4.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1A4.09c PE=4 SV=1
+sp|O14322|MU100_SCHPO -          gle1                 -                4.4    3.6   0.0       5.8    3.2   0.0   1.1   1   0   0   1   1   1   0 Meiotically up-regulated gene 100 protein, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug100 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:17:04 2022
+# [ok]

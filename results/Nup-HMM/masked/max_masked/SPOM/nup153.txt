@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13801|DRI1_SCHPO  -          nup153               -              0.017   10.8   0.6     0.026   10.2   0.6   1.2   1   0   0   1   1   1   0 RNA-binding protein involved in heterochromatin assembly dri1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dri1 PE=1 SV=1
+sp|Q09847|NU146_SCHPO -          nup153               -               0.92    5.1  21.6       1.4    4.4  21.6   1.1   1   0   0   1   1   1   0 Nucleoporin nup146 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup146 PE=1 SV=1
+sp|P87316|ATP5E_SCHPO -          nup153               -                  7    2.1   0.0       5.7    2.4   0.0   1.0   1   0   0   1   1   1   0 Putative ATP synthase subunit epsilon, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=atp15 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup153.txt --max --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:17:47 2022
+# [ok]

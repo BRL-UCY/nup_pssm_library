@@ -1,0 +1,32 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P49687|NU145_YEAST -          nup96                -           2.2e-179  597.5  65.6  1.8e-116  388.9  58.8   2.0   2   0   0   2   2   2   2 Nucleoporin NUP145 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP145 PE=1 SV=1
+sp|Q02630|NU116_YEAST -          nup96                -           1.1e-118  396.2 391.1   6.1e-66  221.4 129.9   4.8   1   1   2   3   3   3   3 Nucleoporin NUP116/NSP116 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP116 PE=1 SV=2
+sp|Q02629|NU100_YEAST -          nup96                -            3.7e-93  311.6 512.0   5.4e-71  238.1 119.1   4.6   1   1   3   4   4   4   4 Nucleoporin NUP100/NSP100 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP100 PE=1 SV=1
+sp|Q02199|NUP49_YEAST -          nup96                -            1.7e-26   90.5 107.3     3e-26   89.7 107.3   1.4   1   0   0   1   1   1   1 Nucleoporin NUP49/NSP49 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP49 PE=1 SV=1
+sp|P48837|NUP57_YEAST -          nup96                -            5.2e-26   88.9 204.2     6e-15   52.3 114.4   2.0   1   1   1   2   2   2   2 Nucleoporin NUP57 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP57 PE=1 SV=1
+sp|P49686|NUP42_YEAST -          nup96                -              0.028   10.3 172.4    0.0016   14.3  61.7   2.7   1   1   2   3   3   2   0 Nucleoporin NUP42 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP42 PE=1 SV=1
+sp|P09620|KEX1_YEAST  -          nup96                -              0.045    9.6  23.4     0.056    9.3  23.4   1.1   1   0   0   1   1   1   0 Pheromone-processing carboxypeptidase KEX1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=KEX1 PE=1 SV=1
+sp|P24279|MCM3_YEAST  -          nup96                -               0.38    6.5   3.9      0.56    5.9   3.9   1.1   1   0   0   1   1   1   0 DNA replication licensing factor MCM3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MCM3 PE=1 SV=1
+sp|P40574|YAP5_YEAST  -          nup96                -               0.67    5.7   6.7      0.77    5.5   6.7   1.0   1   0   0   1   1   1   0 AP-1-like transcription factor YAP5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YAP5 PE=1 SV=1
+sp|Q03525|TMA23_YEAST -          nup96                -                1.4    4.6  21.8       1.7    4.4  21.8   1.0   1   0   0   1   1   1   0 Protein TMA23 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TMA23 PE=1 SV=2
+sp|P47110|DPOD3_YEAST -          nup96                -                2.1    4.0  24.9       2.6    3.7  24.9   1.1   1   0   0   1   1   1   0 DNA polymerase delta subunit 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=POL32 PE=1 SV=1
+sp|P38798|NMD2_YEAST  -          nup96                -                2.1    4.0  40.1         3    3.5  40.1   1.1   1   0   0   1   1   1   0 Nonsense-mediated mRNA decay protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NMD2 PE=1 SV=2
+sp|P00127|QCR6_YEAST  -          nup96                -                2.1    4.0  12.9       2.3    3.9  12.9   1.0   1   0   0   1   1   1   0 Cytochrome b-c1 complex subunit 6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=QCR6 PE=1 SV=2
+sp|P53335|PXR1_YEAST  -          nup96                -                2.3    3.9  15.8       2.8    3.6  15.8   1.1   1   0   0   1   1   1   0 Protein PXR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PXR1 PE=1 SV=1
+sp|Q12315|GLE1_YEAST  -          nup96                -                2.6    3.7  11.1       3.1    3.5  11.1   1.2   1   0   0   1   1   1   0 Nucleoporin GLE1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GLE1 PE=1 SV=1
+sp|P53301|CRH1_YEAST  -          nup96                -                3.7    3.2  55.8       5.4    2.7  55.8   1.2   1   0   0   1   1   1   0 Probable glycosidase CRH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CRH1 PE=1 SV=1
+sp|Q07896|NOC3_YEAST  -          nup96                -                6.4    2.4   7.7        10    1.8   7.7   1.3   1   0   0   1   1   1   0 Nucleolar complex-associated protein 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NOC3 PE=1 SV=1
+sp|Q06511|RRP15_YEAST -          nup96                -                9.7    1.8  18.2        11    1.7  18.2   1.0   1   0   0   1   1   1   0 Ribosomal RNA-processing protein 15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRP15 PE=1 SV=1
+sp|P10964|RPA1_YEAST  -          nup96                -                9.8    1.8  14.9        19    0.8  14.9   1.4   1   0   0   1   1   1   0 DNA-directed RNA polymerase I subunit RPA190 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPA190 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SCER/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:25 2022
+# [ok]

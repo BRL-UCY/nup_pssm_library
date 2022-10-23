@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74500|NUP60_SCHPO -          nup60                -           3.7e-138  460.1   0.0  4.6e-138  459.8   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin nup60 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup60 PE=1 SV=1
+sp|Q92383|MAG1_SCHPO  -          nup60                -                2.9    4.9   0.4       9.1    3.3   0.1   1.7   2   0   0   2   2   2   0 DNA-3-methyladenine glycosylase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mag1 PE=1 SV=1
+sp|Q9UT40|YIQ3_SCHPO  -          nup60                -                  6    3.9   0.0       7.8    3.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein C824.03c, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC824.03c PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:16:26 2022
+# [ok]

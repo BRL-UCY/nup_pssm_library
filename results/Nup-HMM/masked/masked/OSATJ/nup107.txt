@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0Y588|A0A0P0Y588_ORYSJ -          nup107               -            1.2e-17   64.7   2.9   7.1e-14   52.3   0.5   2.5   2   1   0   2   2   2   2 Nuclear pore complex protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0643700 PE=3 SV=1
+tr|Q5VQ80|Q5VQ80_ORYSJ         -          nup107               -               0.68    9.3   0.0       5.2    6.4   0.0   2.4   3   0   0   3   3   3   0 Os06g0143500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0143500 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/OSATJ/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:51 2022
+# [ok]

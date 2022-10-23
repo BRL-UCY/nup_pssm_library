@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CEC0|NUP88_MOUSE          -          nup88                -           1.6e-210  702.5   0.0  2.5e-210  701.8   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+tr|A0A1W2P6E5|A0A1W2P6E5_MOUSE -          nup88                -             0.0014   18.5   0.1         1    9.1   0.0   2.6   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+tr|Q9D3W6|Q9D3W6_MOUSE         -          nup88                -             0.0024   17.8   0.0       1.6    8.4   0.0   2.7   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+tr|A6H699|A6H699_MOUSE         -          nup88                -             0.0025   17.7   0.1       1.5    8.5   0.0   2.7   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+sp|Q8BHD1|POC1B_MOUSE          -          nup88                -              0.003   17.4   0.1       1.7    8.3   0.0   2.6   2   0   0   2   2   2   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=2 SV=1
+tr|J3QNZ2|J3QNZ2_MOUSE         -          nup88                -             0.0091   15.8   0.0      0.01   15.6   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+sp|Q9CWU9|NUP37_MOUSE          -          nup88                -              0.044   13.6   0.0       2.8    7.6   0.0   2.0   1   1   1   2   2   2   0 Nucleoporin Nup37 OS=Mus musculus OX=10090 GN=Nup37 PE=1 SV=2
+sp|P63005|LIS1_MOUSE           -          nup88                -               0.19   11.5   0.0       1.1    9.0   0.1   2.2   3   0   0   3   3   3   0 Platelet-activating factor acetylhydrolase IB subunit alpha OS=Mus musculus OX=10090 GN=Pafah1b1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:36 2022
+# [ok]

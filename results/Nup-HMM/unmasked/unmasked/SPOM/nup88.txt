@@ -1,0 +1,23 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9P382|NUP82_SCHPO -          nup88                -            8.8e-77  257.0  23.1   5.2e-28   95.9  11.4   4.9   3   2   1   5   5   5   4 Nucleoporin nup82 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup82 PE=3 SV=1
+sp|Q9P783|RRB1_SCHPO  -          nup88                -              1e-05   22.2   2.5   2.1e-05   21.2   0.4   2.2   2   0   0   2   2   2   1 Ribosome assembly protein rrb1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rrb1 PE=1 SV=1
+sp|O74184|WAT1_SCHPO  -          nup88                -            0.00013   18.5   0.2     0.042   10.2   0.0   2.7   3   0   0   3   3   3   2 Target of rapamycin complex subunit wat1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pop3 PE=1 SV=1
+sp|Q9C1X1|PWP2_SCHPO  -          nup88                -             0.0052   13.2   0.1       1.2    5.4   0.0   3.6   4   0   0   4   4   4   1 Periodic tryptophan protein 2 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC713.04c PE=1 SV=1
+sp|G2TRS9|YBJ2_SCHPO  -          nup88                -              0.028   10.8   6.0     0.092    9.1   5.8   1.7   1   1   0   1   1   1   0 UPF0612 protein C337.02c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC337.02c PE=3 SV=1
+sp|Q9UTC7|YIDC_SCHPO  -          nup88                -              0.055    9.8   0.5         2    4.7   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized WD repeat-containing protein C227.12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC227.12 PE=4 SV=1
+sp|Q9HDT8|YJ51_SCHPO  -          nup88                -              0.083    9.2   7.4      0.56    6.5   7.3   1.7   1   1   0   1   1   1   0 UPF0612 protein P20C8.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCP20C8.01c PE=3 SV=1
+sp|Q09715|TUP11_SCHPO -          nup88                -               0.19    8.0   5.8      0.14    8.5   0.0   2.8   3   1   0   3   3   3   0 Transcriptional repressor tup11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tup11 PE=1 SV=1
+sp|Q9Y7S0|YQO1_SCHPO  -          nup88                -               0.27    7.5   8.0      0.91    5.8   7.9   1.6   1   1   0   1   1   1   0 UPF0612 protein C569.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.01c PE=3 SV=1
+sp|Q9UUG8|TUP12_SCHPO -          nup88                -               0.72    6.1   8.1         9    2.5   3.7   3.1   3   0   0   3   3   3   0 Transcriptional repressor tup12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tup12 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:48 2022
+# [ok]

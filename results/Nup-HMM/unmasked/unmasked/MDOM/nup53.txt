@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J243|A0A498J243_MALDO -          nup53                -            4.7e-82  277.7  11.5   8.7e-68  230.8   4.4   2.9   1   1   1   2   2   2   2 Nuclear pore complex protein NUP35 OS=Malus domestica OX=3750 GN=DVH24_000246 PE=3 SV=1
+tr|A0A498HFQ6|A0A498HFQ6_MALDO -          nup53                -            1.3e-80  272.9  13.5   2.5e-77  262.2  13.5   2.9   1   1   0   1   1   1   1 Nuclear pore complex protein NUP35 OS=Malus domestica OX=3750 GN=DVH24_031487 PE=3 SV=1
+tr|A0A498ITI6|A0A498ITI6_MALDO -          nup53                -            8.1e-13   50.2   0.0     1e-12   49.9   0.0   1.1   1   0   0   1   1   1   1 RRM Nup35-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_022001 PE=4 SV=1
+tr|A0A498HIH8|A0A498HIH8_MALDO -          nup53                -            2.3e-10   42.1   0.0   2.5e-10   42.0   0.0   1.0   1   0   0   1   1   1   1 RRM Nup35-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013545 PE=4 SV=1
+tr|A0A498KJU2|A0A498KJU2_MALDO -          nup53                -              0.087   13.9   0.5     0.087   13.9   0.5   2.5   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014574 PE=4 SV=1
+tr|A0A498KPM3|A0A498KPM3_MALDO -          nup53                -               0.35   11.9   0.1       2.4    9.2   0.0   2.2   2   1   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005445 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:39 2022
+# [ok]

@@ -1,0 +1,53 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CEC0|NUP88_MOUSE          -          nup88                -           1.6e-210  702.5   0.0  2.5e-210  701.8   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+tr|A0A1W2P6E5|A0A1W2P6E5_MOUSE -          nup88                -             0.0014   18.5   0.1         1    9.1   0.0   2.6   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+tr|Q9D3W6|Q9D3W6_MOUSE         -          nup88                -             0.0024   17.8   0.0       1.6    8.4   0.0   2.7   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+tr|A6H699|A6H699_MOUSE         -          nup88                -             0.0025   17.7   0.1       1.5    8.5   0.0   2.7   3   0   0   3   3   3   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=1 SV=1
+sp|Q8BHD1|POC1B_MOUSE          -          nup88                -              0.003   17.4   0.1       1.7    8.3   0.0   2.6   2   0   0   2   2   2   2 POC1 centriolar protein homolog B OS=Mus musculus OX=10090 GN=Poc1b PE=2 SV=1
+tr|J3QNZ2|J3QNZ2_MOUSE         -          nup88                -             0.0091   15.8   0.0      0.01   15.6   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Mus musculus OX=10090 GN=Nup88 PE=1 SV=1
+sp|Q9CWU9|NUP37_MOUSE          -          nup88                -              0.044   13.6   0.0       2.8    7.6   0.0   2.0   1   1   1   2   2   2   0 Nucleoporin Nup37 OS=Mus musculus OX=10090 GN=Nup37 PE=1 SV=2
+tr|F6SSP6|F6SSP6_MOUSE         -          nup88                -               0.14   11.9   0.1      0.27   10.9   0.1   1.3   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase UBR4 (Fragment) OS=Mus musculus OX=10090 GN=Ubr4 PE=1 SV=1
+sp|P63005|LIS1_MOUSE           -          nup88                -               0.19   11.5   0.0       1.1    9.0   0.1   2.2   3   0   0   3   3   3   0 Platelet-activating factor acetylhydrolase IB subunit alpha OS=Mus musculus OX=10090 GN=Pafah1b1 PE=1 SV=2
+sp|Q99KP6|PRP19_MOUSE          -          nup88                -               0.41   10.4   0.3        16    5.1   0.0   2.9   2   1   2   4   4   4   0 Pre-mRNA-processing factor 19 OS=Mus musculus OX=10090 GN=Prpf19 PE=1 SV=1
+tr|G3X934|G3X934_MOUSE         -          nup88                -               0.42   10.3   0.1       4.5    6.9   0.0   2.1   2   0   0   2   2   2   0 MCG115964 OS=Mus musculus OX=10090 GN=Wdr70 PE=1 SV=1
+sp|A2AN08|UBR4_MOUSE           -          nup88                -               0.45   10.2   0.1      0.77    9.5   0.1   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase UBR4 OS=Mus musculus OX=10090 GN=Ubr4 PE=1 SV=1
+sp|Q3TWF6|WDR70_MOUSE          -          nup88                -                0.5   10.1   0.1       5.5    6.6   0.0   2.1   2   0   0   2   2   2   0 WD repeat-containing protein 70 OS=Mus musculus OX=10090 GN=Wdr70 PE=1 SV=1
+sp|Q9CWR1|WDR73_MOUSE          -          nup88                -                1.1    9.0   0.0       1.5    8.5   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 73 OS=Mus musculus OX=10090 GN=Wdr73 PE=1 SV=1
+tr|A0A1L1SR15|A0A1L1SR15_MOUSE -          nup88                -                1.1    8.9   0.6        34    4.0   0.0   2.2   2   0   0   2   2   2   0 POC1 centriolar protein homolog A OS=Mus musculus OX=10090 GN=Poc1a PE=1 SV=1
+tr|A0A1L1SR04|A0A1L1SR04_MOUSE -          nup88                -                1.2    8.8   0.4        39    3.8   0.0   2.2   2   0   0   2   2   2   0 POC1 centriolar protein homolog A (Fragment) OS=Mus musculus OX=10090 GN=Poc1a PE=1 SV=1
+tr|G3UXS9|G3UXS9_MOUSE         -          nup88                -                1.3    8.7   0.0       1.4    8.6   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform (Fragment) OS=Mus musculus OX=10090 GN=Ppp2r2d PE=1 SV=1
+tr|D3Z6R0|D3Z6R0_MOUSE         -          nup88                -                1.5    8.5   0.3       1.8    8.2   0.3   1.0   1   0   0   1   1   1   0 Predicted pseudogene 5478 OS=Mus musculus OX=10090 GN=Gm5478 PE=3 SV=2
+tr|A0A1L1SUQ2|A0A1L1SUQ2_MOUSE -          nup88                -                  2    8.1   0.6        45    3.6   0.0   2.2   2   0   0   2   2   2   0 POC1 centriolar protein homolog A OS=Mus musculus OX=10090 GN=Poc1a PE=1 SV=1
+tr|A0A1L1SQ32|A0A1L1SQ32_MOUSE -          nup88                -                2.2    8.0   0.6        49    3.5   0.0   2.2   2   0   0   2   2   2   0 POC1 centriolar protein homolog A (Fragment) OS=Mus musculus OX=10090 GN=Poc1a PE=1 SV=1
+sp|Q5SRY7|FBW1B_MOUSE          -          nup88                -                2.3    7.9   0.5        36    3.9   0.1   2.1   2   0   0   2   2   2   0 F-box/WD repeat-containing protein 11 OS=Mus musculus OX=10090 GN=Fbxw11 PE=1 SV=1
+sp|Q8JZX3|POC1A_MOUSE          -          nup88                -                2.3    7.9   0.6        51    3.5   0.0   2.2   2   0   0   2   2   2   0 POC1 centriolar protein homolog A OS=Mus musculus OX=10090 GN=Poc1a PE=2 SV=2
+tr|A0A1L1SRG3|A0A1L1SRG3_MOUSE -          nup88                -                  3    7.5   0.6        54    3.4   0.0   2.1   2   0   0   2   2   2   0 POC1 centriolar protein homolog A (Fragment) OS=Mus musculus OX=10090 GN=Poc1a PE=1 SV=1
+tr|B2RQS1|B2RQS1_MOUSE         -          nup88                -                3.2    7.4   0.1       5.5    6.6   0.1   1.3   1   0   0   1   1   1   0 Striatin-3 OS=Mus musculus OX=10090 GN=Strn3 PE=1 SV=1
+tr|F6SSV9|F6SSV9_MOUSE         -          nup88                -                3.3    7.4   0.0       3.5    7.3   0.0   1.0   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase-like 1 OS=Mus musculus OX=10090 GN=Ppil1 PE=4 SV=2
+sp|Q9ERG2|STRN3_MOUSE          -          nup88                -                3.8    7.2   0.1       6.5    6.4   0.1   1.3   1   0   0   1   1   1   0 Striatin-3 OS=Mus musculus OX=10090 GN=Strn3 PE=1 SV=1
+sp|Q8VC51|TCAB1_MOUSE          -          nup88                -                4.3    7.0   0.0       6.7    6.3   0.0   1.2   1   0   0   1   1   1   0 Telomerase Cajal body protein 1 OS=Mus musculus OX=10090 GN=Wrap53 PE=1 SV=1
+sp|Q9D0N7|CAF1B_MOUSE          -          nup88                -                4.4    6.9   0.0       6.9    6.3   0.0   1.3   1   0   0   1   1   1   0 Chromatin assembly factor 1 subunit B OS=Mus musculus OX=10090 GN=Chaf1b PE=1 SV=1
+sp|Q925E7|2ABD_MOUSE           -          nup88                -                4.7    6.9   0.1        13    5.4   0.0   1.6   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform OS=Mus musculus OX=10090 GN=Ppp2r2d PE=1 SV=1
+sp|Q9CY18|SNX7_MOUSE           -          nup88                -                5.1    6.8   1.5       8.4    6.0   1.5   1.4   2   0   0   2   2   2   0 Sorting nexin-7 OS=Mus musculus OX=10090 GN=Snx7 PE=1 SV=1
+sp|Q5SQM0|EMAL6_MOUSE          -          nup88                -                5.7    6.6   0.0        94    2.6   0.0   2.6   2   1   1   3   3   3   0 Echinoderm microtubule-associated protein-like 6 OS=Mus musculus OX=10090 GN=Eml6 PE=2 SV=1
+tr|F7D3B8|F7D3B8_MOUSE         -          nup88                -                5.8    6.6   1.5       7.6    6.2   1.5   1.1   1   0   0   1   1   1   0 Sorting nexin-7 (Fragment) OS=Mus musculus OX=10090 GN=Snx7 PE=1 SV=1
+tr|F8WI30|F8WI30_MOUSE         -          nup88                -                6.2    6.5   1.5        10    5.7   1.5   1.3   1   0   0   1   1   1   0 Sorting nexin-7 OS=Mus musculus OX=10090 GN=Snx7 PE=1 SV=1
+tr|F8WGN6|F8WGN6_MOUSE         -          nup88                -                6.3    6.4   2.1   1.9e+02    1.5   3.1   2.1   2   0   0   2   2   2   0 Kinesin-like protein KIF21A OS=Mus musculus OX=10090 GN=Kif21a PE=1 SV=1
+tr|E9Q0J5|E9Q0J5_MOUSE         -          nup88                -                6.6    6.4   2.1     2e+02    1.5   3.1   2.1   2   0   0   2   2   2   0 Kinesin-like protein KIF21A OS=Mus musculus OX=10090 GN=Kif21a PE=1 SV=2
+sp|Q91WQ5|TAF5L_MOUSE          -          nup88                -                6.7    6.4   0.0        44    3.7   0.0   1.9   1   1   1   2   2   2   0 TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L OS=Mus musculus OX=10090 GN=Taf5l PE=2 SV=1
+sp|Q9QXL2|KI21A_MOUSE          -          nup88                -                6.7    6.4   2.1     2e+02    1.5   3.1   2.1   2   0   0   2   2   2   0 Kinesin-like protein KIF21A OS=Mus musculus OX=10090 GN=Kif21a PE=1 SV=2
+tr|A2A4B4|A2A4B4_MOUSE         -          nup88                -                7.7    6.2   0.2        24    4.6   0.0   1.9   2   0   0   2   2   2   0 EMILIN-3 OS=Mus musculus OX=10090 GN=Emilin3 PE=4 SV=1
+sp|P59900|EMIL3_MOUSE          -          nup88                -                9.2    5.9   0.3        26    4.4   0.0   1.9   2   0   0   2   2   2   0 EMILIN-3 OS=Mus musculus OX=10090 GN=Emilin3 PE=2 SV=1
+sp|Q5SSI6|UTP18_MOUSE          -          nup88                -                9.7    5.8   0.0        80    2.8   0.0   2.1   2   0   0   2   2   2   0 U3 small nucleolar RNA-associated protein 18 homolog OS=Mus musculus OX=10090 GN=Utp18 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup88.txt --max --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:48:31 2022
+# [ok]

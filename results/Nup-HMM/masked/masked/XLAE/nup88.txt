@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8H8E3|A0A1L8H8E3_XENLA -          nup88                -           2.4e-176  589.3   0.0    3e-176  588.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015436mg PE=4 SV=1
+tr|A0A1L8HGG3|A0A1L8HGG3_XENLA -          nup88                -           1.5e-171  573.4   0.0  1.9e-171  573.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18012860mg PE=1 SV=1
+tr|A0A1L8H632|A0A1L8H632_XENLA -          nup88                -             0.0033   17.0   0.0     0.079   12.4   0.1   2.7   3   0   0   3   3   3   1 Lissencephaly-1 homolog OS=Xenopus laevis OX=8355 GN=pafah1b1 PE=3 SV=1
+tr|A0A1L8HDS2|A0A1L8HDS2_XENLA -          nup88                -              0.004   16.7   0.0     0.086   12.3   0.1   2.6   3   0   0   3   3   3   1 Lissencephaly-1 homolog OS=Xenopus laevis OX=8355 GN=PAFAH1B1 PE=3 SV=1
+tr|A0A1L8G8R3|A0A1L8G8R3_XENLA -          nup88                -             0.0061   16.1   0.1       3.8    6.9   0.0   2.7   2   1   1   3   3   3   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18027106mg PE=4 SV=1
+tr|A0A1L8GXT0|A0A1L8GXT0_XENLA -          nup88                -              0.054   13.0   0.1       1.1    8.6   0.0   2.2   2   1   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=thoc3 PE=1 SV=1
+tr|A0A1L8EYB5|A0A1L8EYB5_XENLA -          nup88                -               0.11   11.9   0.5        13    5.1   0.1   3.0   2   1   1   3   3   3   0 Coronin OS=Xenopus laevis OX=8355 GN=XELAEV_18045456mg PE=1 SV=1
+tr|A0A1L8GEU6|A0A1L8GEU6_XENLA -          nup88                -                0.3   10.5   0.6       1.3    8.4   0.1   2.0   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=utp4 PE=4 SV=1
+tr|A0A1L8EJS2|A0A1L8EJS2_XENLA -          nup88                -               0.47    9.9   0.2       6.5    6.1   0.0   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18003528mg PE=4 SV=1
+tr|A0A1L8G6A4|A0A1L8G6A4_XENLA -          nup88                -               0.66    9.4   0.0        23    4.3   0.0   2.6   2   1   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18026090mg PE=4 SV=1
+tr|A0A1L8GPG8|A0A1L8GPG8_XENLA -          nup88                -               0.84    9.0   1.6       6.7    6.1   0.0   2.4   2   1   1   3   3   3   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18023891mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:55 2022
+# [ok]

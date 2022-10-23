@@ -1,0 +1,58 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9GYU8|NUP88_DROME          -          nup88                -           5.2e-171  570.6   0.0  5.8e-171  570.4   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Drosophila melanogaster OX=7227 GN=mbo PE=1 SV=2
+sp|Q7KNS3|LIS1_DROME           -          nup88                -            0.00097   17.7   0.0      0.93    7.9   0.0   2.4   2   1   0   2   2   2   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=1 SV=2
+tr|A0A0B4K812|A0A0B4K812_DROME -          nup88                -            0.00097   17.7   0.0      0.93    7.9   0.0   2.4   2   1   0   2   2   2   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=3 SV=1
+sp|Q9W328|LST8_DROME           -          nup88                -              0.087   11.3   0.0      0.19   10.1   0.0   1.5   2   0   0   2   2   2   0 Protein LST8 homolog OS=Drosophila melanogaster OX=7227 GN=Lst8 PE=1 SV=2
+tr|B7YZU7|B7YZU7_DROME         -          nup88                -               0.13   10.6   0.2      0.17   10.3   0.2   1.1   1   0   0   1   1   1   0 Lectin-22C OS=Drosophila melanogaster OX=7227 GN=lectin-22C PE=1 SV=1
+sp|Q9VLT5|POE_DROME            -          nup88                -                0.4    9.1   0.1      0.61    8.5   0.1   1.1   1   0   0   1   1   1   0 Protein purity of essence OS=Drosophila melanogaster OX=7227 GN=poe PE=1 SV=1
+tr|M9PB68|M9PB68_DROME         -          nup88                -                0.4    9.1   0.1      0.61    8.5   0.1   1.1   1   0   0   1   1   1   0 Purity of essence, isoform B OS=Drosophila melanogaster OX=7227 GN=poe PE=4 SV=1
+tr|Q9VAK0|Q9VAK0_DROME         -          nup88                -               0.42    9.0   0.0       3.4    6.0   0.0   2.1   3   0   0   3   3   3   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7568 PE=4 SV=3
+tr|A0A0B4KI55|A0A0B4KI55_DROME -          nup88                -               0.46    8.9   0.1       3.6    5.9   0.0   2.1   3   0   0   3   3   3   0 Uncharacterized protein, isoform E OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7568 PE=4 SV=1
+tr|Q7JVY0|Q7JVY0_DROME         -          nup88                -                0.8    8.1   0.2       3.1    6.1   0.1   1.8   2   0   0   2   2   2   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+tr|A0A0B4KEU5|A0A0B4KEU5_DROME -          nup88                -               0.82    8.1   0.2       3.1    6.1   0.1   1.8   2   0   0   2   2   2   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+tr|A0A0B4KEJ7|A0A0B4KEJ7_DROME -          nup88                -               0.82    8.1   0.2       3.1    6.1   0.1   1.8   2   0   0   2   2   2   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+tr|Q7KLW9|Q7KLW9_DROME         -          nup88                -                  1    7.7   0.0        72    1.6   0.0   3.1   2   1   2   4   4   4   0 BcDNA.LD02793 OS=Drosophila melanogaster OX=7227 GN=Prp19 PE=1 SV=1
+sp|Q7K2X8|SEH1_DROME           -          nup88                -                  1    7.7   0.0       1.9    6.9   0.0   1.3   1   0   0   1   1   1   0 Nucleoporin seh1 OS=Drosophila melanogaster OX=7227 GN=Nup44A PE=1 SV=1
+tr|Q9W2E7|Q9W2E7_DROME         -          nup88                -                1.1    7.6   0.0       6.7    5.0   0.0   2.1   3   0   0   3   3   3   0 Rae1 OS=Drosophila melanogaster OX=7227 GN=Rae1 PE=1 SV=1
+tr|A1Z9J3|A1Z9J3_DROME         -          nup88                -                1.9    6.8   5.6       1.7    7.0   0.3   2.9   2   0   0   2   2   2   0 Short stop, isoform H OS=Drosophila melanogaster OX=7227 GN=shot PE=1 SV=1
+sp|Q9VLJ6|ACER_DROME           -          nup88                -                2.3    6.5   1.2       3.2    6.1   1.2   1.1   1   0   0   1   1   1   0 Angiotensin-converting enzyme-related protein OS=Drosophila melanogaster OX=7227 GN=Acer PE=1 SV=1
+tr|M9PCE8|M9PCE8_DROME         -          nup88                -                2.3    6.5   1.2       3.2    6.1   1.2   1.1   1   0   0   1   1   1   0 Angiotensin-converting enzyme OS=Drosophila melanogaster OX=7227 GN=Acer PE=3 SV=1
+sp|A1Z8D0|PWP1_DROME           -          nup88                -                2.5    6.5   0.0        42    2.4   0.0   1.9   1   1   0   2   2   2   0 Periodic tryptophan protein 1 homolog OS=Drosophila melanogaster OX=7227 GN=nclb PE=1 SV=1
+sp|Q9VU65|POC1_DROME           -          nup88                -                2.6    6.4   0.1       7.6    4.8   0.0   1.8   3   0   0   3   3   3   0 POC1 centriolar protein homolog OS=Drosophila melanogaster OX=7227 GN=Poc1 PE=2 SV=1
+tr|M9PCD6|M9PCD6_DROME         -          nup88                -                2.7    6.4   0.1         8    4.8   0.0   1.8   3   0   0   3   3   3   0 Proteome of centrioles 1, isoform B OS=Drosophila melanogaster OX=7227 GN=Poc1 PE=4 SV=1
+tr|Q9VTY5|Q9VTY5_DROME         -          nup88                -                  3    6.2   0.0       7.3    4.9   0.0   1.5   2   0   0   2   2   2   0 RH33377p OS=Drosophila melanogaster OX=7227 GN=anon-WO0172774.52 PE=1 SV=1
+tr|Q9W3W1|Q9W3W1_DROME         -          nup88                -                3.6    5.9   0.0        60    1.9   0.0   2.4   2   1   1   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=pod1 PE=1 SV=1
+tr|Q95SM8|Q95SM8_DROME         -          nup88                -                4.2    5.7   0.0       5.8    5.2   0.0   1.0   1   0   0   1   1   1   0 GH13859p OS=Drosophila melanogaster OX=7227 GN=CG6676 PE=2 SV=1
+tr|Q9V9V0|Q9V9V0_DROME         -          nup88                -                4.2    5.7   0.0       8.8    4.6   0.0   1.5   1   1   1   2   2   2   0 Cleavage stimulation factor 50 kD subunit OS=Drosophila melanogaster OX=7227 GN=CstF50 PE=1 SV=1
+tr|Q9VHT2|Q9VHT2_DROME         -          nup88                -                4.4    5.6   0.2        11    4.3   0.1   1.6   2   0   0   2   2   2   0 FI07663p OS=Drosophila melanogaster OX=7227 GN=tex PE=1 SV=1
+tr|A4V4D2|A4V4D2_DROME         -          nup88                -                5.4    5.3   0.0         9    4.6   0.0   1.2   1   0   0   1   1   1   0 Tomosyn, isoform H OS=Drosophila melanogaster OX=7227 GN=Tomosyn PE=1 SV=1
+tr|A8JV09|A8JV09_DROME         -          nup88                -                5.4    5.3   0.0        79    1.5   0.0   2.3   2   1   1   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=pod1 PE=1 SV=1
+tr|D6W4T8|D6W4T8_DROME         -          nup88                -                5.5    5.3   0.0        76    1.5   0.0   2.3   2   1   1   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=pod1 PE=1 SV=1
+tr|Q9W1T0|Q9W1T0_DROME         -          nup88                -                6.1    5.2   0.0        19    3.5   0.0   1.7   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12782 PE=4 SV=1
+tr|Q9VYK5|Q9VYK5_DROME         -          nup88                -                6.2    5.2   0.0        10    4.5   0.0   1.2   1   0   0   1   1   1   0 Tomosyn, isoform K OS=Drosophila melanogaster OX=7227 GN=Tomosyn PE=1 SV=4
+tr|Q9VYK6|Q9VYK6_DROME         -          nup88                -                6.6    5.1   0.0        11    4.4   0.0   1.2   1   0   0   1   1   1   0 Tomosyn, isoform C OS=Drosophila melanogaster OX=7227 GN=Tomosyn PE=1 SV=3
+sp|Q9VSU7|USE1_DROME           -          nup88                -                6.7    5.0   0.8       9.8    4.5   0.8   1.1   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Drosophila melanogaster OX=7227 GN=Use1 PE=2 SV=3
+tr|E1JHE1|E1JHE1_DROME         -          nup88                -                7.2    4.9   0.3        11    4.3   0.3   1.1   1   0   0   1   1   1   0 Kinesin-like protein at 31E, isoform E OS=Drosophila melanogaster OX=7227 GN=Klp31E PE=3 SV=1
+tr|Q9VKW4|Q9VKW4_DROME         -          nup88                -                7.3    4.9   0.3        11    4.3   0.3   1.1   1   0   0   1   1   1   0 Kinesin-like protein at 31E, isoform A OS=Drosophila melanogaster OX=7227 GN=Klp31E PE=2 SV=2
+tr|Q9VPL0|Q9VPL0_DROME         -          nup88                -                7.6    4.9   0.0        28    3.0   0.0   1.8   2   0   0   2   2   2   0 GM13767p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3436 PE=1 SV=1
+tr|M9PF42|M9PF42_DROME         -          nup88                -                7.8    4.8   0.0        13    4.1   0.0   1.3   1   0   0   1   1   1   0 Connector of kinase to AP-1, isoform G OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+tr|Q9VLT9|Q9VLT9_DROME         -          nup88                -                7.9    4.8   0.0        13    4.0   0.0   1.3   1   0   0   1   1   1   0 Connector of kinase to AP-1, isoform A OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=2
+tr|M9NEC0|M9NEC0_DROME         -          nup88                -                8.1    4.8   0.0        14    4.0   0.0   1.3   1   0   0   1   1   1   0 Connector of kinase to AP-1, isoform F OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+tr|D3DML3|D3DML3_DROME         -          nup88                -                8.2    4.8   0.0        14    4.0   0.0   1.3   1   0   0   1   1   1   0 Connector of kinase to AP-1, isoform E OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+tr|P91942|P91942_DROME         -          nup88                -                8.3    4.7   0.0         8    4.8   0.0   1.0   1   0   0   1   1   1   0 Cuticle protein LCP65Ae OS=Drosophila melanogaster OX=7227 GN=Lcp65Ae PE=1 SV=1
+sp|Q9VLN1|WDR82_DROME          -          nup88                -                8.5    4.7   0.2        39    2.5   0.0   2.0   3   0   0   3   3   3   0 WD repeat-containing protein 82 OS=Drosophila melanogaster OX=7227 GN=Wdr82 PE=1 SV=1
+tr|Q8INB8|Q8INB8_DROME         -          nup88                -                9.4    4.5   0.2        12    4.2   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31287 PE=4 SV=1
+sp|O18640|GBLP_DROME           -          nup88                -                9.6    4.5   0.0        13    4.1   0.0   1.2   1   0   0   1   1   1   0 Guanine nucleotide-binding protein subunit beta-like protein OS=Drosophila melanogaster OX=7227 GN=Rack1 PE=1 SV=2
+tr|M9PCC1|M9PCC1_DROME         -          nup88                -                9.6    4.5   0.0        13    4.1   0.0   1.2   1   0   0   1   1   1   0 Receptor of activated protein kinase C 1, isoform C OS=Drosophila melanogaster OX=7227 GN=Rack1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup88.txt --max --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:09:26 2022
+# [ok]

@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HI99|F7HI99_MACMU         -          nup358               -                  0 3943.8 136.3         0 2483.4   0.9   7.2   1   1   5   6   6   6   6 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7GZD7|F7GZD7_MACMU         -          nup358               -                  0 2455.8  71.9         0 1676.3  13.2   3.8   1   1   2   3   3   3   3 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7HGB6|F7HGB6_MACMU         -          nup358               -                  0 2161.4  79.3  1.2e-296  989.2   4.0   4.8   1   1   3   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|A0A1D5QCJ9|A0A1D5QCJ9_MACMU -          nup358               -           2.9e-102  344.4   7.9  3.3e-102  344.2   7.9   1.0   1   0   0   1   1   1   1 TPR_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=1
+tr|A0A1D5QX67|A0A1D5QX67_MACMU -          nup358               -              7e-87  293.4   3.6   8.2e-87  293.1   3.6   1.0   1   0   0   1   1   1   1 TPR_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=1
+tr|F7GMJ1|F7GMJ1_MACMU         -          nup358               -            4.4e-64  217.7  15.6     5e-64  217.5  15.6   1.0   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=2 SV=2
+tr|A0A1D5RHC9|A0A1D5RHC9_MACMU -          nup358               -            4.6e-64  217.7  14.4   5.3e-64  217.4  14.4   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|A0A1D5Q649|A0A1D5Q649_MACMU -          nup358               -            4.8e-64  217.6  14.9   5.6e-64  217.4  14.9   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|A0A1D5Q231|A0A1D5Q231_MACMU -          nup358               -            2.3e-50  172.2   2.1   2.6e-50  172.0   2.1   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F6V9C1|F6V9C1_MACMU         -          nup358               -            1.2e-27   96.9  67.5     4e-14   52.0   7.4   7.9   2   2   5   8   8   5   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=2
+tr|A0A1D5R0K3|A0A1D5R0K3_MACMU -          nup358               -            1.9e-27   96.2  67.8   6.8e-14   51.2   7.4   7.9   2   1   5   8   8   5   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+tr|A0A1D5R5K2|A0A1D5R5K2_MACMU -          nup358               -            2.7e-27   95.7  68.7   6.9e-14   51.2   7.7   7.8   1   1   5   8   8   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP153 PE=4 SV=1
+tr|F6V9A5|F6V9A5_MACMU         -          nup358               -            4.4e-27   95.0  68.5   8.9e-14   50.8   7.6   7.9   2   2   5   8   8   4   4 Nuclear pore complex protein Nup153 OS=Macaca mulatta OX=9544 GN=NUP153 PE=2 SV=2
+tr|A0A1D5R0X7|A0A1D5R0X7_MACMU -          nup358               -            1.6e-24   86.5   2.0   1.9e-24   86.3   2.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=1
+tr|F7HI88|F7HI88_MACMU         -          nup358               -            4.9e-15   55.0  10.5   7.8e-15   54.3  10.5   1.4   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI90|F7HI90_MACMU         -          nup358               -            9.7e-14   50.7   9.3   9.7e-14   50.7   9.3   2.0   1   1   1   2   2   2   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI87|F7HI87_MACMU         -          nup358               -            2.5e-13   49.4  18.9   7.8e-13   47.7  19.0   1.4   1   1   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F6YDF5|F6YDF5_MACMU         -          nup358               -            9.1e-09   34.2  12.4   9.1e-09   34.2  12.4   2.1   2   1   0   2   2   2   1 Nuclear pore complex protein Nup50 isoform b OS=Macaca mulatta OX=9544 GN=NUP50 PE=2 SV=1
+tr|A0A1D5QK57|A0A1D5QK57_MACMU -          nup358               -            0.00012   20.5   1.7   0.00013   20.5   1.7   1.0   1   0   0   1   1   1   1 RanBP2-type domain-containing protein OS=Macaca mulatta OX=9544 GN=YAF2 PE=4 SV=1
+tr|A0A1D5R7N8|A0A1D5R7N8_MACMU -          nup358               -            0.00025   19.5   0.4   0.00026   19.4   0.4   1.0   1   0   0   1   1   1   1 RanBP2-type domain-containing protein OS=Macaca mulatta OX=9544 GN=YAF2 PE=4 SV=1
+tr|A0A1D5Q5W2|A0A1D5Q5W2_MACMU -          nup358               -            0.00032   19.1   0.6   0.00034   19.0   0.6   1.0   1   0   0   1   1   1   1 RanBP2-type domain-containing protein OS=Macaca mulatta OX=9544 GN=YAF2 PE=4 SV=1
+tr|H9Z421|H9Z421_MACMU         -          nup358               -            0.00043   18.7   0.5   0.00043   18.7   0.5   1.0   1   0   0   1   1   1   1 YY1-associated factor 2 isoform 4 OS=Macaca mulatta OX=9544 GN=YAF2 PE=2 SV=1
+tr|A0A1D5QYN6|A0A1D5QYN6_MACMU -          nup358               -            0.00046   18.6   0.5   0.00053   18.4   0.5   1.0   1   0   0   1   1   1   1 RanBP2-type domain-containing protein OS=Macaca mulatta OX=9544 GN=YAF2 PE=4 SV=1
+tr|F6T3Q0|F6T3Q0_MACMU         -          nup358               -             0.0027   16.0  14.3    0.0037   15.6  14.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NEIL3 PE=4 SV=1
+tr|F7HTG6|F7HTG6_MACMU         -          nup358               -              0.036   12.3   8.6    0.0083   14.4   3.9   1.9   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZRANB1 PE=4 SV=2
+tr|A0A1D5RDQ7|A0A1D5RDQ7_MACMU -          nup358               -              0.052   11.8   0.0     0.052   11.8   0.0   3.8   3   1   1   4   4   3   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=ENAH PE=4 SV=1
+tr|A0A1D5RAH0|A0A1D5RAH0_MACMU -          nup358               -               0.18   10.0   0.7      0.23    9.7   0.7   1.0   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=BBS4 PE=4 SV=1
+tr|A0A1D5R743|A0A1D5R743_MACMU -          nup358               -               0.29    9.3  32.6      0.49    8.6  32.6   1.2   1   0   0   1   1   1   0 RING1 and YY1 binding protein OS=Macaca mulatta OX=9544 GN=RYBP PE=4 SV=1
+tr|F6Z8F1|F6Z8F1_MACMU         -          nup358               -               0.29    9.3   0.0      0.33    9.1   0.0   1.0   1   0   0   1   1   1   0 WH1 domain-containing protein OS=Macaca mulatta OX=9544 GN=VASP PE=4 SV=2
+tr|A0A1D5Q362|A0A1D5Q362_MACMU -          nup358               -               0.65    8.2   3.2      0.53    8.4   0.0   2.2   3   0   0   3   3   3   0 TPR_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=CDC23 PE=4 SV=1
+tr|A0A1D5R2B2|A0A1D5R2B2_MACMU -          nup358               -               0.74    8.0  35.5       1.3    7.2  35.5   1.3   1   1   0   1   1   1   0 RING1 and YY1 binding protein OS=Macaca mulatta OX=9544 GN=RYBP PE=4 SV=1
+tr|A0A1D5R776|A0A1D5R776_MACMU -          nup358               -                2.1    6.5   7.6       2.2    6.4   7.6   1.1   1   0   0   1   1   1   0 FERM domain-containing protein OS=Macaca mulatta OX=9544 GN=FRMD6 PE=4 SV=1
+tr|A0A1D5QUX7|A0A1D5QUX7_MACMU -          nup358               -                  3    6.0  24.7       3.7    5.6  24.7   1.0   1   0   0   1   1   1   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5R0B1|A0A1D5R0B1_MACMU -          nup358               -                5.6    5.1  10.4       6.4    4.9   0.2   2.8   2   1   0   2   2   2   0 TPR_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=TMTC1 PE=4 SV=1
+tr|F7E9I8|F7E9I8_MACMU         -          nup358               -                6.9    4.8  30.2       8.4    4.5  30.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCDC6 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:36 2022
+# [ok]

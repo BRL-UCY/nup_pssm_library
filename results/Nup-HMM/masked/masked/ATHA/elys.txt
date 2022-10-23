@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8B159|A0A1P8B159_ARATH -          elys                 -            4.2e-26   91.4   4.6     2e-14   52.7   0.0   3.0   3   0   0   3   3   3   3 Ubiquitin-protein ligase OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=4 SV=1
+sp|Q84JU6|HOS1_ARATH           -          elys                 -              8e-26   90.5   4.6   2.5e-14   52.3   0.0   3.0   3   0   0   3   3   3   3 E3 ubiquitin-protein ligase HOS1 OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=1 SV=1
+tr|F4K0R0|F4K0R0_ARATH         -          elys                 -               0.19    9.6   0.1      0.96    7.3   0.0   1.8   2   0   0   2   2   2   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=MOP10.11 PE=4 SV=1
+tr|Q9FFF8|Q9FFF8_ARATH         -          elys                 -               0.22    9.4   0.2         1    7.2   0.1   1.8   2   0   0   2   2   2   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=MOP10.11 PE=4 SV=1
+sp|Q8VYZ5|PWP2_ARATH           -          elys                 -               0.53    8.2   0.0       0.7    7.8   0.0   1.0   1   0   0   1   1   1   0 Periodic tryptophan protein 2 OS=Arabidopsis thaliana OX=3702 GN=PWP2 PE=1 SV=1
+sp|O49558|PP331_ARATH          -          elys                 -               0.79    7.6   0.1       1.1    7.1   0.1   1.0   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At4g21170 OS=Arabidopsis thaliana OX=3702 GN=At4g21170 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:42 2022
+# [ok]

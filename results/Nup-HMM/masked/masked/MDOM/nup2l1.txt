@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IWQ4|A0A498IWQ4_MALDO -          nup2l1               -              2e-19   71.7  23.1    0.0087   16.9   0.1   6.1   6   0   0   6   6   6   6 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021980 PE=4 SV=1
+tr|A0A498HMT8|A0A498HMT8_MALDO -          nup2l1               -            1.1e-16   62.6  23.6    0.0006   20.7   0.4   5.2   5   0   0   5   5   5   5 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025541 PE=4 SV=1
+tr|A0A498J5U3|A0A498J5U3_MALDO -          nup2l1               -              8e-13   50.0  25.1    0.0095   16.8   2.4   5.1   5   0   0   5   5   5   5 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032394 PE=4 SV=1
+tr|A0A498I9Z3|A0A498I9Z3_MALDO -          nup2l1               -            1.5e-12   49.1  26.5    0.0012   19.7   0.2   4.9   5   0   0   5   5   5   4 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041413 PE=4 SV=1
+tr|A0A498IHD2|A0A498IHD2_MALDO -          nup2l1               -            7.6e-12   46.7  27.2    0.0032   18.3   0.5   5.1   4   1   1   5   5   5   5 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036911 PE=4 SV=1
+tr|A0A498ISN9|A0A498ISN9_MALDO -          nup2l1               -            8.8e-12   46.5  25.1   6.3e-05   23.9   0.6   4.8   5   0   0   5   5   5   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_027212 PE=4 SV=1
+tr|A0A498HF44|A0A498HF44_MALDO -          nup2l1               -            1.4e-11   45.9  22.6     0.017   15.9   2.4   5.1   5   0   0   5   5   5   5 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028104 PE=4 SV=1
+tr|A0A498K500|A0A498K500_MALDO -          nup2l1               -            8.9e-10   39.9  22.0    0.0047   17.8   1.4   4.8   5   0   0   5   5   5   4 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030306 PE=4 SV=1
+tr|A0A498JEZ6|A0A498JEZ6_MALDO -          nup2l1               -            4.3e-09   37.7   3.6   4.3e-09   37.7   3.6   1.9   2   0   0   2   2   2   1 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_016157 PE=4 SV=1
+tr|A0A498JJL4|A0A498JJL4_MALDO -          nup2l1               -            2.7e-08   35.0  36.5    0.0007   20.5   0.8   7.0   7   0   0   7   7   7   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008629 PE=4 SV=1
+tr|A0A498K2B1|A0A498K2B1_MALDO -          nup2l1               -              4e-08   34.5   1.6     4e-08   34.5   1.6   1.8   2   1   0   2   2   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000668 PE=4 SV=1
+tr|A0A498KJ50|A0A498KJ50_MALDO -          nup2l1               -            2.4e-07   31.9   3.5   2.4e-07   31.9   3.5   2.5   3   0   0   3   3   3   1 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_006690 PE=4 SV=1
+tr|A0A498KJU8|A0A498KJU8_MALDO -          nup2l1               -            8.6e-06   26.8   0.4   1.3e-05   26.2   0.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022603 PE=4 SV=1
+tr|A0A498K545|A0A498K545_MALDO -          nup2l1               -            8.9e-06   26.7  18.1   0.00082   20.3   0.2   3.9   4   0   0   4   4   4   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002709 PE=4 SV=1
+tr|A0A498I3J3|A0A498I3J3_MALDO -          nup2l1               -            2.1e-05   25.5  25.2    0.0032   18.3   0.9   4.1   4   0   0   4   4   4   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039731 PE=4 SV=1
+tr|A0A498J088|A0A498J088_MALDO -          nup2l1               -            7.5e-05   23.7   1.7    0.0001   23.2   1.7   1.1   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037582 PE=4 SV=1
+tr|A0A498JHE7|A0A498JHE7_MALDO -          nup2l1               -            7.5e-05   23.7   3.2   0.00011   23.1   3.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024674 PE=4 SV=1
+tr|A0A498KS16|A0A498KS16_MALDO -          nup2l1               -             0.0001   23.2   2.4   0.00014   22.8   2.4   1.1   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023395 PE=4 SV=1
+tr|A0A498KV37|A0A498KV37_MALDO -          nup2l1               -            0.00018   22.5   3.2   0.00024   22.0   3.2   1.1   1   0   0   1   1   1   1 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004458 PE=4 SV=1
+tr|A0A498IT29|A0A498IT29_MALDO -          nup2l1               -            0.00062   20.7   7.6     0.016   16.0   2.0   2.1   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042035 PE=4 SV=1
+tr|A0A498K5Q2|A0A498K5Q2_MALDO -          nup2l1               -            0.00089   20.2  17.4    0.0054   17.6   0.8   3.1   3   0   0   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002715 PE=4 SV=1
+tr|A0A498IIY4|A0A498IIY4_MALDO -          nup2l1               -            0.00098   20.0  13.2     0.067   14.0   1.1   3.1   3   0   0   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005117 PE=4 SV=1
+tr|A0A498I3E1|A0A498I3E1_MALDO -          nup2l1               -              0.001   19.9  13.2     0.066   14.0   1.1   3.1   3   0   0   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019463 PE=4 SV=1
+tr|A0A498KHR4|A0A498KHR4_MALDO -          nup2l1               -              0.011   16.5   3.1      0.35   11.6   0.5   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026113 PE=4 SV=1
+tr|A0A498K8X9|A0A498K8X9_MALDO -          nup2l1               -              0.022   15.5  17.2     0.025   15.4   1.8   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_038110 PE=4 SV=1
+tr|A0A498J211|A0A498J211_MALDO -          nup2l1               -              0.025   15.4   2.3     0.034   14.9   2.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042465 PE=4 SV=1
+tr|A0A498IJG8|A0A498IJG8_MALDO -          nup2l1               -              0.063   14.1   0.7     0.087   13.6   0.7   1.1   1   0   0   1   1   1   0 Non-specific serine/threonine protein kinase OS=Malus domestica OX=3750 GN=DVH24_036463 PE=3 SV=1
+tr|A0A498K346|A0A498K346_MALDO -          nup2l1               -               0.13   13.0  13.0      0.56   10.9   3.9   2.2   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002658 PE=4 SV=1
+tr|A0A498HLM0|A0A498HLM0_MALDO -          nup2l1               -               0.14   13.0   0.3      0.25   12.1   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007681 PE=3 SV=1
+tr|A0A498IWP9|A0A498IWP9_MALDO -          nup2l1               -               0.24   12.1   0.2      0.35   11.6   0.2   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017255 PE=4 SV=1
+tr|A0A498IU17|A0A498IU17_MALDO -          nup2l1               -                0.3   11.8  11.6      0.41   11.4  11.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041611 PE=4 SV=1
+tr|A0A498JE52|A0A498JE52_MALDO -          nup2l1               -               0.55   11.0   3.1      0.82   10.4   3.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016045 PE=4 SV=1
+tr|A0A498JVG8|A0A498JVG8_MALDO -          nup2l1               -               0.71   10.6   0.4      0.98   10.1   0.4   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_011490 PE=4 SV=1
+tr|A0A498K557|A0A498K557_MALDO -          nup2l1               -               0.72   10.6   4.2       1.1    9.9   4.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004032 PE=4 SV=1
+tr|A0A498K4M6|A0A498K4M6_MALDO -          nup2l1               -               0.96   10.2   3.8       1.4    9.6   3.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003862 PE=4 SV=1
+tr|A0A498HM30|A0A498HM30_MALDO -          nup2l1               -                2.3    8.9   5.3        29    5.3   0.1   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015594 PE=4 SV=1
+tr|A0A498KAF3|A0A498KAF3_MALDO -          nup2l1               -                2.9    8.6   4.1       4.2    8.0   4.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006577 PE=4 SV=1
+tr|A0A498IKR2|A0A498IKR2_MALDO -          nup2l1               -                3.3    8.4   2.9       4.7    7.9   2.9   1.1   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013181 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:36 2022
+# [ok]

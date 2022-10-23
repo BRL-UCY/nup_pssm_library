@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5SRE5|NU188_HUMAN  -          nup188               -                  0 3008.5  23.1         0 3008.3  23.1   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|H7C4K7|H7C4K7_HUMAN -          nup188               -            7.2e-42  144.6   0.4     8e-42  144.4   0.4   1.0   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) OS=Homo sapiens OX=9606 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup188.txt --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:25:25 2022
+# [ok]

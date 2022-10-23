@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7HEM9|F7HEM9_MACMU         -          pom121               -           1.3e-226  756.4   0.0  1.4e-226  756.3   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=1
+tr|F7G907|F7G907_MACMU         -          pom121               -           2.9e-209  698.9   0.0  3.4e-209  698.7   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121C PE=4 SV=2
+tr|A0A1D5R4N0|A0A1D5R4N0_MACMU -          pom121               -            2.8e-53  182.4  11.3   3.9e-53  181.9  11.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=POM121L12 PE=4 SV=1
+tr|F6QY21|F6QY21_MACMU         -          pom121               -            8.5e-40  137.8   0.0   1.1e-39  137.4   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|A0A1D5QG05|A0A1D5QG05_MACMU -          pom121               -            9.1e-25   88.0   0.0   1.4e-24   87.3   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5Q7A6|A0A1D5Q7A6_MACMU -          pom121               -            2.3e-20   73.4   2.9   3.8e-20   72.7   2.9   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC100428605 PE=4 SV=1
+tr|A0A1D5QQL2|A0A1D5QQL2_MACMU -          pom121               -            2.3e-12   47.0   0.0   2.6e-12   46.8   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/pom121.txt --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:12 2022
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7CR78|F7CR78_MOUSE         -          pom152               -            4.3e-08   33.2  18.6       1.9    7.8   0.0  11.7  13   1   1  14  14  14   4 Titin (Fragment) OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+tr|A2AT70|A2AT70_MOUSE         -          pom152               -            2.3e-07   30.7   3.1      0.76    9.2   0.0   6.9   7   2   1   9   9   9   3 Titin (Fragment) OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+tr|Q3V3J9|Q3V3J9_MOUSE         -          pom152               -               0.75    9.2   0.1         1    8.7   0.1   1.1   1   0   0   1   1   1   0 GRB2-associated-binding protein 3 OS=Mus musculus OX=10090 GN=Gab3 PE=1 SV=1
+tr|D6RH49|D6RH49_MOUSE         -          pom152               -                  2    7.7   0.0         2    7.7   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Mus musculus OX=10090 GN=Rps27l PE=1 SV=1
+sp|Q8BQ86|CHST8_MOUSE          -          pom152               -                2.4    7.5   0.0       3.4    7.0   0.0   1.1   1   0   0   1   1   1   0 Carbohydrate sulfotransferase 8 OS=Mus musculus OX=10090 GN=Chst8 PE=2 SV=1
+sp|Q6ZWY3|RS27L_MOUSE          -          pom152               -                2.5    7.4   0.0       2.5    7.4   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27-like OS=Mus musculus OX=10090 GN=Rps27l PE=1 SV=3
+tr|E0CYT5|E0CYT5_MOUSE         -          pom152               -                3.3    7.0   0.0       4.4    6.6   0.0   1.1   1   0   0   1   1   1   0 Cullin-2 (Fragment) OS=Mus musculus OX=10090 GN=Cul2 PE=1 SV=1
+sp|Q9D4H8|CUL2_MOUSE           -          pom152               -                3.6    6.9   0.0       5.2    6.4   0.0   1.1   1   0   0   1   1   1   0 Cullin-2 OS=Mus musculus OX=10090 GN=Cul2 PE=1 SV=2
+tr|D3YYB0|D3YYB0_MOUSE         -          pom152               -                4.1    6.8   0.0       4.7    6.6   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Mus musculus OX=10090 GN=Rps27l PE=1 SV=1
+tr|A0A0G2JG29|A0A0G2JG29_MOUSE -          pom152               -                6.5    6.1   0.0       6.7    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Mus musculus OX=10090 GN=Rps27 PE=1 SV=1
+tr|A0A0G2JDW7|A0A0G2JDW7_MOUSE -          pom152               -                6.5    6.1   0.0       6.8    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 (Fragment) OS=Mus musculus OX=10090 GN=Rps27 PE=1 SV=1
+sp|Q6ZWU9|RS27_MOUSE           -          pom152               -                6.7    6.0   0.0       6.9    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Mus musculus OX=10090 GN=Rps27 PE=1 SV=3
+tr|F6YIS2|F6YIS2_MOUSE         -          pom152               -                8.9    5.6   0.1        12    5.2   0.1   1.0   1   0   0   1   1   1   0 cAMP-specific 3',5'-cyclic phosphodiesterase 4D (Fragment) OS=Mus musculus OX=10090 GN=Pde4d PE=1 SV=1
+tr|E9PZ28|E9PZ28_MOUSE         -          pom152               -                9.1    5.6   0.9        12    5.2   0.9   1.1   1   0   0   1   1   1   0 Microphthalmia-associated transcription factor OS=Mus musculus OX=10090 GN=Mitf PE=1 SV=1
+sp|Q08874|MITF_MOUSE           -          pom152               -                9.7    5.5   0.9        13    5.1   0.9   1.1   1   0   0   1   1   1   0 Microphthalmia-associated transcription factor OS=Mus musculus OX=10090 GN=Mitf PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:02:27 2022
+# [ok]

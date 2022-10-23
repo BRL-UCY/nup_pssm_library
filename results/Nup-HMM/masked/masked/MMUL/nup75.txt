@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5RJP4|A0A1D5RJP4_MACMU -          nup75                -           1.1e-236  788.4   2.6  1.2e-236  788.2   2.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|H9FZZ2|H9FZZ2_MACMU         -          nup75                -           1.1e-236  788.3   2.6  1.3e-236  788.2   2.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=2 SV=1
+tr|F7DH68|F7DH68_MACMU         -          nup75                -           7.9e-223  742.6   1.2  1.2e-222  742.1   1.2   1.2   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=2
+tr|A0A1D5RC65|A0A1D5RC65_MACMU -          nup75                -           2.5e-217  724.4   4.9  1.8e-168  563.1   6.2   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+tr|A0A1D5R0I2|A0A1D5R0I2_MACMU -          nup75                -            4.1e-34  119.2   0.1   4.6e-34  119.0   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Macaca mulatta OX=9544 GN=NUP85 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:58 2022
+# [ok]

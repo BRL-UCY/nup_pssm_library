@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7K0D8|NUP50_DROME          -          nup50                -           6.5e-141  471.0   0.0  7.3e-141  470.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup50 OS=Drosophila melanogaster OX=7227 GN=Nup50 PE=2 SV=1
+sp|A0A0B4K7J2|RBP2_DROME       -          nup50                -            4.5e-37  128.2   6.0   2.5e-13   49.8   0.0   4.3   4   0   0   4   4   4   4 E3 SUMO-protein ligase RanBP2 OS=Drosophila melanogaster OX=7227 GN=Nup358 PE=1 SV=1
+tr|A0A0B4KGQ0|A0A0B4KGQ0_DROME -          nup50                -            3.3e-05   23.0   0.0   4.3e-05   22.6   0.0   1.1   1   0   0   1   1   1   1 Ran binding protein 3, isoform B OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+tr|Q9VCI7|Q9VCI7_DROME         -          nup50                -            3.3e-05   23.0   0.0   4.3e-05   22.6   0.0   1.1   1   0   0   1   1   1   1 LD02979p OS=Drosophila melanogaster OX=7227 GN=RanBP3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:12:32 2022
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IC62|A0A498IC62_MALDO -          nup93                -            1.3e-54  186.7   0.1     3e-19   69.7   0.8   4.2   4   0   0   4   4   4   4 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_004970 PE=3 SV=1
+tr|A0A498I482|A0A498I482_MALDO -          nup93                -              6e-53  181.2   0.7   1.2e-19   71.0   0.7   4.2   4   0   0   4   4   4   4 Nuclear pore protein OS=Malus domestica OX=3750 GN=DVH24_019625 PE=3 SV=1
+tr|A0A498ICN9|A0A498ICN9_MALDO -          nup93                -                2.1    7.4   0.0       3.4    6.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004663 PE=4 SV=1
+tr|A0A498IHY6|A0A498IHY6_MALDO -          nup93                -                3.3    6.7   0.0       4.9    6.2   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Malus domestica OX=3750 GN=DVH24_003288 PE=3 SV=1
+tr|A0A498JVZ9|A0A498JVZ9_MALDO -          nup93                -                3.6    6.6   0.0       6.9    5.7   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011591 PE=4 SV=1
+tr|A0A498KL39|A0A498KL39_MALDO -          nup93                -                3.6    6.6   0.0       3.9    6.5   0.0   1.0   1   0   0   1   1   1   0 TIR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018527 PE=4 SV=1
+tr|A0A498HKB9|A0A498HKB9_MALDO -          nup93                -                3.9    6.5   0.0       5.3    6.1   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Malus domestica OX=3750 GN=DVH24_007093 PE=3 SV=1
+tr|A0A498KHS7|A0A498KHS7_MALDO -          nup93                -                4.3    6.3   0.0       6.2    5.8   0.0   1.1   1   0   0   1   1   1   0 ERCC4 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006562 PE=3 SV=1
+tr|A0A498I245|A0A498I245_MALDO -          nup93                -                5.7    5.9   0.1       7.5    5.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023494 PE=4 SV=1
+tr|A0A498IK89|A0A498IK89_MALDO -          nup93                -                7.6    5.5   0.1        38    3.2   0.1   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036875 PE=4 SV=1
+tr|A0A498JSZ7|A0A498JSZ7_MALDO -          nup93                -                8.3    5.4   0.0        11    5.1   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Malus domestica OX=3750 GN=DVH24_008795 PE=3 SV=1
+tr|A0A498HRW5|A0A498HRW5_MALDO -          nup93                -                  9    5.3   0.1       9.1    5.3   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028907 PE=4 SV=1
+tr|A0A498K2W1|A0A498K2W1_MALDO -          nup93                -                9.3    5.2   0.0        13    4.8   0.0   1.1   1   0   0   1   1   1   0 DNA helicase OS=Malus domestica OX=3750 GN=DVH24_002597 PE=4 SV=1
+tr|A0A498JAF1|A0A498JAF1_MALDO -          nup93                -                9.6    5.2   0.1        59    2.6   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033584 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:50:08 2022
+# [ok]

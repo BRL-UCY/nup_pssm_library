@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|O01576|O01576_CAEEL         -          nup58                -            2.5e-10   40.0 292.3   3.6e-05   23.0  61.4   5.8   2   2   3   5   5   5   3 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-11 PE=1 SV=1
+tr|Q9XWK3|Q9XWK3_CAEEL         -          nup58                -             0.0003   19.9 143.9    0.0049   15.9  53.3   3.8   2   2   1   3   3   3   2 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-4 PE=1 SV=1
+tr|O17729|O17729_CAEEL         -          nup58                -             0.0014   17.7  17.4    0.0015   17.6  17.4   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D1086.6 PE=1 SV=5
+tr|Q9U3C1|Q9U3C1_CAEEL         -          nup58                -             0.0042   16.2  76.6    0.0065   15.5  76.6   1.2   1   0   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+sp|Q9XWS2|EXOC4_CAEEL          -          nup58                -              0.016   14.3   0.2     0.029   13.4   0.2   1.3   1   0   0   1   1   1   0 Exocyst complex component 4 OS=Caenorhabditis elegans OX=6239 GN=sec-8 PE=2 SV=2
+tr|O62372|O62372_CAEEL         -          nup58                -              0.069   12.2   1.2      0.11   11.4   1.2   1.3   1   0   0   1   1   1   0 DEAD boX helicase homolog OS=Caenorhabditis elegans OX=6239 GN=ddx-19 PE=1 SV=1
+sp|G5EEH9|NUP98_CAEEL          -          nup58                -               0.19   10.7 200.4      0.51    9.3  86.8   4.4   2   1   2   4   4   4   0 Nuclear pore complex protein Nup98-Nup96 OS=Caenorhabditis elegans OX=6239 GN=npp-10 PE=1 SV=1
+sp|P91124|RIC19_CAEEL          -          nup58                -                0.2   10.6   0.2      0.28   10.1   0.2   1.2   1   0   0   1   1   1   0 Resistance to inhibitors of cholinesterase protein 19 OS=Caenorhabditis elegans OX=6239 GN=ric-19 PE=2 SV=2
+tr|P90847|P90847_CAEEL         -          nup58                -               0.25   10.3   1.5      0.39    9.7   1.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F26E4.4 PE=1 SV=1
+tr|Q17742|Q17742_CAEEL         -          nup58                -               0.63    9.0  34.0      0.68    8.9  34.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C06G1.2 PE=1 SV=1
+tr|Q21096|Q21096_CAEEL         -          nup58                -               0.84    8.6   1.3       1.2    8.1   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K01D12.6 PE=1 SV=3
+sp|Q10921|YWQ1_CAEEL           -          nup58                -                6.1    5.7   9.1       7.8    5.4   9.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein B0286.1 OS=Caenorhabditis elegans OX=6239 GN=B0286.1 PE=4 SV=2
+sp|P34468|YMH1_CAEEL           -          nup58                -                6.2    5.7  33.7       8.4    5.3  33.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein F58A4.1 OS=Caenorhabditis elegans OX=6239 GN=F58A4.1 PE=4 SV=2
+sp|Q09662|YS51_CAEEL           -          nup58                -                6.7    5.6  20.5         8    5.3  20.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein ZK673.1 OS=Caenorhabditis elegans OX=6239 GN=ZK673.1 PE=3 SV=2
+tr|H2L030|H2L030_CAEEL         -          nup58                -                  8    5.3  36.2        14    4.5  36.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y97E10AR.2 PE=4 SV=1
+sp|P34527|YM66_CAEEL           -          nup58                -                 10    5.0  16.6        11    4.8  16.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein K12H4.6 OS=Caenorhabditis elegans OX=6239 GN=K12H4.6 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:14:39 2022
+# [ok]

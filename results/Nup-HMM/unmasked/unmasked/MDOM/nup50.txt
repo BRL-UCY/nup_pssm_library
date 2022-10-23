@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498K4X5|A0A498K4X5_MALDO -          nup50                -            2.6e-34  120.0  55.4   2.3e-29  103.7  51.9   2.4   1   1   1   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001279 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          nup50                -            1.4e-32  114.2  34.9   2.4e-22   80.5   6.9   2.1   1   1   1   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498IZS3|A0A498IZS3_MALDO -          nup50                -            8.8e-31  108.3  35.5   3.8e-22   79.8  10.2   2.1   1   1   1   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498JK99|A0A498JK99_MALDO -          nup50                -            2.8e-30  106.7  47.7     7e-24   85.6  40.1   2.2   1   1   1   2   2   2   2 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007945 PE=4 SV=1
+tr|A0A498KCT1|A0A498KCT1_MALDO -          nup50                -            5.3e-16   59.5   0.2   5.3e-16   59.5   0.2   2.1   2   0   0   2   2   2   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038448 PE=4 SV=1
+tr|A0A498ISK3|A0A498ISK3_MALDO -          nup50                -            1.1e-15   58.4   0.4   1.1e-15   58.4   0.4   2.1   2   0   0   2   2   2   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041650 PE=4 SV=1
+tr|A0A498JUD9|A0A498JUD9_MALDO -          nup50                -               0.26   11.1   1.6      0.37   10.6   1.6   1.2   1   0   0   1   1   1   0 Myb_DNA-bind_4 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_011415 PE=4 SV=1
+tr|A0A498K0E9|A0A498K0E9_MALDO -          nup50                -               0.39   10.5  18.5      0.53   10.0  18.5   1.1   1   0   0   1   1   1   0 Decapping nuclease OS=Malus domestica OX=3750 GN=DVH24_001150 PE=3 SV=1
+tr|A0A498JK15|A0A498JK15_MALDO -          nup50                -               0.39   10.5   4.5      0.53   10.0   4.5   1.1   1   0   0   1   1   1   0 PfkB domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025070 PE=4 SV=1
+tr|A0A498IYF4|A0A498IYF4_MALDO -          nup50                -                1.2    8.9  10.8       1.6    8.4  10.8   1.1   1   0   0   1   1   1   0 TAFII28 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_022005 PE=3 SV=1
+tr|A0A498HDM8|A0A498HDM8_MALDO -          nup50                -                1.3    8.8  19.8       1.4    8.6  19.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037342 PE=4 SV=1
+tr|A0A498JPR3|A0A498JPR3_MALDO -          nup50                -                  6    6.5  20.0       8.4    6.1  20.0   1.1   1   0   0   1   1   1   0 Decapping nuclease OS=Malus domestica OX=3750 GN=DVH24_035803 PE=3 SV=1
+tr|A0A498JRC3|A0A498JRC3_MALDO -          nup50                -                  9    6.0  45.5        12    5.5  45.5   1.1   1   0   0   1   1   1   0 X8 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_008937 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:38 2022
+# [ok]

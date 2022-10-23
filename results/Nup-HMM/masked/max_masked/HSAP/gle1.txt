@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q53GS7|GLE1_HUMAN           -          gle1                 -           3.7e-154  516.0   0.0  4.6e-154  515.7   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Homo sapiens OX=9606 GN=GLE1 PE=1 SV=2
+sp|C9JCN9|HSBPL_HUMAN          -          gle1                 -                  5    7.2   0.5       5.3    7.2   0.5   1.0   1   0   0   1   1   1   0 Heat shock factor-binding protein 1-like protein 1 OS=Homo sapiens OX=9606 GN=HSBP1L1 PE=3 SV=2
+sp|Q08043|ACTN3_HUMAN          -          gle1                 -                7.1    6.7   7.8        11    6.0   7.8   1.2   1   0   0   1   1   1   0 Alpha-actinin-3 OS=Homo sapiens OX=9606 GN=ACTN3 PE=1 SV=2
+tr|A0A087WSZ2|A0A087WSZ2_HUMAN -          gle1                 -                7.6    6.6   7.8        12    5.9   7.8   1.2   1   0   0   1   1   1   0 Alpha-actinin-3 OS=Homo sapiens OX=9606 GN=ACTN3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:41:14 2022
+# [ok]

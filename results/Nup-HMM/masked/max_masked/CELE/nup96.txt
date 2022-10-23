@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G5EEH9|NUP98_CAEEL          -          nup96                -           2.2e-183  612.9  67.9   4.2e-80  270.5   0.1   3.5   3   1   0   3   3   3   3 Nuclear pore complex protein Nup98-Nup96 OS=Caenorhabditis elegans OX=6239 GN=npp-10 PE=1 SV=1
+sp|Q17551|RPM1_CAEEL           -          nup96                -              0.049   11.6   0.0     0.063   11.2   0.0   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase rpm-1 OS=Caenorhabditis elegans OX=6239 GN=rpm-1 PE=1 SV=1
+tr|O01576|O01576_CAEEL         -          nup96                -               0.13   10.2  72.5      0.17    9.8  37.6   2.3   1   1   1   2   2   2   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-11 PE=1 SV=1
+tr|Q9XWK3|Q9XWK3_CAEEL         -          nup96                -               0.27    9.1  25.5    0.0098   13.9  19.0   1.7   2   0   0   2   2   2   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-4 PE=1 SV=1
+sp|Q23212|FLP03_CAEEL          -          nup96                -               0.98    7.3   8.6       1.1    7.1   8.6   1.0   1   0   0   1   1   1   0 FMRFamide-like neuropeptides 3 OS=Caenorhabditis elegans OX=6239 GN=flp-3 PE=1 SV=1
+tr|Q9XW62|Q9XW62_CAEEL         -          nup96                -                1.4    6.8  11.8       1.9    6.3  11.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y75B8A.25 PE=1 SV=2
+tr|Q9U3C1|Q9U3C1_CAEEL         -          nup96                -                4.5    5.1  11.8       5.7    4.7  11.8   1.1   1   0   0   1   1   1   0 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+sp|Q7YX32|FLP16_CAEEL          -          nup96                -                4.7    5.0   0.1       5.7    4.7   0.1   1.0   1   0   0   1   1   1   0 FMRFamide-like neuropeptides 16 OS=Caenorhabditis elegans OX=6239 GN=flp-16 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:59:24 2022
+# [ok]

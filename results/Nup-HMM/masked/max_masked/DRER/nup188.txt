@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E7EXJ6|E7EXJ6_DANRE         -          nup188               -                  0 2220.4  18.0         0 2220.2  18.0   1.0   1   0   0   1   1   1   1 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|F1QJ18|F1QJ18_DANRE         -          nup188               -             0.0001   20.7   0.1    0.0001   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          nup188               -            0.00011   20.7   0.1   0.00011   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          nup188               -            0.00011   20.7   0.1   0.00011   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          nup188               -            0.00011   20.7   0.1   0.00011   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          nup188               -            0.00011   20.7   0.1   0.00011   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          nup188               -            0.00011   20.7   0.1   0.00011   20.7   0.1   2.2   3   0   0   3   3   3   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|E7F897|E7F897_DANRE         -          nup188               -                5.2    5.1   0.6        34    2.5   0.2   1.8   2   0   0   2   2   2   0 Carboxypeptidase B2 (plasma) OS=Danio rerio OX=7955 GN=cpb2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:19:22 2022
+# [ok]

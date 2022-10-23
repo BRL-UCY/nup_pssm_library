@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q387F5|Q387F5_TRYB2 -          nup133               -              0.071    9.6   0.0     0.095    9.2   0.0   1.1   1   0   0   1   1   1   0 RNA-binding protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0170 PE=4 SV=1
+tr|Q38C25|Q38C25_TRYB2 -          nup133               -               0.43    7.0   0.0      0.58    6.6   0.0   1.0   1   0   0   1   1   1   0 DUF667 domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.5560 PE=4 SV=1
+tr|Q4GYA6|Q4GYA6_TRYB2 -          nup133               -                1.9    4.9   0.0       2.6    4.4   0.0   1.1   1   0   0   1   1   1   0 SET domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4720 PE=4 SV=1
+tr|Q57YI4|Q57YI4_TRYB2 -          nup133               -                8.8    2.7   0.0        11    2.3   0.0   1.0   1   0   0   1   1   1   0 SGL domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.5830 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:57:52 2022
+# [ok]

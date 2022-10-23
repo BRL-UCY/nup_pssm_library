@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCG4|NDC1_DROME   -          ndc1                 -           4.5e-129  431.7   2.0  5.4e-129  431.5   2.0   1.0   1   0   0   1   1   1   1 Nucleoporin Ndc1 OS=Drosophila melanogaster OX=7227 GN=Ndc1 PE=1 SV=1
+tr|Q8IRA7|Q8IRA7_DROME -          ndc1                 -            1.7e-40  139.3  15.6     7e-19   67.9  15.8   3.0   3   0   0   3   3   3   3 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32246 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:08 2022
+# [ok]

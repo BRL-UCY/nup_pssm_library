@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QE51|A0A1D5QE51_MACMU -          gle1                 -           1.6e-153  513.2   0.0    2e-153  512.9   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin GLE1 isoform 1 OS=Macaca mulatta OX=9544 GN=GLE1 PE=2 SV=1
+tr|F6UEL7|F6UEL7_MACMU         -          gle1                 -            3.8e-28   99.3   0.0   5.1e-28   98.9   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=GLE1 PE=4 SV=2
+tr|A0A1D5R132|A0A1D5R132_MACMU -          gle1                 -                5.1    6.5   0.0       6.9    6.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=MROH1 PE=4 SV=1
+tr|H9FMX9|H9FMX9_MACMU         -          gle1                 -                6.1    6.2   0.5       6.4    6.2   0.5   1.0   1   0   0   1   1   1   0 Heat shock factor-binding protein 1-like protein 1 OS=Macaca mulatta OX=9544 GN=HSBP1L1 PE=2 SV=1
+tr|F7HER2|F7HER2_MACMU         -          gle1                 -                9.2    5.7   4.6        14    5.0   4.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ACTN3 PE=4 SV=2
+tr|A0A1D5RDS4|A0A1D5RDS4_MACMU -          gle1                 -                9.3    5.6   4.6        15    5.0   4.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ACTN3 PE=4 SV=1
+tr|F6QQX8|F6QQX8_MACMU         -          gle1                 -                9.9    5.5   4.6        15    4.9   4.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ACTN3 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:15:12 2022
+# [ok]

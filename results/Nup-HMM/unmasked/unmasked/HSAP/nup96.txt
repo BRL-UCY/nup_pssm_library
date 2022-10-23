@@ -1,0 +1,46 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P52948|NUP98_HUMAN          -          nup96                -                  0 2358.7 118.1         0 2357.6 118.1   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=4
+tr|A0A3B3ITD8|A0A3B3ITD8_HUMAN -          nup96                -                  0 1488.9 213.6         0 1486.0 213.6   2.3   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H7C3P6|H7C3P6_HUMAN         -          nup96                -           1.6e-298  996.2  33.3  3.3e-275  918.9  27.6   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0YDF4|H0YDF4_HUMAN         -          nup96                -            1.1e-77  263.9   8.1   1.2e-77  263.7   8.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0YEN4|H0YEN4_HUMAN         -          nup96                -            1.3e-45  157.6  49.8   1.6e-44  153.9  49.8   1.9   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0YCR0|H0YCR0_HUMAN         -          nup96                -            2.3e-33  117.0  40.6   6.5e-26   92.2   7.0   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0YCT1|H0YCT1_HUMAN         -          nup96                -            1.1e-29  104.7   0.1   1.2e-29  104.6   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H7BYP8|H7BYP8_HUMAN         -          nup96                -            1.6e-19   71.0  65.7   1.8e-19   70.9  65.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=4 SV=1
+tr|E9PNN0|E9PNN0_HUMAN         -          nup96                -            3.7e-19   69.8  80.2   1.2e-12   48.2  50.4   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0YDA1|H0YDA1_HUMAN         -          nup96                -            3.9e-18   66.4   0.0   4.3e-18   66.3   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+tr|H0Y837|H0Y837_HUMAN         -          nup96                -            4.2e-06   26.5 173.9   1.5e-05   24.7  91.9   4.4   1   1   3   4   4   3   2 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=1
+tr|B7ZAV2|B7ZAV2_HUMAN         -          nup96                -            5.4e-06   26.2 174.5   1.7e-05   24.6  92.2   4.0   1   1   3   4   4   3   2 Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=1
+sp|P35658|NU214_HUMAN          -          nup96                -            2.9e-05   23.8  91.1   2.9e-05   23.8  91.1   6.3   2   1   4   6   6   3   2 Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=2
+tr|A0A0A0MSW3|A0A0A0MSW3_HUMAN -          nup96                -            0.00069   19.2 124.9   0.00069   19.2 124.9   6.4   2   1   1   5   5   2   1 Nuclear pore complex protein Nup214 OS=Homo sapiens OX=9606 GN=NUP214 PE=1 SV=1
+sp|O75592|MYCB2_HUMAN          -          nup96                -              0.043   13.3   0.0     0.043   13.3   0.0   3.3   2   1   1   3   3   1   0 E3 ubiquitin-protein ligase MYCBP2 OS=Homo sapiens OX=9606 GN=MYCBP2 PE=1 SV=4
+tr|A0A3B3IRK4|A0A3B3IRK4_HUMAN -          nup96                -              0.094   12.1  28.6      0.12   11.8  28.6   1.3   1   0   0   1   1   1   0 Myelin transcription factor 1-like protein (Fragment) OS=Homo sapiens OX=9606 GN=MYT1L PE=4 SV=1
+tr|H0YDH2|H0YDH2_HUMAN         -          nup96                -               0.15   11.5  33.3      0.18   11.2  33.3   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=4 SV=1
+sp|Q96EK4|THA11_HUMAN          -          nup96                -               0.22   10.9  20.3      0.24   10.8  20.3   1.1   1   0   0   1   1   1   0 THAP domain-containing protein 11 OS=Homo sapiens OX=9606 GN=THAP11 PE=1 SV=2
+sp|Q5HYW3|RTL5_HUMAN           -          nup96                -               0.23   10.8  27.6      0.28   10.6  27.6   1.0   1   0   0   1   1   1   0 Retrotransposon Gag-like protein 5 OS=Homo sapiens OX=9606 GN=RTL5 PE=2 SV=1
+tr|H3BMM9|H3BMM9_HUMAN         -          nup96                -               0.23   10.8  42.0      0.28   10.5  42.0   1.0   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 (Fragment) OS=Homo sapiens OX=9606 GN=RNPS1 PE=1 SV=1
+tr|H3BTC0|H3BTC0_HUMAN         -          nup96                -               0.24   10.7  42.0      0.33   10.3  42.0   1.1   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 (Fragment) OS=Homo sapiens OX=9606 GN=RNPS1 PE=1 SV=1
+tr|B7ZKW0|B7ZKW0_HUMAN         -          nup96                -               0.37   10.1   2.1      0.44    9.9   2.1   1.0   1   0   0   1   1   1   0 Sodium/potassium-transporting ATPase subunit beta OS=Homo sapiens OX=9606 GN=ATP1B4 PE=1 SV=1
+sp|Q9UFB7|ZBT47_HUMAN          -          nup96                -               0.82    9.0  17.1         1    8.7  17.1   1.0   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 47 OS=Homo sapiens OX=9606 GN=ZBTB47 PE=1 SV=3
+sp|P46060|RAGP1_HUMAN          -          nup96                -                1.9    7.8  13.4       2.4    7.5  13.4   1.0   1   0   0   1   1   1   0 Ran GTPase-activating protein 1 OS=Homo sapiens OX=9606 GN=RANGAP1 PE=1 SV=1
+sp|Q7Z3B4|NUP54_HUMAN          -          nup96                -                2.8    7.3  62.9       3.7    6.8  62.9   1.1   1   0   0   1   1   1   0 Nucleoporin p54 OS=Homo sapiens OX=9606 GN=NUP54 PE=1 SV=2
+tr|H7C559|H7C559_HUMAN         -          nup96                -                3.9    6.8  17.1       4.5    6.5  17.1   1.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 2 (Fragment) OS=Homo sapiens OX=9606 GN=PPP4R2 PE=1 SV=1
+sp|P19484|TFEB_HUMAN           -          nup96                -                3.9    6.7   6.6       4.8    6.5   6.6   1.2   1   0   0   1   1   1   0 Transcription factor EB OS=Homo sapiens OX=9606 GN=TFEB PE=1 SV=3
+sp|Q9H9L3|I20L2_HUMAN          -          nup96                -                4.2    6.7  16.2       5.3    6.3  16.2   1.0   1   0   0   1   1   1   0 Interferon-stimulated 20 kDa exonuclease-like 2 OS=Homo sapiens OX=9606 GN=ISG20L2 PE=1 SV=1
+tr|H3BMS0|H3BMS0_HUMAN         -          nup96                -                4.2    6.7  39.7       5.1    6.4  39.7   1.0   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Homo sapiens OX=9606 GN=RNPS1 PE=1 SV=1
+sp|Q9UN42|AT1B4_HUMAN          -          nup96                -                5.5    6.2   5.1       7.4    5.8   5.1   1.0   1   0   0   1   1   1   0 Protein ATP1B4 OS=Homo sapiens OX=9606 GN=ATP1B4 PE=1 SV=1
+tr|H0YNP8|H0YNP8_HUMAN         -          nup96                -                5.7    6.2  12.8       7.1    5.9  12.8   1.1   1   0   0   1   1   1   0 Transcription factor 12 OS=Homo sapiens OX=9606 GN=TCF12 PE=1 SV=1
+sp|Q8TC90|CCER1_HUMAN          -          nup96                -                  7    5.9  13.8       9.9    5.4  13.8   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing glutamate-rich protein 1 OS=Homo sapiens OX=9606 GN=CCER1 PE=1 SV=1
+tr|M0R2S5|M0R2S5_HUMAN         -          nup96                -                9.8    5.4   3.3        11    5.3   3.3   1.0   1   0   0   1   1   1   0 Zinc finger protein 358 (Fragment) OS=Homo sapiens OX=9606 GN=ZNF358 PE=1 SV=8
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:26:59 2022
+# [ok]

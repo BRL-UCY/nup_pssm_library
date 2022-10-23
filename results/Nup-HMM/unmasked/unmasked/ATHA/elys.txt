@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1P8B159|A0A1P8B159_ARATH -          elys                 -            2.2e-39  135.5   3.2   3.9e-16   58.3   0.0   3.0   3   0   0   3   3   3   3 Ubiquitin-protein ligase OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=4 SV=1
+sp|Q84JU6|HOS1_ARATH           -          elys                 -            4.6e-36  124.4  15.2   4.9e-16   58.0   0.0   3.8   4   0   0   4   4   4   3 E3 ubiquitin-protein ligase HOS1 OS=Arabidopsis thaliana OX=3702 GN=HOS1 PE=1 SV=1
+sp|O24456|GBLPA_ARATH          -          elys                 -              0.026   12.5   0.0     0.035   12.1   0.0   1.0   1   0   0   1   1   1   0 Receptor for activated C kinase 1A OS=Arabidopsis thaliana OX=3702 GN=RACK1A PE=1 SV=2
+sp|O49558|PP331_ARATH          -          elys                 -              0.081   10.9   0.2       1.1    7.1   0.1   1.9   1   1   1   2   2   2   0 Pentatricopeptide repeat-containing protein At4g21170 OS=Arabidopsis thaliana OX=3702 GN=At4g21170 PE=3 SV=2
+tr|F4K0R0|F4K0R0_ARATH         -          elys                 -                0.1   10.5   0.0       0.1   10.5   0.0   3.2   2   1   1   3   3   3   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=MOP10.11 PE=4 SV=1
+sp|P30182|TOP2_ARATH           -          elys                 -               0.32    8.9  37.3      0.44    8.4  37.3   1.0   1   0   0   1   1   1   0 DNA topoisomerase 2 OS=Arabidopsis thaliana OX=3702 GN=TOP2 PE=2 SV=2
+sp|Q9XI36|MBD10_ARATH          -          elys                 -               0.43    8.4  74.3      0.56    8.1  74.3   1.0   1   0   0   1   1   1   0 Methyl-CpG-binding domain-containing protein 10 OS=Arabidopsis thaliana OX=3702 GN=MBD10 PE=1 SV=1
+sp|Q9LV28|GPLPC_ARATH          -          elys                 -               0.45    8.4   0.0      0.61    8.0   0.0   1.0   1   0   0   1   1   1   0 Receptor for activated C kinase 1C OS=Arabidopsis thaliana OX=3702 GN=RACK1C PE=1 SV=1
+sp|Q9C4Z6|GPLPB_ARATH          -          elys                 -               0.45    8.4   0.0      0.61    8.0   0.0   1.0   1   0   0   1   1   1   0 Receptor for activated C kinase 1B OS=Arabidopsis thaliana OX=3702 GN=RACK1B PE=1 SV=1
+sp|Q8VYZ5|PWP2_ARATH           -          elys                 -               0.47    8.3   0.0      0.67    7.8   0.0   1.1   1   0   0   1   1   1   0 Periodic tryptophan protein 2 OS=Arabidopsis thaliana OX=3702 GN=PWP2 PE=1 SV=1
+tr|F4ITB8|F4ITB8_ARATH         -          elys                 -                2.6    5.8  36.3       3.6    5.4  36.3   1.1   1   0   0   1   1   1   0 18S pre-ribosomal assembly protein gar2-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g03810 PE=1 SV=1
+sp|Q9S7L9|CX6B1_ARATH          -          elys                 -                2.9    5.7  18.0       3.1    5.6  18.0   1.0   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 6b-1 OS=Arabidopsis thaliana OX=3702 GN=COX6B-1 PE=1 SV=1
+tr|B3H4G2|B3H4G2_ARATH         -          elys                 -                3.5    5.4  30.7       4.9    4.9  30.7   1.0   1   0   0   1   1   1   0 DNA topoisomerase 2 OS=Arabidopsis thaliana OX=3702 GN=TOPII PE=3 SV=1
+sp|Q9LZR5|HDT3_ARATH           -          elys                 -                4.4    5.1  29.0       5.2    4.9  29.0   1.0   1   0   0   1   1   1   0 Histone deacetylase HDT3 OS=Arabidopsis thaliana OX=3702 GN=HDT3 PE=1 SV=2
+tr|A0A1P8BBH8|A0A1P8BBH8_ARATH -          elys                 -                5.9    4.7  18.1       7.1    4.4  18.1   1.0   1   0   0   1   1   1   0 Mental retardation GTPase activating protein OS=Arabidopsis thaliana OX=3702 GN=At5g16030 PE=4 SV=1
+tr|F4JJC4|F4JJC4_ARATH         -          elys                 -                7.5    4.3  22.1       9.5    4.0  22.1   1.0   1   0   0   1   1   1   0 Folate-sensitive fragile site protein OS=Arabidopsis thaliana OX=3702 GN=At4g15030 PE=4 SV=1
+tr|O48526|O48526_ARATH         -          elys                 -                7.7    4.3  16.8       8.8    4.1  16.8   1.0   1   0   0   1   1   1   0 Expressed protein OS=Arabidopsis thaliana OX=3702 GN=At2g42190 PE=2 SV=1
+tr|F4JJC3|F4JJC3_ARATH         -          elys                 -                7.7    4.3  22.1       9.7    4.0  22.1   1.0   1   0   0   1   1   1   0 Folate-sensitive fragile site protein OS=Arabidopsis thaliana OX=3702 GN=At4g15030 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:29 2022
+# [ok]

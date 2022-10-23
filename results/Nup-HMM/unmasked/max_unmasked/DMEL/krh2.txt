@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V447|KRH2_DROME           -          krh2                 -            1.3e-92  309.7  16.9   1.5e-92  309.5  16.9   1.0   1   0   0   1   1   1   1 Krueppel homolog 2 OS=Drosophila melanogaster OX=7227 GN=Kr-h2 PE=1 SV=1
+tr|X2J4W8|X2J4W8_DROME         -          krh2                 -            1.3e-92  309.7  16.9   1.5e-92  309.5  16.9   1.0   1   0   0   1   1   1   1 Kruppel homolog 2, isoform C OS=Drosophila melanogaster OX=7227 GN=Kr-h2 PE=1 SV=1
+sp|Q9VS77|MTH6_DROME           -          krh2                 -                0.8    9.1   0.5       1.7    8.0   0.5   1.5   1   0   0   1   1   1   0 Probable G-protein coupled receptor Mth-like 6 OS=Drosophila melanogaster OX=7227 GN=mthl6 PE=3 SV=2
+tr|Q0E996|Q0E996_DROME         -          krh2                 -                1.4    8.3   0.0       2.3    7.6   0.0   1.4   1   0   0   1   1   1   0 FI23508p1 OS=Drosophila melanogaster OX=7227 GN=NAT1 PE=1 SV=1
+tr|Q86BK8|Q86BK8_DROME         -          krh2                 -                1.8    7.9   0.0       3.8    6.9   0.0   1.4   1   0   0   1   1   1   0 Rab14, isoform B OS=Drosophila melanogaster OX=7227 GN=Rab14 PE=1 SV=1
+tr|B7YZF1|B7YZF1_DROME         -          krh2                 -                2.2    7.7   0.2       4.1    6.8   0.1   1.5   2   0   0   2   2   2   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42336 PE=4 SV=1
+tr|Q9VS75|Q9VS75_DROME         -          krh2                 -                2.3    7.6   0.4       3.4    7.0   0.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG8543 PE=4 SV=1
+tr|A1Z968|A1Z968_DROME         -          krh2                 -                2.8    7.3   0.1       4.4    6.7   0.1   1.3   1   0   0   1   1   1   0 NAT1, isoform D OS=Drosophila melanogaster OX=7227 GN=NAT1 PE=1 SV=1
+tr|Q8INH8|Q8INH8_DROME         -          krh2                 -                3.6    6.9   0.3        12    5.3   0.3   1.9   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31157 PE=4 SV=3
+tr|X2JAZ6|X2JAZ6_DROME         -          krh2                 -                3.9    6.8   0.0         6    6.2   0.0   1.3   1   0   0   1   1   1   0 Charybde, isoform E OS=Drosophila melanogaster OX=7227 GN=chrb PE=4 SV=1
+tr|A0A0B4LEV7|A0A0B4LEV7_DROME -          krh2                 -                4.3    6.7   3.4       1.4    8.3   0.0   1.9   2   0   0   2   2   2   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14744 PE=3 SV=1
+tr|Q9VSE5|Q9VSE5_DROME         -          krh2                 -                4.3    6.7   0.1       5.5    6.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13675 PE=4 SV=3
+tr|Q9VUF9|Q9VUF9_DROME         -          krh2                 -                4.8    6.5   1.5       6.5    6.1   1.5   1.4   1   0   0   1   1   1   0 GH08457p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG9628 PE=1 SV=2
+tr|A0A0B4LEG9|A0A0B4LEG9_DROME -          krh2                 -                5.1    6.4   3.4       1.4    8.2   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein, isoform E OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14744 PE=3 SV=1
+tr|Q8IN10|Q8IN10_DROME         -          krh2                 -                5.3    6.4   3.6        12    5.2   0.2   2.3   2   0   0   2   2   2   0 Ionotropic receptor 94a OS=Drosophila melanogaster OX=7227 GN=Ir94a PE=4 SV=1
+sp|Q9VTI8|CHRB_DROME           -          krh2                 -                  6    6.2   0.0       9.4    5.6   0.0   1.2   1   0   0   1   1   1   0 Protein charybde OS=Drosophila melanogaster OX=7227 GN=chrb PE=2 SV=2
+tr|A0A0B4LF90|A0A0B4LF90_DROME -          krh2                 -                6.6    6.1   1.4       8.6    5.7   1.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform L OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17574 PE=4 SV=1
+sp|P84345|ATP8_DROME           -          krh2                 -                6.6    6.1   1.3       7.1    6.0   1.3   1.1   1   0   0   1   1   1   0 ATP synthase protein 8 OS=Drosophila melanogaster OX=7227 GN=mt:ATPase8 PE=3 SV=1
+tr|Q7KUQ4|Q7KUQ4_DROME         -          krh2                 -                  7    6.0   1.6        38    3.6   0.0   2.0   2   0   0   2   2   2   0 HDC10589 OS=Drosophila melanogaster OX=7227 GN=BK002187 PE=2 SV=1
+tr|Q9VMS1|Q9VMS1_DROME         -          krh2                 -                7.7    5.9   0.0       8.4    5.7   0.0   1.0   1   0   0   1   1   1   0 Cyclope, isoform A OS=Drosophila melanogaster OX=7227 GN=cype PE=1 SV=3
+tr|Q9V3Q7|Q9V3Q7_DROME         -          krh2                 -                8.7    5.7   0.0        30    3.9   0.0   1.8   2   0   0   2   2   2   0 Na/K-ATPase beta subunit isoform 4 OS=Drosophila melanogaster OX=7227 GN=JYbeta2 PE=2 SV=1
+sp|Q6IGX9|SIFA_DROME           -          krh2                 -                9.1    5.6   0.1        11    5.3   0.1   1.2   1   0   0   1   1   1   0 Neuropeptide SIFamide OS=Drosophila melanogaster OX=7227 GN=SIFa PE=1 SV=1
+sp|Q9VR07|INE_DROME            -          krh2                 -                9.6    5.6   0.5        30    3.9   0.5   1.8   1   0   0   1   1   1   0 Sodium- and chloride-dependent GABA transporter ine OS=Drosophila melanogaster OX=7227 GN=ine PE=1 SV=1
+tr|E1JHT2|E1JHT2_DROME         -          krh2                 -                9.6    5.6   0.5        30    3.9   0.5   1.8   1   0   0   1   1   1   0 Transporter OS=Drosophila melanogaster OX=7227 GN=ine PE=3 SV=1
+sp|P81928|140U_DROME           -          krh2                 -                9.7    5.5   0.1        19    4.6   0.1   1.5   1   0   0   1   1   1   0 RPII140-upstream gene protein OS=Drosophila melanogaster OX=7227 GN=140up PE=2 SV=2
+tr|A0A0B4KFZ0|A0A0B4KFZ0_DROME -          krh2                 -                9.7    5.5   0.1        19    4.6   0.1   1.5   1   0   0   1   1   1   0 Upstream of RpII140, isoform B OS=Drosophila melanogaster OX=7227 GN=140up PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:14:57 2022
+# [ok]

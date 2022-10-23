@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498INM7|A0A498INM7_MALDO -          nup214               -            3.2e-38  131.8  18.8   1.4e-25   89.9   0.0   4.0   4   0   0   4   4   4   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009239 PE=4 SV=1
+tr|A0A498IRV3|A0A498IRV3_MALDO -          nup214               -            2.4e-08   32.7   0.0   3.1e-08   32.4   0.0   1.0   1   0   0   1   1   1   1 Anaphase-promoting complex subunit 4 OS=Malus domestica OX=3750 GN=DVH24_017129 PE=4 SV=1
+tr|A0A498KD75|A0A498KD75_MALDO -          nup214               -            7.4e-05   21.2   0.0   0.00038   18.8   0.0   1.8   2   0   0   2   2   2   1 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018161 PE=4 SV=1
+tr|A0A498HXQ2|A0A498HXQ2_MALDO -          nup214               -            0.00016   20.1   0.0   0.00054   18.3   0.0   1.6   2   0   0   2   2   2   1 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_029483 PE=4 SV=1
+tr|A0A498J502|A0A498J502_MALDO -          nup214               -            0.00028   19.2   0.1     0.038   12.2   0.0   2.0   2   0   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032633 PE=4 SV=1
+tr|A0A498JRI7|A0A498JRI7_MALDO -          nup214               -            0.00043   18.7   0.6       0.1   10.8   0.0   2.9   2   1   1   3   3   3   2 HMA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_009981 PE=3 SV=1
+tr|A0A498KIG0|A0A498KIG0_MALDO -          nup214               -             0.0034   15.7   2.8      0.22    9.6   0.3   2.9   3   0   0   3   3   3   2 NLE domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006619 PE=4 SV=1
+tr|A0A498HBP1|A0A498HBP1_MALDO -          nup214               -             0.0048   15.2   0.6      0.04   12.1   0.6   2.0   2   0   0   2   2   2   1 NLE domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_030782 PE=4 SV=1
+tr|A0A498HT29|A0A498HT29_MALDO -          nup214               -             0.0072   14.6   0.3     0.011   13.9   0.3   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_029439 PE=4 SV=1
+tr|A0A498J5B3|A0A498J5B3_MALDO -          nup214               -             0.0084   14.4   7.0     0.019   13.2   0.8   2.3   3   0   0   3   3   3   2 NLE domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035454 PE=4 SV=1
+tr|A0A498HD12|A0A498HD12_MALDO -          nup214               -              0.012   13.9   0.1      0.07   11.3   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_027899 PE=4 SV=1
+tr|A0A498KN38|A0A498KN38_MALDO -          nup214               -              0.032   12.4   1.8       1.4    7.0   0.1   2.8   2   1   1   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026241 PE=4 SV=1
+tr|A0A498I5F9|A0A498I5F9_MALDO -          nup214               -              0.048   11.8   0.0     0.062   11.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019231 PE=3 SV=1
+tr|A0A498ISS2|A0A498ISS2_MALDO -          nup214               -               0.05   11.8   0.0     0.059   11.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041973 PE=4 SV=1
+tr|A0A498JC74|A0A498JC74_MALDO -          nup214               -              0.067   11.4   0.0       1.5    6.9   0.0   1.9   1   1   1   2   2   2   0 DDB1- and CUL4-associated factor 13 OS=Malus domestica OX=3750 GN=DVH24_033331 PE=3 SV=1
+tr|A0A498HVC0|A0A498HVC0_MALDO -          nup214               -               0.36    9.0   1.2      0.84    7.7   0.0   1.9   2   0   0   2   2   2   0 LisH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_030117 PE=4 SV=1
+tr|A0A498IP67|A0A498IP67_MALDO -          nup214               -               0.36    9.0   0.4       5.7    5.0   0.1   1.9   2   0   0   2   2   2   0 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041838 PE=4 SV=1
+tr|A0A498JJY5|A0A498JJY5_MALDO -          nup214               -               0.42    8.7   0.1      0.59    8.2   0.1   1.1   1   0   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025040 PE=3 SV=1
+tr|A0A498J440|A0A498J440_MALDO -          nup214               -               0.47    8.6   0.1      0.64    8.1   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_031744 PE=4 SV=1
+tr|A0A498J084|A0A498J084_MALDO -          nup214               -                0.5    8.5   0.1       2.4    6.2   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028703 PE=4 SV=1
+tr|A0A498HTL8|A0A498HTL8_MALDO -          nup214               -                1.4    7.0   0.7        19    3.3   0.2   2.3   2   1   1   3   3   3   0 LisH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_012511 PE=4 SV=1
+tr|A0A498K107|A0A498K107_MALDO -          nup214               -                4.1    5.5   2.9       5.9    4.9   2.9   1.1   1   0   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001301 PE=3 SV=1
+tr|A0A498JNK4|A0A498JNK4_MALDO -          nup214               -                4.4    5.3   2.9       6.3    4.8   2.9   1.1   1   0   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007933 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:33 2022
+# [ok]

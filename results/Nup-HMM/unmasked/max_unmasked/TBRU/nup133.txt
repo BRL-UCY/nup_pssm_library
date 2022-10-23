@@ -1,0 +1,32 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q57XP4|Q57XP4_TRYB2 -          nup133               -            0.00035   17.3   1.4      0.11    9.0   0.4   2.2   2   0   0   2   2   2   2 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.2300 PE=4 SV=1
+tr|Q387F5|Q387F5_TRYB2 -          nup133               -              0.068    9.7   0.0     0.094    9.2   0.0   1.1   1   0   0   1   1   1   0 RNA-binding protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.03.0170 PE=4 SV=1
+tr|Q57YI4|Q57YI4_TRYB2 -          nup133               -               0.96    5.9   0.0       1.2    5.5   0.0   1.0   1   0   0   1   1   1   0 SGL domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.5830 PE=4 SV=1
+tr|Q38CN5|Q38CN5_TRYB2 -          nup133               -                1.4    5.3   0.1       1.4    5.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.244.0340 PE=4 SV=1
+tr|Q4GYA6|Q4GYA6_TRYB2 -          nup133               -                1.9    4.9   0.0       2.6    4.4   0.0   1.1   1   0   0   1   1   1   0 SET domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.4720 PE=4 SV=1
+tr|Q38FY3|Q38FY3_TRYB2 -          nup133               -                2.2    4.7   0.7       2.7    4.4   0.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.0560 PE=4 SV=1
+tr|Q586H2|Q586H2_TRYB2 -          nup133               -                2.4    4.6   0.1       3.7    3.9   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.5000 PE=4 SV=1
+tr|Q584Y5|Q584Y5_TRYB2 -          nup133               -                3.1    4.2   0.0       4.9    3.5   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.3450 PE=4 SV=1
+tr|Q580B0|Q580B0_TRYB2 -          nup133               -                4.1    3.8   0.1       5.8    3.3   0.1   1.1   1   0   0   1   1   1   0 FCP1 homology domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.820 PE=4 SV=1
+tr|Q57XQ8|Q57XQ8_TRYB2 -          nup133               -                5.2    3.4   1.0       7.2    3.0   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.2160 PE=4 SV=1
+tr|Q57WH8|Q57WH8_TRYB2 -          nup133               -                6.1    3.2   0.3       8.9    2.7   0.3   1.1   1   0   0   1   1   1   0 TPR-repeat-containing chaperone protein DNAJ, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.3630 PE=4 SV=1
+tr|Q38AQ9|Q38AQ9_TRYB2 -          nup133               -                6.3    3.2   0.0       8.8    2.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.3700 PE=4 SV=1
+tr|Q57Z02|Q57Z02_TRYB2 -          nup133               -                6.3    3.2   0.2        10    2.5   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.4470 PE=4 SV=1
+tr|Q389Z0|Q389Z0_TRYB2 -          nup133               -                7.3    2.9   0.2        11    2.4   0.2   1.1   1   0   0   1   1   1   0 MTS domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0440 PE=4 SV=1
+tr|Q584D8|Q584D8_TRYB2 -          nup133               -                8.4    2.7   0.5        22    1.4   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.2490 PE=4 SV=1
+tr|Q38B05|Q38B05_TRYB2 -          nup133               -                8.4    2.7   1.9        15    1.9   1.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.0890 PE=4 SV=1
+tr|Q57ZU7|Q57ZU7_TRYB2 -          nup133               -                8.5    2.7   2.2       8.5    2.7   0.4   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.2710 PE=4 SV=1
+tr|Q38BK4|Q38BK4_TRYB2 -          nup133               -                8.9    2.7   0.2       9.3    2.6   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.3330 PE=4 SV=1
+tr|Q384B7|Q384B7_TRYB2 -          nup133               -                9.2    2.6   0.8        14    2.0   0.8   1.2   1   0   0   1   1   1   0 Kinesin-like protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.0850 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TBRU/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:45:52 2022
+# [ok]

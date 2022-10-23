@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6T8P9|F6T8P9_MACMU         -          mug31                -             0.0013   19.5   0.2    0.0036   18.1   0.2   1.7   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TMEM209 PE=4 SV=1
+tr|F6T8M1|F6T8M1_MACMU         -          mug31                -             0.0014   19.4   0.2     0.004   17.9   0.2   1.8   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Macaca mulatta OX=9544 GN=TMEM209 PE=2 SV=1
+tr|A0A1D5QWQ7|A0A1D5QWQ7_MACMU -          mug31                -              0.058   14.1   0.0      0.32   11.7   0.0   2.1   2   0   0   2   2   2   0 Adenylate cyclase OS=Macaca mulatta OX=9544 GN=ADCY5 PE=3 SV=1
+tr|A0A1D5RFY5|A0A1D5RFY5_MACMU -          mug31                -              0.059   14.1   0.0      0.32   11.7   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ADCY5 PE=3 SV=1
+tr|F6W0C8|F6W0C8_MACMU         -          mug31                -               0.06   14.1   0.0       0.2   12.4   0.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ADCY5 PE=3 SV=2
+tr|F7H6A6|F7H6A6_MACMU         -          mug31                -              0.098   13.4   0.0       0.2   12.4   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ADCY5 PE=3 SV=2
+tr|F7FSN1|F7FSN1_MACMU         -          mug31                -               0.69   10.6   1.8       2.3    8.9   1.8   1.9   1   0   0   1   1   1   0 Phospholipid-transporting ATPase OS=Macaca mulatta OX=9544 GN=ATP8B1 PE=3 SV=2
+tr|A0A1D5RGW3|A0A1D5RGW3_MACMU -          mug31                -                  2    9.2   0.1       2.4    8.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR34 PE=4 SV=1
+tr|F7F9T9|F7F9T9_MACMU         -          mug31                -                2.7    8.7   0.1        11    6.7   0.1   2.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DENND4A PE=4 SV=2
+tr|A0A1D5QZZ6|A0A1D5QZZ6_MACMU -          mug31                -                3.4    8.4   2.8       5.9    7.6   2.8   1.3   1   0   0   1   1   1   0 Syntaxin-18_N domain-containing protein OS=Macaca mulatta OX=9544 GN=STX18 PE=4 SV=1
+tr|F7DZ68|F7DZ68_MACMU         -          mug31                -                3.6    8.3   0.0       4.9    7.9   0.0   1.2   1   0   0   1   1   1   0 PCI domain-containing protein OS=Macaca mulatta OX=9544 GN=EIF3K PE=4 SV=2
+tr|F6VA15|F6VA15_MACMU         -          mug31                -                3.6    8.3   2.8       6.7    7.4   2.8   1.4   1   0   0   1   1   1   0 Syntaxin-18 OS=Macaca mulatta OX=9544 GN=STX18 PE=2 SV=1
+tr|A0A1D5Q630|A0A1D5Q630_MACMU -          mug31                -                3.7    8.3   2.8       6.4    7.5   2.8   1.3   1   0   0   1   1   1   0 Syntaxin-18_N domain-containing protein OS=Macaca mulatta OX=9544 GN=STX18 PE=4 SV=1
+tr|F7GQH5|F7GQH5_MACMU         -          mug31                -                3.9    8.2   0.3        86    3.8   0.0   2.4   2   0   0   2   2   2   0 Nucleolar GTP-binding protein 1 OS=Macaca mulatta OX=9544 GN=GTPBP4 PE=3 SV=2
+tr|F7GQH8|F7GQH8_MACMU         -          mug31                -                4.3    8.1   0.3        91    3.7   0.0   2.4   2   0   0   2   2   2   0 Nucleolar GTP-binding protein 1 OS=Macaca mulatta OX=9544 GN=GTPBP4 PE=3 SV=2
+tr|A0A1D5RDG1|A0A1D5RDG1_MACMU -          mug31                -                4.4    8.0   0.3        92    3.7   0.0   2.4   2   0   0   2   2   2   0 Nucleolar GTP-binding protein 1 OS=Macaca mulatta OX=9544 GN=GTPBP4 PE=3 SV=1
+tr|A0A1D5R7W7|A0A1D5R7W7_MACMU -          mug31                -                4.8    7.9   1.0       5.2    7.8   1.0   1.1   1   0   0   1   1   1   0 MITF_TFEB_C_3_N domain-containing protein OS=Macaca mulatta OX=9544 GN=TFEB PE=4 SV=1
+tr|F7FSS7|F7FSS7_MACMU         -          mug31                -                5.2    7.8   2.2       5.4    7.7   2.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F7HJP0|F7HJP0_MACMU         -          mug31                -                6.1    7.6   0.0       8.9    7.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=WDR34 PE=4 SV=2
+tr|A0A1D5Q8Q6|A0A1D5Q8Q6_MACMU -          mug31                -                7.3    7.3   0.1        12    6.6   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QYW8|A0A1D5QYW8_MACMU -          mug31                -                7.4    7.3   0.0        10    6.8   0.0   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit K OS=Macaca mulatta OX=9544 GN=EIF3K PE=3 SV=1
+tr|F6XSR6|F6XSR6_MACMU         -          mug31                -                  8    7.2   0.3        20    5.9   0.3   1.7   1   1   0   1   1   1   0 MIR domain-containing protein OS=Macaca mulatta OX=9544 GN=POMT1 PE=4 SV=2
+tr|A0A1D5REU8|A0A1D5REU8_MACMU -          mug31                -                  8    7.2   7.1       3.6    8.3   4.6   1.6   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=DBNL PE=4 SV=1
+tr|A0A1D5RCP5|A0A1D5RCP5_MACMU -          mug31                -                8.3    7.1   1.7        15    6.3   1.7   1.3   1   0   0   1   1   1   0 Syntaxin-18_N domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5R5X7|A0A1D5R5X7_MACMU -          mug31                -                8.3    7.1   0.0        12    6.6   0.0   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit K OS=Macaca mulatta OX=9544 GN=EIF3K PE=2 SV=1
+tr|F6XGZ8|F6XGZ8_MACMU         -          mug31                -                9.1    7.0   0.0        13    6.5   0.0   1.2   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit K OS=Macaca mulatta OX=9544 GN=EIF3K PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:29:51 2022
+# [ok]

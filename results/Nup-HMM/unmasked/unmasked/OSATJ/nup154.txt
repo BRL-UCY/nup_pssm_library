@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5Z4E0|Q5Z4E0_ORYSJ         -          nup154               -           2.8e-221  739.1   0.0   1.4e-90  306.1   0.0   5.7   5   1   0   5   5   5   5 Os06g0305200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0305200 PE=1 SV=1
+tr|A0A0P0WVN3|A0A0P0WVN3_ORYSJ -          nup154               -            1.8e-07   30.7   0.0   1.8e-07   30.6   0.0   1.1   1   0   0   1   1   1   1 Os06g0305200 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0305200 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:26 2022
+# [ok]

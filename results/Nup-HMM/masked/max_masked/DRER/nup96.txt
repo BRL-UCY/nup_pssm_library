@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0R4IAQ8|A0A0R4IAQ8_DANRE -          nup96                -                  0 1388.7  18.6         0 1167.3   0.0   2.0   2   0   0   2   2   2   2 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=2
+tr|E9QGM4|E9QGM4_DANRE         -          nup96                -                  0 1388.5  19.0         0 1167.3   0.0   2.0   2   0   0   2   2   2   2 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|E7F981|E7F981_DANRE         -          nup96                -                  0 1384.6  14.0         0 1167.2   0.0   2.0   2   0   0   2   2   2   2 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=3
+tr|F1R4A0|F1R4A0_DANRE         -          nup96                -              2e-56  192.7  40.6   9.6e-44  150.7  35.5   2.0   2   0   0   2   2   2   2 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|A0A2R8QJA3|A0A2R8QJA3_DANRE -          nup96                -             0.0012   17.8   0.0    0.0016   17.3   0.0   1.0   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase MYCBP2 OS=Danio rerio OX=7955 GN=mycbp2 PE=1 SV=1
+sp|F1RD40|MYCB2_DANRE          -          nup96                -             0.0012   17.8   0.0    0.0016   17.3   0.0   1.0   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase MYCBP2 OS=Danio rerio OX=7955 GN=mycbp2 PE=2 SV=1
+tr|A0A2R8Q9H4|A0A2R8Q9H4_DANRE -          nup96                -                1.6    7.4  14.4       2.1    7.0  14.4   1.0   1   0   0   1   1   1   0 Nucleoporin 62-like OS=Danio rerio OX=7955 GN=nup62l PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:30:44 2022
+# [ok]

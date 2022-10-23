@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7BNM4|F7BNM4_MACMU         -          nup88                -           7.3e-222  739.7   0.0  1.1e-221  739.1   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP88 PE=4 SV=1
+tr|A0A1D5Q7V6|A0A1D5Q7V6_MACMU -          nup88                -           1.4e-132  444.6   3.7  1.6e-127  427.9   0.3   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP88 PE=4 SV=1
+tr|F7ESX9|F7ESX9_MACMU         -          nup88                -               0.03   13.8   0.9       5.9    6.3   0.0   3.2   4   1   0   4   4   4   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=POC1B PE=4 SV=2
+tr|F6VRP4|F6VRP4_MACMU         -          nup88                -              0.042   13.4   1.1       6.4    6.1   0.0   3.2   4   1   0   4   4   4   0 POC1 centriolar protein homolog B isoform a OS=Macaca mulatta OX=9544 GN=POC1B PE=2 SV=2
+tr|F7AE78|F7AE78_MACMU         -          nup88                -               0.12   11.8   0.1      0.92    8.9   0.0   2.3   3   0   0   3   3   3   0 Platelet-activating factor acetylhydrolase IB subunit alpha OS=Macaca mulatta OX=9544 GN=PAFAH1B1 PE=2 SV=1
+tr|F7FLP6|F7FLP6_MACMU         -          nup88                -               0.41   10.1   0.0       0.6    9.5   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin Nup37 OS=Macaca mulatta OX=9544 GN=NUP37 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUL/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:57 2022
+# [ok]

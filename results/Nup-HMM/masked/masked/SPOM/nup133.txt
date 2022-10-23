@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTH0|NU132_SCHPO -          nup133               -           2.9e-118  394.3  14.7  1.1e-110  369.3  11.2   3.0   2   1   0   2   2   2   2 Nucleoporin nup132 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup132 PE=1 SV=1
+sp|Q9P797|NU131_SCHPO -          nup133               -            3.8e-79  264.8  19.2   1.1e-73  246.7   7.1   2.3   2   1   0   2   2   2   2 Nucleoporin nup131 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup131 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/nup133.txt --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:03 2022
+# [ok]

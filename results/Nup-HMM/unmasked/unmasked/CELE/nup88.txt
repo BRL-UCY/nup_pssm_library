@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09372|NPP24_CAEEL          -          nup88                -            3.4e-07   29.4  10.1   6.7e-07   28.5   0.0   2.4   2   0   0   2   2   2   1 Protein npp-24 OS=Caenorhabditis elegans OX=6239 GN=npp-24 PE=4 SV=2
+sp|Q9XW12|CIAO1_CAEEL          -          nup88                -            0.00053   18.9   7.7      0.32    9.7   0.1   4.0   1   1   4   5   5   5   3 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Caenorhabditis elegans OX=6239 GN=Y18D10A.9 PE=1 SV=2
+tr|A0A168HAJ0|A0A168HAJ0_CAEEL -          nup88                -             0.0019   17.1   0.2     0.033   12.9   0.0   2.1   2   0   0   2   2   2   1 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=1
+tr|A0A163UTK6|A0A163UTK6_CAEEL -          nup88                -             0.0035   16.2   0.2     0.048   12.4   0.0   2.1   2   0   0   2   2   2   1 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=1
+tr|Q93339|Q93339_CAEEL         -          nup88                -             0.0076   15.1   0.1     0.057   12.2   0.0   2.1   2   0   0   2   2   2   1 Yeast PRP (Splicing factor) related OS=Caenorhabditis elegans OX=6239 GN=prp-4 PE=1 SV=1
+sp|Q9NDC9|LIS1_CAEEL           -          nup88                -             0.0088   14.9   0.6       4.7    5.8   0.0   3.2   3   0   0   3   3   3   2 Lissencephaly-1 homolog OS=Caenorhabditis elegans OX=6239 GN=lis-1 PE=1 SV=1
+tr|Q965W8|Q965W8_CAEEL         -          nup88                -              0.012   14.4   0.2      0.11   11.2   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=4
+tr|Q95X71|Q95X71_CAEEL         -          nup88                -              0.031   13.0   5.9     0.032   13.0   5.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=tag-261 PE=4 SV=3
+tr|V6CIX7|V6CIX7_CAEEL         -          nup88                -              0.075   11.8   2.6     0.086   11.6   2.6   1.0   1   0   0   1   1   1   0 LAMinin related. See also lmb OS=Caenorhabditis elegans OX=6239 GN=lam-1 PE=1 SV=1
+tr|P91867|P91867_CAEEL         -          nup88                -              0.089   11.5   0.0      0.17   10.6   0.0   1.4   1   0   0   1   1   1   0 THO Complex (Transcription factor/nuclear export) subunit OS=Caenorhabditis elegans OX=6239 GN=thoc-3 PE=1 SV=3
+tr|Q5F4U5|Q5F4U5_CAEEL         -          nup88                -               0.11   11.2  10.8      0.12   11.1  10.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=tag-261 PE=1 SV=1
+sp|Q95XD3|BL1S2_CAEEL          -          nup88                -               0.13   11.0   3.2      0.14   10.8   3.2   1.1   1   0   0   1   1   1   0 Biogenesis of lysosome-related organelles complex 1 subunit 2 OS=Caenorhabditis elegans OX=6239 GN=blos-2 PE=1 SV=1
+tr|Q18922|Q18922_CAEEL         -          nup88                -               0.17   10.6  11.4      0.22   10.2  11.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D1014.4 PE=1 SV=2
+sp|Q19714|TMCO1_CAEEL          -          nup88                -                0.2   10.4   3.2      0.27    9.9   3.2   1.1   1   0   0   1   1   1   0 Calcium load-activated calcium channel homolog OS=Caenorhabditis elegans OX=6239 GN=F22B5.10 PE=3 SV=1
+sp|P17343|GBB1_CAEEL           -          nup88                -               0.55    8.9   0.5        47    2.5   0.0   2.8   3   0   0   3   3   3   0 Guanine nucleotide-binding protein subunit beta-1 OS=Caenorhabditis elegans OX=6239 GN=gpb-1 PE=1 SV=2
+tr|Q65ZB3|Q65ZB3_CAEEL         -          nup88                -               0.56    8.9   9.1      0.76    8.5   9.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=vab-23 PE=1 SV=1
+tr|P91051|P91051_CAEEL         -          nup88                -                0.9    8.2   7.7       1.1    7.9   7.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C16C8.12 PE=4 SV=2
+tr|Q9XW39|Q9XW39_CAEEL         -          nup88                -                1.5    7.5   2.8       1.9    7.1   2.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y69E1A.1 PE=4 SV=1
+tr|Q9BLC2|Q9BLC2_CAEEL         -          nup88                -                2.5    6.7  12.1       2.9    6.5  12.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F12E12.6 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:14:37 2022
+# [ok]

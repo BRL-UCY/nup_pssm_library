@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V466|NU107_DROME  -          nup107               -           1.4e-300  999.4  15.1  1.6e-300  999.2  15.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+tr|Q9VL03|Q9VL03_DROME -          nup107               -               0.02   13.2   1.7     0.028   12.7   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13138 PE=4 SV=2
+tr|Q9VPR3|Q9VPR3_DROME -          nup107               -              0.037   12.4   0.0     0.051   11.9   0.0   1.1   1   0   0   1   1   1   0 PfkB domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG2794 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:40 2022
+# [ok]

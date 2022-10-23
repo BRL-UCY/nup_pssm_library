@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q803C2|Q803C2_DANRE         -          krh2                 -              4e-76  256.8  12.7   4.4e-76  256.7  12.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Danio rerio OX=7955 GN=tmem33 PE=1 SV=1
+tr|X1WHN5|X1WHN5_DANRE         -          krh2                 -                  3    8.3   0.0       4.1    7.8   0.0   1.2   1   0   0   1   1   1   0 Zgc:171967 (Fragment) OS=Danio rerio OX=7955 GN=zgc:171967 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:39:20 2022
+# [ok]

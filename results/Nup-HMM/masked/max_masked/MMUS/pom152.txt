@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2AT70|A2AT70_MOUSE         -          pom152               -             0.0044   16.6   0.0       9.7    5.5   0.0   4.8   8   0   0   8   8   8   2 Titin (Fragment) OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+tr|F7CR78|F7CR78_MOUSE         -          pom152               -             0.0052   16.3   0.1        24    4.2   0.0   5.9   7   0   0   7   7   7   2 Titin (Fragment) OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+sp|A2ASS6|TITIN_MOUSE          -          pom152               -                1.6    8.1   0.1   1.1e+02    2.1   0.0   3.8   5   0   0   5   5   5   0 Titin OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+tr|E9Q8K5|E9Q8K5_MOUSE         -          pom152               -                1.6    8.1   0.1     1e+02    2.1   0.0   3.7   5   0   0   5   5   5   0 Titin OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+tr|E9Q8N1|E9Q8N1_MOUSE         -          pom152               -                1.6    8.1   0.1     1e+02    2.1   0.0   3.7   5   0   0   5   5   5   0 Titin OS=Mus musculus OX=10090 GN=Ttn PE=1 SV=1
+sp|Q8BQ86|CHST8_MOUSE          -          pom152               -                2.5    7.4   0.0       3.4    7.0   0.0   1.0   1   0   0   1   1   1   0 Carbohydrate sulfotransferase 8 OS=Mus musculus OX=10090 GN=Chst8 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:51:14 2022
+# [ok]

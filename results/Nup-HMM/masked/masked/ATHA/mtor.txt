@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A4GSN8|NUA_ARATH    -          mtor                 -            1.9e-48  165.7  39.8   5.4e-23   81.3  27.4   3.0   3   0   0   3   3   3   3 Nuclear-pore anchor OS=Arabidopsis thaliana OX=3702 GN=NUA PE=1 SV=1
+sp|Q9LZP8|BZP53_ARATH  -          mtor                 -             0.0059   14.8   1.5    0.0069   14.6   1.5   1.0   1   0   0   1   1   1   1 bZIP transcription factor 53 OS=Arabidopsis thaliana OX=3702 GN=BZIP53 PE=1 SV=1
+tr|Q683G3|Q683G3_ARATH -          mtor                 -              0.051   11.7   0.2     0.066   11.3   0.2   1.0   1   0   0   1   1   1   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=At5g50970 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:50 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A178VC85|A0A178VC85_ARATH -          krh2                 -            1.7e-32  113.7   6.3   1.9e-32  113.5   6.3   1.0   1   0   0   1   1   1   1 Dihydroflavonol 4-reductase/flavanone protein OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=4 SV=1
+tr|Q9M898|Q9M898_ARATH         -          krh2                 -            3.2e-32  112.7   6.3   3.9e-32  112.5   6.3   1.1   1   0   0   1   1   1   1 AT3g02420/F16B3_5 OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=1 SV=1
+tr|A0A1P8B3H8|A0A1P8B3H8_ARATH -          krh2                 -                7.4    6.8   0.1        16    5.6   0.1   1.5   1   0   0   1   1   1   0 LYS/HIS transporter 7 OS=Arabidopsis thaliana OX=3702 GN=LHT7 PE=4 SV=1
+sp|Q9C9M2|PXMT2_ARATH          -          krh2                 -                9.5    6.4   0.1        19    5.4   0.0   1.5   2   0   0   2   2   2   0 Paraxanthine methyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=At1g66690 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:52:02 2022
+# [ok]

@@ -1,0 +1,56 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9CR67|TMM33_MOUSE          -          krh2                 -            7.8e-99  331.4  14.0   8.6e-99  331.3  14.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|A0A0R4J1Z3|A0A0R4J1Z3_MOUSE -          krh2                 -            1.5e-98  330.5  13.8   1.6e-98  330.4  13.8   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|Q9CZM3|Q9CZM3_MOUSE         -          krh2                 -            2.8e-38  133.1   3.6   3.1e-38  132.9   3.6   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+tr|E0CXY5|E0CXY5_MOUSE         -          krh2                 -            1.1e-10   42.6   0.3   1.2e-10   42.6   0.3   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Mus musculus OX=10090 GN=Tmem33 PE=4 SV=1
+tr|A0A0J9YV78|A0A0J9YV78_MOUSE -          krh2                 -              6e-10   40.3   0.1     6e-10   40.3   0.1   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Mus musculus OX=10090 GN=Tmem33 PE=1 SV=1
+sp|Q8BG50|TM169_MOUSE          -          krh2                 -              0.084   13.6   0.0      0.13   12.9   0.0   1.3   1   0   0   1   1   1   0 Transmembrane protein 169 OS=Mus musculus OX=10090 GN=Tmem169 PE=2 SV=1
+sp|Q9CQ56|USE1_MOUSE           -          krh2                 -               0.34   11.6   0.1      0.54   11.0   0.1   1.2   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Mus musculus OX=10090 GN=Use1 PE=1 SV=1
+tr|E9Q496|E9Q496_MOUSE         -          krh2                 -               0.36   11.5   0.1      0.58   10.8   0.1   1.2   1   0   0   1   1   1   0 Vesicle transport protein USE1 OS=Mus musculus OX=10090 GN=Use1 PE=1 SV=1
+tr|G3UX65|G3UX65_MOUSE         -          krh2                 -               0.45   11.2   0.4      0.65   10.7   0.4   1.3   1   0   0   1   1   1   0 Outer dense fiber protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Odf4 PE=1 SV=1
+tr|A0A0R4J255|A0A0R4J255_MOUSE -          krh2                 -               0.63   10.7   0.4         1   10.0   0.4   1.3   1   0   0   1   1   1   0 Outer dense fiber protein 4 OS=Mus musculus OX=10090 GN=Odf4 PE=1 SV=1
+tr|G3UWY7|G3UWY7_MOUSE         -          krh2                 -               0.75   10.5   0.0      0.89   10.2   0.0   1.3   1   0   0   1   1   1   0 N-acetyltransferase 8 (GCN5-related) family member 1 (Fragment) OS=Mus musculus OX=10090 GN=Nat8f1 PE=1 SV=8
+tr|Q8VG73|Q8VG73_MOUSE         -          krh2                 -                1.2    9.8   0.9       3.2    8.4   0.9   1.7   1   0   0   1   1   1   0 Olfactory receptor OS=Mus musculus OX=10090 GN=Olfr1240 PE=2 SV=1
+tr|D3Z6P3|D3Z6P3_MOUSE         -          krh2                 -                1.4    9.6   0.0       1.6    9.4   0.0   1.1   1   0   0   1   1   1   0 Protein FAM234A (Fragment) OS=Mus musculus OX=10090 GN=Fam234a PE=1 SV=8
+tr|A2BH01|A2BH01_MOUSE         -          krh2                 -                1.7    9.3   0.1       3.9    8.1   0.1   1.6   1   0   0   1   1   1   0 Predicted gene 1140 OS=Mus musculus OX=10090 GN=Gm14692 PE=1 SV=1
+tr|A0A0R4J1J2|A0A0R4J1J2_MOUSE -          krh2                 -                1.8    9.2   0.2         2    9.1   0.2   1.1   1   0   0   1   1   1   0 Potassium voltage-gated channel subfamily E member 2 OS=Mus musculus OX=10090 GN=Kcne2 PE=4 SV=1
+tr|A0A286YDW7|A0A286YDW7_MOUSE -          krh2                 -                2.5    8.8   1.3       3.2    8.4   1.3   1.2   1   0   0   1   1   1   0 Phosphatidylserine synthase 1 OS=Mus musculus OX=10090 GN=Ptdss1 PE=1 SV=1
+sp|Q9JIZ0|CMLO1_MOUSE          -          krh2                 -                2.6    8.7   0.1       4.3    8.0   0.1   1.3   1   0   0   1   1   1   0 Probable N-acetyltransferase CML1 OS=Mus musculus OX=10090 GN=Cml1 PE=1 SV=1
+tr|E9PUL7|E9PUL7_MOUSE         -          krh2                 -                2.8    8.6   0.1       4.6    7.9   0.1   1.3   1   0   0   1   1   1   0 N-acetyltransferase 8 (GCN5-related) family member 1 OS=Mus musculus OX=10090 GN=Nat8f1 PE=1 SV=1
+tr|A0A0J9YVF5|A0A0J9YVF5_MOUSE -          krh2                 -                3.7    8.2   2.6       4.4    8.0   2.6   1.1   1   0   0   1   1   1   0 Sugar phosphate exchanger 3 OS=Mus musculus OX=10090 GN=Slc37a3 PE=4 SV=1
+sp|Q3V2G4|SIM31_MOUSE          -          krh2                 -                3.8    8.2   1.1       4.7    7.9   1.1   1.1   1   0   0   1   1   1   0 Small integral membrane protein 31 OS=Mus musculus OX=10090 GN=SMIM31 PE=3 SV=1
+tr|A0A0J9YUL8|A0A0J9YUL8_MOUSE -          krh2                 -                3.9    8.2   2.6       4.4    8.0   2.6   1.1   1   0   0   1   1   1   0 Sugar phosphate exchanger 3 (Fragment) OS=Mus musculus OX=10090 GN=Slc37a3 PE=4 SV=1
+tr|A0A0J9YU14|A0A0J9YU14_MOUSE -          krh2                 -                3.9    8.1   2.6       4.5    7.9   2.6   1.1   1   0   0   1   1   1   0 Sugar phosphate exchanger 3 (Fragment) OS=Mus musculus OX=10090 GN=Slc37a3 PE=4 SV=1
+tr|A0A0J9YUS3|A0A0J9YUS3_MOUSE -          krh2                 -                4.7    7.9   2.6       5.6    7.6   2.6   1.1   1   0   0   1   1   1   0 Sugar phosphate exchanger 3 (Fragment) OS=Mus musculus OX=10090 GN=Slc37a3 PE=4 SV=1
+tr|A0A3Q4L2R6|A0A3Q4L2R6_MOUSE -          krh2                 -                  5    7.8   0.1       6.3    7.5   0.1   1.3   1   0   0   1   1   1   0 Transmembrane protein 217 OS=Mus musculus OX=10090 GN=Tmem217 PE=4 SV=1
+sp|Q9D808|KCNE2_MOUSE          -          krh2                 -                5.5    7.6   0.3       6.3    7.5   0.3   1.1   1   0   0   1   1   1   0 Potassium voltage-gated channel subfamily E member 2 OS=Mus musculus OX=10090 GN=Kcne2 PE=2 SV=2
+sp|Q6U7R4|TIMD4_MOUSE          -          krh2                 -                5.7    7.6   0.3        11    6.7   0.3   1.4   1   0   0   1   1   1   0 T-cell immunoglobulin and mucin domain-containing protein 4 OS=Mus musculus OX=10090 GN=Timd4 PE=1 SV=2
+sp|Q9D8I2|P2Y13_MOUSE          -          krh2                 -                5.8    7.6   1.6        21    5.8   1.6   1.9   1   0   0   1   1   1   0 P2Y purinoceptor 13 OS=Mus musculus OX=10090 GN=P2yr13 PE=2 SV=2
+tr|Q8R2C0|Q8R2C0_MOUSE         -          krh2                 -                5.8    7.6   1.8        14    6.3   1.8   1.7   1   0   0   1   1   1   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r62 PE=2 SV=1
+tr|F6TQS9|F6TQS9_MOUSE         -          krh2                 -                5.9    7.5   2.9        11    6.7   2.9   1.4   1   0   0   1   1   1   0 Endoplasmic reticulum metallopeptidase 1 (Fragment) OS=Mus musculus OX=10090 GN=Ermp1 PE=1 SV=1
+tr|Q80UI7|Q80UI7_MOUSE         -          krh2                 -                6.1    7.5   0.1       8.4    7.0   0.1   1.2   1   0   0   1   1   1   0 C-type lectin domain family 4, member a1 OS=Mus musculus OX=10090 GN=Clec4a1 PE=1 SV=1
+sp|Q307W7|KNCN_MOUSE           -          krh2                 -                6.1    7.5   0.0       7.5    7.2   0.0   1.1   1   0   0   1   1   1   0 Kinocilin OS=Mus musculus OX=10090 GN=Kncn PE=1 SV=1
+sp|Q60860|LTC4S_MOUSE          -          krh2                 -                6.2    7.5   1.2        10    6.7   0.9   1.5   1   1   0   1   1   1   0 Leukotriene C4 synthase OS=Mus musculus OX=10090 GN=Ltc4s PE=1 SV=1
+tr|D3Z7S5|D3Z7S5_MOUSE         -          krh2                 -                6.5    7.4   0.3       7.7    7.2   0.3   1.2   1   0   0   1   1   1   0 Transmembrane protein 208 OS=Mus musculus OX=10090 GN=Tmem208 PE=1 SV=1
+sp|Q8BYI8|F234B_MOUSE          -          krh2                 -                6.6    7.4   0.0        11    6.7   0.0   1.2   1   0   0   1   1   1   0 Protein FAM234B OS=Mus musculus OX=10090 GN=Fam234b PE=1 SV=1
+tr|A2ASM1|A2ASM1_MOUSE         -          krh2                 -                6.7    7.4   0.3       9.7    6.8   0.3   1.3   1   0   0   1   1   1   0 Endoplasmic reticulum junction formation protein lunapark (Fragment) OS=Mus musculus OX=10090 GN=Lnpk PE=1 SV=1
+tr|J3QNF4|J3QNF4_MOUSE         -          krh2                 -                7.3    7.2   0.3        13    6.4   0.3   1.4   1   0   0   1   1   1   0 Solute carrier family 2, facilitated glucose transporter member 4 (Fragment) OS=Mus musculus OX=10090 GN=Slc2a4 PE=3 SV=1
+tr|E9PUX8|E9PUX8_MOUSE         -          krh2                 -                7.3    7.2   0.0       9.8    6.8   0.0   1.2   1   0   0   1   1   1   0 Leucine-rich repeat-containing protein 4 OS=Mus musculus OX=10090 GN=Lrrc4 PE=4 SV=1
+tr|G3UWR4|G3UWR4_MOUSE         -          krh2                 -                7.6    7.2   0.3       7.1    7.3   0.3   1.1   1   0   0   1   1   1   0 Neuronatin OS=Mus musculus OX=10090 GN=Nnat PE=4 SV=1
+sp|Q9JIS3|SMCO4_MOUSE          -          krh2                 -                8.8    7.0   0.0       9.6    6.9   0.0   1.0   1   0   0   1   1   1   0 Single-pass membrane and coiled-coil domain-containing protein 4 OS=Mus musculus OX=10090 GN=Smco4 PE=3 SV=2
+tr|B7ZW84|B7ZW84_MOUSE         -          krh2                 -                9.1    6.9   0.2        12    6.5   0.2   1.2   1   0   0   1   1   1   0 Fmr1nb protein OS=Mus musculus OX=10090 GN=Fmr1nb PE=1 SV=1
+tr|A0A494BA35|A0A494BA35_MOUSE -          krh2                 -                9.2    6.9   1.9        23    5.6   1.9   1.6   1   0   0   1   1   1   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r60 PE=3 SV=1
+tr|G3UY47|G3UY47_MOUSE         -          krh2                 -                9.6    6.9   1.9        22    5.7   1.9   1.6   1   0   0   1   1   1   0 Vomeronasal type-1 receptor OS=Mus musculus OX=10090 GN=Vmn1r60 PE=3 SV=2
+tr|A0A140LHD7|A0A140LHD7_MOUSE -          krh2                 -                9.7    6.8   0.9        16    6.2   0.9   1.4   1   0   0   1   1   1   0 Mas-related G-protein-coupled receptor member G (Fragment) OS=Mus musculus OX=10090 GN=Mrgprg PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:17:17 2022
+# [ok]

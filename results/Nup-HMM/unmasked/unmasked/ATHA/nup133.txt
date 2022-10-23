@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4IGA5|NU133_ARATH          -          nup133               -           1.9e-193  646.3  20.3  1.3e-132  444.7   4.7   3.6   3   1   0   3   3   3   3 Nuclear pore complex protein NUP133 OS=Arabidopsis thaliana OX=3702 GN=NUP133 PE=1 SV=1
+tr|A0A2H1ZE14|A0A2H1ZE14_ARATH -          nup133               -           2.2e-163  546.7  14.7  1.1e-101  342.4   0.8   3.6   3   1   0   3   3   3   3 Nucleoporin, Nup133/Nup155-like protein OS=Arabidopsis thaliana OX=3702 GN=At2g05120 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup133.txt --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:46 2022
+# [ok]

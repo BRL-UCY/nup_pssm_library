@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94385|PO152_SCHPO -          pom152               -                  0 1297.3   0.0         0 1297.1   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin pom152 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pom152 PE=3 SV=3
+sp|Q9UUC6|SMD3_SCHPO  -          pom152               -               0.84    5.6   0.0      0.97    5.4   0.0   1.0   1   0   0   1   1   1   0 Small nuclear ribonucleoprotein Sm D3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=smd3 PE=1 SV=1
+sp|Q9Y826|MEU31_SCHPO -          pom152               -                5.1    3.0   3.8       5.9    2.8   3.8   1.0   1   0   0   1   1   1   0 Meiotic expression up-regulated protein 31 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=meu31 PE=2 SV=1
+sp|P22190|YMC2_SCHPO  -          pom152               -                8.5    2.3   0.0        11    1.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized cox1 intron-2 37.2 kDa protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPMIT.03 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:16:44 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1Z6H7|PO210_DROME  -          gp210                -                  0 1944.2   5.5         0 1944.0   5.5   1.0   1   0   0   1   1   1   1 Nuclear pore membrane glycoprotein 210 OS=Drosophila melanogaster OX=7227 GN=Gp210 PE=1 SV=1
+tr|Q9V401|Q9V401_DROME -          gp210                -                1.1    6.1  10.6       1.4    5.8  10.6   1.0   1   0   0   1   1   1   0 RE43371p OS=Drosophila melanogaster OX=7227 GN=EG:96G10.8 PE=2 SV=1
+tr|Q8IQS8|Q8IQS8_DROME -          gp210                -                4.1    4.3   7.9       4.4    4.2   7.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32198 PE=4 SV=1
+tr|Q8IQE8|Q8IQE8_DROME -          gp210                -                9.5    3.1   7.8        11    2.9   7.8   1.1   1   0   0   1   1   1   0 No optic lobe OS=Drosophila melanogaster OX=7227 GN=nol PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:18:24 2022
+# [ok]

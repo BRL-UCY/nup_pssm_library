@@ -1,0 +1,43 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IB10|A0A498IB10_MALDO -          nup154               -             8e-234  780.4   0.0  3.1e-108  364.3   0.0   5.3   4   2   0   4   4   3   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040302 PE=3 SV=1
+tr|A0A498HHZ2|A0A498HHZ2_MALDO -          nup154               -           3.8e-107  360.7   0.0   2.5e-83  281.8   0.0   3.0   2   1   0   2   2   2   2 Nucleoporin_N domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007606 PE=4 SV=1
+tr|A0A498HH70|A0A498HH70_MALDO -          nup154               -            2.3e-09   36.7   0.0   2.5e-09   36.6   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007605 PE=4 SV=1
+tr|A0A498HZR2|A0A498HZR2_MALDO -          nup154               -               0.25   10.1   1.4      0.28    9.9   1.4   1.0   1   0   0   1   1   1   0 SynN domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019027 PE=4 SV=1
+tr|A0A498ICB4|A0A498ICB4_MALDO -          nup154               -               0.58    8.9   0.2      0.97    8.1   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004533 PE=4 SV=1
+tr|A0A498IV93|A0A498IV93_MALDO -          nup154               -               0.89    8.3   0.0      0.91    8.2   0.0   1.0   1   0   0   1   1   1   0 Bulb-type lectin domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017087 PE=4 SV=1
+tr|A0A498IL96|A0A498IL96_MALDO -          nup154               -                  2    7.1   0.1       2.3    6.9   0.1   1.0   1   0   0   1   1   1   0 Protein MAK16 homolog OS=Malus domestica OX=3750 GN=DVH24_003335 PE=3 SV=1
+tr|A0A498H8Q6|A0A498H8Q6_MALDO -          nup154               -                  2    7.1   4.9       2.2    7.0   4.9   1.2   1   0   0   1   1   1   0 VQ domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_027935 PE=4 SV=1
+tr|A0A498J2W2|A0A498J2W2_MALDO -          nup154               -                2.3    6.9   0.3       3.2    6.4   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_032255 PE=4 SV=1
+tr|A0A498K4H3|A0A498K4H3_MALDO -          nup154               -                2.5    6.8   0.2       4.6    5.9   0.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026858 PE=4 SV=1
+tr|A0A498JBX3|A0A498JBX3_MALDO -          nup154               -                2.5    6.8   3.9       3.4    6.3   3.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020627 PE=4 SV=1
+tr|A0A498JKG4|A0A498JKG4_MALDO -          nup154               -                2.8    6.6   0.0         4    6.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024108 PE=4 SV=1
+tr|A0A498IVA0|A0A498IVA0_MALDO -          nup154               -                2.9    6.6   0.0       3.4    6.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014406 PE=3 SV=1
+tr|A0A498HI75|A0A498HI75_MALDO -          nup154               -                3.8    6.2   0.0       4.3    6.0   0.0   1.0   1   0   0   1   1   1   0 PPM-type phosphatase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018573 PE=4 SV=1
+tr|A0A498J2Y9|A0A498J2Y9_MALDO -          nup154               -                5.6    5.6   0.1       5.7    5.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000624 PE=4 SV=1
+tr|A0A498HLC6|A0A498HLC6_MALDO -          nup154               -                5.8    5.6   0.3       8.9    4.9   0.3   1.2   1   0   0   1   1   1   0 TPX2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013448 PE=3 SV=1
+tr|A0A498KDA6|A0A498KDA6_MALDO -          nup154               -                6.1    5.5   0.1       8.6    5.0   0.1   1.2   1   0   0   1   1   1   0 Ribosomal_L28e domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004124 PE=3 SV=1
+tr|A0A498I1L9|A0A498I1L9_MALDO -          nup154               -                6.2    5.5   0.3        10    4.7   0.3   1.3   1   0   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019022 PE=3 SV=1
+tr|A0A498I6E2|A0A498I6E2_MALDO -          nup154               -                6.4    5.4   6.5      0.38    9.5   1.4   1.4   2   0   0   2   2   2   0 Glutathione transferase OS=Malus domestica OX=3750 GN=DVH24_001977 PE=4 SV=1
+tr|A0A498JYH4|A0A498JYH4_MALDO -          nup154               -                6.5    5.4   1.3       7.9    5.1   1.3   1.1   1   0   0   1   1   1   0 SynN domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_010546 PE=4 SV=1
+tr|A0A498JMQ9|A0A498JMQ9_MALDO -          nup154               -                6.6    5.4   0.0       7.3    5.2   0.0   1.0   1   0   0   1   1   1   0 EF-hand domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035907 PE=4 SV=1
+tr|A0A498J1V4|A0A498J1V4_MALDO -          nup154               -                7.3    5.2   0.4        10    4.8   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032066 PE=4 SV=1
+tr|A0A498KDX5|A0A498KDX5_MALDO -          nup154               -                7.4    5.2   0.0       9.5    4.9   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_017599 PE=4 SV=1
+tr|A0A498I8D1|A0A498I8D1_MALDO -          nup154               -                7.6    5.2   0.1       9.9    4.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001952 PE=4 SV=1
+tr|A0A498K6T5|A0A498K6T5_MALDO -          nup154               -                7.7    5.2   2.1       9.6    4.8   2.1   1.0   1   0   0   1   1   1   0 NAM-associated domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_003913 PE=4 SV=1
+tr|A0A498I8L3|A0A498I8L3_MALDO -          nup154               -                8.3    5.0   0.1        11    4.7   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002032 PE=4 SV=1
+tr|A0A498JAA4|A0A498JAA4_MALDO -          nup154               -                8.6    5.0   1.0        14    4.3   1.0   1.3   1   0   0   1   1   1   0 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035507 PE=4 SV=1
+tr|A0A498JH28|A0A498JH28_MALDO -          nup154               -                8.8    5.0   0.0        11    4.6   0.0   1.1   1   0   0   1   1   1   0 GUB_WAK_bind domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013689 PE=4 SV=1
+tr|A0A498IDR6|A0A498IDR6_MALDO -          nup154               -                9.7    4.8   0.1        13    4.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041419 PE=4 SV=1
+tr|A0A498K540|A0A498K540_MALDO -          nup154               -                 10    4.8   0.0        14    4.3   0.0   1.1   1   0   0   1   1   1   0 GTP diphosphokinase OS=Malus domestica OX=3750 GN=DVH24_002626 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:07:53 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S2G1|ELYS_CHATD   -          elys                 -            1.9e-17   60.2   0.0   2.3e-17   59.9   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=ELYS PE=1 SV=1
+tr|G0SF93|G0SF93_CHATD -          elys                 -               0.12    7.9   0.0      0.17    7.4   0.0   1.1   1   0   0   1   1   1   0 Periodic tryptophan protein 2-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061240 PE=1 SV=1
+tr|G0SGH1|G0SGH1_CHATD -          elys                 -               0.23    6.9   0.0      0.31    6.5   0.0   1.0   1   0   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066310 PE=3 SV=1
+tr|G0S459|G0S459_CHATD -          elys                 -               0.81    5.1   0.0       1.1    4.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0030800 PE=4 SV=1
+tr|G0SBN9|G0SBN9_CHATD -          elys                 -                1.5    4.2   0.0       1.9    3.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0054250 PE=1 SV=1
+tr|G0S7Y9|G0S7Y9_CHATD -          elys                 -                2.1    3.7   0.0        18    0.6   0.0   1.8   2   0   0   2   2   2   0 Coatomer subunit beta' OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037490 PE=3 SV=1
+tr|G0RZL9|G0RZL9_CHATD -          elys                 -                5.2    2.4   0.0       7.1    2.0   0.0   1.1   1   0   0   1   1   1   0 Utp12 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003430 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CTHE/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:35:06 2022
+# [ok]

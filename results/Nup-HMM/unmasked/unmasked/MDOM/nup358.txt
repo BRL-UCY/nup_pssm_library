@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498KCT1|A0A498KCT1_MALDO -          nup358               -            8.6e-52  176.9  11.6   9.3e-52  176.8  11.6   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038448 PE=4 SV=1
+tr|A0A498ISK3|A0A498ISK3_MALDO -          nup358               -            3.5e-51  174.8  12.6     4e-51  174.6  12.6   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041650 PE=4 SV=1
+tr|A0A498IZS3|A0A498IZS3_MALDO -          nup358               -            5.3e-31  107.9  19.3   6.3e-31  107.7  19.3   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          nup358               -            1.3e-30  106.6  17.2   1.6e-30  106.3  17.2   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498K4X5|A0A498K4X5_MALDO -          nup358               -            8.7e-08   30.9  20.6   1.6e-07   30.0  20.6   1.4   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001279 PE=4 SV=1
+tr|A0A498I5K9|A0A498I5K9_MALDO -          nup358               -             0.0012   17.1   8.8     0.013   13.7   2.5   2.8   1   1   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023501 PE=4 SV=1
+tr|A0A498HLS3|A0A498HLS3_MALDO -          nup358               -              0.007   14.6   0.1     0.013   13.7   0.1   1.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012142 PE=4 SV=1
+tr|A0A498I7E3|A0A498I7E3_MALDO -          nup358               -             0.0094   14.2   5.8      0.43    8.7   1.7   2.2   1   1   1   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040307 PE=4 SV=1
+tr|A0A498JLN1|A0A498JLN1_MALDO -          nup358               -              0.018   13.3   2.4     0.019   13.2   2.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009691 PE=4 SV=1
+tr|A0A498JLP2|A0A498JLP2_MALDO -          nup358               -               0.11   10.6  14.5      0.05   11.8   1.7   3.2   1   1   3   4   4   4   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009142 PE=4 SV=1
+tr|A0A498J441|A0A498J441_MALDO -          nup358               -               0.14   10.2   0.0       0.2    9.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032725 PE=4 SV=1
+tr|A0A498KHS9|A0A498KHS9_MALDO -          nup358               -               0.19    9.8   2.5       3.5    5.6   0.0   2.9   4   0   0   4   4   4   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018006 PE=4 SV=1
+tr|A0A498I1J3|A0A498I1J3_MALDO -          nup358               -                0.2    9.7  10.1      0.28    9.3  10.1   1.1   1   0   0   1   1   1   0 AP2/ERF domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019010 PE=4 SV=1
+tr|A0A498J0G4|A0A498J0G4_MALDO -          nup358               -               0.21    9.7   5.5      0.24    9.5   5.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000647 PE=4 SV=1
+tr|A0A498JSH9|A0A498JSH9_MALDO -          nup358               -               0.24    9.5  42.1      0.32    9.1  42.1   1.1   1   0   0   1   1   1   0 DUF1421 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_008695 PE=4 SV=1
+tr|A0A498JB34|A0A498JB34_MALDO -          nup358               -                0.4    8.8   0.2      0.73    7.9   0.2   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021078 PE=4 SV=1
+tr|A0A498HWZ9|A0A498HWZ9_MALDO -          nup358               -               0.41    8.7   0.0      0.53    8.4   0.0   1.1   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021285 PE=4 SV=1
+tr|A0A498I1N1|A0A498I1N1_MALDO -          nup358               -                1.5    6.8  10.5       4.2    5.4   0.8   2.9   2   1   1   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_029744 PE=4 SV=1
+tr|A0A498J6R7|A0A498J6R7_MALDO -          nup358               -                2.6    6.1   4.9       3.6    5.6   4.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006821 PE=4 SV=1
+tr|A0A498ILU5|A0A498ILU5_MALDO -          nup358               -                4.5    5.3  13.5       5.8    4.9  13.5   1.0   1   0   0   1   1   1   0 Double-strand break repair protein OS=Malus domestica OX=3750 GN=DVH24_003545 PE=3 SV=1
+tr|A0A498HV26|A0A498HV26_MALDO -          nup358               -                5.6    5.0   3.5       6.9    4.7   3.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016674 PE=4 SV=1
+tr|A0A498HV75|A0A498HV75_MALDO -          nup358               -                5.8    4.9   8.6       7.9    4.5   8.6   1.1   1   0   0   1   1   1   0 WRKY domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_012487 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:18 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P78847|NU186_SCHPO -          nup205               -            3.8e-61  204.6  17.3   4.3e-21   71.8   0.9   4.8   4   1   0   4   4   4   4 Nucleoporin nup186 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup186 PE=2 SV=2
+sp|O42997|YBC7_SCHPO  -          nup205               -                0.2    6.6   1.9      0.25    6.3   1.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein C27B12.07 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pi071 PE=4 SV=1
+sp|Q9P7M8|NU184_SCHPO -          nup205               -               0.98    4.3   0.1       1.9    3.4   0.1   1.3   1   0   0   1   1   1   0 Nucleoporin nup184 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup184 PE=4 SV=1
+sp|O14091|SUT1_SCHPO  -          nup205               -                1.5    3.7   0.2       2.1    3.2   0.2   1.0   1   0   0   1   1   1   0 General alpha-glucoside permease OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sut1 PE=3 SV=1
+sp|Q9USI5|STI1_SCHPO  -          nup205               -                5.3    1.9   0.0       7.5    1.4   0.0   1.1   1   0   0   1   1   1   0 Heat shock protein sti1 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sti1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:15:59 2022
+# [ok]

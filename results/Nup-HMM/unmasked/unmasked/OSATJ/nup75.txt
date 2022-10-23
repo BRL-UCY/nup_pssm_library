@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q0JJD6|Q0JJD6_ORYSJ         -          nup75                -             2e-128  430.9   1.6  3.6e-128  430.0   1.6   1.4   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0746200 PE=1 SV=1
+tr|Q5JLX7|Q5JLX7_ORYSJ         -          nup75                -           7.2e-121  405.9   3.2  1.5e-120  404.9   3.2   1.5   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Oryza sativa subsp. japonica OX=39947 GN=OSJNBa0014K08.33-2 PE=1 SV=1
+tr|A0A0P0WKS6|A0A0P0WKS6_ORYSJ -          nup75                -              0.071   12.8   0.1     0.085   12.5   0.1   1.0   1   0   0   1   1   1   0 Os05g0328300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0328300 PE=4 SV=1
+tr|Q0D7S9|Q0D7S9_ORYSJ         -          nup75                -               0.18   11.4   0.0        18    4.9   0.0   2.4   2   0   0   2   2   2   0 Os07g0213300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0213300 PE=2 SV=2
+tr|Q10L04|Q10L04_ORYSJ         -          nup75                -               0.62    9.7   0.0       1.2    8.8   0.0   1.3   1   0   0   1   1   1   0 Os03g0363700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g24880 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:13 2022
+# [ok]

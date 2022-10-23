@@ -1,0 +1,22 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P25382|NLE1_YEAST  -          nup214               -            1.8e-05   20.4   0.4     0.012   11.1   0.0   2.1   2   0   0   2   2   2   2 Ribosome assembly protein 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RSA4 PE=1 SV=3
+sp|P13712|MSI1_YEAST  -          nup214               -            2.5e-05   19.9   0.7   0.00013   17.5   0.1   2.0   2   0   0   2   2   2   1 Chromatin assembly factor 1 subunit p50 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MSI1 PE=1 SV=1
+sp|P46680|AIP1_YEAST  -          nup214               -            0.00012   17.7   0.0    0.0054   12.2   0.0   2.0   2   0   0   2   2   2   2 Actin-interacting protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=AIP1 PE=1 SV=1
+sp|P40217|EIF3I_YEAST -          nup214               -            0.00016   17.2   0.0   0.00025   16.6   0.0   1.2   1   0   0   1   1   1   1 Eukaryotic translation initiation factor 3 subunit I OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIF34 PE=1 SV=1
+sp|P40066|GLE2_YEAST  -          nup214               -              0.019   10.4   0.0     0.024   10.0   0.0   1.0   1   0   0   1   1   1   0 Nucleoporin GLE2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GLE2 PE=1 SV=1
+sp|P53851|TEX1_YEAST  -          nup214               -              0.039    9.3   0.3      0.89    4.8   0.0   2.0   2   0   0   2   2   2   0 Protein TEX1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TEX1 PE=1 SV=1
+sp|Q04199|CAC2_YEAST  -          nup214               -              0.065    8.6   0.0     0.089    8.1   0.0   1.0   1   0   0   1   1   1   0 Chromatin assembly factor 1 subunit p60 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CAC2 PE=1 SV=1
+sp|Q03774|TRM82_YEAST -          nup214               -              0.072    8.5   0.1     0.095    8.1   0.1   1.0   1   0   0   1   1   1   0 tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit TRM82 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRM82 PE=1 SV=1
+sp|P53197|CDH1_YEAST  -          nup214               -               0.12    7.7   0.3       2.2    3.5   0.2   2.1   2   0   0   2   2   2   0 APC/C activator protein CDH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDH1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SCER/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:38 2022
+# [ok]

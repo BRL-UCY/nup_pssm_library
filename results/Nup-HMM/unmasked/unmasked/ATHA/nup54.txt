@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8GYF7|NUP54_ARATH          -          nup54                -              3e-72  245.2  17.4   3.4e-72  245.0  17.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein NUP54 OS=Arabidopsis thaliana OX=3702 GN=NUP54 PE=1 SV=1
+sp|Q8GWU7|SKI34_ARATH          -          nup54                -              0.073   13.0   0.6       0.1   12.5   0.6   1.2   1   0   0   1   1   1   0 Protein SKIP34 OS=Arabidopsis thaliana OX=3702 GN=SKIP34 PE=1 SV=1
+tr|Q94JR2|Q94JR2_ARATH         -          nup54                -                1.2    8.9   1.4       1.6    8.5   1.4   1.1   1   0   0   1   1   1   0 AT5g45310/K9E15_9 OS=Arabidopsis thaliana OX=3702 GN=At5g45310 PE=2 SV=1
+tr|O64492|O64492_ARATH         -          nup54                -                1.9    8.3  14.3       2.7    7.8  14.3   1.1   1   0   0   1   1   1   0 C2 calcium/lipid-binding plant phosphoribosyltransferase family protein OS=Arabidopsis thaliana OX=3702 GN=At1g04150 PE=4 SV=1
+tr|Q9LNS5|Q9LNS5_ARATH         -          nup54                -                  3    7.6   6.9       3.1    7.6   6.9   1.0   1   0   0   1   1   1   0 T20H2.25 protein OS=Arabidopsis thaliana OX=3702 GN=At1g19960 PE=2 SV=1
+sp|Q9SCK1|LSU1_ARATH           -          nup54                -                3.2    7.5   3.6       3.3    7.5   3.6   1.0   1   0   0   1   1   1   0 Protein RESPONSE TO LOW SULFUR 1 OS=Arabidopsis thaliana OX=3702 GN=LSU1 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:34 2022
+# [ok]

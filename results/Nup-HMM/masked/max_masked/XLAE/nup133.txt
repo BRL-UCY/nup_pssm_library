@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GS04|A0A1L8GS04_XENLA -          nup133               -           1.1e-298  995.0   5.6  1.3e-298  994.7   5.6   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18020310mg PE=1 SV=1
+tr|A0A1L8H1I9|A0A1L8H1I9_XENLA -          nup133               -           1.2e-295  984.9   1.6  1.4e-295  984.6   1.6   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18018579mg PE=1 SV=1
+tr|A0A1L8HZZ2|A0A1L8HZZ2_XENLA -          nup133               -                3.1    6.6   0.0       3.9    6.2   0.0   1.0   1   0   0   1   1   1   0 GLTP domain-containing protein OS=Xenopus laevis OX=8355 GN=gltp PE=4 SV=1
+tr|A0A1L8EYM0|A0A1L8EYM0_XENLA -          nup133               -                3.8    6.2   0.1        10    4.8   0.0   1.5   1   1   1   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=mlst8 PE=1 SV=1
+tr|Q6NRE1|Q6NRE1_XENLA         -          nup133               -                  4    6.2   0.0       5.4    5.7   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr20 PE=2 SV=1
+tr|A0A1L8F041|A0A1L8F041_XENLA -          nup133               -                4.1    6.1   0.0       5.6    5.7   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=wdr20 PE=4 SV=1
+tr|Q7ZYP5|Q7ZYP5_XENLA         -          nup133               -                6.4    5.5   0.2        10    4.9   0.2   1.2   1   0   0   1   1   1   0 MGC52698 protein OS=Xenopus laevis OX=8355 GN=utp4 PE=1 SV=1
+tr|Q5EAT9|Q5EAT9_XENLA         -          nup133               -                7.3    5.3   0.2        10    4.8   0.2   1.2   1   0   0   1   1   1   0 MGC85203 protein OS=Xenopus laevis OX=8355 GN=vipas39 PE=1 SV=1
+tr|A0A1L8HW28|A0A1L8HW28_XENLA -          nup133               -                7.7    5.2   0.0        10    4.8   0.0   1.0   1   0   0   1   1   1   0 SH2 domain-containing protein OS=Xenopus laevis OX=8355 GN=shd PE=4 SV=1
+tr|A0A1L8F9Y0|A0A1L8F9Y0_XENLA -          nup133               -                9.3    5.0   0.0        13    4.5   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039700mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:12:43 2022
+# [ok]

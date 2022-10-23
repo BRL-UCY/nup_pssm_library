@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8WYP5|ELYS_HUMAN           -          elys                 -                  0 3039.8   0.0         0 3039.6   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=3
+tr|H7C4S1|H7C4S1_HUMAN         -          elys                 -              3e-13   49.7   0.3   3.2e-13   49.6   0.3   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Homo sapiens OX=9606 GN=AHCTF1 PE=1 SV=1
+sp|Q86Y33|CD20B_HUMAN          -          elys                 -                1.6    7.5   0.1       2.1    7.1   0.1   1.0   1   0   0   1   1   1   0 Cell division cycle protein 20 homolog B OS=Homo sapiens OX=9606 GN=CDC20B PE=1 SV=3
+tr|B8ZZF2|B8ZZF2_HUMAN         -          elys                 -                2.7    6.7   0.0       3.3    6.4   0.0   1.0   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDSUB1 PE=1 SV=2
+tr|J3QRV5|J3QRV5_HUMAN         -          elys                 -                3.1    6.5   0.0       4.2    6.1   0.0   1.1   1   0   0   1   1   1   0 Lethal(2) giant larvae protein homolog 2 OS=Homo sapiens OX=9606 GN=LLGL2 PE=1 SV=1
+sp|Q6P1M3|L2GL2_HUMAN          -          elys                 -                3.1    6.5   0.0       4.2    6.1   0.0   1.1   1   0   0   1   1   1   0 Lethal(2) giant larvae protein homolog 2 OS=Homo sapiens OX=9606 GN=LLGL2 PE=1 SV=2
+sp|Q8N9V3|WSDU1_HUMAN          -          elys                 -                3.1    6.5   0.0       3.8    6.2   0.0   1.0   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDSUB1 PE=1 SV=3
+sp|Q8IWB7|WDFY1_HUMAN          -          elys                 -                3.6    6.3   0.0       4.8    5.9   0.0   1.0   1   0   0   1   1   1   0 WD repeat and FYVE domain-containing protein 1 OS=Homo sapiens OX=9606 GN=WDFY1 PE=1 SV=1
+tr|K7ELY0|K7ELY0_HUMAN         -          elys                 -                4.8    5.9   0.0       5.9    5.6   0.0   1.0   1   0   0   1   1   1   0 WD repeat domain phosphoinositide-interacting protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=WIPI1 PE=1 SV=1
+tr|C9JG97|C9JG97_HUMAN         -          elys                 -                9.3    4.9   0.0        65    2.1   0.0   1.8   2   0   0   2   2   2   0 Angio-associated migratory cell protein OS=Homo sapiens OX=9606 GN=AAMP PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:34:06 2022
+# [ok]

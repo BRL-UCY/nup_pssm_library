@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8L7F7|NUP62_ARATH          -          nup62                -            5.4e-73  247.2  71.3   5.4e-73  247.2  71.3   4.4   1   1   3   4   4   3   1 Nuclear pore complex protein NUP62 OS=Arabidopsis thaliana OX=3702 GN=NUP62 PE=1 SV=1
+sp|Q9S7P8|SP1L3_ARATH          -          nup62                -              0.086   12.8  13.9     0.093   12.7  13.9   1.2   1   0   0   1   1   1   0 Protein SPIRAL1-like 3 OS=Arabidopsis thaliana OX=3702 GN=SP1L3 PE=1 SV=1
+sp|Q9LF22|SP1L4_ARATH          -          nup62                -               0.19   11.7  13.6       0.2   11.6  13.6   1.2   1   0   0   1   1   1   0 Protein SPIRAL1-like 4 OS=Arabidopsis thaliana OX=3702 GN=SP1L4 PE=2 SV=1
+sp|Q8L838|COG4_ARATH           -          nup62                -               0.45   10.5   0.2      0.73    9.8   0.2   1.2   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Arabidopsis thaliana OX=3702 GN=COG4 PE=2 SV=1
+tr|B3H6W7|B3H6W7_ARATH         -          nup62                -               0.62   10.0  17.3      0.73    9.8  17.3   1.0   1   0   0   1   1   1   0 SPIRAL1-like3 OS=Arabidopsis thaliana OX=3702 GN=SP1L3 PE=1 SV=1
+sp|Q9SCW5|HFA1E_ARATH          -          nup62                -               0.65    9.9   8.4       1.3    8.9   8.4   1.4   1   0   0   1   1   1   0 Heat stress transcription factor A-1e OS=Arabidopsis thaliana OX=3702 GN=HSFA1E PE=2 SV=2
+tr|F4J440|F4J440_ARATH         -          nup62                -               0.93    9.4  14.0      0.02   14.9   7.5   1.5   2   0   0   2   2   2   0 Alpha/beta-Hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g23540 PE=4 SV=1
+tr|A0A1I9LT44|A0A1I9LT44_ARATH -          nup62                -                1.2    9.0  13.6     0.026   14.5   7.2   1.4   2   0   0   2   2   2   0 Alpha/beta-Hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g23540 PE=4 SV=1
+tr|Q6NKN2|Q6NKN2_ARATH         -          nup62                -                1.4    8.9  13.6     0.028   14.4   7.2   1.4   2   0   0   2   2   2   0 Alpha/beta-Hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g23540 PE=2 SV=1
+sp|Q9M7Q5|AI5L4_ARATH          -          nup62                -                1.5    8.7  11.9     0.073   13.0   5.6   1.9   2   0   0   2   2   2   0 ABSCISIC ACID-INSENSITIVE 5-like protein 4 OS=Arabidopsis thaliana OX=3702 GN=ABF1 PE=1 SV=1
+tr|F4I3C9|F4I3C9_ARATH         -          nup62                -                1.7    8.5  11.9     0.078   13.0   5.6   1.9   2   0   0   2   2   2   0 Abscisic acid responsive element-binding factor 1 OS=Arabidopsis thaliana OX=3702 GN=ABF1 PE=4 SV=1
+sp|Q9FIR1|AHL8_ARATH           -          nup62                -                1.8    8.4   7.3      0.51   10.3   1.1   2.1   2   0   0   2   2   2   0 AT-hook motif nuclear-localized protein 8 OS=Arabidopsis thaliana OX=3702 GN=AHL8 PE=2 SV=1
+tr|Q9FME9|Q9FME9_ARATH         -          nup62                -                  2    8.3   2.7       2.4    8.1   2.7   1.0   1   0   0   1   1   1   0 CHCH domain protein OS=Arabidopsis thaliana OX=3702 GN=MSJ1.24 PE=2 SV=1
+tr|Q5BPR0|Q5BPR0_ARATH         -          nup62                -                2.2    8.2  11.2       2.9    7.8  11.2   1.2   1   0   0   1   1   1   0 TPRXL OS=Arabidopsis thaliana OX=3702 GN=At3g15250 PE=4 SV=1
+sp|O48837|LRKS2_ARATH          -          nup62                -                3.2    7.6  13.2       5.3    6.9  13.2   1.2   1   0   0   1   1   1   0 Receptor like protein kinase S.2 OS=Arabidopsis thaliana OX=3702 GN=LECRKS2 PE=2 SV=2
+sp|Q96261|DHLEA_ARATH          -          nup62                -                3.4    7.6  23.1       4.9    7.0  23.1   1.1   1   0   0   1   1   1   0 Probable dehydrin LEA OS=Arabidopsis thaliana OX=3702 GN=LEA PE=2 SV=1
+tr|A0A1P8BHB6|A0A1P8BHB6_ARATH -          nup62                -                4.9    7.0  17.6       5.9    6.8   1.5   2.1   2   0   0   2   2   2   0 Hydroxyproline-rich glycoprotein family protein OS=Arabidopsis thaliana OX=3702 GN=At5g21280 PE=4 SV=1
+tr|Q8VYG5|Q8VYG5_ARATH         -          nup62                -                5.7    6.8  15.6       8.6    6.2  15.6   1.2   1   0   0   1   1   1   0 Protein kinase superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g57120 PE=2 SV=1
+tr|Q9C589|Q9C589_ARATH         -          nup62                -                6.9    6.6  17.9       7.5    6.4   1.7   2.1   2   0   0   2   2   2   0 At5g21280 OS=Arabidopsis thaliana OX=3702 GN=At5g21280 PE=2 SV=1
+tr|O82227|O82227_ARATH         -          nup62                -                8.9    6.2   9.4        11    5.8   9.4   1.1   1   0   0   1   1   1   0 Early nodulin-like protein 11 OS=Arabidopsis thaliana OX=3702 GN=ENODL11 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:30 2022
+# [ok]

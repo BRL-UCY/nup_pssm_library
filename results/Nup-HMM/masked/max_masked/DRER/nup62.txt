@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E9QIQ3|E9QIQ3_DANRE         -          nup62                -            6.3e-81  273.6   6.0   6.3e-81  273.6   6.0   2.2   2   0   0   2   2   2   1 Nucleoporin 62-like OS=Danio rerio OX=7955 GN=nup62l PE=1 SV=2
+tr|A0A2R8QTE7|A0A2R8QTE7_DANRE -          nup62                -            6.4e-81  273.5   6.0   6.4e-81  273.5   6.0   2.1   2   0   0   2   2   2   1 Nucleoporin 62-like OS=Danio rerio OX=7955 GN=nup62l PE=1 SV=1
+tr|A0A2R8Q9H4|A0A2R8Q9H4_DANRE -          nup62                -            1.1e-60  206.9   1.1   1.1e-60  206.9   1.1   2.3   2   1   0   2   2   2   1 Nucleoporin 62-like OS=Danio rerio OX=7955 GN=nup62l PE=1 SV=1
+tr|A0A2R8RUR1|A0A2R8RUR1_DANRE -          nup62                -                5.6    7.1   0.1       9.1    6.4   0.1   1.2   1   0   0   1   1   1   0 FH2 domain-containing protein OS=Danio rerio OX=7955 GN=LOC101882228 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:25:55 2022
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1Q953|F1Q953_DANRE         -          nup154               -                  0 1873.9   0.0         0 1872.9   0.0   1.4   1   1   0   1   1   1   1 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1QE76|F1QE76_DANRE         -          nup154               -                  0 1422.6   0.3         0 1421.5   0.3   1.5   1   1   0   1   1   1   1 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1QHS0|F1QHS0_DANRE         -          nup154               -               0.13   11.2   0.0      0.18   10.7   0.0   1.1   1   0   0   1   1   1   0 Sodium/hydrogen exchanger OS=Danio rerio OX=7955 GN=slc9a8 PE=3 SV=2
+tr|A0A0R4IT04|A0A0R4IT04_DANRE -          nup154               -               0.14   11.0   0.0      0.19   10.6   0.0   1.1   1   0   0   1   1   1   0 Sodium/hydrogen exchanger OS=Danio rerio OX=7955 GN=slc9a8 PE=3 SV=2
+tr|F1QE20|F1QE20_DANRE         -          nup154               -               0.27   10.1   7.2      0.37    9.7   7.2   1.1   1   0   0   1   1   1   0 Myocyte enhancer factor 2d OS=Danio rerio OX=7955 GN=mef2d PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:57 2022
+# [ok]

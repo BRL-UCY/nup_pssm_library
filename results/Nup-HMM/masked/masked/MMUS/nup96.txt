@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1B0GSX7|A0A1B0GSX7_MOUSE -          nup96                -                  0 1687.7  15.0         0 1684.4  15.0   2.2   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+sp|Q6PFD9|NUP98_MOUSE          -          nup96                -                  0 1684.7  14.2         0 1681.4  14.2   2.2   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=2
+tr|B2RQL0|B2RQL0_MOUSE         -          nup96                -           1.9e-244  816.5   6.4  1.3e-178  598.1   0.0   2.3   2   1   0   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A140T8J8|A0A140T8J8_MOUSE -          nup96                -           1.2e-241  807.1   5.5  1.9e-240  803.2   5.5   2.3   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GRB5|A0A1B0GRB5_MOUSE -          nup96                -             8e-190  635.3  23.4  7.8e-129  433.1   0.0   2.3   2   1   0   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GRA7|A0A1B0GRA7_MOUSE -          nup96                -           9.4e-187  625.1  23.4    2e-185  620.7  23.4   2.4   1   1   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|A0A1B0GS62|A0A1B0GS62_MOUSE -          nup96                -            1.3e-43  150.5  11.8   4.6e-38  132.1   0.1   2.8   1   1   1   2   2   2   2 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+tr|F6SMY7|F6SMY7_MOUSE         -          nup96                -              0.022   13.8   0.1     0.031   13.3   0.1   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase MYCBP2 (Fragment) OS=Mus musculus OX=10090 GN=Mycbp2 PE=1 SV=1
+sp|Q7TPH6|MYCB2_MOUSE          -          nup96                -              0.023   13.7   0.1     0.032   13.3   0.1   1.0   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase MYCBP2 OS=Mus musculus OX=10090 GN=Mycbp2 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:41 2022
+# [ok]

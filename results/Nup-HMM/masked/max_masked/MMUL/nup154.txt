@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QL31|A0A1D5QL31_MACMU -          nup154               -                  0 1705.4   0.0         0 1703.9   0.0   1.6   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=1
+tr|F6YTK1|F6YTK1_MACMU         -          nup154               -                  0 1573.2   0.0  9.9e-284  945.9   0.0   2.6   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP155 PE=4 SV=2
+tr|A0A1D5QS44|A0A1D5QS44_MACMU -          nup154               -                2.4    6.9   0.0       3.4    6.4   0.0   1.0   1   0   0   1   1   1   0 Sema domain-containing protein OS=Macaca mulatta OX=9544 GN=SEMA4B PE=3 SV=1
+tr|F7HP57|F7HP57_MACMU         -          nup154               -                3.1    6.6   0.0       4.3    6.1   0.0   1.0   1   0   0   1   1   1   0 Sema domain-containing protein OS=Macaca mulatta OX=9544 GN=SEMA4B PE=3 SV=2
+tr|F7EZE3|F7EZE3_MACMU         -          nup154               -                5.7    5.7   0.0       8.8    5.1   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|A0A1D5R3S3|A0A1D5R3S3_MACMU -          nup154               -                5.7    5.7   0.0       6.9    5.4   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=INTS7 PE=4 SV=1
+tr|A0A1D5Q954|A0A1D5Q954_MACMU -          nup154               -                8.7    5.1   0.2        11    4.8   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7ACD2|F7ACD2_MACMU         -          nup154               -                  9    5.0   0.0        13    4.5   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=DMXL1 PE=4 SV=1
+tr|F7CJ56|F7CJ56_MACMU         -          nup154               -                  9    5.0   0.0        13    4.5   0.0   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=DMXL1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:18:07 2022
+# [ok]

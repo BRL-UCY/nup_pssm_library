@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57740|NU107_HUMAN  -          nup107               -                  0 1018.8   9.5         0 1018.6   9.5   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|H0YG15|H0YG15_HUMAN -          nup107               -            5.8e-25   89.5   0.1   6.2e-25   89.4   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|F5GY77|F5GY77_HUMAN -          nup107               -            7.9e-11   42.8   0.0   8.6e-11   42.7   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:22 2022
+# [ok]

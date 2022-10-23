@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D0V6|A0A2K3D0V6_CHLRE -          nup188               -            1.6e-16   58.6   0.0   6.8e-06   23.4   0.0   4.3   5   0   0   5   5   5   4 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g587800v5 PE=4 SV=1
+tr|A0A2K3E470|A0A2K3E470_CHLRE -          nup188               -                2.2    5.1   0.4       2.9    4.7   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g142750v5 PE=4 SV=1
+tr|A0A2K3E6P1|A0A2K3E6P1_CHLRE -          nup188               -                4.4    4.1   0.3       5.2    3.8   0.3   1.1   1   0   0   1   1   1   0 PCI domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g030800v5 PE=4 SV=1
+tr|A0A2K3DV47|A0A2K3DV47_CHLRE -          nup188               -                5.2    3.9   0.1       8.9    3.1   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g144364v5 PE=4 SV=1
+tr|A0A2K3D1M0|A0A2K3D1M0_CHLRE -          nup188               -                6.6    3.5   0.2       8.9    3.1   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g483550v5 PE=3 SV=1
+tr|A8HQ97|A8HQ97_CHLRE         -          nup188               -                6.9    3.4   0.3        17    2.1   0.0   1.6   2   0   0   2   2   2   0 V-type proton ATPase subunit H OS=Chlamydomonas reinhardtii OX=3055 GN=ATPvH PE=3 SV=1
+tr|A8I8A3|A8I8A3_CHLRE         -          nup188               -                 10    2.9   0.0        14    2.5   0.0   1.0   1   0   0   1   1   1   0 Plastid-specific ribosomal protein 3 OS=Chlamydomonas reinhardtii OX=3055 GN=PSRP-3 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:20:11 2022
+# [ok]

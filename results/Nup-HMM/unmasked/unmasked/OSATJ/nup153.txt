@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q2QSX3|Q2QSX3_ORYSJ         -          nup153               -            5.7e-05   22.3  12.4     8e-05   21.8  12.4   1.1   1   0   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g22620 PE=1 SV=1
+tr|Q6Z6E6|Q6Z6E6_ORYSJ         -          nup153               -            0.00045   19.3   0.9   0.00045   19.3   0.9   1.6   1   1   1   2   2   2   1 Os02g0203700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0203700 PE=1 SV=1
+tr|Q8RYZ5|Q8RYZ5_ORYSJ         -          nup153               -            0.00083   18.4  19.9    0.0011   18.0  19.9   1.1   1   0   0   1   1   1   1 Os01g0555100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0555100 PE=2 SV=1
+tr|Q7F1K5|Q7F1K5_ORYSJ         -          nup153               -              0.019   13.9  15.9     0.033   13.1  15.9   1.3   1   0   0   1   1   1   0 Os08g0521400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=OJ1081_B12.106-2 PE=1 SV=1
+tr|Q6YS82|Q6YS82_ORYSJ         -          nup153               -              0.055   12.4   0.2     0.078   11.9   0.2   1.1   1   0   0   1   1   1   0 Os07g0296200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0296200 PE=1 SV=1
+tr|Q0JC49|Q0JC49_ORYSJ         -          nup153               -               0.18   10.7  13.7      0.25   10.2  13.7   1.0   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0492100 PE=1 SV=1
+tr|Q6YVE2|Q6YVE2_ORYSJ         -          nup153               -               0.59    8.9  59.4      0.72    8.7  59.4   1.0   1   0   0   1   1   1   0 Os07g0295400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0295400 PE=1 SV=1
+tr|Q69TJ9|Q69TJ9_ORYSJ         -          nup153               -               0.82    8.5  29.5        11    4.8  29.8   1.9   1   1   1   2   2   2   0 Os06g0191200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0191200 PE=2 SV=1
+tr|Q10E42|Q10E42_ORYSJ         -          nup153               -               0.95    8.3  25.5     2e+02    0.6  25.3   2.6   1   1   0   1   1   1   0 Os03g0708900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g50120 PE=1 SV=1
+tr|A0A0P0XU54|A0A0P0XU54_ORYSJ -          nup153               -               0.96    8.2  10.1      0.06   12.2   2.6   2.0   1   1   1   2   2   2   0 Os10g0401100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0401100 PE=4 SV=1
+tr|Q7F1K3|Q7F1K3_ORYSJ         -          nup153               -                  2    7.2  22.8     0.013   14.4  14.7   1.4   2   0   0   2   2   2   0 Os08g0521400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=OJ1081_B12.106-3 PE=1 SV=1
+tr|Q6Z648|Q6Z648_ORYSJ         -          nup153               -                2.1    7.1   9.3       2.5    6.8   9.3   1.0   1   0   0   1   1   1   0 Os02g0720300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0720300 PE=1 SV=1
+tr|Q6Z647|Q6Z647_ORYSJ         -          nup153               -                4.9    5.9  13.5      0.15   10.9   5.4   2.1   2   1   0   2   2   2   0 Os07g0404300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0404300 PE=1 SV=1
+tr|Q9SNS0|Q9SNS0_ORYSJ         -          nup153               -                7.2    5.3   8.2        25    3.6   0.4   2.3   1   1   0   1   1   1   0 Os06g0141200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0141200 PE=1 SV=1
+tr|Q7F1K4|Q7F1K4_ORYSJ         -          nup153               -                9.4    5.0  24.9     0.033   13.1  15.9   1.3   2   0   0   2   2   2   0 Os08g0521400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=OJ1081_B12.106-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:28 2022
+# [ok]

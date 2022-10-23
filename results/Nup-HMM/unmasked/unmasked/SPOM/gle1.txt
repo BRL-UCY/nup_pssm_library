@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O94652|GLE1_SCHPO  -          gle1                 -            2.3e-76  255.4  26.6   4.8e-76  254.3  26.6   1.5   1   1   0   1   1   1   1 mRNA export factor gle1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gle1 PE=3 SV=1
+sp|Q1MTN9|RLF2_SCHPO  -          gle1                 -            4.7e-05   20.0  36.5   6.3e-05   19.6  36.5   1.1   1   0   0   1   1   1   1 Chromatin assembly factor 1 subunit rlf2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rlf2 PE=1 SV=2
+sp|Q9Y7I8|ZUO1_SCHPO  -          gle1                 -            9.9e-05   18.9  28.9   9.9e-05   18.9  28.9   2.1   2   0   0   2   2   2   1 Zuotin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=zuo1 PE=1 SV=2
+sp|O74372|DUO1_SCHPO  -          gle1                 -              0.005   13.3  15.4    0.0071   12.8  15.4   1.2   1   0   0   1   1   1   1 DASH complex subunit duo1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=duo1 PE=3 SV=2
+sp|O74498|UCP10_SCHPO -          gle1                 -              0.046   10.1  10.0     0.073    9.5  10.0   1.2   1   0   0   1   1   1   0 UBX domain-containing protein 10 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ucp10 PE=3 SV=1
+sp|O74350|BDC1_SCHPO  -          gle1                 -               0.13    8.6  21.6      0.15    8.4  21.6   1.1   1   0   0   1   1   1   0 Bromodomain-containing protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bdc1 PE=1 SV=1
+sp|Q10483|YDFB_SCHPO  -          gle1                 -               0.18    8.2  33.6      0.23    7.8  33.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein C17C9.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC17C9.11c PE=4 SV=2
+sp|Q9P6K7|ARC1_SCHPO  -          gle1                 -               0.19    8.1  12.7      0.26    7.6  12.7   1.1   1   0   0   1   1   1   0 tRNA-aminoacylation cofactor arc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC30C2.04 PE=3 SV=1
+sp|O94567|SYNC_SCHPO  -          gle1                 -                  1    5.7  12.4       1.4    5.2  12.4   1.1   1   0   0   1   1   1   0 Probable asparagine--tRNA ligase, cytoplasmic OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nrs1 PE=3 SV=1
+sp|Q10175|FKBPH_SCHPO -          gle1                 -                5.9    3.2  19.7         8    2.7  19.7   1.1   1   0   0   1   1   1   0 Probable peptidyl-prolyl cis-trans isomerase C27F1.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC27F1.06c PE=1 SV=1
+sp|P78794|CWC15_SCHPO -          gle1                 -                6.6    3.0  31.5       9.6    2.5  31.5   1.2   1   0   0   1   1   1   0 Pre-mRNA-splicing factor cwf15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf15 PE=1 SV=2
+sp|O74191|FKBP4_SCHPO -          gle1                 -                7.2    2.9  28.8      0.36    7.2  23.5   1.4   2   0   0   2   2   2   0 FK506-binding protein 39 kDa OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fkbp39 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/gle1.txt --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:54 2022
+# [ok]

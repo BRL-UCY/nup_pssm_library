@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3E0Z7|A0A2K3E0Z7_CHLRE -          nup96                -            3.3e-75  253.7 103.5   6.2e-46  156.6   0.3   8.7   8   1   0   9   9   9   5 Peptidase S59 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086887v5 PE=4 SV=1
+tr|A0A2K3E0Y8|A0A2K3E0Y8_CHLRE -          nup96                -            4.8e-50  170.3   0.0   4.8e-50  170.3   0.0   4.0   3   1   0   3   3   3   1 Peptidase S59 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086887v5 PE=4 SV=1
+tr|A0A2K3E0Z3|A0A2K3E0Z3_CHLRE -          nup96                -            3.8e-40  137.4   5.9   9.7e-20   69.8   0.7   5.4   6   0   0   6   6   6   4 Nup96 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086887v5 PE=4 SV=1
+tr|A0A2K3DRB4|A0A2K3DRB4_CHLRE -          nup96                -               0.51    7.7   0.0       0.7    7.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g303251v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:28:00 2022
+# [ok]

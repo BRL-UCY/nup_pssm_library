@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTK4|NU189_SCHPO -          nup96                -           4.5e-180  599.6  37.0   4.7e-99  330.9   2.6   4.5   4   1   0   4   4   4   4 Nucleoporin nup189 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup189 PE=1 SV=2
+sp|Q09793|NUP45_SCHPO -          nup96                -              0.032    9.8  51.3      0.13    7.8  50.4   1.8   1   1   0   1   1   1   0 Nucleoporin nup45 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup45 PE=1 SV=2
+sp|Q09179|GLNA_SCHPO  -          nup96                -                6.4    2.2   0.0       8.3    1.8   0.0   1.0   1   0   0   1   1   1   0 Glutamine synthetase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gln1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:17:01 2022
+# [ok]

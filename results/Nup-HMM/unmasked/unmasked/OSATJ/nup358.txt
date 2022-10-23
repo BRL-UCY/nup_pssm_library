@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q0DIY4|Q0DIY4_ORYSJ         -          nup358               -              1e-54  186.8  13.9   1.2e-54  186.6  13.9   1.0   1   0   0   1   1   1   1 Os05g0350600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0350600 PE=1 SV=1
+tr|Q10MW8|Q10MW8_ORYSJ         -          nup358               -            9.5e-53  180.2  17.9   1.1e-52  180.1  17.9   1.0   1   0   0   1   1   1   1 Os03g0292800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g18180 PE=1 SV=1
+tr|A0A0P0WL25|A0A0P0WL25_ORYSJ -          nup358               -            1.5e-17   63.5  34.3   2.2e-17   62.9  33.1   1.6   1   1   0   1   1   1   1 Os05g0349500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0349500 PE=1 SV=1
+tr|Q10FH5|Q10FH5_ORYSJ         -          nup358               -            3.7e-08   32.3   2.3   6.4e-08   31.5   2.3   1.3   1   1   0   1   1   1   1 Os03g0667700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g46480 PE=1 SV=1
+tr|Q2QSX3|Q2QSX3_ORYSJ         -          nup358               -            4.6e-06   25.4   2.0   6.2e-06   24.9   2.0   1.0   1   0   0   1   1   1   1 Endonuclease/Exonuclease/phosphatase family protein, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os12g22620 PE=1 SV=1
+sp|Q6Q9I2|MAD15_ORYSJ          -          nup358               -              0.022   13.1   8.0     0.025   13.0   8.0   1.1   1   0   0   1   1   1   0 MADS-box transcription factor 15 OS=Oryza sativa subsp. japonica OX=39947 GN=MADS15 PE=1 SV=2
+tr|Q6Z6E3|Q6Z6E3_ORYSJ         -          nup358               -              0.025   12.9   0.1     0.033   12.6   0.1   1.0   1   0   0   1   1   1   0 Os02g0204000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0204000 PE=1 SV=1
+tr|Q9SNS0|Q9SNS0_ORYSJ         -          nup358               -              0.039   12.3   0.1       1.7    6.9   0.3   2.0   2   0   0   2   2   2   0 Os06g0141200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0141200 PE=1 SV=1
+tr|Q6Z6E6|Q6Z6E6_ORYSJ         -          nup358               -               0.07   11.5   0.1      0.14   10.5   0.0   1.5   1   1   0   2   2   2   0 Os02g0203700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0203700 PE=1 SV=1
+tr|Q5N719|Q5N719_ORYSJ         -          nup358               -              0.078   11.3   0.4      0.19   10.0   0.1   1.7   2   0   0   2   2   2   0 Os01g0906600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0906600 PE=1 SV=1
+tr|Q336U8|Q336U8_ORYSJ         -          nup358               -                0.1   10.9   0.0      0.33    9.3   0.0   1.6   2   0   0   2   2   2   0 Os10g0548200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os10g40050 PE=1 SV=2
+tr|Q8RYZ5|Q8RYZ5_ORYSJ         -          nup358               -               0.35    9.2   6.2      0.23    9.8   0.4   2.1   1   1   0   1   1   1   0 Os01g0555100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0555100 PE=2 SV=1
+sp|Q6YZI0|SPY_ORYSJ            -          nup358               -               0.55    8.5   0.9        12    4.1   0.0   2.5   3   0   0   3   3   3   0 Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY OS=Oryza sativa subsp. japonica OX=39947 GN=SPY PE=2 SV=1
+tr|A0A0P0V298|A0A0P0V298_ORYSJ -          nup358               -               0.72    8.1   0.0      0.97    7.7   0.0   1.0   1   0   0   1   1   1   0 Os01g0337600 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0337600 PE=1 SV=1
+tr|Q6EU02|Q6EU02_ORYSJ         -          nup358               -               0.79    8.0   0.6       1.1    7.5   0.6   1.1   1   0   0   1   1   1   0 Os02g0684000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0684000 PE=1 SV=1
+tr|A0A0P0XU54|A0A0P0XU54_ORYSJ -          nup358               -               0.88    7.8   5.1       1.1    7.5   5.1   1.0   1   0   0   1   1   1   0 Os10g0401100 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0401100 PE=4 SV=1
+tr|Q10RZ6|Q10RZ6_ORYSJ         -          nup358               -                2.5    6.4   3.9      0.41    9.0   0.1   1.5   2   0   0   2   2   2   0 Expressed protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g04710 PE=1 SV=1
+tr|Q5JKG7|Q5JKG7_ORYSJ         -          nup358               -                  3    6.1  17.6       3.7    5.8  17.6   1.1   1   0   0   1   1   1   0 Os01g0925000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0925000 PE=1 SV=1
+tr|Q6Z647|Q6Z647_ORYSJ         -          nup358               -                3.2    6.0   5.5       7.8    4.7   1.2   1.8   1   1   1   2   2   2   0 Os07g0404300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0404300 PE=1 SV=1
+tr|Q10E42|Q10E42_ORYSJ         -          nup358               -                3.7    5.8  12.4       5.1    5.3   4.5   2.3   1   1   1   2   2   2   0 Os03g0708900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g50120 PE=1 SV=1
+tr|A0A0P0VX31|A0A0P0VX31_ORYSJ -          nup358               -                4.2    5.6   4.8       5.2    5.3   4.8   1.0   1   0   0   1   1   1   0 Os03g0333501 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0333501 PE=4 SV=1
+tr|Q0DKE7|Q0DKE7_ORYSJ         -          nup358               -                5.6    5.2  42.0       6.7    4.9  42.0   1.1   1   0   0   1   1   1   0 Os05g0169400 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0169400 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:08 2022
+# [ok]

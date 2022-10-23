@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1L8M7|Q1L8M7_DANRE         -          mug31                -            0.00053   20.9   0.1   0.00053   20.9   0.1   1.7   2   0   0   2   2   2   1 Transmembrane protein 209 (Fragment) OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=2
+tr|F6P528|F6P528_DANRE         -          mug31                -            0.00083   20.2   0.1    0.0025   18.7   0.1   1.8   1   0   0   1   1   1   1 Transmembrane protein 209 OS=Danio rerio OX=7955 GN=tmem209 PE=1 SV=1
+tr|A0A0R4IW33|A0A0R4IW33_DANRE -          mug31                -              0.068   14.0   1.6     0.089   13.6   1.6   1.2   1   0   0   1   1   1   0 Exoribonuclease 1 OS=Danio rerio OX=7955 GN=eri1 PE=4 SV=2
+tr|F1REL7|F1REL7_DANRE         -          mug31                -                0.1   13.4   4.2      0.22   12.3   4.2   1.5   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain family 3 OS=Danio rerio OX=7955 GN=tmcc3 PE=4 SV=2
+tr|Q5RH38|Q5RH38_DANRE         -          mug31                -               0.14   12.9   3.8       0.3   11.9   3.8   1.5   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain family 3 OS=Danio rerio OX=7955 GN=tmcc3 PE=2 SV=1
+tr|Q503G0|Q503G0_DANRE         -          mug31                -               0.22   12.3   1.4      0.33   11.8   1.4   1.2   1   0   0   1   1   1   0 Eri1 protein OS=Danio rerio OX=7955 GN=eri1 PE=1 SV=1
+tr|A0A2R8RXC1|A0A2R8RXC1_DANRE -          mug31                -               0.64   10.8   0.4       1.2    9.9   0.4   1.4   1   0   0   1   1   1   0 Si:dkey-246g23.2 OS=Danio rerio OX=7955 GN=si:dkey-246g23.2 PE=4 SV=1
+tr|A0A0R4IQZ2|A0A0R4IQZ2_DANRE -          mug31                -               0.75   10.6   1.9       1.6    9.5   1.9   1.5   1   0   0   1   1   1   0 Palmitoyltransferase OS=Danio rerio OX=7955 GN=zdhhc13 PE=3 SV=1
+sp|Q9MIY7|COX2_DANRE           -          mug31                -                3.5    8.4   4.4       4.8    7.9   4.4   1.2   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Danio rerio OX=7955 GN=mt-co2 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/mug31.txt --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:16 2022
+# [ok]

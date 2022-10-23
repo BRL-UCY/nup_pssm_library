@@ -1,0 +1,64 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6NYN9|Q6NYN9_DANRE         -          nup54                -            6.2e-85  287.3  20.6   6.2e-85  287.3  20.6   2.0   1   1   1   2   2   2   1 Nucleoporin 54 OS=Danio rerio OX=7955 GN=nup54 PE=1 SV=1
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          nup54                -            3.7e-46  159.3  10.7   4.5e-46  159.1  10.7   1.0   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F1R4A0|F1R4A0_DANRE         -          nup54                -            9.9e-05   22.7  28.6   9.9e-05   22.7  28.6   2.6   2   1   0   2   2   2   1 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|E7F981|E7F981_DANRE         -          nup54                -             0.0065   16.7  46.0    0.0065   16.7  46.0   4.5   2   1   2   4   4   4   2 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=3
+tr|A8KB43|A8KB43_DANRE         -          nup54                -               0.38   10.8   0.6      0.55   10.3   0.6   1.2   1   0   0   1   1   1   0 Cerebellin 8 OS=Danio rerio OX=7955 GN=cbln8 PE=2 SV=1
+tr|X1WH89|X1WH89_DANRE         -          nup54                -               0.48   10.5   7.8      0.57   10.3   7.8   1.1   1   0   0   1   1   1   0 Si:dkey-114l24.2 (Fragment) OS=Danio rerio OX=7955 GN=si:dkey-114l24.2 PE=4 SV=1
+tr|F1R122|F1R122_DANRE         -          nup54                -                  1    9.4   1.7       1.7    8.7   1.7   1.3   1   0   0   1   1   1   0 PSMC3-interacting protein OS=Danio rerio OX=7955 GN=psmc3ip PE=1 SV=1
+tr|F1QJR9|F1QJR9_DANRE         -          nup54                -                1.1    9.4   0.0       1.5    8.9   0.0   1.1   1   0   0   1   1   1   0 Transcobalamin II (Fragment) OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+tr|Q6PBS8|Q6PBS8_DANRE         -          nup54                -                1.3    9.1   4.9       1.6    8.8   4.9   1.2   1   0   0   1   1   1   0 Chchd2l protein OS=Danio rerio OX=7955 GN=chchd2 PE=1 SV=1
+tr|A0A2R8Q8S0|A0A2R8Q8S0_DANRE -          nup54                -                1.4    9.0   4.9       1.8    8.6   4.9   1.2   1   0   0   1   1   1   0 Coiled-coil-helix-coiled-coil-helix domain-containing 2 OS=Danio rerio OX=7955 GN=chchd2 PE=1 SV=1
+tr|F2Z4S7|F2Z4S7_DANRE         -          nup54                -                2.1    8.4   0.0       3.2    7.8   0.0   1.3   1   0   0   1   1   1   0 Transcobalamin II (Fragment) OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+tr|E7F728|E7F728_DANRE         -          nup54                -                2.1    8.4  23.6       2.4    8.2  23.6   1.0   1   0   0   1   1   1   0 Zgc:103670 OS=Danio rerio OX=7955 GN=zgc:103670 PE=4 SV=2
+tr|E9QB34|E9QB34_DANRE         -          nup54                -                2.5    8.2  38.1       2.9    7.9  38.1   1.1   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 (Fragment) OS=Danio rerio OX=7955 GN=lamp2 PE=3 SV=1
+tr|A0A140LFU9|A0A140LFU9_DANRE -          nup54                -                2.8    8.0   0.4       4.1    7.5   0.4   1.1   1   0   0   1   1   1   0 Zgc:55733 OS=Danio rerio OX=7955 GN=zgc:55733 PE=1 SV=2
+tr|F1Q5G4|F1Q5G4_DANRE         -          nup54                -                2.8    8.0   2.5       5.2    7.1   2.5   1.3   1   0   0   1   1   1   0 Cyclic nucleotide-gated channel subunit alpha 4 OS=Danio rerio OX=7955 GN=cnga4 PE=4 SV=3
+tr|F1QQP5|F1QQP5_DANRE         -          nup54                -                2.9    8.0   2.5       4.8    7.2   2.5   1.2   1   0   0   1   1   1   0 Cyclic nucleotide-gated channel subunit alpha 4 (Fragment) OS=Danio rerio OX=7955 GN=cnga4 PE=4 SV=1
+tr|F2Z4S3|F2Z4S3_DANRE         -          nup54                -                  3    7.9   0.0       5.3    7.1   0.0   1.3   1   0   0   1   1   1   0 Transcobalamin II OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+tr|A0A1D5NSI5|A0A1D5NSI5_DANRE -          nup54                -                3.3    7.8   0.5       4.7    7.2   0.5   1.1   1   0   0   1   1   1   0 Zgc:55733 OS=Danio rerio OX=7955 GN=zgc:55733 PE=1 SV=2
+tr|A0A0R4IKH3|A0A0R4IKH3_DANRE -          nup54                -                3.4    7.7   0.5         5    7.2   0.5   1.1   1   0   0   1   1   1   0 Zgc:55733 OS=Danio rerio OX=7955 GN=zgc:55733 PE=1 SV=1
+tr|B0R171|B0R171_DANRE         -          nup54                -                3.5    7.7   1.1        74    3.3   0.5   2.1   2   0   0   2   2   2   0 Coatomer subunit beta' OS=Danio rerio OX=7955 GN=copb2 PE=1 SV=1
+tr|F1RDR2|F1RDR2_DANRE         -          nup54                -                3.6    7.6   0.0       6.4    6.8   0.0   1.3   1   0   0   1   1   1   0 Mitochondrial ribosomal protein S27 OS=Danio rerio OX=7955 GN=mrps27 PE=1 SV=1
+tr|A0A0R4IRV9|A0A0R4IRV9_DANRE -          nup54                -                3.7    7.6   0.7         5    7.1   0.7   1.1   1   0   0   1   1   1   0 Si:ch211-196c10.15 OS=Danio rerio OX=7955 GN=si:ch211-196c10.15 PE=4 SV=1
+tr|E9QCL8|E9QCL8_DANRE         -          nup54                -                3.8    7.6   5.8       7.7    6.5   5.8   1.4   1   0   0   1   1   1   0 ITPR-interacting domain-containing 1 OS=Danio rerio OX=7955 GN=itprid1 PE=4 SV=1
+tr|A0A2R8RUW2|A0A2R8RUW2_DANRE -          nup54                -                  4    7.5   1.1        78    3.2   0.5   2.1   2   0   0   2   2   2   0 Coatomer subunit beta' OS=Danio rerio OX=7955 GN=copb2 PE=1 SV=1
+tr|Q5BKX3|Q5BKX3_DANRE         -          nup54                -                  4    7.5  38.2       5.3    7.1  38.2   1.2   1   0   0   1   1   1   0 Lysosomal membrane glycoprotein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+tr|A0A0R4IZ00|A0A0R4IZ00_DANRE -          nup54                -                  4    7.5  38.2       5.3    7.1  38.2   1.2   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=2
+tr|A0A2R8Q0I4|A0A2R8Q0I4_DANRE -          nup54                -                  4    7.5  38.2       5.3    7.1  38.2   1.2   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+tr|F1QP92|F1QP92_DANRE         -          nup54                -                4.1    7.5   0.1       5.8    6.9   0.1   1.3   1   0   0   1   1   1   0 Si:ch211-106h4.9 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-106h4.9 PE=4 SV=1
+tr|A0A2R8QCH1|A0A2R8QCH1_DANRE -          nup54                -                4.1    7.4  38.2       5.5    7.0  38.2   1.2   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+tr|A0A0R4IR96|A0A0R4IR96_DANRE -          nup54                -                4.7    7.2   5.5       8.4    6.4   5.5   1.5   1   0   0   1   1   1   0 Si:ch1073-83b15.1 (Fragment) OS=Danio rerio OX=7955 GN=si:ch1073-83b15.1 PE=4 SV=1
+tr|I3IRW8|I3IRW8_DANRE         -          nup54                -                5.1    7.1  24.5       6.1    6.9  24.5   1.1   1   0   0   1   1   1   0 Zinc finger protein 865 (Fragment) OS=Danio rerio OX=7955 GN=znf865 PE=1 SV=1
+tr|F1QKC2|F1QKC2_DANRE         -          nup54                -                5.5    7.0  10.5       9.1    6.3  10.5   1.2   1   0   0   1   1   1   0 TGF-beta-activated kinase 1/MAP3K7-binding protein 1 OS=Danio rerio OX=7955 GN=tab1 PE=1 SV=3
+tr|F1QCL4|F1QCL4_DANRE         -          nup54                -                  6    6.9  39.2       7.3    6.6  39.2   1.1   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 (Fragment) OS=Danio rerio OX=7955 GN=lamp2 PE=3 SV=1
+tr|A0A2U3TVS8|A0A2U3TVS8_DANRE -          nup54                -                6.2    6.9   8.2       8.4    6.4   8.2   1.1   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Danio rerio OX=7955 GN=rnps1 PE=1 SV=1
+tr|A0A0R4IFE0|A0A0R4IFE0_DANRE -          nup54                -                6.3    6.8   2.6       6.9    6.7   2.6   1.0   1   0   0   1   1   1   0 Thyroid hormone receptor-associated protein 3b (Fragment) OS=Danio rerio OX=7955 GN=thrap3b PE=1 SV=1
+tr|F1RAK1|F1RAK1_DANRE         -          nup54                -                6.5    6.8  24.3        11    6.0  24.3   1.3   1   0   0   1   1   1   0 Kinesin-like protein OS=Danio rerio OX=7955 GN=zgc:103670 PE=1 SV=2
+tr|A0A2R8RUY6|A0A2R8RUY6_DANRE -          nup54                -                6.9    6.7  11.2        11    6.0  11.2   1.2   1   0   0   1   1   1   0 Poly [ADP-ribose] polymerase OS=Danio rerio OX=7955 GN=parp4 PE=1 SV=1
+tr|A2CEH8|A2CEH8_DANRE         -          nup54                -                7.1    6.7   2.0        10    6.2   2.0   1.1   1   0   0   1   1   1   0 Si:ch211-283g2.3 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-283g2.3 PE=4 SV=1
+tr|F1QHW9|F1QHW9_DANRE         -          nup54                -                7.1    6.7  11.2        12    6.0  11.2   1.2   1   0   0   1   1   1   0 Poly [ADP-ribose] polymerase (Fragment) OS=Danio rerio OX=7955 GN=parp4 PE=1 SV=2
+tr|A0A2R8QFM9|A0A2R8QFM9_DANRE -          nup54                -                7.2    6.6   0.1        12    5.9   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0G2KGY0|A0A0G2KGY0_DANRE -          nup54                -                7.3    6.6   8.1        10    6.2   8.1   1.1   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Danio rerio OX=7955 GN=rnps1 PE=1 SV=1
+tr|A0A0R4IAQ8|A0A0R4IAQ8_DANRE -          nup54                -                7.6    6.6 215.3      0.12   12.5  48.0   4.5   2   1   2   4   4   3   0 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=2
+sp|Q6PG31|RNPS1_DANRE          -          nup54                -                7.6    6.6   8.2        11    6.1   8.2   1.1   1   0   0   1   1   1   0 RNA-binding protein with serine-rich domain 1 OS=Danio rerio OX=7955 GN=rnps1 PE=2 SV=1
+tr|A5WW36|A5WW36_DANRE         -          nup54                -                7.8    6.5   8.8       8.7    6.4   8.8   1.0   1   0   0   1   1   1   0 Tropomyosin 3 (Fragment) OS=Danio rerio OX=7955 GN=tpm3 PE=1 SV=1
+tr|A0A0J9YJF9|A0A0J9YJF9_DANRE -          nup54                -                8.4    6.4   0.2        11    6.0   0.2   1.1   1   0   0   1   1   1   0 Piwi-like protein 1 (Fragment) OS=Danio rerio OX=7955 GN=piwil1 PE=1 SV=3
+tr|A0A2R8QRW0|A0A2R8QRW0_DANRE -          nup54                -                8.6    6.4   2.0       9.8    6.2   0.1   1.9   2   0   0   2   2   2   0 t-SNARE coiled-coil homology domain-containing protein OS=Danio rerio OX=7955 GN=stx7l PE=3 SV=1
+tr|Q5VK49|Q5VK49_DANRE         -          nup54                -                8.7    6.4   1.2        10    6.1   1.2   1.1   1   0   0   1   1   1   0 BCL2-interacting protein 3-like a OS=Danio rerio OX=7955 GN=bnip3la PE=2 SV=1
+tr|F1Q898|F1Q898_DANRE         -          nup54                -                8.8    6.4   9.3        13    5.8   9.3   1.3   1   0   0   1   1   1   0 LSM family member 14B OS=Danio rerio OX=7955 GN=lsm14b PE=1 SV=1
+tr|F1QS46|F1QS46_DANRE         -          nup54                -                8.9    6.3   2.1        12    5.9   2.1   1.2   1   0   0   1   1   1   0 Nucleolar protein 7 OS=Danio rerio OX=7955 GN=nol7 PE=1 SV=2
+tr|E9QEG4|E9QEG4_DANRE         -          nup54                -                  9    6.3   1.0        17    5.4   1.0   1.4   1   0   0   1   1   1   0 Immunoglobulin superfamily, member 5a OS=Danio rerio OX=7955 GN=igsf5a PE=4 SV=1
+tr|X1WC57|X1WC57_DANRE         -          nup54                -                9.8    6.2   0.9        47    4.0   0.0   2.0   2   0   0   2   2   2   0 Syntaxin 1A (brain) (Fragment) OS=Danio rerio OX=7955 GN=stx1a PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:31:41 2022
+# [ok]

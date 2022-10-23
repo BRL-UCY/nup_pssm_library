@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWS2|NUP35_DROME          -          nup53                -           1.3e-103  347.6   0.0  1.5e-103  347.4   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin Nup35 OS=Drosophila melanogaster OX=7227 GN=Nup35 PE=1 SV=1
+tr|M9PDF2|M9PDF2_DROME         -          nup53                -            0.00012   22.4   0.0   0.00022   21.5   0.0   1.3   1   0   0   1   1   1   1 Second mitotic wave missing, isoform C OS=Drosophila melanogaster OX=7227 GN=swm PE=1 SV=1
+sp|Q9VIV2|SWM_DROME            -          nup53                -            0.00012   22.3   0.0   0.00022   21.5   0.0   1.3   1   0   0   1   1   1   1 Zinc finger protein swm OS=Drosophila melanogaster OX=7227 GN=swm PE=1 SV=1
+tr|Q9V9P8|Q9V9P8_DROME         -          nup53                -            0.00031   21.0   0.0   0.00034   20.9   0.0   1.1   1   0   0   1   1   1   1 LP11549p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1421 PE=2 SV=1
+tr|Q8IQH5|Q8IQH5_DROME         -          nup53                -              0.011   16.0   0.0     0.015   15.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=CT30663 PE=4 SV=1
+tr|Q8IQH4|Q8IQH4_DROME         -          nup53                -              0.022   14.9   0.0     0.033   14.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform D OS=Drosophila melanogaster OX=7227 GN=CT30663 PE=4 SV=2
+tr|Q9VU18|Q9VU18_DROME         -          nup53                -              0.022   14.9   0.0     0.033   14.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=CT30663 PE=4 SV=2
+tr|Q9W1T4|Q9W1T4_DROME         -          nup53                -                3.5    7.7   0.0       6.6    6.8   0.0   1.4   1   0   0   1   1   1   0 U2 snRNP auxiliary factor large subunit OS=Drosophila melanogaster OX=7227 GN=LS2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:13:19 2022
+# [ok]

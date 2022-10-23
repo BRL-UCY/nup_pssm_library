@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509APP6|A0A509APP6_PLABA -          nup2l1               -             0.0039   15.0   6.7    0.0067   14.2   6.7   1.4   1   0   0   1   1   1   1 Pre-mRNA-splicing factor CWC24, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1307700 PE=4 SV=1
+tr|A0A509ARK0|A0A509ARK0_PLABA -          nup2l1               -              0.018   12.8   7.7     0.083   10.6   0.0   2.1   2   0   0   2   2   2   0 Pre-mRNA-splicing factor RBM22, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1461100 PE=4 SV=1
+tr|A0A509AIU4|A0A509AIU4_PLABA -          nup2l1               -                2.2    5.9  23.8       1.5    6.5   0.5   2.2   2   0   0   2   2   2   0 Splicing factor U2AF small subunit, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0928800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/PBERA/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:39:10 2022
+# [ok]

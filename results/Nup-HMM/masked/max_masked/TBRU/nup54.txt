@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q584I6|Q584I6_TRYB2 -          nup54                -            3.5e-30  104.2   0.1   4.8e-25   87.3   0.0   2.3   2   0   0   2   2   2   2 Nucleoporin (NUP54/57), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.4.5200 PE=4 SV=1
+tr|Q4FKQ3|Q4FKQ3_TRYB2 -          nup54                -                3.9    5.1   0.8       6.4    4.4   0.1   1.6   2   0   0   2   2   2   0 Stress-inducible protein STI1-like, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.2770 PE=4 SV=1
+tr|Q380V8|Q380V8_TRYB2 -          nup54                -                5.2    4.7   0.1         7    4.2   0.1   1.1   1   0   0   1   1   1   0 Variant surface glycoprotein (VSG, atypical), putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.14.0019 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:57:09 2022
+# [ok]

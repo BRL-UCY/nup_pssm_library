@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13961|NDC1_SCHPO -          ndc1                 -            1.1e-89  299.6  26.5   1.6e-89  299.1  26.5   1.2   1   0   0   1   1   1   1 Nuclear envelope protein ndc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cut11 PE=2 SV=2
+sp|Q9UTN1|OAC1_SCHPO -          ndc1                 -             0.0018   15.0   0.0    0.0028   14.3   0.0   1.2   1   0   0   1   1   1   1 Mitochondrial oxaloacetate transport protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=oac1 PE=3 SV=1
+sp|P21534|COX2_SCHPO -          ndc1                 -              0.012   12.2   1.1     0.017   11.7   1.1   1.1   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cox2 PE=3 SV=4
+sp|P50523|QCR8_SCHPO -          ndc1                 -              0.023   11.3   0.1     0.028   11.0   0.1   1.0   1   0   0   1   1   1   0 Cytochrome b-c1 complex subunit 8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=qcr8 PE=3 SV=1
+sp|P22192|PAC1_SCHPO -          ndc1                 -              0.098    9.2   0.0     0.098    9.2   0.0   1.5   2   0   0   2   2   2   0 Double-strand-specific pac1 ribonuclease OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pac1 PE=1 SV=1
+sp|Q9UUK4|YLO2_SCHPO -          ndc1                 -                5.5    3.4   6.6         7    3.1   6.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein C1952.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC1952.02 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:55 2022
+# [ok]

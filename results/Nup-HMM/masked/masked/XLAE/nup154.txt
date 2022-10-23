@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7ZWL0|Q7ZWL0_XENLA         -          nup154               -                  0 1614.0   0.0         0 1612.8   0.0   1.5   1   1   0   1   1   1   1 Nup155-prov protein OS=Xenopus laevis OX=8355 GN=nup155 PE=1 SV=1
+tr|A0A1L8GX11|A0A1L8GX11_XENLA -          nup154               -               0.55    9.0   0.0      0.72    8.6   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18017001mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:03 2022
+# [ok]

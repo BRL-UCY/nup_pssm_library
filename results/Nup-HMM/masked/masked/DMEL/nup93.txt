@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VFE7|Q9VFE7_DROME -          nup93                -           9.8e-281  933.6   0.8  1.1e-280  933.4   0.8   1.0   1   0   0   1   1   1   1 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9XZ06|NU931_DROME  -          nup93                -           2.4e-240  800.0   2.6  2.8e-240  799.8   2.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:07 2022
+# [ok]

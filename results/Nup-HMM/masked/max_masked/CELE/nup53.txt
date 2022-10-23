@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09601|NUP35_CAEEL          -          nup53                -            1.6e-32  114.2   0.0   2.4e-32  113.7   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Caenorhabditis elegans OX=6239 GN=npp-19 PE=1 SV=2
+sp|Q09295|YQO4_CAEEL           -          nup53                -               0.22   12.0   0.0      0.27   11.6   0.0   1.2   1   0   0   1   1   1   0 Putative RNA-binding protein EEED8.4 OS=Caenorhabditis elegans OX=6239 GN=EEED8.4 PE=4 SV=2
+sp|Q09301|YQOC_CAEEL           -          nup53                -                0.5   10.8   0.0      0.59   10.5   0.0   1.2   1   0   0   1   1   1   0 Putative RNA-binding protein EEED8.12 OS=Caenorhabditis elegans OX=6239 GN=EEED8.12 PE=4 SV=1
+tr|O44530|O44530_CAEEL         -          nup53                -                2.2    8.6   0.0       3.1    8.2   0.0   1.2   1   0   0   1   1   1   0 SGN1 Homolog OS=Caenorhabditis elegans OX=6239 GN=sgnh-1 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:00:33 2022
+# [ok]

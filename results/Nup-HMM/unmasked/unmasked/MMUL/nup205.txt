@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QRU5|A0A1D5QRU5_MACMU -          nup205               -                  0 2799.3  29.3         0 2794.2  29.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7G2Q1|F7G2Q1_MACMU         -          nup205               -                  0 2786.0  28.3         0 2780.9  28.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+tr|A0A1D5QYJ7|A0A1D5QYJ7_MACMU -          nup205               -                  0 2784.9  28.9         0 2779.8  28.9   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|A0A1D5Q852|A0A1D5Q852_MACMU -          nup205               -                  0 2755.8  27.3         0 2750.7  27.3   2.5   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=1
+tr|F7HS95|F7HS95_MACMU         -          nup205               -            5.4e-71  240.4   3.4   4.1e-68  230.9   3.4   2.9   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP205 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:23:37 2022
+# [ok]

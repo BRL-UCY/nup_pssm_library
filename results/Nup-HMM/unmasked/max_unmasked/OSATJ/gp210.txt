@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0N7KRA2|A0A0N7KRA2_ORYSJ -          gp210                -              4e-91  307.2   0.0   4.8e-91  306.9   0.0   1.0   1   0   0   1   1   1   1 Os09g0565450 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0565450 PE=1 SV=1
+tr|A0A0P0XRC0|A0A0P0XRC0_ORYSJ -          gp210                -            6.2e-90  303.2   0.0     7e-90  303.1   0.0   1.0   1   0   0   1   1   1   1 Os09g0565500 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0565500 PE=1 SV=1
+tr|B7F4V5|B7F4V5_ORYSJ         -          gp210                -                1.2    7.1   0.1       1.6    6.8   0.1   1.0   1   0   0   1   1   1   0 Transmembrane 9 superfamily member OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0162000 PE=1 SV=1
+tr|A0A0N7KHB8|A0A0N7KHB8_ORYSJ -          gp210                -                1.4    7.0   6.7       1.4    7.0   6.7   1.0   1   0   0   1   1   1   0 Os03g0372650 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0372650 PE=4 SV=1
+tr|Q0IZF1|Q0IZF1_ORYSJ         -          gp210                -                1.4    7.0   0.3        12    3.9   0.1   1.8   1   1   1   2   2   2   0 Os09g0572700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0572700 PE=1 SV=1
+tr|A0A0P0WWJ8|A0A0P0WWJ8_ORYSJ -          gp210                -                1.4    6.9   0.2       1.4    7.0   0.2   1.0   1   0   0   1   1   1   0 Os06g0336200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0336200 PE=1 SV=1
+tr|Q60EZ1|Q60EZ1_ORYSJ         -          gp210                -                1.5    6.9   0.1         2    6.4   0.1   1.0   1   0   0   1   1   1   0 Os05g0207700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0207700 PE=1 SV=1
+tr|A0A0P0W6X8|A0A0P0W6X8_ORYSJ -          gp210                -                  2    6.5   0.0         2    6.4   0.0   1.0   1   0   0   1   1   1   0 Os04g0136802 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0136802 PE=4 SV=1
+tr|Q65XS2|Q65XS2_ORYSJ         -          gp210                -                3.2    5.8   0.1       3.7    5.6   0.1   1.0   1   0   0   1   1   1   0 Os05g0170600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0170600 PE=4 SV=1
+tr|Q2R8Q6|Q2R8Q6_ORYSJ         -          gp210                -                4.1    5.4   0.1       5.4    5.0   0.1   1.1   1   0   0   1   1   1   0 Embryogenesis transmembrane protein, putative OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g11360 PE=4 SV=1
+tr|Q6AUP4|Q6AUP4_ORYSJ         -          gp210                -                4.6    5.3   1.7       5.4    5.0   1.7   1.0   1   0   0   1   1   1   0 Os05g0376800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0376800 PE=2 SV=1
+tr|A0A0P0XEZ8|A0A0P0XEZ8_ORYSJ -          gp210                -                  5    5.1   6.7       5.7    4.9   6.7   1.0   1   0   0   1   1   1   0 Os08g0328050 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0328050 PE=4 SV=1
+tr|Q0DUF6|Q0DUF6_ORYSJ         -          gp210                -                5.5    5.0   3.9       6.3    4.8   3.9   1.0   1   0   0   1   1   1   0 Os03g0188500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0188500 PE=4 SV=1
+tr|A0A0P0VD39|A0A0P0VD39_ORYSJ -          gp210                -                5.7    4.9   0.8       7.3    4.6   0.8   1.1   1   0   0   1   1   1   0 Os01g0960200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0960200 PE=4 SV=1
+tr|Q7XGB3|Q7XGB3_ORYSJ         -          gp210                -                5.7    4.9   5.2       7.6    4.5   5.2   1.1   1   0   0   1   1   1   0 HVA22-like protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os10g09870 PE=1 SV=2
+tr|A0A0N7KKY7|A0A0N7KKY7_ORYSJ -          gp210                -                  6    4.9   0.6         8    4.5   0.6   1.1   1   0   0   1   1   1   0 Os05g0475851 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0475851 PE=4 SV=1
+tr|A0A0P0W8B0|A0A0P0W8B0_ORYSJ -          gp210                -                6.1    4.9   0.5       6.5    4.8   0.5   1.0   1   0   0   1   1   1   0 Os04g0251262 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0251262 PE=4 SV=1
+tr|A0A0P0YCU3|A0A0P0YCU3_ORYSJ -          gp210                -                7.1    4.6   0.5       6.8    4.7   0.5   1.0   1   0   0   1   1   1   0 Os12g0600301 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0600301 PE=4 SV=1
+tr|Q0D7I2|Q0D7I2_ORYSJ         -          gp210                -                  8    4.5   0.0        10    4.1   0.0   1.0   1   0   0   1   1   1   0 Os07g0244200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0244200 PE=1 SV=1
+tr|A0A0P0W9U0|A0A0P0W9U0_ORYSJ -          gp210                -                8.6    4.4   0.1        11    4.0   0.1   1.0   1   0   0   1   1   1   0 Os04g0369066 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0369066 PE=1 SV=1
+tr|A0A0P0XIJ0|A0A0P0XIJ0_ORYSJ -          gp210                -                8.9    4.3   0.0       8.8    4.3   0.0   1.0   1   0   0   1   1   1   0 Os08g0540600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0540600 PE=4 SV=1
+tr|A0A0P0W284|A0A0P0W284_ORYSJ -          gp210                -                9.1    4.3   0.1        10    4.1   0.1   1.0   1   0   0   1   1   1   0 Os03g0714701 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0714701 PE=4 SV=1
+tr|A0A0P0WX49|A0A0P0WX49_ORYSJ -          gp210                -                9.2    4.3   1.7        10    4.1   1.7   1.0   1   0   0   1   1   1   0 Os06g0496950 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0496950 PE=4 SV=1
+tr|A0A0P0WVJ3|A0A0P0WVJ3_ORYSJ -          gp210                -                9.2    4.3   1.1        11    4.0   1.1   1.1   1   0   0   1   1   1   0 Os06g0273300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0273300 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/OSATJ/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:33:51 2022
+# [ok]

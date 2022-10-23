@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CUA8|A0A2K3CUA8_CHLRE -          nup153               -            0.00063   17.4 142.2   0.00063   17.4 142.2   6.3   1   1   4   6   6   3   3 Cysteine-rich PDZ-binding protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g670100v5 PE=3 SV=1
+tr|A0A2K3E7Z1|A0A2K3E7Z1_CHLRE -          nup153               -              0.013   13.1 110.1      0.02   12.5 110.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g049550v5 PE=4 SV=1
+tr|A0A2K3DJP0|A0A2K3DJP0_CHLRE -          nup153               -              0.022   12.3   8.3      0.46    7.9   0.1   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g328400v5 PE=3 SV=1
+tr|A0A2K3D6R8|A0A2K3D6R8_CHLRE -          nup153               -              0.031   11.8  72.8     0.041   11.4  72.8   1.1   1   0   0   1   1   1   0 Nup54 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g542950v5 PE=4 SV=1
+tr|A0A2K3E134|A0A2K3E134_CHLRE -          nup153               -              0.089   10.3  15.6      0.11    9.9  15.6   1.0   1   0   0   1   1   1   0 Secretory carrier-associated membrane protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g089900v5 PE=3 SV=1
+tr|A0A2K3CVL1|A0A2K3CVL1_CHLRE -          nup153               -                2.9    5.3   8.9       4.1    4.8   8.9   1.1   1   0   0   1   1   1   0 Lipid_desat domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g673001v5 PE=3 SV=1
+tr|A0A2K3D0Y3|A0A2K3D0Y3_CHLRE -          nup153               -                4.7    4.6   5.7       5.8    4.3   5.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g587650v5 PE=4 SV=1
+tr|A8IWH5|A8IWH5_CHLRE         -          nup153               -                4.9    4.5  23.9       6.2    4.2  23.9   1.0   1   0   0   1   1   1   0 Dual-specificity protein phosphatase 7 OS=Chlamydomonas reinhardtii OX=3055 GN=DSP7 PE=4 SV=1
+tr|A0A2K3D5A3|A0A2K3D5A3_CHLRE -          nup153               -                7.3    4.0  24.1        11    3.4  24.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g537700v5 PE=4 SV=1
+tr|A0A2K3DVL5|A0A2K3DVL5_CHLRE -          nup153               -                7.7    3.9  41.2        10    3.5  41.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g149900v5 PE=4 SV=1
+tr|A0A2K3DEH3|A0A2K3DEH3_CHLRE -          nup153               -                9.1    3.6  35.5        17    2.7  35.5   1.4   1   0   0   1   1   1   0 C3HC-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394843v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:34:31 2022
+# [ok]

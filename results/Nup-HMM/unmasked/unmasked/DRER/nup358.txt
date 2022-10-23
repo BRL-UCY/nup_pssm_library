@@ -1,0 +1,58 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B8JMJ5|B8JMJ5_DANRE         -          nup358               -                  0 2719.2 100.8         0 1574.7   8.6   6.2   1   1   5   6   6   6   6 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|A0A2R8QJ57|A0A2R8QJ57_DANRE -          nup358               -                  0 2718.4 101.6         0 1574.0   9.4   6.2   1   1   5   6   6   6   6 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=1
+tr|X1WCS8|X1WCS8_DANRE         -          nup358               -                  0 2715.3 100.1         0 1579.7   9.1   5.3   1   1   4   5   5   5   5 Si:ch1073-55a19.2 OS=Danio rerio OX=7955 GN=si:ch1073-55a19.2 PE=1 SV=2
+tr|Q6NWK3|Q6NWK3_DANRE         -          nup358               -            6.1e-62  210.7  17.9   6.6e-62  210.6  17.9   1.0   1   0   0   1   1   1   1 RAN-binding protein 1 OS=Danio rerio OX=7955 GN=ranbp1 PE=1 SV=1
+tr|K7DY47|K7DY47_DANRE         -          nup358               -            6.7e-54  184.0   0.5   6.7e-54  184.0   0.5   1.5   2   0   0   2   2   2   1 FinTRIM family, member 52, pseudogene OS=Danio rerio OX=7955 GN=ftr52p PE=4 SV=1
+tr|A0A0R4IVZ0|A0A0R4IVZ0_DANRE -          nup358               -            1.6e-33  116.4  72.1   2.5e-13   49.4  37.8   7.9   3   1   3   7   7   4   4 Nucleoporin 153 OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|A0A2R8Q3A0|A0A2R8Q3A0_DANRE -          nup358               -            6.4e-22   77.9   0.1   7.8e-22   77.6   0.1   1.0   1   0   0   1   1   1   1 Peptidyl-prolyl cis-trans isomerase OS=Danio rerio OX=7955 GN=ftr52p PE=3 SV=1
+tr|Q6PCR4|Q6PCR4_DANRE         -          nup358               -            1.8e-14   53.2  25.1   1.8e-14   53.2  25.1   1.4   1   1   0   1   1   1   1 RAN-binding protein 3b OS=Danio rerio OX=7955 GN=ranbp3b PE=1 SV=1
+tr|F1Q591|F1Q591_DANRE         -          nup358               -            1.9e-14   53.1  15.2   3.1e-14   52.4  15.2   1.2   1   0   0   1   1   1   1 RAN-binding protein 3a OS=Danio rerio OX=7955 GN=ranbp3a PE=4 SV=1
+tr|F1R0E4|F1R0E4_DANRE         -          nup358               -            1.5e-09   36.9   0.1   1.5e-09   36.9   0.1   2.0   2   0   0   2   2   2   1 Nucleoporin 50 OS=Danio rerio OX=7955 GN=nup50 PE=1 SV=1
+tr|A0A0R4IEI9|A0A0R4IEI9_DANRE -          nup358               -            0.00019   19.9   0.2   0.00019   19.9   0.2   2.0   2   0   0   2   2   1   1 Nucleoporin 153 (Fragment) OS=Danio rerio OX=7955 GN=nup153 PE=1 SV=1
+tr|U3JAN8|U3JAN8_DANRE         -          nup358               -             0.0038   15.6   0.0    0.0039   15.6   0.0   1.1   1   0   0   1   1   1   1 ENAH actin regulator (Fragment) OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|Q5SP49|Q5SP49_DANRE         -          nup358               -              0.012   14.0  17.5     0.018   13.4  17.5   1.2   1   0   0   1   1   1   0 YY1-associated factor 2 OS=Danio rerio OX=7955 GN=yaf2 PE=4 SV=1
+tr|E7EYV8|E7EYV8_DANRE         -          nup358               -              0.017   13.5   1.1     0.024   12.9   1.1   1.1   1   0   0   1   1   1   0 Zinc finger, RAN-binding domain-containing 1a OS=Danio rerio OX=7955 GN=zranb1a PE=4 SV=3
+tr|Q5SP48|Q5SP48_DANRE         -          nup358               -              0.019   13.3  17.6     0.028   12.7  17.6   1.2   1   0   0   1   1   1   0 YY1-associated factor 2 OS=Danio rerio OX=7955 GN=yaf2 PE=4 SV=1
+tr|F1QC11|F1QC11_DANRE         -          nup358               -               0.02   13.3   0.0      0.02   13.3   0.0   1.0   1   0   0   1   1   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|A0A0R4IB53|A0A0R4IB53_DANRE -          nup358               -              0.062   11.6   0.0     0.062   11.6   0.0   2.3   1   1   1   2   2   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+tr|E7F2R1|E7F2R1_DANRE         -          nup358               -              0.081   11.2   4.4      0.38    9.0   0.0   3.0   3   0   0   3   3   3   0 Tetratricopeptide repeat domain 37 OS=Danio rerio OX=7955 GN=ttc37 PE=1 SV=2
+tr|Q5TZC8|Q5TZC8_DANRE         -          nup358               -                0.1   10.9   0.0       0.1   10.9   0.0   3.1   1   1   1   3   3   1   0 ENAH actin regulator OS=Danio rerio OX=7955 GN=enah PE=1 SV=1
+sp|A0JMQ9|ZRN1B_DANRE          -          nup358               -               0.11   10.8  12.5     0.011   14.1   6.1   2.1   1   1   1   2   2   2   0 Ubiquitin thioesterase zranb1-B OS=Danio rerio OX=7955 GN=zranb1b PE=2 SV=1
+tr|A0A140LGG8|A0A140LGG8_DANRE -          nup358               -               0.25    9.6   3.8      0.29    9.4   3.8   1.0   1   0   0   1   1   1   0 Myosin, heavy chain 14, non-muscle (Fragment) OS=Danio rerio OX=7955 GN=myh14 PE=1 SV=1
+tr|Q4L1M6|Q4L1M6_DANRE         -          nup358               -               0.25    9.6   4.7      0.35    9.1   4.7   1.1   1   0   0   1   1   1   0 LIM homeobox transcription factor 1, beta 1 OS=Danio rerio OX=7955 GN=lmx1bb PE=2 SV=1
+tr|F1RBR9|F1RBR9_DANRE         -          nup358               -               0.26    9.6   0.2      0.34    9.1   0.2   1.1   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 OS=Danio rerio OX=7955 GN=bbs4 PE=4 SV=1
+tr|E7F0V6|E7F0V6_DANRE         -          nup358               -               0.34    9.2   3.7      0.13   10.5   0.6   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC100334178 PE=4 SV=2
+tr|F1QAA1|F1QAA1_DANRE         -          nup358               -                1.1    7.4   1.5       1.9    6.7   1.5   1.2   1   0   0   1   1   1   0 Protocadherin 7a OS=Danio rerio OX=7955 GN=pcdh7a PE=4 SV=2
+tr|F1QXG2|F1QXG2_DANRE         -          nup358               -                2.2    6.5  13.6       2.7    6.2  13.6   1.0   1   0   0   1   1   1   0 tRNA selenocysteine 1-associated protein 1b OS=Danio rerio OX=7955 GN=trnau1apb PE=1 SV=1
+sp|Q4KM14|TSP1L_DANRE          -          nup358               -                2.3    6.4  12.6       2.8    6.1  12.6   1.0   1   0   0   1   1   1   0 tRNA selenocysteine 1-associated protein 1-like OS=Danio rerio OX=7955 GN=trnau1apl PE=2 SV=1
+tr|A0A2R8RKD0|A0A2R8RKD0_DANRE -          nup358               -                2.7    6.2   7.2         6    5.0   7.2   1.4   1   1   0   1   1   1   0 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=1
+tr|F1R7V7|F1R7V7_DANRE         -          nup358               -                2.7    6.2   6.2       6.1    5.0   6.1   1.4   1   1   0   1   1   1   0 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=2
+tr|E9QB34|E9QB34_DANRE         -          nup358               -                2.9    6.1  28.4       3.3    5.9  28.4   1.0   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 (Fragment) OS=Danio rerio OX=7955 GN=lamp2 PE=3 SV=1
+tr|F1Q570|F1Q570_DANRE         -          nup358               -                3.7    5.7   7.7       8.5    4.5   7.8   1.4   1   1   0   1   1   1   0 Nei-like DNA glycosylase 3 OS=Danio rerio OX=7955 GN=neil3 PE=4 SV=2
+tr|F1QA30|F1QA30_DANRE         -          nup358               -                5.1    5.2  35.7       9.2    4.4  35.7   1.3   1   1   0   1   1   1   0 RING1 and YY1-binding protein B OS=Danio rerio OX=7955 GN=rybpb PE=4 SV=1
+sp|Q5EG55|RYBPB_DANRE          -          nup358               -                5.7    5.1  35.7        12    4.0  35.7   1.3   1   1   0   1   1   1   0 RING1 and YY1-binding protein B OS=Danio rerio OX=7955 GN=rybpb PE=2 SV=1
+tr|F1R105|F1R105_DANRE         -          nup358               -                5.7    5.1  17.1       7.1    4.8  17.1   1.1   1   0   0   1   1   1   0 Smoothelin,-like OS=Danio rerio OX=7955 GN=smtnl PE=4 SV=1
+tr|F1QCL4|F1QCL4_DANRE         -          nup358               -                  6    5.0  28.8       7.2    4.8  28.8   1.0   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 (Fragment) OS=Danio rerio OX=7955 GN=lamp2 PE=3 SV=1
+tr|A0A2R8PX38|A0A2R8PX38_DANRE -          nup358               -                6.2    5.0   9.9      0.52    8.5   3.9   1.8   2   0   0   2   2   2   0 Ubiquitin thioesterase zranb1-B OS=Danio rerio OX=7955 GN=zranb1b PE=4 SV=1
+tr|B0UXH5|B0UXH5_DANRE         -          nup358               -                6.3    4.9  15.0         8    4.6  15.0   1.0   1   0   0   1   1   1   0 Angiopoietin-like 2b OS=Danio rerio OX=7955 GN=angptl2b PE=4 SV=1
+sp|E7FEV0|WDR81_DANRE          -          nup358               -                6.5    4.9   8.3       8.8    4.5   8.3   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 81 OS=Danio rerio OX=7955 GN=wdr81 PE=2 SV=1
+tr|F1QKV6|F1QKV6_DANRE         -          nup358               -                7.1    4.8   9.8       1.3    7.3   6.5   1.3   2   0   0   2   2   2   0 Nuclear receptor subfamily 5, group A, member 5 OS=Danio rerio OX=7955 GN=nr5a5 PE=3 SV=1
+tr|B3DKN2|B3DKN2_DANRE         -          nup358               -                7.2    4.8   9.7       1.3    7.2   6.5   1.4   2   0   0   2   2   2   0 Nr5a5 protein OS=Danio rerio OX=7955 GN=nr5a5 PE=2 SV=1
+tr|A0A0R4IKX3|A0A0R4IKX3_DANRE -          nup358               -                8.3    4.5  12.9        12    4.1  12.9   1.1   1   0   0   1   1   1   0 cAMP-responsive element-binding protein 3-like 1 OS=Danio rerio OX=7955 GN=creb3l1 PE=4 SV=2
+tr|Q5BKX3|Q5BKX3_DANRE         -          nup358               -                9.3    4.4  28.8        11    4.1  28.8   1.0   1   0   0   1   1   1   0 Lysosomal membrane glycoprotein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+tr|A0A0R4IZ00|A0A0R4IZ00_DANRE -          nup358               -                9.4    4.4  28.8        11    4.1  28.8   1.0   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=2
+tr|A0A2R8Q0I4|A0A2R8Q0I4_DANRE -          nup358               -                9.4    4.4  28.8        12    4.1  28.8   1.0   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+tr|A0A2R8QCH1|A0A2R8QCH1_DANRE -          nup358               -                9.7    4.3  28.8        12    4.0  28.8   1.0   1   0   0   1   1   1   0 Lysosomal-associated membrane protein 2 OS=Danio rerio OX=7955 GN=lamp2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:18:56 2022
+# [ok]

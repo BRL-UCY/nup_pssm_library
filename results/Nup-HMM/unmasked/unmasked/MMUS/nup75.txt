@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R480|NUP85_MOUSE          -          nup75                -           5.2e-265  882.2   8.2  5.9e-265  882.1   8.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YM95|Z4YM95_MOUSE         -          nup75                -             7e-123  412.7   4.0  8.5e-123  412.4   4.0   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|Z4YLV0|Z4YLV0_MOUSE         -          nup75                -             4e-112  377.2   2.5   6.8e-60  204.6   0.1   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup85 (Fragment) OS=Mus musculus OX=10090 GN=Nup85 PE=1 SV=1
+tr|A0A0A6YVZ4|A0A0A6YVZ4_MOUSE -          nup75                -              0.055   13.3   0.1     0.074   12.9   0.1   1.1   1   0   0   1   1   1   0 Podocin (Fragment) OS=Mus musculus OX=10090 GN=Nphs2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:21:39 2022
+# [ok]

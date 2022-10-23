@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09601|NUP35_CAEEL  -          nup53                -            1.3e-47  163.8  20.5     2e-47  163.3  20.5   1.2   1   0   0   1   1   1   1 Nucleoporin NUP35 OS=Caenorhabditis elegans OX=6239 GN=npp-19 PE=1 SV=2
+tr|O02103|O02103_CAEEL -          nup53                -                1.6    9.1  14.5     0.036   14.5   7.4   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C18E3.9 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:15:00 2022
+# [ok]

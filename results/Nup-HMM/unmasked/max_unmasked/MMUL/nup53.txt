@@ -1,0 +1,64 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6XL37|F6XL37_MACMU         -          nup53                -           4.6e-115  386.3  11.9  1.6e-113  381.2  11.9   2.4   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=2
+tr|A0A1D5R653|A0A1D5R653_MACMU -          nup53                -           4.7e-115  386.3  11.6  1.5e-113  381.3  11.6   2.4   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=2 SV=1
+tr|A0A1D5QUE9|A0A1D5QUE9_MACMU -          nup53                -           5.1e-115  386.1  11.9  1.7e-113  381.1  11.9   2.4   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Macaca mulatta OX=9544 GN=NUP35 PE=3 SV=1
+tr|A0A1D5Q543|A0A1D5Q543_MACMU -          nup53                -            2.2e-20   75.1   5.4   8.2e-20   73.2   5.4   1.7   1   1   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP35 PE=4 SV=1
+tr|F6Z248|F6Z248_MACMU         -          nup53                -            0.00032   22.0   0.0   0.00073   20.8   0.0   1.6   1   0   0   1   1   1   1 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX2 PE=4 SV=2
+tr|F6TRT5|F6TRT5_MACMU         -          nup53                -            0.00036   21.8   0.0   0.00075   20.8   0.0   1.5   1   0   0   1   1   1   1 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX2 PE=4 SV=2
+tr|F7C6A7|F7C6A7_MACMU         -          nup53                -             0.0044   18.3   0.0    0.0044   18.3   0.0   2.5   3   0   0   3   3   2   1 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=ENOX1 PE=4 SV=2
+tr|F7HU71|F7HU71_MACMU         -          nup53                -              0.029   15.6   3.5     0.046   14.9   3.5   1.3   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 39 OS=Macaca mulatta OX=9544 GN=ZBTB39 PE=2 SV=1
+tr|A0A1D5Q6N3|A0A1D5Q6N3_MACMU -          nup53                -               0.19   12.9   4.7       0.3   12.2   4.7   1.4   1   0   0   1   1   1   0 Homeobox domain-containing protein OS=Macaca mulatta OX=9544 GN=HOXD10 PE=4 SV=1
+tr|F6TT71|F6TT71_MACMU         -          nup53                -               0.54   11.4   8.0      0.92   10.6   8.0   1.3   1   0   0   1   1   1   0 Transformer-2 protein homolog beta OS=Macaca mulatta OX=9544 GN=TRA2B PE=2 SV=2
+tr|F7DND4|F7DND4_MACMU         -          nup53                -               0.91   10.7   1.1         5    8.2   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RBM34 PE=4 SV=2
+tr|F7DNE6|F7DNE6_MACMU         -          nup53                -                1.1   10.4   1.1       5.3    8.1   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RBM34 PE=4 SV=2
+tr|F7AKV2|F7AKV2_MACMU         -          nup53                -                1.2   10.2  10.1       1.4   10.0  10.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ARL6IP4 PE=4 SV=2
+tr|A0A1D5R0P4|A0A1D5R0P4_MACMU -          nup53                -                1.3   10.1   6.9       1.9    9.6   6.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=GLG1 PE=4 SV=1
+tr|F7ELI6|F7ELI6_MACMU         -          nup53                -                1.4   10.0   0.1       2.7    9.1   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAL1 PE=4 SV=2
+tr|A0A1D5QI70|A0A1D5QI70_MACMU -          nup53                -                1.4   10.0   0.9       6.7    7.8   0.0   2.0   2   0   0   2   2   2   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=RBM26 PE=4 SV=1
+tr|H9EMX2|H9EMX2_MACMU         -          nup53                -                1.5   10.0   0.4       3.7    8.7   0.3   1.7   1   1   1   2   2   2   0 Nucleolysin TIAR isoform 1 OS=Macaca mulatta OX=9544 GN=TIAL1 PE=2 SV=1
+tr|F7ELH3|F7ELH3_MACMU         -          nup53                -                1.6    9.9   0.4       3.7    8.6   0.3   1.7   1   1   1   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAL1 PE=4 SV=2
+tr|A0A1D5RKU3|A0A1D5RKU3_MACMU -          nup53                -                1.7    9.8   0.0       2.2    9.4   0.0   1.1   1   0   0   1   1   1   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 GN=RBM26 PE=4 SV=1
+tr|F7BJ46|F7BJ46_MACMU         -          nup53                -                  2    9.6   0.4       3.9    8.6   0.1   1.6   2   0   0   2   2   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TIAL1 PE=4 SV=2
+tr|H9H2Z1|H9H2Z1_MACMU         -          nup53                -                2.3    9.4   1.0       2.5    9.2   1.0   1.1   1   0   0   1   1   1   0 Ig-like domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|A0A1D5Q228|A0A1D5Q228_MACMU -          nup53                -                3.1    8.9   2.3       3.8    8.6   2.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NOL4L PE=4 SV=1
+tr|F6ZKC9|F6ZKC9_MACMU         -          nup53                -                3.4    8.8  12.0       4.9    8.3  12.0   1.2   1   0   0   1   1   1   0 THAP-type domain-containing protein OS=Macaca mulatta OX=9544 GN=THAP11 PE=4 SV=1
+tr|A0A1D5Q1M7|A0A1D5Q1M7_MACMU -          nup53                -                3.5    8.7   7.4       5.6    8.1   7.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=GLG1 PE=4 SV=1
+tr|A0A1D5QZ71|A0A1D5QZ71_MACMU -          nup53                -                3.9    8.6   0.3        15    6.6   0.8   1.6   2   0   0   2   2   1   0 Tr-type G domain-containing protein OS=Macaca mulatta OX=9544 GN=GSPT1 PE=4 SV=1
+tr|F7CJM9|F7CJM9_MACMU         -          nup53                -                3.9    8.6   2.8       4.2    8.5   2.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NOL4L PE=4 SV=2
+tr|F7EF15|F7EF15_MACMU         -          nup53                -                4.1    8.5   0.6       5.4    8.1   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=TAC3 PE=4 SV=2
+tr|A0A1D5QUG6|A0A1D5QUG6_MACMU -          nup53                -                4.3    8.4   0.0       6.2    7.9   0.0   1.2   1   0   0   1   1   1   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5Q9C7|A0A1D5Q9C7_MACMU -          nup53                -                4.7    8.3   1.3       5.9    8.0   1.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ITGB3BP PE=4 SV=1
+tr|H9H3Z5|H9H3Z5_MACMU         -          nup53                -                4.8    8.3   7.1        12    7.0   7.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NCL PE=4 SV=2
+tr|A0A1D5QST8|A0A1D5QST8_MACMU -          nup53                -                5.2    8.2   4.4       6.1    7.9   4.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ERICH6 PE=4 SV=1
+tr|A0A1D5QUX7|A0A1D5QUX7_MACMU -          nup53                -                5.5    8.1  31.7        31    5.6  32.5   1.9   2   0   0   2   2   2   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5QVZ2|A0A1D5QVZ2_MACMU -          nup53                -                6.1    7.9   7.0       8.4    7.5   7.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F6S1M5|F6S1M5_MACMU         -          nup53                -                6.7    7.8   0.5        12    6.9   0.5   1.4   1   0   0   1   1   1   0 IF rod domain-containing protein OS=Macaca mulatta OX=9544 GN=NEFL PE=3 SV=2
+tr|F6VB54|F6VB54_MACMU         -          nup53                -                7.3    7.7   3.0        11    7.1   3.0   1.3   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RFFL PE=4 SV=2
+tr|A0A1D5R358|A0A1D5R358_MACMU -          nup53                -                7.6    7.6   3.0        11    7.1   3.0   1.3   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Macaca mulatta OX=9544 GN=RFFL PE=4 SV=1
+tr|H9H3Z4|H9H3Z4_MACMU         -          nup53                -                7.9    7.6   7.1        23    6.0   7.1   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NCL PE=4 SV=1
+tr|F7GD31|F7GD31_MACMU         -          nup53                -                8.3    7.5   0.5        10    7.2   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ITGB3BP PE=4 SV=2
+tr|A0A1D5QIW0|A0A1D5QIW0_MACMU -          nup53                -                8.5    7.5   1.1        11    7.1   1.1   1.1   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Macaca mulatta OX=9544 GN=PRKCE PE=4 SV=1
+tr|A0A1D5QID9|A0A1D5QID9_MACMU -          nup53                -                8.5    7.5   0.3   1.7e+02    3.2   0.0   2.6   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SART3 PE=4 SV=1
+tr|F6X366|F6X366_MACMU         -          nup53                -                8.7    7.4  10.8        12    7.0  10.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=BNIP3 PE=4 SV=2
+tr|F6RJ09|F6RJ09_MACMU         -          nup53                -                8.7    7.4   4.3        11    7.1   4.3   1.1   1   0   0   1   1   1   0 Teneurin N-terminal domain-containing protein OS=Macaca mulatta OX=9544 GN=TENM4 PE=4 SV=2
+tr|A0A1D5RDW8|A0A1D5RDW8_MACMU -          nup53                -                8.8    7.4   2.7        13    6.9   2.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7GAA3|F7GAA3_MACMU         -          nup53                -                8.8    7.4   1.3        11    7.1   1.3   1.2   1   0   0   1   1   1   0 RRM domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|F6PTB1|F6PTB1_MACMU         -          nup53                -                8.9    7.4   1.5        15    6.6   1.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC705310 PE=3 SV=2
+tr|A0A1D5Q605|A0A1D5Q605_MACMU -          nup53                -                9.1    7.4   0.0        13    6.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5Q905|A0A1D5Q905_MACMU -          nup53                -                9.4    7.3   0.2   1.9e+02    3.0   0.0   2.5   2   1   0   2   2   2   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=SART3 PE=4 SV=1
+tr|F7FWW2|F7FWW2_MACMU         -          nup53                -                9.5    7.3   3.0        13    6.9   3.0   1.2   1   0   0   1   1   1   0 SHSP domain-containing protein OS=Macaca mulatta OX=9544 GN=HSPB7 PE=3 SV=2
+tr|A0A1D5R7C9|A0A1D5R7C9_MACMU -          nup53                -                9.6    7.3   1.9       9.3    7.3   1.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CHTOP PE=4 SV=1
+tr|F7EBM4|F7EBM4_MACMU         -          nup53                -                9.7    7.3   1.8        14    6.8   1.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ANKRD6 PE=4 SV=2
+tr|F6UEI1|F6UEI1_MACMU         -          nup53                -                9.7    7.3   2.8        17    6.5   2.8   1.4   1   0   0   1   1   1   0 PH domain-containing protein OS=Macaca mulatta OX=9544 GN=TRIOBP PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:38:13 2022
+# [ok]

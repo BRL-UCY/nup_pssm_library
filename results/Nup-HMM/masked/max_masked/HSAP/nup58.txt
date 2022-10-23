@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9BVL2|NUP58_HUMAN          -          nup58                -           6.2e-130  435.8   0.8  3.7e-127  426.6   0.0   2.9   2   1   0   2   2   2   1 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|H7BYF2|H7BYF2_HUMAN         -          nup58                -           1.7e-129  434.4   0.0  2.4e-128  430.6   0.0   1.9   1   1   0   1   1   1   1 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|Q5JRG1|Q5JRG1_HUMAN         -          nup58                -           9.8e-122  408.8   0.0  1.4e-120  405.0   0.0   1.9   1   1   0   1   1   1   1 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|F8WC35|F8WC35_HUMAN         -          nup58                -                3.2    8.1   0.0       3.3    8.0   0.0   1.0   1   0   0   1   1   1   0 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=4 SV=1
+tr|B1AKC8|B1AKC8_HUMAN         -          nup58                -                5.3    7.4   0.1       7.7    6.8   0.1   1.1   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 40 (Fragment) OS=Homo sapiens OX=9606 GN=ZBTB40 PE=1 SV=1
+tr|C9J5S3|C9J5S3_HUMAN         -          nup58                -                6.9    7.0   0.1        10    6.4   0.1   1.3   1   0   0   1   1   1   0 RAD50-interacting protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=RINT1 PE=1 SV=1
+sp|Q9UQF0|SYCY1_HUMAN          -          nup58                -                7.2    6.9   0.1       9.4    6.5   0.1   1.1   1   0   0   1   1   1   0 Syncytin-1 OS=Homo sapiens OX=9606 GN=ERVW-1 PE=1 SV=1
+tr|A0A3B3IRZ6|A0A3B3IRZ6_HUMAN -          nup58                -                7.2    6.9   0.1        11    6.4   0.1   1.1   1   0   0   1   1   1   0 Zinc finger and BTB domain-containing protein 40 (Fragment) OS=Homo sapiens OX=9606 GN=ZBTB40 PE=1 SV=1
+tr|M0R1S1|M0R1S1_HUMAN         -          nup58                -                8.8    6.6   2.9         9    6.6   2.9   1.0   1   0   0   1   1   1   0 Nuclear pore glycoprotein p62 (Fragment) OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:36:10 2022
+# [ok]

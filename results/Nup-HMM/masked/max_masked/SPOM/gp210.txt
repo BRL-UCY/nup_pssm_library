@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O60080|DBP9_SCHPO  -          gp210                -                  2    3.2   0.0       2.7    2.8   0.0   1.0   1   0   0   1   1   1   0 ATP-dependent RNA helicase dbp9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=dbp9 PE=3 SV=1
+sp|O14368|HSP16_SCHPO -          gp210                -                3.5    2.4   0.0       3.5    2.4   0.0   1.0   1   0   0   1   1   1   0 Heat shock protein 16 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hsp16 PE=1 SV=1
+sp|O94307|PFD5_SCHPO  -          gp210                -                6.1    1.6   0.0       6.8    1.4   0.0   1.0   1   0   0   1   1   1   0 Probable prefoldin subunit 5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=bob1 PE=1 SV=1
+sp|O14323|MCP4_SCHPO  -          gp210                -                9.2    1.0   0.0        12    0.6   0.0   1.0   1   0   0   1   1   1   0 Meiotic coiled-coil protein 4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mcp4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:18:21 2022
+# [ok]

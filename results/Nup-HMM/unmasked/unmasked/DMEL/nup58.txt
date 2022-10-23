@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VDV3|NUP58_DROME          -          nup58                -           1.3e-174  581.4  51.5  1.3e-174  581.4  51.5   2.0   1   1   1   2   2   2   2 Nuclear pore complex protein Nup58 OS=Drosophila melanogaster OX=7227 GN=Nup58 PE=1 SV=1
+sp|Q9W1X4|NU214_DROME          -          nup58                -            0.00037   19.4  27.3   0.00037   19.4  27.3   6.3   2   1   4   6   6   2   1 Nuclear pore complex protein Nup214 OS=Drosophila melanogaster OX=7227 GN=Nup214 PE=1 SV=2
+tr|Q9W1K2|Q9W1K2_DROME         -          nup58                -             0.0022   16.8  33.1    0.0026   16.6  33.1   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12491 PE=4 SV=1
+sp|Q4LBB9|OCTB2_DROME          -          nup58                -              0.024   13.4   5.4     0.035   12.8   5.4   1.1   1   0   0   1   1   1   0 Octopamine receptor beta-2R OS=Drosophila melanogaster OX=7227 GN=Octbeta2R PE=2 SV=2
+tr|A0A126GUT9|A0A126GUT9_DROME -          nup58                -              0.024   13.4   5.4     0.035   12.8   5.4   1.1   1   0   0   1   1   1   0 Octopamine beta2 receptor, isoform G OS=Drosophila melanogaster OX=7227 GN=Octbeta2R PE=3 SV=1
+tr|E1JIJ4|E1JIJ4_DROME         -          nup58                -              0.026   13.2   5.4     0.045   12.5   5.4   1.3   1   0   0   1   1   1   0 Octopamine beta2 receptor, isoform F OS=Drosophila melanogaster OX=7227 GN=Octbeta2R PE=3 SV=2
+tr|Q7KT85|Q7KT85_DROME         -          nup58                -              0.028   13.1  23.4     0.033   12.9  23.4   1.0   1   0   0   1   1   1   0 RE38252p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31775 PE=2 SV=1
+sp|Q9V564|COG6_DROME           -          nup58                -               0.11   11.2   2.1      0.18   10.5   2.1   1.2   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 6 OS=Drosophila melanogaster OX=7227 GN=CG1968 PE=2 SV=1
+tr|Q8SYC1|Q8SYC1_DROME         -          nup58                -                0.3    9.8   0.0      0.38    9.4   0.0   1.1   1   0   0   1   1   1   0 GEO08067p1 OS=Drosophila melanogaster OX=7227 GN=CG13514 PE=2 SV=1
+tr|Q9VJL3|Q9VJL3_DROME         -          nup58                -               0.38    9.4  14.8      0.46    9.1  14.8   1.0   1   0   0   1   1   1   0 GEO09613p1 OS=Drosophila melanogaster OX=7227 GN=BcDNA:RE16123 PE=2 SV=1
+tr|Q9VT37|Q9VT37_DROME         -          nup58                -               0.56    8.9  61.1      0.65    8.6  61.1   1.0   1   0   0   1   1   1   0 GH23431p OS=Drosophila melanogaster OX=7227 GN=vsg PE=2 SV=1
+sp|Q9W5P1|MED21_DROME          -          nup58                -               0.57    8.8   1.6       1.6    7.4   0.3   1.9   2   0   0   2   2   2   0 Mediator of RNA polymerase II transcription subunit 21 OS=Drosophila melanogaster OX=7227 GN=MED21 PE=1 SV=1
+tr|Q8I0D8|Q8I0D8_DROME         -          nup58                -               0.63    8.7  60.9      0.71    8.5  60.9   1.0   1   0   0   1   1   1   0 RE67695p OS=Drosophila melanogaster OX=7227 GN=vsg PE=2 SV=1
+tr|Q9VJS1|Q9VJS1_DROME         -          nup58                -                  1    8.0  14.7       1.1    7.9  14.7   1.0   1   0   0   1   1   1   0 RE15191p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15282 PE=2 SV=2
+sp|P23938|NG1_DROME            -          nup58                -                1.7    7.3  24.1         2    7.0  24.1   1.0   1   0   0   1   1   1   0 Protein new-glue 1 OS=Drosophila melanogaster OX=7227 GN=ng1 PE=2 SV=2
+sp|P40139|NG2_DROME            -          nup58                -                1.8    7.1  24.1       2.3    6.8  24.1   1.0   1   0   0   1   1   1   0 Protein new-glue 2 OS=Drosophila melanogaster OX=7227 GN=ng2 PE=2 SV=2
+sp|Q9VTH4|SCLLA_DROME          -          nup58                -                3.5    6.2  16.0       4.8    5.8  16.0   1.1   1   0   0   1   1   1   0 Protein scylla OS=Drosophila melanogaster OX=7227 GN=scyl PE=2 SV=1
+sp|Q9VCH5|NUP98_DROME          -          nup58                -                4.5    5.9 241.9    0.0044   15.8  89.1   4.4   2   1   2   4   4   4   0 Nuclear pore complex protein Nup98-Nup96 OS=Drosophila melanogaster OX=7227 GN=Nup98-96 PE=1 SV=3
+tr|E4NKK8|E4NKK8_DROME         -          nup58                -                4.8    5.8  45.2       6.8    5.3  45.2   1.1   1   0   0   1   1   1   0 RE43711p OS=Drosophila melanogaster OX=7227 GN=CG11638-RA PE=2 SV=1
+tr|M9PGB3|M9PGB3_DROME         -          nup58                -                6.1    5.4  17.1       8.9    4.9  17.1   1.2   1   0   0   1   1   1   0 Erect wing, isoform N OS=Drosophila melanogaster OX=7227 GN=ewg PE=4 SV=1
+tr|Q9VQK3|Q9VQK3_DROME         -          nup58                -                8.5    5.0  43.0        13    4.4  43.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17264 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:39 2022
+# [ok]

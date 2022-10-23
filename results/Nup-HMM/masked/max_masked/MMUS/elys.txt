@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CJF7|ELYS_MOUSE           -          elys                 -                  0 2645.8   0.0         0 2645.6   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6SJR1|F6SJR1_MOUSE         -          elys                 -            4.5e-67  227.8   4.7   1.9e-54  185.9   0.4   2.0   1   1   1   2   2   2   2 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6S6E4|F6S6E4_MOUSE         -          elys                 -            3.4e-06   25.9   0.0   3.7e-06   25.7   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6QTR3|F6QTR3_MOUSE         -          elys                 -            0.00028   19.5   0.0   0.00029   19.5   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+sp|Q8R3E3|WIPI1_MOUSE          -          elys                 -               0.75    8.1   0.0       1.1    7.6   0.0   1.2   1   0   0   1   1   1   0 WD repeat domain phosphoinositide-interacting protein 1 OS=Mus musculus OX=10090 GN=Wipi1 PE=1 SV=1
+tr|A0A087WRV7|A0A087WRV7_MOUSE -          elys                 -                  7    4.9   0.1       8.5    4.6   0.1   1.0   1   0   0   1   1   1   0 Retinoblastoma-binding protein 5 (Fragment) OS=Mus musculus OX=10090 GN=Rbbp5 PE=1 SV=1
+tr|Q3TJ22|Q3TJ22_MOUSE         -          elys                 -                  8    4.7   0.0        47    2.2   0.0   1.7   2   0   0   2   2   2   0 Angio-associated migratory protein OS=Mus musculus OX=10090 GN=Aamp PE=1 SV=1
+tr|J3QN89|J3QN89_MOUSE         -          elys                 -                8.1    4.7   0.0        48    2.2   0.0   1.7   2   0   0   2   2   2   0 Angio-associated migratory protein OS=Mus musculus OX=10090 GN=Aamp PE=1 SV=1
+tr|F8WJ80|F8WJ80_MOUSE         -          elys                 -                9.7    4.4   0.1        13    4.1   0.1   1.0   1   0   0   1   1   1   0 Fizzy-related protein homolog OS=Mus musculus OX=10090 GN=Fzr1 PE=1 SV=1
+tr|A2AUY0|A2AUY0_MOUSE         -          elys                 -                9.9    4.4   0.0        12    4.2   0.0   1.0   1   0   0   1   1   1   0 WD repeat, SAM and U-box domain-containing protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Wdsub1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:47:56 2022
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q99P88|NU155_MOUSE          -          nup154               -                  0 1996.3   0.0         0 1994.8   0.0   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+tr|A0A2R8VHH1|A0A2R8VHH1_MOUSE -          nup154               -                  0 1950.2   0.0         0 1948.7   0.0   1.6   1   1   0   1   1   1   1 Nuclear pore complex protein Nup155 OS=Mus musculus OX=10090 GN=Nup155 PE=1 SV=1
+tr|A0A0A6YW31|A0A0A6YW31_MOUSE -          nup154               -               0.85    8.7   0.0      0.92    8.6   0.0   1.0   1   0   0   1   1   1   0 Calcium load-activated calcium channel (Fragment) OS=Mus musculus OX=10090 GN=Tmco1 PE=4 SV=1
+tr|F6SPK0|F6SPK0_MOUSE         -          nup154               -                1.6    7.8   1.3       2.1    7.4   1.3   1.0   1   0   0   1   1   1   0 Ubiquitin-conjugating enzyme E2 J1 (Fragment) OS=Mus musculus OX=10090 GN=Ube2j1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:22:14 2022
+# [ok]

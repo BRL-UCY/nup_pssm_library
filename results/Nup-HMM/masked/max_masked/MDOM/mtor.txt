@@ -1,0 +1,50 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IYC6|A0A498IYC6_MALDO -          mtor                 -              5e-60  204.2  22.6   1.1e-43  150.0  12.8   2.4   2   1   0   2   2   2   2 TPR_MLP1_2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021975 PE=4 SV=1
+tr|A0A498JRR2|A0A498JRR2_MALDO -          mtor                 -            2.5e-56  191.9  25.6   3.4e-39  135.1  16.7   3.0   2   1   0   2   2   2   2 TPR_MLP1_2 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_010954 PE=4 SV=1
+tr|A0A498JSE9|A0A498JSE9_MALDO -          mtor                 -               0.28    9.3   0.9      0.35    9.0   0.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008976 PE=4 SV=1
+tr|A0A498JGU7|A0A498JGU7_MALDO -          mtor                 -               0.36    9.0   2.2      0.44    8.7   2.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024454 PE=4 SV=1
+tr|A0A498HT16|A0A498HT16_MALDO -          mtor                 -               0.46    8.6   0.1      0.53    8.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025524 PE=4 SV=1
+tr|A0A498JXM4|A0A498JXM4_MALDO -          mtor                 -               0.81    7.8   7.5         1    7.5   7.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030446 PE=4 SV=1
+tr|A0A498ILJ8|A0A498ILJ8_MALDO -          mtor                 -               0.89    7.7   0.7       1.1    7.4   0.7   1.0   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_027327 PE=4 SV=1
+tr|A0A498KAP6|A0A498KAP6_MALDO -          mtor                 -                1.2    7.2   0.4       1.6    6.9   0.4   1.0   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002600 PE=4 SV=1
+tr|A0A498ICC1|A0A498ICC1_MALDO -          mtor                 -                1.6    6.8   0.0       1.7    6.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002301 PE=4 SV=1
+tr|A0A498K979|A0A498K979_MALDO -          mtor                 -                1.9    6.6   4.4       2.9    6.0   4.4   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002952 PE=3 SV=1
+tr|A0A498KM17|A0A498KM17_MALDO -          mtor                 -                2.2    6.3   1.3       2.9    6.0   1.3   1.0   1   0   0   1   1   1   0 VASt domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025941 PE=4 SV=1
+tr|A0A498KGZ8|A0A498KGZ8_MALDO -          mtor                 -                2.5    6.2   0.3       3.1    5.9   0.3   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018503 PE=4 SV=1
+tr|A0A498IWB7|A0A498IWB7_MALDO -          mtor                 -                2.8    6.0   0.2         3    5.9   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009544 PE=4 SV=1
+tr|A0A498IUR6|A0A498IUR6_MALDO -          mtor                 -                3.2    5.9   1.2         4    5.5   1.2   1.0   1   0   0   1   1   1   0 Endoplasmic reticulum transmembrane protein OS=Malus domestica OX=3750 GN=DVH24_016950 PE=3 SV=1
+tr|A0A498IJM6|A0A498IJM6_MALDO -          mtor                 -                3.6    5.7   0.1       3.6    5.7   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036675 PE=4 SV=1
+tr|A0A498I2Z4|A0A498I2Z4_MALDO -          mtor                 -                3.8    5.6   0.2       4.7    5.3   0.2   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023814 PE=4 SV=1
+tr|A0A498I1D4|A0A498I1D4_MALDO -          mtor                 -                3.8    5.6   0.5       4.6    5.3   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023680 PE=4 SV=1
+tr|A0A498JI48|A0A498JI48_MALDO -          mtor                 -                4.1    5.5   0.2       5.2    5.1   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025082 PE=4 SV=1
+tr|A0A498IWX1|A0A498IWX1_MALDO -          mtor                 -                4.1    5.5   0.4       5.4    5.1   0.4   1.1   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_034738 PE=4 SV=1
+tr|A0A498HUX6|A0A498HUX6_MALDO -          mtor                 -                5.1    5.2   1.8       6.3    4.9   1.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013001 PE=4 SV=1
+tr|A0A498HTW3|A0A498HTW3_MALDO -          mtor                 -                5.7    5.0   1.4        10    4.1   1.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_012265 PE=4 SV=1
+tr|A0A498JQ24|A0A498JQ24_MALDO -          mtor                 -                5.8    5.0   0.1         7    4.7   0.1   1.0   1   0   0   1   1   1   0 Endoplasmic reticulum transmembrane protein OS=Malus domestica OX=3750 GN=DVH24_010374 PE=3 SV=1
+tr|A0A498K1E9|A0A498K1E9_MALDO -          mtor                 -                5.9    5.0   4.0       7.8    4.6   4.0   1.0   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_015339 PE=3 SV=1
+tr|A0A498IQY7|A0A498IQY7_MALDO -          mtor                 -                5.9    5.0   0.5       7.5    4.6   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009491 PE=4 SV=1
+tr|D9ZIR5|D9ZIR5_MALDO         -          mtor                 -                6.2    4.9   0.1       6.6    4.8   0.1   1.0   1   0   0   1   1   1   0 BZIP domain class transcription factor OS=Malus domestica OX=3750 GN=BZIP5 PE=2 SV=1
+tr|A0A498K1F3|A0A498K1F3_MALDO -          mtor                 -                6.5    4.8   2.0       7.9    4.5   2.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001372 PE=4 SV=1
+tr|A0A498K885|A0A498K885_MALDO -          mtor                 -                6.7    4.8   0.2       7.7    4.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026655 PE=4 SV=1
+tr|A0A498KM76|A0A498KM76_MALDO -          mtor                 -                7.8    4.5   0.8        12    4.0   0.8   1.1   1   0   0   1   1   1   0 SMC hinge domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_022741 PE=3 SV=1
+tr|A0A498J5M4|A0A498J5M4_MALDO -          mtor                 -                7.9    4.5   0.3       8.7    4.4   0.3   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031891 PE=4 SV=1
+tr|A0A498KHB8|A0A498KHB8_MALDO -          mtor                 -                  8    4.5   0.2       9.8    4.2   0.2   1.0   1   0   0   1   1   1   0 NAC domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025697 PE=4 SV=1
+tr|A0A498I202|A0A498I202_MALDO -          mtor                 -                8.2    4.5   6.6       6.3    4.9   0.6   2.1   2   0   0   2   2   2   0 C2 NT-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_019857 PE=4 SV=1
+tr|A0A498I812|A0A498I812_MALDO -          mtor                 -                8.3    4.5   1.2        11    4.1   1.2   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_040723 PE=4 SV=1
+tr|A0A498JTJ4|A0A498JTJ4_MALDO -          mtor                 -                8.3    4.5   0.4        10    4.2   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008995 PE=3 SV=1
+tr|A0A498ICW7|A0A498ICW7_MALDO -          mtor                 -                8.3    4.5   0.5        14    3.7   0.5   1.2   1   0   0   1   1   1   0 C2 NT-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004743 PE=4 SV=1
+tr|A0A498HXA6|A0A498HXA6_MALDO -          mtor                 -                8.5    4.4   0.1       9.3    4.3   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030171 PE=4 SV=1
+tr|A0A498HRM3|A0A498HRM3_MALDO -          mtor                 -                8.7    4.4   0.3        12    4.0   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018848 PE=4 SV=1
+tr|A0A498HIY0|A0A498HIY0_MALDO -          mtor                 -                9.5    4.3   0.3        11    4.1   0.3   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037131 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/mtor.txt --max --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:54:27 2022
+# [ok]

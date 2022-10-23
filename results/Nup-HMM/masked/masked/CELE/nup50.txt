@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q7K6X4|Q7K6X4_CAEEL -          nup50                -            6.8e-31  108.1   5.7   1.7e-29  103.5   0.0   3.0   3   1   0   3   3   3   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-16 PE=1 SV=1
+tr|Q21021|Q21021_CAEEL -          nup50                -            1.9e-07   30.7   2.8   5.6e-05   22.5   0.0   3.1   3   0   0   3   3   3   2 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-9 PE=1 SV=2
+tr|Q21961|Q21961_CAEEL -          nup50                -              8e-05   22.0   0.0     8e-05   22.0   0.0   1.4   2   0   0   2   2   2   1 Associated with RAN (Nuclear import/export) function OS=Caenorhabditis elegans OX=6239 GN=ran-5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:57 2022
+# [ok]

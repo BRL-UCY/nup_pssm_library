@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SDQ4|NUP85_CHATD  -          nup75                -            5.4e-96  320.9   7.7   5.6e-33  112.8   3.9   7.6   4   1   1   5   5   5   5 Nucleoporin NUP85 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP85 PE=1 SV=1
+tr|G0S204|G0S204_CHATD -          nup75                -            0.00021   18.3   0.2   0.00046   17.3   0.2   1.5   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase PEP5 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0015500 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:36:38 2022
+# [ok]

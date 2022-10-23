@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GQN1|A0A1L8GQN1_XENLA -          nup205               -                  0 2227.3  34.2         0 2018.4  22.0   2.9   1   1   1   2   2   2   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18019805mg PE=1 SV=1
+tr|A0A310U2L0|A0A310U2L0_XENLA -          nup205               -            2.6e-32  112.1   0.5   2.9e-32  111.9   0.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18002032mg PE=4 SV=1
+tr|A0A1L8EKC8|A0A1L8EKC8_XENLA -          nup205               -              0.084   11.0   1.5     0.096   10.8   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18002671mg PE=4 SV=1
+tr|A0A1L8HX54|A0A1L8HX54_XENLA -          nup205               -               0.27    9.2   0.0      0.34    8.9   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18006235mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/XLAE/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:29:21 2022
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9BKT9|Q9BKT9_CAEEL -          nup93                -           2.1e-129  433.4   0.0  2.4e-128  429.9   0.0   1.9   1   1   0   1   1   1   1 Nuclear pore protein OS=Caenorhabditis elegans OX=6239 GN=npp-13 PE=1 SV=1
+tr|X5M8Y9|X5M8Y9_CAEEL -          nup93                -           1.7e-126  423.8   0.0    2e-126  423.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore protein OS=Caenorhabditis elegans OX=6239 GN=npp-13 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:57 2022
+# [ok]

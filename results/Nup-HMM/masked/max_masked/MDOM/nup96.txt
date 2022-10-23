@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HQL7|A0A498HQL7_MALDO -          nup96                -             1e-226  757.3   0.1  4.7e-166  556.1   0.2   3.1   1   1   1   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016588 PE=4 SV=1
+tr|A0A498JEJ7|A0A498JEJ7_MALDO -          nup96                -           5.1e-210  701.9   2.1  3.1e-138  463.9   4.5   4.2   2   1   1   3   3   3   3 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033370 PE=4 SV=1
+tr|A0A498HRV9|A0A498HRV9_MALDO -          nup96                -            5.5e-83  280.7   0.1   2.1e-57  195.9   1.2   3.5   2   1   2   4   4   4   3 Nup96 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018938 PE=4 SV=1
+tr|A0A498JLF2|A0A498JLF2_MALDO -          nup96                -            3.1e-62  211.9  22.3   5.8e-57  194.4   0.1   4.1   3   1   1   4   4   4   2 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_008386 PE=4 SV=1
+tr|A0A498I6Y2|A0A498I6Y2_MALDO -          nup96                -            5.4e-59  201.1   0.1   5.4e-59  201.1   0.1   4.0   2   1   0   3   3   3   1 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_039915 PE=4 SV=1
+tr|A0A498K2B1|A0A498K2B1_MALDO -          nup96                -                2.6    6.6   7.0       4.3    5.8   7.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000668 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/nup96.txt --max --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:49:08 2022
+# [ok]

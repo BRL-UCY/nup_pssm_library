@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6SAY2|F6SAY2_MACMU         -          nup133               -                  0 1196.3   0.0         0 1196.0   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin_C domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP133 PE=4 SV=2
+tr|F7DNF1|F7DNF1_MACMU         -          nup133               -               0.33    9.8   0.0      0.44    9.4   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR20 PE=4 SV=2
+tr|F7DNF7|F7DNF7_MACMU         -          nup133               -               0.58    9.0   0.0      0.79    8.5   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR20 PE=4 SV=2
+tr|F7DT00|F7DT00_MACMU         -          nup133               -               0.62    8.9   0.0      0.84    8.4   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR20 PE=4 SV=2
+tr|F6QWG8|F6QWG8_MACMU         -          nup133               -               0.68    8.8   0.0      0.89    8.4   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=WDR20 PE=4 SV=2
+tr|F7B0C2|F7B0C2_MACMU         -          nup133               -                2.5    6.9   0.0         4    6.2   0.0   1.2   1   0   0   1   1   1   0 N-glycosylase/DNA lyase isoform 1a OS=Macaca mulatta OX=9544 GN=OGG1 PE=2 SV=2
+tr|F7GY42|F7GY42_MACMU         -          nup133               -                3.2    6.5   0.0       4.4    6.1   0.0   1.0   1   0   0   1   1   1   0 ENDO3c domain-containing protein OS=Macaca mulatta OX=9544 GN=OGG1 PE=4 SV=2
+tr|F6UF95|F6UF95_MACMU         -          nup133               -                3.4    6.4   0.2       4.7    6.0   0.2   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=UTP4 PE=4 SV=2
+tr|H9EV88|H9EV88_MACMU         -          nup133               -                4.3    6.1   0.3       6.4    5.5   0.3   1.1   1   0   0   1   1   1   0 Cirhin OS=Macaca mulatta OX=9544 GN=UTP4 PE=2 SV=1
+tr|F6UFB4|F6UFB4_MACMU         -          nup133               -                4.4    6.1   0.3       6.5    5.5   0.3   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Macaca mulatta OX=9544 GN=UTP4 PE=4 SV=2
+tr|A0A1D5RGE2|A0A1D5RGE2_MACMU -          nup133               -                5.5    5.7   0.0       7.2    5.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PRPF19 PE=4 SV=1
+tr|A0A1D5QFH1|A0A1D5QFH1_MACMU -          nup133               -                7.8    5.2   0.0       9.4    5.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LDAH PE=4 SV=1
+tr|F7H8G4|F7H8G4_MACMU         -          nup133               -                7.8    5.2   0.0        10    4.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CYP46A1 PE=4 SV=2
+tr|A0A1D5R2N7|A0A1D5R2N7_MACMU -          nup133               -                7.9    5.2   0.1        10    4.9   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC721404 PE=3 SV=1
+tr|H9YWW4|H9YWW4_MACMU         -          nup133               -                8.8    5.1   0.2        12    4.6   0.2   1.1   1   0   0   1   1   1   0 Neutrophil cytosol factor 4 isoform 1 OS=Macaca mulatta OX=9544 GN=NCF4 PE=2 SV=1
+tr|F7HE13|F7HE13_MACMU         -          nup133               -                  9    5.0   0.2        12    4.6   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NCF4 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:16:46 2022
+# [ok]

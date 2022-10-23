@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QC46|F1QC46_DANRE         -          gp210                -                  0 2250.3  28.7         0 2249.4  28.7   1.4   1   1   0   1   1   1   1 Nucleoporin 210 OS=Danio rerio OX=7955 GN=nup210 PE=1 SV=2
+tr|A0A1D5NSN1|A0A1D5NSN1_DANRE -          gp210                -              0.076   11.1   0.1     0.086   10.9   0.1   1.0   1   0   0   1   1   1   0 Si:ch73-256g18.2 OS=Danio rerio OX=7955 GN=si:ch73-256g18.2 PE=4 SV=1
+tr|A0A0G2KKC1|A0A0G2KKC1_DANRE -          gp210                -               0.12   10.5   0.0      0.18    9.9   0.0   1.2   1   0   0   1   1   1   0 Ig-like domain-containing protein OS=Danio rerio OX=7955 GN=LOC103910066 PE=4 SV=1
+tr|A0A2R8QQ88|A0A2R8QQ88_DANRE -          gp210                -               0.14   10.2   0.1      0.19    9.8   0.1   1.1   1   0   0   1   1   1   0 Glutamate receptor, ionotropic, AMPA 1b OS=Danio rerio OX=7955 GN=gria1b PE=3 SV=1
+tr|E7F1V8|E7F1V8_DANRE         -          gp210                -               0.14   10.2   0.1      0.19    9.8   0.1   1.1   1   0   0   1   1   1   0 Glutamate receptor, ionotropic, AMPA 1b OS=Danio rerio OX=7955 GN=gria1b PE=3 SV=2
+tr|Q71E64|Q71E64_DANRE         -          gp210                -               0.14   10.2   0.1      0.19    9.8   0.1   1.1   1   0   0   1   1   1   0 AMPA receptor subunit GluR1B OS=Danio rerio OX=7955 GN=gria1b PE=2 SV=1
+tr|A0A2R8QE40|A0A2R8QE40_DANRE -          gp210                -               0.19    9.8   0.1      0.23    9.5   0.1   1.0   1   0   0   1   1   1   0 Si:ch73-256g18.2 OS=Danio rerio OX=7955 GN=si:ch73-256g18.2 PE=4 SV=1
+tr|A2CF00|A2CF00_DANRE         -          gp210                -               0.21    9.6   0.2      0.25    9.4   0.2   1.0   1   0   0   1   1   1   0 Shisa family member 2a OS=Danio rerio OX=7955 GN=shisa2a PE=4 SV=1
+tr|X1WF05|X1WF05_DANRE         -          gp210                -               0.36    8.9   0.0       0.4    8.7   0.0   1.0   1   0   0   1   1   1   0 Si:dkey-35i13.1 OS=Danio rerio OX=7955 GN=si:dkey-35i13.1 PE=4 SV=1
+tr|A0A0G2KPL0|A0A0G2KPL0_DANRE -          gp210                -                0.4    8.7   0.2      0.52    8.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC101884228 PE=4 SV=2
+tr|E7FGK7|E7FGK7_DANRE         -          gp210                -               0.42    8.6   0.2      0.54    8.3   0.2   1.1   1   0   0   1   1   1   0 Voltage-dependent calcium channel gamma-4 subunit OS=Danio rerio OX=7955 GN=cacng4b PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:20:53 2022
+# [ok]

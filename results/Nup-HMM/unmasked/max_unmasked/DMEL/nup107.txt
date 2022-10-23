@@ -1,0 +1,57 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9V466|NU107_DROME          -          nup107               -           1.4e-300  999.4  15.1  1.6e-300  999.2  15.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Drosophila melanogaster OX=7227 GN=Nup107 PE=1 SV=1
+tr|Q9VL03|Q9VL03_DROME         -          nup107               -               0.02   13.2   1.7     0.028   12.7   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13138 PE=4 SV=2
+tr|Q9VPR3|Q9VPR3_DROME         -          nup107               -              0.037   12.4   0.0     0.051   11.9   0.0   1.1   1   0   0   1   1   1   0 PfkB domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG2794 PE=1 SV=1
+sp|Q23983|SNAP_DROME           -          nup107               -              0.091   11.1   0.9      0.12   10.7   0.9   1.1   1   0   0   1   1   1   0 Alpha-soluble NSF attachment protein OS=Drosophila melanogaster OX=7227 GN=alphaSnap PE=1 SV=1
+tr|Q6IH48|Q6IH48_DROME         -          nup107               -               0.35    9.1   3.8       0.5    8.6   3.8   1.2   1   0   0   1   1   1   0 HDC03337 OS=Drosophila melanogaster OX=7227 GN=HDC03337 PE=4 SV=1
+tr|Q9W412|Q9W412_DROME         -          nup107               -               0.38    9.0   0.4      0.58    8.4   0.4   1.2   1   0   0   1   1   1   0 GH18658p OS=Drosophila melanogaster OX=7227 GN=CG15891 PE=2 SV=1
+tr|Q86B48|Q86B48_DROME         -          nup107               -               0.64    8.3   3.1      0.91    7.8   3.1   1.1   1   0   0   1   1   1   0 Forked, isoform G OS=Drosophila melanogaster OX=7227 GN=f PE=4 SV=2
+tr|A0A0B4LF63|A0A0B4LF63_DROME -          nup107               -                1.3    7.3   1.7       1.7    6.9   1.7   1.1   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4, isoform B OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=4 SV=1
+tr|Q9VES8|Q9VES8_DROME         -          nup107               -                1.3    7.3   0.3       2.1    6.5   0.3   1.3   1   0   0   1   1   1   0 RE28913p OS=Drosophila melanogaster OX=7227 GN=anon2A5 PE=1 SV=3
+sp|A1Z8E9|BBS4_DROME           -          nup107               -                1.4    7.1   1.7       1.9    6.7   1.7   1.1   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 protein homolog OS=Drosophila melanogaster OX=7227 GN=BBS4 PE=3 SV=1
+tr|Q9VX59|Q9VX59_DROME         -          nup107               -                1.6    6.9   3.5       2.4    6.4   3.5   1.1   1   0   0   1   1   1   0 Forked, isoform K OS=Drosophila melanogaster OX=7227 GN=f PE=4 SV=1
+tr|M9MSJ3|M9MSJ3_DROME         -          nup107               -                1.7    6.9   3.2       2.4    6.4   3.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=HDC03337 PE=4 SV=1
+tr|A0A0B4K7U6|A0A0B4K7U6_DROME -          nup107               -                2.1    6.6   2.3       3.9    5.7   2.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT31683 PE=4 SV=1
+tr|Q9VBP7|Q9VBP7_DROME         -          nup107               -                2.1    6.5   2.3       3.9    5.7   2.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5071 PE=4 SV=2
+tr|Q4V665|Q4V665_DROME         -          nup107               -                2.3    6.4   0.7       2.7    6.2   0.7   1.0   1   0   0   1   1   1   0 GEO10730p1 OS=Drosophila melanogaster OX=7227 GN=APC15 PE=1 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          nup107               -                2.3    6.4   0.1       7.5    4.7   0.1   1.9   1   1   0   1   1   1   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+sp|Q9VXT2|DJC25_DROME          -          nup107               -                  3    6.0   0.0       6.3    5.0   0.0   1.4   1   0   0   1   1   1   0 DnaJ homolog subfamily C member 25 homolog OS=Drosophila melanogaster OX=7227 GN=CG7872 PE=2 SV=1
+tr|M9PC74|M9PC74_DROME         -          nup107               -                3.2    6.0   2.4       4.2    5.6   2.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform G OS=Drosophila melanogaster OX=7227 GN=CG9112 PE=1 SV=1
+tr|Q4QPP9|Q4QPP9_DROME         -          nup107               -                3.2    5.9   0.6       3.5    5.8   0.6   1.1   1   0   0   1   1   1   0 GH02096p OS=Drosophila melanogaster OX=7227 GN=maf-S PE=2 SV=1
+tr|Q4V3S3|Q4V3S3_DROME         -          nup107               -                3.3    5.9   0.3       3.9    5.7   0.3   1.3   1   0   0   1   1   1   0 IP10538p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12831 PE=2 SV=1
+tr|Q8IMS5|Q8IMS5_DROME         -          nup107               -                3.4    5.9   2.3       5.8    5.1   2.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=BcDNA:AT31683 PE=4 SV=1
+tr|Q9V9T0|Q9V9T0_DROME         -          nup107               -                3.4    5.8   0.1       8.5    4.5   0.0   1.6   2   0   0   2   2   2   0 LD03819p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1971 PE=2 SV=1
+tr|Q9VAY0|Q9VAY0_DROME         -          nup107               -                3.8    5.7   0.1       5.9    5.1   0.1   1.2   1   0   0   1   1   1   0 Neprilysin 7 OS=Drosophila melanogaster OX=7227 GN=Nep7 PE=4 SV=1
+tr|Q0E8V7|Q0E8V7_DROME         -          nup107               -                3.8    5.7   0.1       3.3    5.9   0.1   1.2   1   1   0   1   1   1   0 GEO11073p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG34132 PE=1 SV=1
+tr|Q9VJ17|Q9VJ17_DROME         -          nup107               -                4.3    5.5   0.5       4.7    5.4   0.5   1.1   1   0   0   1   1   1   0 GEO10713p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15172 PE=2 SV=1
+sp|Q9VTN3|TIM13_DROME          -          nup107               -                4.6    5.4   0.5       4.3    5.5   0.5   1.3   1   1   0   1   1   1   0 Mitochondrial import inner membrane translocase subunit Tim13 OS=Drosophila melanogaster OX=7227 GN=Tim13 PE=3 SV=1
+tr|A0A0B4LH09|A0A0B4LH09_DROME -          nup107               -                4.8    5.4   1.1       5.4    5.2   1.1   1.1   1   0   0   1   1   1   0 Maf-S, isoform B OS=Drosophila melanogaster OX=7227 GN=maf-S PE=3 SV=1
+tr|Q9Y133|Q9Y133_DROME         -          nup107               -                4.9    5.3   5.7       7.3    4.8   5.7   1.1   1   0   0   1   1   1   0 BcDNA.GH07312 OS=Drosophila melanogaster OX=7227 GN=GABA-B-R2 PE=2 SV=1
+tr|Q8IN24|Q8IN24_DROME         -          nup107               -                4.9    5.3   5.7       7.3    4.8   5.7   1.1   1   0   0   1   1   1   0 Metabotropic GABA-B receptor subtype 2, isoform A OS=Drosophila melanogaster OX=7227 GN=GABA-B-R2 PE=3 SV=1
+tr|A0A0B4LHR4|A0A0B4LHR4_DROME -          nup107               -                4.9    5.3   5.7       7.4    4.8   5.7   1.1   1   0   0   1   1   1   0 Metabotropic GABA-B receptor subtype 2, isoform C OS=Drosophila melanogaster OX=7227 GN=GABA-B-R2 PE=3 SV=1
+tr|M9PG97|M9PG97_DROME         -          nup107               -                5.1    5.3   1.5       5.6    5.2   1.5   1.3   1   0   0   1   1   1   0 Female sterile (2) ltoPP43, isoform C OS=Drosophila melanogaster OX=7227 GN=fs(2)ltoPP43 PE=4 SV=1
+tr|Q86BK4|Q86BK4_DROME         -          nup107               -                5.3    5.2   1.5       5.8    5.1   1.5   1.3   1   0   0   1   1   1   0 Female sterile (2) ltoPP43, isoform B OS=Drosophila melanogaster OX=7227 GN=fs(2)ltoPP43 PE=4 SV=1
+tr|Q9VDI5|Q9VDI5_DROME         -          nup107               -                5.7    5.1   2.1        11    4.2   2.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=Dmel\CG17271 PE=1 SV=2
+tr|M9NFF9|M9NFF9_DROME         -          nup107               -                6.3    5.0   6.9       2.7    6.2   2.5   1.9   2   0   0   2   2   2   0 Ada2a-containing complex component 3, isoform D OS=Drosophila melanogaster OX=7227 GN=Atac3 PE=4 SV=1
+tr|Q7YZA5|Q7YZA5_DROME         -          nup107               -                6.4    5.0   0.7        10    4.3   0.4   1.3   1   1   0   1   1   1   0 AT10251p OS=Drosophila melanogaster OX=7227 GN=Vsp37A PE=2 SV=1
+tr|Q9VJZ5|Q9VJZ5_DROME         -          nup107               -                6.7    4.9   1.2        12    4.1   1.2   1.3   1   0   0   1   1   1   0 LD07294p OS=Drosophila melanogaster OX=7227 GN=Tap42 PE=1 SV=2
+tr|Q9W4M5|Q9W4M5_DROME         -          nup107               -                6.9    4.8   0.0       8.5    4.5   0.0   1.2   1   0   0   1   1   1   0 GEO10373p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG15571 PE=2 SV=1
+sp|Q9VAD6|COG7_DROME           -          nup107               -                7.4    4.7   1.2        24    3.1   1.2   1.8   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 7 OS=Drosophila melanogaster OX=7227 GN=Cog7 PE=2 SV=2
+tr|Q8IPD6|Q8IPD6_DROME         -          nup107               -                7.4    4.7   0.2       8.2    4.6   0.2   1.1   1   0   0   1   1   1   0 GEO13032p1 OS=Drosophila melanogaster OX=7227 GN=Desr PE=2 SV=1
+tr|Q7K1W8|Q7K1W8_DROME         -          nup107               -                7.7    4.7   3.7       9.9    4.3   3.7   1.2   1   0   0   1   1   1   0 LD34388p OS=Drosophila melanogaster OX=7227 GN=CG9112 PE=1 SV=1
+tr|A2VER2|A2VER2_DROME         -          nup107               -                8.2    4.6   0.0       9.6    4.4   0.0   1.1   1   0   0   1   1   1   0 IP18228p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG42495 PE=2 SV=1
+tr|Q9VNX0|Q9VNX0_DROME         -          nup107               -                8.7    4.5   0.4        15    3.7   0.0   1.5   2   0   0   2   2   2   0 Uncharacterized protein, isoform A OS=Drosophila melanogaster OX=7227 GN=NP_649372 PE=1 SV=2
+sp|Q9VCH5|NUP98_DROME          -          nup107               -                  9    4.5   0.0        16    3.6   0.0   1.3   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 OS=Drosophila melanogaster OX=7227 GN=Nup98-96 PE=1 SV=3
+sp|Q9XZ06|NU931_DROME          -          nup107               -                9.7    4.4   0.2        46    2.1   0.0   2.2   2   1   0   2   2   2   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:04:04 2022
+# [ok]

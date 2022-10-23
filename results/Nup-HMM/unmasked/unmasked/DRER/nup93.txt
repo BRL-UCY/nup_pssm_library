@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q1LV08|Q1LV08_DANRE         -          nup93                -                  0 1142.6   0.8         0 1142.5   0.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+sp|Q7ZU29|NUP93_DANRE          -          nup93                -                  0 1142.4   0.8         0 1142.2   0.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=dye PE=2 SV=1
+tr|A0A2R8QHF8|A0A2R8QHF8_DANRE -          nup93                -           2.3e-204  682.1   0.2  2.7e-204  681.9   0.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+tr|Q1LV09|Q1LV09_DANRE         -          nup93                -            1.1e-32  114.3   2.0   1.3e-32  114.1   2.0   1.0   1   0   0   1   1   1   1 Nucleoporin 93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+tr|F1RBE5|F1RBE5_DANRE         -          nup93                -              0.082   12.2   0.0      0.11   11.8   0.0   1.1   1   0   0   1   1   1   0 Reticulophagy regulator family member 2 (Fragment) OS=Danio rerio OX=7955 GN=retreg2 PE=4 SV=1
+tr|A1A604|A1A604_DANRE         -          nup93                -               0.25   10.6   0.0      0.36   10.1   0.0   1.1   1   0   0   1   1   1   0 Family with sequence similarity 134, member A OS=Danio rerio OX=7955 GN=retreg2 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:53 2022
+# [ok]

@@ -1,0 +1,28 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P06704|CDC31_YEAST -          centrin2             -            3.9e-43  145.5   0.2   4.5e-43  145.3   0.2   1.0   1   0   0   1   1   1   1 Cell division control protein 31 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CDC31 PE=1 SV=2
+sp|P06787|CALM_YEAST  -          centrin2             -            2.2e-33  113.8   0.9   2.3e-33  113.7   0.9   1.0   1   0   0   1   1   1   1 Calmodulin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CMD1 PE=1 SV=1
+sp|P53141|MLC1_YEAST  -          centrin2             -            3.9e-18   64.2   2.1     5e-18   63.8   2.1   1.1   1   0   0   1   1   1   1 Myosin light chain 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC1 PE=1 SV=1
+sp|P25296|CANB_YEAST  -          centrin2             -            5.2e-07   28.0   0.9   2.1e-06   26.0   0.9   1.8   1   1   0   1   1   1   1 Calcineurin subunit B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CNB1 PE=1 SV=3
+sp|Q06389|NCS1_YEAST  -          centrin2             -            7.1e-07   27.5   1.3   0.00013   20.2   0.1   2.4   1   1   1   2   2   2   2 Calcium-binding protein NCS-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FRQ1 PE=1 SV=2
+sp|Q06580|MLC2_YEAST  -          centrin2             -            0.00028   19.0   0.0   0.00045   18.4   0.0   1.4   1   0   0   1   1   1   1 Myosin light chain 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MLC2 PE=1 SV=1
+sp|Q12321|MED1_YEAST  -          centrin2             -              0.038   12.1   0.0     0.058   11.5   0.0   1.3   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MED1 PE=1 SV=1
+sp|D6W196|CMC1_YEAST  -          centrin2             -              0.097   10.8   0.5      0.16   10.0   0.5   1.3   1   0   0   1   1   1   0 Truncated non-functional calcium-binding mitochondrial carrier SAL1-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAL1 PE=1 SV=2
+sp|P53238|PEF1_YEAST  -          centrin2             -               0.36    8.9   0.4       1.4    7.0   0.1   2.1   2   1   0   2   2   2   0 Peflin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PEF1 PE=1 SV=2
+sp|P13434|HAP3_YEAST  -          centrin2             -               0.83    7.7   0.0         1    7.5   0.0   1.1   1   0   0   1   1   1   0 Transcriptional activator HAP3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HAP3 PE=1 SV=1
+sp|P47125|I23O_YEAST  -          centrin2             -                1.4    7.0   0.0       2.3    6.3   0.0   1.3   1   0   0   1   1   1   0 Indoleamine 2,3-dioxygenase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BNA2 PE=1 SV=1
+sp|P25374|NFS1_YEAST  -          centrin2             -                1.7    6.8   0.0       3.4    5.7   0.0   1.4   1   0   0   1   1   1   0 Cysteine desulfurase, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NFS1 PE=1 SV=2
+sp|P13393|TBP_YEAST   -          centrin2             -                4.2    5.5   0.1        12    4.0   0.0   1.7   2   0   0   2   2   2   0 TATA-box-binding protein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPT15 PE=1 SV=3
+sp|P30665|MCM4_YEAST  -          centrin2             -                4.9    5.3   1.4       9.2    4.3   1.4   1.3   1   0   0   1   1   1   0 DNA replication licensing factor MCM4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=MCM4 PE=1 SV=2
+sp|P32476|ERG1_YEAST  -          centrin2             -                  7    4.7   0.0        11    4.1   0.0   1.2   1   0   0   1   1   1   0 Squalene monooxygenase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERG1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/centrin2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SCER/centrin2.txt --max --cpu 8 hmm_profiles_from_msa/centrin2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:54:14 2022
+# [ok]

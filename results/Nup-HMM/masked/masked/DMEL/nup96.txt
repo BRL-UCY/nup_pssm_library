@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VCH5|NUP98_DROME  -          nup96                -                  0 1899.2   0.0         0 1898.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup98-Nup96 OS=Drosophila melanogaster OX=7227 GN=Nup98-96 PE=1 SV=3
+sp|Q9NB71|HIW_DROME    -          nup96                -             0.0064   14.2   0.0    0.0085   13.8   0.0   1.0   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase highwire OS=Drosophila melanogaster OX=7227 GN=hiw PE=1 SV=2
+tr|X2JF19|X2JF19_DROME -          nup96                -             0.0064   14.2   0.0    0.0085   13.8   0.0   1.0   1   0   0   1   1   1   1 Highwire, isoform B OS=Drosophila melanogaster OX=7227 GN=hiw PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:06 2022
+# [ok]

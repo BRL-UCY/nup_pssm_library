@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9BVL2|NUP58_HUMAN  -          nup58                -           6.2e-130  435.8   0.8  3.7e-127  426.6   0.0   2.9   2   1   0   2   2   2   1 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|H7BYF2|H7BYF2_HUMAN -          nup58                -           1.7e-129  434.4   0.0  2.4e-128  430.6   0.0   1.9   1   1   0   1   1   1   1 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+tr|Q5JRG1|Q5JRG1_HUMAN -          nup58                -           9.8e-122  408.8   0.0  1.4e-120  405.0   0.0   1.9   1   1   0   1   1   1   1 Nucleoporin p58/p45 (Fragment) OS=Homo sapiens OX=9606 GN=NUP58 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:22 2022
+# [ok]

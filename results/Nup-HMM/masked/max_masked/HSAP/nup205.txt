@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q92621|NU205_HUMAN          -          nup205               -                  0 2410.1  14.0         0 2406.0  14.0   2.2   1   1   0   1   1   1   1 Nuclear pore complex protein Nup205 OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=3
+tr|U3KPX2|U3KPX2_HUMAN         -          nup205               -           8.5e-109  366.5   3.9    1e-108  366.2   3.9   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+tr|U3KQ97|U3KQ97_HUMAN         -          nup205               -              2e-63  216.0   0.2   2.2e-63  215.9   0.2   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=8
+tr|U3KQ47|U3KQ47_HUMAN         -          nup205               -            7.5e-17   61.6   0.0   8.1e-17   61.5   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=1 SV=1
+sp|Q5SRE5|NU188_HUMAN          -          nup205               -              4e-10   39.3   3.5   1.7e-09   37.2   0.0   3.0   3   1   0   3   3   3   1 Nucleoporin NUP188 homolog OS=Homo sapiens OX=9606 GN=NUP188 PE=1 SV=1
+tr|U3KQH5|U3KQH5_HUMAN         -          nup205               -             0.0071   15.2   0.0    0.0077   15.1   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup205 (Fragment) OS=Homo sapiens OX=9606 GN=NUP205 PE=4 SV=1
+tr|F8WDN5|F8WDN5_HUMAN         -          nup205               -               0.27   10.0   0.2       0.3    9.9   0.2   1.0   1   0   0   1   1   1   0 BRCA1-associated ATM activator 1 OS=Homo sapiens OX=9606 GN=BRAT1 PE=1 SV=2
+sp|Q6PJG6|BRAT1_HUMAN          -          nup205               -                2.9    6.6   0.1         4    6.1   0.1   1.1   1   0   0   1   1   1   0 BRCA1-associated ATM activator 1 OS=Homo sapiens OX=9606 GN=BRAT1 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:32:06 2022
+# [ok]

@@ -1,0 +1,44 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498KJ27|A0A498KJ27_MALDO -          nup205               -           4.9e-230  767.7  15.8  7.1e-152  508.5   1.7   4.1   1   1   3   4   4   4   4 Methyltransf_21 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017797 PE=3 SV=1
+tr|A0A498HJB1|A0A498HJB1_MALDO -          nup205               -            1.3e-17   63.3   0.5   1.4e-17   63.2   0.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018901 PE=3 SV=1
+tr|A0A498JUL1|A0A498JUL1_MALDO -          nup205               -              6e-08   31.3  14.1   1.7e-05   23.1   1.3   3.8   4   1   0   4   4   4   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009938 PE=4 SV=1
+tr|A0A498IW40|A0A498IW40_MALDO -          nup205               -            6.2e-08   31.2   4.4   5.2e-05   21.5   0.7   3.2   2   1   0   2   2   2   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034499 PE=4 SV=1
+tr|A0A498JN95|A0A498JN95_MALDO -          nup205               -               0.15   10.0   0.3      0.21    9.6   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024485 PE=4 SV=1
+tr|A0A498IM82|A0A498IM82_MALDO -          nup205               -               0.46    8.4   0.5      0.61    8.0   0.5   1.1   1   0   0   1   1   1   0 Kinesin-like protein OS=Malus domestica OX=3750 GN=DVH24_036664 PE=3 SV=1
+tr|A0A498J2E1|A0A498J2E1_MALDO -          nup205               -                0.7    7.8   0.0      0.99    7.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034501 PE=4 SV=1
+tr|A0A498JDI7|A0A498JDI7_MALDO -          nup205               -                1.4    6.9   0.6       2.3    6.1   0.2   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015976 PE=4 SV=1
+tr|A0A498JCB3|A0A498JCB3_MALDO -          nup205               -                2.5    6.0   0.6       3.4    5.5   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013954 PE=4 SV=1
+tr|A0A498J2L4|A0A498J2L4_MALDO -          nup205               -                3.1    5.7   0.7       3.8    5.4   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_032356 PE=4 SV=1
+tr|A0A498JQ36|A0A498JQ36_MALDO -          nup205               -                3.2    5.6   0.4       4.1    5.3   0.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_035923 PE=4 SV=1
+tr|A0A498JX63|A0A498JX63_MALDO -          nup205               -                4.3    5.2   0.1       4.9    5.0   0.1   1.0   1   0   0   1   1   1   0 Transcription repressor OS=Malus domestica OX=3750 GN=DVH24_010868 PE=4 SV=1
+tr|A0A498KKV3|A0A498KKV3_MALDO -          nup205               -                  5    5.0   0.0       6.7    4.6   0.0   1.1   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018304 PE=4 SV=1
+tr|A0A498IIY7|A0A498IIY7_MALDO -          nup205               -                5.2    5.0   0.2       6.7    4.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005569 PE=4 SV=1
+tr|A0A498K2B6|A0A498K2B6_MALDO -          nup205               -                5.2    4.9   0.0       6.7    4.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021684 PE=4 SV=1
+tr|A0A498KQ96|A0A498KQ96_MALDO -          nup205               -                5.2    4.9   0.3       5.7    4.8   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026469 PE=4 SV=1
+tr|A0A498JZI3|A0A498JZI3_MALDO -          nup205               -                5.3    4.9   0.1       5.3    4.9   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001553 PE=4 SV=1
+tr|A0A498JRX9|A0A498JRX9_MALDO -          nup205               -                5.4    4.9   0.0       5.8    4.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011024 PE=4 SV=1
+tr|A0A498HQ49|A0A498HQ49_MALDO -          nup205               -                5.6    4.8   1.7       9.1    4.1   1.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018892 PE=4 SV=1
+tr|A0A498HEX5|A0A498HEX5_MALDO -          nup205               -                6.3    4.7   0.8       8.2    4.3   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028152 PE=4 SV=1
+tr|A0A498ICJ5|A0A498ICJ5_MALDO -          nup205               -                6.5    4.6   0.8         7    4.5   0.8   1.0   1   0   0   1   1   1   0 V-type proton ATPase subunit G OS=Malus domestica OX=3750 GN=DVH24_004623 PE=3 SV=1
+tr|A0A498JXL9|A0A498JXL9_MALDO -          nup205               -                  7    4.5   0.1       8.4    4.3   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000873 PE=3 SV=1
+tr|A0A498J6U2|A0A498J6U2_MALDO -          nup205               -                  7    4.5   0.3       8.5    4.2   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006851 PE=4 SV=1
+tr|A0A498I1H6|A0A498I1H6_MALDO -          nup205               -                7.1    4.5   0.0        11    3.9   0.0   1.2   1   0   0   1   1   1   0 RPW8 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_029992 PE=4 SV=1
+tr|A0A498JT88|A0A498JT88_MALDO -          nup205               -                7.3    4.4   0.5        12    3.8   0.5   1.2   1   0   0   1   1   1   0 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_010591 PE=4 SV=1
+tr|A0A498HFU7|A0A498HFU7_MALDO -          nup205               -                8.5    4.2   0.1        11    3.8   0.1   1.1   1   0   0   1   1   1   0 Rab-GAP TBC domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028080 PE=4 SV=1
+tr|A0A498J5F0|A0A498J5F0_MALDO -          nup205               -                8.6    4.2   0.1        10    4.0   0.1   1.0   1   0   0   1   1   1   0 SBP-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035190 PE=4 SV=1
+tr|A0A498I005|A0A498I005_MALDO -          nup205               -                8.7    4.2   0.1        12    3.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_029936 PE=4 SV=1
+tr|A0A498H895|A0A498H895_MALDO -          nup205               -                9.1    4.1   0.0        10    4.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_027733 PE=4 SV=1
+tr|A0A498K626|A0A498K626_MALDO -          nup205               -                9.3    4.1   0.1        13    3.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001377 PE=4 SV=1
+tr|A0A498JHX9|A0A498JHX9_MALDO -          nup205               -                9.5    4.1   0.0        10    4.0   0.0   1.0   1   0   0   1   1   1   0 Dimer_Tnp_hAT domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_024854 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:56:54 2022
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q93ZH3|Q93ZH3_ARATH         -          nup50                -            4.7e-39  135.5  39.1   6.4e-39  135.1  39.1   1.1   1   0   0   1   1   1   1 AT4g11790/T5C23_220 OS=Arabidopsis thaliana OX=3702 GN=At4g11790 PE=2 SV=1
+sp|Q9C829|NU50A_ARATH          -          nup50                -            2.1e-32  113.6  23.8   1.4e-22   81.1  16.0   2.1   1   1   1   2   2   2   2 Nuclear pore complex protein NUP50A OS=Arabidopsis thaliana OX=3702 GN=NUP50A PE=1 SV=1
+sp|Q9LW88|NU50B_ARATH          -          nup50                -            5.2e-31  109.0  56.4   9.8e-21   75.1  16.9   2.1   1   1   1   2   2   2   2 Nuclear pore complex protein NUP50B OS=Arabidopsis thaliana OX=3702 GN=NUP50B PE=1 SV=1
+sp|P92985|RBP1C_ARATH          -          nup50                -              3e-17   63.5   0.7     3e-17   63.5   0.7   2.2   2   0   0   2   2   2   1 Ran-binding protein 1 homolog c OS=Arabidopsis thaliana OX=3702 GN=RANBP1C PE=2 SV=1
+sp|Q9LMK7|RBP1A_ARATH          -          nup50                -            1.2e-14   55.0   0.4   1.2e-14   55.0   0.4   2.1   2   0   0   2   2   2   1 Ran-binding protein 1 homolog a OS=Arabidopsis thaliana OX=3702 GN=RANBP1A PE=1 SV=1
+sp|Q8RWG8|RBP1B_ARATH          -          nup50                -              1e-12   48.6   0.1     1e-12   48.6   0.1   2.2   2   0   0   2   2   2   1 Ran-binding protein 1 homolog b OS=Arabidopsis thaliana OX=3702 GN=RANBP1B PE=1 SV=2
+tr|Q56XE2|Q56XE2_ARATH         -          nup50                -              0.087   12.5   2.3      0.12   12.0   2.3   1.1   1   0   0   1   1   1   0 At1g77122 OS=Arabidopsis thaliana OX=3702 GN=At1g77122 PE=2 SV=1
+sp|Q9SVZ6|RLA31_ARATH          -          nup50                -               0.42   10.2   5.1      0.45   10.2   5.1   1.1   1   0   0   1   1   1   0 60S acidic ribosomal protein P3-1 OS=Arabidopsis thaliana OX=3702 GN=RPP3A PE=3 SV=1
+tr|A0A1P8AMU2|A0A1P8AMU2_ARATH -          nup50                -               0.77    9.4  10.7       1.2    8.7  10.7   1.3   1   1   0   1   1   1   0 Basic helix-loop-helix (BHLH) DNA-binding superfamily protein OS=Arabidopsis thaliana OX=3702 GN=SCRM2 PE=4 SV=1
+sp|Q9LPW3|SCRM2_ARATH          -          nup50                -                  1    9.0  10.0       1.8    8.2   9.9   1.3   1   1   0   1   1   1   0 Transcription factor SCREAM2 OS=Arabidopsis thaliana OX=3702 GN=SCRM2 PE=1 SV=1
+tr|A0A1P8AMV9|A0A1P8AMV9_ARATH -          nup50                -                1.2    8.7  10.4       2.1    7.9  10.2   1.3   1   1   0   1   1   1   0 Basic helix-loop-helix (BHLH) DNA-binding superfamily protein OS=Arabidopsis thaliana OX=3702 GN=SCRM2 PE=4 SV=1
+tr|A0A1P8B8D1|A0A1P8B8D1_ARATH -          nup50                -                2.7    7.6   6.8       3.5    7.2   6.8   1.0   1   0   0   1   1   1   0 PAM68-like protein (DUF3464) OS=Arabidopsis thaliana OX=3702 GN=PAM68 PE=1 SV=1
+tr|Q9LKA1|Q9LKA1_ARATH         -          nup50                -                  4    7.0  13.2       6.2    6.4  13.2   1.3   1   0   0   1   1   1   0 At3g15040 OS=Arabidopsis thaliana OX=3702 GN=At3g15040 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:45 2022
+# [ok]

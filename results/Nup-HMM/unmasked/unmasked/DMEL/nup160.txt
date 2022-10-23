@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VKJ3|NU160_DROME          -          nup160               -                  0 1699.8  22.7         0 1699.7  22.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup160 homolog OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=1 SV=1
+tr|X2J9F3|X2J9F3_DROME         -          nup160               -                  0 1699.8  22.7         0 1699.7  22.7   1.0   1   0   0   1   1   1   1 Nucleoporin 160kD, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup160 PE=4 SV=1
+sp|Q7KNS3|LIS1_DROME           -          nup160               -            1.7e-08   32.8   4.8     0.023   12.5   0.0   4.3   1   1   1   4   4   4   4 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=1 SV=2
+tr|A0A0B4K812|A0A0B4K812_DROME -          nup160               -            1.7e-08   32.8   4.8     0.023   12.5   0.0   4.3   1   1   1   4   4   4   4 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=3 SV=1
+tr|Q7JQT9|Q7JQT9_DROME         -          nup160               -            2.4e-08   32.2  11.8    0.0028   15.5   0.6   5.2   4   1   1   5   5   5   4 LD47550p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1671 PE=1 SV=1
+tr|M9PF42|M9PF42_DROME         -          nup160               -            8.5e-07   27.1   1.7     0.027   12.2   0.8   3.7   2   1   2   4   4   4   2 Connector of kinase to AP-1, isoform G OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+tr|Q9VLT9|Q9VLT9_DROME         -          nup160               -            8.6e-07   27.1   1.6     0.027   12.2   0.7   3.7   2   1   1   4   4   4   2 Connector of kinase to AP-1, isoform A OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=2
+tr|M9NEC0|M9NEC0_DROME         -          nup160               -              9e-07   27.0   1.5     0.025   12.3   0.6   3.7   2   1   2   4   4   4   2 Connector of kinase to AP-1, isoform F OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+tr|D3DML3|D3DML3_DROME         -          nup160               -              9e-07   27.0   1.5     0.025   12.3   0.6   3.7   2   1   2   4   4   4   2 Connector of kinase to AP-1, isoform E OS=Drosophila melanogaster OX=7227 GN=Cka PE=1 SV=1
+sp|Q9V3J8|WDS_DROME            -          nup160               -            9.4e-07   27.0   8.0    0.0015   16.3   0.0   4.5   2   1   3   5   5   5   3 Protein will die slowly OS=Drosophila melanogaster OX=7227 GN=wds PE=1 SV=1
+tr|M9NDM4|M9NDM4_DROME         -          nup160               -            9.4e-07   27.0   8.0    0.0015   16.3   0.0   4.5   2   1   3   5   5   5   3 Will die slowly, isoform B OS=Drosophila melanogaster OX=7227 GN=wds PE=4 SV=1
+sp|Q9VZF4|FBXW7_DROME          -          nup160               -            6.5e-05   20.9  12.6       1.2    6.8   0.2   5.8   3   2   3   6   6   6   4 F-box/WD repeat-containing protein 7 OS=Drosophila melanogaster OX=7227 GN=ago PE=1 SV=1
+tr|Q9VE18|Q9VE18_DROME         -          nup160               -             0.0017   16.2   0.1     0.053   11.2   0.0   2.3   1   1   1   2   2   2   1 LD41216p OS=Drosophila melanogaster OX=7227 GN=Smu1 PE=1 SV=2
+tr|Q9VF41|Q9VF41_DROME         -          nup160               -              0.015   13.0   4.7     0.024   12.4   0.3   2.2   2   0   0   2   2   2   0 GH11140p OS=Drosophila melanogaster OX=7227 GN=Ttc26 PE=2 SV=1
+sp|Q9W328|LST8_DROME           -          nup160               -              0.015   13.0   1.4       1.9    6.1   0.0   3.4   4   0   0   4   4   4   0 Protein LST8 homolog OS=Drosophila melanogaster OX=7227 GN=Lst8 PE=1 SV=2
+tr|Q9VDE3|Q9VDE3_DROME         -          nup160               -              0.023   12.5   4.8       4.9    4.7   0.0   3.8   3   1   0   4   4   4   0 LD08669p OS=Drosophila melanogaster OX=7227 GN=slmb PE=1 SV=1
+tr|Q9VS00|Q9VS00_DROME         -          nup160               -              0.036   11.8   0.0      0.98    7.0   0.0   2.1   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10064 PE=4 SV=1
+tr|A0A0B4KHK1|A0A0B4KHK1_DROME -          nup160               -              0.037   11.8   4.5       5.7    4.5   0.1   3.8   3   1   1   4   4   4   0 Supernumerary limbs, isoform B OS=Drosophila melanogaster OX=7227 GN=slmb PE=4 SV=1
+sp|Q9VLN1|WDR82_DROME          -          nup160               -              0.054   11.2   0.0       2.7    5.6   0.0   2.0   2   0   0   2   2   2   0 WD repeat-containing protein 82 OS=Drosophila melanogaster OX=7227 GN=Wdr82 PE=1 SV=1
+tr|Q1RKU8|Q1RKU8_DROME         -          nup160               -              0.059   11.1   8.4      0.82    7.3   0.0   4.1   2   2   4   6   6   6   0 IP10415p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10931 PE=2 SV=1
+sp|Q9VU68|WDR1_DROME           -          nup160               -              0.069   10.9   0.1       0.1   10.3   0.1   1.1   1   0   0   1   1   1   0 Actin-interacting protein 1 OS=Drosophila melanogaster OX=7227 GN=flr PE=2 SV=1
+tr|A1Z7Y4|A1Z7Y4_DROME         -          nup160               -               0.16    9.7   1.3       5.5    4.5   0.1   2.5   3   0   0   3   3   3   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10459 PE=4 SV=1
+tr|Q9VPL0|Q9VPL0_DROME         -          nup160               -               0.16    9.6   0.5       2.1    6.0   0.0   2.6   2   1   1   3   3   3   0 GM13767p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG3436 PE=1 SV=1
+tr|Q9VHT2|Q9VHT2_DROME         -          nup160               -               0.18    9.5   0.1      0.29    8.8   0.1   1.3   1   1   0   1   1   1   0 FI07663p OS=Drosophila melanogaster OX=7227 GN=tex PE=1 SV=1
+tr|Q9W5C9|Q9W5C9_DROME         -          nup160               -                0.2    9.3   0.0      0.25    9.0   0.0   1.1   1   0   0   1   1   1   0 GEO10371p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG14635 PE=2 SV=1
+tr|Q9W0B8|Q9W0B8_DROME         -          nup160               -                5.3    4.6   7.8         5    4.7   0.1   3.6   4   1   1   5   5   5   0 Coatomer subunit alpha OS=Drosophila melanogaster OX=7227 GN=alphaCOP PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup160.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup160.txt --cpu 8 hmm_profiles_from_msa/nup160.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:15:26 2022
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CU26|A0A2K3CU26_CHLRE -          elys                 -            6.4e-07   26.7   0.0    0.0017   15.4   0.0   2.5   3   0   0   3   3   3   2 ELYS domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g683437v5 PE=4 SV=1
+tr|A0A2K3DE54|A0A2K3DE54_CHLRE -          elys                 -              0.058   10.3   0.0     0.058   10.3   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g390912v5 PE=4 SV=1
+tr|A0A2K3DK60|A0A2K3DK60_CHLRE -          elys                 -               0.29    7.9  33.3      0.37    7.6  33.3   1.1   1   0   0   1   1   1   0 Exonuclease domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g334400v5 PE=4 SV=1
+tr|A0A2K3D1R4|A0A2K3D1R4_CHLRE -          elys                 -               0.73    6.6  26.8      0.88    6.4  26.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g484900v5 PE=3 SV=1
+tr|A0A2K3DGA6|A0A2K3DGA6_CHLRE -          elys                 -                1.3    5.8  22.0       1.7    5.4  22.0   1.0   1   0   0   1   1   1   0 HET domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g358564v5 PE=4 SV=1
+tr|A0A2K3CSA3|A0A2K3CSA3_CHLRE -          elys                 -                1.7    5.4  16.8       2.2    5.1  16.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g694703v5 PE=4 SV=1
+tr|A0A2K3CX85|A0A2K3CX85_CHLRE -          elys                 -                2.2    5.1  20.7       2.9    4.6  20.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g611000v5 PE=4 SV=1
+tr|A0A2K3D161|A0A2K3D161_CHLRE -          elys                 -                2.4    4.9  18.1       3.2    4.5  18.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g592400v5 PE=4 SV=1
+tr|A0A2K3E1X1|A0A2K3E1X1_CHLRE -          elys                 -                3.3    4.5  25.5        21    1.8  24.4   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g096551v5 PE=4 SV=1
+tr|A0A2K3E7K5|A0A2K3E7K5_CHLRE -          elys                 -                3.4    4.4   6.0       3.8    4.3   6.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g043600v5 PE=4 SV=1
+tr|A0A2K3DPV0|A0A2K3DPV0_CHLRE -          elys                 -                5.1    3.8   9.3       6.7    3.4   9.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g284550v5 PE=4 SV=1
+tr|A0A2K3CU31|A0A2K3CU31_CHLRE -          elys                 -                5.6    3.7  22.5       7.2    3.3  22.5   1.0   1   0   0   1   1   1   0 SfsA domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g682013v5 PE=4 SV=1
+tr|A0A2K3DBM6|A0A2K3DBM6_CHLRE -          elys                 -                6.8    3.4  15.0         9    3.0  15.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g457600v5 PE=4 SV=1
+tr|A0A2K3E2Q4|A0A2K3E2Q4_CHLRE -          elys                 -                7.2    3.3   7.3       8.1    3.2   7.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g107150v5 PE=4 SV=1
+tr|A0A2K3D5N4|A0A2K3D5N4_CHLRE -          elys                 -                7.7    3.2   4.7       9.8    2.9   4.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g558650v5 PE=3 SV=1
+tr|A0A2K3DB94|A0A2K3DB94_CHLRE -          elys                 -                9.6    2.9   6.3        14    2.4   6.3   1.2   1   0   0   1   1   1   0 rRNA-processing protein EFG1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g452600v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:32:16 2022
+# [ok]

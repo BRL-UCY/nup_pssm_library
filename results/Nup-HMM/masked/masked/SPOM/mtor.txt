@@ -1,0 +1,17 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74424|NU211_SCHPO -          mtor                 -            1.5e-50  169.7  35.6   1.6e-34  116.5  18.5   3.7   4   0   0   4   4   4   3 Nucleoporin nup211 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup211 PE=1 SV=1
+sp|Q9UTK5|ALM1_SCHPO  -          mtor                 -            2.9e-18   62.6  22.0   2.9e-18   62.6  22.0   2.4   2   1   0   2   2   2   1 Nucleoporin alm1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alm1 PE=1 SV=1
+sp|Q9Y7S2|YQO3_SCHPO  -          mtor                 -            3.8e-06   22.4   0.1     5e-06   22.1   0.1   1.0   1   0   0   1   1   1   1 UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+sp|O74338|BLT1_SCHPO  -          mtor                 -              0.028    9.6   6.1     0.046    8.9   6.1   1.2   1   0   0   1   1   1   0 Mitosis inducer protein blt1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=blt1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/SPOM/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:11:05 2022
+# [ok]

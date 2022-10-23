@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498J210|A0A498J210_MALDO -          krh2                 -            7.7e-30  105.1  14.3   1.2e-29  104.4  14.3   1.2   1   0   0   1   1   1   1 Histone acetyltransferase OS=Malus domestica OX=3750 GN=DVH24_032126 PE=3 SV=1
+tr|A0A498HD84|A0A498HD84_MALDO -          krh2                 -            3.2e-28   99.8   9.8   1.1e-26   94.7   9.8   2.1   1   1   0   1   1   1   1 CCHC-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_028381 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MDOM/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:46 2022
+# [ok]

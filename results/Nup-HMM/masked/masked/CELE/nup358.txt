@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21021|Q21021_CAEEL -          nup358               -            3.5e-84  283.7   0.0   3.1e-44  151.2   0.0   3.0   3   0   0   3   3   3   3 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-9 PE=1 SV=2
+tr|Q86G90|Q86G90_CAEEL -          nup358               -            3.3e-77  260.5   1.8   8.6e-29   99.9   0.0   4.0   2   1   2   4   4   4   4 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-9 PE=1 SV=1
+tr|Q21961|Q21961_CAEEL -          nup358               -               0.12    9.9   0.0      0.15    9.5   0.0   1.0   1   0   0   1   1   1   0 Associated with RAN (Nuclear import/export) function OS=Caenorhabditis elegans OX=6239 GN=ran-5 PE=1 SV=1
+sp|Q5CZ52|BBS4_CAEEL   -          nup358               -               0.25    8.8   0.0      0.33    8.4   0.0   1.0   1   0   0   1   1   1   0 Bardet-Biedl syndrome 4 protein homolog OS=Caenorhabditis elegans OX=6239 GN=bbs-4 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:52 2022
+# [ok]

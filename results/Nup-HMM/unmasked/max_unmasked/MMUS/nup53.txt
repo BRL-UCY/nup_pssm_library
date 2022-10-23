@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R4R6|NUP35_MOUSE          -          nup53                -           5.2e-113  379.8  10.3  1.8e-111  374.7  10.3   2.3   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=2
+tr|A2ATJ2|A2ATJ2_MOUSE         -          nup53                -            7.8e-42  145.9   7.1   1.9e-41  144.6   7.1   1.5   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Mus musculus OX=10090 GN=Nup35 PE=1 SV=1
+sp|Q8R0Z2|ENOX2_MOUSE          -          nup53                -            0.00038   22.0   0.0   0.00089   20.8   0.0   1.6   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Mus musculus OX=10090 GN=Enox2 PE=2 SV=1
+tr|A0A2I3BQT0|A0A2I3BQT0_MOUSE -          nup53                -             0.0011   20.5   0.0    0.0022   19.5   0.0   1.4   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 1 OS=Mus musculus OX=10090 GN=Enox1 PE=1 SV=1
+sp|Q8BHR2|ENOX1_MOUSE          -          nup53                -             0.0044   18.5   2.8    0.0058   18.1   0.0   2.4   3   0   0   3   3   3   1 Ecto-NOX disulfide-thiol exchanger 1 OS=Mus musculus OX=10090 GN=Enox1 PE=2 SV=1
+tr|A0A1D5RLR3|A0A1D5RLR3_MOUSE -          nup53                -                0.3   12.5   0.5       2.7    9.4   0.0   2.4   2   0   0   2   2   2   0 RNA-binding protein 34 OS=Mus musculus OX=10090 GN=Rbm34 PE=1 SV=1
+sp|Q8C5L7|RBM34_MOUSE          -          nup53                -               0.36   12.3   0.5       2.8    9.3   0.0   2.4   2   0   0   2   2   2   0 RNA-binding protein 34 OS=Mus musculus OX=10090 GN=Rbm34 PE=1 SV=2
+sp|P28359|HXD10_MOUSE          -          nup53                -               0.39   12.1   4.8      0.62   11.5   4.8   1.3   1   0   0   1   1   1   0 Homeobox protein Hox-D10 OS=Mus musculus OX=10090 GN=Hoxd10 PE=1 SV=2
+sp|Q9JLI8|SART3_MOUSE          -          nup53                -               0.39   12.1   0.4        19    6.6   0.2   2.8   2   1   0   2   2   2   0 Squamous cell carcinoma antigen recognized by T-cells 3 OS=Mus musculus OX=10090 GN=Sart3 PE=1 SV=1
+tr|D3Z6F1|D3Z6F1_MOUSE         -          nup53                -               0.64   11.4   6.8      0.82   11.1   6.8   1.2   1   0   0   1   1   1   0 ADP-ribosylation factor-like protein 6-interacting protein 4 (Fragment) OS=Mus musculus OX=10090 GN=Arl6ip4 PE=1 SV=8
+sp|P62996|TRA2B_MOUSE          -          nup53                -               0.65   11.4   8.0       1.1   10.6   8.0   1.3   1   0   0   1   1   1   0 Transformer-2 protein homolog beta OS=Mus musculus OX=10090 GN=Tra2b PE=1 SV=1
+tr|D3YV30|D3YV30_MOUSE         -          nup53                -                2.2    9.7   0.0       2.5    9.5   0.0   1.0   1   0   0   1   1   1   0 G-rich sequence factor 1 (Fragment) OS=Mus musculus OX=10090 GN=Grsf1 PE=1 SV=1
+tr|E9Q8A6|E9Q8A6_MOUSE         -          nup53                -                2.3    9.6   4.4       2.4    9.6   4.4   1.1   1   0   0   1   1   1   0 Glucocorticoid receptor (Fragment) OS=Mus musculus OX=10090 GN=Nr3c1 PE=1 SV=8
+tr|A0A0N4SUT7|A0A0N4SUT7_MOUSE -          nup53                -                2.3    9.6  13.3         4    8.8  13.3   1.4   1   0   0   1   1   1   0 CLIP-associating protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Clasp1 PE=1 SV=1
+tr|A0A494B956|A0A494B956_MOUSE -          nup53                -                2.5    9.5   2.6       3.1    9.2   2.6   1.1   1   0   0   1   1   1   0 DNA polymerase alpha subunit B (Fragment) OS=Mus musculus OX=10090 GN=Pola2 PE=1 SV=1
+tr|D3Z3Y4|D3Z3Y4_MOUSE         -          nup53                -                2.6    9.4   0.1       4.9    8.5   0.1   1.4   1   0   0   1   1   1   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=2
+tr|Q921W2|Q921W2_MOUSE         -          nup53                -                2.7    9.4   0.3       6.7    8.1   0.2   1.7   1   1   1   2   2   2   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+sp|P70318|TIAR_MOUSE           -          nup53                -                3.7    9.0   0.4       7.3    8.0   0.1   1.6   2   0   0   2   2   1   0 Nucleolysin TIAR OS=Mus musculus OX=10090 GN=Tial1 PE=1 SV=1
+tr|A0A0R4J214|A0A0R4J214_MOUSE -          nup53                -                5.1    8.5   0.0       7.5    7.9   0.0   1.2   1   0   0   1   1   1   0 RNA-binding protein 26 (Fragment) OS=Mus musculus OX=10090 GN=Rbm26 PE=1 SV=1
+tr|E9Q4G9|E9Q4G9_MOUSE         -          nup53                -                5.8    8.3   9.1       8.8    7.7   9.1   1.4   1   0   0   1   1   1   0 Predicted gene, 21293 OS=Mus musculus OX=10090 GN=Gm21293 PE=4 SV=1
+tr|M0QWS9|M0QWS9_MOUSE         -          nup53                -                6.2    8.2   8.7       9.6    7.6   8.7   1.4   1   0   0   1   1   1   0 Predicted gene 4340 OS=Mus musculus OX=10090 GN=Gm4340 PE=4 SV=1
+tr|L7N2C4|L7N2C4_MOUSE         -          nup53                -                6.3    8.2   8.6       9.8    7.6   8.6   1.4   1   0   0   1   1   1   0 Predicted gene 4340 OS=Mus musculus OX=10090 GN=Gm4340 PE=4 SV=1
+tr|B1AXT0|B1AXT0_MOUSE         -          nup53                -                6.3    8.2   8.4       6.8    8.1   8.4   1.1   1   0   0   1   1   1   0 Non-POU domain-containing octamer-binding protein (Fragment) OS=Mus musculus OX=10090 GN=Nono PE=1 SV=1
+tr|J3QP73|J3QP73_MOUSE         -          nup53                -                6.5    8.1   6.3        10    7.5   6.3   1.4   1   0   0   1   1   1   0 Predicted gene 6763 OS=Mus musculus OX=10090 GN=Gm6763 PE=4 SV=1
+sp|P23881|TCEA3_MOUSE          -          nup53                -                6.6    8.1   3.9        12    7.3   3.9   1.4   1   0   0   1   1   1   0 Transcription elongation factor A protein 3 OS=Mus musculus OX=10090 GN=Tcea3 PE=1 SV=3
+tr|M0QWR4|M0QWR4_MOUSE         -          nup53                -                6.7    8.1   6.4        10    7.5   6.4   1.4   1   0   0   1   1   1   0 Predicted gene, 20765 OS=Mus musculus OX=10090 GN=Gm21293 PE=4 SV=1
+tr|S4R287|S4R287_MOUSE         -          nup53                -                7.3    8.0   1.3       8.5    7.8   1.3   1.1   1   0   0   1   1   1   0 WASH complex subunit 3 OS=Mus musculus OX=10090 GN=Washc3 PE=1 SV=1
+tr|D3YUN1|D3YUN1_MOUSE         -          nup53                -                7.7    7.9   0.0        20    6.5   0.0   1.6   2   0   0   2   2   2   0 G-rich sequence factor 1 (Fragment) OS=Mus musculus OX=10090 GN=Grsf1 PE=1 SV=1
+tr|A0A087WSQ4|A0A087WSQ4_MOUSE -          nup53                -                7.8    7.9   1.7       9.2    7.6   1.7   1.1   1   0   0   1   1   1   0 Calcium-activated potassium channel subunit alpha-1 OS=Mus musculus OX=10090 GN=Kcnma1 PE=1 SV=1
+tr|A0A0R4J1K6|A0A0R4J1K6_MOUSE -          nup53                -                  8    7.8   6.5       8.9    7.7   6.5   1.1   1   0   0   1   1   1   0 Nucleoporin-like 2 OS=Mus musculus OX=10090 GN=Nupl2 PE=1 SV=1
+tr|F7AUI0|F7AUI0_MOUSE         -          nup53                -                  9    7.7   0.1        12    7.3   0.1   1.1   1   0   0   1   1   1   0 Peripheral-type benzodiazepine receptor-associated protein 1 (Fragment) OS=Mus musculus OX=10090 GN=Tspoap1 PE=4 SV=1
+tr|D3YUL1|D3YUL1_MOUSE         -          nup53                -                9.2    7.6   4.6        10    7.5   4.6   1.0   1   0   0   1   1   1   0 Proline and serine-rich protein 3 (Fragment) OS=Mus musculus OX=10090 GN=Proser3 PE=4 SV=2
+sp|Q80Y86|MK15_MOUSE           -          nup53                -                9.2    7.6   6.6        14    7.0   6.6   1.1   1   0   0   1   1   1   0 Mitogen-activated protein kinase 15 OS=Mus musculus OX=10090 GN=Mapk15 PE=1 SV=1
+tr|F6SK63|F6SK63_MOUSE         -          nup53                -                9.4    7.6   6.9        13    7.2   6.9   1.2   1   0   0   1   1   1   0 Disintegrin and metalloproteinase domain-containing protein 22 (Fragment) OS=Mus musculus OX=10090 GN=Adam22 PE=1 SV=1
+sp|P04351|IL2_MOUSE            -          nup53                -                9.8    7.5   0.9        13    7.2   0.9   1.1   1   0   0   1   1   1   0 Interleukin-2 OS=Mus musculus OX=10090 GN=Il2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:08:15 2022
+# [ok]

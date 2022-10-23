@@ -1,0 +1,56 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P37198|NUP62_HUMAN          -          nup62                -           1.9e-116  391.2  93.2  1.9e-116  391.2  93.2   3.4   1   1   1   2   2   2   1 Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=3
+tr|M0QXN5|M0QXN5_HUMAN         -          nup62                -            3.3e-85  288.3 146.3   6.7e-79  267.5  18.4   3.8   1   1   2   3   3   3   2 Nuclear pore glycoprotein p62 OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+tr|H0Y6X7|H0Y6X7_HUMAN         -          nup62                -            7.6e-82  277.2  11.5   8.7e-82  277.0  11.5   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP62CL PE=4 SV=1
+sp|Q9H1M0|N62CL_HUMAN          -          nup62                -            5.5e-52  178.9   8.3   7.2e-52  178.6   8.3   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein OS=Homo sapiens OX=9606 GN=NUP62CL PE=1 SV=3
+tr|Q5JSN5|Q5JSN5_HUMAN         -          nup62                -              3e-39  137.0   5.2   3.6e-39  136.7   5.2   1.0   1   0   0   1   1   1   1 Nucleoporin-62 C-terminal-like protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP62CL PE=4 SV=1
+tr|C9JB56|C9JB56_HUMAN         -          nup62                -            0.00011   23.2  10.0   0.00016   22.7  10.0   1.2   1   0   0   1   1   1   1 Rho GTPase-activating protein 25 OS=Homo sapiens OX=9606 GN=ARHGAP25 PE=1 SV=1
+tr|H7C4P1|H7C4P1_HUMAN         -          nup62                -            0.00034   21.6  10.0   0.00052   21.0  10.0   1.2   1   0   0   1   1   1   1 Rho GTPase-activating protein 25 (Fragment) OS=Homo sapiens OX=9606 GN=ARHGAP25 PE=1 SV=1
+sp|P42331|RHG25_HUMAN          -          nup62                -            0.00076   20.5  10.4    0.0012   19.8  10.4   1.2   1   0   0   1   1   1   1 Rho GTPase-activating protein 25 OS=Homo sapiens OX=9606 GN=ARHGAP25 PE=1 SV=2
+tr|H7BXG1|H7BXG1_HUMAN         -          nup62                -              0.021   15.7   6.6     0.027   15.4   6.6   1.0   1   0   0   1   1   1   0 Protein CLEC16A (Fragment) OS=Homo sapiens OX=9606 GN=CLEC16A PE=1 SV=1
+tr|C9J668|C9J668_HUMAN         -          nup62                -               0.12   13.2   0.0      0.15   12.9   0.0   1.1   1   0   0   1   1   1   0 CLIP-associating protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=CLASP2 PE=1 SV=2
+tr|H0YJE9|H0YJE9_HUMAN         -          nup62                -               0.14   13.1   0.3      0.15   13.0   0.3   1.0   1   0   0   1   1   1   0 26S proteasome regulatory subunit 10B OS=Homo sapiens OX=9606 GN=PSMC6 PE=1 SV=2
+tr|J3QLW1|J3QLW1_HUMAN         -          nup62                -               0.19   12.6   1.4       0.2   12.5   1.4   1.0   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 (Fragment) OS=Homo sapiens OX=9606 GN=COG4 PE=1 SV=1
+tr|H3BSD2|H3BSD2_HUMAN         -          nup62                -               0.25   12.2   1.6      0.36   11.7   1.6   1.3   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Homo sapiens OX=9606 GN=COG4 PE=1 SV=1
+tr|H0YJT1|H0YJT1_HUMAN         -          nup62                -                0.3   11.9   0.3      0.35   11.7   0.3   1.1   1   0   0   1   1   1   0 26S proteasome regulatory subunit 10B OS=Homo sapiens OX=9606 GN=PSMC6 PE=1 SV=2
+tr|M0R1S1|M0R1S1_HUMAN         -          nup62                -                0.4   11.5  31.7      0.52   11.2  31.7   1.2   1   0   0   1   1   1   0 Nuclear pore glycoprotein p62 (Fragment) OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+tr|E9PRT5|E9PRT5_HUMAN         -          nup62                -               0.43   11.4   2.6      0.55   11.1   2.6   1.1   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Homo sapiens OX=9606 GN=COG4 PE=1 SV=1
+tr|M0QZL5|M0QZL5_HUMAN         -          nup62                -               0.48   11.3  31.9      0.63   10.9  31.9   1.2   1   0   0   1   1   1   0 Nuclear pore glycoprotein p62 (Fragment) OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+tr|H0YDH2|H0YDH2_HUMAN         -          nup62                -               0.64   10.8  18.8      0.71   10.7  18.8   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=4 SV=1
+sp|P05783|K1C18_HUMAN          -          nup62                -               0.67   10.8  17.5     0.057   14.3  12.3   1.8   2   0   0   2   2   2   0 Keratin, type I cytoskeletal 18 OS=Homo sapiens OX=9606 GN=KRT18 PE=1 SV=2
+tr|H3BMV9|H3BMV9_HUMAN         -          nup62                -               0.77   10.6   2.1       1.1   10.0   2.1   1.3   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Homo sapiens OX=9606 GN=COG4 PE=1 SV=1
+tr|E5RH30|E5RH30_HUMAN         -          nup62                -               0.98   10.2   8.1         1   10.2   8.1   1.2   1   0   0   1   1   1   0 Protein CBFA2T1 (Fragment) OS=Homo sapiens OX=9606 GN=RUNX1T1 PE=1 SV=1
+tr|M0QX64|M0QX64_HUMAN         -          nup62                -                2.9    8.7  46.3         4    8.2   2.9   1.7   1   1   1   2   2   2   0 Nuclear pore glycoprotein p62 (Fragment) OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=1
+sp|Q96DR8|MUCL1_HUMAN          -          nup62                -                3.1    8.6  18.0       3.7    8.4  18.0   1.0   1   0   0   1   1   1   0 Mucin-like protein 1 OS=Homo sapiens OX=9606 GN=MUCL1 PE=1 SV=1
+tr|I3L0S6|I3L0S6_HUMAN         -          nup62                -                3.6    8.4   4.6       4.9    7.9   4.6   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 53 homolog OS=Homo sapiens OX=9606 GN=VPS53 PE=1 SV=1
+tr|F8VV13|F8VV13_HUMAN         -          nup62                -                3.6    8.4  19.5         4    8.2  19.5   1.0   1   0   0   1   1   1   0 Mucin-like protein 1 OS=Homo sapiens OX=9606 GN=MUCL1 PE=1 SV=1
+tr|M0R302|M0R302_HUMAN         -          nup62                -                3.7    8.3  48.6        11    6.8  48.6   1.7   1   1   0   1   1   1   0 Nuclear pore glycoprotein p62 (Fragment) OS=Homo sapiens OX=9606 GN=NUP62 PE=1 SV=8
+tr|F5H442|F5H442_HUMAN         -          nup62                -                3.8    8.3   5.6       7.4    7.3   5.6   1.4   1   0   0   1   1   1   0 Tumor susceptibility gene 101 protein OS=Homo sapiens OX=9606 GN=TSG101 PE=1 SV=1
+sp|Q16186|ADRM1_HUMAN          -          nup62                -                4.1    8.2  19.9         7    7.4  19.9   1.3   1   0   0   1   1   1   0 Proteasomal ubiquitin receptor ADRM1 OS=Homo sapiens OX=9606 GN=ADRM1 PE=1 SV=2
+tr|A0A087WX59|A0A087WX59_HUMAN -          nup62                -                4.7    8.0  20.4       8.3    7.2  20.4   1.3   1   0   0   1   1   1   0 Proteasomal ubiquitin receptor ADRM1 OS=Homo sapiens OX=9606 GN=ADRM1 PE=1 SV=1
+tr|C9J720|C9J720_HUMAN         -          nup62                -                  5    7.9   4.4       6.6    7.5   4.4   1.1   1   0   0   1   1   1   0 Cortactin-binding protein 2 (Fragment) OS=Homo sapiens OX=9606 GN=CTTNBP2 PE=1 SV=1
+tr|H0Y3W9|H0Y3W9_HUMAN         -          nup62                -                  5    7.9   7.1       6.6    7.5   7.1   1.2   1   0   0   1   1   1   0 Transcription factor COE3 (Fragment) OS=Homo sapiens OX=9606 GN=EBF3 PE=3 SV=1
+tr|F8WCJ8|F8WCJ8_HUMAN         -          nup62                -                5.3    7.8   6.8       5.8    7.7   6.8   1.0   1   0   0   1   1   1   0 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=4 SV=1
+sp|P53367|ARFP1_HUMAN          -          nup62                -                5.5    7.8   4.0         3    8.7   0.2   2.1   3   0   0   3   3   2   0 Arfaptin-1 OS=Homo sapiens OX=9606 GN=ARFIP1 PE=1 SV=2
+tr|H0YCR0|H0YCR0_HUMAN         -          nup62                -                6.2    7.6  24.6       6.9    7.4  24.6   1.0   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Homo sapiens OX=9606 GN=NUP98 PE=1 SV=1
+sp|Q99816|TS101_HUMAN          -          nup62                -                6.2    7.6   6.2        12    6.7   6.2   1.4   1   0   0   1   1   1   0 Tumor susceptibility gene 101 protein OS=Homo sapiens OX=9606 GN=TSG101 PE=1 SV=2
+tr|F8WC35|F8WC35_HUMAN         -          nup62                -                7.8    7.3  26.6        13    6.5  26.6   1.3   1   1   0   1   1   1   0 Nucleoporin p58/p45 OS=Homo sapiens OX=9606 GN=NUP58 PE=4 SV=1
+tr|D6RB65|D6RB65_HUMAN         -          nup62                -                8.2    7.2  14.8       9.1    7.0  14.8   1.1   1   0   0   1   1   1   0 Nucleoporin p54 OS=Homo sapiens OX=9606 GN=NUP54 PE=4 SV=1
+tr|H0YDI2|H0YDI2_HUMAN         -          nup62                -                8.2    7.2  21.1        11    6.7  21.1   1.3   1   1   0   1   1   1   0 Nuclear pore complex protein Nup214 (Fragment) OS=Homo sapiens OX=9606 GN=NUP214 PE=4 SV=1
+tr|E5RK76|E5RK76_HUMAN         -          nup62                -                8.7    7.1  11.9       9.2    7.0  11.9   1.1   1   0   0   1   1   1   0 Protein CBFA2T1 (Fragment) OS=Homo sapiens OX=9606 GN=RUNX1T1 PE=1 SV=1
+sp|Q8IZ08|GP135_HUMAN          -          nup62                -                8.7    7.1  12.4        13    6.6  12.4   1.1   1   0   0   1   1   1   0 G-protein coupled receptor 135 OS=Homo sapiens OX=9606 GN=GPR135 PE=1 SV=2
+tr|E5RJB3|E5RJB3_HUMAN         -          nup62                -                9.4    7.0  12.0        10    6.9  12.0   1.0   1   0   0   1   1   1   0 Protein CBFA2T1 (Fragment) OS=Homo sapiens OX=9606 GN=RUNX1T1 PE=1 SV=8
+tr|A0A087WWF8|A0A087WWF8_HUMAN -          nup62                -                9.4    7.0   9.6        11    6.8   9.6   1.0   1   0   0   1   1   1   0 Mucin-like protein 1 OS=Homo sapiens OX=9606 GN=MUCL1 PE=1 SV=1
+tr|M0QXQ4|M0QXQ4_HUMAN         -          nup62                -                9.4    7.0   9.9        13    6.6   9.9   1.1   1   0   0   1   1   1   0 Numb-like protein (Fragment) OS=Homo sapiens OX=9606 GN=NUMBL PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:26:26 2022
+# [ok]

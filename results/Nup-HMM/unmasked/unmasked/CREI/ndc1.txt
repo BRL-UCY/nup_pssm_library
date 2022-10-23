@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8IWW0|A8IWW0_CHLRE         -          ndc1                 -            1.7e-23   82.9   4.3   4.7e-19   68.3   3.7   3.4   3   1   0   3   3   3   2 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g197550v5 PE=3 SV=1
+tr|A0A2K3DTE4|A0A2K3DTE4_CHLRE -          ndc1                 -                1.7    7.0  13.2       2.7    6.3  13.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g217905v5 PE=4 SV=1
+tr|A0A2K3DB19|A0A2K3DB19_CHLRE -          ndc1                 -                  2    6.8   6.3       3.3    6.0   6.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g449000v5 PE=4 SV=1
+tr|A0A2K3DQ29|A0A2K3DQ29_CHLRE -          ndc1                 -                2.3    6.6   5.8       3.2    6.1   5.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g287800v5 PE=4 SV=1
+tr|A8HZJ8|A8HZJ8_CHLRE         -          ndc1                 -                2.7    6.3   5.9       5.2    5.4   5.9   1.4   1   0   0   1   1   1   0 SWI/SNF chromatin remodeling complex protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g448700v5 PE=4 SV=1
+tr|A0A2K3DCX5|A0A2K3DCX5_CHLRE -          ndc1                 -                8.8    4.6   7.7        13    4.0   7.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g399900v5 PE=4 SV=1
+tr|A0A2K3DCW0|A0A2K3DCW0_CHLRE -          ndc1                 -                 10    4.5   8.0        13    4.0   8.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g399900v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/ndc1.txt --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:34:02 2022
+# [ok]

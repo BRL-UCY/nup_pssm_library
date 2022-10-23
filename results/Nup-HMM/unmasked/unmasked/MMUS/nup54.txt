@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8BTS4|NUP54_MOUSE          -          nup54                -           1.5e-234  781.1  29.7  1.8e-234  780.9  29.7   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup54 OS=Mus musculus OX=10090 GN=Nup54 PE=1 SV=1
+tr|E0CZC6|E0CZC6_MOUSE         -          nup54                -              0.017   15.5  24.0      0.03   14.7  24.0   1.4   1   0   0   1   1   1   0 Runt-related transcription factor 2 OS=Mus musculus OX=10090 GN=Runx2 PE=1 SV=1
+tr|D3Z5F5|D3Z5F5_MOUSE         -          nup54                -              0.029   14.8  58.5     0.029   14.8  31.2   2.0   1   1   1   2   2   2   0 Nuclear pore complex protein Nup54 (Fragment) OS=Mus musculus OX=10090 GN=Nup54 PE=4 SV=1
+tr|F6UKR5|F6UKR5_MOUSE         -          nup54                -                0.1   12.9  43.7      0.17   12.2  43.7   1.3   1   1   0   1   1   1   0 Nuclear pore complex protein Nup54 (Fragment) OS=Mus musculus OX=10090 GN=Nup54 PE=4 SV=8
+tr|A0A494BAJ1|A0A494BAJ1_MOUSE -          nup54                -               0.63   10.4   3.7      0.72   10.2   3.7   1.0   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain-containing protein 6 OS=Mus musculus OX=10090 GN=Tmco6 PE=1 SV=1
+tr|A0A3B2W7J0|A0A3B2W7J0_MOUSE -          nup54                -                0.8   10.0  11.3         1    9.6  11.3   1.1   1   0   0   1   1   1   0 Predicted gene 5698 OS=Mus musculus OX=10090 GN=Gm5698 PE=4 SV=1
+tr|Q6GTI0|Q6GTI0_MOUSE         -          nup54                -                1.3    9.3  10.1       1.9    8.8  10.1   1.1   1   0   0   1   1   1   0 Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5 OS=Mus musculus OX=10090 GN=St6galnac5 PE=1 SV=1
+tr|B7ZCP3|B7ZCP3_MOUSE         -          nup54                -                2.3    8.5   2.8       3.1    8.1   2.8   1.1   1   0   0   1   1   1   0 Sperm-associated antigen 4 protein (Fragment) OS=Mus musculus OX=10090 GN=Spag4 PE=1 SV=1
+tr|A0A1B0GS62|A0A1B0GS62_MOUSE -          nup54                -                3.7    7.8  49.8       6.4    7.0  49.8   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup98-Nup96 (Fragment) OS=Mus musculus OX=10090 GN=Nup98 PE=1 SV=1
+sp|P31360|PO3F2_MOUSE          -          nup54                -                6.2    7.1  30.9        11    6.3  30.9   1.4   1   0   0   1   1   1   0 POU domain, class 3, transcription factor 2 OS=Mus musculus OX=10090 GN=Pou3f2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUS/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:21:46 2022
+# [ok]

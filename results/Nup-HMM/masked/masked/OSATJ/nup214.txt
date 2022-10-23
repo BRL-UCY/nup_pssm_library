@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q2RAX1|Q2RAX1_ORYSJ         -          nup214               -            5.6e-08   31.7   1.0   2.8e-06   26.1   0.7   2.4   3   0   0   3   3   3   2 Glutamate-rich WD repeat-containing protein 1, putative, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g03990 PE=1 SV=1
+tr|Q2R037|Q2R037_ORYSJ         -          nup214               -            6.1e-08   31.6   0.1   6.1e-05   21.6   0.1   2.0   2   0   0   2   2   2   2 Expressed protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g43890 PE=1 SV=1
+tr|A0A0P0VQD8|A0A0P0VQD8_ORYSJ -          nup214               -            6.9e-08   31.4   0.0   8.2e-08   31.2   0.0   1.0   1   0   0   1   1   1   1 Os02g0785900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0785900 PE=1 SV=1
+tr|A0A0P0VED1|A0A0P0VED1_ORYSJ -          nup214               -            9.3e-05   21.0   1.0    0.0032   16.0   0.4   2.0   2   0   0   2   2   2   2 Os02g0132800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0132800 PE=3 SV=1
+tr|Q33BI7|Q33BI7_ORYSJ         -          nup214               -              0.002   16.6   2.1      0.08   11.3   0.5   2.8   3   0   0   3   3   3   1 Notchless, putative, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os10g01540 PE=1 SV=1
+tr|Q2R1T0|Q2R1T0_ORYSJ         -          nup214               -             0.0026   16.3   0.9      0.06   11.7   0.3   2.7   3   0   0   3   3   3   1 Notchless, putative, expressed OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os11g38170 PE=1 SV=1
+tr|Q651E0|Q651E0_ORYSJ         -          nup214               -              0.005   15.3   0.1     0.019   13.4   0.0   1.7   2   0   0   2   2   2   1 Os09g0540600 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0540600 PE=1 SV=1
+tr|A0A0P0VVM3|A0A0P0VVM3_ORYSJ -          nup214               -             0.0053   15.2   0.0    0.0085   14.5   0.0   1.2   1   0   0   1   1   1   1 Os03g0254700 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0254700 PE=1 SV=1
+sp|Q10NY2|TPR3_ORYSJ           -          nup214               -              0.041   12.3   0.0     0.061   11.7   0.0   1.1   1   0   0   1   1   1   0 Protein TPR3 OS=Oryza sativa subsp. japonica OX=39947 GN=TPR3 PE=1 SV=1
+tr|Q6H4U2|Q6H4U2_ORYSJ         -          nup214               -              0.096   11.1   0.0      0.12   10.7   0.0   1.0   1   0   0   1   1   1   0 Os09g0267500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0267500 PE=1 SV=1
+tr|Q6YTU7|Q6YTU7_ORYSJ         -          nup214               -               0.11   10.9   0.1      0.21   10.0   0.0   1.4   2   0   0   2   2   2   0 Os07g0572000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0572000 PE=1 SV=1
+sp|P49027|GBLPA_ORYSJ          -          nup214               -               0.12   10.7   0.0      0.85    7.9   0.0   1.9   2   0   0   2   2   2   0 Guanine nucleotide-binding protein subunit beta-like protein A OS=Oryza sativa subsp. japonica OX=39947 GN=RACK1A PE=1 SV=1
+tr|Q7FAN9|Q7FAN9_ORYSJ         -          nup214               -               0.12   10.7   0.0      0.17   10.2   0.0   1.0   1   0   0   1   1   1   0 Os04g0678300 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0678300 PE=4 SV=1
+tr|Q65X07|Q65X07_ORYSJ         -          nup214               -               0.38    9.1   0.0      0.64    8.3   0.0   1.2   1   0   0   1   1   1   0 Os05g0519500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0519500 PE=1 SV=1
+sp|Q6L4F8|GBLPB_ORYSJ          -          nup214               -               0.43    8.9   0.0       1.6    7.0   0.1   1.7   2   0   0   2   2   2   0 Guanine nucleotide-binding protein subunit beta-like protein B OS=Oryza sativa subsp. japonica OX=39947 GN=RACK1B PE=1 SV=1
+tr|A0A0P0V0F4|A0A0P0V0F4_ORYSJ -          nup214               -               0.45    8.8   0.0      0.56    8.5   0.0   1.1   1   0   0   1   1   1   0 Os01g0238900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0238900 PE=1 SV=1
+tr|Q0DGP5|Q0DGP5_ORYSJ         -          nup214               -               0.52    8.6   0.0      0.87    7.9   0.0   1.2   1   0   0   1   1   1   0 Os05g0519500 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0519500 PE=1 SV=1
+tr|A0A0P0VSP9|A0A0P0VSP9_ORYSJ -          nup214               -                9.5    4.4   3.2        14    3.9   3.2   1.2   1   0   0   1   1   1   0 Os03g0123300 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0123300 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/OSATJ/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:48 2022
+# [ok]

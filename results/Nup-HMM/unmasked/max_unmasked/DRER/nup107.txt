@@ -1,0 +1,64 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5RGI2|Q5RGI2_DANRE         -          nup107               -                  0 1039.3  19.1         0 1039.0  19.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Danio rerio OX=7955 GN=nup107 PE=1 SV=1
+sp|A5D8S8|HEXIM_DANRE          -          nup107               -               0.19   11.1   1.1      0.28   10.5   1.1   1.2   1   0   0   1   1   1   0 Protein HEXIM OS=Danio rerio OX=7955 GN=hexim PE=2 SV=1
+tr|F1QJG7|F1QJG7_DANRE         -          nup107               -               0.19   11.1   1.1      0.28   10.5   1.1   1.1   1   0   0   1   1   1   0 HEXIM P-TEFb complex subunit 1 OS=Danio rerio OX=7955 GN=hexim1 PE=1 SV=1
+tr|E9QDE1|E9QDE1_DANRE         -          nup107               -               0.19   11.1   5.0      0.32   10.4   5.0   1.4   1   0   0   1   1   1   0 FinTRIM family, member 61 (Fragment) OS=Danio rerio OX=7955 GN=ftr61 PE=4 SV=1
+tr|Q6GQL6|Q6GQL6_DANRE         -          nup107               -               0.48    9.8   0.7       0.7    9.2   0.7   1.2   1   0   0   1   1   1   0 Dynactin 3 (P22) OS=Danio rerio OX=7955 GN=dctn3 PE=1 SV=1
+tr|A0A2R8PZ46|A0A2R8PZ46_DANRE -          nup107               -               0.83    9.0   6.1       1.4    8.3   6.1   1.3   1   0   0   1   1   1   0 Centromere protein K OS=Danio rerio OX=7955 GN=cenpk PE=4 SV=1
+tr|B8JK99|B8JK99_DANRE         -          nup107               -               0.83    9.0   6.1       1.4    8.3   6.1   1.3   1   0   0   1   1   1   0 Centromere protein K OS=Danio rerio OX=7955 GN=cenpk PE=4 SV=1
+tr|E9QJJ9|E9QJJ9_DANRE         -          nup107               -                1.1    8.6   3.4       1.4    8.2   3.4   1.0   1   0   0   1   1   1   0 PHD finger protein 21Ab (Fragment) OS=Danio rerio OX=7955 GN=phf21ab PE=4 SV=1
+tr|U3JB10|U3JB10_DANRE         -          nup107               -                1.3    8.3   0.3       1.6    8.0   0.2   1.3   1   1   0   1   1   1   0 Regulator of microtubule dynamics 3 (Fragment) OS=Danio rerio OX=7955 GN=rmdn3 PE=4 SV=1
+tr|A8WHV8|A8WHV8_DANRE         -          nup107               -                1.8    7.8   5.3       2.4    7.4   5.3   1.1   1   0   0   1   1   1   0 Centromere protein H OS=Danio rerio OX=7955 GN=cenph PE=2 SV=1
+sp|Q803M5|SAAL1_DANRE          -          nup107               -                1.9    7.8   0.1       3.2    7.1   0.1   1.2   1   0   0   1   1   1   0 Protein saal1 OS=Danio rerio OX=7955 GN=saal1 PE=2 SV=2
+tr|A0A0R4IPH7|A0A0R4IPH7_DANRE -          nup107               -                2.1    7.6   0.4       2.8    7.2   0.4   1.1   1   0   0   1   1   1   0 Bromodomain-containing 8 (Fragment) OS=Danio rerio OX=7955 GN=brd8 PE=4 SV=1
+tr|A0A2R8QRV2|A0A2R8QRV2_DANRE -          nup107               -                2.4    7.4   0.2       2.3    7.5   0.2   1.0   1   0   0   1   1   1   0 Si:ch211-59p23.1 OS=Danio rerio OX=7955 GN=si:ch211-59p23.1 PE=1 SV=1
+tr|R4GE71|R4GE71_DANRE         -          nup107               -                2.5    7.4   0.6       6.3    6.1   0.6   1.7   1   0   0   1   1   1   0 Synaptotagmin-like 2b OS=Danio rerio OX=7955 GN=sytl2b PE=4 SV=1
+tr|A0A2R8QGW5|A0A2R8QGW5_DANRE -          nup107               -                2.8    7.2   6.1       3.7    6.8   6.1   1.1   1   0   0   1   1   1   0 Tripartite motif-containing 35-7 OS=Danio rerio OX=7955 GN=trim35-7 PE=4 SV=1
+tr|E7F3Y3|E7F3Y3_DANRE         -          nup107               -                3.2    7.0   8.8       4.7    6.5   7.5   1.7   1   1   0   1   1   1   0 FinTRIM family, member 61 OS=Danio rerio OX=7955 GN=ftr61 PE=4 SV=3
+tr|H0WE74|H0WE74_DANRE         -          nup107               -                3.6    6.9   0.1         4    6.7   0.1   1.1   1   0   0   1   1   1   0 Si:ch211-208g1.1 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-208g1.1 PE=4 SV=1
+tr|A0A2R8QH90|A0A2R8QH90_DANRE -          nup107               -                  4    6.7   1.0        13    5.1   0.2   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=wu:fb16f03 PE=1 SV=1
+tr|E7FE64|E7FE64_DANRE         -          nup107               -                4.4    6.6   0.4       8.3    5.7   0.4   1.4   1   0   0   1   1   1   0 Oxysterol-binding protein OS=Danio rerio OX=7955 GN=osbpl10b PE=3 SV=1
+tr|F8W4M5|F8W4M5_DANRE         -          nup107               -                4.5    6.6   0.0         5    6.4   0.0   1.0   1   0   0   1   1   1   0 Sodium channel, voltage-gated, type III, beta (Fragment) OS=Danio rerio OX=7955 GN=scn3b PE=4 SV=1
+tr|E7F5Y1|E7F5Y1_DANRE         -          nup107               -                4.5    6.6   8.2         7    5.9   8.2   1.4   1   1   0   1   1   1   0 Si:dkey-12j5.1 OS=Danio rerio OX=7955 GN=si:dkey-12j5.1 PE=1 SV=2
+tr|A0A286YAM0|A0A286YAM0_DANRE -          nup107               -                4.5    6.6   0.3       6.7    6.0   0.3   1.2   1   0   0   1   1   1   0 Phosphodiesterase OS=Danio rerio OX=7955 GN=LOC571737 PE=3 SV=1
+tr|B0S722|B0S722_DANRE         -          nup107               -                4.6    6.5   4.3       7.5    5.8   4.3   1.2   1   0   0   1   1   1   0 FinTRIM family, member 4 (Fragment) OS=Danio rerio OX=7955 GN=ftr04 PE=4 SV=1
+tr|E9QEQ0|E9QEQ0_DANRE         -          nup107               -                4.8    6.5   4.6       5.8    6.2   4.6   1.1   1   0   0   1   1   1   0 Syntaxin 2b (Fragment) OS=Danio rerio OX=7955 GN=stx2b PE=4 SV=1
+tr|E9QH38|E9QH38_DANRE         -          nup107               -                4.9    6.4   7.5       8.7    5.6   7.5   1.4   1   1   0   1   1   1   0 Si:dkey-12j5.1 OS=Danio rerio OX=7955 GN=si:dkey-12j5.1 PE=1 SV=1
+tr|F1R991|F1R991_DANRE         -          nup107               -                5.3    6.3  11.1       2.9    7.2   7.5   1.9   1   1   1   2   2   2   0 FinTRIM family, member 60 OS=Danio rerio OX=7955 GN=ftr60 PE=4 SV=2
+tr|A0A2R8Q9Q2|A0A2R8Q9Q2_DANRE -          nup107               -                5.7    6.2   0.1       8.9    5.6   0.1   1.2   1   0   0   1   1   1   0 Protein saal1 OS=Danio rerio OX=7955 GN=saal1 PE=1 SV=1
+tr|X1WCE3|X1WCE3_DANRE         -          nup107               -                7.3    5.8   4.7        10    5.4   4.7   1.2   1   0   0   1   1   1   0 FinTRIM family, member 90 OS=Danio rerio OX=7955 GN=ftr90 PE=4 SV=1
+tr|A0A2R8PVF5|A0A2R8PVF5_DANRE -          nup107               -                7.5    5.8   0.1        10    5.4   0.1   1.2   1   0   0   1   1   1   0 BLOC-1-related complex subunit 5 OS=Danio rerio OX=7955 GN=borcs5 PE=1 SV=1
+tr|Q5XJU4|Q5XJU4_DANRE         -          nup107               -                7.5    5.8   0.2       7.2    5.9   0.2   1.0   1   0   0   1   1   1   0 Troponin I4a OS=Danio rerio OX=7955 GN=tnni4a PE=1 SV=1
+tr|A0A0G2LAJ1|A0A0G2LAJ1_DANRE -          nup107               -                7.8    5.8  12.8      0.78    9.1   7.7   1.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC100006839 PE=4 SV=2
+tr|E9QB54|E9QB54_DANRE         -          nup107               -                8.1    5.7   0.3        11    5.2   0.3   1.2   1   0   0   1   1   1   0 Dynactin 3 (p22) OS=Danio rerio OX=7955 GN=dctn3 PE=1 SV=1
+sp|Q5XIX8|BORC5_DANRE          -          nup107               -                8.2    5.7   0.1        11    5.2   0.1   1.2   1   0   0   1   1   1   0 BLOC-1-related complex subunit 5 OS=Danio rerio OX=7955 GN=borcs5 PE=2 SV=1
+tr|E9QC52|E9QC52_DANRE         -          nup107               -                8.3    5.7   0.0        11    5.3   0.0   1.1   1   0   0   1   1   1   0 NCK adaptor protein 1a (Fragment) OS=Danio rerio OX=7955 GN=nck1a PE=4 SV=2
+tr|F1QKY9|F1QKY9_DANRE         -          nup107               -                8.4    5.6   2.6       8.5    5.6   2.6   1.1   1   0   0   1   1   1   0 Septin-8-B (Fragment) OS=Danio rerio OX=7955 GN=sept8b PE=1 SV=1
+tr|A0A2R8PVI4|A0A2R8PVI4_DANRE -          nup107               -                8.5    5.6   2.4        17    4.6   2.4   1.4   1   0   0   1   1   1   0 MCF.2 cell line-derived-transforming sequence-like 2 OS=Danio rerio OX=7955 GN=mcf2l2 PE=4 SV=1
+tr|A0A0R4IKF0|A0A0R4IKF0_DANRE -          nup107               -                8.7    5.6   2.4        34    3.7   0.1   2.1   1   1   1   2   2   2   0 Apolipoprotein A-Ib OS=Danio rerio OX=7955 GN=apoa1b PE=1 SV=1
+tr|Q5TLE4|Q5TLE4_DANRE         -          nup107               -                8.9    5.6   0.0        13    5.0   0.0   1.1   1   0   0   1   1   1   0 Interleukin 22 OS=Danio rerio OX=7955 GN=il22 PE=1 SV=1
+tr|E9QGM4|E9QGM4_DANRE         -          nup107               -                8.9    5.6   0.1        17    4.6   0.1   1.4   1   0   0   1   1   1   0 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=1
+tr|A0A0R4IAQ8|A0A0R4IAQ8_DANRE -          nup107               -                8.9    5.6   0.1        17    4.6   0.1   1.4   1   0   0   1   1   1   0 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=2
+tr|A0A2R8QHF8|A0A2R8QHF8_DANRE -          nup107               -                  9    5.6   0.1        16    4.7   0.1   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Danio rerio OX=7955 GN=nup93 PE=1 SV=1
+tr|E7F981|E7F981_DANRE         -          nup107               -                  9    5.6   0.1        18    4.6   0.1   1.4   1   0   0   1   1   1   0 Nucleoporin 98 OS=Danio rerio OX=7955 GN=nup98 PE=1 SV=3
+tr|E7FGN0|E7FGN0_DANRE         -          nup107               -                  9    5.6   2.4        18    4.5   2.4   1.4   1   0   0   1   1   1   0 MCF.2 cell line-derived-transforming sequence-like 2 OS=Danio rerio OX=7955 GN=mcf2l2 PE=4 SV=3
+tr|F8W3F6|F8W3F6_DANRE         -          nup107               -                9.1    5.5   0.7        15    4.8   0.7   1.3   1   0   0   1   1   1   0 Chromatin licensing and DNA replication factor 1 (Fragment) OS=Danio rerio OX=7955 GN=cdt1 PE=1 SV=1
+tr|Q1LY82|Q1LY82_DANRE         -          nup107               -                9.2    5.5   0.0        11    5.2   0.0   1.0   1   0   0   1   1   1   0 Si:ch211-208g1.1 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-208g1.1 PE=4 SV=1
+tr|E7F0F1|E7F0F1_DANRE         -          nup107               -                9.4    5.5   4.5        15    4.8   4.5   1.2   1   0   0   1   1   1   0 Beaded filament structural protein 1 OS=Danio rerio OX=7955 PE=1 SV=2
+tr|F1R1G4|F1R1G4_DANRE         -          nup107               -                9.4    5.5   7.9        13    5.1   7.9   1.2   1   0   0   1   1   1   0 Bloodthirsty-related gene family, member 4 (Fragment) OS=Danio rerio OX=7955 GN=btr04 PE=4 SV=2
+tr|A0A2R8Q6U7|A0A2R8Q6U7_DANRE -          nup107               -                9.7    5.4   2.4        19    4.5   2.4   1.4   1   0   0   1   1   1   0 MCF.2 cell line-derived-transforming sequence-like 2 OS=Danio rerio OX=7955 GN=mcf2l2 PE=4 SV=1
+tr|E9QE92|E9QE92_DANRE         -          nup107               -                9.7    5.4   0.8        13    5.0   0.8   1.1   1   0   0   1   1   1   0 Necdin-like 2 (Fragment) OS=Danio rerio OX=7955 GN=ndnl2 PE=4 SV=1
+tr|F1QDM4|F1QDM4_DANRE         -          nup107               -                9.8    5.4   0.3        13    5.0   0.3   1.1   1   0   0   1   1   1   0 Zinc finger, RAN-binding domain-containing 3 (Fragment) OS=Danio rerio OX=7955 GN=zranb3 PE=1 SV=1
+tr|E9QIV6|E9QIV6_DANRE         -          nup107               -                 10    5.4   1.1        12    5.2   1.1   1.0   1   0   0   1   1   1   0 Si:ch211-167j6.3 OS=Danio rerio OX=7955 GN=si:ch211-167j6.3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:30:06 2022
+# [ok]

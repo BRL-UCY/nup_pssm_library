@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3E261|A0A2K3E261_CHLRE -          krh2                 -            4.1e-20   72.0   6.2   5.8e-20   71.5   6.2   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g099650v5 PE=3 SV=1
+tr|A8J110|A8J110_CHLRE         -          krh2                 -               0.68    9.1   2.2       0.9    8.7   2.2   1.2   1   0   0   1   1   1   0 Acyltransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g386912v5 PE=2 SV=1
+tr|A0A2K3D819|A0A2K3D819_CHLRE -          krh2                 -                1.4    8.0   0.1         3    7.0   0.1   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467450v5 PE=4 SV=1
+tr|A8IF06|A8IF06_CHLRE         -          krh2                 -                  3    7.0   0.1       8.8    5.4   0.1   1.8   1   0   0   1   1   1   0 Amino acid permease OS=Chlamydomonas reinhardtii OX=3055 GN=AOT3 PE=4 SV=1
+tr|A8HPU7|A8HPU7_CHLRE         -          krh2                 -                4.5    6.4   2.1       5.6    6.1   1.0   1.8   1   1   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g020500v5 PE=4 SV=1
+tr|A0A2K3DHQ9|A0A2K3DHQ9_CHLRE -          krh2                 -                  6    6.0   0.4         8    5.6   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g376450v5 PE=4 SV=1
+tr|Q9AU05|Q9AU05_CHLRE         -          krh2                 -                6.4    5.9   0.6        13    4.9   0.6   1.5   1   0   0   1   1   1   0 Cytochrome c oxidase subunit II OS=Chlamydomonas reinhardtii OX=3055 GN=cox2a PE=2 SV=1
+tr|A0A2K3DIZ6|A0A2K3DIZ6_CHLRE -          krh2                 -                6.4    5.9   0.0       7.2    5.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g320093v5 PE=3 SV=1
+tr|A0A2K3E5R8|A0A2K3E5R8_CHLRE -          krh2                 -                9.2    5.4   0.9        17    4.5   0.1   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g016200v5 PE=3 SV=1
+tr|A0A2K3CP57|A0A2K3CP57_CHLRE -          krh2                 -                9.9    5.3   2.8   1.4e+02    1.5   1.5   2.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g703800v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 09:42:21 2022
+# [ok]

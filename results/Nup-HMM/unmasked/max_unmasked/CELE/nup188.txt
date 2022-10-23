@@ -1,0 +1,48 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21436|Q21436_CAEEL         -          nup188               -            1.8e-06   25.8   0.7   8.6e-06   23.5   0.1   2.1   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-3 PE=1 SV=1
+tr|I2HAF4|I2HAF4_CAEEL         -          nup188               -               0.21    9.0   3.0       0.3    8.5   3.0   1.1   1   0   0   1   1   1   0 Bypass of Response to Pheromone in yeast OS=Caenorhabditis elegans OX=6239 GN=brp-1 PE=1 SV=1
+tr|G5EFS5|G5EFS5_CAEEL         -          nup188               -                0.5    7.7   0.0       0.7    7.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45D11.15 PE=4 SV=1
+tr|Q9N5T2|Q9N5T2_CAEEL         -          nup188               -               0.51    7.7   0.0      0.71    7.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45D11.14 PE=1 SV=1
+tr|G5EEE6|G5EEE6_CAEEL         -          nup188               -               0.53    7.7   2.6      0.85    7.0   2.6   1.2   1   0   0   1   1   1   0 Kinesin associated protein kap-1 OS=Caenorhabditis elegans OX=6239 GN=kap-1 PE=1 SV=1
+sp|P11141|HSP7F_CAEEL          -          nup188               -               0.79    7.1   1.4         1    6.7   1.4   1.1   1   0   0   1   1   1   0 Heat shock 70 kDa protein F, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=hsp-6 PE=1 SV=2
+tr|A0A060Q600|A0A060Q600_CAEEL -          nup188               -                  1    6.7   1.5       1.2    6.4   1.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F58D2.3 PE=4 SV=1
+tr|A0A0M7RDW8|A0A0M7RDW8_CAEEL -          nup188               -                1.4    6.3   0.3       1.3    6.3   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W10D9.3 PE=1 SV=1
+tr|Q18668|Q18668_CAEEL         -          nup188               -                1.5    6.1   0.6       2.2    5.6   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C47D12.2 PE=1 SV=2
+tr|Q4W529|Q4W529_CAEEL         -          nup188               -                1.7    6.0   0.0       1.9    5.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_D1007.18 PE=4 SV=2
+tr|Q9GYN8|Q9GYN8_CAEEL         -          nup188               -                  2    5.7   0.1       2.9    5.2   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F47G3.3 PE=1 SV=1
+tr|Q22852|Q22852_CAEEL         -          nup188               -                2.7    5.3   2.5         4    4.7   2.5   1.2   1   0   0   1   1   1   0 Protein-tyrosine-phosphatase OS=Caenorhabditis elegans OX=6239 GN=CELE_T28F4.3 PE=1 SV=1
+tr|O01467|O01467_CAEEL         -          nup188               -                3.2    5.0   0.0       5.8    4.2   0.0   1.3   1   0   0   1   1   1   0 USP domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C04E6.5 PE=4 SV=2
+tr|Q400L6|Q400L6_CAEEL         -          nup188               -                3.8    4.8   0.0       4.2    4.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H06H21.11 PE=1 SV=2
+tr|D8FRP4|D8FRP4_CAEEL         -          nup188               -                3.8    4.8   0.0       4.7    4.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y43F8B.25 PE=4 SV=1
+tr|Q21273|Q21273_CAEEL         -          nup188               -                3.9    4.8   0.2       4.3    4.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K07C11.10 PE=1 SV=2
+tr|A0A486WVL2|A0A486WVL2_CAEEL -          nup188               -                4.1    4.7   0.1       4.7    4.5   0.1   1.0   1   0   0   1   1   1   0 Adenosine 3'-phospho 5'-phosphosulfate transporter 1 OS=Caenorhabditis elegans OX=6239 GN=pst-1 PE=4 SV=1
+tr|Q18909|Q18909_CAEEL         -          nup188               -                4.7    4.5   1.4       6.6    4.0   1.4   1.1   1   0   0   1   1   1   0 C/EBP (CCAAT/enhancer-binding protein) homolog OS=Caenorhabditis elegans OX=6239 GN=cebp-1 PE=1 SV=2
+tr|Q93900|Q93900_CAEEL         -          nup188               -                4.9    4.5   0.7       6.9    4.0   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_M163.5 PE=4 SV=2
+tr|O17642|O17642_CAEEL         -          nup188               -                5.2    4.4   0.0       6.2    4.1   0.0   1.0   1   0   0   1   1   1   0 COLlagen OS=Caenorhabditis elegans OX=6239 GN=col-179 PE=1 SV=1
+sp|Q17990|LITE1_CAEEL          -          nup188               -                5.5    4.3   0.5       8.3    3.7   0.5   1.1   1   0   0   1   1   1   0 High-energy light unresponsive protein 1 OS=Caenorhabditis elegans OX=6239 GN=lite-1 PE=1 SV=3
+tr|H2KYR0|H2KYR0_CAEEL         -          nup188               -                5.8    4.2   0.1       7.5    3.8   0.1   1.0   1   0   0   1   1   1   0 Serpentine Receptor, class J OS=Caenorhabditis elegans OX=6239 GN=srj-32 PE=4 SV=1
+tr|G5EF14|G5EF14_CAEEL         -          nup188               -                  6    4.2   0.1       8.5    3.7   0.1   1.1   1   0   0   1   1   1   0 UDP-Glucose Glycoprotein glucosylTransferase OS=Caenorhabditis elegans OX=6239 GN=uggt-2 PE=4 SV=1
+tr|Q4JFI0|Q4JFI0_CAEEL         -          nup188               -                6.3    4.1   0.7       8.6    3.6   0.7   1.1   1   0   0   1   1   1   0 CREB Homolog OS=Caenorhabditis elegans OX=6239 GN=crh-2 PE=1 SV=1
+tr|H2KZP1|H2KZP1_CAEEL         -          nup188               -                6.7    4.0   6.9       7.8    3.8   5.7   1.6   1   1   1   2   2   2   0 Kinesin-Associated Protein OS=Caenorhabditis elegans OX=6239 GN=kap-1 PE=1 SV=1
+tr|Q4JFH9|Q4JFH9_CAEEL         -          nup188               -                  7    3.9   0.7       9.6    3.5   0.7   1.1   1   0   0   1   1   1   0 CREB Homolog OS=Caenorhabditis elegans OX=6239 GN=crh-2 PE=1 SV=3
+tr|Q93513|Q93513_CAEEL         -          nup188               -                  7    3.9   0.2       9.3    3.5   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F15D4.5 PE=1 SV=2
+sp|O62267|SRE30_CAEEL          -          nup188               -                7.2    3.9   0.3        10    3.4   0.3   1.1   1   0   0   1   1   1   0 Serpentine receptor class epsilon-30 OS=Caenorhabditis elegans OX=6239 GN=sre-30 PE=3 SV=1
+sp|Q9TZC4|ILKH_CAEEL           -          nup188               -                7.3    3.9   0.0       9.4    3.5   0.0   1.0   1   0   0   1   1   1   0 Integrin-linked protein kinase homolog pat-4 OS=Caenorhabditis elegans OX=6239 GN=pat-4 PE=1 SV=1
+sp|Q19426|MOGS1_CAEEL          -          nup188               -                7.3    3.9   0.0        10    3.4   0.0   1.0   1   0   0   1   1   1   0 Mannosyl-oligosaccharide glucosidase OS=Caenorhabditis elegans OX=6239 GN=mogs-1 PE=1 SV=2
+sp|P34437|YL57_CAEEL           -          nup188               -                8.3    3.7   2.3        13    3.1   2.3   1.2   1   0   0   1   1   1   0 Putative zinc finger protein F44E2.7 OS=Caenorhabditis elegans OX=6239 GN=F44E2.7 PE=1 SV=2
+tr|Q9U3C4|Q9U3C4_CAEEL         -          nup188               -                8.5    3.7   0.0       8.3    3.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K02E2.6 PE=4 SV=1
+tr|A0A4V0IMA6|A0A4V0IMA6_CAEEL -          nup188               -                8.9    3.6   0.5       9.2    3.5   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H03G16.7 PE=4 SV=1
+tr|Q9N4Z2|Q9N4Z2_CAEEL         -          nup188               -                  9    3.6   0.0        12    3.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y42G9A.1 PE=1 SV=1
+tr|Q21210|Q21210_CAEEL         -          nup188               -                9.4    3.5   2.0        19    2.5   2.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_K04C2.2 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CELE/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:33:25 2022
+# [ok]

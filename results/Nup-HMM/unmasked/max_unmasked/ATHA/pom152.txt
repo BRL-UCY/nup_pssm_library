@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9LZJ7|PRP3_ARATH           -          pom152               -                4.4    6.1   0.0         6    5.7   0.0   1.0   1   0   0   1   1   1   0 Proline-rich protein 3 OS=Arabidopsis thaliana OX=3702 GN=PRP3 PE=2 SV=1
+sp|Q9SZ70|AHL26_ARATH          -          pom152               -                4.6    6.1   0.3       5.4    5.8   0.3   1.0   1   0   0   1   1   1   0 AT-hook motif nuclear-localized protein 26 OS=Arabidopsis thaliana OX=3702 GN=AHL26 PE=2 SV=1
+sp|F4IPE3|IDD15_ARATH          -          pom152               -                5.3    5.9   2.0         7    5.5   2.0   1.2   1   0   0   1   1   1   0 Zinc finger protein SHOOT GRAVITROPISM 5 OS=Arabidopsis thaliana OX=3702 GN=SGR5 PE=1 SV=1
+sp|Q8L710|CRK17_ARATH          -          pom152               -                  7    5.5   0.2       9.6    5.0   0.2   1.1   1   0   0   1   1   1   0 Cysteine-rich receptor-like protein kinase 17 OS=Arabidopsis thaliana OX=3702 GN=CRK17 PE=2 SV=2
+tr|F4IWG2|F4IWG2_ARATH         -          pom152               -                7.6    5.4   0.7        10    5.0   0.7   1.2   1   0   0   1   1   1   0 Hydrolases, acting on ester bond OS=Arabidopsis thaliana OX=3702 GN=At3g27325 PE=4 SV=1
+tr|F4IWG3|F4IWG3_ARATH         -          pom152               -                7.7    5.3   0.8        10    4.9   0.8   1.2   1   0   0   1   1   1   0 Hydrolases, acting on ester bond OS=Arabidopsis thaliana OX=3702 GN=At3g27325 PE=4 SV=1
+sp|Q9LYD9|EMF1_ARATH           -          pom152               -                8.3    5.2   0.3        18    4.1   0.3   1.5   1   0   0   1   1   1   0 Protein EMBRYONIC FLOWER 1 OS=Arabidopsis thaliana OX=3702 GN=EMF1 PE=1 SV=1
+sp|F4I0Z6|NEAP4_ARATH          -          pom152               -                9.1    5.1   0.2       9.4    5.1   0.2   1.0   1   0   0   1   1   1   0 Putative nuclear envelope-associated protein 4 OS=Arabidopsis thaliana OX=3702 GN=NEAP4 PE=5 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:20:32 2022
+# [ok]

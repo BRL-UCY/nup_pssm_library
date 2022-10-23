@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CU26|A0A2K3CU26_CHLRE -          elys                 -              0.015   12.2   0.2      0.07   10.0   0.0   1.8   2   0   0   2   2   2   0 ELYS domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g683437v5 PE=4 SV=1
+tr|A0A2K3DA34|A0A2K3DA34_CHLRE -          elys                 -               0.86    6.4   0.1       2.1    5.1   0.0   1.5   2   0   0   2   2   2   0 Ion_trans domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g434600v5 PE=4 SV=1
+tr|A0A2K3DGM1|A0A2K3DGM1_CHLRE -          elys                 -                4.2    4.1   0.0       9.7    2.9   0.0   1.4   2   0   0   2   2   2   0 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g362650v5 PE=4 SV=1
+tr|A0A2K3DCY3|A0A2K3DCY3_CHLRE -          elys                 -                5.6    3.7   0.0       7.6    3.3   0.0   1.0   1   0   0   1   1   1   0 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g399911v5 PE=3 SV=1
+tr|A8JHR3|A8JHR3_CHLRE         -          elys                 -                7.3    3.3   0.0       9.6    2.9   0.0   1.0   1   0   0   1   1   1   0 THO complex 3 G protein beta subunit OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g559850v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:24:51 2022
+# [ok]

@@ -1,0 +1,30 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23170|Q23170_CAEEL -          nup2l1               -            1.4e-07   32.0   1.3   1.4e-07   32.0   1.3   2.2   2   0   0   2   2   2   1 CCCH-type zinc finger putative transcription factor OS=Caenorhabditis elegans OX=6239 GN=ccch-3 PE=1 SV=1
+tr|H2L0R6|H2L0R6_CAEEL -          nup2l1               -            1.3e-05   25.6  22.9     0.024   14.8   9.0   3.3   2   1   1   3   3   3   3 LEPtoderan male tail OS=Caenorhabditis elegans OX=6239 GN=lep-2 PE=1 SV=1
+tr|Q9N373|Q9N373_CAEEL -          nup2l1               -            2.2e-05   24.8  23.3     0.027   14.6   8.4   3.4   2   1   1   3   3   3   3 LEPtoderan male tail OS=Caenorhabditis elegans OX=6239 GN=lep-2 PE=1 SV=1
+tr|Q22805|Q22805_CAEEL -          nup2l1               -             0.0014   18.8   1.2    0.0014   18.8   1.2   3.3   4   0   0   4   4   4   1 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_T26A8.4 PE=1 SV=1
+sp|Q94131|PIE1_CAEEL   -          nup2l1               -             0.0049   17.1   7.3    0.0049   17.1   7.3   2.2   1   1   1   2   2   2   1 Pharynx and intestine in excess protein 1 OS=Caenorhabditis elegans OX=6239 GN=pie-1 PE=1 SV=1
+tr|Q22412|Q22412_CAEEL -          nup2l1               -             0.0077   16.4   0.2    0.0077   16.4   0.2   1.7   2   0   0   2   2   2   1 RNA Binding Motif protein homolog OS=Caenorhabditis elegans OX=6239 GN=rbm-22 PE=1 SV=2
+tr|Q7YTG9|Q7YTG9_CAEEL -          nup2l1               -               0.05   13.7   0.2      0.05   13.7   0.2   3.2   2   1   1   3   3   3   0 Cleavage and Polyadenylation Specificity Factor OS=Caenorhabditis elegans OX=6239 GN=cpsf-4 PE=1 SV=1
+tr|G3MTX4|G3MTX4_CAEEL -          nup2l1               -               0.08   13.1   0.5     0.093   12.9   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_R10E11.5 PE=1 SV=1
+sp|Q93618|ZC3HF_CAEEL  -          nup2l1               -               0.09   12.9   0.1      0.09   12.9   0.1   2.7   3   0   0   3   3   3   0 Zinc finger CCCH domain-containing protein 15 homolog OS=Caenorhabditis elegans OX=6239 GN=F27D4.4 PE=3 SV=3
+sp|Q95YE2|REGE1_CAEEL  -          nup2l1               -               0.36   10.9  15.7      0.09   12.9   0.4   2.6   2   0   0   2   2   2   0 Endoribonuclease rege-1 OS=Caenorhabditis elegans OX=6239 GN=rege-1 PE=1 SV=5
+tr|G5EF15|G5EF15_CAEEL -          nup2l1               -               0.65   10.1  18.8     0.068   13.3   2.7   3.7   3   1   1   4   4   4   0 Cytoplasmic zinc-finger protein OS=Caenorhabditis elegans OX=6239 GN=pos-1 PE=1 SV=1
+tr|Q9XTW8|Q9XTW8_CAEEL -          nup2l1               -               0.71    9.9  39.0      0.82    9.7  39.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H12D21.6 PE=4 SV=1
+tr|Q9XU56|Q9XU56_CAEEL -          nup2l1               -                0.8    9.8   9.9      0.95    9.5   9.9   1.1   1   0   0   1   1   1   0 ENdoSulfine Alpha OS=Caenorhabditis elegans OX=6239 GN=ensa-1 PE=1 SV=1
+tr|Q9U2V2|Q9U2V2_CAEEL -          nup2l1               -               0.88    9.6  11.8      0.33   11.0   0.5   2.3   1   1   1   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y116A8C.19 PE=4 SV=1
+tr|O45491|O45491_CAEEL -          nup2l1               -               0.88    9.6  12.7       3.6    7.6   2.7   3.0   2   1   2   4   4   4   0 CCCH-type zinc finger putative transcription factor OS=Caenorhabditis elegans OX=6239 GN=ccch-2 PE=4 SV=1
+tr|Q565B5|Q565B5_CAEEL -          nup2l1               -                4.5    7.3  11.3       2.6    8.1   3.9   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C33D9.10 PE=4 SV=1
+tr|Q9U1Y2|Q9U1Y2_CAEEL -          nup2l1               -                5.6    7.0  17.4      0.24   11.5   0.5   3.0   2   1   1   3   3   3   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y60A9.3 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CELE/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:14:40 2022
+# [ok]

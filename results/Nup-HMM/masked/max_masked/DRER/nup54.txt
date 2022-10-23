@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6NYN9|Q6NYN9_DANRE         -          nup54                -            4.8e-59  201.9   0.0     6e-59  201.6   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin 54 OS=Danio rerio OX=7955 GN=nup54 PE=1 SV=1
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          nup54                -            2.2e-36  127.1   0.1   2.6e-36  126.9   0.1   1.0   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|F1QJR9|F1QJR9_DANRE         -          nup54                -                1.1    9.3   0.0       1.5    8.9   0.0   1.1   1   0   0   1   1   1   0 Transcobalamin II (Fragment) OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+tr|F2Z4S7|F2Z4S7_DANRE         -          nup54                -                2.5    8.2   0.0       3.2    7.8   0.0   1.1   1   0   0   1   1   1   0 Transcobalamin II (Fragment) OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+tr|F2Z4S3|F2Z4S3_DANRE         -          nup54                -                3.6    7.6   0.0       5.3    7.1   0.0   1.1   1   0   0   1   1   1   0 Transcobalamin II OS=Danio rerio OX=7955 GN=tcn2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:29:09 2022
+# [ok]

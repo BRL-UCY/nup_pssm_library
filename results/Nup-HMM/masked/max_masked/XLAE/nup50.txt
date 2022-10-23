@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GW32|A0A1L8GW32_XENLA -          nup50                -           3.7e-100  337.4   0.0   6.4e-49  168.3   0.1   2.9   1   1   0   2   2   2   2 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016672mg PE=1 SV=1
+tr|Q6DCU3|Q6DCU3_XENLA         -          nup50                -            6.5e-99  333.3   0.0   6.5e-53  181.5   0.0   2.8   1   1   1   2   2   2   2 LOC503675 protein OS=Xenopus laevis OX=8355 GN=nup50 PE=2 SV=1
+tr|A0A1L8H8R8|A0A1L8H8R8_XENLA -          nup50                -            3.8e-47  162.4  11.3   1.6e-12   48.2   0.0   4.9   5   0   0   5   5   4   4 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015491mg PE=1 SV=1
+tr|A0A1L8HGL2|A0A1L8HGL2_XENLA -          nup50                -            4.5e-44  152.3  11.9   2.6e-11   44.1   0.1   4.9   5   1   0   5   5   5   4 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ranbp2 PE=1 SV=1
+tr|A0A1L8I0R2|A0A1L8I0R2_XENLA -          nup50                -            2.8e-09   37.4   0.0   3.7e-09   37.0   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007714mg PE=1 SV=1
+tr|P79929|P79929_XENLA         -          nup50                -            4.1e-09   36.9   0.0   5.5e-09   36.5   0.0   1.1   1   0   0   1   1   1   1 LOC397932 protein OS=Xenopus laevis OX=8355 GN=ranbp1 PE=1 SV=2
+tr|A0A1L8HQG4|A0A1L8HQG4_XENLA -          nup50                -            1.7e-05   25.0   0.0   2.1e-05   24.6   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010555mg PE=4 SV=1
+tr|O42193|O42193_XENLA         -          nup50                -            1.7e-05   24.9   0.0   2.2e-05   24.5   0.0   1.1   1   0   0   1   1   1   1 MGC64314 protein OS=Xenopus laevis OX=8355 GN=ranbp1 PE=2 SV=1
+tr|A0A1L8HRS8|A0A1L8HRS8_XENLA -          nup50                -             0.0004   20.4   0.1   0.00056   19.9   0.1   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=ranbp3l PE=4 SV=1
+tr|A0A1L8I2I7|A0A1L8I2I7_XENLA -          nup50                -            0.00044   20.3   0.2   0.00063   19.7   0.2   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008362mg PE=4 SV=1
+tr|Q6IP83|Q6IP83_XENLA         -          nup50                -             0.0016   18.4   0.0    0.0022   18.0   0.0   1.1   1   0   0   1   1   1   1 Ran binding protein 3 OS=Xenopus laevis OX=8355 GN=ranbp3 PE=1 SV=1
+tr|A0A1L8HNE0|A0A1L8HNE0_XENLA -          nup50                -               0.11   12.4   0.0      0.16   11.8   0.0   1.1   1   0   0   1   1   1   0 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=ranbp3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:11:41 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IXU0|A0A498IXU0_MALDO -          pom121               -                  6    5.7   0.2       7.1    5.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028647 PE=4 SV=1
+tr|A0A498JAK4|A0A498JAK4_MALDO -          pom121               -                8.8    5.2   0.5       9.4    5.1   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006788 PE=4 SV=1
+tr|A0A498JBC1|A0A498JBC1_MALDO -          pom121               -                9.3    5.1   0.1        10    5.0   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_021100 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:54:58 2022
+# [ok]

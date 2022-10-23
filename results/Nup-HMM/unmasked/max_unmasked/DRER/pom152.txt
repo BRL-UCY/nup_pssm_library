@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0S758|B0S758_DANRE         -          pom152               -              0.045   13.0  45.5      0.32   10.2   1.2  10.4   8   2   1  10  10  10   0 Titin, tandem duplicate 2 (Fragment) OS=Danio rerio OX=7955 GN=ttn.2 PE=4 SV=1
+tr|E7F1W3|E7F1W3_DANRE         -          pom152               -              0.073   12.3   0.4         2    7.6   0.0   2.1   2   0   0   2   2   2   0 Cadherin 26, tandem duplicate 2 (Fragment) OS=Danio rerio OX=7955 GN=cdh26.2 PE=4 SV=2
+tr|A0A0R4IAU1|A0A0R4IAU1_DANRE -          pom152               -               0.15   11.3   0.1      0.22   10.7   0.1   1.1   1   0   0   1   1   1   0 Si:ch211-76m11.8 OS=Danio rerio OX=7955 GN=si:ch211-76m11.8 PE=4 SV=1
+tr|A0A140LGV9|A0A140LGV9_DANRE -          pom152               -                0.4    9.9   1.2      0.58    9.3   0.5   1.6   2   0   0   2   2   2   0 Si:ch211-220f21.3 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-220f21.3 PE=4 SV=1
+tr|R4GEK6|R4GEK6_DANRE         -          pom152               -               0.55    9.4   0.9      0.98    8.6   0.6   1.4   1   1   0   1   1   1   0 Si:ch211-132g1.4 OS=Danio rerio OX=7955 GN=si:ch211-132g1.4 PE=4 SV=2
+tr|A0A140LFS3|A0A140LFS3_DANRE -          pom152               -               0.69    9.1   0.4       1.3    8.1   0.4   1.4   1   0   0   1   1   1   0 Si:ch73-368j24.17 (Fragment) OS=Danio rerio OX=7955 GN=si:ch73-368j24.17 PE=4 SV=1
+tr|A0A2R8QFD2|A0A2R8QFD2_DANRE -          pom152               -                  2    7.5   0.0       3.2    6.8   0.0   1.2   1   0   0   1   1   1   0 Protein tyrosine phosphatase receptor type Fa OS=Danio rerio OX=7955 GN=ptprfa PE=4 SV=1
+tr|A0A2R8RIG6|A0A2R8RIG6_DANRE -          pom152               -                2.1    7.5   0.0       3.3    6.8   0.0   1.2   1   0   0   1   1   1   0 Protein tyrosine phosphatase receptor type Fa OS=Danio rerio OX=7955 GN=ptprfa PE=4 SV=1
+tr|A0A2R8QS03|A0A2R8QS03_DANRE -          pom152               -                2.1    7.5   0.0         3    6.9   0.0   1.1   1   0   0   1   1   1   0 Protein tyrosine phosphatase receptor type Fa OS=Danio rerio OX=7955 GN=ptprfa PE=4 SV=1
+tr|A0A0G2L594|A0A0G2L594_DANRE -          pom152               -                2.5    7.2   0.0       3.7    6.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC103911752 PE=4 SV=1
+sp|Q1LVQ7|ALX1_DANRE           -          pom152               -                2.9    7.0   0.8         4    6.5   0.8   1.1   1   0   0   1   1   1   0 ALX homeobox protein 1 OS=Danio rerio OX=7955 GN=alx1 PE=2 SV=1
+tr|F1Q776|F1Q776_DANRE         -          pom152               -                3.5    6.8   1.0       7.8    5.6   1.0   1.6   1   0   0   1   1   1   0 Si:ch211-165f21.2 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-165f21.2 PE=4 SV=2
+tr|B0S5I7|B0S5I7_DANRE         -          pom152               -                3.7    6.6   1.5       3.5    6.7   1.5   1.2   1   0   0   1   1   1   0 Zgc:113691 OS=Danio rerio OX=7955 GN=zgc:113691 PE=4 SV=1
+tr|F1QF27|F1QF27_DANRE         -          pom152               -                3.7    6.6   1.5       3.5    6.7   1.5   1.2   1   0   0   1   1   1   0 Zgc:113691 OS=Danio rerio OX=7955 GN=zgc:113691 PE=4 SV=1
+tr|R4GDR4|R4GDR4_DANRE         -          pom152               -                3.8    6.6   0.3       5.2    6.2   0.3   1.1   1   0   0   1   1   1   0 ATP-binding cassette, sub-family C (CFTR/MRP), member 3 (Fragment) OS=Danio rerio OX=7955 GN=abcc3 PE=4 SV=8
+tr|A0A0H2UKT5|A0A0H2UKT5_DANRE -          pom152               -                4.2    6.5   0.0       6.9    5.7   0.0   1.2   1   0   0   1   1   1   0 Protein tyrosine phosphatase receptor type Fa OS=Danio rerio OX=7955 GN=ptprfa PE=4 SV=2
+tr|A0A140LH81|A0A140LH81_DANRE -          pom152               -                5.5    6.1   1.6       8.1    5.5   1.6   1.2   1   0   0   1   1   1   0 Coiled-coil domain-containing 160 OS=Danio rerio OX=7955 GN=ccdc160 PE=4 SV=1
+tr|M9MMA9|M9MMA9_DANRE         -          pom152               -                5.7    6.0   1.6        12    4.9   1.6   1.4   1   1   0   1   1   1   0 Si:dkey-10h3.3 (Fragment) OS=Danio rerio OX=7955 GN=si:dkey-10h3.3 PE=4 SV=2
+tr|Q6PBT1|Q6PBT1_DANRE         -          pom152               -                8.4    5.5   0.0       8.6    5.4   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Danio rerio OX=7955 GN=rps27.2 PE=1 SV=1
+tr|F1Q6W2|F1Q6W2_DANRE         -          pom152               -                  9    5.4   0.6        13    4.9   0.6   1.1   1   0   0   1   1   1   0 Discs, large (Drosophila) homolog-associated protein 4a OS=Danio rerio OX=7955 GN=dlgap4a PE=4 SV=2
+tr|A0A0R4IY14|A0A0R4IY14_DANRE -          pom152               -                9.7    5.3   0.0        14    4.8   0.0   1.2   1   0   0   1   1   1   0 Si:dkey-182g1.2 OS=Danio rerio OX=7955 GN=si:dkey-182g1.2 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:31:17 2022
+# [ok]

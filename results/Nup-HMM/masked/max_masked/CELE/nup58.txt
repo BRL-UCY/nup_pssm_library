@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9XWS2|EXOC4_CAEEL          -          nup58                -               0.43    9.5   0.2      0.65    8.9   0.2   1.1   1   0   0   1   1   1   0 Exocyst complex component 4 OS=Caenorhabditis elegans OX=6239 GN=sec-8 PE=2 SV=2
+tr|A3FPK6|A3FPK6_CAEEL         -          nup58                -                2.2    7.2   0.1       3.4    6.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F54F7.9 PE=1 SV=2
+tr|G5EGB3|G5EGB3_CAEEL         -          nup58                -                2.6    6.9   0.0       3.5    6.5   0.0   1.1   1   0   0   1   1   1   0 RAs-related GTP binding protein C homolog OS=Caenorhabditis elegans OX=6239 GN=ragc-1 PE=1 SV=1
+sp|Q23212|FLP03_CAEEL          -          nup58                -                5.3    5.9   1.8       6.6    5.6   1.8   1.2   1   0   0   1   1   1   0 FMRFamide-like neuropeptides 3 OS=Caenorhabditis elegans OX=6239 GN=flp-3 PE=1 SV=1
+tr|Q9XW02|Q9XW02_CAEEL         -          nup58                -                5.4    5.9   0.1       7.7    5.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G11A.4 PE=1 SV=2
+tr|O02267|O02267_CAEEL         -          nup58                -                6.8    5.6   0.5       9.6    5.1   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F45H10.3 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:57:29 2022
+# [ok]

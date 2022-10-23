@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|F4J284|NU93B_ARATH          -          nup93                -            6.2e-60  204.2   1.3   8.6e-27   94.5   0.0   3.7   3   1   0   3   3   3   3 Nuclear pore complex protein NUP93B OS=Arabidopsis thaliana OX=3702 GN=NUP93B PE=1 SV=1
+sp|O22224|NP93A_ARATH          -          nup93                -            1.2e-51  176.8   0.3   1.6e-43  149.9   0.3   3.3   2   1   0   2   2   2   2 Nuclear pore complex protein NUP93A OS=Arabidopsis thaliana OX=3702 GN=NUP93A PE=1 SV=2
+sp|Q84UU9|TPS06_ARATH          -          nup93                -               0.28   10.2   0.0      0.44    9.5   0.0   1.2   1   0   0   1   1   1   0 Dolabella-3,7-dien-18-ol synthase TPS06 OS=Arabidopsis thaliana OX=3702 GN=TPS06 PE=2 SV=2
+sp|Q07099|PP2A1_ARATH          -          nup93                -                1.6    7.6   0.0       2.3    7.2   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase PP2A-1 catalytic subunit OS=Arabidopsis thaliana OX=3702 GN=PP2A1 PE=1 SV=1
+tr|A0A2H1ZED3|A0A2H1ZED3_ARATH -          nup93                -                1.8    7.5   0.0       3.4    6.6   0.0   1.3   1   0   0   1   1   1   0 ABA Overly-Sensitive 5 OS=Arabidopsis thaliana OX=3702 GN=ABO5 PE=4 SV=1
+sp|Q9ZU27|PPR76_ARATH          -          nup93                -                2.2    7.2   0.0       3.4    6.6   0.0   1.1   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At1g51965, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At1g51965 PE=2 SV=1
+sp|Q07098|PP2A2_ARATH          -          nup93                -                  4    6.3   0.0       5.8    5.8   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase PP2A-2 catalytic subunit OS=Arabidopsis thaliana OX=3702 GN=PP2A2 PE=1 SV=1
+sp|A3KPF8|PP131_ARATH          -          nup93                -                4.1    6.3   0.0        31    3.4   0.0   1.9   1   1   0   2   2   2   0 Pentatricopeptide repeat-containing protein At1g79080, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=At1g79080 PE=2 SV=1
+sp|P48528|PPX2_ARATH           -          nup93                -                4.3    6.3   0.0       6.3    5.7   0.0   1.2   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase PP-X isozyme 2 OS=Arabidopsis thaliana OX=3702 GN=PPX2 PE=2 SV=2
+tr|A0A1P8BBG2|A0A1P8BBG2_ARATH -          nup93                -                5.2    6.0   0.0       7.6    5.4   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Arabidopsis thaliana OX=3702 GN=PPX2 PE=3 SV=1
+tr|Q8RWW9|Q8RWW9_ARATH         -          nup93                -                6.3    5.7   0.1       9.8    5.1   0.1   1.2   1   0   0   1   1   1   0 DNA ligase (DUF630 and DUF632) OS=Arabidopsis thaliana OX=3702 GN=At5g25590 PE=2 SV=1
+sp|P48529|PPX1_ARATH           -          nup93                -                7.3    5.5   0.0        11    5.0   0.0   1.2   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase PP-X isozyme 1 OS=Arabidopsis thaliana OX=3702 GN=PPX1 PE=1 SV=1
+sp|Q8VYD6|PP374_ARATH          -          nup93                -                7.8    5.4   0.0        11    4.9   0.0   1.1   1   0   0   1   1   1   0 Pentatricopeptide repeat-containing protein At5g10690 OS=Arabidopsis thaliana OX=3702 GN=CBSPPR1 PE=2 SV=1
+sp|P0C7Q7|PPR38_ARATH          -          nup93                -                9.7    5.1   0.0        16    4.4   0.0   1.2   1   0   0   1   1   1   0 Putative pentatricopeptide repeat-containing protein At1g12700, mitochondrial OS=Arabidopsis thaliana OX=3702 GN=At1g12700 PE=3 SV=1
+sp|O04951|PP2A5_ARATH          -          nup93                -                9.8    5.1   0.0        14    4.6   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase PP2A-5 catalytic subunit OS=Arabidopsis thaliana OX=3702 GN=PP2A5 PE=1 SV=1
+tr|F4HT77|F4HT77_ARATH         -          nup93                -                9.9    5.0   0.0        13    4.6   0.0   1.1   1   0   0   1   1   1   0 Toll-Interleukin-Resistance (TIR) domain family protein OS=Arabidopsis thaliana OX=3702 GN=At1g47370 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:46:56 2022
+# [ok]

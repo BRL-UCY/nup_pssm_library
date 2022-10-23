@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2R8Q7N6|A0A2R8Q7N6_DANRE -          nup53                -            6.1e-82  277.5   0.1   7.3e-81  273.9   0.1   2.4   1   1   0   1   1   1   1 Nucleoporin NUP53 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+sp|Q6P6X9|NUP35_DANRE          -          nup53                -              7e-82  277.3   0.1   8.2e-81  273.8   0.1   2.4   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z3|B0R0Z3_DANRE         -          nup53                -            3.2e-55  189.7   0.6   1.6e-54  187.4   0.6   1.8   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z4|B0R0Z4_DANRE         -          nup53                -            3.6e-51  176.4   0.6   5.2e-50  172.5   0.6   2.4   1   1   0   1   1   1   1 Nucleoporin NUP35 (Fragment) OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|B0R0Z6|B0R0Z6_DANRE         -          nup53                -            5.4e-07   31.2   0.0   3.5e-06   28.5   0.0   1.9   1   1   0   1   1   1   1 Nucleoporin NUP35 OS=Danio rerio OX=7955 GN=nup35 PE=1 SV=1
+tr|A0A0R4IYE4|A0A0R4IYE4_DANRE -          nup53                -            4.6e-05   24.8   0.0      0.11   13.8   0.0   2.1   2   0   0   2   2   2   2 RNA-binding motif protein 26 OS=Danio rerio OX=7955 GN=rbm26 PE=1 SV=1
+tr|A0A2R8QIQ5|A0A2R8QIQ5_DANRE -          nup53                -             0.0013   20.0   0.0     0.002   19.4   0.0   1.2   1   0   0   1   1   1   1 RRM domain-containing protein OS=Danio rerio OX=7955 GN=LOC110438986 PE=4 SV=1
+tr|A0A2R8RHR4|A0A2R8RHR4_DANRE -          nup53                -             0.0035   18.6   0.0    0.0054   18.0   0.0   1.2   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|A0A0R4ISI3|A0A0R4ISI3_DANRE -          nup53                -             0.0035   18.6   0.0    0.0055   18.0   0.0   1.2   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=1
+tr|E7EZB6|E7EZB6_DANRE         -          nup53                -             0.0036   18.6   0.0    0.0055   18.0   0.0   1.2   1   0   0   1   1   1   1 Ecto-NOX disulfide-thiol exchanger 2 OS=Danio rerio OX=7955 GN=enox2 PE=4 SV=3
+tr|A0A2R8QDZ1|A0A2R8QDZ1_DANRE -          nup53                -              0.022   16.0   0.0     0.031   15.5   0.0   1.1   1   0   0   1   1   1   0 RNA-binding motif protein 26 OS=Danio rerio OX=7955 GN=rbm26 PE=1 SV=1
+tr|F1R1E5|F1R1E5_DANRE         -          nup53                -              0.045   15.0   0.0     0.072   14.3   0.0   1.2   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 (Fragment) OS=Danio rerio OX=7955 GN=enox1 PE=4 SV=2
+tr|X1WCA2|X1WCA2_DANRE         -          nup53                -               0.05   14.8   0.0      0.08   14.2   0.0   1.2   1   0   0   1   1   1   0 Ecto-NOX disulfide-thiol exchanger 1 OS=Danio rerio OX=7955 GN=enox1 PE=4 SV=2
+tr|F8W2E8|F8W2E8_DANRE         -          nup53                -               0.44   11.7   0.0        16    6.6   0.0   2.1   2   0   0   2   2   2   0 RNA-binding motif protein 27 OS=Danio rerio OX=7955 GN=rbm27 PE=1 SV=1
+tr|A0A2R8QQM3|A0A2R8QQM3_DANRE -          nup53                -                4.6    8.4   1.7       5.6    8.1   1.7   1.0   1   0   0   1   1   1   0 SoHo domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|Q7SXQ1|Q7SXQ1_DANRE         -          nup53                -                7.6    7.7   0.3        16    6.6   0.1   1.5   2   0   0   2   2   2   0 TIA1 cytotoxic granule-associated RNA-binding protein-like 1 OS=Danio rerio OX=7955 GN=tial1 PE=1 SV=1
+tr|A0A2R8RNW6|A0A2R8RNW6_DANRE -          nup53                -                  8    7.6   0.5        11    7.2   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A2R8QNA6|A0A2R8QNA6_DANRE -          nup53                -                8.4    7.5   0.5        12    7.1   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|E9QJJ0|E9QJJ0_DANRE         -          nup53                -                9.6    7.3   0.3        18    6.5   0.1   1.4   2   0   0   2   2   2   0 TIA1 cytotoxic granule-associated RNA-binding protein-like 1 (Fragment) OS=Danio rerio OX=7955 GN=tial1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:32:49 2022
+# [ok]

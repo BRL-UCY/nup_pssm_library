@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HP61|A0A498HP61_MALDO -          nup75                -           4.8e-147  492.2   2.5  8.1e-147  491.4   2.5   1.4   1   1   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Malus domestica OX=3750 GN=DVH24_012363 PE=3 SV=1
+tr|A0A498JAM4|A0A498JAM4_MALDO -          nup75                -            0.00091   18.8   0.7     0.001   18.6   0.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020840 PE=4 SV=1
+tr|A0A498IM99|A0A498IM99_MALDO -          nup75                -               0.12   11.8   0.0      0.17   11.3   0.0   1.1   1   0   0   1   1   1   0 Brix domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_003600 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:37:24 2022
+# [ok]

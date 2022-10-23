@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F6YDF5|F6YDF5_MACMU         -          nup50                -           6.3e-132  442.3   0.0   5.2e-72  244.5   0.0   2.1   1   1   1   2   2   2   2 Nuclear pore complex protein Nup50 isoform b OS=Macaca mulatta OX=9544 GN=NUP50 PE=2 SV=1
+tr|F7HI99|F7HI99_MACMU         -          nup50                -            4.4e-51  175.4   4.2   2.6e-15   57.3   0.0   4.5   4   1   0   4   4   4   4 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7HGB6|F7HGB6_MACMU         -          nup50                -            5.1e-26   92.7   2.8   1.2e-12   48.6   0.0   2.5   2   1   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|F7GZD7|F7GZD7_MACMU         -          nup50                -            9.4e-26   91.8   3.2   1.4e-12   48.4   0.0   2.5   2   1   0   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=RANBP2 PE=4 SV=2
+tr|A0A1D5Q649|A0A1D5Q649_MACMU -          nup50                -            2.1e-05   24.7   0.0   2.6e-05   24.4   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F7GMJ1|F7GMJ1_MACMU         -          nup50                -            2.1e-05   24.6   0.0   2.6e-05   24.3   0.0   1.1   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=2 SV=2
+tr|A0A1D5RHC9|A0A1D5RHC9_MACMU -          nup50                -            3.9e-05   23.7   0.0     5e-05   23.4   0.0   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|A0A1D5Q231|A0A1D5Q231_MACMU -          nup50                -            0.00023   21.2   0.0   0.00028   20.9   0.0   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP1 PE=4 SV=1
+tr|F7HI88|F7HI88_MACMU         -          nup50                -             0.0017   18.3   0.0    0.0023   17.9   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI87|F7HI87_MACMU         -          nup50                -             0.0017   18.3   0.0    0.0024   17.9   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|F7HI90|F7HI90_MACMU         -          nup50                -              0.002   18.1   0.0    0.0027   17.7   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Macaca mulatta OX=9544 GN=RANBP3 PE=4 SV=2
+tr|A0A1D5QYR4|A0A1D5QYR4_MACMU -          nup50                -                3.9    7.3   0.0       4.3    7.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=PPP4R3B PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUL/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:15:39 2022
+# [ok]

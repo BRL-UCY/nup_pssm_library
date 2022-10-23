@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DD98|A0A2K3DD98_CHLRE -          nup50                -            1.4e-08   33.9   0.0     2e-08   33.4   0.0   1.1   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394450v5 PE=4 SV=1
+tr|A0A2K3CWV4|A0A2K3CWV4_CHLRE -          nup50                -            2.5e-06   26.4   0.3   3.6e-06   25.9   0.3   1.4   1   1   0   1   1   1   1 RanBD1 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g641000v5 PE=4 SV=1
+tr|A0A2K3CWV1|A0A2K3CWV1_CHLRE -          nup50                -            4.6e-06   25.6   0.0   4.6e-06   25.6   0.0   1.5   2   0   0   2   2   2   1 RanBD1 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g641000v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:28:28 2022
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|O65610|O65610_ARATH         -          mug31                -              0.041   14.4   0.5     0.056   14.0   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein AT4g25510 OS=Arabidopsis thaliana OX=3702 GN=M7J2.120 PE=4 SV=1
+tr|Q9SUZ8|Q9SUZ8_ARATH         -          mug31                -               0.13   12.8   1.6      0.21   12.2   1.6   1.3   1   0   0   1   1   1   0 At3g52060 OS=Arabidopsis thaliana OX=3702 GN=F4F15.170 PE=2 SV=1
+tr|F4K2Y3|F4K2Y3_ARATH         -          mug31                -               0.49   10.9   0.1       0.9   10.1   0.1   1.4   1   0   0   1   1   1   0 Alpha/beta-Hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=MAB16.20 PE=1 SV=1
+tr|B3H5J2|B3H5J2_ARATH         -          mug31                -               0.61   10.6   1.3      0.63   10.6   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At1g48953 PE=4 SV=1
+tr|A0A178VJW0|A0A178VJW0_ARATH -          mug31                -               0.85   10.1   1.1       2.3    8.7   1.1   1.7   1   0   0   1   1   1   0 P-loop containing nucleoside triphosphate hydrolases superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At3g16840 PE=4 SV=1
+sp|Q93Y39|RH13_ARATH           -          mug31                -                1.3    9.5   1.1       3.7    8.1   1.1   1.7   1   0   0   1   1   1   0 DEAD-box ATP-dependent RNA helicase 13 OS=Arabidopsis thaliana OX=3702 GN=RH13 PE=2 SV=3
+sp|Q9SV07|ASAT1_ARATH          -          mug31                -                1.3    9.5   0.0       1.3    9.5   0.0   2.2   3   0   0   3   3   2   0 Acyl-CoA--sterol O-acyltransferase 1 OS=Arabidopsis thaliana OX=3702 GN=ASAT1 PE=1 SV=1
+tr|Q9FGX3|Q9FGX3_ARATH         -          mug31                -                  2    9.0   1.6       2.9    8.4   0.8   1.7   1   1   0   1   1   1   0 AT5g49440/K7J8_12 OS=Arabidopsis thaliana OX=3702 GN=At5g49440 PE=2 SV=1
+tr|A0A1P8AXV3|A0A1P8AXV3_ARATH -          mug31                -                2.3    8.8   3.4       3.8    8.0   3.4   1.3   1   0   0   1   1   1   0 Pseudouridine synthase family protein OS=Arabidopsis thaliana OX=3702 GN=SVR1 PE=4 SV=1
+sp|Q8L960|SVR1_ARATH           -          mug31                -                2.5    8.6   3.4       4.1    7.9   3.4   1.3   1   0   0   1   1   1   0 Putative ribosomal large subunit pseudouridine synthase SVR1, chloroplastic OS=Arabidopsis thaliana OX=3702 GN=SVR1 PE=1 SV=1
+tr|B3H7D8|B3H7D8_ARATH         -          mug31                -                  3    8.3   0.0       3.7    8.1   0.0   1.2   1   0   0   1   1   1   0 NAC (No Apical Meristem) domain transcriptional regulator superfamily protein OS=Arabidopsis thaliana OX=3702 GN=At5g18037 PE=4 SV=1
+tr|Q3ECI4|Q3ECI4_ARATH         -          mug31                -                3.8    8.0   1.6       5.2    7.6   1.6   1.1   1   0   0   1   1   1   0 DNA binding / transcription factor OS=Arabidopsis thaliana OX=3702 GN=At1g64800 PE=4 SV=1
+sp|Q9FY89|VP202_ARATH          -          mug31                -                  4    8.0   0.0        11    6.5   0.0   1.7   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 20 homolog 2 OS=Arabidopsis thaliana OX=3702 GN=VPS20.2 PE=1 SV=1
+tr|F4JVU0|F4JVU0_ARATH         -          mug31                -                5.1    7.6   2.9       6.8    7.2   2.9   1.2   1   0   0   1   1   1   0 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12 OS=Arabidopsis thaliana OX=3702 GN=At4g26965 PE=3 SV=1
+sp|P58684|SPCS2_ARATH          -          mug31                -                6.2    7.3   0.5        11    6.5   0.5   1.4   1   0   0   1   1   1   0 Probable signal peptidase complex subunit 2 OS=Arabidopsis thaliana OX=3702 GN=At2g39960 PE=2 SV=1
+sp|F4JSH1|APY7_ARATH           -          mug31                -                7.6    7.0   0.3        17    5.9   0.3   1.5   1   0   0   1   1   1   0 Probable apyrase 7 OS=Arabidopsis thaliana OX=3702 GN=APY7 PE=2 SV=1
+tr|Q8RXY1|Q8RXY1_ARATH         -          mug31                -                  8    7.0   2.9        11    6.5   2.9   1.2   1   0   0   1   1   1   0 NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12 OS=Arabidopsis thaliana OX=3702 GN=At4g26965 PE=2 SV=1
+tr|E9KSP0|E9KSP0_ARATH         -          mug31                -                9.9    6.7   0.7        31    5.1   0.7   1.9   1   0   0   1   1   1   0 Callose synthase 7 OS=Arabidopsis thaliana OX=3702 GN=CalS7 PE=2 SV=1
+tr|Q9LRS6|Q9LRS6_ARATH         -          mug31                -                 10    6.7   0.3        24    5.4   0.3   1.6   1   0   0   1   1   1   0 Nodulin MtN21 /EamA-like transporter family protein OS=Arabidopsis thaliana OX=3702 GN=UMAMIT47 PE=4 SV=1
+sp|Q8GXN6|VP201_ARATH          -          mug31                -                 10    6.7   0.7        21    5.6   0.0   1.8   2   0   0   2   2   2   0 Vacuolar protein sorting-associated protein 20 homolog 1 OS=Arabidopsis thaliana OX=3702 GN=VPS20.1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:18:13 2022
+# [ok]

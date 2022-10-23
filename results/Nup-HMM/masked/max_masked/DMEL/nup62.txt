@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7JXF5|NUP62_DROME          -          nup62                -            1.7e-90  303.9   0.0   1.9e-90  303.8   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore glycoprotein p62 OS=Drosophila melanogaster OX=7227 GN=Nup62 PE=1 SV=1
+tr|Q7KT36|Q7KT36_DROME         -          nup62                -               0.27   10.4   0.1       0.5    9.5   0.1   1.4   1   0   0   1   1   1   0 IP19005p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13083 PE=2 SV=1
+tr|Q9VBQ3|Q9VBQ3_DROME         -          nup62                -                  4    6.5   0.2       5.8    6.0   0.2   1.1   1   0   0   1   1   1   0 FI08017p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG5111 PE=2 SV=1
+tr|D3DMS2|D3DMS2_DROME         -          nup62                -                5.2    6.1   0.1       8.4    5.4   0.1   1.3   1   0   0   1   1   1   0 MIP16660p OS=Drosophila melanogaster OX=7227 GN=CG34041-RA PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup62.txt --max --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:09:12 2022
+# [ok]

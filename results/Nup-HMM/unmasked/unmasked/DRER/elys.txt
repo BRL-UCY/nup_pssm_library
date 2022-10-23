@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WE68|X1WE68_DANRE         -          elys                 -                  0 2253.9 158.6         0 2235.4  93.3   3.5   1   1   1   2   2   2   2 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=1
+tr|A0A286Y877|A0A286Y877_DANRE -          elys                 -                  0 2196.2 159.3         0 2177.4  94.2   3.5   1   1   1   2   2   2   2 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=2
+tr|F1QLJ9|F1QLJ9_DANRE         -          elys                 -               0.19    9.9   0.0       1.6    6.8   0.0   1.9   2   0   0   2   2   2   0 WD repeat domain, phosphoinositide-interacting 2 OS=Danio rerio OX=7955 GN=wipi2 PE=1 SV=1
+sp|B7ZD04|SFR1_DANRE           -          elys                 -               0.23    9.6  16.4      0.24    9.5  16.4   1.0   1   0   0   1   1   1   0 Swi5-dependent recombination DNA repair protein 1 homolog OS=Danio rerio OX=7955 GN=sfr1 PE=2 SV=1
+tr|F1QZL8|F1QZL8_DANRE         -          elys                 -               0.57    8.3  21.2       0.8    7.8  21.2   1.1   1   0   0   1   1   1   0 Metadherin b (Fragment) OS=Danio rerio OX=7955 GN=mtdhb PE=4 SV=1
+tr|A0A2R8QRQ1|A0A2R8QRQ1_DANRE -          elys                 -                0.6    8.2   0.1      0.78    7.8   0.1   1.1   1   0   0   1   1   1   0 Fizzy/cell division cycle 20-related 1b OS=Danio rerio OX=7955 GN=fzr1b PE=4 SV=1
+tr|E9QFP1|E9QFP1_DANRE         -          elys                 -               0.76    7.9  59.8      0.85    7.7  59.8   1.2   1   0   0   1   1   1   0 Si:ch211-209f23.3 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-209f23.3 PE=4 SV=1
+tr|A0A0G2L325|A0A0G2L325_DANRE -          elys                 -                1.1    7.4  38.5       1.3    7.1  38.5   1.1   1   0   0   1   1   1   0 Ribosomal RNA-processing 1 OS=Danio rerio OX=7955 GN=rrp1 PE=1 SV=2
+tr|A0A2R8QNH9|A0A2R8QNH9_DANRE -          elys                 -                1.6    6.8  38.9       1.8    6.7  38.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|B8A4A1|B8A4A1_DANRE         -          elys                 -                  2    6.5  15.3       2.7    6.1  15.3   1.0   1   0   0   1   1   1   0 Nuclear VCP-like OS=Danio rerio OX=7955 GN=nvl PE=1 SV=1
+tr|F1QLY6|F1QLY6_DANRE         -          elys                 -                2.2    6.4  14.0       2.6    6.1  14.0   1.0   1   0   0   1   1   1   0 Zgc:112962 (Fragment) OS=Danio rerio OX=7955 GN=zgc:112962 PE=4 SV=1
+tr|E7EY74|E7EY74_DANRE         -          elys                 -                2.9    6.0  38.9       3.2    5.8  38.9   1.0   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 4 regulatory subunit 2-B OS=Danio rerio OX=7955 GN=ppp4r2b PE=1 SV=1
+tr|E9QBC2|E9QBC2_DANRE         -          elys                 -                3.1    5.9  58.1       3.4    5.7  58.1   1.0   1   0   0   1   1   1   0 Family with sequence similarity 133 member B (Fragment) OS=Danio rerio OX=7955 GN=fam133b PE=4 SV=1
+tr|F8W3K0|F8W3K0_DANRE         -          elys                 -                4.3    5.4  31.9       5.4    5.1  31.9   1.0   1   0   0   1   1   1   0 Si:ch211-214c7.4 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-214c7.4 PE=4 SV=1
+tr|F8W5H0|F8W5H0_DANRE         -          elys                 -                4.8    5.2  20.8       6.4    4.8  20.8   1.1   1   0   0   1   1   1   0 Cyclic nucleotide-gated channel subunit alpha 3a OS=Danio rerio OX=7955 GN=cnga3a PE=4 SV=1
+tr|B3DJ32|B3DJ32_DANRE         -          elys                 -                5.8    4.9  58.0       7.8    4.5  58.0   1.0   1   0   0   1   1   1   0 SPARC-like 1 OS=Danio rerio OX=7955 GN=sparcl1 PE=2 SV=1
+tr|A0A0R4IYJ1|A0A0R4IYJ1_DANRE -          elys                 -                6.6    4.8  85.3       7.6    4.6  85.3   1.0   1   0   0   1   1   1   0 Si:ch211-209f23.7 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-209f23.7 PE=4 SV=1
+tr|F1QFZ5|F1QFZ5_DANRE         -          elys                 -                6.6    4.8  13.3       7.9    4.5  13.3   1.0   1   0   0   1   1   1   0 Zgc:112962 (Fragment) OS=Danio rerio OX=7955 GN=zgc:112962 PE=4 SV=1
+tr|A0A0R4IF59|A0A0R4IF59_DANRE -          elys                 -                7.4    4.6  43.8       9.9    4.2  43.8   1.0   1   0   0   1   1   1   0 Reticulon OS=Danio rerio OX=7955 GN=rtn4b PE=1 SV=1
+tr|A4QNY5|A4QNY5_DANRE         -          elys                 -                7.8    4.5  33.2       7.5    4.6  33.2   1.1   1   0   0   1   1   1   0 Zgc:162339 OS=Danio rerio OX=7955 GN=zgc:162339 PE=2 SV=1
+tr|B0S5N9|B0S5N9_DANRE         -          elys                 -                7.9    4.5  85.8        10    4.2  85.8   1.2   1   0   0   1   1   1   0 Si:ch211-190k17.19 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-190k17.19 PE=4 SV=1
+tr|A0A0R4IIF9|A0A0R4IIF9_DANRE -          elys                 -                8.4    4.4  36.8        10    4.2  36.8   1.0   1   0   0   1   1   1   0 SPARC-like 1 (Fragment) OS=Danio rerio OX=7955 GN=sparcl1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:10 2022
+# [ok]

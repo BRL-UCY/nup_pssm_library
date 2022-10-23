@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X2J6Q6|X2J6Q6_DROME         -          pom152               -             0.0014   16.9   0.3    0.0018   16.5   0.3   1.0   1   0   0   1   1   1   1 Palmitoyltransferase OS=Drosophila melanogaster OX=7227 GN=GABPI PE=3 SV=1
+tr|Q9VQK9|Q9VQK9_DROME         -          pom152               -              0.002   16.4   0.3    0.0025   16.0   0.3   1.1   1   0   0   1   1   1   1 Palmitoyltransferase OS=Drosophila melanogaster OX=7227 GN=GABPI PE=2 SV=2
+tr|Q8IPK2|Q8IPK2_DROME         -          pom152               -               0.54    8.3   0.1      0.89    7.6   0.0   1.3   1   1   0   1   1   1   0 AT02387p OS=Drosophila melanogaster OX=7227 GN=NEST:bs35c08 PE=2 SV=1
+tr|B7Z0D9|B7Z0D9_DROME         -          pom152               -                0.8    7.8   0.1       2.5    6.1   0.0   1.6   2   0   0   2   2   2   0 Down syndrome cell adhesion molecule 4, isoform H OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=1
+tr|Q0E8G9|Q0E8G9_DROME         -          pom152               -               0.83    7.7   0.1       2.5    6.1   0.0   1.6   2   0   0   2   2   2   0 Down syndrome cell adhesion molecule 4, isoform D OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=2
+tr|M9PHS6|M9PHS6_DROME         -          pom152               -               0.83    7.7   0.1       2.6    6.1   0.0   1.7   2   0   0   2   2   2   0 Down syndrome cell adhesion molecule 4, isoform I OS=Drosophila melanogaster OX=7227 GN=Dscam4 PE=4 SV=1
+tr|Q0IGZ2|Q0IGZ2_DROME         -          pom152               -                1.2    7.2   4.7       1.4    7.0   4.7   1.0   1   0   0   1   1   1   0 IP05237p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12912 PE=2 SV=1
+sp|P58956|G39AA_DROME          -          pom152               -                2.6    6.1   3.5       4.7    5.2   3.5   1.3   1   0   0   1   1   1   0 Gustatory and pheromone receptor 39a, isoform B OS=Drosophila melanogaster OX=7227 GN=Gr39a PE=2 SV=1
+tr|A0A0B4K7A6|A0A0B4K7A6_DROME -          pom152               -                2.7    6.0   3.6       3.6    5.6   3.6   1.2   1   0   0   1   1   1   0 Modifier of mdg4, isoform AD OS=Drosophila melanogaster OX=7227 GN=mod(mdg4) PE=1 SV=1
+tr|A0A0B4K6B8|A0A0B4K6B8_DROME -          pom152               -                2.7    6.0   3.8       3.6    5.6   3.8   1.2   1   0   0   1   1   1   0 Modifier of mdg4, isoform AE OS=Drosophila melanogaster OX=7227 GN=mod(mdg4) PE=1 SV=1
+tr|X2JID2|X2JID2_DROME         -          pom152               -                4.8    5.2   0.0       5.9    4.9   0.0   1.1   1   0   0   1   1   1   0 GEO13083p1 OS=Drosophila melanogaster OX=7227 GN=TrxT PE=2 SV=1
+sp|Q8IFW4|THIOT_DROME          -          pom152               -                5.4    5.0   0.0       6.7    4.7   0.0   1.1   1   0   0   1   1   1   0 Thioredoxin-T OS=Drosophila melanogaster OX=7227 GN=TrxT PE=2 SV=1
+sp|Q95V55|FOXO_DROME           -          pom152               -                5.8    4.9   2.9         8    4.4   2.9   1.1   1   0   0   1   1   1   0 Forkhead box protein O OS=Drosophila melanogaster OX=7227 GN=foxo PE=1 SV=1
+tr|A0A126GUT4|A0A126GUT4_DROME -          pom152               -                5.9    4.9   2.9       8.1    4.4   2.9   1.1   1   0   0   1   1   1   0 Forkhead box, sub-group O, isoform H OS=Drosophila melanogaster OX=7227 GN=foxo PE=4 SV=1
+tr|A0A0B4KGN1|A0A0B4KGN1_DROME -          pom152               -                5.9    4.9   2.9       8.2    4.4   2.9   1.1   1   0   0   1   1   1   0 Forkhead box, sub-group O, isoform G OS=Drosophila melanogaster OX=7227 GN=foxo PE=4 SV=1
+tr|Q17Q80|Q17Q80_DROME         -          pom152               -                7.4    4.6   2.7        10    4.1   2.7   1.1   1   0   0   1   1   1   0 Big bang, isoform F OS=Drosophila melanogaster OX=7227 GN=bbg PE=2 SV=1
+tr|Q9VUE7|Q9VUE7_DROME         -          pom152               -                7.9    4.5   2.7        11    4.0   2.7   1.1   1   0   0   1   1   1   0 Big bang, isoform I OS=Drosophila melanogaster OX=7227 GN=bbg PE=2 SV=2
+tr|Q17Q84|Q17Q84_DROME         -          pom152               -                  8    4.5   2.7        11    4.0   2.7   1.1   1   0   0   1   1   1   0 Big bang, isoform E OS=Drosophila melanogaster OX=7227 GN=bbg PE=2 SV=1
+tr|Q8MS92|Q8MS92_DROME         -          pom152               -                  9    4.3   0.1        11    4.0   0.1   1.1   1   0   0   1   1   1   0 GEO09054p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32284 PE=2 SV=1
+sp|Q86B87|MMD4_DROME           -          pom152               -                9.3    4.2   5.0        13    3.7   5.0   1.2   1   0   0   1   1   1   0 Modifier of mdg4 OS=Drosophila melanogaster OX=7227 GN=mod(mdg4) PE=1 SV=1
+tr|A8DY57|A8DY57_DROME         -          pom152               -                9.6    4.2   1.8        11    4.0   1.8   1.0   1   0   0   1   1   1   0 GEO10349p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12824 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:04:46 2022
+# [ok]

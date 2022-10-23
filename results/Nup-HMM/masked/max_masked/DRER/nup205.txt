@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1QJ18|F1QJ18_DANRE         -          nup205               -                  0 2160.0  28.6         0 2157.0  28.6   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          nup205               -                  0 2154.0  30.7         0 2151.1  30.7   1.9   1   1   0   1   1   1   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          nup205               -                  0 2133.8  33.5         0 2106.7  31.2   2.9   1   1   1   2   2   2   2 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          nup205               -                  0 2126.9  36.5         0 2099.9  34.1   2.9   1   1   1   2   2   2   2 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          nup205               -                  0 2116.4  26.9         0 2113.4  26.9   1.9   1   1   0   1   1   1   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          nup205               -                  0 2093.2  31.1         0 2066.7  28.5   2.9   1   1   1   2   2   2   2 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|E7EXJ6|E7EXJ6_DANRE         -          nup205               -            2.3e-07   29.5   4.8     0.013   13.7   0.3   3.2   3   0   0   3   3   3   3 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|A0A286Y9V9|A0A286Y9V9_DANRE -          nup205               -                8.5    4.4   0.4       9.2    4.3   0.4   1.0   1   0   0   1   1   1   0 KIND domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup205.txt --max --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:24:09 2022
+# [ok]

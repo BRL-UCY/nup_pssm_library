@@ -1,0 +1,44 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AI09|A0A509AI09_PLABA -          nup53                -               0.16    9.9   1.7      0.76    7.7   0.0   2.4   3   0   0   3   3   2   0 RNA-binding protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0707400 PE=4 SV=1
+tr|A0A509ATS1|A0A509ATS1_PLABA -          nup53                -               0.67    7.9   0.3      0.93    7.5   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1449500 PE=4 SV=1
+tr|A0A509AH18|A0A509AH18_PLABA -          nup53                -               0.95    7.4   1.1       1.4    6.8   1.1   1.2   1   0   0   1   1   1   0 Fam-a protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0623500 PE=4 SV=1
+tr|A0A509AN58|A0A509AN58_PLABA -          nup53                -                1.6    6.7   7.6       2.3    6.2   7.6   1.3   1   0   0   1   1   1   0 MORN repeat protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1208800 PE=4 SV=1
+tr|A0A509AQ73|A0A509AQ73_PLABA -          nup53                -                2.2    6.2   1.2       2.9    5.8   1.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1343500 PE=4 SV=1
+tr|A0A509AHS4|A0A509AHS4_PLABA -          nup53                -                2.5    6.1   2.6       3.6    5.5   2.6   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0700041 PE=4 SV=1
+tr|A0A509AW52|A0A509AW52_PLABA -          nup53                -                2.5    6.1   2.6       3.6    5.5   2.6   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0001301 PE=4 SV=1
+tr|A0A509AW28|A0A509AW28_PLABA -          nup53                -                  3    5.8   0.0       3.9    5.4   0.0   1.1   1   0   0   1   1   1   0 Bax inhibitor 1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1461400 PE=3 SV=1
+tr|A0A509APR2|A0A509APR2_PLABA -          nup53                -                3.4    5.6   1.5       4.8    5.1   1.5   1.1   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1146721 PE=4 SV=1
+tr|A0A509AJ80|A0A509AJ80_PLABA -          nup53                -                3.6    5.5   5.2       4.8    5.1   5.2   1.1   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0837101 PE=4 SV=1
+tr|A0A509ALZ1|A0A509ALZ1_PLABA -          nup53                -                3.8    5.5   6.5       4.9    5.1   6.5   1.1   1   0   0   1   1   1   0 RNA-binding protein s1, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0917200 PE=4 SV=1
+tr|A0A509AJJ2|A0A509AJJ2_PLABA -          nup53                -                3.8    5.5   5.9       6.7    4.6   5.9   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0908800 PE=4 SV=1
+tr|A0A509AMQ9|A0A509AMQ9_PLABA -          nup53                -                3.9    5.4   3.9       5.2    5.0   3.9   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1200400 PE=4 SV=1
+tr|A0A077XFC2|A0A077XFC2_PLABA -          nup53                -                4.3    5.3   4.3       5.7    4.9   4.3   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1100400 PE=4 SV=1
+tr|A0A509AMW0|A0A509AMW0_PLABA -          nup53                -                4.5    5.2   2.1         6    4.8   2.1   1.1   1   0   0   1   1   1   0 Tryptophan-rich protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1146100 PE=4 SV=1
+tr|A0A509AWW6|A0A509AWW6_PLABA -          nup53                -                4.8    5.1   1.2       6.3    4.7   1.2   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0001201 PE=4 SV=1
+tr|A0A509AI72|A0A509AI72_PLABA -          nup53                -                4.8    5.1   1.2       6.3    4.7   1.2   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0700051 PE=4 SV=1
+tr|A0A509AEG7|A0A509AEG7_PLABA -          nup53                -                  5    5.1   0.6       7.2    4.5   0.6   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0300300 PE=4 SV=1
+tr|A0A509AI99|A0A509AI99_PLABA -          nup53                -                5.2    5.0   1.2       5.8    4.9   1.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0803900 PE=4 SV=1
+tr|A0A509APW1|A0A509APW1_PLABA -          nup53                -                5.9    4.8   1.2        24    2.8   0.0   2.0   2   0   0   2   2   2   0 Transformer-2 protein homolog beta, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1200800 PE=4 SV=1
+tr|A0A509AMD8|A0A509AMD8_PLABA -          nup53                -                6.1    4.8   3.8       8.4    4.3   3.8   1.1   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0700300 PE=4 SV=1
+tr|A0A509AWN5|A0A509AWN5_PLABA -          nup53                -                  8    4.4   0.5        11    3.9   0.5   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1465800 PE=4 SV=1
+tr|A0A509AVJ0|A0A509AVJ0_PLABA -          nup53                -                8.3    4.3   0.4        15    3.5   0.4   1.3   1   0   0   1   1   1   0 Isoleucine--tRNA ligase, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1440000 PE=3 SV=1
+tr|A0A509ARN6|A0A509ARN6_PLABA -          nup53                -                8.6    4.3   2.6        12    3.9   2.6   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1300091 PE=4 SV=1
+tr|A0A509ARF1|A0A509ARF1_PLABA -          nup53                -                8.8    4.3   2.5        17    3.3   2.5   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1423000 PE=4 SV=1
+tr|A0A509ARA0|A0A509ARA0_PLABA -          nup53                -                  9    4.2   2.9        34    2.3   2.9   2.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1023800 PE=4 SV=1
+tr|A0A509AP98|A0A509AP98_PLABA -          nup53                -                9.1    4.2   2.2        13    3.7   2.2   1.1   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1246700 PE=4 SV=1
+tr|A0A509APS5|A0A509APS5_PLABA -          nup53                -                9.1    4.2   4.5        12    3.8   4.5   1.2   1   0   0   1   1   1   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1200300 PE=4 SV=1
+tr|A0A509AT00|A0A509AT00_PLABA -          nup53                -                9.6    4.1  14.7        12    3.9  14.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1457900 PE=3 SV=1
+tr|A0A509AEY1|A0A509AEY1_PLABA -          nup53                -                9.7    4.1   1.0        16    3.4   1.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0405900 PE=4 SV=1
+tr|A0A509AD37|A0A509AD37_PLABA -          nup53                -                9.7    4.1   8.8        13    3.7   8.8   1.1   1   0   0   1   1   1   0 Merozoite surface protein 4/5 OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0304400 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/PBERA/nup53.txt --max --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 10:41:57 2022
+# [ok]

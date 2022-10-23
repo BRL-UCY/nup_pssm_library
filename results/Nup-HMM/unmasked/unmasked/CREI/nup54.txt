@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D6R8|A0A2K3D6R8_CHLRE -          nup54                -              7e-28   97.8   5.8     7e-28   97.8   5.8   3.2   1   1   1   2   2   2   1 Nup54 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g542950v5 PE=4 SV=1
+tr|A0A2K3D123|A0A2K3D123_CHLRE -          nup54                -             0.0038   16.1  40.5    0.0038   16.1  40.5   2.2   3   0   0   3   3   3   1 DUF1421 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g590650v5 PE=4 SV=1
+tr|A0A2K3CXI1|A0A2K3CXI1_CHLRE -          nup54                -             0.0051   15.7  11.2    0.0066   15.4  11.2   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g614650v5 PE=4 SV=1
+tr|A0A2K3E7Q2|A0A2K3E7Q2_CHLRE -          nup54                -              0.016   14.1   7.4     0.033   13.0   7.4   1.4   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g045600v5 PE=4 SV=1
+tr|A0A2K3DQK0|A0A2K3DQK0_CHLRE -          nup54                -              0.026   13.4  27.5     0.038   12.9  27.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g295600v5 PE=3 SV=1
+tr|A0A2K3DS39|A0A2K3DS39_CHLRE -          nup54                -              0.071   12.0   4.0      0.12   11.2   4.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g246550v5 PE=4 SV=1
+tr|A0A2K3D678|A0A2K3D678_CHLRE -          nup54                -              0.072   11.9   6.2      0.11   11.3   6.2   1.2   1   0   0   1   1   1   0 Methyltransf_25 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g550200v5 PE=4 SV=1
+tr|A0A2K3DUI6|A0A2K3DUI6_CHLRE -          nup54                -               0.29    9.9   7.1      0.33    9.7   7.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g224899v5 PE=4 SV=1
+tr|A0A2K3DDK0|A0A2K3DDK0_CHLRE -          nup54                -                0.4    9.5  16.4      0.52    9.1  16.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g390152v5 PE=4 SV=1
+tr|A0A2K3DAW2|A0A2K3DAW2_CHLRE -          nup54                -               0.94    8.2   1.9       1.4    7.7   1.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g446750v5 PE=4 SV=1
+tr|A0A2K3CWM9|A0A2K3CWM9_CHLRE -          nup54                -                  1    8.2   9.8       4.3    6.1   5.0   2.1   1   1   0   2   2   2   0 INTRADIOL_DIOXYGENAS domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g640600v5 PE=3 SV=1
+tr|A0A2K3DR26|A0A2K3DR26_CHLRE -          nup54                -                  1    8.1  14.4       1.3    7.8  14.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g302551v5 PE=4 SV=1
+tr|A0A2K3E5B6|A0A2K3E5B6_CHLRE -          nup54                -                1.6    7.5  56.0       2.6    6.8  56.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g009500v5 PE=4 SV=1
+tr|A0A2K3CPD9|A0A2K3CPD9_CHLRE -          nup54                -                1.9    7.2  10.6       1.7    7.4  10.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g707350v5 PE=4 SV=1
+tr|A0A2K3E3V3|A0A2K3E3V3_CHLRE -          nup54                -                2.1    7.1   6.3       2.5    6.9   6.3   1.0   1   0   0   1   1   1   0 CHCH domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g146700v5 PE=4 SV=1
+tr|A0A2K3E140|A0A2K3E140_CHLRE -          nup54                -                2.3    7.0  30.5       3.2    6.5  30.5   1.1   1   0   0   1   1   1   0 RRM domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g088800v5 PE=4 SV=1
+tr|A0A2K3DBH1|A0A2K3DBH1_CHLRE -          nup54                -                2.7    6.7  25.6       3.5    6.4  25.6   1.1   1   0   0   1   1   1   0 Sulfotransferase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g455231v5 PE=3 SV=1
+tr|A0A2K3DFA9|A0A2K3DFA9_CHLRE -          nup54                -                3.1    6.5  12.4       4.3    6.1  12.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g406550v5 PE=4 SV=1
+tr|A0A2K3DJ62|A0A2K3DJ62_CHLRE -          nup54                -                3.4    6.4  24.1       3.7    6.3  24.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g323326v5 PE=4 SV=1
+tr|A8JAW1|A8JAW1_CHLRE         -          nup54                -                3.6    6.3  10.3       5.1    5.8  10.3   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g604300v5 PE=4 SV=1
+tr|A0A2K3DDA8|A0A2K3DDA8_CHLRE -          nup54                -                3.8    6.3   6.5       6.4    5.5   6.5   1.3   1   0   0   1   1   1   0 AAA domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g393950v5 PE=4 SV=1
+tr|A0A2K3D910|A0A2K3D910_CHLRE -          nup54                -                4.3    6.1   7.1       3.9    6.2   7.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g418976v5 PE=4 SV=1
+tr|A0A2K3CXJ0|A0A2K3CXJ0_CHLRE -          nup54                -                5.2    5.8   6.8       5.1    5.8   6.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g614226v5 PE=4 SV=1
+tr|A8IE32|A8IE32_CHLRE         -          nup54                -                5.4    5.7  11.3        11    4.7  11.3   1.4   1   0   0   1   1   1   0 75 kDa chloroplast membrane translocon OS=Chlamydomonas reinhardtii OX=3055 GN=TOC75 PE=4 SV=1
+tr|A0A2K3DV84|A0A2K3DV84_CHLRE -          nup54                -                6.3    5.5   6.0       8.9    5.0   6.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g145287v5 PE=4 SV=1
+tr|A0A2K3D586|A0A2K3D586_CHLRE -          nup54                -                  8    5.2  17.3        15    4.3  17.3   1.4   1   0   0   1   1   1   0 N-acetyltransferase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g536850v5 PE=4 SV=1
+tr|A0A2K3DWN9|A0A2K3DWN9_CHLRE -          nup54                -                8.9    5.0  28.4        12    4.6  28.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g165150v5 PE=4 SV=1
+tr|A0A2K3DNZ4|A0A2K3DNZ4_CHLRE -          nup54                -                9.2    5.0  20.2        12    4.6  20.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278137v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:33:23 2022
+# [ok]

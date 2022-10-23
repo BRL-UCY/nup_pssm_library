@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13838|NUP40_SCHPO -          nup53                -            5.5e-19   67.4  19.4   1.6e-17   62.6  18.8   2.9   1   1   0   1   1   1   1 Nucleoporin nup40 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup40 PE=1 SV=1
+sp|Q9UTK0|NOB1_SCHPO  -          nup53                -               0.35    8.9   9.0      0.63    8.1   9.0   1.4   1   0   0   1   1   1   0 20S-pre-rRNA D-site endonuclease nob1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nob1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:55 2022
+# [ok]

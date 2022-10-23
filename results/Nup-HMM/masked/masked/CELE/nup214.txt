@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q17602|NU214_CAEEL          -          nup214               -            1.2e-63  215.4   2.2   1.2e-63  215.4   2.2   1.8   3   0   0   3   3   2   1 Nuclear pore complex protein 14 OS=Caenorhabditis elegans OX=6239 GN=npp-14 PE=1 SV=1
+tr|A0A486WV95|A0A486WV95_CAEEL -          nup214               -              2e-08   32.4   0.0   7.8e-08   30.4   0.0   1.7   2   0   0   2   2   2   1 DYnein Chain, light Intermediate OS=Caenorhabditis elegans OX=6239 GN=dyci-1 PE=1 SV=1
+tr|O45087|O45087_CAEEL         -          nup214               -              2e-08   32.3   0.0   7.9e-08   30.4   0.0   1.7   2   0   0   2   2   2   1 DYnein Chain, light Intermediate OS=Caenorhabditis elegans OX=6239 GN=dyci-1 PE=1 SV=1
+tr|G5EDS2|G5EDS2_CAEEL         -          nup214               -            4.2e-07   28.0   0.0   0.00016   19.4   0.0   2.9   3   0   0   3   3   3   2 POD-1 OS=Caenorhabditis elegans OX=6239 GN=pod-1 PE=1 SV=1
+tr|K8FE00|K8FE00_CAEEL         -          nup214               -            4.7e-07   27.8   0.0   0.00017   19.3   0.0   2.9   3   0   0   3   3   3   2 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=pod-1 PE=1 SV=1
+tr|K8F7Z0|K8F7Z0_CAEEL         -          nup214               -            4.9e-07   27.8   0.0   0.00017   19.3   0.0   2.9   3   0   0   3   3   3   2 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=pod-1 PE=1 SV=1
+tr|K8ESK9|K8ESK9_CAEEL         -          nup214               -            5.4e-07   27.6   0.0   0.00018   19.2   0.0   2.9   3   0   0   3   3   3   2 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=pod-1 PE=1 SV=1
+tr|A3QMB3|A3QMB3_CAEEL         -          nup214               -            3.2e-05   21.7   0.0   4.3e-05   21.3   0.0   1.0   1   0   0   1   1   1   1 Related to yeast Vacuolar Protein Sorting factor OS=Caenorhabditis elegans OX=6239 GN=vps-8 PE=1 SV=1
+tr|Q9BL53|Q9BL53_CAEEL         -          nup214               -            4.8e-05   21.2   1.1   6.6e-05   20.7   1.1   1.0   1   0   0   1   1   1   1 TUBby-related OS=Caenorhabditis elegans OX=6239 GN=tub-2 PE=1 SV=2
+sp|U4PCM1|WDR33_CAEEL          -          nup214               -              0.003   15.2   0.1    0.0043   14.7   0.1   1.1   1   0   0   1   1   1   1 pre-mRNA 3' end processing protein pfs-2 OS=Caenorhabditis elegans OX=6239 GN=pfs-2 PE=1 SV=1
+sp|G5ECZ4|DYF2_CAEEL           -          nup214               -              0.014   13.0   0.1      0.02   12.4   0.1   1.1   1   0   0   1   1   1   0 WD repeat-containing protein dyf-2 OS=Caenorhabditis elegans OX=6239 GN=dyf-2 PE=1 SV=1
+tr|G5EGF0|G5EGF0_CAEEL         -          nup214               -              0.035   11.7   0.4     0.096   10.2   0.1   1.7   2   0   0   2   2   2   0 CHE-2 protein OS=Caenorhabditis elegans OX=6239 GN=che-2 PE=2 SV=1
+sp|P90916|LIN53_CAEEL          -          nup214               -              0.086   10.4   0.1       6.3    4.2   0.1   2.6   3   0   0   3   3   3   0 Probable histone-binding protein lin-53 OS=Caenorhabditis elegans OX=6239 GN=lin-53 PE=1 SV=2
+tr|Q9N393|Q9N393_CAEEL         -          nup214               -               0.12    9.9   0.1      0.15    9.6   0.1   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54H5A.1 PE=1 SV=2
+tr|A0A061AD29|A0A061AD29_CAEEL -          nup214               -               0.13    9.8   0.0      0.16    9.5   0.0   1.0   1   0   0   1   1   1   0 Related to yeast Vacuolar Protein Sorting factor OS=Caenorhabditis elegans OX=6239 GN=vps-8 PE=1 SV=1
+tr|A0A168HAJ0|A0A168HAJ0_CAEEL -          nup214               -                0.2    9.1   0.0      0.26    8.8   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=1
+tr|A0A163UTK6|A0A163UTK6_CAEEL -          nup214               -               0.26    8.8   0.0      0.35    8.4   0.0   1.0   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=1
+sp|P42000|UTP18_CAEEL          -          nup214               -               0.28    8.7   0.0       3.7    4.9   0.0   2.0   1   1   0   1   1   1   0 U3 small nucleolar RNA-associated protein 18 homolog OS=Caenorhabditis elegans OX=6239 GN=B0280.9 PE=3 SV=1
+tr|Q9TYV3|Q9TYV3_CAEEL         -          nup214               -                0.4    8.1   2.0       1.6    6.2   0.9   2.0   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W07E6.2 PE=1 SV=1
+sp|P34441|EMB30_CAEEL          -          nup214               -               0.45    8.0   0.1      0.61    7.5   0.1   1.0   1   0   0   1   1   1   0 Abnormal embryogenesis protein 30 OS=Caenorhabditis elegans OX=6239 GN=emb-30 PE=1 SV=4
+tr|Q965W8|Q965W8_CAEEL         -          nup214               -               0.49    7.9   0.0      0.65    7.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y39H10A.6 PE=1 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CELE/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:52 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q10168|NSP1_SCHPO  -          nup62                -            4.5e-73  244.5 167.5   1.6e-72  242.8  46.3   3.7   1   1   2   3   3   3   2 Nucleoporin nsp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nsp1 PE=1 SV=1
+sp|O42963|NUP44_SCHPO -          nup62                -               0.13    9.3  30.8      0.02   12.0  26.7   1.7   2   0   0   2   2   2   0 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+sp|Q9Y7X6|ISH1_SCHPO  -          nup62                -               0.17    8.9  21.0       2.5    5.1  19.4   2.4   2   0   0   2   2   2   0 Stress response protein ish1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ish1 PE=1 SV=1
+sp|O14285|SPC34_SCHPO -          nup62                -                0.7    6.9   6.8      0.49    7.4   4.2   1.8   1   1   1   2   2   2   0 DASH complex subunit spc34 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=spc34 PE=1 SV=1
+sp|O13598|YNI8_SCHPO  -          nup62                -               0.74    6.8   5.7      0.87    6.6   5.7   1.1   1   0   0   1   1   1   0 WW domain-containing protein C11B10.08 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pi003 PE=4 SV=1
+sp|O94426|YHK6_SCHPO  -          nup62                -                4.2    4.3  23.9       6.3    3.8  23.9   1.2   1   0   0   1   1   1   0 WW domain-containing protein C660.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC660.06 PE=4 SV=1
+sp|O14326|PUB3_SCHPO  -          nup62                -                7.2    3.6  32.1        14    2.7  32.1   1.3   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase pub3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pub3 PE=2 SV=1
+sp|O74874|CCR4_SCHPO  -          nup62                -                8.9    3.3  21.1        14    2.6  21.1   1.2   1   0   0   1   1   1   0 CCR4-Not complex 3'-5'-exoribonuclease subunit Ccr4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ccr4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:48 2022
+# [ok]

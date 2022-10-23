@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VDV3|NUP58_DROME          -          nup58                -           1.1e-122  410.2   0.1  2.1e-122  409.3   0.0   1.4   1   1   0   1   1   1   1 Nuclear pore complex protein Nup58 OS=Drosophila melanogaster OX=7227 GN=Nup58 PE=1 SV=1
+tr|Q8IR76|Q8IR76_DROME         -          nup58                -                3.2    6.3   0.0       4.3    5.9   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein, isoform B OS=Drosophila melanogaster OX=7227 GN=Fad1 PE=4 SV=1
+tr|Q9VYI5|Q9VYI5_DROME         -          nup58                -                3.6    6.2   0.0       4.9    5.7   0.0   1.1   1   0   0   1   1   1   0 LD26737p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG4407 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:10:01 2022
+# [ok]

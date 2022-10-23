@@ -1,0 +1,27 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VXE6|NU153_DROME          -          nup153               -                  0 1728.7 231.3         0 1728.7 231.3   2.8   2   1   1   3   3   3   1 Nuclear pore complex protein Nup153 OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=4
+tr|A8JV18|A8JV18_DROME         -          nup153               -                  0 1728.0 229.1         0 1728.0 229.1   2.8   2   1   1   3   3   3   2 Nucleoporin 153kD, isoform D OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=1
+sp|A0A0B4K7J2|RBP2_DROME       -          nup153               -            5.1e-17   61.0  40.1   7.1e-11   40.7  22.0   6.9   4   2   1   6   6   4   2 E3 SUMO-protein ligase RanBP2 OS=Drosophila melanogaster OX=7227 GN=Nup358 PE=1 SV=1
+tr|Q9W215|Q9W215_DROME         -          nup153               -            2.1e-05   22.5   1.6   2.1e-05   22.5   1.6   1.5   1   1   0   1   1   1   1 GEO03726p1 OS=Drosophila melanogaster OX=7227 GN=RYBP PE=2 SV=2
+tr|Q4V5M2|Q4V5M2_DROME         -          nup153               -            7.4e-05   20.7   0.4   7.4e-05   20.7   0.4   2.1   2   0   0   2   2   2   1 IP06990p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG30447 PE=2 SV=1
+sp|Q9V6B9|NUP54_DROME          -          nup153               -              0.043   11.6  87.0     0.053   11.3  87.0   1.0   1   0   0   1   1   1   0 Probable nucleoporin Nup54 OS=Drosophila melanogaster OX=7227 GN=Nup54 PE=2 SV=1
+sp|Q7K0D8|NUP50_DROME          -          nup153               -              0.087   10.6 100.5      0.05   11.3  50.8   2.0   2   0   0   2   2   2   0 Nuclear pore complex protein Nup50 OS=Drosophila melanogaster OX=7227 GN=Nup50 PE=2 SV=1
+tr|O96660|O96660_DROME         -          nup153               -              0.096   10.4  14.8       1.6    6.4   0.0   2.0   2   0   0   2   2   2   0 Mothers against decapentaplegic homolog OS=Drosophila melanogaster OX=7227 GN=Smox PE=1 SV=1
+tr|M9PH94|M9PH94_DROME         -          nup153               -               0.27    8.9   1.0      0.35    8.5   1.0   1.0   1   0   0   1   1   1   0 Cabeza, isoform D OS=Drosophila melanogaster OX=7227 GN=caz PE=4 SV=1
+sp|Q27294|CAZ_DROME            -          nup153               -                0.3    8.8   1.0      0.41    8.3   1.0   1.1   1   0   0   1   1   1   0 RNA-binding protein cabeza OS=Drosophila melanogaster OX=7227 GN=caz PE=2 SV=2
+sp|Q9VDV3|NUP58_DROME          -          nup153               -               0.44    8.2 128.7         5    4.7 128.1   2.0   1   1   0   1   1   1   0 Nuclear pore complex protein Nup58 OS=Drosophila melanogaster OX=7227 GN=Nup58 PE=1 SV=1
+sp|Q9VH90|TRBID_DROME          -          nup153               -               0.76    7.4  35.3       8.1    4.0   7.3   3.1   2   1   0   2   2   2   0 Ubiquitin thioesterase trabid OS=Drosophila melanogaster OX=7227 GN=trbd PE=1 SV=1
+sp|Q7JXF5|NUP62_DROME          -          nup153               -                1.7    6.3  65.3       2.4    5.8  65.3   1.1   1   0   0   1   1   1   0 Nuclear pore glycoprotein p62 OS=Drosophila melanogaster OX=7227 GN=Nup62 PE=1 SV=1
+tr|A1Z8L5|A1Z8L5_DROME         -          nup153               -                3.8    5.1  37.0       4.6    4.8  37.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG30026 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup153.txt --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:17:29 2022
+# [ok]

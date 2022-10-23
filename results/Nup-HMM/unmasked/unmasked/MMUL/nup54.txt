@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F7H507|F7H507_MACMU         -          nup54                -           3.8e-234  779.6  31.8  3.8e-234  779.6  31.8   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|F7H505|F7H505_MACMU         -          nup54                -           9.7e-233  774.9  24.8  1.2e-232  774.6  24.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=2
+tr|A0A1D5QWW6|A0A1D5QWW6_MACMU -          nup54                -           1.2e-232  774.6  26.3  1.4e-232  774.4  26.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|A0A1D5R3P0|A0A1D5R3P0_MACMU -          nup54                -           2.9e-218  727.2  15.8  3.5e-218  726.9  15.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=NUP54 PE=4 SV=1
+tr|F7H6A0|F7H6A0_MACMU         -          nup54                -              0.064   13.4   1.2      0.07   13.2   1.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=2
+tr|A0A1D5QQT0|A0A1D5QQT0_MACMU -          nup54                -                1.2    9.1  22.6       2.1    8.3  22.6   1.3   1   0   0   1   1   1   0 Runt domain-containing protein OS=Macaca mulatta OX=9544 GN=RUNX2 PE=4 SV=1
+tr|H9H2Z0|H9H2Z0_MACMU         -          nup54                -                4.6    7.2  14.1       6.7    6.7  14.1   1.1   1   0   0   1   1   1   0 Nup96 domain-containing protein OS=Macaca mulatta OX=9544 GN=NUP98 PE=4 SV=2
+tr|H9H3D2|H9H3D2_MACMU         -          nup54                -                4.6    7.2  12.7       5.7    6.9  12.7   1.1   1   0   0   1   1   1   0 GATA zinc finger domain-containing protein 1 OS=Macaca mulatta OX=9544 GN=GATAD1 PE=2 SV=1
+tr|F6ZKC9|F6ZKC9_MACMU         -          nup54                -                7.9    6.5  35.0      0.47   10.5  25.1   2.2   2   0   0   2   2   2   0 THAP-type domain-containing protein OS=Macaca mulatta OX=9544 GN=THAP11 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MMUL/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:24:00 2022
+# [ok]

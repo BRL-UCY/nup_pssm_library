@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWS2|NUP35_DROME          -          nup53                -             1e-120  403.8   9.6  1.2e-120  403.6   9.6   1.0   1   0   0   1   1   1   1 Nucleoporin Nup35 OS=Drosophila melanogaster OX=7227 GN=Nup35 PE=1 SV=1
+tr|Q9V9P8|Q9V9P8_DROME         -          nup53                -            2.4e-05   24.7   0.0   2.6e-05   24.5   0.0   1.1   1   0   0   1   1   1   1 LP11549p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG1421 PE=2 SV=1
+tr|Q9VTT2|Q9VTT2_DROME         -          nup53                -                1.9    8.5   7.0      0.15   12.2   1.6   1.7   2   0   0   2   2   2   0 LD20590p OS=Drosophila melanogaster OX=7227 GN=vers PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup53.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup53.txt --cpu 8 hmm_profiles_from_msa/nup53.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:17:19 2022
+# [ok]

@@ -1,0 +1,29 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S0E7|NU120_CHATD  -          nup160               -           1.2e-200  667.8   0.0  3.4e-199  663.0   0.0   2.2   2   1   0   2   2   2   1 Nucleoporin NUP120 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP120 PE=1 SV=1
+tr|G0SE76|G0SE76_CHATD -          nup160               -            1.3e-06   24.9   1.6    0.0041   13.3   0.1   3.3   3   0   0   3   3   3   2 Target of rapamycin complex subunit LST8 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062750 PE=3 SV=1
+sp|G0SC29|NLE1_CHATD   -          nup160               -              1e-05   21.9   0.5     0.074    9.1   0.0   3.1   3   0   0   3   3   3   2 Ribosome assembly protein 4 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0055700 PE=1 SV=2
+tr|G0S3A8|G0S3A8_CHATD -          nup160               -            2.8e-05   20.5   0.5    0.0032   13.7   0.0   2.8   3   0   0   3   3   3   2 Nuclear distribution protein PAC1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=PAC1 PE=3 SV=1
+tr|G0RZL9|G0RZL9_CHATD -          nup160               -            9.5e-05   18.7   3.2      0.16    8.1   0.0   3.8   4   0   0   4   4   4   2 Utp12 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0003430 PE=1 SV=1
+tr|G0S3N3|G0S3N3_CHATD -          nup160               -            0.00012   18.3   0.2     0.018   11.2   0.1   2.4   2   1   0   2   2   2   2 F-box domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0021870 PE=3 SV=1
+tr|G0SB59|G0SB59_CHATD -          nup160               -             0.0033   13.6   0.5      0.25    7.4   0.0   2.9   3   0   0   3   3   3   1 Coatomer subunit alpha OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0049000 PE=4 SV=1
+tr|G0SC84|G0SC84_CHATD -          nup160               -             0.0056   12.8   1.2      0.16    8.1   0.1   2.8   3   1   1   4   4   4   1 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0056300 PE=4 SV=1
+tr|G0SFI7|G0SFI7_CHATD -          nup160               -             0.0075   12.4   0.1     0.017   11.3   0.1   1.5   1   1   1   2   2   2   1 Coronin OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070970 PE=3 SV=1
+tr|G0S6D5|G0S6D5_CHATD -          nup160               -             0.0085   12.3   5.6      0.33    7.0   0.1   2.8   3   1   0   3   3   3   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0034530 PE=4 SV=1
+tr|G0S0F8|G0S0F8_CHATD -          nup160               -              0.016   11.4   0.6     0.022   10.9   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0009870 PE=4 SV=1
+tr|G0SE88|G0SE88_CHATD -          nup160               -              0.032   10.3   0.1     0.044    9.9   0.1   1.1   1   0   0   1   1   1   0 Mitochondrial import receptor subunit-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062880 PE=4 SV=1
+tr|G0S844|G0S844_CHATD -          nup160               -              0.036   10.2   0.0     0.036   10.2   0.0   3.1   5   0   0   5   5   5   0 Anaphase-promoting complex-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0029320 PE=4 SV=1
+tr|G0S7Y9|G0S7Y9_CHATD -          nup160               -               0.04   10.0   2.8       0.3    7.1   0.0   3.3   3   1   2   5   5   5   0 Coatomer subunit beta' OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037490 PE=3 SV=1
+tr|G0S361|G0S361_CHATD -          nup160               -              0.082    9.0   0.0      0.12    8.5   0.0   1.1   1   0   0   1   1   1   0 F-box domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0019790 PE=3 SV=1
+tr|G0SHF2|G0SHF2_CHATD -          nup160               -                1.5    4.8  10.6       4.5    3.2   0.5   3.9   3   2   1   5   5   5   0 F-box domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0069810 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup160.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/CTHE/nup160.txt --cpu 8 hmm_profiles_from_msa/nup160.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:10:24 2022
+# [ok]

@@ -1,0 +1,47 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8H8R8|A0A1L8H8R8_XENLA -          nup358               -                  0 2292.8   7.4         0 1838.8   6.1   3.0   2   1   1   3   3   3   3 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18015491mg PE=1 SV=1
+tr|A0A1L8HGL2|A0A1L8HGL2_XENLA -          nup358               -                  0 2262.8  16.4         0 1420.0   2.4   4.9   2   1   3   5   5   5   5 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ranbp2 PE=1 SV=1
+tr|P79929|P79929_XENLA         -          nup358               -            2.3e-50  172.2   0.0   2.8e-50  171.9   0.0   1.0   1   0   0   1   1   1   1 LOC397932 protein OS=Xenopus laevis OX=8355 GN=ranbp1 PE=1 SV=2
+tr|A0A1L8I0R2|A0A1L8I0R2_XENLA -          nup358               -            3.3e-47  161.7   0.1     4e-47  161.5   0.1   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18007714mg PE=1 SV=1
+tr|O42193|O42193_XENLA         -          nup358               -            4.6e-44  151.3   0.0   5.6e-44  151.0   0.0   1.0   1   0   0   1   1   1   1 MGC64314 protein OS=Xenopus laevis OX=8355 GN=ranbp1 PE=2 SV=1
+tr|A0A1L8HQG4|A0A1L8HQG4_XENLA -          nup358               -            5.7e-44  151.0   0.0   6.9e-44  150.7   0.0   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18010555mg PE=4 SV=1
+tr|A0A1L8FY18|A0A1L8FY18_XENLA -          nup358               -            7.8e-20   70.9  10.7   3.2e-12   45.7   4.3   4.0   1   1   1   3   3   3   3 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18031694mg PE=1 SV=1
+tr|A0A1L8FSD4|A0A1L8FSD4_XENLA -          nup358               -              5e-18   64.9   8.6   1.8e-13   49.8   0.0   2.8   2   1   1   3   3   3   2 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18033482mg PE=4 SV=1
+tr|A0A1L8I2I7|A0A1L8I2I7_XENLA -          nup358               -            1.3e-05   23.8   0.1   1.6e-05   23.4   0.1   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008362mg PE=4 SV=1
+tr|A0A1L8HNE0|A0A1L8HNE0_XENLA -          nup358               -            2.5e-05   22.8   0.0   3.3e-05   22.4   0.0   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=ranbp3 PE=1 SV=1
+tr|Q6IP83|Q6IP83_XENLA         -          nup358               -            3.5e-05   22.3   0.0   4.6e-05   21.9   0.0   1.0   1   0   0   1   1   1   1 Ran binding protein 3 OS=Xenopus laevis OX=8355 GN=ranbp3 PE=1 SV=1
+tr|A0A1L8HRS8|A0A1L8HRS8_XENLA -          nup358               -              4e-05   22.1   0.2     5e-05   21.8   0.2   1.0   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=ranbp3l PE=4 SV=1
+tr|A0A1L8F854|A0A1L8F854_XENLA -          nup358               -               0.03   12.6   0.0     0.039   12.2   0.0   1.0   1   0   0   1   1   1   0 WH1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18039065mg PE=1 SV=1
+tr|A0A1L8FJK7|A0A1L8FJK7_XENLA -          nup358               -               0.39    8.9   0.0      0.52    8.5   0.0   1.1   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18034745mg PE=4 SV=1
+tr|A0A1L8FEW0|A0A1L8FEW0_XENLA -          nup358               -               0.49    8.6   0.0      0.71    8.0   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037036mg PE=4 SV=1
+tr|A0A1L8FEV1|A0A1L8FEV1_XENLA -          nup358               -               0.72    8.0   0.1       1.3    7.1   0.0   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037034mg PE=4 SV=1
+tr|A0A1L8GLS3|A0A1L8GLS3_XENLA -          nup358               -               0.87    7.7   0.5         1    7.5   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18022947mg PE=4 SV=1
+tr|A0A1L8G7X7|A0A1L8G7X7_XENLA -          nup358               -               0.88    7.7   0.3       1.7    6.8   0.3   1.4   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=ttc13 PE=4 SV=1
+tr|A0A1L8G229|A0A1L8G229_XENLA -          nup358               -                1.1    7.3   0.3       1.7    6.8   0.3   1.1   1   0   0   1   1   1   0 TPR_REGION domain-containing protein OS=Xenopus laevis OX=8355 GN=ttc13 PE=4 SV=1
+tr|A0A1L8GFC3|A0A1L8GFC3_XENLA -          nup358               -                1.3    7.1   0.7       1.6    6.9   0.7   1.0   1   0   0   1   1   1   0 Zinc finger Ran-binding domain-containing protein 2 OS=Xenopus laevis OX=8355 GN=zranb2 PE=3 SV=1
+tr|A0A1L8FEV7|A0A1L8FEV7_XENLA -          nup358               -                1.6    6.9   0.1       2.6    6.1   0.0   1.3   2   0   0   2   2   2   0 TPR_REGION domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18037035mg PE=4 SV=1
+tr|A0A1L8EYV6|A0A1L8EYV6_XENLA -          nup358               -                1.8    6.7   0.6       2.4    6.2   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=stub1 PE=1 SV=1
+tr|A0A1L8ER33|A0A1L8ER33_XENLA -          nup358               -                1.8    6.7   0.6       2.5    6.2   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=stub1 PE=4 SV=1
+tr|A0A1L8F3F3|A0A1L8F3F3_XENLA -          nup358               -                1.9    6.6   0.0       2.1    6.5   0.0   1.0   1   0   0   1   1   1   0 WH1 domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18042365mg PE=4 SV=1
+tr|A0A1L8ESF3|A0A1L8ESF3_XENLA -          nup358               -                2.2    6.4   0.1        32    2.5   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cdc27 PE=4 SV=1
+tr|A0A1L8FEV5|A0A1L8FEV5_XENLA -          nup358               -                2.8    6.0   0.0         4    5.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037033mg PE=4 SV=1
+tr|A0A1L8GM07|A0A1L8GM07_XENLA -          nup358               -                  4    5.5   0.6       5.2    5.1   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=lrrc19 PE=4 SV=1
+tr|Q9I8J5|Q9I8J5_XENLA         -          nup358               -                4.7    5.3   0.3       5.9    5.0   0.3   1.0   1   0   0   1   1   1   0 Csrp3-A-prov protein OS=Xenopus laevis OX=8355 GN=csrp3 PE=2 SV=1
+tr|A0A1L8GW32|A0A1L8GW32_XENLA -          nup358               -                4.7    5.3   0.0         6    4.9   0.0   1.1   1   0   0   1   1   1   0 RanBD1 domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016672mg PE=1 SV=1
+tr|A0A1L8GUD0|A0A1L8GUD0_XENLA -          nup358               -                5.1    5.2   0.6       6.3    4.9   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=csrp2 PE=1 SV=1
+tr|A0A1L8EW56|A0A1L8EW56_XENLA -          nup358               -                6.4    4.8   2.5        10    4.2   2.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=ttc21b PE=1 SV=1
+tr|A0A1L8EL99|A0A1L8EL99_XENLA -          nup358               -                7.1    4.7   0.1        80    1.2   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=cdc27 PE=1 SV=1
+tr|A0A1L8H8N6|A0A1L8H8N6_XENLA -          nup358               -                8.8    4.4   0.0       7.9    4.5   0.0   1.0   1   0   0   1   1   1   0 RanBP2-type domain-containing protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_180154801mg PE=4 SV=1
+tr|Q6DCU3|Q6DCU3_XENLA         -          nup358               -                9.8    4.2   0.0        12    4.0   0.0   1.0   1   0   0   1   1   1   0 LOC503675 protein OS=Xenopus laevis OX=8355 GN=nup50 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/nup358.txt --max --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:03:59 2022
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q10LH9|Q10LH9_ORYSJ         -          nup93                -            2.5e-58  199.2   5.9   2.1e-24   87.0   0.0   3.4   3   0   0   3   3   3   3 Nuclear pore protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g22690 PE=1 SV=1
+tr|A0A0P0UZ87|A0A0P0UZ87_ORYSJ -          nup93                -                1.2    8.4   0.0       1.3    8.3   0.0   1.0   1   0   0   1   1   1   0 Os01g0189700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0189700 PE=4 SV=1
+sp|Q8S0J7|IM30_ORYSJ           -          nup93                -                  2    7.7   0.3       2.6    7.3   0.3   1.0   1   0   0   1   1   1   0 Probable membrane-associated 30 kDa protein, chloroplastic OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0895100 PE=1 SV=1
+tr|Q6EPR6|Q6EPR6_ORYSJ         -          nup93                -                2.9    7.1   0.4       4.9    6.4   0.0   1.4   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0284200 PE=1 SV=1
+tr|Q6K9W7|Q6K9W7_ORYSJ         -          nup93                -                3.5    6.9   0.0       5.9    6.1   0.0   1.2   1   0   0   1   1   1   0 Os02g0824000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0824000 PE=4 SV=1
+tr|A0A0P0WGU7|A0A0P0WGU7_ORYSJ -          nup93                -                3.9    6.7   0.0       9.6    5.4   0.0   1.5   2   0   0   2   2   2   0 Os04g0691700 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os04g0691700 PE=4 SV=1
+tr|Q6H5Z3|Q6H5Z3_ORYSJ         -          nup93                -                4.6    6.5   0.1       9.5    5.4   0.0   1.4   2   0   0   2   2   2   0 Os02g0226900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0226900 PE=4 SV=1
+tr|Q5ZA31|Q5ZA31_ORYSJ         -          nup93                -                7.3    5.8   0.1        11    5.3   0.1   1.1   1   0   0   1   1   1   0 Os06g0300800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0300800 PE=1 SV=1
+tr|Q5ZA32|Q5ZA32_ORYSJ         -          nup93                -                8.5    5.6   0.1        12    5.1   0.1   1.1   1   0   0   1   1   1   0 Os06g0300800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os06g0300800 PE=1 SV=1
+tr|A0A0P0X9L7|A0A0P0X9L7_ORYSJ -          nup93                -                 10    5.4   0.0        14    4.8   0.0   1.3   1   0   0   1   1   1   0 Os07g0657200 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0657200 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:08:38 2022
+# [ok]

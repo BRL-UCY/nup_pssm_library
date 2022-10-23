@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8R332|NUP58_MOUSE          -          nup58                -           1.5e-135  453.9   1.8  1.5e-135  453.9   1.8   2.1   2   1   0   2   2   2   1 Nucleoporin p58/p45 OS=Mus musculus OX=10090 GN=Nup58 PE=1 SV=1
+tr|D3Z6R0|D3Z6R0_MOUSE         -          nup58                -                1.1    9.2   0.3       1.4    8.9   0.3   1.2   1   0   0   1   1   1   0 Predicted pseudogene 5478 OS=Mus musculus OX=10090 GN=Gm5478 PE=3 SV=2
+tr|A0A1D5RM04|A0A1D5RM04_MOUSE -          nup58                -                1.4    8.9   0.0       1.7    8.6   0.0   1.0   1   0   0   1   1   1   0 CCR4-NOT transcription complex subunit 1 (Fragment) OS=Mus musculus OX=10090 GN=Cnot1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:49:32 2022
+# [ok]

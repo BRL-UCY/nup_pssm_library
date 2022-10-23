@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8RXH2|NUP85_ARATH  -          nup75                -           3.5e-140  469.4  10.2  8.8e-140  468.1  10.2   1.7   1   1   0   1   1   1   1 Nuclear pore complex protein NUP85 OS=Arabidopsis thaliana OX=3702 GN=NUP85 PE=1 SV=1
+tr|F4J110|F4J110_ARATH -          nup75                -              0.033   13.6   1.8       1.1    8.5   0.2   3.0   3   0   0   3   3   3   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+tr|F4J109|F4J109_ARATH -          nup75                -              0.034   13.5   1.8       1.1    8.5   0.2   3.0   3   0   0   3   3   3   0 Transducin family protein / WD-40 repeat family protein OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+sp|Q8L611|SC31B_ARATH  -          nup75                -              0.034   13.5   1.8       1.1    8.5   0.2   3.0   3   0   0   3   3   3   0 Protein transport protein SEC31 homolog B OS=Arabidopsis thaliana OX=3702 GN=SEC31B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:31 2022
+# [ok]

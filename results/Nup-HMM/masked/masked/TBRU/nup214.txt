@@ -1,0 +1,23 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38DQ1|Q38DQ1_TRYB2 -          nup214               -            2.3e-05   20.5   0.0   3.3e-05   20.1   0.0   1.1   1   0   0   1   1   1   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.2550 PE=4 SV=1
+tr|Q385R8|Q385R8_TRYB2 -          nup214               -            0.00017   17.7   0.2   0.00017   17.7   0.2   1.7   2   1   1   3   3   3   1 Dynein intermediate chain, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.2640 PE=4 SV=1
+tr|Q384K7|Q384K7_TRYB2 -          nup214               -             0.0028   13.6   0.8      0.29    6.9   0.1   2.0   2   0   0   2   2   2   2 Protein transport protein sec13, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.0420 PE=3 SV=1
+tr|Q57Z39|Q57Z39_TRYB2 -          nup214               -             0.0051   12.8   0.0    0.0099   11.8   0.0   1.4   1   1   0   1   1   1   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.4100 PE=4 SV=1
+tr|Q57Z67|Q57Z67_TRYB2 -          nup214               -             0.0089   12.0   0.1     0.014   11.4   0.1   1.2   1   0   0   1   1   1   1 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3260 PE=4 SV=1
+tr|Q57TW3|Q57TW3_TRYB2 -          nup214               -              0.012   11.6   2.7     0.089    8.7   0.3   2.0   2   0   0   2   2   2   0 Cell division cycle protein, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.8.6500 PE=4 SV=1
+tr|Q582R9|Q582R9_TRYB2 -          nup214               -              0.012   11.5   0.0     0.019   10.9   0.0   1.2   1   0   0   1   1   1   0 Actin-interacting protein 1 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=AIP1 PE=4 SV=1
+tr|Q385F2|Q385F2_TRYB2 -          nup214               -              0.037    9.9   0.3     0.057    9.3   0.3   1.1   1   0   0   1   1   1   0 Protein transport protein Sec31, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.02.4040 PE=4 SV=1
+tr|Q57ZX9|Q57ZX9_TRYB2 -          nup214               -               0.19    7.6   0.1      0.35    6.7   0.1   1.3   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.5.3030 PE=4 SV=1
+tr|Q38B65|Q38B65_TRYB2 -          nup214               -                0.2    7.5   1.7       2.5    3.9   0.1   2.0   2   0   0   2   2   2   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.1660 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TBRU/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:44 2022
+# [ok]

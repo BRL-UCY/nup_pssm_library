@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9VWL3|Q9VWL3_DROME         -          nup60                -               0.45    9.7  21.3      0.51    9.5  21.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG7453 PE=1 SV=2
+tr|R9PY30|R9PY30_DROME         -          nup60                -               0.97    8.6   8.1       1.1    8.4   8.1   1.0   1   0   0   1   1   1   0 GEO02658p1 OS=Drosophila melanogaster OX=7227 GN=chr3L_11128040_11128584.0 PE=2 SV=1
+tr|A1Z8L5|A1Z8L5_DROME         -          nup60                -                1.4    8.1  15.1       1.9    7.6  15.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG30026 PE=4 SV=2
+tr|Q9VBY9|Q9VBY9_DROME         -          nup60                -                1.6    7.9  11.3       1.8    7.7  11.3   1.1   1   0   0   1   1   1   0 RE17222p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG31109 PE=2 SV=2
+tr|E1JJI1|E1JJI1_DROME         -          nup60                -                2.1    7.5   1.7       2.8    7.0   1.7   1.2   1   0   0   1   1   1   0 LD47677p1 OS=Drosophila melanogaster OX=7227 GN=c PE=2 SV=1
+tr|Q9V401|Q9V401_DROME         -          nup60                -                2.4    7.3  19.9       2.9    7.0  19.9   1.2   1   0   0   1   1   1   0 RE43371p OS=Drosophila melanogaster OX=7227 GN=EG:96G10.8 PE=2 SV=1
+tr|A1Z9H7|A1Z9H7_DROME         -          nup60                -                  3    7.0   3.6       3.5    6.7   3.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13339 PE=4 SV=1
+tr|Q9VY38|Q9VY38_DROME         -          nup60                -                3.1    6.9   4.0       4.2    6.5   4.0   1.1   1   0   0   1   1   1   0 Transcription factor BTF3 OS=Drosophila melanogaster OX=7227 GN=betaNACtes2 PE=3 SV=1
+sp|P20232|TFS2_DROME           -          nup60                -                3.3    6.8  12.7       4.7    6.3  12.7   1.2   1   0   0   1   1   1   0 Transcription elongation factor S-II OS=Drosophila melanogaster OX=7227 GN=TfIIS PE=2 SV=1
+tr|M9PFV9|M9PFV9_DROME         -          nup60                -                3.3    6.8  12.7       4.7    6.3  12.7   1.2   1   0   0   1   1   1   0 RNA polymerase II elongation factor, isoform B OS=Drosophila melanogaster OX=7227 GN=TfIIS PE=4 SV=1
+sp|P05205|HP1_DROME            -          nup60                -                4.7    6.3  11.6       5.7    6.1  11.6   1.2   1   0   0   1   1   1   0 Heterochromatin protein 1 OS=Drosophila melanogaster OX=7227 GN=Su(var)205 PE=1 SV=2
+tr|Q9VHL0|Q9VHL0_DROME         -          nup60                -                4.9    6.3   2.9       6.8    5.8   2.9   1.1   1   0   0   1   1   1   0 Hinge2 OS=Drosophila melanogaster OX=7227 GN=hng2 PE=2 SV=1
+tr|Q9VWK9|Q9VWK9_DROME         -          nup60                -                  5    6.3   8.3       6.2    5.9   8.3   1.1   1   0   0   1   1   1   0 Heterochromatin protein 1D3 chromoshadow domain OS=Drosophila melanogaster OX=7227 GN=HP1D3csd PE=2 SV=1
+sp|Q9VE11|U488_DROME           -          nup60                -                5.6    6.1   6.6       6.9    5.8   6.6   1.1   1   0   0   1   1   1   0 UPF0488 protein CG14286 OS=Drosophila melanogaster OX=7227 GN=CG14286 PE=2 SV=1
+tr|Q8IQE7|Q8IQE7_DROME         -          nup60                -                5.7    6.1   8.8       6.7    5.8   8.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG32074 PE=4 SV=1
+tr|Q9VYX0|Q9VYX0_DROME         -          nup60                -                5.8    6.0   1.7       8.4    5.5   1.7   1.2   1   0   0   1   1   1   0 GH18834p OS=Drosophila melanogaster OX=7227 GN=c PE=2 SV=1
+tr|M9NHC5|M9NHC5_DROME         -          nup60                -                6.1    6.0   2.9         6    6.0   2.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=dHspB8 PE=1 SV=1
+tr|Q7K3Z3|Q7K3Z3_DROME         -          nup60                -                6.4    5.9   4.9       9.9    5.3   4.9   1.2   1   0   0   1   1   1   0 GH01724p OS=Drosophila melanogaster OX=7227 GN=p47 PE=1 SV=1
+tr|Q8IP71|Q8IP71_DROME         -          nup60                -                6.4    5.9  13.8       8.3    5.5  13.8   1.2   1   0   0   1   1   1   0 Inhibitor of growth protein OS=Drosophila melanogaster OX=7227 GN=Ing5 PE=2 SV=1
+tr|A0A0B4KHX8|A0A0B4KHX8_DROME -          nup60                -                6.6    5.8   2.8       9.8    5.3   2.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein, isoform C OS=Drosophila melanogaster OX=7227 GN=CG14557 PE=4 SV=1
+tr|Q0IGZ2|Q0IGZ2_DROME         -          nup60                -                7.5    5.7   3.3       7.7    5.6   3.3   1.2   1   0   0   1   1   1   0 IP05237p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG12912 PE=2 SV=1
+tr|Q8IQ05|Q8IQ05_DROME         -          nup60                -                8.6    5.5   4.0        14    4.7   4.0   1.2   1   0   0   1   1   1   0 Cutlet OS=Drosophila melanogaster OX=7227 GN=cutlet PE=1 SV=2
+tr|Q9VBW0|Q9VBW0_DROME         -          nup60                -                9.5    5.3   0.8        13    4.9   0.8   1.2   1   0   0   1   1   1   0 SAYSvFN domain-containing protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13663 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DMEL/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:03:04 2022
+# [ok]

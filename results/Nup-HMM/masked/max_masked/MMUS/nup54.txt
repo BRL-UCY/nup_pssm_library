@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8BTS4|NUP54_MOUSE          -          nup54                -           1.6e-165  553.4   0.0    2e-165  553.1   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup54 OS=Mus musculus OX=10090 GN=Nup54 PE=1 SV=1
+sp|P58686|CI016_MOUSE          -          nup54                -                1.8    8.9   0.1       2.2    8.5   0.1   1.0   1   0   0   1   1   1   0 UPF0184 protein C9orf16 homolog OS=Mus musculus OX=10090 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:51:30 2022
+# [ok]

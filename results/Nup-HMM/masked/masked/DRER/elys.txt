@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|X1WE68|X1WE68_DANRE         -          elys                 -                  0 1963.7   9.7         0 1963.7   9.7   2.4   3   0   0   3   3   3   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=1
+tr|A0A286Y877|A0A286Y877_DANRE -          elys                 -                  0 1899.4  11.7         0 1899.4  11.7   2.4   3   0   0   3   3   3   1 AT hook-containing transcription factor 1 OS=Danio rerio OX=7955 GN=ahctf1 PE=1 SV=2
+tr|A0A2R8QRQ1|A0A2R8QRQ1_DANRE -          elys                 -               0.62    8.2   0.1      0.78    7.8   0.1   1.0   1   0   0   1   1   1   0 Fizzy/cell division cycle 20-related 1b OS=Danio rerio OX=7955 GN=fzr1b PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DRER/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:17 2022
+# [ok]

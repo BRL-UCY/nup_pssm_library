@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0P0VG25|A0A0P0VG25_ORYSJ -          nup205               -           5.4e-244  814.2  34.0  3.3e-242  808.3  33.8   2.1   1   1   0   1   1   1   1 Os02g0202250 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0202250 PE=1 SV=1
+tr|Q0E2Z5|Q0E2Z5_ORYSJ         -          nup205               -            1.4e-81  275.7   0.3   1.8e-81  275.3   0.3   1.0   1   0   0   1   1   1   1 Os02g0202300 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0202300 PE=1 SV=1
+tr|A0A0P0XSU3|A0A0P0XSU3_ORYSJ -          nup205               -             0.0017   16.7   0.0     0.002   16.5   0.0   1.0   1   0   0   1   1   1   1 Os10g0154566 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os10g0154566 PE=1 SV=1
+tr|B7F8W3|B7F8W3_ORYSJ         -          nup205               -               0.43    8.7   0.0      0.59    8.3   0.0   1.1   1   0   0   1   1   1   0 Os05g0586900 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os05g0586900 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup205.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup205.txt --cpu 8 hmm_profiles_from_msa/nup205.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:08 2022
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74424|NU211_SCHPO -          mtor                 -            1.5e-50  169.7  35.6   1.6e-34  116.5  18.5   3.7   4   0   0   4   4   4   3 Nucleoporin nup211 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup211 PE=1 SV=1
+sp|Q9UTK5|ALM1_SCHPO  -          mtor                 -            2.9e-18   62.6  22.0   2.9e-18   62.6  22.0   2.4   2   1   0   2   2   2   1 Nucleoporin alm1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alm1 PE=1 SV=1
+sp|Q9Y7S2|YQO3_SCHPO  -          mtor                 -            3.8e-06   22.4   0.1     5e-06   22.1   0.1   1.0   1   0   0   1   1   1   1 UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+sp|O74338|BLT1_SCHPO  -          mtor                 -              0.028    9.6   6.1     0.046    8.9   6.1   1.2   1   0   0   1   1   1   0 Mitosis inducer protein blt1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=blt1 PE=1 SV=1
+sp|O74757|HRD1_SCHPO  -          mtor                 -               0.77    4.8   0.3         1    4.5   0.3   1.0   1   0   0   1   1   1   0 ERAD-associated E3 ubiquitin-protein ligase hrd1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hrd1 PE=1 SV=1
+sp|O42649|SMC3_SCHPO  -          mtor                 -                1.3    4.1   0.3       1.8    3.6   0.3   1.0   1   0   0   1   1   1   0 Structural maintenance of chromosomes protein 3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=psm3 PE=1 SV=1
+sp|O14334|PFD1_SCHPO  -          mtor                 -                1.4    4.0   0.6       1.8    3.7   0.6   1.0   1   0   0   1   1   1   0 Probable prefoldin subunit 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1D7.01 PE=3 SV=1
+sp|O14450|PFD6_SCHPO  -          mtor                 -                1.4    3.9   1.3       1.3    4.1   1.3   1.0   1   0   0   1   1   1   0 Probable prefoldin subunit 6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC3A11.13 PE=3 SV=1
+sp|O74342|YH2B_SCHPO  -          mtor                 -                2.3    3.3   0.0       2.4    3.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein C1A4.11c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1A4.09c PE=4 SV=1
+sp|Q9UTF6|COX6_SCHPO  -          mtor                 -                2.4    3.2   0.0       2.9    3.0   0.0   1.0   1   0   0   1   1   1   0 Cytochrome c oxidase subunit 6, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cox6 PE=3 SV=1
+sp|O74324|YH04_SCHPO  -          mtor                 -                4.8    2.2   3.7       5.9    1.9   3.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein C1685.04 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC1685.04 PE=4 SV=1
+sp|G2TRN5|YL8K_SCHPO  -          mtor                 -                6.9    1.7   0.7       7.5    1.6   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein C25B8.20 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC25B8.20 PE=4 SV=1
+sp|O14243|SNX4_SCHPO  -          mtor                 -                9.6    1.2   2.6        13    0.8   2.6   1.1   1   0   0   1   1   1   0 Sorting nexin-4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=snx4 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/mtor.txt --max --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:18:03 2022
+# [ok]

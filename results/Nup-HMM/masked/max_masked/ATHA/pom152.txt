@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9LZJ7|PRP3_ARATH           -          pom152               -                4.5    6.1   0.0         6    5.7   0.0   1.0   1   0   0   1   1   1   0 Proline-rich protein 3 OS=Arabidopsis thaliana OX=3702 GN=PRP3 PE=2 SV=1
+sp|Q8L710|CRK17_ARATH          -          pom152               -                8.9    5.1   0.0        12    4.7   0.0   1.0   1   0   0   1   1   1   0 Cysteine-rich receptor-like protein kinase 17 OS=Arabidopsis thaliana OX=3702 GN=CRK17 PE=2 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:44:51 2022
+# [ok]

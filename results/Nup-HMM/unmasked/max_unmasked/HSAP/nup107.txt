@@ -1,0 +1,42 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57740|NU107_HUMAN          -          nup107               -                  0 1157.5  18.8         0 1157.3  18.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|H0YG15|H0YG15_HUMAN         -          nup107               -            3.7e-28  100.1   0.4     4e-28  100.0   0.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|F5GY77|F5GY77_HUMAN         -          nup107               -            9.7e-15   55.7   0.1   1.1e-14   55.6   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|E9PS71|E9PS71_HUMAN         -          nup107               -               0.14   12.1   0.1      0.19   11.8   0.1   1.0   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 19 OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+tr|B7Z8B3|B7Z8B3_HUMAN         -          nup107               -               0.17   11.9   0.1      0.23   11.4   0.1   1.1   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 19 OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+tr|Q5QNY5|Q5QNY5_HUMAN         -          nup107               -               0.19   11.8   0.2      0.31   11.0   0.2   1.4   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 19 (Fragment) OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+tr|H3BPA9|H3BPA9_HUMAN         -          nup107               -               0.36   10.8   0.6      0.61   10.1   0.6   1.4   1   1   0   1   1   1   0 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=8
+tr|I3L3S9|I3L3S9_HUMAN         -          nup107               -               0.75    9.8  13.2       1.2    9.1  13.2   1.2   1   0   0   1   1   1   0 Clusterin associated protein 1, isoform CRA_a OS=Homo sapiens OX=9606 GN=CLUAP1 PE=1 SV=1
+sp|Q96AJ1|CLUA1_HUMAN          -          nup107               -               0.79    9.7  13.2       1.3    8.9  13.2   1.3   1   0   0   1   1   1   0 Clusterin-associated protein 1 OS=Homo sapiens OX=9606 GN=CLUAP1 PE=1 SV=4
+sp|Q8IV61|GRP3_HUMAN           -          nup107               -                  1    9.4   0.0       6.2    6.7   0.0   1.9   2   0   0   2   2   2   0 Ras guanyl-releasing protein 3 OS=Homo sapiens OX=9606 GN=RASGRP3 PE=1 SV=1
+tr|I3L121|I3L121_HUMAN         -          nup107               -                  1    9.3   9.3       1.2    9.2   9.3   1.0   1   0   0   1   1   1   0 Clusterin-associated protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=CLUAP1 PE=1 SV=1
+sp|P40855|PEX19_HUMAN          -          nup107               -                1.2    9.1   2.4      0.53   10.3   0.1   1.4   2   0   0   2   2   2   0 Peroxisomal biogenesis factor 19 OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+sp|Q8N1F7|NUP93_HUMAN          -          nup107               -                2.3    8.2   0.3       4.4    7.2   0.3   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=2
+tr|A0A087WUP6|A0A087WUP6_HUMAN -          nup107               -                2.4    8.1   2.0       2.7    7.9   2.0   1.1   1   0   0   1   1   1   0 Transmembrane and coiled-coil domain-containing protein 3 (Fragment) OS=Homo sapiens OX=9606 GN=TMCO3 PE=1 SV=1
+tr|H3BVG0|H3BVG0_HUMAN         -          nup107               -                2.6    8.0   0.3       4.8    7.1   0.3   1.4   1   0   0   1   1   1   0 Nuclear pore complex protein Nup93 OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=1
+tr|H3BS06|H3BS06_HUMAN         -          nup107               -                2.7    8.0   0.1       2.6    8.0   0.1   1.0   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 154 (Fragment) OS=Homo sapiens OX=9606 GN=CCDC154 PE=4 SV=1
+tr|F8WE06|F8WE06_HUMAN         -          nup107               -                3.4    7.6   0.1       4.7    7.1   0.1   1.1   1   0   0   1   1   1   0 Condensin-2 complex subunit G2 OS=Homo sapiens OX=9606 GN=NCAPG2 PE=1 SV=1
+tr|A0A1B0GTC7|A0A1B0GTC7_HUMAN -          nup107               -                4.3    7.3   0.1       3.9    7.4   0.1   1.0   1   0   0   1   1   1   0 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1 (Fragment) OS=Homo sapiens OX=9606 GN=PLCB1 PE=4 SV=1
+tr|H0YJV5|H0YJV5_HUMAN         -          nup107               -                4.5    7.2   5.1         5    7.1   5.1   1.0   1   0   0   1   1   1   0 Kinectin (Fragment) OS=Homo sapiens OX=9606 GN=KTN1 PE=1 SV=1
+tr|E9PPQ8|E9PPQ8_HUMAN         -          nup107               -                4.5    7.2   0.0       4.5    7.2   0.0   1.6   2   0   0   2   2   2   0 Nuclear autoantigenic sperm protein (Fragment) OS=Homo sapiens OX=9606 GN=NASP PE=1 SV=1
+tr|D6RA57|D6RA57_HUMAN         -          nup107               -                  5    7.0   2.6       6.1    6.8   2.6   1.1   1   0   0   1   1   1   0 Translation machinery-associated protein 16 OS=Homo sapiens OX=9606 GN=TMA16 PE=1 SV=1
+tr|H0YNR9|H0YNR9_HUMAN         -          nup107               -                5.2    7.0   6.6       7.7    6.4   6.6   1.2   1   0   0   1   1   1   0 Homer protein homolog 2 (Fragment) OS=Homo sapiens OX=9606 GN=HOMER2 PE=1 SV=1
+tr|H3BTA6|H3BTA6_HUMAN         -          nup107               -                5.3    7.0   0.3       5.8    6.8   0.3   1.0   1   0   0   1   1   1   0 Snurportin-1 (Fragment) OS=Homo sapiens OX=9606 GN=SNUPN PE=1 SV=1
+tr|H3BSK1|H3BSK1_HUMAN         -          nup107               -                5.8    6.8   2.2       6.4    6.7   2.2   1.0   1   0   0   1   1   1   0 Snurportin-1 (Fragment) OS=Homo sapiens OX=9606 GN=SNUPN PE=1 SV=1
+tr|H0YAT7|H0YAT7_HUMAN         -          nup107               -                6.3    6.7   1.6         7    6.6   1.2   1.3   1   1   0   1   1   1   0 Dystonin (Fragment) OS=Homo sapiens OX=9606 GN=DST PE=1 SV=1
+tr|Q4G1C1|Q4G1C1_HUMAN         -          nup107               -                6.3    6.7   0.2       7.3    6.5   0.2   1.0   1   0   0   1   1   1   0 ATP8A1 protein OS=Homo sapiens OX=9606 GN=ATP8A1 PE=1 SV=1
+tr|A0A087X0F3|A0A087X0F3_HUMAN -          nup107               -                6.4    6.7   0.1       7.4    6.5   0.1   1.0   1   0   0   1   1   1   0 Integrator complex subunit 7 (Fragment) OS=Homo sapiens OX=9606 GN=INTS7 PE=1 SV=1
+sp|Q8WW24|TEKT4_HUMAN          -          nup107               -                7.3    6.5   4.9        14    5.6   4.9   1.4   1   0   0   1   1   1   0 Tektin-4 OS=Homo sapiens OX=9606 GN=TEKT4 PE=1 SV=1
+tr|H0YD86|H0YD86_HUMAN         -          nup107               -                9.8    6.1   0.3        10    6.0   0.3   1.0   1   0   0   1   1   1   0 Breast cancer type 2 susceptibility protein (Fragment) OS=Homo sapiens OX=9606 GN=BRCA2 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/HSAP/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 08:17:37 2022
+# [ok]

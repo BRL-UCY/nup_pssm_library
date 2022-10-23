@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A509AFK2|A0A509AFK2_PLABA -          nup214               -            3.7e-10   35.7   0.0   5.7e-10   35.0   0.0   1.2   1   0   0   1   1   1   1 Cytoplasmic dynein intermediate chain, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0504500 PE=4 SV=1
+tr|A0A509ADC9|A0A509ADC9_PLABA -          nup214               -            2.2e-05   19.8   0.0   4.6e-05   18.7   0.0   1.4   2   0   0   2   2   2   1 Chromatin assembly factor 1 protein WD40 domain, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0203000 PE=4 SV=1
+tr|A0A509AQV2|A0A509AQV2_PLABA -          nup214               -             0.0046   12.1   0.0     0.006   11.8   0.0   1.1   1   0   0   1   1   1   1 U4/U6 small nuclear ribonucleoprotein PRP4, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1356900 PE=4 SV=1
+tr|A0A509AQQ0|A0A509AQQ0_PLABA -          nup214               -              0.027    9.6   1.1     0.041    9.0   1.1   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 26, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1233400 PE=4 SV=1
+tr|A0A509AJK6|A0A509AJK6_PLABA -          nup214               -              0.045    8.8   0.1      0.17    6.9   0.0   1.9   3   0   0   3   3   3   0 Dynein intermediate chain, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0822900 PE=4 SV=1
+tr|A0A509AMR1|A0A509AMR1_PLABA -          nup214               -              0.075    8.1   0.1      0.61    5.1   0.0   1.9   2   0   0   2   2   2   0 Chromatin assembly factor 1 P55 subunit, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1011600 PE=4 SV=1
+tr|A0A509AF78|A0A509AF78_PLABA -          nup214               -               0.48    5.4  54.3    0.0024   13.0  39.1   2.0   2   0   0   2   2   2   0 BIR protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0317181 PE=4 SV=1
+tr|A0A509ALA1|A0A509ALA1_PLABA -          nup214               -                0.6    5.1   3.5       1.5    3.8   0.0   2.3   1   1   0   2   2   2   0 Cell division cycle protein 20 homolog OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0510600 PE=3 SV=1
+sp|P23093|CSP_PLABA            -          nup214               -               0.86    4.6  48.9         1    4.3  48.9   1.0   1   0   0   1   1   1   0 Circumsporozoite protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=CSP PE=1 SV=2
+tr|A0A509AH76|A0A509AH76_PLABA -          nup214               -               0.88    4.6  80.7         1    4.3  80.7   1.0   1   0   0   1   1   1   0 Early transcribed membrane protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_0517000 PE=4 SV=1
+tr|A0A509APX5|A0A509APX5_PLABA -          nup214               -                  3    2.8  15.5       3.9    2.4  15.5   1.0   1   0   0   1   1   1   0 FYVE and coiled-coil domain-containing protein, putative OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1323700 PE=4 SV=1
+tr|A0A509AQ44|A0A509AQ44_PLABA -          nup214               -                4.4    2.2   6.9       5.5    1.9   6.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Plasmodium berghei (strain Anka) OX=5823 GN=PBANKA_1416100 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup214.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/PBERA/nup214.txt --cpu 8 hmm_profiles_from_msa/nup214.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/PBERA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:39:04 2022
+# [ok]

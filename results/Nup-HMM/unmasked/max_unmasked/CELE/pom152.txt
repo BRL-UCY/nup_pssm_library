@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9XWP4|Q9XWP4_CAEEL         -          pom152               -                1.6    7.1   6.3       1.7    7.0   6.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y40B1B.7 PE=1 SV=1
+tr|E1B6S5|E1B6S5_CAEEL         -          pom152               -                2.5    6.4   0.5       3.3    6.0   0.5   1.0   1   0   0   1   1   1   0 NeuReXin related OS=Caenorhabditis elegans OX=6239 GN=nrx-1 PE=4 SV=1
+tr|A5A8P6|A5A8P6_CAEEL         -          pom152               -                2.6    6.4   0.5       3.2    6.1   0.5   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y54G2A.12 PE=4 SV=1
+sp|Q965M2|SMA10_CAEEL          -          pom152               -                2.7    6.3   0.0       4.2    5.7   0.0   1.2   1   0   0   1   1   1   0 Leucine-rich repeats and immunoglobulin-like domains protein sma-10 OS=Caenorhabditis elegans OX=6239 GN=sma-10 PE=1 SV=1
+tr|E9P874|E9P874_CAEEL         -          pom152               -                3.1    6.1   0.5       4.2    5.7   0.5   1.1   1   0   0   1   1   1   0 NeuReXin related OS=Caenorhabditis elegans OX=6239 GN=nrx-1 PE=4 SV=1
+tr|G5ED01|G5ED01_CAEEL         -          pom152               -                3.4    6.0   0.0       4.5    5.6   0.0   1.1   1   0   0   1   1   1   0 INOsitol-3-phosphate Synthase OS=Caenorhabditis elegans OX=6239 GN=inos-1 PE=1 SV=1
+tr|Q18968|Q18968_CAEEL         -          pom152               -                5.7    5.2   0.1       8.1    4.7   0.1   1.1   1   0   0   1   1   1   0 SREBP Cleavage activating Protein (SCAP) homolog OS=Caenorhabditis elegans OX=6239 GN=scp-1 PE=1 SV=3
+tr|Q9TYP4|Q9TYP4_CAEEL         -          pom152               -                5.8    5.2   5.0       6.3    5.1   5.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H14E04.3 PE=4 SV=1
+tr|O01621|O01621_CAEEL         -          pom152               -                7.7    4.8   0.1       8.8    4.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W08A12.3 PE=4 SV=2
+tr|Q65XX9|Q65XX9_CAEEL         -          pom152               -                7.9    4.8   0.3        11    4.3   0.3   1.1   1   0   0   1   1   1   0 MeValonate Kinase OS=Caenorhabditis elegans OX=6239 GN=mvk-1 PE=1 SV=1
+tr|Q17714|Q17714_CAEEL         -          pom152               -                8.3    4.7   0.6       8.3    4.7   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C06C3.7 PE=4 SV=1
+tr|E7EM24|E7EM24_CAEEL         -          pom152               -                8.4    4.7   2.8       9.3    4.5   2.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C42D4.18 PE=4 SV=1
+tr|Q20972|Q20972_CAEEL         -          pom152               -                9.5    4.5   0.0        12    4.2   0.0   1.0   1   0   0   1   1   1   0 Secreted nematode Clade V Protein gene family OS=Caenorhabditis elegans OX=6239 GN=scvp-1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CELE/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:42:10 2022
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|F1Q953|F1Q953_DANRE         -          nup154               -                  0 1671.4   0.0         0 1670.4   0.0   1.4   1   1   0   1   1   1   1 Nucleoporin 155 OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|F1QE76|F1QE76_DANRE         -          nup154               -                  0 1267.4   0.0         0 1266.4   0.0   1.5   1   1   0   1   1   1   1 Nucleoporin 155 (Fragment) OS=Danio rerio OX=7955 GN=nup155 PE=1 SV=1
+tr|A0A0R4IEK9|A0A0R4IEK9_DANRE -          nup154               -                5.3    5.8   0.0       7.1    5.4   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=1 SV=1
+tr|F1QH82|F1QH82_DANRE         -          nup154               -                6.4    5.6   0.0       8.5    5.2   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=1 SV=1
+sp|Q6DRF9|WDR55_DANRE          -          nup154               -                6.4    5.6   0.0       8.5    5.2   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 55 OS=Danio rerio OX=7955 GN=wdr55 PE=2 SV=2
+tr|A0A2R8QJC8|A0A2R8QJC8_DANRE -          nup154               -                7.5    5.3   0.0        11    4.8   0.0   1.2   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A5WUN5|A5WUN5_DANRE         -          nup154               -                7.8    5.3   0.0        11    4.8   0.0   1.1   1   0   0   1   1   1   0 ABR activator of RhoGEF and GTPase OS=Danio rerio OX=7955 GN=abr PE=4 SV=1
+tr|Q7ZTX2|Q7ZTX2_DANRE         -          nup154               -                9.4    5.0   0.0        16    4.2   0.0   1.3   1   0   0   1   1   1   0 WD repeat domain 5 OS=Danio rerio OX=7955 GN=wdr5 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:34:03 2022
+# [ok]

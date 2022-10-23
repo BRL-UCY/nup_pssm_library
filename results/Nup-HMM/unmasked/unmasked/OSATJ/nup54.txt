@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q6YVE2|Q6YVE2_ORYSJ         -          nup54                -            5.1e-51  175.4   0.4   5.1e-51  175.4   0.4   2.1   1   1   1   2   2   2   1 Os07g0295400 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0295400 PE=1 SV=1
+tr|A0A0N7KGH5|A0A0N7KGH5_ORYSJ -          nup54                -              0.045   14.0   2.1     0.045   14.0   2.1   1.4   2   0   0   2   2   2   0 Os03g0121450 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0121450 PE=4 SV=1
+tr|A0A0N7KHZ1|A0A0N7KHZ1_ORYSJ -          nup54                -              0.055   13.7   7.8     0.055   13.7   7.8   1.1   1   0   0   1   1   1   0 Os03g0725066 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0725066 PE=4 SV=1
+sp|Q84Z02|CRL5_ORYSJ           -          nup54                -                0.2   11.9  20.1       1.1    9.4  11.9   2.4   2   0   0   2   2   2   0 AP2-like ethylene-responsive transcription factor CRL5 OS=Oryza sativa subsp. japonica OX=39947 GN=CRL5 PE=2 SV=1
+sp|A0A5S6RB44|RTFL3_ORYSJ      -          nup54                -                0.3   11.2   9.4      0.33   11.1   9.4   1.1   1   0   0   1   1   1   0 Small polypeptide ROTUNDIFOLIA LIKE 3 OS=Oryza sativa subsp. japonica OX=39947 GN=RTFL3 PE=3 SV=1
+tr|A0A0P0Y2F5|A0A0P0Y2F5_ORYSJ -          nup54                -               0.84    9.8   3.0         1    9.5   3.0   1.1   1   0   0   1   1   1   0 Os11g0494700 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0494700 PE=4 SV=1
+tr|Q6ZFI5|Q6ZFI5_ORYSJ         -          nup54                -                2.1    8.4  26.8       3.4    7.8  26.8   1.2   1   0   0   1   1   1   0 Os08g0502800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0502800 PE=1 SV=1
+tr|Q10RX9|Q10RX9_ORYSJ         -          nup54                -                2.7    8.1  22.7       3.7    7.6  22.7   1.1   1   0   0   1   1   1   0 Myb-like DNA-binding domain containing protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g04900 PE=4 SV=1
+sp|Q2QY10|CBP_ORYSJ            -          nup54                -                2.7    8.1   7.2       3.7    7.7   7.2   1.1   1   0   0   1   1   1   0 Calcium-binding protein CBP OS=Oryza sativa subsp. japonica OX=39947 GN=CBP PE=2 SV=1
+tr|Q0J6Q6|Q0J6Q6_ORYSJ         -          nup54                -                  8    6.6  12.5       8.6    6.4  12.5   1.0   1   0   0   1   1   1   0 Os08g0282200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0282200 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/OSATJ/nup54.txt --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:17 2022
+# [ok]

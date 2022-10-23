@@ -1,0 +1,49 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q99567|NUP88_HUMAN          -          nup88                -           9.2e-218  726.8   0.0  1.4e-217  726.2   0.0   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=2
+tr|J3KMX1|J3KMX1_HUMAN         -          nup88                -           9.7e-210  700.3   5.2  2.4e-152  510.6   0.1   2.0   2   0   0   2   2   2   2 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L245|I3L245_HUMAN         -          nup88                -            2.7e-43  150.2   0.0   3.1e-43  150.0   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L4K7|I3L4K7_HUMAN         -          nup88                -            2.3e-24   87.6   0.8   2.7e-24   87.4   0.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 (Fragment) OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+tr|I3L2W3|I3L2W3_HUMAN         -          nup88                -             0.0015   18.8   0.0    0.0061   16.8   0.0   1.7   2   0   0   2   2   2   1 Nuclear pore complex protein Nup88 OS=Homo sapiens OX=9606 GN=NUP88 PE=1 SV=1
+sp|Q8TC44|POC1B_HUMAN          -          nup88                -              0.079   13.1   1.5        10    6.1   0.0   3.3   5   1   0   5   5   5   0 POC1 centriolar protein homolog B OS=Homo sapiens OX=9606 GN=POC1B PE=1 SV=1
+sp|P43034|LIS1_HUMAN           -          nup88                -               0.26   11.5   0.0       1.5    9.0   0.1   2.2   3   0   0   3   3   3   0 Platelet-activating factor acetylhydrolase IB subunit alpha OS=Homo sapiens OX=9606 GN=PAFAH1B1 PE=1 SV=2
+sp|Q8NFH4|NUP37_HUMAN          -          nup88                -               0.67   10.1   0.0      0.99    9.5   0.0   1.2   1   0   0   1   1   1   0 Nucleoporin Nup37 OS=Homo sapiens OX=9606 GN=NUP37 PE=1 SV=1
+sp|Q9UMS4|PRP19_HUMAN          -          nup88                -               0.67   10.1   0.4        21    5.1   0.0   2.9   2   1   2   4   4   4   0 Pre-mRNA-processing factor 19 OS=Homo sapiens OX=9606 GN=PRPF19 PE=1 SV=1
+tr|A0A0A0MSW0|A0A0A0MSW0_HUMAN -          nup88                -               0.81    9.8   0.1       1.6    8.8   0.1   1.4   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase UBR4 (Fragment) OS=Homo sapiens OX=9606 GN=UBR4 PE=1 SV=1
+tr|A0A2R8YEZ3|A0A2R8YEZ3_HUMAN -          nup88                -                1.6    8.9   0.3       2.1    8.4   0.3   1.2   1   0   0   1   1   1   0 DNA excision repair protein ERCC-8 (Fragment) OS=Homo sapiens OX=9606 GN=ERCC8 PE=1 SV=1
+tr|H0YB06|H0YB06_HUMAN         -          nup88                -                2.2    8.4   0.0         2    8.5   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform (Fragment) OS=Homo sapiens OX=9606 GN=PPP2R2D PE=1 SV=2
+sp|Q9H171|ZBP1_HUMAN           -          nup88                -                2.6    8.1   0.3       3.6    7.7   0.3   1.1   1   0   0   1   1   1   0 Z-DNA-binding protein 1 OS=Homo sapiens OX=9606 GN=ZBP1 PE=1 SV=2
+sp|Q5T4S7|UBR4_HUMAN           -          nup88                -                2.7    8.1   0.1       4.6    7.3   0.1   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase UBR4 OS=Homo sapiens OX=9606 GN=UBR4 PE=1 SV=1
+sp|Q9UKB1|FBW1B_HUMAN          -          nup88                -                3.1    7.9   0.5        48    3.9   0.1   2.1   2   0   0   2   2   2   0 F-box/WD repeat-containing protein 11 OS=Homo sapiens OX=9606 GN=FBXW11 PE=1 SV=1
+tr|E9PMR3|E9PMR3_HUMAN         -          nup88                -                3.6    7.7   0.0       4.5    7.3   0.0   1.0   1   0   0   1   1   1   0 Telomerase Cajal body protein 1 OS=Homo sapiens OX=9606 GN=WRAP53 PE=1 SV=1
+sp|Q8NBT0|POC1A_HUMAN          -          nup88                -                3.9    7.5   0.3        24    4.9   0.0   2.2   1   1   1   3   3   3   0 POC1 centriolar protein homolog A OS=Homo sapiens OX=9606 GN=POC1A PE=1 SV=2
+tr|A0A0C4DG52|A0A0C4DG52_HUMAN -          nup88                -                4.3    7.4   0.0        50    3.9   0.0   2.1   2   0   0   2   2   2   0 WD repeat-containing protein 64 OS=Homo sapiens OX=9606 GN=WDR64 PE=1 SV=1
+tr|A0A3B3IU89|A0A3B3IU89_HUMAN -          nup88                -                4.4    7.4   0.8   2.2e+02    1.8   0.2   3.0   3   0   0   3   3   3   0 Coatomer subunit alpha (Fragment) OS=Homo sapiens OX=9606 GN=COPA PE=1 SV=1
+tr|J3KSE6|J3KSE6_HUMAN         -          nup88                -                4.6    7.3   0.0       4.8    7.3   0.0   1.0   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 4 homolog (Fragment) OS=Homo sapiens OX=9606 GN=UTP4 PE=1 SV=8
+sp|Q6PJI9|WDR59_HUMAN          -          nup88                -                4.8    7.3   0.1       9.6    6.3   0.1   1.4   1   0   0   1   1   1   0 GATOR complex protein WDR59 OS=Homo sapiens OX=9606 GN=WDR59 PE=1 SV=2
+tr|A0A0A0MSY1|A0A0A0MSY1_HUMAN -          nup88                -                5.1    7.2   0.0        55    3.8   0.0   2.1   2   0   0   2   2   2   0 WD repeat-containing protein 64 (Fragment) OS=Homo sapiens OX=9606 GN=WDR64 PE=1 SV=1
+sp|Q9NW82|WDR70_HUMAN          -          nup88                -                5.1    7.2   0.0        24    5.0   0.0   1.8   2   0   0   2   2   2   0 WD repeat-containing protein 70 OS=Homo sapiens OX=9606 GN=WDR70 PE=1 SV=1
+tr|J3KTR0|J3KTR0_HUMAN         -          nup88                -                5.2    7.1   0.0         6    6.9   0.0   1.1   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 4 homolog (Fragment) OS=Homo sapiens OX=9606 GN=UTP4 PE=1 SV=8
+sp|Q13033|STRN3_HUMAN          -          nup88                -                5.4    7.1   0.1       8.8    6.4   0.1   1.2   1   0   0   1   1   1   0 Striatin-3 OS=Homo sapiens OX=9606 GN=STRN3 PE=1 SV=3
+tr|A0A3B3ITV3|A0A3B3ITV3_HUMAN -          nup88                -                6.3    6.9   2.1   2.5e+02    1.6   0.0   3.4   4   0   0   4   4   4   0 Coatomer subunit alpha OS=Homo sapiens OX=9606 GN=COPA PE=1 SV=1
+tr|Q8IU52|Q8IU52_HUMAN         -          nup88                -                6.9    6.7   0.9        29    4.7   0.0   2.3   3   1   0   3   3   3   0 POC1 centriolar protein homolog B OS=Homo sapiens OX=9606 GN=POC1B PE=1 SV=1
+sp|Q9BUR4|TCAB1_HUMAN          -          nup88                -                7.1    6.7   0.0        10    6.2   0.0   1.1   1   0   0   1   1   1   0 Telomerase Cajal body protein 1 OS=Homo sapiens OX=9606 GN=WRAP53 PE=1 SV=1
+tr|I3L4T9|I3L4T9_HUMAN         -          nup88                -                  8    6.5   0.0        19    5.3   0.0   1.5   2   0   0   2   2   2   0 U3 small nucleolar RNA-associated protein 4 homolog (Fragment) OS=Homo sapiens OX=9606 GN=UTP4 PE=1 SV=1
+sp|Q66LE6|2ABD_HUMAN           -          nup88                -                8.8    6.4   0.0        17    5.4   0.0   1.4   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform OS=Homo sapiens OX=9606 GN=PPP2R2D PE=1 SV=1
+tr|J3KSI1|J3KSI1_HUMAN         -          nup88                -                8.8    6.4   0.0        11    6.1   0.0   1.1   1   0   0   1   1   1   0 U3 small nucleolar RNA-associated protein 4 homolog (Fragment) OS=Homo sapiens OX=9606 GN=UTP4 PE=1 SV=1
+tr|D6RIW8|D6RIW8_HUMAN         -          nup88                -                8.9    6.4   0.0        11    6.0   0.0   1.1   1   0   0   1   1   1   0 WD repeat-containing protein 70 OS=Homo sapiens OX=9606 GN=WDR70 PE=1 SV=1
+tr|A0A1B0GV47|A0A1B0GV47_HUMAN -          nup88                -                  9    6.4   1.8   2.2e+02    1.8   0.0   2.1   2   0   0   2   2   2   0 Kinesin-like protein KIF21A (Fragment) OS=Homo sapiens OX=9606 GN=KIF21A PE=1 SV=1
+sp|Q7Z4S6|KI21A_HUMAN          -          nup88                -                9.3    6.3   1.8   2.2e+02    1.8   0.0   2.1   2   0   0   2   2   2   0 Kinesin-like protein KIF21A OS=Homo sapiens OX=9606 GN=KIF21A PE=1 SV=2
+sp|Q13201|MMRN1_HUMAN          -          nup88                -                9.9    6.2   4.0       6.1    6.9   2.0   1.6   2   0   0   2   2   2   0 Multimerin-1 OS=Homo sapiens OX=9606 GN=MMRN1 PE=1 SV=3
+tr|C9JDQ8|C9JDQ8_HUMAN         -          nup88                -                 10    6.2   0.1        12    6.0   0.1   1.0   1   0   0   1   1   1   0 EH domain-containing protein 1 (Fragment) OS=Homo sapiens OX=9606 GN=EHD1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup88.txt --max --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:34:52 2022
+# [ok]

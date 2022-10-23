@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74315|AMO1_SCHPO  -          nup2l1               -              2e-37  128.0 101.1   1.3e-27   95.7  24.0   4.9   1   1   3   4   4   4   4 Nucleoporin-like protein amo1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=amo1 PE=4 SV=1
+sp|P41000|CPS3_SCHPO  -          nup2l1               -            2.2e-08   32.3   0.6   2.2e-08   32.3   0.6   4.8   3   2   0   4   4   4   2 Protein cps3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cps3 PE=1 SV=3
+sp|O74463|YQC1_SCHPO  -          nup2l1               -            2.2e-06   25.7   4.7   2.2e-06   25.7   4.7   4.2   3   1   1   4   4   4   2 Uncharacterized protein C1739.01 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1739.01 PE=1 SV=2
+sp|Q9UTD1|YTH1_SCHPO  -          nup2l1               -              0.016   13.0   0.4     0.016   13.0   0.4   3.4   3   1   1   4   4   4   0 mRNA 3'-end-processing protein yth1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=yth1 PE=3 SV=1
+sp|O42963|NUP44_SCHPO -          nup2l1               -               0.42    8.3  32.7      0.56    7.9  32.7   1.1   1   0   0   1   1   1   0 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup2l1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup2l1.txt --cpu 8 hmm_profiles_from_msa/nup2l1.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:38:50 2022
+# [ok]

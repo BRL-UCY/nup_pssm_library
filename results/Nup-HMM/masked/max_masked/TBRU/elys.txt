@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q38E06|Q38E06_TRYB2 -          elys                 -             0.0045   12.8   0.0    0.0061   12.4   0.0   1.1   1   0   0   1   1   1   1 Katanin, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.1500 PE=4 SV=1
+tr|Q38E68|Q38E68_TRYB2 -          elys                 -               0.27    7.0   0.1      0.36    6.5   0.1   1.0   1   0   0   1   1   1   0 PRORP domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.0870 PE=4 SV=1
+tr|Q383N1|Q383N1_TRYB2 -          elys                 -               0.35    6.6   0.0      0.47    6.1   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb11.01.2250 PE=4 SV=1
+tr|Q38FA6|Q38FA6_TRYB2 -          elys                 -                2.5    3.7   0.0       3.3    3.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.2960 PE=4 SV=1
+tr|Q587E1|Q587E1_TRYB2 -          elys                 -                2.6    3.7   0.2       3.8    3.1   0.2   1.1   1   0   0   1   1   1   0 WD_REPEATS_REGION domain-containing protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.6.4750 PE=4 SV=1
+tr|Q38EJ2|Q38EJ2_TRYB2 -          elys                 -                5.4    2.6   0.0       7.3    2.2   0.0   1.1   1   0   0   1   1   1   0 Adenylosuccinate lyase OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.160.5560 PE=1 SV=1
+tr|Q38DN2|Q38DN2_TRYB2 -          elys                 -                7.9    2.1   0.0        10    1.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb09.211.2720 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:56:26 2022
+# [ok]

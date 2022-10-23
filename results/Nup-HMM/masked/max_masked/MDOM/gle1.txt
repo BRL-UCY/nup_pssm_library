@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498I7R5|A0A498I7R5_MALDO -          gle1                 -            7.2e-74  250.2   4.3   8.8e-71  240.0   0.6   2.0   2   0   0   2   2   2   2 mRNA export factor GLE1 OS=Malus domestica OX=3750 GN=DVH24_040935 PE=3 SV=1
+tr|A0A498JQ59|A0A498JQ59_MALDO -          gle1                 -            1.2e-15   58.0   0.1   1.7e-15   57.5   0.1   1.1   1   0   0   1   1   1   1 mRNA export factor GLE1 OS=Malus domestica OX=3750 GN=DVH24_010233 PE=3 SV=1
+tr|A0A498KKN7|A0A498KKN7_MALDO -          gle1                 -               0.14   11.6   0.0        19    4.6   0.0   2.7   3   0   0   3   3   3   0 Peroxidase OS=Malus domestica OX=3750 GN=DVH24_022884 PE=3 SV=1
+tr|A0A498JLN8|A0A498JLN8_MALDO -          gle1                 -                0.6    9.5   0.0      0.71    9.2   0.0   1.0   1   0   0   1   1   1   0 Peroxidase OS=Malus domestica OX=3750 GN=DVH24_024407 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MDOM/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:49:22 2022
+# [ok]

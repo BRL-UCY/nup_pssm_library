@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8LLD0|NUP96_ARATH          -          nup96                -           4.2e-266  887.8  11.0  5.4e-192  642.0   6.8   2.9   1   1   1   2   2   2   2 Nuclear pore complex protein NUP96 OS=Arabidopsis thaliana OX=3702 GN=NUP96 PE=1 SV=1
+sp|Q8RY25|NU98A_ARATH          -          nup96                -           1.1e-106  359.2 313.2   5.7e-66  224.1   0.9   4.1   2   1   2   4   4   4   4 Nuclear pore complex protein NUP98A OS=Arabidopsis thaliana OX=3702 GN=NUP98A PE=1 SV=1
+tr|A0A1P8AN64|A0A1P8AN64_ARATH -          nup96                -             1e-104  352.6 296.8   5.6e-64  217.5   3.1   4.0   2   1   2   4   4   4   4 Nucleoporin autopeptidase OS=Arabidopsis thaliana OX=3702 GN=At1g59660 PE=4 SV=1
+sp|F4ID16|NU98B_ARATH          -          nup96                -           9.3e-104  349.4 298.1   8.8e-64  216.9   3.6   4.0   2   1   2   4   4   4   4 Nuclear pore complex protein NUP98B OS=Arabidopsis thaliana OX=3702 GN=NUP98B PE=1 SV=1
+tr|Q9SH38|Q9SH38_ARATH         -          nup96                -            8.7e-14   51.1  34.1   8.7e-14   51.1  34.1   2.4   1   1   1   2   2   2   1 F2K11.10 OS=Arabidopsis thaliana OX=3702 GN=At1g63540 PE=4 SV=1
+tr|Q9SH37|Q9SH37_ARATH         -          nup96                -            2.6e-08   33.0  60.8   2.6e-08   33.0  60.8   2.2   2   0   0   2   2   2   1 F2K11.11 OS=Arabidopsis thaliana OX=3702 GN=At1g63530 PE=2 SV=1
+tr|A0A1P8AR38|A0A1P8AR38_ARATH -          nup96                -            3.5e-08   32.5  61.1   3.5e-08   32.5  61.1   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At1g63530 PE=4 SV=1
+sp|Q8GYF7|NUP54_ARATH          -          nup96                -             0.0099   14.4  36.3     0.014   13.9  36.3   1.2   1   0   0   1   1   1   1 Nuclear pore complex protein NUP54 OS=Arabidopsis thaliana OX=3702 GN=NUP54 PE=1 SV=1
+sp|Q8RWA2|MED9_ARATH           -          nup96                -              0.051   12.1  44.4     0.057   11.9  44.4   1.0   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit 9 OS=Arabidopsis thaliana OX=3702 GN=MED9 PE=1 SV=1
+sp|Q9M2G8|IQM6_ARATH           -          nup96                -               0.15   10.5   6.9       0.2   10.1   6.9   1.1   1   0   0   1   1   1   0 IQ domain-containing protein IQM6 OS=Arabidopsis thaliana OX=3702 GN=IQM6 PE=2 SV=1
+tr|A0A1P8AME1|A0A1P8AME1_ARATH -          nup96                -               0.26    9.7  45.4      0.28    9.6  45.4   1.0   1   0   0   1   1   1   0 Mediator of RNA polymerase II transcription subunit-like protein OS=Arabidopsis thaliana OX=3702 GN=MED9 PE=4 SV=1
+sp|Q9M7Q2|AI5L7_ARATH          -          nup96                -               0.52    8.7  26.5       1.1    7.7  26.5   1.5   1   0   0   1   1   1   0 ABSCISIC ACID-INSENSITIVE 5-like protein 7 OS=Arabidopsis thaliana OX=3702 GN=ABF4 PE=1 SV=1
+sp|O80770|SPT52_ARATH          -          nup96                -               0.54    8.7   6.2      0.74    8.2   6.2   1.1   1   0   0   1   1   1   0 Putative transcription elongation factor SPT5 homolog 2 OS=Arabidopsis thaliana OX=3702 GN=At2g34210 PE=3 SV=2
+tr|Q9SGW5|Q9SGW5_ARATH         -          nup96                -               0.77    8.2  10.1      0.94    7.9  10.1   1.0   1   0   0   1   1   1   0 F1N19.7 OS=Arabidopsis thaliana OX=3702 GN=At1g64500 PE=1 SV=1
+tr|A0A1P8B5J6|A0A1P8B5J6_ARATH -          nup96                -               0.91    7.9  10.9      0.96    7.9  10.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At4g19485 PE=4 SV=1
+sp|Q9M0V4|YAO_ARATH            -          nup96                -               0.97    7.8  11.6       1.2    7.5  11.6   1.0   1   0   0   1   1   1   0 U3 snoRNP-associated protein-like YAO OS=Arabidopsis thaliana OX=3702 GN=YAO PE=2 SV=1
+tr|Q9LTK7|Q9LTK7_ARATH         -          nup96                -                1.4    7.3   7.7       1.6    7.1   7.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Arabidopsis thaliana OX=3702 GN=At5g52130 PE=4 SV=1
+tr|F4JB55|F4JB55_ARATH         -          nup96                -                1.7    7.0  27.1       2.8    6.3  27.1   1.4   1   0   0   1   1   1   0 ABRE binding factor 4 OS=Arabidopsis thaliana OX=3702 GN=ABF4 PE=4 SV=1
+sp|B3H4K7|PPI2_ARATH           -          nup96                -                2.3    6.6  16.9       3.2    6.1  16.9   1.1   1   0   0   1   1   1   0 Proton pump-interactor 2 OS=Arabidopsis thaliana OX=3702 GN=PPI2 PE=2 SV=1
+tr|A0A1P8BBP2|A0A1P8BBP2_ARATH -          nup96                -                2.5    6.5  11.1       3.1    6.1  11.1   1.1   1   0   0   1   1   1   0 ABL interactor-like protein 3 OS=Arabidopsis thaliana OX=3702 GN=ABIL3 PE=4 SV=1
+sp|Q946J2|SUVR1_ARATH          -          nup96                -                3.1    6.2   9.8         4    5.8   9.8   1.1   1   0   0   1   1   1   0 Probable inactive histone-lysine N-methyltransferase SUVR1 OS=Arabidopsis thaliana OX=3702 GN=SUVR1 PE=1 SV=2
+sp|F4I878|BLT_ARATH            -          nup96                -                4.4    5.7   4.6       4.9    5.5   4.6   1.0   1   0   0   1   1   1   0 Protein BRANCHLESS TRICHOME OS=Arabidopsis thaliana OX=3702 GN=BLT PE=1 SV=1
+tr|A0A1P8ARL0|A0A1P8ARL0_ARATH -          nup96                -                4.6    5.6   4.6       5.4    5.4   4.6   1.1   1   0   0   1   1   1   0 Branchless trichome OS=Arabidopsis thaliana OX=3702 GN=BLT PE=4 SV=1
+sp|Q8GWY0|SCI1_ARATH           -          nup96                -                  5    5.5  12.2       5.2    5.4  12.2   1.0   1   0   0   1   1   1   0 Style cell-cycle inhibitor 1 OS=Arabidopsis thaliana OX=3702 GN=SCI1 PE=2 SV=1
+tr|Q9LKB4|Q9LKB4_ARATH         -          nup96                -                6.8    5.0   9.7       9.3    4.6   9.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein At3g14900 OS=Arabidopsis thaliana OX=3702 GN=EMB3120 PE=2 SV=1
+sp|Q9S7T5|OFP14_ARATH          -          nup96                -                7.8    4.8   8.4       8.9    4.6   8.4   1.1   1   0   0   1   1   1   0 Transcription repressor OFP14 OS=Arabidopsis thaliana OX=3702 GN=OFP14 PE=1 SV=1
+sp|Q9SHQ8|HIP4_ARATH           -          nup96                -                8.9    4.7   7.4       9.5    4.6   7.4   1.2   1   0   0   1   1   1   0 Heavy metal-associated isoprenylated plant protein 4 OS=Arabidopsis thaliana OX=3702 GN=HIPP04 PE=3 SV=2
+tr|Q93ZH3|Q93ZH3_ARATH         -          nup96                -                9.3    4.6  46.3        13    4.1  46.3   1.1   1   0   0   1   1   1   0 AT4g11790/T5C23_220 OS=Arabidopsis thaliana OX=3702 GN=At4g11790 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/ATHA/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:13:42 2022
+# [ok]

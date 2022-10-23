@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q21295|Q21295_CAEEL         -          nup54                -            4.3e-70  237.6   0.0   1.4e-69  235.8   0.0   1.7   1   1   0   1   1   1   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=3
+tr|Q9U3B9|Q9U3B9_CAEEL         -          nup54                -            9.2e-70  236.5   0.1   9.2e-70  236.5   0.1   2.6   2   1   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|Q9U3C1|Q9U3C1_CAEEL         -          nup54                -            3.3e-69  234.6   0.7   5.2e-68  230.7   0.0   2.0   2   0   0   2   2   2   1 Nuclear Pore complex Protein OS=Caenorhabditis elegans OX=6239 GN=npp-1 PE=1 SV=1
+tr|Q8MQB4|Q8MQB4_CAEEL         -          nup54                -                9.9    5.4   0.2        13    5.0   0.2   1.1   1   0   0   1   1   1   0 RING-type domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=C28G1.6 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CELE/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:58:32 2022
+# [ok]

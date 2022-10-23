@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8FDM7|A0A1L8FDM7_XENLA -          gp210                -               0.59    8.1   0.0      0.82    7.6   0.0   1.1   1   0   0   1   1   1   0 PKD domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18036606mg PE=4 SV=1
+tr|A0A1L8HJ98|A0A1L8HJ98_XENLA -          gp210                -                2.5    6.0   0.0       3.6    5.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18013845mg PE=4 SV=1
+tr|A0A310UB89|A0A310UB89_XENLA -          gp210                -                3.1    5.7   0.0       3.5    5.5   0.0   1.0   1   0   0   1   1   1   0 Ig-like domain-containing protein OS=Xenopus laevis OX=8355 GN=XELAEV_18004726mg PE=4 SV=1
+tr|A0A1L8HB09|A0A1L8HB09_XENLA -          gp210                -                5.1    5.0   0.0       7.1    4.5   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18016309mg PE=4 SV=1
+tr|A0A1L8FVR1|A0A1L8FVR1_XENLA -          gp210                -                9.3    4.1   0.1        12    3.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=hepacam2 PE=4 SV=1
+tr|A0A1L8FJ38|A0A1L8FJ38_XENLA -          gp210                -                9.8    4.0   0.0        13    3.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=fank1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/XLAE/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:19:16 2022
+# [ok]

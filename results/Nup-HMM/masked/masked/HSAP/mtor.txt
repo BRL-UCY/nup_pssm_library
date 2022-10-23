@@ -1,0 +1,26 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P12270|TPR_HUMAN    -          mtor                 -                  0 1669.9   0.6         0 1370.5  32.7   3.0   2   1   1   3   3   3   3 Nucleoprotein TPR OS=Homo sapiens OX=9606 GN=TPR PE=1 SV=3
+tr|Q5SWX9|Q5SWX9_HUMAN -          mtor                 -            1.9e-14   53.8   0.1   2.1e-14   53.7   0.1   1.0   1   0   0   1   1   1   1 Nucleoprotein TPR (Fragment) OS=Homo sapiens OX=9606 GN=TPR PE=1 SV=1
+tr|H0YI76|H0YI76_HUMAN -          mtor                 -             0.0035   16.5   1.0    0.0044   16.1   1.0   1.0   1   0   0   1   1   1   1 Keratin, type II cytoskeletal 5 (Fragment) OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=1
+sp|O95678|K2C75_HUMAN  -          mtor                 -              0.028   13.5   0.3     0.036   13.1   0.3   1.0   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 75 OS=Homo sapiens OX=9606 GN=KRT75 PE=1 SV=2
+sp|Q14CN4|K2C72_HUMAN  -          mtor                 -              0.029   13.4   0.7     0.046   12.7   0.7   1.2   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 72 OS=Homo sapiens OX=9606 GN=KRT72 PE=1 SV=2
+sp|Q8N1N0|CLC4F_HUMAN  -          mtor                 -               0.12   11.4   9.5       3.5    6.5   8.0   2.1   1   1   1   2   2   2   0 C-type lectin domain family 4 member F OS=Homo sapiens OX=9606 GN=CLEC4F PE=2 SV=2
+sp|Q01546|K22O_HUMAN   -          mtor                 -               0.12   11.4   0.6      0.19   10.7   0.6   1.2   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 2 oral OS=Homo sapiens OX=9606 GN=KRT76 PE=1 SV=2
+sp|P02538|K2C6A_HUMAN  -          mtor                 -               0.16   11.0   1.0      0.49    9.3   0.4   1.7   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 6A OS=Homo sapiens OX=9606 GN=KRT6A PE=1 SV=3
+sp|Q9UJ71|CLC4K_HUMAN  -          mtor                 -                0.2   10.6   3.2      0.24   10.3   3.2   1.0   1   0   0   1   1   1   0 C-type lectin domain family 4 member K OS=Homo sapiens OX=9606 GN=CD207 PE=1 SV=2
+sp|P13647|K2C5_HUMAN   -          mtor                 -               0.21   10.5   4.5      0.03   13.4   0.6   1.4   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3
+sp|P04259|K2C6B_HUMAN  -          mtor                 -                0.3   10.1   1.6      0.48    9.4   0.3   1.7   2   0   0   2   2   2   0 Keratin, type II cytoskeletal 6B OS=Homo sapiens OX=9606 GN=KRT6B PE=1 SV=5
+sp|P04264|K2C1_HUMAN   -          mtor                 -               0.42    9.6   0.5      0.55    9.2   0.5   1.0   1   0   0   1   1   1   0 Keratin, type II cytoskeletal 1 OS=Homo sapiens OX=9606 GN=KRT1 PE=1 SV=6
+sp|Q7RTS7|K2C74_HUMAN  -          mtor                 -                  2    7.3   9.5       9.7    5.0   9.4   1.8   1   1   1   2   2   2   0 Keratin, type II cytoskeletal 74 OS=Homo sapiens OX=9606 GN=KRT74 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mtor.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/mtor.txt --cpu 8 hmm_profiles_from_msa/mtor.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:35 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9VWE6|ELYS_DROME   -          elys                 -           5.7e-204  680.5   0.0  7.1e-201  670.2   5.3   2.0   2   0   0   2   2   2   2 Protein ELYS homolog OS=Drosophila melanogaster OX=7227 GN=Elys PE=1 SV=2
+tr|X2JG50|X2JG50_DROME -          elys                 -           5.7e-204  680.5   0.0  7.1e-201  670.2   5.3   2.0   2   0   0   2   2   2   2 Elys, isoform B OS=Drosophila melanogaster OX=7227 GN=Elys PE=4 SV=1
+tr|A1Z7Y4|A1Z7Y4_DROME -          elys                 -             0.0068   13.6   0.0    0.0091   13.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Drosophila melanogaster OX=7227 GN=Dmel\CG10459 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/DMEL/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:03 2022
+# [ok]

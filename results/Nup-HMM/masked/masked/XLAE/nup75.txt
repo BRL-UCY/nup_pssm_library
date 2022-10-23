@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8EUD9|A0A1L8EUD9_XENLA -          nup75                -           8.9e-202  673.0   8.0    1e-201  672.9   8.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Xenopus laevis OX=8355 GN=XELAEV_18044052mg PE=1 SV=1
+tr|A0A1L8EUC8|A0A1L8EUC8_XENLA -          nup75                -             2e-201  671.9   8.0  2.3e-201  671.7   8.0   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Xenopus laevis OX=8355 GN=XELAEV_18044052mg PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/XLAE/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:55 2022
+# [ok]

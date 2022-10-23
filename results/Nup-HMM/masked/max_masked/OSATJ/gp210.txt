@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0N7KRA2|A0A0N7KRA2_ORYSJ -          gp210                -            4.3e-67  227.5   0.0   5.6e-67  227.1   0.0   1.0   1   0   0   1   1   1   1 Os09g0565450 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0565450 PE=1 SV=1
+tr|A0A0P0XRC0|A0A0P0XRC0_ORYSJ -          gp210                -            4.3e-67  227.5   0.0   4.9e-67  227.3   0.0   1.0   1   0   0   1   1   1   1 Os09g0565500 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os09g0565500 PE=1 SV=1
+tr|Q0D7I2|Q0D7I2_ORYSJ         -          gp210                -                  8    4.5   0.0        10    4.1   0.0   1.0   1   0   0   1   1   1   0 Os07g0244200 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0244200 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/gp210.txt --max --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:14:49 2022
+# [ok]

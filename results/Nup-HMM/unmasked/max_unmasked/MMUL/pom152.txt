@@ -1,0 +1,36 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1D5QLD8|A0A1D5QLD8_MACMU -          pom152               -              0.017   14.4   0.1      0.47    9.6   0.0   2.7   3   0   0   3   3   3   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7BL41|F7BL41_MACMU         -          pom152               -               0.92    8.6   3.4       1.4    8.0   3.4   1.3   1   0   0   1   1   1   0 DNA polymerase delta subunit 3 OS=Macaca mulatta OX=9544 GN=POLD3 PE=2 SV=1
+tr|A0A1D5Q5N1|A0A1D5Q5N1_MACMU -          pom152               -                  1    8.4   0.0       1.1    8.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=3 SV=1
+tr|A0A1D5Q4G2|A0A1D5Q4G2_MACMU -          pom152               -                2.3    7.3   0.4       2.7    7.1   0.4   1.1   1   0   0   1   1   1   0 PHD-type domain-containing protein OS=Macaca mulatta OX=9544 GN=PHF11 PE=4 SV=1
+tr|A0A1D5QWL0|A0A1D5QWL0_MACMU -          pom152               -                2.4    7.2   1.5       2.9    6.9   1.1   1.3   1   1   0   1   1   1   0 G_PROTEIN_RECEP_F1_2 domain-containing protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|F7HJX7|F7HJX7_MACMU         -          pom152               -                2.7    7.0   0.1       3.9    6.5   0.1   1.1   1   0   0   1   1   1   0 CULLIN_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=CUL2 PE=3 SV=1
+tr|F7HGX7|F7HGX7_MACMU         -          pom152               -                2.7    7.0   0.1       3.7    6.6   0.1   1.1   1   0   0   1   1   1   0 CULLIN_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=CUL2 PE=3 SV=1
+tr|F7HCK9|F7HCK9_MACMU         -          pom152               -                2.8    7.0   0.3       3.4    6.7   0.3   1.1   1   0   0   1   1   1   0 PHD-type domain-containing protein OS=Macaca mulatta OX=9544 GN=PHF11 PE=4 SV=1
+tr|F7FYX9|F7FYX9_MACMU         -          pom152               -                2.9    7.0   0.0       3.2    6.8   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=RPS27L PE=3 SV=2
+tr|A0A1D5QTJ6|A0A1D5QTJ6_MACMU -          pom152               -                2.9    6.9   0.0       3.1    6.9   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=RPS27L PE=3 SV=1
+tr|F7HGX9|F7HGX9_MACMU         -          pom152               -                2.9    6.9   0.1       4.2    6.4   0.1   1.1   1   0   0   1   1   1   0 CULLIN_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=CUL2 PE=3 SV=2
+tr|F7HJX2|F7HJX2_MACMU         -          pom152               -                2.9    6.9   0.1       4.2    6.4   0.1   1.1   1   0   0   1   1   1   0 CULLIN_2 domain-containing protein OS=Macaca mulatta OX=9544 GN=CUL2 PE=3 SV=1
+tr|F7GQ45|F7GQ45_MACMU         -          pom152               -                3.8    6.6   0.0       4.3    6.4   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=RPS27L PE=3 SV=1
+tr|A0A1D5RBG4|A0A1D5RBG4_MACMU -          pom152               -                5.2    6.1   0.0       5.4    6.1   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=LOC696068 PE=3 SV=1
+tr|F6XCL1|F6XCL1_MACMU         -          pom152               -                5.3    6.1   0.0       9.9    5.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCP110 PE=4 SV=2
+tr|F6QV94|F6QV94_MACMU         -          pom152               -                5.4    6.0   0.0        10    5.1   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=CCP110 PE=4 SV=2
+tr|H9H3Z7|H9H3Z7_MACMU         -          pom152               -                5.5    6.0   0.0       5.7    6.0   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=RPS27 PE=3 SV=2
+tr|A0A1D5QPM2|A0A1D5QPM2_MACMU -          pom152               -                6.3    5.8   0.0       6.4    5.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC106996193 PE=3 SV=1
+tr|A0A1D5RFP3|A0A1D5RFP3_MACMU -          pom152               -                6.6    5.8   0.1       7.5    5.6   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 PE=4 SV=1
+tr|A0A1D5R6D8|A0A1D5R6D8_MACMU -          pom152               -                  7    5.7   0.0       8.7    5.4   0.0   1.0   1   0   0   1   1   1   0 KA1 domain-containing protein OS=Macaca mulatta OX=9544 GN=MARK3 PE=4 SV=1
+tr|F7H8U2|F7H8U2_MACMU         -          pom152               -                  8    5.5   1.3        14    4.7   1.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Macaca mulatta OX=9544 GN=ZNF148 PE=4 SV=2
+tr|A0A1D5R4N1|A0A1D5R4N1_MACMU -          pom152               -                8.4    5.4   0.0       8.6    5.4   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=LOC694967 PE=3 SV=1
+tr|A0A1D5R583|A0A1D5R583_MACMU -          pom152               -                9.6    5.2   0.0       9.9    5.2   0.0   1.0   1   0   0   1   1   1   0 40S ribosomal protein S27 OS=Macaca mulatta OX=9544 GN=LOC100427254 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUL/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 01:32:41 2022
+# [ok]

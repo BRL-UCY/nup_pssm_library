@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|A1YK02|NUP75_DROME          -          nup75                -           5.7e-208  692.5   5.6  6.4e-208  692.3   5.6   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup75 OS=Drosophila melanogaster OX=7227 GN=Nup75 PE=2 SV=1
+tr|Q9VFE7|Q9VFE7_DROME         -          nup75                -               0.21   10.1   0.1       6.9    5.1   0.1   2.2   2   0   0   2   2   2   0 Nuclear pore protein OS=Drosophila melanogaster OX=7227 GN=Nup93-2 PE=1 SV=1
+tr|Q9VA69|Q9VA69_DROME         -          nup75                -               0.87    8.0   0.1       1.4    7.4   0.1   1.2   1   0   0   1   1   1   0 Prolyl 4-hydroxylase alpha-related protein PH4[alpha]EFB OS=Drosophila melanogaster OX=7227 GN=PH4alphaEFB PE=1 SV=2
+sp|Q9XZ06|NU931_DROME          -          nup75                -                1.3    7.4   0.0        11    4.4   0.0   2.1   2   0   0   2   2   2   0 Nuclear pore complex protein Nup93-1 OS=Drosophila melanogaster OX=7227 GN=Nup93-1 PE=1 SV=1
+sp|Q9W138|SAMTR_DROME          -          nup75                -                3.9    5.9   0.4       5.1    5.5   0.4   1.1   1   0   0   1   1   1   0 S-adenosylmethionine sensor upstream of mTORC1 OS=Drosophila melanogaster OX=7227 GN=Samtor PE=2 SV=1
+tr|X2JDN0|X2JDN0_DROME         -          nup75                -                4.4    5.7   1.0       8.8    4.7   0.4   1.7   1   1   0   2   2   2   0 Ellipsoid body open, isoform B OS=Drosophila melanogaster OX=7227 GN=ebo PE=4 SV=1
+tr|Q9W5G1|Q9W5G1_DROME         -          nup75                -                4.4    5.7   1.0       8.7    4.7   0.4   1.7   1   1   0   2   2   2   0 Ellipsoid body open, isoform A OS=Drosophila melanogaster OX=7227 GN=ebo PE=2 SV=2
+tr|X2J9Y4|X2J9Y4_DROME         -          nup75                -                4.5    5.7   1.0       8.8    4.7   0.4   1.7   1   1   0   2   2   2   0 Ellipsoid body open, isoform C OS=Drosophila melanogaster OX=7227 GN=ebo PE=4 SV=1
+sp|Q9VL13|MOB3_DROME           -          nup75                -                6.3    5.2   0.0        25    3.2   0.0   1.7   2   0   0   2   2   2   0 MOB kinase activator-like 3 OS=Drosophila melanogaster OX=7227 GN=Mob3 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:09:38 2022
+# [ok]

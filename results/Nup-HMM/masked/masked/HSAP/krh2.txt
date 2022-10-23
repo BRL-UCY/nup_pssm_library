@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57088|TMM33_HUMAN  -          krh2                 -            6.3e-84  283.0   8.3   6.9e-84  282.9   8.3   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=2
+tr|D6RAA6|D6RAA6_HUMAN -          krh2                 -            1.3e-77  262.3   6.0   1.5e-77  262.1   6.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|H0Y8N0|H0Y8N0_HUMAN -          krh2                 -            3.9e-52  178.9   2.7   4.6e-52  178.6   2.7   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|D6RBY2|D6RBY2_HUMAN -          krh2                 -              2e-09   39.0   0.0   2.1e-09   38.9   0.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+tr|J3KN43|J3KN43_HUMAN -          krh2                 -            4.4e-08   34.6   0.0   4.4e-08   34.6   0.0   1.0   1   0   0   1   1   1   1 Transmembrane protein 33 OS=Homo sapiens OX=9606 GN=TMEM33 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/HSAP/krh2.txt --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:09:37 2022
+# [ok]

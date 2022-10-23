@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9ES03|TBX20_MOUSE          -          nup60                -                2.5    8.6   1.0       3.8    7.9   1.0   1.2   1   0   0   1   1   1   0 T-box transcription factor TBX20 OS=Mus musculus OX=10090 GN=Tbx20 PE=2 SV=3
+tr|A0A0G2JG25|A0A0G2JG25_MOUSE -          nup60                -                4.1    7.8   1.6       4.2    7.8   1.6   1.1   1   0   0   1   1   1   0 IQ domain-containing protein E (Fragment) OS=Mus musculus OX=10090 GN=Iqce PE=4 SV=1
+tr|F7CR21|F7CR21_MOUSE         -          nup60                -                4.2    7.8   3.3         5    7.6   3.3   1.0   1   0   0   1   1   1   0 Luc7-like protein 3 (Fragment) OS=Mus musculus OX=10090 GN=Luc7l3 PE=1 SV=1
+tr|A0A087WQC2|A0A087WQC2_MOUSE -          nup60                -                4.9    7.6  10.6       6.5    7.2  10.6   1.2   1   0   0   1   1   1   0 Transmembrane protein 237 (Fragment) OS=Mus musculus OX=10090 GN=Tmem237 PE=1 SV=1
+sp|Q8BKK4|PPR1C_MOUSE          -          nup60                -                6.3    7.2   7.7       3.6    8.0   5.8   1.4   1   1   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 1C OS=Mus musculus OX=10090 GN=Ppp1r1c PE=3 SV=1
+tr|A0A0G2JDZ2|A0A0G2JDZ2_MOUSE -          nup60                -                6.4    7.2   8.7        11    6.5   8.7   1.3   1   0   0   1   1   1   0 Inactive histone-lysine N-methyltransferase 2E OS=Mus musculus OX=10090 GN=Kmt2e PE=1 SV=1
+tr|A0A1W2P896|A0A1W2P896_MOUSE -          nup60                -                8.5    6.8   1.8       8.5    6.8   1.8   1.0   1   0   0   1   1   1   0 Band 4.1-like protein 2 (Fragment) OS=Mus musculus OX=10090 GN=Epb41l2 PE=1 SV=1
+tr|B1AR93|B1AR93_MOUSE         -          nup60                -                8.8    6.8   0.1        11    6.5   0.1   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 47 (Fragment) OS=Mus musculus OX=10090 GN=Ccdc47 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MMUS/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:59:54 2022
+# [ok]

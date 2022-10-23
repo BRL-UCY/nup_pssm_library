@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CQ27|A0A2K3CQ27_CHLRE -          nup93                -            4.8e-25   87.7   0.0   8.1e-14   50.6   0.0   5.6   6   0   0   6   6   6   5 Nuclear pore protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g717800v5 PE=3 SV=1
+tr|A0A2K3DGM1|A0A2K3DGM1_CHLRE -          nup93                -            0.00037   18.6   2.5      0.89    7.4   0.0   3.6   2   1   1   4   4   4   3 ANAPC4_WD40 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g362650v5 PE=4 SV=1
+tr|H9CTG6|H9CTG6_CHLRE         -          nup93                -               0.33    8.9   1.7        32    2.3   0.0   2.8   3   0   0   3   3   3   0 Intraflagellar transport protein 122 homolog OS=Chlamydomonas reinhardtii OX=3055 GN=IFT122 PE=2 SV=1
+tr|A8JDN1|A8JDN1_CHLRE         -          nup93                -                1.6    6.6   0.0       2.2    6.1   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g494900v5 PE=3 SV=1
+tr|A8JFR3|A8JFR3_CHLRE         -          nup93                -                1.7    6.5   0.8       7.7    4.4   0.2   1.9   2   0   0   2   2   2   0 Flagellar associated protein OS=Chlamydomonas reinhardtii OX=3055 GN=FAP118 PE=2 SV=1
+tr|A8JBP0|A8JBP0_CHLRE         -          nup93                -                3.1    5.6   0.0       4.1    5.2   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g199983v5 PE=3 SV=1
+tr|A0A2K3CTP2|A0A2K3CTP2_CHLRE -          nup93                -                8.6    4.2   0.0       9.2    4.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g662950v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/CREI/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 14:28:45 2022
+# [ok]

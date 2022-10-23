@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0S5D2|B0S5D2_DANRE         -          gle1                 -           1.1e-120  404.8   0.0  3.6e-120  403.1   0.0   1.6   1   1   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=4 SV=1
+tr|B0S5C8|B0S5C8_DANRE         -          gle1                 -           1.1e-109  368.5   0.0  3.5e-109  366.9   0.0   1.6   1   1   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=1 SV=1
+sp|Q6DRB1|GLE1_DANRE           -          gle1                 -           6.1e-102  343.0   0.0  8.4e-102  342.5   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin GLE1 OS=Danio rerio OX=7955 GN=gle1 PE=2 SV=2
+tr|F1QW51|F1QW51_DANRE         -          gle1                 -                2.9    7.3   0.0       3.5    7.1   0.0   1.0   1   0   0   1   1   1   0 Si:dkey-14d8.1 OS=Danio rerio OX=7955 GN=si:dkey-14d8.1 PE=4 SV=2
+tr|F1QK83|F1QK83_DANRE         -          gle1                 -                4.2    6.8   0.1       5.2    6.5   0.1   1.0   1   0   0   1   1   1   0 ARV1 homolog, fatty acid homeostasis modulator OS=Danio rerio OX=7955 GN=arv1 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gle1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DRER/gle1.txt --max --cpu 8 hmm_profiles_from_msa/gle1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:31:01 2022
+# [ok]

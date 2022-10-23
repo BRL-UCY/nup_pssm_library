@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P57740|NU107_HUMAN  -          nup107               -                  0 1157.5  18.8         0 1157.3  18.8   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|H0YG15|H0YG15_HUMAN -          nup107               -            3.7e-28  100.1   0.4     4e-28  100.0   0.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|F5GY77|F5GY77_HUMAN -          nup107               -            9.7e-15   55.7   0.1   1.1e-14   55.6   0.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup107 (Fragment) OS=Homo sapiens OX=9606 GN=NUP107 PE=1 SV=1
+tr|E9PS71|E9PS71_HUMAN -          nup107               -               0.14   12.1   0.1      0.19   11.8   0.1   1.0   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 19 OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+tr|B7Z8B3|B7Z8B3_HUMAN -          nup107               -               0.17   11.9   0.1      0.23   11.4   0.1   1.1   1   0   0   1   1   1   0 Peroxisomal biogenesis factor 19 OS=Homo sapiens OX=9606 GN=PEX19 PE=1 SV=1
+tr|H3BPA9|H3BPA9_HUMAN -          nup107               -               0.36   10.8   0.6      0.61   10.1   0.6   1.4   1   1   0   1   1   1   0 Nuclear pore complex protein Nup93 (Fragment) OS=Homo sapiens OX=9606 GN=NUP93 PE=1 SV=8
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/HSAP/nup107.txt --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:26:38 2022
+# [ok]

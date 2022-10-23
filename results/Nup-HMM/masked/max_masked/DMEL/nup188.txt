@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0B4K859|A0A0B4K859_DROME -          nup188               -                  0 1493.8  26.4         0 1443.4  24.2   2.0   2   0   0   2   2   2   2 Nucleoporin 188kDa, isoform C OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=1
+tr|A1Z945|A1Z945_DROME         -          nup188               -                  0 1425.8  26.7  8.3e-294  978.0   5.8   3.0   2   1   1   3   3   3   3 Nucleoporin 188kDa, isoform B OS=Drosophila melanogaster OX=7227 GN=Nup188 PE=1 SV=2
+sp|Q24151|STAT_DROME           -          nup188               -               0.87    6.6   0.0       1.2    6.1   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and transcription activator OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=1 SV=1
+tr|A0A0B4KHS7|A0A0B4KHS7_DROME -          nup188               -               0.87    6.6   0.0       1.2    6.1   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+tr|A0A0B4KGI7|A0A0B4KGI7_DROME -          nup188               -               0.94    6.5   0.0       1.3    6.0   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+tr|A0A0B4KGE1|A0A0B4KGE1_DROME -          nup188               -               0.95    6.5   0.0       1.4    6.0   0.0   1.1   1   0   0   1   1   1   0 Signal transducer and activator of transcription OS=Drosophila melanogaster OX=7227 GN=Stat92E PE=3 SV=1
+sp|Q9V345|CSN4_DROME           -          nup188               -                7.4    3.6   0.0        11    3.0   0.0   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 4 OS=Drosophila melanogaster OX=7227 GN=CSN4 PE=1 SV=1
+tr|E1JH01|E1JH01_DROME         -          nup188               -                7.4    3.6   0.0        11    3.0   0.0   1.1   1   0   0   1   1   1   0 COP9 signalosome subunit 4, isoform B OS=Drosophila melanogaster OX=7227 GN=CSN4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:05:21 2022
+# [ok]

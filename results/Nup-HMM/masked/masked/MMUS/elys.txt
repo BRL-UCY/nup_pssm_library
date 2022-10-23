@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8CJF7|ELYS_MOUSE   -          elys                 -                  0 2645.8   0.0         0 2645.6   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6SJR1|F6SJR1_MOUSE -          elys                 -            4.5e-67  227.8   4.7   1.9e-54  185.9   0.4   2.0   1   1   1   2   2   2   2 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6S6E4|F6S6E4_MOUSE -          elys                 -            3.4e-06   25.9   0.0   3.7e-06   25.7   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+tr|F6QTR3|F6QTR3_MOUSE -          elys                 -            0.00028   19.5   0.0   0.00029   19.5   0.0   1.0   1   0   0   1   1   1   1 Protein ELYS (Fragment) OS=Mus musculus OX=10090 GN=Ahctf1 PE=1 SV=1
+sp|Q8R3E3|WIPI1_MOUSE  -          elys                 -               0.75    8.1   0.0       1.1    7.6   0.0   1.2   1   0   0   1   1   1   0 WD repeat domain phosphoinositide-interacting protein 1 OS=Mus musculus OX=10090 GN=Wipi1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/MMUS/elys.txt --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:08:36 2022
+# [ok]

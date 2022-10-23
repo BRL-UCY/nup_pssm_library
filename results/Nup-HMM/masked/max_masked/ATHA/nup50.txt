@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9C829|NU50A_ARATH  -          nup50                -            2.2e-16   60.7   0.0   8.3e-15   55.5   0.0   2.0   2   0   0   2   2   2   2 Nuclear pore complex protein NUP50A OS=Arabidopsis thaliana OX=3702 GN=NUP50A PE=1 SV=1
+tr|Q93ZH3|Q93ZH3_ARATH -          nup50                -            1.1e-11   45.2   0.0   1.6e-05   24.8   0.0   2.1   2   0   0   2   2   2   2 AT4g11790/T5C23_220 OS=Arabidopsis thaliana OX=3702 GN=At4g11790 PE=2 SV=1
+sp|Q9LW88|NU50B_ARATH  -          nup50                -            2.3e-06   27.6   0.0     5e-05   23.2   0.0   2.0   2   0   0   2   2   2   1 Nuclear pore complex protein NUP50B OS=Arabidopsis thaliana OX=3702 GN=NUP50B PE=1 SV=1
+sp|P92985|RBP1C_ARATH  -          nup50                -            1.1e-05   25.4   0.0   1.4e-05   25.0   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 1 homolog c OS=Arabidopsis thaliana OX=3702 GN=RANBP1C PE=2 SV=1
+sp|Q9LMK7|RBP1A_ARATH  -          nup50                -             0.0023   17.7   0.0    0.0029   17.4   0.0   1.1   1   0   0   1   1   1   1 Ran-binding protein 1 homolog a OS=Arabidopsis thaliana OX=3702 GN=RANBP1A PE=1 SV=1
+sp|Q8RWG8|RBP1B_ARATH  -          nup50                -              0.021   14.6   0.0     0.028   14.1   0.0   1.1   1   0   0   1   1   1   0 Ran-binding protein 1 homolog b OS=Arabidopsis thaliana OX=3702 GN=RANBP1B PE=1 SV=2
+sp|Q84M97|MSL9_ARATH   -          nup50                -                  7    6.2   0.2       9.8    5.7   0.2   1.0   1   0   0   1   1   1   0 Mechanosensitive ion channel protein 9 OS=Arabidopsis thaliana OX=3702 GN=MSL9 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/ATHA/nup50.txt --max --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 11:46:38 2022
+# [ok]

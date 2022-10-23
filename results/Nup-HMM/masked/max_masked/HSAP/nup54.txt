@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q7Z3B4|NUP54_HUMAN          -          nup54                -           7.4e-162  541.8   0.0  8.5e-162  541.5   0.0   1.0   1   0   0   1   1   1   1 Nucleoporin p54 OS=Homo sapiens OX=9606 GN=NUP54 PE=1 SV=2
+sp|Q9BUW7|CI016_HUMAN          -          nup54                -                5.5    7.7   0.1       6.7    7.4   0.1   1.0   1   0   0   1   1   1   0 UPF0184 protein C9orf16 OS=Homo sapiens OX=9606 GN=C9orf16 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup54.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/nup54.txt --max --cpu 8 hmm_profiles_from_msa/nup54.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:38:44 2022
+# [ok]

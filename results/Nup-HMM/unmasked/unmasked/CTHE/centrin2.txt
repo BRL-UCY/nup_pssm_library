@@ -1,0 +1,25 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0SGW8|G0SGW8_CHATD -          centrin2             -            2.5e-47  159.4  10.3     3e-47  159.2  10.3   1.0   1   0   0   1   1   1   1 Calmodulin OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0067840 PE=3 SV=1
+tr|G0SAR7|G0SAR7_CHATD -          centrin2             -            1.6e-27   95.0   1.0   1.4e-26   91.9   1.0   1.9   1   1   0   1   1   1   1 Cell division control protein 31-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0043240 PE=1 SV=1
+tr|G0S7L0|G0S7L0_CHATD -          centrin2             -            1.9e-19   68.7   0.0   2.2e-19   68.5   0.0   1.0   1   0   0   1   1   1   1 Putative light chain protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0036700 PE=4 SV=1
+tr|G0SGV6|G0SGV6_CHATD -          centrin2             -            3.5e-19   67.8   4.5   5.1e-19   67.3   4.5   1.2   1   0   0   1   1   1   1 Calcineurin subunit B OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0067720 PE=3 SV=1
+tr|G0SGE8|G0SGE8_CHATD -          centrin2             -            9.3e-10   37.1   0.0   2.4e-09   35.8   0.0   1.7   1   1   1   2   2   2   1 Hydroxyacylglutathione hydrolase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066070 PE=3 SV=1
+tr|G0S0F1|G0S0F1_CHATD -          centrin2             -              2e-09   36.0   0.4   6.6e-05   21.3   0.2   2.4   1   1   1   2   2   2   2 Putative calcium ion binding protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0009800 PE=4 SV=1
+tr|G0S3P8|G0S3P8_CHATD -          centrin2             -            4.6e-08   31.6   5.1   3.5e-07   28.7   4.4   2.6   1   1   0   2   2   2   1 Putative calcium ion binding protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0030160 PE=4 SV=1
+tr|G0RY25|G0RY25_CHATD -          centrin2             -            4.8e-08   31.6   0.0     5e-05   21.7   0.0   2.0   1   1   1   2   2   2   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0005150 PE=3 SV=1
+tr|G0SHI4|G0SHI4_CHATD -          centrin2             -            4.2e-07   28.5   0.0   7.8e-07   27.6   0.0   1.4   1   0   0   1   1   1   1 Putative calcium ion binding protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070130 PE=4 SV=1
+tr|G0SDU1|G0SDU1_CHATD -          centrin2             -            1.1e-05   23.9   0.4      0.16   10.3   0.0   3.4   2   1   1   4   4   4   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0052990 PE=3 SV=1
+tr|G0SFG4|G0SFG4_CHATD -          centrin2             -            5.8e-05   21.5   0.9   0.00014   20.3   0.9   1.6   1   0   0   1   1   1   1 Putative actin cross-linking protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070720 PE=3 SV=1
+tr|G0RZW8|G0RZW8_CHATD -          centrin2             -            0.00093   17.6   0.0    0.0018   16.7   0.0   1.4   1   0   0   1   1   1   1 GTPase-activating protein gyp2-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0007900 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/centrin2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/centrin2.txt --cpu 8 hmm_profiles_from_msa/centrin2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:36:52 2022
+# [ok]

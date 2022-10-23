@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9GYU8|NUP88_DROME          -          nup88                -           3.4e-215  716.6   7.3  3.8e-215  716.5   7.3   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup88 OS=Drosophila melanogaster OX=7227 GN=mbo PE=1 SV=2
+tr|Q9VCN9|Q9VCN9_DROME         -          nup88                -            2.9e-05   22.8   0.1   0.00012   20.7   0.0   1.9   1   1   1   2   2   2   1 LD16387p OS=Drosophila melanogaster OX=7227 GN=wda PE=2 SV=1
+sp|Q7KNS3|LIS1_DROME           -          nup88                -             0.0044   15.5   2.6       1.2    7.5   0.0   2.9   3   0   0   3   3   3   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=1 SV=2
+tr|A0A0B4K812|A0A0B4K812_DROME -          nup88                -             0.0044   15.5   2.6       1.2    7.5   0.0   2.9   3   0   0   3   3   3   2 Lissencephaly-1 homolog OS=Drosophila melanogaster OX=7227 GN=Lis-1 PE=3 SV=1
+sp|Q9W328|LST8_DROME           -          nup88                -               0.03   12.8   0.0     0.067   11.7   0.0   1.5   2   0   0   2   2   2   0 Protein LST8 homolog OS=Drosophila melanogaster OX=7227 GN=Lst8 PE=1 SV=2
+tr|Q9W3J1|Q9W3J1_DROME         -          nup88                -              0.047   12.2   3.5      0.62    8.5   0.0   2.6   2   1   1   3   3   3   0 Gbeta5 OS=Drosophila melanogaster OX=7227 GN=Gbeta5 PE=2 SV=1
+tr|Q9VVI0|Q9VVI0_DROME         -          nup88                -              0.049   12.1   0.1      0.39    9.1   0.1   2.0   2   0   0   2   2   2   0 SD09427p OS=Drosophila melanogaster OX=7227 GN=U4-U6-60K PE=1 SV=1
+tr|B7YZU7|B7YZU7_DROME         -          nup88                -               0.05   12.1   0.1     0.065   11.7   0.1   1.1   1   0   0   1   1   1   0 Lectin-22C OS=Drosophila melanogaster OX=7227 GN=lectin-22C PE=1 SV=1
+tr|M9PBV5|M9PBV5_DROME         -          nup88                -               0.77    8.1  23.0     0.095   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform I OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+sp|Q9GQF1|JIP3_DROME           -          nup88                -               0.78    8.1  23.0     0.095   11.1   4.5   2.8   2   1   0   2   2   2   0 JNK-interacting protein 3 OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|M9PHR0|M9PHR0_DROME         -          nup88                -               0.84    8.0  23.2     0.097   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform H OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|M9PEH2|M9PEH2_DROME         -          nup88                -               0.85    8.0  23.2     0.098   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform J OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|E1JI66|E1JI66_DROME         -          nup88                -               0.85    8.0  23.2     0.098   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform C OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|E1JI64|E1JI64_DROME         -          nup88                -               0.87    8.0  23.4     0.095   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform D OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|M9PEG9|M9PEG9_DROME         -          nup88                -               0.87    8.0  23.3     0.097   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform E OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|M9PEQ0|M9PEQ0_DROME         -          nup88                -               0.87    8.0  23.3     0.097   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform G OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|M9PEX9|M9PEX9_DROME         -          nup88                -               0.89    7.9  23.3     0.098   11.1   4.5   2.8   2   1   0   2   2   2   0 Sunday driver, isoform F OS=Drosophila melanogaster OX=7227 GN=syd PE=1 SV=1
+tr|Q7KT36|Q7KT36_DROME         -          nup88                -               0.91    7.9  12.7      0.64    8.4   0.6   3.0   3   0   0   3   3   3   0 IP19005p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG13083 PE=2 SV=1
+tr|Q7JVY0|Q7JVY0_DROME         -          nup88                -               0.98    7.8   2.5       3.1    6.1   0.1   2.5   3   0   0   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+tr|A0A0B4KEU5|A0A0B4KEU5_DROME -          nup88                -                  1    7.7   2.5       3.1    6.1   0.1   2.5   3   0   0   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+tr|A0A0B4KEJ7|A0A0B4KEJ7_DROME -          nup88                -                  1    7.7   2.5       3.1    6.1   0.1   2.5   3   0   0   3   3   3   0 Coronin OS=Drosophila melanogaster OX=7227 GN=coro PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DMEL/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:16:35 2022
+# [ok]

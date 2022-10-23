@@ -1,0 +1,15 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q8L7F7|NUP62_ARATH -          nup62                -            8.5e-42  144.5   0.3   8.5e-42  144.5   0.3   3.3   3   0   0   3   3   3   2 Nuclear pore complex protein NUP62 OS=Arabidopsis thaliana OX=3702 GN=NUP62 PE=1 SV=1
+sp|Q8L838|COG4_ARATH  -          nup62                -               0.47   10.4   0.2      0.73    9.8   0.2   1.2   1   0   0   1   1   1   0 Conserved oligomeric Golgi complex subunit 4 OS=Arabidopsis thaliana OX=3702 GN=COG4 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/ATHA/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:07:42 2022
+# [ok]

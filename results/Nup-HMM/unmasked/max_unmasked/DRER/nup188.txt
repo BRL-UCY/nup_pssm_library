@@ -1,0 +1,64 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E7EXJ6|E7EXJ6_DANRE         -          nup188               -                  0 2579.7  29.6         0 2579.6  29.6   1.0   1   0   0   1   1   1   1 Nucleoporin 188 OS=Danio rerio OX=7955 GN=nup188 PE=1 SV=1
+tr|F1QJ18|F1QJ18_DANRE         -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   4.0   5   0   0   5   5   5   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|Q1L8Z0|Q1L8Z0_DANRE         -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   4.0   5   0   0   5   5   5   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|A0A2R8RZS9|A0A2R8RZS9_DANRE -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   3.3   4   0   0   4   4   4   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|F1QHF5|F1QHF5_DANRE         -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   4.0   5   0   0   5   5   5   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=3
+tr|A0A2R8QTU4|A0A2R8QTU4_DANRE -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   3.3   4   0   0   4   4   4   1 Nucleoporin 205 OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|Q1L8Z1|Q1L8Z1_DANRE         -          nup188               -            1.5e-10   40.1   0.2   1.5e-10   40.1   0.2   4.0   5   0   0   5   5   5   1 Nucleoporin 205 (Fragment) OS=Danio rerio OX=7955 GN=nup205 PE=1 SV=1
+tr|E9QI69|E9QI69_DANRE         -          nup188               -              0.017   13.4   1.6     0.024   12.9   1.6   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 (Fragment) OS=Danio rerio OX=7955 GN=cops2 PE=1 SV=1
+tr|Q7ZUR5|Q7ZUR5_DANRE         -          nup188               -              0.061   11.6   0.0     0.079   11.2   0.0   1.0   1   0   0   1   1   1   0 Signal sequence receptor, gamma OS=Danio rerio OX=7955 GN=ssr3 PE=1 SV=1
+sp|Q6IQT4|CSN2_DANRE           -          nup188               -              0.093   11.0   1.5      0.13   10.4   1.5   1.1   1   0   0   1   1   1   0 COP9 signalosome complex subunit 2 OS=Danio rerio OX=7955 GN=cops2 PE=2 SV=1
+tr|A0A0J9YJK1|A0A0J9YJK1_DANRE -          nup188               -               0.23    9.7   2.4      0.28    9.4   2.4   1.0   1   0   0   1   1   1   0 Si:ch211-238e22.5 (Fragment) OS=Danio rerio OX=7955 GN=si:ch211-238e22.5 PE=4 SV=3
+tr|B8JL82|B8JL82_DANRE         -          nup188               -               0.43    8.8   0.0      0.47    8.6   0.0   1.0   1   0   0   1   1   1   0 Signal sequence receptor, gamma OS=Danio rerio OX=7955 GN=ssr3 PE=1 SV=1
+tr|A0A2R8QB32|A0A2R8QB32_DANRE -          nup188               -               0.54    8.4   2.7      0.65    8.2   2.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|E7F4M4|E7F4M4_DANRE         -          nup188               -                1.5    6.9   1.6       2.5    6.2   1.6   1.2   1   0   0   1   1   1   0 Coiled-coil domain-containing 105 OS=Danio rerio OX=7955 GN=ccdc105 PE=1 SV=1
+tr|A0A2R8QH73|A0A2R8QH73_DANRE -          nup188               -                1.6    6.9   0.8       2.3    6.3   0.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A0A0R4IBT8|A0A0R4IBT8_DANRE -          nup188               -                1.6    6.9   0.1       1.9    6.6   0.1   1.0   1   0   0   1   1   1   0 XK-related protein OS=Danio rerio OX=7955 GN=zgc:123035 PE=3 SV=1
+tr|E9QFX0|E9QFX0_DANRE         -          nup188               -                2.2    6.4   0.4       2.1    6.5   0.4   1.0   1   0   0   1   1   1   0 Apolipoprotein C-I OS=Danio rerio OX=7955 GN=apoc1 PE=1 SV=1
+tr|A0A0R4IIV9|A0A0R4IIV9_DANRE -          nup188               -                2.3    6.3   0.1       3.4    5.8   0.1   1.1   1   0   0   1   1   1   0 THUMP domain-containing 1 OS=Danio rerio OX=7955 GN=thumpd1 PE=1 SV=1
+tr|F1QA06|F1QA06_DANRE         -          nup188               -                2.4    6.3   0.0       3.3    5.8   0.0   1.1   1   0   0   1   1   1   0 Sterol O-acyltransferase 2 OS=Danio rerio OX=7955 GN=soat2 PE=3 SV=1
+tr|Q1L893|Q1L893_DANRE         -          nup188               -                2.4    6.3   0.3       2.8    6.1   0.3   1.0   1   0   0   1   1   1   0 Cart4 OS=Danio rerio OX=7955 GN=cart4 PE=2 SV=1
+sp|F1QAJ4|GATA_DANRE           -          nup188               -                2.8    6.0   0.0       3.9    5.6   0.0   1.1   1   0   0   1   1   1   0 Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial OS=Danio rerio OX=7955 GN=qrsl1 PE=2 SV=1
+tr|F1RAN8|F1RAN8_DANRE         -          nup188               -                2.9    6.0   0.6       4.7    5.3   0.2   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=rap1gds1 PE=1 SV=2
+tr|A0A2R8QNJ8|A0A2R8QNJ8_DANRE -          nup188               -                  3    5.9   0.1       4.4    5.4   0.1   1.1   1   0   0   1   1   1   0 XK-related protein OS=Danio rerio OX=7955 GN=zgc:123035 PE=3 SV=1
+sp|Q7T3H1|DCTN2_DANRE          -          nup188               -                3.6    5.7   5.1       4.4    5.4   5.1   1.1   1   0   0   1   1   1   0 Dynactin subunit 2 OS=Danio rerio OX=7955 GN=dctn2 PE=2 SV=1
+tr|X1WGF3|X1WGF3_DANRE         -          nup188               -                4.4    5.4   0.2         6    5.0   0.2   1.1   1   0   0   1   1   1   0 Sterol O-acyltransferase 2 (Fragment) OS=Danio rerio OX=7955 GN=soat2 PE=3 SV=1
+tr|F1QA97|F1QA97_DANRE         -          nup188               -                4.4    5.4   5.6       5.2    5.2   5.6   1.1   1   0   0   1   1   1   0 Dynactin subunit 2 OS=Danio rerio OX=7955 GN=dctn2 PE=1 SV=2
+sp|Q7SXZ1|PIGB_DANRE           -          nup188               -                4.6    5.3   0.2       6.9    4.8   0.2   1.1   1   0   0   1   1   1   0 GPI mannosyltransferase 3 OS=Danio rerio OX=7955 GN=pigb PE=2 SV=1
+tr|E9QDI1|E9QDI1_DANRE         -          nup188               -                4.6    5.3   0.3       4.9    5.2   0.3   1.0   1   0   0   1   1   1   0 Apolipoprotein C-I OS=Danio rerio OX=7955 GN=apoc1 PE=1 SV=1
+tr|A0A0R4INR1|A0A0R4INR1_DANRE -          nup188               -                  5    5.2   0.5       7.8    4.6   0.5   1.2   1   0   0   1   1   1   0 Abnormal spindle microtubule assembly OS=Danio rerio OX=7955 GN=aspm PE=4 SV=1
+sp|Q5EB20|RIPR3_DANRE          -          nup188               -                5.3    5.1   0.5        12    4.0   0.5   1.5   1   0   0   1   1   1   0 RIPOR family member 3 OS=Danio rerio OX=7955 GN=ripor3 PE=2 SV=1
+tr|A0A0R4ICH0|A0A0R4ICH0_DANRE -          nup188               -                5.7    5.0   1.0        12    3.9   1.0   1.5   1   0   0   1   1   1   0 RPTOR-independent companion of MTOR, complex 2 a OS=Danio rerio OX=7955 GN=rictora PE=4 SV=3
+tr|E7FEH9|E7FEH9_DANRE         -          nup188               -                5.8    5.0   0.1       6.2    4.9   0.1   1.1   1   0   0   1   1   1   0 Proliferation and apoptosis adaptor protein 15 OS=Danio rerio OX=7955 GN=pea15 PE=1 SV=1
+tr|F1R2W2|F1R2W2_DANRE         -          nup188               -                5.9    5.0   0.5        12    3.9   0.5   1.4   1   0   0   1   1   1   0 RIPOR family member 3 OS=Danio rerio OX=7955 GN=ripor3 PE=4 SV=1
+tr|F8W2Y0|F8W2Y0_DANRE         -          nup188               -                  6    5.0   0.0       6.4    4.9   0.0   1.0   1   0   0   1   1   1   0 Haptoglobin (Fragment) OS=Danio rerio OX=7955 GN=hp PE=1 SV=1
+tr|A1L2C7|A1L2C7_DANRE         -          nup188               -                6.4    4.9   0.1        30    2.6   0.0   1.7   2   0   0   2   2   2   0 Nucleolar protein 4-like b OS=Danio rerio OX=7955 GN=nol4lb PE=2 SV=1
+tr|D0EXE2|D0EXE2_DANRE         -          nup188               -                6.6    4.8   0.4       8.4    4.5   0.4   1.0   1   0   0   1   1   1   0 Prostaglandin E receptor 1 subtype EP1a-like protein OS=Danio rerio OX=7955 GN=ptger1b PE=2 SV=1
+tr|E9QCC1|E9QCC1_DANRE         -          nup188               -                6.9    4.8   0.1       8.1    4.5   0.1   1.0   1   0   0   1   1   1   0 Dynein, axonemal, intermediate chain 1, paralog 1 (Fragment) OS=Danio rerio OX=7955 GN=dnai1.1 PE=4 SV=1
+tr|B0V1G7|B0V1G7_DANRE         -          nup188               -                6.9    4.7   0.5       9.5    4.3   0.5   1.2   1   0   0   1   1   1   0 Torsin family 4, member Ab OS=Danio rerio OX=7955 GN=tor4ab PE=4 SV=1
+tr|A0A2R8RU75|A0A2R8RU75_DANRE -          nup188               -                7.4    4.7   0.1       8.4    4.5   0.1   1.0   1   0   0   1   1   1   0 ATP synthase membrane subunit eb OS=Danio rerio OX=7955 GN=atp5meb PE=1 SV=1
+tr|E7F477|E7F477_DANRE         -          nup188               -                7.6    4.6   4.1       1.4    7.0   0.1   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Danio rerio OX=7955 GN=LOC100007935 PE=4 SV=1
+sp|Q6PH18|N2F1B_DANRE          -          nup188               -                7.6    4.6   0.1        10    4.2   0.1   1.1   1   0   0   1   1   1   0 Nuclear receptor subfamily 2 group F member 1-B OS=Danio rerio OX=7955 GN=nr2f1b PE=2 SV=1
+tr|E7F897|E7F897_DANRE         -          nup188               -                7.7    4.6   0.5        36    2.4   0.2   1.8   2   0   0   2   2   2   0 Carboxypeptidase B2 (plasma) OS=Danio rerio OX=7955 GN=cpb2 PE=4 SV=1
+tr|A0A2R8QQX8|A0A2R8QQX8_DANRE -          nup188               -                7.9    4.6   0.5        11    4.1   0.5   1.1   1   0   0   1   1   1   0 Torsin family 4, member Ab OS=Danio rerio OX=7955 GN=tor4ab PE=4 SV=1
+tr|E7F2M7|E7F2M7_DANRE         -          nup188               -                8.1    4.5   0.3        11    4.1   0.3   1.1   1   0   0   1   1   1   0 RecQ helicase-like 4 OS=Danio rerio OX=7955 GN=recql4 PE=4 SV=3
+tr|E7F8R0|E7F8R0_DANRE         -          nup188               -                8.2    4.5   0.3        11    4.1   0.3   1.1   1   0   0   1   1   1   0 RecQ helicase-like 4 OS=Danio rerio OX=7955 GN=recql4 PE=4 SV=2
+tr|B7ZCX8|B7ZCX8_DANRE         -          nup188               -                8.7    4.4   0.3        40    2.2   0.1   1.8   1   1   1   2   2   2   0 Si:dkeyp-77c8.3 (Fragment) OS=Danio rerio OX=7955 GN=si:dkeyp-77c8.3 PE=4 SV=1
+tr|B8JL34|B8JL34_DANRE         -          nup188               -                8.9    4.4   0.3        15    3.6   0.3   1.3   1   0   0   1   1   1   0 Zgc:123010 OS=Danio rerio OX=7955 GN=zgc:123010 PE=1 SV=1
+tr|A0A0R4IML8|A0A0R4IML8_DANRE -          nup188               -                8.9    4.4   0.2        12    3.9   0.2   1.1   1   0   0   1   1   1   0 THUMP domain-containing 1 OS=Danio rerio OX=7955 GN=thumpd1 PE=1 SV=1
+tr|F1QU35|F1QU35_DANRE         -          nup188               -                8.9    4.4   1.2        16    3.6   1.2   1.4   1   0   0   1   1   1   0 Proteasome 26S subunit, non-ATPase 5 OS=Danio rerio OX=7955 GN=psmd5 PE=1 SV=1
+tr|A0A2R8QSX2|A0A2R8QSX2_DANRE -          nup188               -                9.6    4.3   4.3        10    4.2   4.3   1.0   1   0   0   1   1   1   0 Protein phosphatase 1, regulatory subunit 9Bb OS=Danio rerio OX=7955 GN=ppp1r9bb PE=4 SV=1
+sp|Q06726|NR2F5_DANRE          -          nup188               -                9.8    4.2   0.1        13    3.9   0.1   1.0   1   0   0   1   1   1   0 Nuclear receptor subfamily 2 group F member 5 OS=Danio rerio OX=7955 GN=nr2f5 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/DRER/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 00:17:34 2022
+# [ok]

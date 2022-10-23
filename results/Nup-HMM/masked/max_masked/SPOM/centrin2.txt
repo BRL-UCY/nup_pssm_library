@@ -1,0 +1,26 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P05933|CALM_SCHPO  -          centrin2             -            6.3e-40  134.9   1.2   6.8e-40  134.8   1.2   1.0   1   0   0   1   1   1   1 Calmodulin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cam1 PE=1 SV=1
+sp|O74435|CDC31_SCHPO -          centrin2             -            3.5e-39  132.4   0.0   3.8e-39  132.3   0.0   1.0   1   0   0   1   1   1   1 Cell division control protein 31 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc31 PE=1 SV=1
+sp|O14008|CAM2_SCHPO  -          centrin2             -            3.3e-19   67.4   0.3   4.8e-19   66.9   0.3   1.2   1   0   0   1   1   1   1 Myosin 1 light chain cam2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cam2 PE=1 SV=1
+sp|Q9UUG5|MLR1_SCHPO  -          centrin2             -            6.8e-15   53.4   0.0   8.2e-15   53.1   0.0   1.0   1   0   0   1   1   1   1 Myosin regulatory light chain 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rlc1 PE=1 SV=1
+sp|Q09196|MLR4_SCHPO  -          centrin2             -              3e-14   51.3   0.0   3.5e-14   51.1   0.0   1.1   1   0   0   1   1   1   1 Myosin regulatory light chain cdc4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc4 PE=1 SV=1
+sp|O94455|YFFE_SCHPO  -          centrin2             -              1e-11   43.0   0.0     1e-11   43.0   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized calcium-binding protein C1687.14c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC1687.14c PE=4 SV=1
+sp|Q9UU93|CANB_SCHPO  -          centrin2             -              2e-08   32.3   0.7   6.5e-07   27.4   0.7   2.3   1   1   0   1   1   1   1 Calcineurin subunit B OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cnb1 PE=3 SV=1
+sp|Q09711|NCS1_SCHPO  -          centrin2             -            2.2e-06   25.7   1.4   4.1e-05   21.5   0.9   2.6   2   1   0   2   2   2   1 Calcium-binding protein NCS-1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ncs1 PE=1 SV=2
+sp|O59945|FIMB_SCHPO  -          centrin2             -               0.62    7.9   0.1       1.1    7.1   0.1   1.3   1   0   0   1   1   1   0 Fimbrin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=fim1 PE=1 SV=1
+sp|P40977|PLC1_SCHPO  -          centrin2             -                1.3    6.9   0.2         4    5.3   0.1   1.6   1   1   1   2   2   2   0 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=plc1 PE=1 SV=1
+sp|O74542|YCV3_SCHPO  -          centrin2             -                2.4    6.0   0.0        43    1.9   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized aminotransferase C777.03c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC777.03c PE=3 SV=1
+sp|O74839|MSY1_SCHPO  -          centrin2             -                5.2    4.9   0.0       8.8    4.2   0.0   1.2   1   0   0   1   1   1   0 Mechanosensitive ion channel protein Msy1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=msy1 PE=1 SV=1
+sp|O43048|YH51_SCHPO  -          centrin2             -                7.3    4.4   0.0        13    3.6   0.0   1.3   1   0   0   1   1   1   0 TBC domain-containing protein C215.01 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC215.01 PE=3 SV=4
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/centrin2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/centrin2.txt --max --cpu 8 hmm_profiles_from_msa/centrin2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:17:48 2022
+# [ok]

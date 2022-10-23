@@ -1,0 +1,30 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P32499|NUP2_YEAST  -          nup50                -             7e-106  353.4 130.8   3.3e-91  305.0 113.9   3.1   1   1   2   3   3   3   3 Nucleoporin NUP2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NUP2 PE=1 SV=2
+sp|P14907|NSP1_YEAST  -          nup50                -            6.3e-20   69.7 257.8   3.4e-08   31.0  46.2   7.0   2   1   5   7   7   6   5 Nucleoporin NSP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=NSP1 PE=1 SV=1
+sp|P41920|YRB1_YEAST  -          nup50                -            9.1e-18   62.6  14.9   3.4e-17   60.7  14.9   1.8   1   1   0   1   1   1   1 Ran-specific GTPase-activating protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRB1 PE=1 SV=1
+sp|P40517|YRB2_YEAST  -          nup50                -            7.1e-16   56.3  35.6   1.4e-15   55.4  35.6   1.4   1   1   0   1   1   1   1 Ran-specific GTPase-activating protein 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRB2 PE=1 SV=1
+sp|O13547|CCW14_YEAST -          nup50                -               0.16    8.9  64.3      0.19    8.7  64.3   1.0   1   0   0   1   1   1   0 Covalently-linked cell wall protein 14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CCW14 PE=1 SV=1
+sp|P38900|YH19_YEAST  -          nup50                -                2.6    4.9  64.1       3.8    4.4  64.1   1.2   1   0   0   1   1   1   0 Putative uncharacterized protein YHR219W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YHR219W PE=4 SV=1
+sp|Q3E7X8|YE077_YEAST -          nup50                -                  3    4.7  88.7       5.2    4.0  88.7   1.3   1   0   0   1   1   1   0 Y' element ATP-dependent helicase YEL077C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YEL077C PE=2 SV=1
+sp|P29029|CHIT_YEAST  -          nup50                -                4.3    4.2  60.0       6.6    3.6  60.0   1.2   1   0   0   1   1   1   0 Endochitinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CTS1 PE=1 SV=2
+sp|Q03099|YMN3_YEAST  -          nup50                -                4.6    4.1  62.6       6.8    3.6  62.6   1.1   1   0   0   1   1   1   0 Y' element ATP-dependent helicase YML133C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YML133C PE=2 SV=1
+sp|P27654|TIP1_YEAST  -          nup50                -                4.6    4.1  30.3       5.8    3.8  30.3   1.1   1   0   0   1   1   1   0 Temperature shock-inducible protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIP1 PE=1 SV=1
+sp|P32623|CRH2_YEAST  -          nup50                -                  5    4.0  49.2       7.4    3.4  49.2   1.2   1   0   0   1   1   1   0 Probable glycosidase CRH2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=UTR2 PE=1 SV=3
+sp|Q08907|FIT3_YEAST  -          nup50                -                7.2    3.5  45.1       8.4    3.3  45.1   1.0   1   0   0   1   1   1   0 Facilitator of iron transport 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FIT3 PE=2 SV=1
+sp|P40552|TIR3_YEAST  -          nup50                -                8.3    3.3  66.8        11    2.9  66.8   1.0   1   0   0   1   1   1   0 Cell wall protein TIR3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIR3 PE=2 SV=1
+sp|Q08995|YP204_YEAST -          nup50                -                9.3    3.1  79.2        14    2.6  79.2   1.1   1   0   0   1   1   1   0 Y' element ATP-dependent helicase YPR204W OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPR204W PE=2 SV=1
+sp|P53819|YRF16_YEAST -          nup50                -                9.3    3.1  63.1        14    2.5  63.1   1.1   1   0   0   1   1   1   0 Y' element ATP-dependent helicase protein 1 copy 6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRF1-6 PE=2 SV=1
+sp|P0CX14|YRF13_YEAST -          nup50                -                9.3    3.1  63.1        14    2.5  63.1   1.1   1   0   0   1   1   1   0 Y' element ATP-dependent helicase protein 1 copy 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRF1-3 PE=2 SV=1
+sp|P0CX15|YRF17_YEAST -          nup50                -                9.3    3.1  63.1        14    2.5  63.1   1.1   1   0   0   1   1   1   0 Y' element ATP-dependent helicase protein 1 copy 7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YRF1-7 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SCER/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SCER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:28:26 2022
+# [ok]

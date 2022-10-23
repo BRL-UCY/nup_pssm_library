@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q582T8|Q582T8_TRYB2 -          nup58                -                2.9    5.1   0.0       3.8    4.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.2250 PE=4 SV=1
+tr|Q57XK4|Q57XK4_TRYB2 -          nup58                -                3.9    4.7   0.0       6.1    4.1   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.3.3540 PE=4 SV=1
+tr|Q38A33|Q38A33_TRYB2 -          nup58                -                  6    4.1   0.0       8.8    3.6   0.0   1.1   1   0   0   1   1   1   0 ATP-dependent chaperone, putative OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.6k15.0980 PE=4 SV=1
+tr|Q4GZ18|Q4GZ18_TRYB2 -          nup58                -                6.5    4.0   0.1       6.8    3.9   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=TB927.1.2010 PE=4 SV=1
+tr|Q582K2|Q582K2_TRYB2 -          nup58                -                7.1    3.9   0.1        10    3.4   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb927.7.5870 PE=4 SV=1
+tr|Q38BI0|Q38BI0_TRYB2 -          nup58                -                7.9    3.7   1.3        11    3.2   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=Tb10.70.3050 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TBRU/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TBRU.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:56:45 2022
+# [ok]

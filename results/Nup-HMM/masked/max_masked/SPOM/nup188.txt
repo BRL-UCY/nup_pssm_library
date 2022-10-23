@@ -1,0 +1,25 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9P7M8|NU184_SCHPO -          nup188               -            5.2e-32  108.0  24.9   6.3e-32  107.8  18.1   2.9   2   1   0   2   2   2   2 Nucleoporin nup184 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup184 PE=4 SV=1
+sp|P78847|NU186_SCHPO -          nup188               -                1.2    4.1   4.1       3.7    2.5   0.1   2.4   3   0   0   3   3   3   0 Nucleoporin nup186 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup186 PE=2 SV=2
+sp|Q9US14|IPMK_SCHPO  -          nup188               -                1.7    3.6   0.1       2.2    3.2   0.1   1.0   1   0   0   1   1   1   0 Inositol polyphosphate multikinase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=arg82 PE=1 SV=1
+sp|Q9HFF5|PDS5_SCHPO  -          nup188               -                2.2    3.2   0.4       3.9    2.4   0.4   1.3   1   0   0   1   1   1   0 Sister chromatid cohesion protein pds5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pds5 PE=1 SV=1
+sp|O13874|YE19_SCHPO  -          nup188               -                2.5    3.0   0.0       4.4    2.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized NOC2 family protein C1B3.09c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC1B3.09c PE=3 SV=1
+sp|O42938|PFKA_SCHPO  -          nup188               -                4.2    2.3   0.0       5.8    1.8   0.0   1.0   1   0   0   1   1   1   0 ATP-dependent 6-phosphofructokinase OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pfk1 PE=1 SV=1
+sp|O94241|ARP6_SCHPO  -          nup188               -                5.4    1.9   0.0       8.6    1.3   0.0   1.1   1   0   0   1   1   1   0 Actin-like protein arp6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=arp6 PE=3 SV=1
+sp|P26306|RAD9_SCHPO  -          nup188               -                7.2    1.5   0.1       9.3    1.1   0.1   1.0   1   0   0   1   1   1   0 DNA repair protein rad9 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rad9 PE=1 SV=1
+sp|Q10197|ALP1_SCHPO  -          nup188               -                8.1    1.3   0.1        11    0.9   0.1   1.1   1   0   0   1   1   1   0 Tubulin-folding cofactor D OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alp1 PE=1 SV=3
+sp|O42656|RIC1_SCHPO  -          nup188               -                8.4    1.3   0.0        12    0.8   0.0   1.0   1   0   0   1   1   1   0 Guanine nucleotide exchange factor subunit ric1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ric1 PE=1 SV=2
+sp|O60107|SNX41_SCHPO -          nup188               -                8.7    1.2   2.4       3.5    2.6   0.2   1.3   2   0   0   2   2   2   0 Sorting nexin-41 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=snx41 PE=1 SV=1
+sp|O74349|LTN1_SCHPO  -          nup188               -                 10    1.0   0.3        17    0.3   0.3   1.2   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase listerin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rkr1 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/SPOM/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:15:16 2022
+# [ok]

@@ -1,0 +1,61 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A2CEI4|A2CEI4_DANRE         -          nup88                -           1.4e-235  785.0   0.3  1.7e-235  784.8   0.3   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+tr|A0A2R8QUY6|A0A2R8QUY6_DANRE -          nup88                -           1.5e-235  785.0   0.3  1.7e-235  784.8   0.3   1.0   1   0   0   1   1   1   1 Nucleoporin 88 OS=Danio rerio OX=7955 GN=nup88 PE=1 SV=1
+tr|A0A2R8QKD9|A0A2R8QKD9_DANRE -          nup88                -             0.0063   16.1   8.8    0.0074   15.9   8.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A9C3R3|A9C3R3_DANRE         -          nup88                -             0.0063   16.1   0.2      0.59    9.6   0.1   2.1   2   0   0   2   2   2   1 Excision repair cross-complementation group 8 OS=Danio rerio OX=7955 GN=ercc8 PE=4 SV=1
+sp|Q7ZVF0|POC1A_DANRE          -          nup88                -             0.0068   16.0   0.2    0.0068   16.0   0.2   4.0   3   2   1   5   5   5   2 POC1 centriolar protein homolog A OS=Danio rerio OX=7955 GN=poc1a PE=2 SV=1
+tr|A0A2R8PY92|A0A2R8PY92_DANRE -          nup88                -               0.01   15.5   0.1     0.024   14.2   0.1   1.6   2   0   0   2   2   2   0 PRP4 pre-mRNA-processing factor 4 homolog (yeast) OS=Danio rerio OX=7955 GN=prpf4 PE=1 SV=1
+tr|A0A0G2L107|A0A0G2L107_DANRE -          nup88                -              0.014   15.0   0.0       7.3    6.0   0.0   3.0   1   1   2   3   3   3   0 Coronin OS=Danio rerio OX=7955 PE=3 SV=2
+tr|A5WUQ1|A5WUQ1_DANRE         -          nup88                -               0.02   14.5   6.8     0.025   14.1   6.8   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing 3a OS=Danio rerio OX=7955 GN=ccdc3a PE=4 SV=1
+tr|Q6PH45|Q6PH45_DANRE         -          nup88                -              0.027   14.0   0.1     0.058   12.9   0.1   1.5   1   0   0   1   1   1   0 PRP4 pre-mRNA-processing factor 4 homolog (yeast) OS=Danio rerio OX=7955 GN=prpf4 PE=1 SV=1
+tr|A0A2R8QIJ4|A0A2R8QIJ4_DANRE -          nup88                -              0.031   13.8   0.1     0.049   13.2   0.1   1.2   1   0   0   1   1   1   0 PRP4 pre-mRNA-processing factor 4 homolog (yeast) OS=Danio rerio OX=7955 GN=prpf4 PE=1 SV=1
+tr|A0A2R8Q9X2|A0A2R8Q9X2_DANRE -          nup88                -              0.042   13.4   6.4     0.054   13.0   6.4   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing 3a OS=Danio rerio OX=7955 GN=ccdc3a PE=4 SV=1
+tr|F1RAF4|F1RAF4_DANRE         -          nup88                -              0.061   12.9  10.6     0.037   13.6   9.0   1.4   1   1   0   1   1   1   0 ATG16 autophagy-related 16-like 2 (S. cerevisiae) (Fragment) OS=Danio rerio OX=7955 GN=atg16l2 PE=4 SV=2
+tr|F1QVC7|F1QVC7_DANRE         -          nup88                -              0.063   12.8   0.1      0.17   11.4   0.0   1.7   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B OS=Danio rerio OX=7955 GN=ppp2r2ca PE=3 SV=1
+tr|Q561X2|Q561X2_DANRE         -          nup88                -              0.098   12.2   2.3      0.13   11.8   2.3   1.1   1   0   0   1   1   1   0 Tmed9 protein OS=Danio rerio OX=7955 GN=tmed9 PE=1 SV=1
+tr|F1QF18|F1QF18_DANRE         -          nup88                -               0.12   11.9   0.0      0.18   11.3   0.0   1.2   1   0   0   1   1   1   0 DDB1 and CUL4-associated factor 8 OS=Danio rerio OX=7955 GN=dcaf8 PE=1 SV=2
+tr|A0A0R4I9B2|A0A0R4I9B2_DANRE -          nup88                -               0.13   11.8   2.2       3.3    7.2   0.0   3.2   3   0   0   3   3   3   0 Lissencephaly-1 homolog OS=Danio rerio OX=7955 GN=pafah1b1b PE=1 SV=1
+sp|Q803D2|LIS1B_DANRE          -          nup88                -               0.14   11.7   2.2       3.3    7.2   0.0   3.2   3   0   0   3   3   3   0 Lissencephaly-1 homolog B OS=Danio rerio OX=7955 GN=pafah1b1b PE=2 SV=3
+tr|A8WHV8|A8WHV8_DANRE         -          nup88                -               0.15   11.6  14.1      0.21   11.1  14.1   1.1   1   0   0   1   1   1   0 Centromere protein H OS=Danio rerio OX=7955 GN=cenph PE=2 SV=1
+tr|I7HJI0|I7HJI0_DANRE         -          nup88                -               0.18   11.3   0.1      0.54    9.8   0.1   1.6   1   1   1   2   2   2   0 Nucleoporin 37 (Fragment) OS=Danio rerio OX=7955 GN=nup37 PE=1 SV=8
+tr|A0A0R4IA67|A0A0R4IA67_DANRE -          nup88                -               0.22   11.0   0.0       1.4    8.3   0.0   2.0   2   0   0   2   2   2   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B (Fragment) OS=Danio rerio OX=7955 GN=ppp2r2d PE=1 SV=1
+tr|J3JS14|J3JS14_DANRE         -          nup88                -               0.23   10.9   0.1      0.68    9.4   0.1   1.6   1   1   1   2   2   2   0 Nucleoporin 37 OS=Danio rerio OX=7955 GN=nup37 PE=1 SV=1
+sp|Q7T394|LIS1A_DANRE          -          nup88                -               0.23   10.9   0.1      0.23   10.9   0.1   3.1   4   0   0   4   4   4   0 Lissencephaly-1 homolog A OS=Danio rerio OX=7955 GN=pafah1b1a PE=2 SV=3
+sp|Q6NY64|2ABD_DANRE           -          nup88                -               0.23   10.9   0.1       2.1    7.8   0.0   2.3   3   0   0   3   3   3   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform OS=Danio rerio OX=7955 GN=ppp2r2d PE=2 SV=1
+tr|A0A0R4IAE3|A0A0R4IAE3_DANRE -          nup88                -               0.24   10.9   0.1       2.1    7.8   0.0   2.3   3   0   0   3   3   3   0 Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B OS=Danio rerio OX=7955 GN=ppp2r2d PE=1 SV=2
+tr|Q6IQB0|Q6IQB0_DANRE         -          nup88                -               0.37   10.3   1.5       0.5    9.9   1.5   1.1   1   0   0   1   1   1   0 Vamp4 protein OS=Danio rerio OX=7955 GN=vamp4 PE=1 SV=1
+sp|Q6P0D9|CIAO1_DANRE          -          nup88                -               0.38   10.2   3.9       2.1    7.8   0.3   2.7   1   1   1   2   2   2   0 Probable cytosolic iron-sulfur protein assembly protein ciao1 OS=Danio rerio OX=7955 GN=ciao1 PE=2 SV=1
+tr|A0A2R8PVJ3|A0A2R8PVJ3_DANRE -          nup88                -               0.42   10.1   0.0      0.81    9.2   0.0   1.5   1   0   0   1   1   1   0 WD repeat domain 1 OS=Danio rerio OX=7955 PE=1 SV=1
+tr|A0A2R8QF09|A0A2R8QF09_DANRE -          nup88                -               0.56    9.7   1.8      0.77    9.2   1.8   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|A5PMA3|A5PMA3_DANRE         -          nup88                -               0.58    9.6   1.8      0.81    9.2   1.8   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|A0A2R8QRA8|A0A2R8QRA8_DANRE -          nup88                -               0.59    9.6   1.8      0.82    9.1   1.8   1.1   1   0   0   1   1   1   0 Fibrinogen C domain-containing 1 OS=Danio rerio OX=7955 GN=fibcd1 PE=4 SV=1
+tr|E9QGV8|E9QGV8_DANRE         -          nup88                -               0.59    9.6   0.1      0.72    9.3   0.1   1.0   1   0   0   1   1   1   0 Poly(A)-binding protein, nuclear 1 OS=Danio rerio OX=7955 GN=pabpn1 PE=1 SV=1
+tr|A0A2R8QAX6|A0A2R8QAX6_DANRE -          nup88                -                0.6    9.6   7.8      0.66    9.4   7.8   1.1   1   0   0   1   1   1   0 Nup54 domain-containing protein OS=Danio rerio OX=7955 PE=4 SV=1
+tr|A7YYD9|A7YYD9_DANRE         -          nup88                -               0.62    9.5   0.1      0.79    9.2   0.1   1.0   1   0   0   1   1   1   0 Pabpn1 protein OS=Danio rerio OX=7955 GN=pabpn1 PE=1 SV=1
+tr|A0A140LGG8|A0A140LGG8_DANRE -          nup88                -               0.68    9.4  14.2      0.85    9.1  14.2   1.1   1   0   0   1   1   1   0 Myosin, heavy chain 14, non-muscle (Fragment) OS=Danio rerio OX=7955 GN=myh14 PE=1 SV=1
+tr|Q6AXK9|Q6AXK9_DANRE         -          nup88                -               0.73    9.3   0.1       2.5    7.5   0.0   2.0   2   0   0   2   2   2   0 THO complex 3 OS=Danio rerio OX=7955 GN=thoc3 PE=1 SV=1
+sp|Q1JPT7|THAP1_DANRE          -          nup88                -               0.92    9.0   6.7       1.3    8.4   6.7   1.1   1   0   0   1   1   1   0 THAP domain-containing protein 1 OS=Danio rerio OX=7955 GN=thap1 PE=2 SV=2
+tr|E7F6V4|E7F6V4_DANRE         -          nup88                -                1.2    8.6  17.5       1.6    8.1  17.5   1.2   1   0   0   1   1   1   0 Si:dkey-54n8.4 OS=Danio rerio OX=7955 GN=si:dkey-54n8.4 PE=4 SV=1
+tr|A0A0R4IK75|A0A0R4IK75_DANRE -          nup88                -                  2    7.9   7.4       2.8    7.4   7.4   1.1   1   0   0   1   1   1   0 Laminin, gamma 2 (Fragment) OS=Danio rerio OX=7955 GN=lamc2 PE=4 SV=1
+tr|A0A0G2L2U9|A0A0G2L2U9_DANRE -          nup88                -                2.1    7.8   5.2       2.9    7.4   5.2   1.1   1   0   0   1   1   1   0 Si:ch211-212k18.11 OS=Danio rerio OX=7955 GN=si:ch211-212k18.11 PE=4 SV=1
+tr|Q7T3H0|Q7T3H0_DANRE         -          nup88                -                3.6    7.0   6.4       4.3    6.8   6.4   1.0   1   0   0   1   1   1   0 Transcription factor mafT OS=Danio rerio OX=7955 GN=maff PE=2 SV=1
+tr|F1R3T7|F1R3T7_DANRE         -          nup88                -                4.4    6.7  13.2      0.15   11.6   5.5   2.0   2   0   0   2   2   2   0 Lysine (K)-specific methyltransferase 2D (Fragment) OS=Danio rerio OX=7955 GN=kmt2d PE=4 SV=1
+tr|F1R2B9|F1R2B9_DANRE         -          nup88                -                4.4    6.7   6.5       5.9    6.3   6.5   1.1   1   0   0   1   1   1   0 Cerebellin 10 OS=Danio rerio OX=7955 GN=cbln10 PE=4 SV=2
+tr|A0A1I7Q3W7|A0A1I7Q3W7_DANRE -          nup88                -                5.4    6.4  37.6     0.027   14.1  21.8   2.0   1   1   0   1   1   1   0 Tropomyosin alpha-1 chain (Fragment) OS=Danio rerio OX=7955 GN=tpma PE=1 SV=1
+tr|F1R1W1|F1R1W1_DANRE         -          nup88                -                6.7    6.1   8.1       1.5    8.3   0.1   2.6   3   0   0   3   3   3   0 Striatin, calmodulin-binding protein 3 OS=Danio rerio OX=7955 GN=strn3 PE=1 SV=1
+tr|F1QDI6|F1QDI6_DANRE         -          nup88                -                8.5    5.8  17.9      0.34   10.4   9.0   2.1   2   0   0   2   2   2   0 Transcriptional regulator OS=Danio rerio OX=7955 GN=mych PE=4 SV=1
+tr|A0A140LGW8|A0A140LGW8_DANRE -          nup88                -                8.6    5.8  11.1      0.14   11.7   0.7   2.0   2   0   0   2   2   2   0 Si:dkey-125e8.5 OS=Danio rerio OX=7955 GN=si:dkey-125e8.5 PE=4 SV=1
+tr|Q6DEG0|Q6DEG0_DANRE         -          nup88                -                9.6    5.6  14.2        12    5.2  14.2   1.2   1   0   0   1   1   1   0 TNF receptor-associated factor OS=Danio rerio OX=7955 GN=traf3 PE=2 SV=1
+tr|Q5RIX5|Q5RIX5_DANRE         -          nup88                -                9.6    5.6  14.7        12    5.3  14.7   1.1   1   0   0   1   1   1   0 B cell receptor-associated protein 29 OS=Danio rerio OX=7955 GN=bcap29 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/DRER/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/DRER.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:19:15 2022
+# [ok]

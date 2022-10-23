@@ -1,0 +1,52 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A178VC85|A0A178VC85_ARATH -          krh2                 -            3.7e-42  145.3  11.9   4.8e-42  144.9  11.9   1.1   1   0   0   1   1   1   1 Dihydroflavonol 4-reductase/flavanone protein OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=4 SV=1
+tr|Q9M898|Q9M898_ARATH         -          krh2                 -            7.4e-42  144.3  11.9   9.8e-42  143.9  11.9   1.1   1   0   0   1   1   1   1 AT3g02420/F16B3_5 OS=Arabidopsis thaliana OX=3702 GN=At3g02420 PE=1 SV=1
+tr|A0A178UUR3|A0A178UUR3_ARATH -          krh2                 -               0.28   11.4   0.3       3.4    7.9   0.0   2.1   2   0   0   2   2   2   0 Cyclin d51 OS=Arabidopsis thaliana OX=3702 GN=CYCD5:1 PE=3 SV=1
+sp|Q2V3B2|CCD51_ARATH          -          krh2                 -               0.48   10.6   0.3       4.5    7.5   0.0   2.1   2   0   0   2   2   2   0 Cyclin-D5-1 OS=Arabidopsis thaliana OX=3702 GN=CYCD5-1 PE=2 SV=2
+sp|Q1JPM5|OFT30_ARATH          -          krh2                 -               0.54   10.5   0.1      0.91    9.7   0.1   1.3   1   0   0   1   1   1   0 O-fucosyltransferase 30 OS=Arabidopsis thaliana OX=3702 GN=OFUT30 PE=2 SV=1
+sp|P59120|PER58_ARATH          -          krh2                 -               0.55   10.4   0.0       0.8    9.9   0.0   1.2   1   0   0   1   1   1   0 Peroxidase 58 OS=Arabidopsis thaliana OX=3702 GN=PER58 PE=2 SV=1
+sp|Q8LB17|RBL15_ARATH          -          krh2                 -                0.6   10.3   3.9       1.1    9.4   2.2   2.2   2   0   0   2   2   2   0 Rhomboid-like protein 15 OS=Arabidopsis thaliana OX=3702 GN=RBL15 PE=1 SV=2
+tr|F4J5V3|F4J5V3_ARATH         -          krh2                 -               0.62   10.3   3.8       1.1    9.5   2.1   2.2   2   0   0   2   2   2   0 RHOMBOID-like protein 15 OS=Arabidopsis thaliana OX=3702 GN=RBL15 PE=1 SV=1
+tr|F4K9Q4|F4K9Q4_ARATH         -          krh2                 -                1.2    9.3   0.9       3.4    7.8   0.9   1.8   1   0   0   1   1   1   0 Transmembrane amino acid transporter family protein OS=Arabidopsis thaliana OX=3702 GN=At5g15240 PE=4 SV=1
+tr|A0A2H1ZEQ4|A0A2H1ZEQ4_ARATH -          krh2                 -                1.5    9.0   0.0       3.3    7.9   0.0   1.5   1   0   0   1   1   1   0 Cyclin d51 OS=Arabidopsis thaliana OX=3702 GN=CYCD5:1 PE=3 SV=1
+tr|A0A178UBI5|A0A178UBI5_ARATH -          krh2                 -                1.5    9.0   0.9       3.9    7.6   0.9   1.8   1   0   0   1   1   1   0 Transmembrane amino acid transporter family protein OS=Arabidopsis thaliana OX=3702 GN=At5g15240 PE=4 SV=1
+sp|Q9LXF8|AVT1J_ARATH          -          krh2                 -                1.7    8.9   0.7       4.9    7.3   0.7   1.8   1   0   0   1   1   1   0 Amino acid transporter AVT1J OS=Arabidopsis thaliana OX=3702 GN=AVT1J PE=2 SV=1
+tr|F4J5V8|F4J5V8_ARATH         -          krh2                 -                1.9    8.7   1.4        12    6.1   0.0   2.3   2   0   0   2   2   2   0 Phosphatidic acid phosphatase (PAP2) family protein OS=Arabidopsis thaliana OX=3702 GN=SPP1 PE=4 SV=1
+sp|Q9C9M2|PXMT2_ARATH          -          krh2                 -                2.1    8.6   0.0        19    5.4   0.0   2.1   2   0   0   2   2   2   0 Paraxanthine methyltransferase 2 OS=Arabidopsis thaliana OX=3702 GN=At1g66690 PE=2 SV=1
+tr|A0A1P8B634|A0A1P8B634_ARATH -          krh2                 -                2.8    8.1   0.1         4    7.6   0.1   1.3   1   0   0   1   1   1   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At4g06655 PE=4 SV=1
+sp|Q9LS46|ALMT9_ARATH          -          krh2                 -                3.4    7.9   1.2       7.2    6.8   1.2   1.5   1   0   0   1   1   1   0 Aluminum-activated malate transporter 9 OS=Arabidopsis thaliana OX=3702 GN=ALMT9 PE=2 SV=1
+tr|F4ID46|F4ID46_ARATH         -          krh2                 -                3.6    7.8   8.0       4.8    7.4   8.0   1.1   1   0   0   1   1   1   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At1g59865 PE=4 SV=1
+tr|A0A178V207|A0A178V207_ARATH -          krh2                 -                3.9    7.7   1.6        18    5.5   1.2   2.0   2   0   0   2   2   2   0 Vacuole protein OS=Arabidopsis thaliana OX=3702 GN=At4g33625 PE=4 SV=1
+tr|Q1PDT4|Q1PDT4_ARATH         -          krh2                 -                3.9    7.6   0.4        27    4.9   0.0   2.1   2   0   0   2   2   2   0 Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein OS=Arabidopsis thaliana OX=3702 GN=At5g25970 PE=2 SV=1
+tr|Q9SZU2|Q9SZU2_ARATH         -          krh2                 -                4.2    7.6   0.4       7.1    6.8   0.4   1.3   1   0   0   1   1   1   0 Glycosyltransferase family 92 protein OS=Arabidopsis thaliana OX=3702 GN=At4g37420 PE=2 SV=1
+tr|F4HYM3|F4HYM3_ARATH         -          krh2                 -                4.3    7.5   0.2       8.4    6.6   0.0   1.5   2   0   0   2   2   2   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At1g54950 PE=4 SV=1
+tr|O65377|O65377_ARATH         -          krh2                 -                4.5    7.5   0.1       6.6    6.9   0.1   1.3   1   0   0   1   1   1   0 F12F1.11 OS=Arabidopsis thaliana OX=3702 GN=At1g12020 PE=2 SV=1
+sp|F4IQX1|WTR12_ARATH          -          krh2                 -                4.8    7.4   1.4       9.4    6.4   1.4   1.5   1   0   0   1   1   1   0 WAT1-related protein At2g37450 OS=Arabidopsis thaliana OX=3702 GN=At2g37450 PE=2 SV=1
+sp|B9DG24|TAF7_ARATH           -          krh2                 -                4.9    7.3   1.9       9.1    6.5   1.9   1.4   1   0   0   1   1   1   0 Transcription initiation factor TFIID subunit 7 OS=Arabidopsis thaliana OX=3702 GN=TAF7 PE=1 SV=1
+tr|A0A1P8B3H8|A0A1P8B3H8_ARATH -          krh2                 -                5.2    7.2   0.3        12    6.0   0.3   1.6   1   0   0   1   1   1   0 LYS/HIS transporter 7 OS=Arabidopsis thaliana OX=3702 GN=LHT7 PE=4 SV=1
+sp|Q9M2G7|LPPD_ARATH           -          krh2                 -                5.8    7.1   0.0        17    5.6   0.0   1.7   1   0   0   1   1   1   0 Lipid phosphate phosphatase delta OS=Arabidopsis thaliana OX=3702 GN=LPPD PE=2 SV=1
+tr|Q9MAV1|Q9MAV1_ARATH         -          krh2                 -                  6    7.0   0.0       8.3    6.6   0.0   1.2   1   0   0   1   1   1   0 F2401.15 OS=Arabidopsis thaliana OX=3702 GN=At1g62415 PE=2 SV=1
+tr|A0A1I9LPE8|A0A1I9LPE8_ARATH -          krh2                 -                6.9    6.9   0.0        12    6.0   0.0   1.3   1   0   0   1   1   1   0 NADH dehydrogenase ubiquinone 1 alpha subcomplex assembly factor-like protein (DUF498/DUF598) OS=Arabidopsis thaliana OX=3702 GN=At3g60150 PE=4 SV=1
+tr|B3H6V5|B3H6V5_ARATH         -          krh2                 -                7.3    6.8   1.2       9.4    6.4   1.2   1.2   1   0   0   1   1   1   0 Transmembrane protein OS=Arabidopsis thaliana OX=3702 GN=At1g78172 PE=4 SV=1
+sp|P93654|SYP22_ARATH          -          krh2                 -                7.5    6.7   0.1        12    6.0   0.1   1.3   1   0   0   1   1   1   0 Syntaxin-22 OS=Arabidopsis thaliana OX=3702 GN=SYP22 PE=1 SV=1
+tr|A0A1P8B5R9|A0A1P8B5R9_ARATH -          krh2                 -                7.9    6.7   0.1        24    5.1   0.1   1.8   1   0   0   1   1   1   0 Transferases, transferring acyl groups OS=Arabidopsis thaliana OX=3702 GN=At4g17910 PE=4 SV=1
+tr|Q9FFZ8|Q9FFZ8_ARATH         -          krh2                 -                7.9    6.7   0.0       8.1    6.6   0.0   1.1   1   0   0   1   1   1   0 At5g06190 OS=Arabidopsis thaliana OX=3702 GN=MBL20.7 PE=2 SV=1
+sp|Q9LYR6|PTR49_ARATH          -          krh2                 -                  8    6.6   1.1        36    4.5   0.1   2.3   2   0   0   2   2   2   0 Protein NRT1/ PTR FAMILY 6.1 OS=Arabidopsis thaliana OX=3702 GN=NPF6.1 PE=2 SV=1
+sp|Q9M0C2|EGC1_ARATH           -          krh2                 -                8.5    6.6   1.4        12    6.0   1.2   1.4   2   0   0   2   2   2   0 Putative EG45-like domain containing protein 1 OS=Arabidopsis thaliana OX=3702 GN=EGC1 PE=3 SV=1
+tr|A0A2H1ZEP4|A0A2H1ZEP4_ARATH -          krh2                 -                8.6    6.5   1.4        12    6.0   1.2   1.4   2   0   0   2   2   2   0 Barwin-related endoglucanase OS=Arabidopsis thaliana OX=3702 GN=EXLB2 PE=4 SV=1
+tr|Q8LCY3|Q8LCY3_ARATH         -          krh2                 -                9.1    6.4   1.7        10    6.3   1.7   1.1   1   0   0   1   1   1   0 At1g76185 OS=Arabidopsis thaliana OX=3702 GN=At1g76185 PE=2 SV=1
+tr|A0A1I9LQD2|A0A1I9LQD2_ARATH -          krh2                 -                9.4    6.4   0.5        16    5.7   0.5   1.3   1   0   0   1   1   1   0 Lysophosphatidyl acyltransferase 5 OS=Arabidopsis thaliana OX=3702 GN=LPAT5 PE=4 SV=1
+tr|Q9SX32|Q9SX32_ARATH         -          krh2                 -                9.5    6.4   0.3        13    6.0   0.3   1.1   1   0   0   1   1   1   0 F24J5.7 OS=Arabidopsis thaliana OX=3702 GN=At1g68700 PE=4 SV=1
+tr|Q8L6Z1|Q8L6Z1_ARATH         -          krh2                 -                 10    6.3   3.0        12    6.1   3.0   1.1   1   0   0   1   1   1   0 NADH-ubiquinone oxidoreductase chain OS=Arabidopsis thaliana OX=3702 GN=At1g20460 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/ATHA/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/ATHA.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:31:43 2022
+# [ok]

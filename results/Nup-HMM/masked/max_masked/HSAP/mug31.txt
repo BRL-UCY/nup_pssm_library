@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|C9JYX1|C9JYX1_HUMAN         -          mug31                -                1.8   10.0   0.1       2.4    9.5   0.1   1.1   1   0   0   1   1   1   0 Transmembrane protein 209 (Fragment) OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=8
+sp|Q96SK2|TM209_HUMAN          -          mug31                -                8.4    7.8   0.1        15    7.0   0.1   1.3   1   0   0   1   1   1   0 Transmembrane protein 209 OS=Homo sapiens OX=9606 GN=TMEM209 PE=1 SV=2
+tr|A0A3B3ITA4|A0A3B3ITA4_HUMAN -          mug31                -                8.6    7.8   0.0        14    7.1   0.0   1.2   1   0   0   1   1   1   0 Histone acetyltransferase (Fragment) OS=Homo sapiens OX=9606 GN=KAT6B PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/HSAP/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/HSAP.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 13:35:30 2022
+# [ok]

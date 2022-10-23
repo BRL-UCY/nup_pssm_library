@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A0N7KFW1|A0A0N7KFW1_ORYSJ -          ndc1                 -            1.9e-26   94.0   0.1   1.3e-23   84.7   0.0   2.5   2   1   0   2   2   2   2 Os02g0684300 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os02g0684300 PE=1 SV=1
+tr|Q0ISR8|Q0ISR8_ORYSJ         -          ndc1                 -                1.4    8.6   0.0       1.8    8.3   0.0   1.0   1   0   0   1   1   1   0 Os11g0474000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os11g0474000 PE=4 SV=1
+tr|A0A0P0V1H6|A0A0P0V1H6_ORYSJ -          ndc1                 -                1.5    8.6   0.0         2    8.2   0.0   1.0   1   0   0   1   1   1   0 Os01g0298500 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os01g0298500 PE=4 SV=1
+tr|Q69V70|Q69V70_ORYSJ         -          ndc1                 -                4.1    7.1   5.4       5.8    6.6   5.4   1.2   1   0   0   1   1   1   0 Os07g0581000 protein OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0581000 PE=1 SV=1
+tr|A0A0P0XEJ5|A0A0P0XEJ5_ORYSJ -          ndc1                 -                7.5    6.2   0.0       7.3    6.3   0.0   1.1   1   0   0   1   1   1   0 Os08g0298901 protein (Fragment) OS=Oryza sativa subsp. japonica OX=39947 GN=Os08g0298901 PE=4 SV=1
+tr|Q10CL8|Q10CL8_ORYSJ         -          ndc1                 -                8.5    6.1   0.4       9.8    5.9   0.4   1.0   1   0   0   1   1   1   0 Os03g0756800 protein OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g54980 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/ndc1.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/OSATJ/ndc1.txt --max --cpu 8 hmm_profiles_from_msa/ndc1.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/OSATJ.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 15:09:42 2022
+# [ok]

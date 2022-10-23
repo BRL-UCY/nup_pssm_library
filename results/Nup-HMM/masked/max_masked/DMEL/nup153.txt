@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A8JV18|A8JV18_DROME         -          nup153               -           6.4e-289  962.1   0.0  3.3e-283  943.2   0.0   2.0   1   1   1   2   2   2   1 Nucleoporin 153kD, isoform D OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=1
+sp|Q9VXE6|NU153_DROME          -          nup153               -           3.4e-285  949.8   0.0  1.3e-283  944.5   0.0   2.0   1   1   1   2   2   2   1 Nuclear pore complex protein Nup153 OS=Drosophila melanogaster OX=7227 GN=Nup153 PE=1 SV=4
+sp|A0A0B4K7J2|RBP2_DROME       -          nup153               -             0.0025   15.7   0.3      0.27    8.9   0.0   2.2   2   0   0   2   2   2   2 E3 SUMO-protein ligase RanBP2 OS=Drosophila melanogaster OX=7227 GN=Nup358 PE=1 SV=1
+tr|A0A0B4KG87|A0A0B4KG87_DROME -          nup153               -              0.055   11.2   0.2     0.074   10.8   0.2   1.0   1   0   0   1   1   1   0 TAK1-associated binding protein 2, isoform C OS=Drosophila melanogaster OX=7227 GN=Tab2 PE=4 SV=1
+tr|Q4V5M2|Q4V5M2_DROME         -          nup153               -              0.088   10.5   0.1      0.13    9.9   0.1   1.2   1   0   0   1   1   1   0 IP06990p OS=Drosophila melanogaster OX=7227 GN=Dmel\CG30447 PE=2 SV=1
+tr|Q6NQZ7|Q6NQZ7_DROME         -          nup153               -               0.11   10.1   0.9      0.16    9.7   0.9   1.0   1   0   0   1   1   1   0 LD40663p OS=Drosophila melanogaster OX=7227 GN=Tab2 PE=2 SV=1
+sp|Q9VH90|TRBID_DROME          -          nup153               -                3.2    5.4   0.6       4.6    4.8   0.6   1.1   1   0   0   1   1   1   0 Ubiquitin thioesterase trabid OS=Drosophila melanogaster OX=7227 GN=trbd PE=1 SV=1
+tr|E1JJ98|E1JJ98_DROME         -          nup153               -                8.7    3.9   2.2        12    3.5   2.2   1.0   1   0   0   1   1   1   0 FI20257p1 OS=Drosophila melanogaster OX=7227 GN=sol PE=2 SV=1
+sp|P27398|CAND_DROME           -          nup153               -                8.7    3.9   2.2        12    3.5   2.2   1.0   1   0   0   1   1   1   0 Calpain-D OS=Drosophila melanogaster OX=7227 GN=sol PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup153.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/DMEL/nup153.txt --max --cpu 8 hmm_profiles_from_msa/nup153.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/DMEL.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:14:55 2022
+# [ok]

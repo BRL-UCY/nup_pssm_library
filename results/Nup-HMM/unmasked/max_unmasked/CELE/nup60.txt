@@ -1,0 +1,44 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q19575|Q19575_CAEEL         -          nup60                -              0.072   12.6   0.6     0.087   12.4   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F18G5.1 PE=4 SV=1
+tr|U4PEN5|U4PEN5_CAEEL         -          nup60                -               0.27   10.7  12.4       0.3   10.6  12.4   1.0   1   0   0   1   1   1   0 ShKT domain-containing protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F49F1.7 PE=4 SV=1
+tr|Q9GZE2|Q9GZE2_CAEEL         -          nup60                -               0.56    9.7  11.7      0.71    9.3  11.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F49F1.7 PE=4 SV=1
+tr|C7FZT0|C7FZT0_CAEEL         -          nup60                -                1.2    8.6  16.9       1.4    8.3  16.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F26B1.1 PE=4 SV=1
+tr|Q09989|Q09989_CAEEL         -          nup60                -                1.5    8.2   8.6       2.8    7.4   8.6   1.3   1   0   0   1   1   1   0 SynDaPiN (Synaptic dynamin binding protein) homolog OS=Caenorhabditis elegans OX=6239 GN=sdpn-1 PE=1 SV=2
+tr|Q6AHQ8|Q6AHQ8_CAEEL         -          nup60                -                1.6    8.2   8.6       2.9    7.3   8.6   1.3   1   0   0   1   1   1   0 SynDaPiN (Synaptic dynamin binding protein) homolog OS=Caenorhabditis elegans OX=6239 GN=sdpn-1 PE=1 SV=1
+tr|E5QCI4|E5QCI4_CAEEL         -          nup60                -                1.6    8.2   5.6       2.4    7.6   5.6   1.1   1   0   0   1   1   1   0 Asparagine Linked Glycosylation (ALG) homolog, Nematode OS=Caenorhabditis elegans OX=6239 GN=algn-3 PE=1 SV=1
+tr|Q9XX67|Q9XX67_CAEEL         -          nup60                -                1.8    8.0   3.2       2.1    7.8   3.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y102A5C.27 PE=4 SV=2
+tr|Q400L6|Q400L6_CAEEL         -          nup60                -                1.8    8.0   2.4       1.9    8.0   2.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H06H21.11 PE=1 SV=2
+tr|E5QCI3|E5QCI3_CAEEL         -          nup60                -                1.8    8.0   5.6       2.8    7.4   5.6   1.1   1   0   0   1   1   1   0 Asparagine Linked Glycosylation (ALG) homolog, Nematode OS=Caenorhabditis elegans OX=6239 GN=algn-3 PE=1 SV=1
+tr|D2N114|D2N114_CAEEL         -          nup60                -                2.8    7.4   3.6       3.3    7.1   3.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y53F4B.51 PE=4 SV=1
+tr|A5JYU2|A5JYU2_CAEEL         -          nup60                -                  3    7.2   1.4       3.6    7.0   1.4   1.0   1   0   0   1   1   1   0 Zinc finger putative Transcription Factor family OS=Caenorhabditis elegans OX=6239 GN=ztf-26 PE=4 SV=1
+tr|A0A0K3AYH3|A0A0K3AYH3_CAEEL -          nup60                -                3.3    7.1   4.8       3.8    6.9   4.8   1.1   1   0   0   1   1   1   0 RBR-type E3 ubiquitin transferase OS=Caenorhabditis elegans OX=6239 GN=C17H11.6 PE=4 SV=1
+tr|Q564X9|Q564X9_CAEEL         -          nup60                -                3.7    7.0   3.6       5.4    6.4   3.6   1.2   1   0   0   1   1   1   0 SP (Specificity Protein) Transcription Factor OS=Caenorhabditis elegans OX=6239 GN=sptf-1 PE=4 SV=1
+tr|Q93727|Q93727_CAEEL         -          nup60                -                3.8    6.9   3.6       5.5    6.4   3.6   1.2   1   0   0   1   1   1   0 SP (Specificity Protein) Transcription Factor OS=Caenorhabditis elegans OX=6239 GN=sptf-1 PE=4 SV=2
+tr|G4SR37|G4SR37_CAEEL         -          nup60                -                  4    6.9  17.6       2.4    7.6  16.0   1.4   1   1   0   1   1   1   0 Prion-like-(Q/N-rich)-domain-bearing protein OS=Caenorhabditis elegans OX=6239 GN=pqn-72 PE=4 SV=2
+tr|O01314|O01314_CAEEL         -          nup60                -                4.2    6.8   5.2       4.4    6.7   5.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F02E9.1 PE=1 SV=1
+tr|O76596|O76596_CAEEL         -          nup60                -                4.4    6.7   0.6       5.5    6.4   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F16G10.11 PE=4 SV=1
+tr|A0A0K3AWM9|A0A0K3AWM9_CAEEL -          nup60                -                4.6    6.7  17.8       2.7    7.4  16.2   1.4   1   1   0   1   1   1   0 Prion-like-(Q/N-rich)-domain-bearing protein OS=Caenorhabditis elegans OX=6239 GN=pqn-72 PE=4 SV=1
+tr|G5EF71|G5EF71_CAEEL         -          nup60                -                6.3    6.2   6.2       6.7    6.1   6.2   1.3   1   0   0   1   1   1   0 GATA-type transcription factor OS=Caenorhabditis elegans OX=6239 GN=med-1 PE=4 SV=1
+tr|Q8MXV3|Q8MXV3_CAEEL         -          nup60                -                6.6    6.1   1.7       8.7    5.7   1.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_H06I04.1 PE=1 SV=1
+tr|C7FZT1|C7FZT1_CAEEL         -          nup60                -                6.8    6.1  10.3       7.5    6.0  10.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F26B1.8 PE=4 SV=1
+tr|Q6BES3|Q6BES3_CAEEL         -          nup60                -                7.3    6.0   7.6        13    5.1   7.6   1.3   1   0   0   1   1   1   0 TWiK family of potassium channels OS=Caenorhabditis elegans OX=6239 GN=twk-24 PE=1 SV=1
+tr|F5GUD5|F5GUD5_CAEEL         -          nup60                -                7.9    5.9   9.2       3.7    7.0   7.4   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_W05E10.5 PE=4 SV=1
+tr|A0A0K3AUJ4|A0A0K3AUJ4_CAEEL -          nup60                -                8.2    5.8   5.9        14    5.1   5.9   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C50D2.8 PE=1 SV=1
+tr|O17881|O17881_CAEEL         -          nup60                -                8.4    5.8   4.5        11    5.4   4.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=CELE_F49C5.7 PE=4 SV=2
+tr|O17003|O17003_CAEEL         -          nup60                -                8.9    5.7   7.9        13    5.2   7.9   1.1   1   0   0   1   1   1   0 N-alpha-AcetylTransferase C complex subunit OS=Caenorhabditis elegans OX=6239 GN=natc-1 PE=1 SV=2
+tr|V6CLT1|V6CLT1_CAEEL         -          nup60                -                8.9    5.7   7.3        13    5.1   7.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C31H1.8 PE=4 SV=1
+tr|V6CJA4|V6CJA4_CAEEL         -          nup60                -                  9    5.7   7.3        13    5.1   7.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C31H1.8 PE=4 SV=1
+tr|E3W756|E3W756_CAEEL         -          nup60                -                9.3    5.6   7.1       9.3    5.6   7.1   1.1   1   0   0   1   1   1   0 CFP1 (CpG-binding protein, CXXC Finger Protein 1) homolog OS=Caenorhabditis elegans OX=6239 GN=cfp-1 PE=1 SV=1
+tr|Q4PIW4|Q4PIW4_CAEEL         -          nup60                -                9.6    5.6   0.1        11    5.4   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Caenorhabditis elegans OX=6239 GN=C06E2.9 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CELE/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CELE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 23:40:26 2022
+# [ok]

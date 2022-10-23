@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q6ZQH8|NU188_MOUSE          -          nup188               -                  0 2549.3   9.9         0 2549.1   9.9   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=2
+tr|A2AWI5|A2AWI5_MOUSE         -          nup188               -            6.9e-43  147.5   1.0   8.1e-43  147.3   1.0   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|J3JSA4|J3JSA4_MOUSE         -          nup188               -            1.8e-41  142.8   1.7   2.2e-41  142.6   1.7   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F2Z4A7|F2Z4A7_MOUSE         -          nup188               -            6.9e-41  140.9   1.9   7.8e-41  140.7   1.9   1.0   1   0   0   1   1   1   1 Nucleoporin NUP188 homolog OS=Mus musculus OX=10090 GN=Nup188 PE=1 SV=1
+tr|F7BCN9|F7BCN9_MOUSE         -          nup188               -            9.7e-39  133.8   1.9   1.1e-38  133.6   1.9   1.0   1   0   0   1   1   1   1 Predicted gene, 28038 (Fragment) OS=Mus musculus OX=10090 GN=Gm28038 PE=4 SV=2
+tr|B9EJ54|B9EJ54_MOUSE         -          nup188               -             0.0092   14.5   2.2      0.12   10.8   0.0   2.6   3   0   0   3   3   3   2 MCG21756, isoform CRA_b OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+tr|A0A0J9YUD5|A0A0J9YUD5_MOUSE -          nup188               -             0.0099   14.4   2.2      0.12   10.8   0.0   2.6   3   0   0   3   3   3   2 Nucleoporin 205 OS=Mus musculus OX=10090 GN=Nup205 PE=1 SV=1
+sp|P09920|CSF3_MOUSE           -          nup188               -              0.078   11.4   0.0     0.099   11.1   0.0   1.0   1   0   0   1   1   1   0 Granulocyte colony-stimulating factor OS=Mus musculus OX=10090 GN=Csf3 PE=1 SV=1
+tr|G3UWE9|G3UWE9_MOUSE         -          nup188               -                3.1    6.1   0.0       3.2    6.1   0.0   1.0   1   0   0   1   1   1   0 Microcephalin OS=Mus musculus OX=10090 GN=Mcph1 PE=1 SV=1
+tr|A0A1W2P7Y4|A0A1W2P7Y4_MOUSE -          nup188               -                5.6    5.3   0.9       6.3    5.1   0.9   1.0   1   0   0   1   1   1   0 Ral GTPase-activating protein subunit alpha-1 (Fragment) OS=Mus musculus OX=10090 GN=Ralgapa1 PE=1 SV=1
+tr|H3BL43|H3BL43_MOUSE         -          nup188               -                6.1    5.2   0.0       7.3    4.9   0.0   1.0   1   0   0   1   1   1   0 DCC-interacting protein 13-beta (Fragment) OS=Mus musculus OX=10090 GN=Appl2 PE=1 SV=1
+tr|D3Z119|D3Z119_MOUSE         -          nup188               -                8.5    4.7   0.0        12    4.2   0.0   1.1   1   0   0   1   1   1   0 Islet cell autoantigen 1 OS=Mus musculus OX=10090 GN=Ica1 PE=1 SV=1
+tr|Q9DAY6|Q9DAY6_MOUSE         -          nup188               -                8.9    4.6   0.0        11    4.3   0.0   1.0   1   0   0   1   1   1   0 MCG16556, isoform CRA_a OS=Mus musculus OX=10090 GN=Yae1d1 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/MMUS/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/MMUS.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sun Sep 18 12:41:34 2022
+# [ok]

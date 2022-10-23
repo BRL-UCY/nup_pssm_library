@@ -1,0 +1,35 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CU41|A0A2K3CU41_CHLRE -          nup58                -            2.4e-09   36.2   0.0   2.4e-09   36.2   0.0   5.1   2   2   2   4   4   3   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g685217v5 PE=4 SV=1
+tr|A8JAP2|A8JAP2_CHLRE         -          nup58                -               0.18   10.2  13.4       0.2   10.1  13.4   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CGL17 PE=4 SV=1
+tr|A8J5W3|A8J5W3_CHLRE         -          nup58                -               0.19   10.2   0.2      0.31    9.5   0.2   1.2   1   0   0   1   1   1   0 SM/Sec1-family protein OS=Chlamydomonas reinhardtii OX=3055 GN=SLY1 PE=3 SV=1
+tr|A0A2K3CPD9|A0A2K3CPD9_CHLRE -          nup58                -               0.38    9.2  11.9      0.41    9.1  11.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g707350v5 PE=4 SV=1
+tr|A0A2K3DG99|A0A2K3DG99_CHLRE -          nup58                -               0.41    9.1   0.7      0.51    8.8   0.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g358582v5 PE=4 SV=1
+tr|A0A2K3CV99|A0A2K3CV99_CHLRE -          nup58                -                1.3    7.4 220.9     0.012   14.2  73.2   4.7   1   1   3   4   4   3   0 Nsp1_C domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g677700v5 PE=3 SV=1
+tr|A0A2K3E0Z0|A0A2K3E0Z0_CHLRE -          nup58                -                2.3    6.6   7.7         4    5.8   0.1   2.3   2   0   0   2   2   2   0 Conserved oligomeric Golgi complex subunit 7 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086700v5 PE=3 SV=1
+tr|A0A2K3DX73|A0A2K3DX73_CHLRE -          nup58                -                2.8    6.3  19.9       3.8    5.9  19.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g173132v5 PE=4 SV=1
+tr|A0A2K3CND4|A0A2K3CND4_CHLRE -          nup58                -                2.8    6.3  41.5       2.6    6.4   2.3   2.2   2   0   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_19g750097v5 PE=3 SV=1
+tr|A0A2K3D8H8|A0A2K3D8H8_CHLRE -          nup58                -                3.6    6.0  19.5       4.3    5.7  19.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g478450v5 PE=4 SV=1
+tr|A0A2K3E0W9|A0A2K3E0W9_CHLRE -          nup58                -                3.7    5.9  13.4       4.6    5.6  13.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086428v5 PE=4 SV=1
+tr|A0A2K3DCW6|A0A2K3DCW6_CHLRE -          nup58                -                4.8    5.6  41.8       5.8    5.3  41.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g399900v5 PE=4 SV=1
+tr|A0A2K3DFJ0|A0A2K3DFJ0_CHLRE -          nup58                -                  5    5.5   7.0       8.1    4.8   7.0   1.2   1   0   0   1   1   1   0 Cation_ATPase_N domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g410100v5 PE=4 SV=1
+tr|A8IGN3|A8IGN3_CHLRE         -          nup58                -                5.8    5.3   7.8      0.53    8.7   2.5   1.8   1   1   1   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g435200v5 PE=4 SV=1
+tr|A0A2K3DTQ8|A0A2K3DTQ8_CHLRE -          nup58                -                6.2    5.2  10.7       8.2    4.8  10.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g215000v5 PE=4 SV=1
+tr|A0A2K3DQH2|A0A2K3DQH2_CHLRE -          nup58                -                6.6    5.1   6.7       8.6    4.7   6.7   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g294500v5 PE=4 SV=1
+tr|A0A2K3DEF9|A0A2K3DEF9_CHLRE -          nup58                -                6.7    5.1  10.6        12    4.2  10.6   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394547v5 PE=4 SV=1
+tr|A0A2K3DPQ7|A0A2K3DPQ7_CHLRE -          nup58                -                6.9    5.0   8.3       9.5    4.6   8.3   1.1   1   0   0   1   1   1   0 MYND-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g282251v5 PE=4 SV=1
+tr|A0A2K3CN67|A0A2K3CN67_CHLRE -          nup58                -                  8    4.8  26.9       2.9    6.3   2.1   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_22g754197v5 PE=4 SV=1
+tr|Q9AU05|Q9AU05_CHLRE         -          nup58                -                  8    4.8  16.0        10    4.5  16.0   1.1   1   0   0   1   1   1   0 Cytochrome c oxidase subunit II OS=Chlamydomonas reinhardtii OX=3055 GN=cox2a PE=2 SV=1
+tr|A8J9I2|A8J9I2_CHLRE         -          nup58                -                9.1    4.6  17.9        13    4.1  17.9   1.2   1   0   0   1   1   1   0 Predicted protein (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g650350v5 PE=4 SV=1
+tr|A0A2K3CNP6|A0A2K3CNP6_CHLRE -          nup58                -                9.4    4.6  27.3        14    4.0  27.3   1.1   1   0   0   1   1   1   0 Mitochondrial inner membrane protease ATP23 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g697934v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup58.txt --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:33:01 2022
+# [ok]

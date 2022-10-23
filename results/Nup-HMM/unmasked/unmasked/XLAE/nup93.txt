@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8GKJ9|A0A1L8GKJ9_XENLA -          nup93                -                  0 1145.8   6.4         0 1145.6   6.4   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup93 OS=Xenopus laevis OX=8355 GN=XELAEV_18022464mg PE=1 SV=1
+tr|A0A1L8FEV3|A0A1L8FEV3_XENLA -          nup93                -               0.02   14.1   7.3     0.014   14.7   5.7   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18037039mg PE=4 SV=1
+tr|A0A1L8FMF7|A0A1L8FMF7_XENLA -          nup93                -               0.32   10.1   0.0      0.36   10.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18035751mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/XLAE/nup93.txt --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:30:03 2022
+# [ok]

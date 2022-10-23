@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DI91|A0A2K3DI91_CHLRE -          nup75                -            3.8e-33  114.7   0.0     1e-15   57.1   0.0   5.2   5   0   0   5   5   5   5 Nuclear pore complex protein Nup85 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g383650v5 PE=3 SV=1
+tr|A8JFR3|A8JFR3_CHLRE         -          nup75                -                2.5    6.3   6.9       0.9    7.8   0.3   2.5   3   0   0   3   3   3   0 Flagellar associated protein OS=Chlamydomonas reinhardtii OX=3055 GN=FAP118 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup75.txt --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:32:44 2022
+# [ok]

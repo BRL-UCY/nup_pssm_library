@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1L8H5V0|A0A1L8H5V0_XENLA -          pom121               -            3.4e-65  221.8 162.3   7.3e-38  131.3 119.5   4.9   2   1   2   4   4   4   4 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18014519mg PE=1 SV=1
+tr|A0A310U768|A0A310U768_XENLA -          pom121               -            3.6e-65  221.8 189.8   5.3e-39  135.1 144.8   5.2   2   1   2   4   4   4   3 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18000317mg PE=4 SV=1
+tr|A0A310U7J7|A0A310U7J7_XENLA -          pom121               -            6.2e-14   52.1  32.3   1.8e-13   50.6   8.1   2.7   2   1   0   2   2   2   2 Uncharacterized protein (Fragment) OS=Xenopus laevis OX=8355 GN=XELAEV_18000314mg PE=4 SV=1
+tr|A0A1L8GIM5|A0A1L8GIM5_XENLA -          pom121               -               0.77    8.8   5.7      0.82    8.7   5.7   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18021812mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/XLAE/pom121.txt --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/XLAE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Sat Sep 17 22:30:39 2022
+# [ok]
