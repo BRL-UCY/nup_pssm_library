@@ -1,0 +1,18 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0S9Z5|G0S9Z5_CHATD -          Nup88                PF10168.6     0.0062   13.1   2.5     0.011   12.2   2.5   1.3   1   0   0   1   1   1   1 Putative transcription factor OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0040440 PE=4 SV=1
+tr|G0S6F0|G0S6F0_CHATD -          Nup88                PF10168.6     0.0082   12.7   1.8     0.011   12.3   1.8   1.1   1   0   0   1   1   1   1 U2 small nuclear ribonucleoprotein A' OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0034680 PE=3 SV=1
+sp|G0S4F3|NUP82_CHATD  -          Nup88                PF10168.6      0.018   11.6   5.6       1.4    5.3   0.1   3.5   3   2   0   3   3   3   0 Nucleoporin NUP82 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP82 PE=1 SV=1
+sp|G0SBQ3|NSP1_CHATD   -          Nup88                PF10168.6       0.26    7.8   7.0      0.32    7.4   7.0   1.1   1   0   0   1   1   1   0 Nucleoporin NSP1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NSP1 PE=1 SV=1
+tr|G0SGL6|G0SGL6_CHATD -          Nup88                PF10168.6        4.6    3.6  18.8         1    5.7   6.9   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066770 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:24:45 2022
+# [ok]

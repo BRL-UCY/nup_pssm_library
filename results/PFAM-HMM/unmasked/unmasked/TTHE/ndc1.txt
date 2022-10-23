@@ -1,0 +1,36 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q227A2|Q227A2_TETTS -          Ndc1_Nup             PF09531.7     0.0011   18.4   7.0    0.0011   18.4   7.0   2.1   2   0   0   2   2   2   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01902130 PE=4 SV=1
+tr|Q22HL6|Q22HL6_TETTS -          Ndc1_Nup             PF09531.7     0.0054   16.1   3.2    0.0072   15.7   3.2   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00636870 PE=4 SV=2
+tr|Q23C06|Q23C06_TETTS -          Ndc1_Nup             PF09531.7      0.036   13.4   7.1     0.016   14.6   5.4   1.3   1   1   0   1   1   1   0 Tetraspanin family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00225760 PE=4 SV=3
+tr|I7M8D8|I7M8D8_TETTS -          Ndc1_Nup             PF09531.7      0.052   12.9   2.6     0.052   12.9   2.6   1.1   1   0   0   1   1   1   0 Dual specificity phosphatase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00279780 PE=4 SV=1
+tr|W7WYG9|W7WYG9_TETTS -          Ndc1_Nup             PF09531.7      0.066   12.5  10.7     0.031   13.6   2.7   2.0   1   1   1   2   2   2   0 S54 family peptidase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000531841 PE=4 SV=1
+tr|Q22NW7|Q22NW7_TETTS -          Ndc1_Nup             PF09531.7       0.26   10.6   9.6      0.46    9.8   9.6   1.4   1   0   0   1   1   1   0 ATP-dependent metalloprotease FtsH OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00418280 PE=3 SV=1
+tr|Q24GQ7|Q24GQ7_TETTS -          Ndc1_Nup             PF09531.7       0.27   10.5   8.6      0.34   10.2   8.6   1.2   1   0   0   1   1   1   0 Opioid growth factor receptor OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00977530 PE=3 SV=1
+tr|I7LY81|I7LY81_TETTS -          Ndc1_Nup             PF09531.7       0.27   10.5   1.2       0.4    9.9   1.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00527180 PE=4 SV=1
+tr|W7X772|W7X772_TETTS -          Ndc1_Nup             PF09531.7       0.64    9.3  10.0      0.79    9.0  10.0   1.1   1   0   0   1   1   1   0 Ribosomal RNA-processing protein 8 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000085239 PE=3 SV=1
+tr|I7M2G5|I7M2G5_TETTS -          Ndc1_Nup             PF09531.7       0.97    8.7   6.9       1.1    8.5   6.9   1.0   1   0   0   1   1   1   0 EF-hand domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00219190 PE=4 SV=1
+tr|Q22A14|Q22A14_TETTS -          Ndc1_Nup             PF09531.7        1.1    8.6  10.8       1.1    8.5  10.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01298510 PE=4 SV=1
+tr|I7LXZ8|I7LXZ8_TETTS -          Ndc1_Nup             PF09531.7        2.1    7.6   3.4       2.3    7.5   3.4   1.1   1   0   0   1   1   1   0 Poly polymerase and DNA-ligase Zn-finger region family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00681750 PE=4 SV=1
+tr|Q231D4|Q231D4_TETTS -          Ndc1_Nup             PF09531.7        3.1    7.0  15.0       4.4    6.5  15.0   1.1   1   0   0   1   1   1   0 mRNA cap guanine-N7 methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00431250 PE=3 SV=3
+tr|I7MLB3|I7MLB3_TETTS -          Ndc1_Nup             PF09531.7        3.2    7.0  15.0       5.8    6.1  15.0   1.4   1   0   0   1   1   1   0 Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00931950 PE=3 SV=1
+tr|Q23MD4|Q23MD4_TETTS -          Ndc1_Nup             PF09531.7        3.4    6.9  12.9         4    6.6  12.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00621250 PE=4 SV=2
+tr|Q23AJ9|Q23AJ9_TETTS -          Ndc1_Nup             PF09531.7        3.7    6.8  16.0       5.1    6.3   1.7   2.1   2   0   0   2   2   2   0 Centrosomal protein of 19 kDa OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00424610 PE=3 SV=1
+tr|I7MI72|I7MI72_TETTS -          Ndc1_Nup             PF09531.7          4    6.7   5.7       4.2    6.6   5.7   1.0   1   0   0   1   1   1   0 C2H2-type zinc-finger protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00456870 PE=4 SV=1
+tr|Q23QM3|Q23QM3_TETTS -          Ndc1_Nup             PF09531.7          4    6.6  10.8       4.6    6.5  10.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00254570 PE=4 SV=1
+tr|I7MGK7|I7MGK7_TETTS -          Ndc1_Nup             PF09531.7        4.4    6.5  12.7      0.99    8.7   5.0   2.3   2   0   0   2   2   2   0 Adenylate/guanylate cyclase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00487130 PE=4 SV=2
+tr|Q23KL1|Q23KL1_TETTS -          Ndc1_Nup             PF09531.7        4.9    6.4   7.6       4.8    6.4   7.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00193240 PE=3 SV=1
+tr|I7M3U4|I7M3U4_TETTS -          Ndc1_Nup             PF09531.7        6.6    5.9  12.6       8.1    5.6  12.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00300300 PE=4 SV=2
+tr|Q23Q13|Q23Q13_TETTS -          Ndc1_Nup             PF09531.7        6.8    5.9   9.3        14    4.8   9.3   1.5   1   0   0   1   1   1   0 Serine/Threonine kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00460710 PE=4 SV=3
+tr|Q23R92|Q23R92_TETTS -          Ndc1_Nup             PF09531.7        7.1    5.8  13.1       8.7    5.5  13.1   1.1   1   0   0   1   1   1   0 Small guanosine triphosphatase family (GTPase)-like Ras family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00389960 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:57:23 2022
+# [ok]

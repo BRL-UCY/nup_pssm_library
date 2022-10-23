@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JMN8|A0A498JMN8_MALDO -          NPCC                 PF08058.8      0.045   15.0   1.9       2.7    9.2   0.1   3.9   3   0   0   3   3   3   0 Protein kinase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_024546 PE=3 SV=1
+tr|A0A498J138|A0A498J138_MALDO -          NPCC                 PF08058.8        3.4    9.0   7.7       3.1    9.1   2.5   2.5   1   1   1   2   2   2   0 FF domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_034413 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/mug31.txt --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:26:09 2022
+# [ok]

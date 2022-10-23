@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SBQ3|NSP1_CHATD   -          Nsp1_C               PF05064.10   1.6e-41  139.5   4.9   1.6e-41  139.5   4.9   1.8   2   0   0   2   2   2   1 Nucleoporin NSP1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NSP1 PE=1 SV=1
+tr|G0S8I5|G0S8I5_CHATD -          Nsp1_C               PF05064.10       0.6    8.6   5.9       2.3    6.8   0.1   2.3   1   1   1   2   2   2   0 Kinetochore protein Spc24 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0030010 PE=3 SV=1
+tr|G0S9M2|G0S9M2_CHATD -          Nsp1_C               PF05064.10      0.61    8.6   9.6       1.2    7.7   0.2   2.8   3   0   0   3   3   3   0 Glucosidase 2 subunit beta OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0046400 PE=1 SV=1
+tr|G0S7G6|G0S7G6_CHATD -          Nsp1_C               PF05064.10       1.6    7.3  16.8     0.038   12.5   2.7   4.0   3   1   1   4   4   4   0 Putative myosin MYO2 protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0028070 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:24:39 2022
+# [ok]

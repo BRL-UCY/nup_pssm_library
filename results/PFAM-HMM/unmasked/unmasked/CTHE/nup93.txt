@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S024|NIC96_CHATD  -          Nic96                PF04097.11  1.4e-230  765.7   0.0  1.9e-230  765.2   0.0   1.2   1   0   0   1   1   1   1 Nucleoporin NIC96 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NIC96 PE=1 SV=1
+tr|G0S679|G0S679_CHATD -          Nic96                PF04097.11     0.003   14.8   1.4      0.39    7.8   0.2   2.6   1   1   2   3   3   3   2 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025790 PE=3 SV=1
+sp|G0SDQ4|NUP85_CHATD  -          Nic96                PF04097.11     0.099    9.8   0.6      0.36    7.9   0.1   1.9   2   0   0   2   2   2   0 Nucleoporin NUP85 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP85 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04097.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CTHE/nup93.txt --cpu 8 hmm_profiles/PF04097.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:24:40 2022
+# [ok]

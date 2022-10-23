@@ -1,0 +1,21 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O42963|NUP44_SCHPO -          Nup54                PF13874.3    1.8e-41  139.8   0.7   1.8e-41  139.8   0.7   1.8   2   0   0   2   2   2   1 Nucleoporin nup44 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup44 PE=2 SV=1
+sp|Q9HDT8|YJ51_SCHPO  -          Nup54                PF13874.3     0.0011   17.3   5.5    0.0028   16.0   5.2   1.8   1   1   0   1   1   1   1 UPF0612 protein P20C8.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCP20C8.01c PE=3 SV=1
+sp|Q9P382|NUP82_SCHPO -          Nup54                PF13874.3     0.0012   17.2   3.2    0.0012   17.2   3.2   2.0   1   1   0   1   1   1   1 Nucleoporin nup82 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup82 PE=3 SV=1
+sp|Q9Y7S0|YQO1_SCHPO  -          Nup54                PF13874.3     0.0016   16.8   5.6    0.0037   15.6   5.3   1.8   1   1   0   1   1   1   1 UPF0612 protein C569.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.01c PE=3 SV=1
+sp|G2TRS9|YBJ2_SCHPO  -          Nup54                PF13874.3     0.0017   16.7   4.4    0.0041   15.5   4.4   1.7   1   0   0   1   1   1   1 UPF0612 protein C337.02c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC337.02c PE=3 SV=1
+sp|Q9UR24|RHP26_SCHPO -          Nup54                PF13874.3       0.23    9.8   4.1      0.43    8.9   4.1   1.5   1   0   0   1   1   1   0 DNA repair protein rhp26 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rhp26 PE=4 SV=1
+sp|O74422|YQ56_SCHPO  -          Nup54                PF13874.3       0.38    9.1  16.7      0.79    8.1   6.8   2.6   1   1   1   2   2   2   0 Uncharacterized protein C162.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC162.06c PE=3 SV=1
+sp|O94641|HS104_SCHPO -          Nup54                PF13874.3       0.42    8.9  11.3      0.11   10.8   7.3   2.2   2   0   0   2   2   2   0 Heat shock protein 104 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hsp104 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:44 2022
+# [ok]

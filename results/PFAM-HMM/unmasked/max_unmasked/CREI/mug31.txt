@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q9AU05|Q9AU05_CHLRE         -          NPCC                 PF08058.8       0.17   12.0   1.3      0.29   11.2   1.3   1.4   1   0   0   1   1   1   0 Cytochrome c oxidase subunit II OS=Chlamydomonas reinhardtii OX=3055 GN=cox2a PE=2 SV=1
+tr|A0A2K3DBM8|A0A2K3DBM8_CHLRE -          NPCC                 PF08058.8       0.97    9.6   0.4       2.7    8.1   0.4   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g457400v5 PE=4 SV=1
+tr|A0A2K3E751|A0A2K3E751_CHLRE -          NPCC                 PF08058.8          3    8.0   0.4         6    7.0   0.4   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g036550v5 PE=3 SV=1
+tr|A8I3S5|A8I3S5_CHLRE         -          NPCC                 PF08058.8        3.2    7.9   0.5       6.7    6.8   0.6   1.5   1   1   0   1   1   1   0 Endoplasmic reticulum transmembrane protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g108050v5 PE=3 SV=1
+tr|A0A2K3DIZ6|A0A2K3DIZ6_CHLRE -          NPCC                 PF08058.8        7.7    6.6   0.1       8.1    6.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g320093v5 PE=3 SV=1
+tr|A8JAP7|A8JAP7_CHLRE         -          NPCC                 PF08058.8          8    6.6   0.0        15    5.8   0.0   1.3   1   0   0   1   1   1   0 Inosine-5'-monophosphate dehydrogenase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g614300v5 PE=3 SV=1
+tr|Q8LP68|Q8LP68_CHLRE         -          NPCC                 PF08058.8        9.6    6.3   0.0        21    5.3   0.0   1.4   1   0   0   1   1   1   0 Putative Pi-transporter homologue B1 OS=Chlamydomonas reinhardtii OX=3055 GN=PTB1 PE=2 SV=1
+tr|A0A2K3DJK3|A0A2K3DJK3_CHLRE -          NPCC                 PF08058.8        9.6    6.3   0.0        20    5.3   0.0   1.5   1   0   0   1   1   1   0 MYND-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g327050v5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:59:05 2022
+# [ok]

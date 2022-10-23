@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HP61|A0A498HP61_MALDO -          Nucleopor_Nup85      PF07575.10  5.7e-160  534.9   3.1    7e-160  534.5   3.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Malus domestica OX=3750 GN=DVH24_012363 PE=3 SV=1
+tr|A0A498JCX7|A0A498JCX7_MALDO -          Nucleopor_Nup85      PF07575.10      0.19   11.5   0.0      0.52   10.1   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013592 PE=4 SV=1
+tr|A0A498IGR5|A0A498IGR5_MALDO -          Nucleopor_Nup85      PF07575.10      0.31   10.8   0.1        35    4.0   0.0   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005226 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup75.txt --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:25:37 2022
+# [ok]

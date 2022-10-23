@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D606|A0A2K3D606_CHLRE -          Nup35_RRM            PF05172.10   6.1e-15   55.1   0.0   2.3e-14   53.2   0.0   1.7   1   1   0   1   1   1   1 RRM Nup35-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g553050v5 PE=4 SV=1
+tr|A0A2K3D5J0|A0A2K3D5J0_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0         2    8.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+tr|A0A2K3D5J2|A0A2K3D5J2_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0         2    8.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+tr|A0A2K3D5I3|A0A2K3D5I3_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0       2.1    8.4   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup53.txt --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:23:26 2022
+# [ok]

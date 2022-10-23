@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JY61|A0A498JY61_MALDO -          Ndc1_Nup             PF09531.7    9.7e-26   91.9  16.0   4.5e-15   56.7   2.0   3.2   2   1   1   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011248 PE=3 SV=1
+tr|A0A498IXW9|A0A498IXW9_MALDO -          Ndc1_Nup             PF09531.7      2e-25   90.9  15.1   3.3e-15   57.1   0.9   3.1   2   1   1   3   3   3   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022247 PE=3 SV=1
+tr|A0A498I907|A0A498I907_MALDO -          Ndc1_Nup             PF09531.7      0.057   13.4   8.4     0.068   13.2   8.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040777 PE=4 SV=1
+tr|A0A498HXZ9|A0A498HXZ9_MALDO -          Ndc1_Nup             PF09531.7       0.16   11.9   0.0      0.16   11.9   0.0   2.1   1   1   1   2   2   2   0 DUF4149 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_016605 PE=4 SV=1
+tr|A0A498IG83|A0A498IG83_MALDO -          Ndc1_Nup             PF09531.7       0.22   11.5   0.0      0.25   11.3   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004911 PE=4 SV=1
+tr|A0A498HN48|A0A498HN48_MALDO -          Ndc1_Nup             PF09531.7       0.31   11.0   0.4      0.44   10.5   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012053 PE=4 SV=1
+tr|A0A498ILT6|A0A498ILT6_MALDO -          Ndc1_Nup             PF09531.7        3.1    7.7   7.9       3.6    7.5   7.9   1.1   1   0   0   1   1   1   0 OTU domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_027205 PE=4 SV=1
+tr|A0A498KB03|A0A498KB03_MALDO -          Ndc1_Nup             PF09531.7        3.3    7.6   8.9       3.9    7.4   8.9   1.1   1   0   0   1   1   1   0 OTU domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002720 PE=4 SV=1
+tr|A0A498KGE0|A0A498KGE0_MALDO -          Ndc1_Nup             PF09531.7        3.4    7.5   8.5       3.7    7.4   8.5   1.1   1   0   0   1   1   1   0 CBFD_NFYB_HMF domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038817 PE=4 SV=1
+tr|A0A498IMK2|A0A498IMK2_MALDO -          Ndc1_Nup             PF09531.7        3.6    7.4   8.5       5.2    6.9   8.5   1.3   1   0   0   1   1   1   0 SHSP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_005520 PE=3 SV=1
+tr|A0A498HVK1|A0A498HVK1_MALDO -          Ndc1_Nup             PF09531.7        6.2    6.7   7.1       9.4    6.1   7.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039317 PE=4 SV=1
+tr|A0A498KEW2|A0A498KEW2_MALDO -          Ndc1_Nup             PF09531.7        8.3    6.3  10.6       8.5    6.2  10.6   1.1   1   0   0   1   1   1   0 Histone domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_039208 PE=3 SV=1
+tr|A0A498KWL9|A0A498KWL9_MALDO -          Ndc1_Nup             PF09531.7        9.5    6.1   7.1        13    5.6   7.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033940 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:26:22 2022
+# [ok]

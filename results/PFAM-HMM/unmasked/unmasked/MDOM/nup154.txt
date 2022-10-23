@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HC92|A0A498HC92_MALDO -          Nucleoporin_C        PF03177.11   3.9e-12   47.0   7.8   7.7e-09   36.1   7.8   3.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028051 PE=3 SV=1
+tr|A0A498HCT8|A0A498HCT8_MALDO -          Nucleoporin_C        PF03177.11    0.0048   16.9   0.1      0.77    9.7   0.0   2.0   2   0   0   2   2   2   2 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_037062 PE=4 SV=1
+tr|A0A498HM15|A0A498HM15_MALDO -          Nucleoporin_C        PF03177.11     0.019   14.9   0.0       4.2    7.2   0.0   2.1   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_007229 PE=4 SV=1
+tr|A0A498IBY6|A0A498IBY6_MALDO -          Nucleoporin_C        PF03177.11     0.041   13.8   0.1       4.5    7.1   0.0   2.1   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_040652 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:25:18 2022
+# [ok]

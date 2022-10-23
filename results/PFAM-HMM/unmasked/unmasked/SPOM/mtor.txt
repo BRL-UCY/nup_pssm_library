@@ -1,0 +1,36 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O74424|NU211_SCHPO -          TPR_MLP1_2           PF07926.9      1e-27   95.0   5.4     1e-27   95.0   5.4  18.4   6   4  12  19  19  13   3 Nucleoporin nup211 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup211 PE=1 SV=1
+sp|Q9UTK5|ALM1_SCHPO  -          TPR_MLP1_2           PF07926.9    4.2e-06   25.1  20.3   4.2e-06   25.1  20.3  18.2   5   4  11  18  18  14   1 Nucleoporin alm1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alm1 PE=1 SV=1
+sp|O14157|MYO3_SCHPO  -          TPR_MLP1_2           PF07926.9    5.6e-05   21.5  17.3   5.6e-05   21.5  17.3  11.9   7   4   4  12  12   9   2 Myosin type-2 heavy chain 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=myo3 PE=1 SV=1
+sp|Q92351|PCP1_SCHPO  -          TPR_MLP1_2           PF07926.9     0.0018   16.5  13.8    0.0018   16.5  13.8  11.0   4   2   6  10  10   9   3 Spindle pole body protein pcp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pcp1 PE=1 SV=1
+sp|Q9C0U7|VPS5_SCHPO  -          TPR_MLP1_2           PF07926.9     0.0032   15.8  13.0    0.0077   14.5  13.0   1.7   1   0   0   1   1   1   1 Vacuolar protein sorting-associated protein vps5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=vps5 PE=1 SV=1
+sp|Q9HDT8|YJ51_SCHPO  -          TPR_MLP1_2           PF07926.9      0.006   14.9   2.7     0.006   14.9   2.7   2.3   2   1   0   2   2   2   1 UPF0612 protein P20C8.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCP20C8.01c PE=3 SV=1
+sp|O94390|ATP7_SCHPO  -          TPR_MLP1_2           PF07926.9      0.018   13.4   6.9      0.14   10.5   0.1   2.2   1   1   1   2   2   2   0 ATP synthase subunit d, mitochondrial OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=atp7 PE=3 SV=3
+sp|O42903|YBAC_SCHPO  -          TPR_MLP1_2           PF07926.9       0.11   10.9  54.0      0.44    8.9  22.3   3.6   1   1   1   2   2   2   0 GRIP domain-containing protein C119.12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC119.12 PE=2 SV=1
+sp|Q09857|USO1_SCHPO  -          TPR_MLP1_2           PF07926.9       0.13   10.6  87.3     0.015   13.6   9.2   5.9   1   1   2   4   4   4   0 Intracellular protein transport protein uso1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=uso1 PE=3 SV=3
+sp|Q9Y7S2|YQO3_SCHPO  -          TPR_MLP1_2           PF07926.9       0.14   10.4   9.7      0.48    8.7   0.3   3.8   2   1   1   3   3   3   0 UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+sp|Q9UTL2|KLP8_SCHPO  -          TPR_MLP1_2           PF07926.9       0.19   10.0   7.0       0.6    8.4   5.3   2.3   2   0   0   2   2   2   0 Kinesin-like protein 8 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=klp8 PE=1 SV=1
+sp|Q9HGL2|YHLA_SCHPO  -          TPR_MLP1_2           PF07926.9       0.23    9.7  44.8      0.07   11.4  15.3   2.4   1   1   1   2   2   2   0 Uncharacterized calcium-binding protein C800.10c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC800.10c PE=4 SV=1
+sp|P79065|TIP1_SCHPO  -          TPR_MLP1_2           PF07926.9       0.27    9.5  29.5     0.059   11.7   1.3   3.6   2   1   1   3   3   3   0 Tip elongation protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tip1 PE=1 SV=1
+sp|Q9Y7S0|YQO1_SCHPO  -          TPR_MLP1_2           PF07926.9       0.37    9.1  11.2    0.0075   14.6   2.4   2.5   3   0   0   3   3   3   0 UPF0612 protein C569.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.01c PE=3 SV=1
+sp|Q10336|MCP6_SCHPO  -          TPR_MLP1_2           PF07926.9       0.45    8.8  32.2      0.37    9.1   1.4   3.5   2   1   1   3   3   3   0 Meiotic coiled-coil protein 6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mcp6 PE=1 SV=1
+sp|Q02088|TPM_SCHPO   -          TPR_MLP1_2           PF07926.9       0.48    8.7  41.3       2.4    6.5  16.3   2.9   1   1   0   2   2   2   0 Tropomyosin OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cdc8 PE=3 SV=1
+sp|O14450|PFD6_SCHPO  -          TPR_MLP1_2           PF07926.9       0.58    8.5  11.5       5.6    5.3  11.0   2.0   1   1   0   1   1   1   0 Probable prefoldin subunit 6 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC3A11.13 PE=3 SV=1
+sp|O74422|YQ56_SCHPO  -          TPR_MLP1_2           PF07926.9       0.67    8.2  25.0         2    6.7  20.5   2.4   2   1   0   2   2   2   0 Uncharacterized protein C162.06c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC162.06c PE=3 SV=1
+sp|O74388|YNVD_SCHPO  -          TPR_MLP1_2           PF07926.9       0.89    7.9   6.8      0.64    8.3   3.7   2.0   2   0   0   2   2   2   0 Uncharacterized protein C3H7.13 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC3H7.13 PE=1 SV=1
+sp|G2TRS9|YBJ2_SCHPO  -          TPR_MLP1_2           PF07926.9        1.2    7.5  10.7     0.032   12.5   2.4   2.5   3   0   0   3   3   3   0 UPF0612 protein C337.02c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC337.02c PE=3 SV=1
+sp|Q9URY2|ALP7_SCHPO  -          TPR_MLP1_2           PF07926.9        6.1    5.2  33.1      0.04   12.2  10.5   3.8   1   1   1   3   3   3   0 Microtubule protein alp7 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=alp7 PE=1 SV=1
+sp|Q10199|IMP2_SCHPO  -          TPR_MLP1_2           PF07926.9        6.7    5.0  14.9       2.6    6.3   8.5   3.3   2   1   1   3   3   3   0 Septation protein imp2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=imp2 PE=1 SV=1
+sp|O42667|SSM4_SCHPO  -          TPR_MLP1_2           PF07926.9        7.1    4.9  39.3    0.0089   14.3  12.2   3.9   2   1   1   3   3   3   0 Microtubule-associated protein ssm4 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ssm4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:26 2022
+# [ok]

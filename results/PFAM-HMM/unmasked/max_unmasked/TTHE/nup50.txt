@@ -1,0 +1,28 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22UB5|Q22UB5_TETTS -          NUP50                PF08911.8      0.011   16.9   0.6     0.011   16.9   0.6   2.8   2   1   0   2   2   1   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00260700 PE=4 SV=2
+tr|Q23HB9|Q23HB9_TETTS -          NUP50                PF08911.8      0.095   13.9   3.8       4.1    8.7   1.6   2.3   1   1   1   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00816270 PE=4 SV=3
+tr|I7MLS3|I7MLS3_TETTS -          NUP50                PF08911.8        2.1    9.6   0.3       5.2    8.3   0.3   1.6   1   0   0   1   1   1   0 SNARE associated protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00494230 PE=4 SV=1
+tr|I7M6B7|I7M6B7_TETTS -          NUP50                PF08911.8        2.8    9.2   0.3       3.3    8.9   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00584720 PE=4 SV=1
+tr|Q236J5|Q236J5_TETTS -          NUP50                PF08911.8        2.9    9.2   0.2        15    6.8   0.2   2.3   1   0   0   1   1   1   0 AAA family ATPase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00088010 PE=4 SV=2
+tr|Q23A33|Q23A33_TETTS -          NUP50                PF08911.8        3.6    8.9   0.0        77    4.6   0.1   2.1   2   0   0   2   2   2   0 Diphthine methyl ester synthase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00833850 PE=3 SV=1
+tr|I7MIM3|I7MIM3_TETTS -          NUP50                PF08911.8        4.1    8.7   4.1        38    5.6   1.5   2.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00238950 PE=4 SV=2
+tr|I7MJH1|I7MJH1_TETTS -          NUP50                PF08911.8        4.3    8.6   0.0       5.5    8.2   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00328500 PE=4 SV=2
+tr|I7LVT0|I7LVT0_TETTS -          NUP50                PF08911.8        4.8    8.4   1.4        19    6.5   1.4   2.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00589980 PE=4 SV=1
+tr|Q236K4|Q236K4_TETTS -          NUP50                PF08911.8        5.6    8.2   0.1       9.6    7.5   0.1   1.3   1   0   0   1   1   1   0 TMS membrane protein/tumor differentially protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00086930 PE=3 SV=1
+tr|Q229U1|Q229U1_TETTS -          NUP50                PF08911.8        5.8    8.2   1.8        36    5.6   1.8   2.5   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01337390 PE=4 SV=2
+tr|I7MAG4|I7MAG4_TETTS -          NUP50                PF08911.8        6.8    7.9   0.6        56    5.0   0.4   2.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00237580 PE=4 SV=1
+tr|W7XE07|W7XE07_TETTS -          NUP50                PF08911.8        7.3    7.9   0.0       9.4    7.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000694439 PE=4 SV=1
+tr|Q237E7|Q237E7_TETTS -          NUP50                PF08911.8        7.6    7.8   1.3        16    6.7   1.3   1.4   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00324520 PE=4 SV=2
+tr|I7MIR9|I7MIR9_TETTS -          NUP50                PF08911.8        9.1    7.6   4.1       3.4    8.9   0.3   2.0   1   1   1   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00242110 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 11:38:55 2022
+# [ok]

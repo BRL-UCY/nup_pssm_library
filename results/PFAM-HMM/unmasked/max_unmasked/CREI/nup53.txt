@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D606|A0A2K3D606_CHLRE -          Nup35_RRM            PF05172.10   6.1e-15   55.1   0.0   2.3e-14   53.2   0.0   1.7   1   1   0   1   1   1   1 RRM Nup35-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g553050v5 PE=4 SV=1
+tr|A0A2K3DTX1|A0A2K3DTX1_CHLRE -          Nup35_RRM            PF05172.10     0.015   15.3   0.1        26    4.9   0.1   3.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g213905v5 PE=4 SV=1
+tr|A0A2K3DTV4|A0A2K3DTV4_CHLRE -          Nup35_RRM            PF05172.10     0.031   14.3   0.0        25    5.0   0.1   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g213905v5 PE=4 SV=1
+tr|A0A2K3DNK6|A0A2K3DNK6_CHLRE -          Nup35_RRM            PF05172.10       0.1   12.6   0.0      0.29   11.2   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g275100v5 PE=4 SV=1
+tr|A0A2K3D5J0|A0A2K3D5J0_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0         2    8.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+tr|A0A2K3D5J2|A0A2K3D5J2_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0         2    8.5   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+tr|A0A2K3D5I3|A0A2K3D5I3_CHLRE -          Nup35_RRM            PF05172.10      0.13   12.3   0.0       2.1    8.4   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g560300v5 PE=4 SV=1
+tr|A0A2K3DPK2|A0A2K3DPK2_CHLRE -          Nup35_RRM            PF05172.10      0.35   10.9   0.0       0.7   10.0   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g280475v5 PE=4 SV=1
+tr|A0A2K3CR49|A0A2K3CR49_CHLRE -          Nup35_RRM            PF05172.10      0.72    9.9   0.0   1.5e+02    2.5   0.0   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g733208v5 PE=4 SV=1
+tr|A0A2K3DXG9|A0A2K3DXG9_CHLRE -          Nup35_RRM            PF05172.10      0.78    9.8   0.0        83    3.3   0.0   3.2   3   1   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g177200v5 PE=4 SV=1
+tr|A0A2K3DLE6|A0A2K3DLE6_CHLRE -          Nup35_RRM            PF05172.10       1.1    9.3   0.2       9.7    6.3   0.0   2.2   2   0   0   2   2   2   0 RRM domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g352650v5 PE=4 SV=1
+tr|A8J5G1|A8J5G1_CHLRE         -          Nup35_RRM            PF05172.10       1.1    9.3   0.4       2.1    8.4   0.4   1.4   1   1   0   1   1   1   0 RNA binding motif protein OS=Chlamydomonas reinhardtii OX=3055 GN=RBM8A PE=4 SV=1
+tr|A0A2K3CR43|A0A2K3CR43_CHLRE -          Nup35_RRM            PF05172.10       1.2    9.3   0.1   1.8e+02    2.2   0.0   2.8   1   1   2   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g733050v5 PE=4 SV=1
+tr|A0A2K3E7A5|A0A2K3E7A5_CHLRE -          Nup35_RRM            PF05172.10       1.4    9.0   0.0        78    3.4   0.0   2.9   4   0   0   4   4   3   0 Polyadenylate-binding protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g039300v5 PE=3 SV=1
+tr|A0A2K3CS78|A0A2K3CS78_CHLRE -          Nup35_RRM            PF05172.10       2.2    8.3   0.0       4.5    7.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g695650v5 PE=4 SV=1
+tr|A0A2K3DC97|A0A2K3DC97_CHLRE -          Nup35_RRM            PF05172.10       2.7    8.1   0.0   1.1e+02    2.9   0.0   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g466450v5 PE=4 SV=1
+tr|A8JC47|A8JC47_CHLRE         -          Nup35_RRM            PF05172.10         4    7.5   0.0       7.1    6.7   0.0   1.4   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CPLD48 PE=4 SV=1
+tr|A0A2K3DWJ2|A0A2K3DWJ2_CHLRE -          Nup35_RRM            PF05172.10       4.7    7.3   0.0        77    3.4   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g162750v5 PE=4 SV=1
+tr|A0A2K3DQ82|A0A2K3DQ82_CHLRE -          Nup35_RRM            PF05172.10       5.6    7.0   0.0   1.7e+02    2.3   0.0   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g290450v5 PE=4 SV=1
+tr|A8J9H8|A8J9H8_CHLRE         -          Nup35_RRM            PF05172.10       7.9    6.6   0.0       8.6    6.5   0.0   1.2   1   0   0   1   1   1   0 Nucleoside diphosphate kinase OS=Chlamydomonas reinhardtii OX=3055 GN=FAP103 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05172.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup53.txt --max --cpu 8 hmm_profiles/PF05172.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:51:12 2022
+# [ok]

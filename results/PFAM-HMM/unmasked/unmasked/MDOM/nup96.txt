@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JEJ7|A0A498JEJ7_MALDO -          Nup96                PF12110.5    1.4e-71  242.3   0.2   2.2e-71  241.6   0.2   1.4   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033370 PE=4 SV=1
+tr|A0A498HQL7|A0A498HQL7_MALDO -          Nup96                PF12110.5    7.3e-71  239.9   0.2   1.4e-70  239.0   0.2   1.5   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016588 PE=4 SV=1
+tr|A0A498HRV9|A0A498HRV9_MALDO -          Nup96                PF12110.5    7.4e-46  157.8   0.5     1e-45  157.3   0.5   1.1   1   0   0   1   1   1   1 Nup96 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018938 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup96.txt --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:26:24 2022
+# [ok]

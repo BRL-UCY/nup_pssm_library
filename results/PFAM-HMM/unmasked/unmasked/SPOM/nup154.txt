@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9UTH0|NU132_SCHPO -          Nucleoporin_C        PF03177.11    6e-132  439.6  18.9  7.3e-132  439.3  18.9   1.1   1   0   0   1   1   1   1 Nucleoporin nup132 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup132 PE=1 SV=1
+sp|Q9URX8|NG06_SCHPO  -          Nucleoporin_C        PF03177.11     4e-53  179.3   2.9   5.9e-53  178.7   2.9   1.3   1   0   0   1   1   1   1 Probable nucleoporin C890.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC890.06 PE=3 SV=3
+sp|Q9P797|NU131_SCHPO -          Nucleoporin_C        PF03177.11   5.2e-33  112.9  24.0   7.9e-33  112.3  24.0   1.2   1   0   0   1   1   1   1 Nucleoporin nup131 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup131 PE=1 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup154.txt --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:23 2022
+# [ok]

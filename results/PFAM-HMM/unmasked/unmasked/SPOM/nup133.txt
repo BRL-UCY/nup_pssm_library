@@ -1,0 +1,26 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9URX8|NG06_SCHPO  -          Nucleoporin_N        PF08801.8    8.5e-92  306.4   6.4   7.1e-91  303.3   7.4   1.9   2   0   0   2   2   2   1 Probable nucleoporin C890.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC890.06 PE=3 SV=3
+sp|Q9P797|NU131_SCHPO -          Nucleoporin_N        PF08801.8    1.9e-59  199.8   0.1   3.7e-59  198.8   0.1   1.5   1   0   0   1   1   1   1 Nucleoporin nup131 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup131 PE=1 SV=3
+sp|Q9UTH0|NU132_SCHPO -          Nucleoporin_N        PF08801.8    3.2e-55  185.9   3.2   4.6e-55  185.3   3.2   1.2   1   0   0   1   1   1   1 Nucleoporin nup132 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup132 PE=1 SV=1
+sp|Q10272|IPI3_SCHPO  -          Nucleoporin_N        PF08801.8    1.4e-06   25.6   4.4   8.1e-05   19.8   0.1   3.1   1   1   2   3   3   3   2 Pre-rRNA-processing protein crb3/ipi3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=crb3 PE=1 SV=1
+sp|O14053|UTP21_SCHPO -          Nucleoporin_N        PF08801.8      9e-06   22.9   2.3     0.017   12.1   0.1   3.7   2   2   2   4   4   4   2 U3 small nucleolar RNA-associated protein 21 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC1672.07 PE=3 SV=1
+sp|O43017|SWD3_SCHPO  -          Nucleoporin_N        PF08801.8    8.9e-05   19.6   3.4     0.062   10.3   0.1   3.9   1   1   1   2   2   2   2 Set1 complex component swd3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=swd3 PE=1 SV=1
+sp|O74184|WAT1_SCHPO  -          Nucleoporin_N        PF08801.8     0.0016   15.5   0.0      0.17    8.8   0.0   3.2   1   1   2   4   4   4   1 Target of rapamycin complex subunit wat1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pop3 PE=1 SV=1
+sp|Q9USN3|UTP13_SCHPO -          Nucleoporin_N        PF08801.8     0.0094   13.0   3.3         3    4.7   0.4   4.5   2   2   0   4   4   4   1 Probable U3 small nucleolar RNA-associated protein 13 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=utp13 PE=3 SV=3
+sp|Q09855|POF11_SCHPO -          Nucleoporin_N        PF08801.8     0.0099   12.9   7.1     0.017   12.1   0.1   3.9   5   2   0   5   5   5   1 F-box/WD repeat-containing protein pof11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pof11 PE=1 SV=2
+sp|O94620|CWF17_SCHPO -          Nucleoporin_N        PF08801.8      0.011   12.8   0.8     0.045   10.7   0.4   2.2   1   1   0   1   1   1   0 Pre-mRNA-splicing factor cwf17 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cwf17 PE=1 SV=1
+sp|Q9UTN4|PFS2_SCHPO  -          Nucleoporin_N        PF08801.8      0.014   12.4   0.1       1.3    5.9   0.0   3.1   2   1   0   3   3   3   0 Polyadenylation factor subunit 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pfs2 PE=4 SV=1
+sp|P87177|YB1C_SCHPO  -          Nucleoporin_N        PF08801.8      0.017   12.1   0.1       1.3    5.9   0.0   3.2   3   2   0   3   3   3   0 Uncharacterized WD repeat-containing protein C3D6.12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC3D6.12 PE=1 SV=1
+sp|O94394|YQF1_SCHPO  -          Nucleoporin_N        PF08801.8      0.026   11.5   3.7       1.5    5.7   0.1   3.5   2   2   1   3   3   3   0 Uncharacterized WD repeat-containing protein C126.01c OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC126.01c PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:27 2022
+# [ok]

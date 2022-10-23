@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q09717|RANG_SCHPO  -          Ran_BP1              PF00638.15     8e-48  160.0   1.6   1.3e-47  159.3   1.6   1.3   1   0   0   1   1   1   1 Ran-specific GTPase-activating protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sbp1 PE=1 SV=1
+sp|Q09146|HBA1_SCHPO  -          Ran_BP1              PF00638.15   2.2e-22   77.8   0.3   6.4e-22   76.3   0.0   2.0   2   0   0   2   2   2   1 Brefeldin A resistance protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=hba1 PE=1 SV=1
+sp|Q9USL4|NUP61_SCHPO -          Ran_BP1              PF00638.15   7.9e-20   69.6   0.0   1.9e-19   68.4   0.0   1.6   1   0   0   1   1   1   1 Nucleoporin nup61 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup61 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:42 2022
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IW40|A0A498IW40_MALDO -          Nup188               PF10487.6    6.6e-11   42.1   0.2   3.3e-08   33.2   0.2   2.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_034499 PE=4 SV=1
+tr|A0A498KJ27|A0A498KJ27_MALDO -          Nup188               PF10487.6    2.2e-09   37.1   0.0   4.4e-09   36.1   0.0   1.4   1   0   0   1   1   1   1 Methyltransf_21 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_017797 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup188.txt --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:25:30 2022
+# [ok]

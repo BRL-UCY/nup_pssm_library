@@ -1,0 +1,23 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DI91|A0A2K3DI91_CHLRE -          Nucleopor_Nup85      PF07575.10   5.3e-26   91.4   0.0   4.9e-24   84.9   0.0   2.8   2   1   0   2   2   2   1 Nuclear pore complex protein Nup85 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g383650v5 PE=3 SV=1
+tr|A0A2K3D656|A0A2K3D656_CHLRE -          Nucleopor_Nup85      PF07575.10      0.49    9.0   0.9      0.62    8.7   0.2   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g551100v5 PE=4 SV=1
+tr|A8I882|A8I882_CHLRE         -          Nucleopor_Nup85      PF07575.10      0.74    8.4   0.2      0.99    8.0   0.2   1.1   1   0   0   1   1   1   0 Obg-like ATPase 1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g083600v5 PE=3 SV=1
+tr|A0A2K3CZM7|A0A2K3CZM7_CHLRE -          Nucleopor_Nup85      PF07575.10       1.8    7.1   0.0       1.9    7.1   0.0   1.1   1   0   0   1   1   1   0 Peptide-methionine (S)-S-oxide reductase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g570900v5 PE=3 SV=1
+tr|A8JFR3|A8JFR3_CHLRE         -          Nucleopor_Nup85      PF07575.10       3.4    6.2   1.1        41    2.6   0.3   2.1   2   0   0   2   2   2   0 Flagellar associated protein OS=Chlamydomonas reinhardtii OX=3055 GN=FAP118 PE=2 SV=1
+tr|A8J8L1|A8J8L1_CHLRE         -          Nucleopor_Nup85      PF07575.10       4.3    5.9   0.0       5.8    5.4   0.0   1.1   1   0   0   1   1   1   0 Cytochrome b5 protein OS=Chlamydomonas reinhardtii OX=3055 GN=CYB5_5 PE=3 SV=1
+tr|A0A2K3CTQ0|A0A2K3CTQ0_CHLRE -          Nucleopor_Nup85      PF07575.10         5    5.6   0.4       7.3    5.1   0.3   1.3   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g663315v5 PE=4 SV=1
+tr|A0A2K3DWP5|A0A2K3DWP5_CHLRE -          Nucleopor_Nup85      PF07575.10       6.5    5.3   0.0       9.3    4.8   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g165550v5 PE=4 SV=1
+tr|A0A2K3D108|A0A2K3D108_CHLRE -          Nucleopor_Nup85      PF07575.10       6.7    5.2   0.4       9.1    4.8   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g589700v5 PE=4 SV=1
+tr|A0A2K3DLG9|A0A2K3DLG9_CHLRE -          Nucleopor_Nup85      PF07575.10       6.8    5.2   0.0       9.9    4.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g353700v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:36:41 2022
+# [ok]

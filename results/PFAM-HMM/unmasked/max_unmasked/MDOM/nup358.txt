@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498KCT1|A0A498KCT1_MALDO -          Ran_BP1              PF00638.15   1.5e-40  139.5   1.4   2.5e-40  138.7   1.4   1.3   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038448 PE=4 SV=1
+tr|A0A498ISK3|A0A498ISK3_MALDO -          Ran_BP1              PF00638.15   1.9e-40  139.1   1.1   3.1e-40  138.5   1.1   1.3   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041650 PE=4 SV=1
+tr|A0A498IZS3|A0A498IZS3_MALDO -          Ran_BP1              PF00638.15   2.1e-19   71.2   0.7   3.4e-19   70.5   0.7   1.3   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          Ran_BP1              PF00638.15   2.1e-19   71.2   0.6   3.7e-19   70.4   0.6   1.4   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498K4X5|A0A498K4X5_MALDO -          Ran_BP1              PF00638.15   3.6e-07   31.7   0.1   6.1e-07   30.9   0.1   1.4   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_001279 PE=4 SV=1
+tr|A0A498JK99|A0A498JK99_MALDO -          Ran_BP1              PF00638.15   1.9e-05   26.1   0.1   3.2e-05   25.4   0.1   1.4   1   0   0   1   1   1   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007945 PE=4 SV=1
+tr|A0A498KI64|A0A498KI64_MALDO -          Ran_BP1              PF00638.15      0.37   12.3   3.9       9.2    7.8   0.1   2.1   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014546 PE=4 SV=1
+tr|A0A498HNP2|A0A498HNP2_MALDO -          Ran_BP1              PF00638.15      0.81   11.2   0.0         3    9.3   0.0   1.9   1   0   0   1   1   1   0 SMK-1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025415 PE=4 SV=1
+tr|A0A498I939|A0A498I939_MALDO -          Ran_BP1              PF00638.15       4.9    8.6   0.0        11    7.5   0.0   1.5   1   0   0   1   1   1   0 RNA-dependent RNA polymerase OS=Malus domestica OX=3750 GN=DVH24_039574 PE=3 SV=1
+tr|A0A498JBI7|A0A498JBI7_MALDO -          Ran_BP1              PF00638.15         5    8.6   0.0        15    7.1   0.0   1.7   2   0   0   2   2   1   0 MLO-like protein OS=Malus domestica OX=3750 GN=MLO PE=3 SV=1
+tr|A0A498INA0|A0A498INA0_MALDO -          Ran_BP1              PF00638.15       6.2    8.3   0.0       7.5    8.0   0.0   1.1   1   0   0   1   1   1   0 Phytosulfokine OS=Malus domestica OX=3750 GN=DVH24_005760 PE=3 SV=1
+tr|A0A498JD77|A0A498JD77_MALDO -          Ran_BP1              PF00638.15       6.9    8.2   0.3        10    7.6   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013692 PE=4 SV=1
+tr|A0A498I8R6|A0A498I8R6_MALDO -          Ran_BP1              PF00638.15       7.8    8.0   0.0        26    6.3   0.0   1.9   1   0   0   1   1   1   0 SMK-1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041305 PE=4 SV=1
+tr|A0A498J8S8|A0A498J8S8_MALDO -          Ran_BP1              PF00638.15       8.2    7.9   0.1        45    5.5   0.0   2.2   2   0   0   2   2   2   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_032158 PE=4 SV=1
+tr|A0A498JWH1|A0A498JWH1_MALDO -          Ran_BP1              PF00638.15       8.4    7.9   0.3        26    6.3   0.2   1.9   2   1   0   2   2   2   0 DYW_deaminase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037808 PE=3 SV=1
+tr|A0A498HXJ5|A0A498HXJ5_MALDO -          Ran_BP1              PF00638.15       8.7    7.8   0.0        14    7.1   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019236 PE=3 SV=1
+tr|A0A498JST1|A0A498JST1_MALDO -          Ran_BP1              PF00638.15       9.7    7.7   0.6        16    7.0   0.6   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009726 PE=4 SV=1
+tr|A0A498HYY5|A0A498HYY5_MALDO -          Ran_BP1              PF00638.15        10    7.6   0.1        35    5.9   0.0   1.7   1   1   1   2   2   2   0 MADS-box domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021313 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup358.txt --max --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 17:15:40 2022
+# [ok]

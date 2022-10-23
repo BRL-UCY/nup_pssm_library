@@ -1,0 +1,51 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HP61|A0A498HP61_MALDO -          Nucleopor_Nup85      PF07575.10  5.7e-160  534.9   3.1    7e-160  534.5   3.1   1.0   1   0   0   1   1   1   1 Nuclear pore complex protein Nup85 OS=Malus domestica OX=3750 GN=DVH24_012363 PE=3 SV=1
+tr|A0A498JCX7|A0A498JCX7_MALDO -          Nucleopor_Nup85      PF07575.10      0.19   11.5   0.0      0.52   10.1   0.0   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013592 PE=4 SV=1
+tr|A0A498IGR5|A0A498IGR5_MALDO -          Nucleopor_Nup85      PF07575.10      0.31   10.8   0.1        35    4.0   0.0   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005226 PE=4 SV=1
+tr|A0A498HEP3|A0A498HEP3_MALDO -          Nucleopor_Nup85      PF07575.10      0.32   10.7   0.3      0.53   10.0   0.3   1.4   1   0   0   1   1   1   0 FRIGIDA-like protein OS=Malus domestica OX=3750 GN=DVH24_031097 PE=3 SV=1
+tr|A0A498JJA6|A0A498JJA6_MALDO -          Nucleopor_Nup85      PF07575.10       1.1    8.9   0.6       1.5    8.5   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008499 PE=4 SV=1
+tr|A0A498KI26|A0A498KI26_MALDO -          Nucleopor_Nup85      PF07575.10       1.2    8.9   0.6       1.7    8.4   0.6   1.2   1   0   0   1   1   1   0 FRIGIDA-like protein OS=Malus domestica OX=3750 GN=DVH24_026233 PE=3 SV=1
+tr|A0A498K440|A0A498K440_MALDO -          Nucleopor_Nup85      PF07575.10       1.2    8.9   0.1         2    8.2   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003067 PE=4 SV=1
+tr|A0A498JE48|A0A498JE48_MALDO -          Nucleopor_Nup85      PF07575.10       1.3    8.8   0.0       2.5    7.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021025 PE=4 SV=1
+tr|A0A498JNG4|A0A498JNG4_MALDO -          Nucleopor_Nup85      PF07575.10       1.4    8.6   3.5       1.2    8.8   1.8   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009070 PE=4 SV=1
+tr|A0A498K9U2|A0A498K9U2_MALDO -          Nucleopor_Nup85      PF07575.10       1.7    8.4   0.0       3.4    7.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006306 PE=4 SV=1
+tr|A0A498KGY3|A0A498KGY3_MALDO -          Nucleopor_Nup85      PF07575.10       1.7    8.3   0.2       1.9    8.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025803 PE=4 SV=1
+tr|A0A498JGB2|A0A498JGB2_MALDO -          Nucleopor_Nup85      PF07575.10       2.1    8.1   0.1       2.5    7.8   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024402 PE=4 SV=1
+tr|A0A498HG59|A0A498HG59_MALDO -          Nucleopor_Nup85      PF07575.10       2.4    7.9   0.2        21    4.7   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030778 PE=4 SV=1
+tr|A0A498HXD0|A0A498HXD0_MALDO -          Nucleopor_Nup85      PF07575.10       2.7    7.7   0.1       4.8    6.9   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028938 PE=4 SV=1
+tr|A0A498K8S4|A0A498K8S4_MALDO -          Nucleopor_Nup85      PF07575.10       2.8    7.7   0.4        26    4.4   0.1   2.1   2   0   0   2   2   2   0 1,3-beta-glucan synthase OS=Malus domestica OX=3750 GN=DVH24_038102 PE=3 SV=1
+tr|A0A498HN50|A0A498HN50_MALDO -          Nucleopor_Nup85      PF07575.10       2.9    7.6   1.0       3.1    7.5   1.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_018677 PE=4 SV=1
+tr|A0A498KUU3|A0A498KUU3_MALDO -          Nucleopor_Nup85      PF07575.10         3    7.5   0.1       3.5    7.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022887 PE=4 SV=1
+tr|A0A498KG47|A0A498KG47_MALDO -          Nucleopor_Nup85      PF07575.10       3.1    7.5   0.2       5.2    6.8   0.2   1.3   1   0   0   1   1   1   0 DUF4378 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018378 PE=4 SV=1
+tr|A0A498I702|A0A498I702_MALDO -          Nucleopor_Nup85      PF07575.10       3.1    7.5   3.7       3.1    7.5   2.0   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023565 PE=4 SV=1
+tr|A0A498IQ07|A0A498IQ07_MALDO -          Nucleopor_Nup85      PF07575.10       3.4    7.4   0.0       6.9    6.4   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042037 PE=3 SV=1
+tr|A0A498IPJ3|A0A498IPJ3_MALDO -          Nucleopor_Nup85      PF07575.10       4.2    7.1   0.3        25    4.5   0.1   2.0   2   0   0   2   2   2   0 1,3-beta-glucan synthase OS=Malus domestica OX=3750 GN=DVH24_042044 PE=3 SV=1
+tr|A0A498IM51|A0A498IM51_MALDO -          Nucleopor_Nup85      PF07575.10       4.4    7.0   0.8        23    4.6   0.0   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_003742 PE=4 SV=1
+tr|A0A498JY98|A0A498JY98_MALDO -          Nucleopor_Nup85      PF07575.10       4.9    6.8   0.2         5    6.8   0.2   1.1   1   0   0   1   1   1   0 PMEI domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037754 PE=4 SV=1
+tr|A0A498I0V5|A0A498I0V5_MALDO -          Nucleopor_Nup85      PF07575.10       5.1    6.8   0.1       7.3    6.3   0.1   1.1   1   0   0   1   1   1   0 Aldehyde dehydrogenase OS=Malus domestica OX=3750 GN=DVH24_029782 PE=3 SV=1
+tr|A0A498HYJ4|A0A498HYJ4_MALDO -          Nucleopor_Nup85      PF07575.10       5.2    6.8   0.1       8.1    6.1   0.1   1.3   1   0   0   1   1   1   0 C2H2-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_042687 PE=4 SV=1
+tr|A0A498JNY1|A0A498JNY1_MALDO -          Nucleopor_Nup85      PF07575.10       5.3    6.7   0.1       6.9    6.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008054 PE=4 SV=1
+tr|A0A498JDF9|A0A498JDF9_MALDO -          Nucleopor_Nup85      PF07575.10         6    6.6   0.0       8.8    6.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013772 PE=4 SV=1
+tr|A0A498ICI9|A0A498ICI9_MALDO -          Nucleopor_Nup85      PF07575.10       6.4    6.5   1.9       8.2    6.1   1.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040438 PE=4 SV=1
+tr|A0A498JQV4|A0A498JQV4_MALDO -          Nucleopor_Nup85      PF07575.10       6.5    6.4   0.9       7.2    6.3   0.9   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 86 OS=Malus domestica OX=3750 GN=DVH24_010145 PE=4 SV=1
+tr|A0A498JZM3|A0A498JZM3_MALDO -          Nucleopor_Nup85      PF07575.10       6.6    6.4   0.0        20    4.8   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000781 PE=4 SV=1
+tr|A0A498IMK0|A0A498IMK0_MALDO -          Nucleopor_Nup85      PF07575.10       7.3    6.3   0.0         8    6.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005618 PE=4 SV=1
+tr|A0A498HIY0|A0A498HIY0_MALDO -          Nucleopor_Nup85      PF07575.10       7.3    6.3   0.0       7.7    6.2   0.0   1.0   1   0   0   1   1   1   0 BHLH domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037131 PE=4 SV=1
+tr|A0A498ICB8|A0A498ICB8_MALDO -          Nucleopor_Nup85      PF07575.10       7.3    6.3   0.4        11    5.7   0.4   1.1   1   0   0   1   1   1   0 J domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_040802 PE=4 SV=1
+tr|A0A498KK10|A0A498KK10_MALDO -          Nucleopor_Nup85      PF07575.10       7.6    6.2   0.9       8.5    6.1   0.9   1.1   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 86 OS=Malus domestica OX=3750 GN=DVH24_025900 PE=4 SV=1
+tr|A0A498KJN9|A0A498KJN9_MALDO -          Nucleopor_Nup85      PF07575.10       7.8    6.2   0.0        11    5.7   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025760 PE=4 SV=1
+tr|A0A498JFL8|A0A498JFL8_MALDO -          Nucleopor_Nup85      PF07575.10         9    6.0   0.0        10    5.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024323 PE=4 SV=1
+tr|A0A498HAP2|A0A498HAP2_MALDO -          Nucleopor_Nup85      PF07575.10       9.3    5.9   0.0        14    5.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030861 PE=4 SV=1
+tr|A0A498ISS5|A0A498ISS5_MALDO -          Nucleopor_Nup85      PF07575.10       9.4    5.9   0.0       9.6    5.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041915 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07575.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup75.txt --max --cpu 8 hmm_profiles/PF07575.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:42:10 2022
+# [ok]

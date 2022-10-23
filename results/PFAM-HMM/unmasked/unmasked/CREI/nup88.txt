@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DPJ7|A0A2K3DPJ7_CHLRE -          Nup88                PF10168.6    1.2e-12   46.6   0.0   1.5e-09   36.4   0.0   2.2   2   0   0   2   2   2   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278900v5 PE=4 SV=1
+tr|A0A2K3DY82|A0A2K3DY82_CHLRE -          Nup88                PF10168.6      0.028   12.3   1.1      0.03   12.2   1.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g188350v5 PE=4 SV=1
+tr|A8I4X5|A8I4X5_CHLRE         -          Nup88                PF10168.6      0.029   12.3   2.7      0.44    8.4   1.1   2.0   2   0   0   2   2   2   0 Qb+c-SNARE protein, SNAP25-family OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g100250v5 PE=4 SV=1
+tr|A8JAJ4|A8JAJ4_CHLRE         -          Nup88                PF10168.6        6.5    4.5  21.0       9.2    4.0  21.0   1.2   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g611400v5 PE=4 SV=1
+tr|Q8S4W5|Q8S4W5_CHLRE         -          Nup88                PF10168.6        7.1    4.4   9.2        13    3.5   4.9   2.0   1   1   1   2   2   2   0 Qc-SNARE protein, Tlg1/Syntaxin 6-family OS=Chlamydomonas reinhardtii OX=3055 GN=SYP6 PE=2 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10168.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup88.txt --cpu 8 hmm_profiles/PF10168.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:23:17 2022
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|G0S8G0|G0S8G0_CHATD -          Nup153               PF08604.7        0.7    7.3   3.4      0.79    7.1   3.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0029750 PE=4 SV=1
+tr|G0S6C3|G0S6C3_CHATD -          Nup153               PF08604.7       0.75    7.2   0.0       1.1    6.7   0.0   1.2   1   0   0   1   1   1   0 Putative molybdenum cofactor biosynthesis protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0026250 PE=3 SV=1
+tr|G0S6H4|G0S6H4_CHATD -          Nup153               PF08604.7        1.9    5.8   0.3       3.4    5.1   0.1   1.5   1   1   1   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0034930 PE=4 SV=1
+tr|G0S8Y6|G0S8Y6_CHATD -          Nup153               PF08604.7          2    5.8   2.7       2.6    5.4   2.7   1.1   1   0   0   1   1   1   0 Ubiquinone biosynthesis O-methyltransferase, mitochondrial OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=COQ3 PE=3 SV=1
+tr|G0S221|G0S221_CHATD -          Nup153               PF08604.7        2.1    5.7   0.5       3.2    5.1   0.5   1.3   1   0   0   1   1   1   0 Hydroxymethylglutaryl-CoA lyase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0015700 PE=3 SV=1
+tr|G0S3A7|G0S3A7_CHATD -          Nup153               PF08604.7        2.7    5.4   0.2       4.9    4.5   0.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0020330 PE=4 SV=1
+tr|G0RZU3|G0RZU3_CHATD -          Nup153               PF08604.7        3.3    5.1   3.1       4.4    4.7   3.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0004220 PE=4 SV=1
+tr|G0SFJ6|G0SFJ6_CHATD -          Nup153               PF08604.7        3.3    5.1   1.8       4.6    4.6   1.8   1.2   1   0   0   1   1   1   0 SRP9-21 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0071070 PE=4 SV=1
+tr|G0S487|G0S487_CHATD -          Nup153               PF08604.7        4.6    4.6   0.5       7.8    3.9   0.5   1.3   1   0   0   1   1   1   0 18S rRNA factor 2 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0031100 PE=3 SV=1
+tr|G0SBY7|G0SBY7_CHATD -          Nup153               PF08604.7        5.5    4.4   0.5       7.5    3.9   0.5   1.1   1   0   0   1   1   1   0 GPI-anchored domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0055260 PE=4 SV=1
+tr|G0S9H9|G0S9H9_CHATD -          Nup153               PF08604.7        5.5    4.4   3.2       7.4    3.9   3.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0045950 PE=4 SV=1
+tr|G0S312|G0S312_CHATD -          Nup153               PF08604.7        5.7    4.3   0.1        10    3.5   0.1   1.3   1   0   0   1   1   1   0 Putative transporter protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0019260 PE=3 SV=1
+tr|G0S3G6|G0S3G6_CHATD -          Nup153               PF08604.7          7    4.0   1.6        10    3.4   1.6   1.1   1   0   0   1   1   1   0 P-type ATPase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0020970 PE=4 SV=1
+tr|G0SEF7|G0SEF7_CHATD -          Nup153               PF08604.7        7.6    3.9   1.5        12    3.3   1.5   1.3   1   0   0   1   1   1   0 Transferase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0063580 PE=4 SV=1
+tr|G0RYB1|G0RYB1_CHATD -          Nup153               PF08604.7        8.1    3.8   0.3        14    3.0   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0006060 PE=4 SV=1
+tr|G0SA53|G0SA53_CHATD -          Nup153               PF08604.7        8.1    3.8   3.7       2.8    5.3   0.9   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0041040 PE=4 SV=1
+tr|G0SBL9|G0SBL9_CHATD -          Nup153               PF08604.7        8.5    3.7   0.0        12    3.3   0.0   1.2   1   0   0   1   1   1   0 U2 small nuclear ribonucleoprotein B'-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0054050 PE=4 SV=1
+tr|G0S1A3|G0S1A3_CHATD -          Nup153               PF08604.7        8.6    3.7  13.0        11    3.3  13.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0012890 PE=4 SV=1
+tr|G0SG58|G0SG58_CHATD -          Nup153               PF08604.7        9.3    3.6   1.2        11    3.4   1.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0065120 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CTHE/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:18:30 2022
+# [ok]

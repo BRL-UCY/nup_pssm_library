@@ -1,0 +1,34 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3E0Z3|A0A2K3E0Z3_CHLRE -          Nup96                PF12110.5    7.2e-50  169.8   0.1   1.4e-49  168.9   0.1   1.5   1   0   0   1   1   1   1 Nup96 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086887v5 PE=4 SV=1
+tr|A0A2K3E0Z7|A0A2K3E0Z7_CHLRE -          Nup96                PF12110.5    2.8e-49  167.9   0.1   4.5e-49  167.2   0.1   1.3   1   0   0   1   1   1   1 Peptidase S59 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g086887v5 PE=4 SV=1
+tr|A0A2K3DS91|A0A2K3DS91_CHLRE -          Nup96                PF12110.5       0.23   10.6   0.2       1.4    8.1   0.2   2.1   3   0   0   3   3   3   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g244550v5 PE=4 SV=1
+tr|A0A2K3CYM1|A0A2K3CYM1_CHLRE -          Nup96                PF12110.5       0.27   10.4   0.1      0.36   10.0   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g574950v5 PE=4 SV=1
+tr|A0A2K3CZS6|A0A2K3CZS6_CHLRE -          Nup96                PF12110.5       0.69    9.1   0.0      0.85    8.8   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g572401v5 PE=4 SV=1
+tr|A0A2K3DJ46|A0A2K3DJ46_CHLRE -          Nup96                PF12110.5          2    7.5   0.1       3.6    6.7   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g322000v5 PE=4 SV=1
+tr|A0A2K3DHB5|A0A2K3DHB5_CHLRE -          Nup96                PF12110.5        2.7    7.1   0.0       8.9    5.4   0.0   1.7   1   1   0   1   1   1   0 Elongator complex protein 1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g372500v5 PE=3 SV=1
+tr|A8JDB0|A8JDB0_CHLRE         -          Nup96                PF12110.5        3.3    6.9   0.2       4.3    6.5   0.1   1.4   1   1   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g715100v5 PE=4 SV=1
+tr|A0A2K3D4Q4|A0A2K3D4Q4_CHLRE -          Nup96                PF12110.5        4.1    6.5   0.0       6.5    5.9   0.0   1.3   1   0   0   1   1   1   0 60S ribosomal protein L7a OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g529651v5 PE=3 SV=1
+tr|A0A2K3DP17|A0A2K3DP17_CHLRE -          Nup96                PF12110.5        4.6    6.4   0.5       9.7    5.3   0.5   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278176v5 PE=4 SV=1
+tr|A0A2K3CNR1|A0A2K3CNR1_CHLRE -          Nup96                PF12110.5        4.9    6.3   0.1        11    5.1   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g698365v5 PE=4 SV=1
+tr|A0A2K3CSV0|A0A2K3CSV0_CHLRE -          Nup96                PF12110.5        4.9    6.3   0.0       8.1    5.6   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g650650v5 PE=4 SV=1
+tr|A0A2K3DKQ8|A0A2K3DKQ8_CHLRE -          Nup96                PF12110.5        5.4    6.1   0.2        13    4.8   0.2   1.6   1   0   0   1   1   1   0 MYND-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g343250v5 PE=3 SV=1
+tr|A0A2K3CXI1|A0A2K3CXI1_CHLRE -          Nup96                PF12110.5        5.7    6.1   0.2         6    6.0   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g614650v5 PE=4 SV=1
+tr|A0A2K3DKP3|A0A2K3DKP3_CHLRE -          Nup96                PF12110.5        5.9    6.0   0.2        11    5.1   0.2   1.4   1   0   0   1   1   1   0 MYND-type domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g343300v5 PE=3 SV=1
+tr|A0A2K3DAB9|A0A2K3DAB9_CHLRE -          Nup96                PF12110.5        6.4    5.9   0.0        12    5.0   0.0   1.4   1   0   0   1   1   1   0 RanBP-type and C3HC4-type zinc finger-containing protein 1 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g438200v5 PE=4 SV=1
+tr|A0A2K3D1B3|A0A2K3D1B3_CHLRE -          Nup96                PF12110.5        6.8    5.8   0.9        14    4.8   0.9   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g603800v5 PE=4 SV=1
+tr|Q9AU05|Q9AU05_CHLRE         -          Nup96                PF12110.5        7.5    5.7   0.0        11    5.1   0.0   1.2   1   0   0   1   1   1   0 Cytochrome c oxidase subunit II OS=Chlamydomonas reinhardtii OX=3055 GN=cox2a PE=2 SV=1
+tr|A0A2K3D2D8|A0A2K3D2D8_CHLRE -          Nup96                PF12110.5        7.9    5.6   0.0        19    4.3   0.0   1.7   1   1   0   1   1   1   0 Procollagen-proline 3-dioxygenase OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g486551v5 PE=3 SV=1
+tr|A0A2K3CN27|A0A2K3CN27_CHLRE -          Nup96                PF12110.5        8.7    5.5   0.1        15    4.7   0.1   1.3   1   0   0   1   1   1   0 Lactamase_B domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_24g755847v5 PE=4 SV=1
+tr|A0A2K3CYY0|A0A2K3CYY0_CHLRE -          Nup96                PF12110.5        9.2    5.4   0.4        23    4.1   0.4   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g633789v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12110.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup96.txt --max --cpu 8 hmm_profiles/PF12110.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:06:30 2022
+# [ok]

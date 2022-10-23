@@ -1,0 +1,16 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q10168|NSP1_SCHPO  -          Nsp1_C               PF05064.10   8.2e-38  127.0   0.7     2e-37  125.8   0.7   1.5   1   0   0   1   1   1   1 Nucleoporin nsp1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nsp1 PE=1 SV=1
+sp|P40847|SAP1_SCHPO  -          Nsp1_C               PF05064.10     0.057   11.5   5.7      0.12   10.5   1.8   2.5   3   0   0   3   3   3   0 Switch-activating protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sap1 PE=1 SV=2
+sp|O60065|PEX14_SCHPO -          Nsp1_C               PF05064.10      0.96    7.5  10.2      0.15   10.2   3.5   2.4   1   1   1   2   2   2   0 Peroxisomal membrane protein pex14 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pex14 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:29 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22WD0|Q22WD0_TETTS -          Ran_BP1              PF00638.15   4.8e-31  108.1   0.7   6.9e-31  107.6   0.7   1.2   1   0   0   1   1   1   1 Ran-binding protein 2, Ran-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00158040 PE=4 SV=1
+tr|Q22UB5|Q22UB5_TETTS -          Ran_BP1              PF00638.15     1e-05   26.3   0.9   2.3e-05   25.2   0.9   1.6   1   0   0   1   1   1   1 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00260700 PE=4 SV=2
+tr|Q23K33|Q23K33_TETTS -          Ran_BP1              PF00638.15      0.41   11.5   7.5      0.18   12.7   1.2   3.5   4   1   0   4   4   4   0 Component of IIS longevity pathway SMK-1 protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00196010 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF00638.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup358.txt --cpu 8 hmm_profiles/PF00638.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:56:31 2022
+# [ok]

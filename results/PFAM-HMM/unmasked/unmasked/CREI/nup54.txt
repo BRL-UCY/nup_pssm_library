@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D6R8|A0A2K3D6R8_CHLRE -          Nup54                PF13874.3    4.1e-23   82.1   4.3   7.2e-23   81.3   4.3   1.3   1   0   0   1   1   1   1 Nup54 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g542950v5 PE=4 SV=1
+tr|A0A2K3CVW0|A0A2K3CVW0_CHLRE -          Nup54                PF13874.3    2.7e-05   24.3   0.0   2.7e-05   24.3   0.0  20.7  15   6   9  24  24  16   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g676981v5 PE=4 SV=1
+tr|A0A2K3CSX9|A0A2K3CSX9_CHLRE -          Nup54                PF13874.3       0.24   11.6   7.6      0.35   11.0   7.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g652450v5 PE=4 SV=1
+sp|Q8HTL5|ATPF_CHLRE           -          Nup54                PF13874.3       0.37   10.9  10.0      0.36   11.0   9.0   1.4   1   1   0   1   1   1   0 ATP synthase subunit b, chloroplastic OS=Chlamydomonas reinhardtii OX=3055 GN=atpF PE=1 SV=1
+tr|A0A2K3D178|A0A2K3D178_CHLRE -          Nup54                PF13874.3       0.61   10.3   5.3     0.084   13.0   1.1   1.6   2   0   0   2   2   1   0 Guanylate cyclase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g591600v5 PE=3 SV=1
+tr|A8IAS2|A8IAS2_CHLRE         -          Nup54                PF13874.3        1.2    9.3  18.3       5.4    7.2  18.3   1.9   1   1   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g434950v5 PE=4 SV=1
+tr|A8I4X5|A8I4X5_CHLRE         -          Nup54                PF13874.3        1.5    9.0   9.1       2.7    8.1   0.3   2.7   2   1   0   2   2   2   0 Qb+c-SNARE protein, SNAP25-family OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g100250v5 PE=4 SV=1
+tr|A0A2K3DA48|A0A2K3DA48_CHLRE -          Nup54                PF13874.3        2.3    8.4  17.4       3.7    7.7  17.3   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g435100v5 PE=4 SV=1
+tr|A0A2K3DT31|A0A2K3DT31_CHLRE -          Nup54                PF13874.3        3.4    7.8  10.2       1.7    8.8   6.1   2.2   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g239700v5 PE=4 SV=1
+tr|A0A2K3D413|A0A2K3D413_CHLRE -          Nup54                PF13874.3        4.7    7.4  14.1        13    6.0   4.5   2.9   1   1   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g520300v5 PE=4 SV=1
+tr|A8IGN3|A8IGN3_CHLRE         -          Nup54                PF13874.3        7.8    6.7  19.4        38    4.4  19.4   1.9   1   1   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g435200v5 PE=4 SV=1
+tr|A0A2K3D610|A0A2K3D610_CHLRE -          Nup54                PF13874.3        7.9    6.6  21.4     1e+02    3.0  21.4   2.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g552950v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:23:46 2022
+# [ok]

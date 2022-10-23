@@ -1,0 +1,60 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HC92|A0A498HC92_MALDO -          Nucleoporin_C        PF03177.11   3.9e-12   47.0   7.8   7.7e-09   36.1   7.8   3.3   1   1   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028051 PE=3 SV=1
+tr|A0A498IB10|A0A498IB10_MALDO -          Nucleoporin_C        PF03177.11   1.5e-06   28.5   0.0   2.7e-06   27.7   0.0   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040302 PE=3 SV=1
+tr|A0A498HCT8|A0A498HCT8_MALDO -          Nucleoporin_C        PF03177.11    0.0048   16.9   0.1      0.77    9.7   0.0   2.0   2   0   0   2   2   2   1 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_037062 PE=4 SV=1
+tr|A0A498HM15|A0A498HM15_MALDO -          Nucleoporin_C        PF03177.11     0.019   14.9   0.0       4.2    7.2   0.0   2.1   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_007229 PE=4 SV=1
+tr|A0A498IBY6|A0A498IBY6_MALDO -          Nucleoporin_C        PF03177.11     0.041   13.8   0.1       4.5    7.1   0.0   2.1   2   0   0   2   2   2   0 Chorismate mutase OS=Malus domestica OX=3750 GN=DVH24_040652 PE=4 SV=1
+tr|A0A498HM05|A0A498HM05_MALDO -          Nucleoporin_C        PF03177.11       0.4   10.6   0.6      0.61   10.0   0.1   1.5   2   0   0   2   2   2   0 Potassium channel OS=Malus domestica OX=3750 GN=DVH24_012212 PE=3 SV=1
+tr|A0A498KEV1|A0A498KEV1_MALDO -          Nucleoporin_C        PF03177.11      0.49   10.3   0.7      0.73    9.7   0.7   1.2   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038346 PE=4 SV=1
+tr|A0A498IDG2|A0A498IDG2_MALDO -          Nucleoporin_C        PF03177.11      0.51   10.2   0.2       1.6    8.6   0.0   1.5   1   1   0   1   1   1   0 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_040360 PE=4 SV=1
+tr|A0A498JU23|A0A498JU23_MALDO -          Nucleoporin_C        PF03177.11      0.62   10.0   1.6       1.2    9.0   1.6   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010762 PE=3 SV=1
+tr|A0A498HJW1|A0A498HJW1_MALDO -          Nucleoporin_C        PF03177.11         1    9.3   0.1       1.4    8.8   0.1   1.2   1   0   0   1   1   1   0 BRX domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018554 PE=4 SV=1
+tr|A0A498JUH0|A0A498JUH0_MALDO -          Nucleoporin_C        PF03177.11       1.2    9.0   0.2       1.4    8.8   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011150 PE=4 SV=1
+tr|A0A498K2X1|A0A498K2X1_MALDO -          Nucleoporin_C        PF03177.11       1.4    8.8   0.5       2.4    8.0   0.5   1.2   1   0   0   1   1   1   0 Lon protease homolog, mitochondrial OS=Malus domestica OX=3750 GN=DVH24_015106 PE=3 SV=1
+tr|A0A498K944|A0A498K944_MALDO -          Nucleoporin_C        PF03177.11       1.6    8.6   2.0         2    8.3   2.0   1.1   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_039073 PE=4 SV=1
+tr|A0A498I3X5|A0A498I3X5_MALDO -          Nucleoporin_C        PF03177.11       1.6    8.6   0.2       1.7    8.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_019820 PE=4 SV=1
+tr|A0A498JVN6|A0A498JVN6_MALDO -          Nucleoporin_C        PF03177.11       1.6    8.6   0.4       1.9    8.4   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_011471 PE=3 SV=1
+tr|A0A498IF12|A0A498IF12_MALDO -          Nucleoporin_C        PF03177.11       1.8    8.5   0.7       2.9    7.8   0.7   1.2   1   0   0   1   1   1   0 Lon protease homolog, mitochondrial OS=Malus domestica OX=3750 GN=DVH24_036509 PE=3 SV=1
+tr|A0A498KBK2|A0A498KBK2_MALDO -          Nucleoporin_C        PF03177.11         2    8.3   6.0       2.7    7.9   6.0   1.2   1   0   0   1   1   1   0 RAB6-interacting golgin OS=Malus domestica OX=3750 GN=DVH24_039011 PE=3 SV=1
+tr|A0A498K0J2|A0A498K0J2_MALDO -          Nucleoporin_C        PF03177.11       2.1    8.2   0.0       2.2    8.1   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001131 PE=4 SV=1
+tr|A0A498KI32|A0A498KI32_MALDO -          Nucleoporin_C        PF03177.11       2.2    8.1   1.4       3.5    7.5   1.4   1.2   1   0   0   1   1   1   0 Lon protease homolog, mitochondrial OS=Malus domestica OX=3750 GN=DVH24_006489 PE=3 SV=1
+tr|A0A498K6K3|A0A498K6K3_MALDO -          Nucleoporin_C        PF03177.11       3.3    7.6   0.2       3.5    7.5   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_038104 PE=4 SV=1
+tr|A0A498I1F2|A0A498I1F2_MALDO -          Nucleoporin_C        PF03177.11       3.3    7.6   1.9       4.2    7.2   1.9   1.1   1   0   0   1   1   1   0 Kinetochore protein SPC25 OS=Malus domestica OX=3750 GN=DVH24_039639 PE=3 SV=1
+tr|A0A498I9X7|A0A498I9X7_MALDO -          Nucleoporin_C        PF03177.11       3.4    7.5   0.0       3.9    7.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002315 PE=4 SV=1
+tr|A0A498ILG8|A0A498ILG8_MALDO -          Nucleoporin_C        PF03177.11       3.6    7.4   0.1       4.3    7.2   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036642 PE=4 SV=1
+tr|A0A498JMA0|A0A498JMA0_MALDO -          Nucleoporin_C        PF03177.11       3.8    7.4   1.5       4.7    7.1   1.5   1.1   1   0   0   1   1   1   0 Kinetochore protein SPC25 OS=Malus domestica OX=3750 GN=DVH24_008699 PE=3 SV=1
+tr|A0A498K9U7|A0A498K9U7_MALDO -          Nucleoporin_C        PF03177.11       3.8    7.4   0.2       4.2    7.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_038341 PE=4 SV=1
+tr|A0A498I5S0|A0A498I5S0_MALDO -          Nucleoporin_C        PF03177.11       4.2    7.2   0.0       4.3    7.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_023816 PE=4 SV=1
+tr|A0A498JG86|A0A498JG86_MALDO -          Nucleoporin_C        PF03177.11       4.3    7.2   0.0       8.3    6.3   0.0   1.4   1   0   0   1   1   1   0 Glutaredoxin domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013630 PE=4 SV=1
+tr|A0A498K686|A0A498K686_MALDO -          Nucleoporin_C        PF03177.11       4.3    7.2   0.0       4.3    7.2   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_038053 PE=4 SV=1
+tr|A0A498I6E9|A0A498I6E9_MALDO -          Nucleoporin_C        PF03177.11       5.1    7.0   0.5       5.7    6.8   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040465 PE=4 SV=1
+tr|A0A498IAU7|A0A498IAU7_MALDO -          Nucleoporin_C        PF03177.11       5.2    6.9   0.0        65    3.3   0.0   2.2   2   0   0   2   2   2   0 UvrD-like helicase ATP-binding domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_040242 PE=4 SV=1
+tr|A0A498KJU6|A0A498KJU6_MALDO -          Nucleoporin_C        PF03177.11       5.5    6.8   0.0       5.4    6.9   0.0   1.0   1   0   0   1   1   1   0 Peroxidase OS=Malus domestica OX=3750 GN=DVH24_022614 PE=4 SV=1
+tr|A0A498K1F4|A0A498K1F4_MALDO -          Nucleoporin_C        PF03177.11       5.9    6.7   1.1       6.8    6.5   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030624 PE=4 SV=1
+tr|A0A498K9I4|A0A498K9I4_MALDO -          Nucleoporin_C        PF03177.11       6.3    6.7   1.2       8.7    6.2   1.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026602 PE=4 SV=1
+tr|A0A498J108|A0A498J108_MALDO -          Nucleoporin_C        PF03177.11       6.3    6.6   0.0       8.2    6.3   0.0   1.2   1   0   0   1   1   1   0 HVA22-like protein OS=Malus domestica OX=3750 GN=DVH24_042298 PE=3 SV=1
+tr|A0A498K999|A0A498K999_MALDO -          Nucleoporin_C        PF03177.11       6.8    6.5   2.8        12    5.7   2.8   1.3   1   0   0   1   1   1   0 DNA topoisomerase 6 subunit B OS=Malus domestica OX=3750 GN=TOP6B PE=3 SV=1
+tr|A0A498JVU6|A0A498JVU6_MALDO -          Nucleoporin_C        PF03177.11       7.2    6.4   0.5       7.4    6.4   0.5   1.1   1   0   0   1   1   1   0 DOG1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_011402 PE=4 SV=1
+tr|A0A498I3T0|A0A498I3T0_MALDO -          Nucleoporin_C        PF03177.11       7.4    6.4   0.2         7    6.5   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_001956 PE=4 SV=1
+tr|A0A498JEJ7|A0A498JEJ7_MALDO -          Nucleoporin_C        PF03177.11       8.3    6.2   0.2        39    4.0   0.1   1.8   2   0   0   2   2   2   0 Peptidase S59 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033370 PE=4 SV=1
+tr|A0A498IWN2|A0A498IWN2_MALDO -          Nucleoporin_C        PF03177.11       8.4    6.2   0.0        11    5.8   0.0   1.1   1   0   0   1   1   1   0 Signal recognition particle receptor subunit beta OS=Malus domestica OX=3750 GN=DVH24_009532 PE=3 SV=1
+tr|A0A498IXB1|A0A498IXB1_MALDO -          Nucleoporin_C        PF03177.11       8.7    6.2   0.0        16    5.3   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022220 PE=3 SV=1
+tr|A0A498KM24|A0A498KM24_MALDO -          Nucleoporin_C        PF03177.11       9.1    6.1   0.2       9.8    6.0   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018415 PE=4 SV=1
+tr|A0A498JH59|A0A498JH59_MALDO -          Nucleoporin_C        PF03177.11       9.1    6.1   0.2        14    5.5   0.2   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_023909 PE=3 SV=1
+tr|A0A498J868|A0A498J868_MALDO -          Nucleoporin_C        PF03177.11       9.1    6.1   1.2       8.8    6.2   0.0   1.5   2   0   0   2   2   2   0 Potassium channel OS=Malus domestica OX=3750 GN=DVH24_021002 PE=3 SV=1
+tr|A0A498IXH2|A0A498IXH2_MALDO -          Nucleoporin_C        PF03177.11       9.4    6.1   0.0        12    5.7   0.0   1.1   1   0   0   1   1   1   0 MI domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037673 PE=3 SV=1
+tr|A0A498IZ76|A0A498IZ76_MALDO -          Nucleoporin_C        PF03177.11       9.4    6.1   0.7        12    5.7   0.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000167 PE=4 SV=1
+tr|A0A498I173|A0A498I173_MALDO -          Nucleoporin_C        PF03177.11       9.6    6.0   1.8        18    5.2   0.6   1.6   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039374 PE=4 SV=1
+tr|A0A498JE29|A0A498JE29_MALDO -          Nucleoporin_C        PF03177.11       9.8    6.0   0.3        13    5.6   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_013653 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:23:37 2022
+# [ok]

@@ -1,0 +1,37 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22MM0|Q22MM0_TETTS   -          Nup153               PF08604.7       0.37   10.1   0.1      0.96    8.8   0.1   1.6   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00034990 PE=4 SV=2
+tr|W7XH80|W7XH80_TETTS   -          Nup153               PF08604.7        1.4    8.2   0.9       1.5    8.1   0.9   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000460503 PE=4 SV=1
+tr|W7X4M6|W7X4M6_TETTS   -          Nup153               PF08604.7        1.4    8.2   3.8       1.7    7.9   3.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000329869 PE=4 SV=1
+tr|W7X051|W7X051_TETTS   -          Nup153               PF08604.7        1.8    7.8   2.7       2.7    7.3   2.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001071479 PE=4 SV=1
+tr|I7MJ15|I7MJ15_TETTS   -          Nup153               PF08604.7        1.8    7.8   0.0       3.2    7.0   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00685980 PE=4 SV=1
+tr|I7MFQ5|I7MFQ5_TETTS   -          Nup153               PF08604.7        2.7    7.3   1.0       3.9    6.7   1.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00723140 PE=4 SV=1
+tr|Q24F02|Q24F02_TETTS   -          Nup153               PF08604.7        3.2    7.0   5.0       4.1    6.7   5.0   1.2   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01147120 PE=4 SV=2
+tr|I7MMJ3|I7MMJ3_TETTS   -          Nup153               PF08604.7        4.3    6.6   1.4       6.7    6.0   1.4   1.2   1   0   0   1   1   1   0 Hydroxymethylglutaryl-CoA lyase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00686100 PE=3 SV=2
+tr|I7LUK4|I7LUK4_TETTS   -          Nup153               PF08604.7        4.4    6.6   0.7        13    5.0   0.7   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522290 PE=4 SV=1
+tr|I7MGI4|I7MGI4_TETTS   -          Nup153               PF08604.7        4.6    6.5   0.0         5    6.4   0.0   1.0   1   0   0   1   1   1   0 Complex 1 protein, LYR family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00151860 PE=4 SV=1
+tr|Q23LR3|Q23LR3_TETTS   -          Nup153               PF08604.7        4.7    6.5   3.8       7.9    5.7   3.8   1.2   1   0   0   1   1   1   0 REJ domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01009830 PE=4 SV=2
+tr|Q23R96|Q23R96_TETTS   -          Nup153               PF08604.7        5.5    6.3   0.5         6    6.1   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00389920 PE=4 SV=1
+tr|Q22BM6|Q22BM6_TETTS   -          Nup153               PF08604.7        5.8    6.2   4.5        19    4.5   4.5   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01093690 PE=4 SV=4
+tr|Q22G23|Q22G23_TETTS   -          Nup153               PF08604.7        6.8    6.0   0.1        11    5.3   0.1   1.2   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00721340 PE=4 SV=2
+tr|I7LU69|I7LU69_TETTS   -          Nup153               PF08604.7        7.6    5.8   3.1       8.8    5.6   3.1   1.1   1   0   0   1   1   1   0 Heterochromatin protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00705240 PE=4 SV=2
+tr|W7XHY1|W7XHY1_TETTS   -          Nup153               PF08604.7        8.1    5.7   0.3       9.4    5.5   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000563949 PE=4 SV=1
+tr|Q24BR3|Q24BR3_TETTS   -          Nup153               PF08604.7        8.2    5.7   1.4        12    5.1   1.4   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01679240 PE=4 SV=3
+tr|W7XFA3|W7XFA3_TETTS   -          Nup153               PF08604.7        8.3    5.7   0.0       8.3    5.7   0.0   1.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000391239 PE=4 SV=1
+tr|W7XGR4|W7XGR4_TETTS   -          Nup153               PF08604.7        8.5    5.6   1.7       8.8    5.6   1.7   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000912201 PE=4 SV=1
+tr|I7M9S5|I7M9S5_TETTS   -          Nup153               PF08604.7        8.7    5.6   1.4        30    3.8   1.4   1.9   1   0   0   1   1   1   0 C3H1-type domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00348140 PE=4 SV=2
+tr|I7M914|I7M914_TETTS   -          Nup153               PF08604.7        8.8    5.6   1.4        13    5.1   1.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00221190 PE=4 SV=1
+tr|W7XJ71|W7XJ71_TETTS   -          Nup153               PF08604.7        8.9    5.6   2.3       9.5    5.5   2.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000617819 PE=4 SV=1
+tr|I7M878|I7M878_TETTS   -          Nup153               PF08604.7          9    5.5   1.8        11    5.2   1.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00338080 PE=4 SV=2
+tr|W7XE14|W7XE14_TETTS   -          Nup153               PF08604.7        9.9    5.4   2.3        11    5.3   2.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001050493 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08604.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/nup153.txt --max --cpu 8 hmm_profiles/PF08604.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 11:50:05 2022
+# [ok]

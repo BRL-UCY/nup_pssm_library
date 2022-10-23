@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IZS3|A0A498IZS3_MALDO -          NUP50                PF08911.8    2.5e-14   54.8   0.6   2.5e-14   54.8   0.6   2.9   3   2   1   4   4   2   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000155 PE=4 SV=1
+tr|A0A498HC79|A0A498HC79_MALDO -          NUP50                PF08911.8    4.3e-14   54.1   0.7   4.3e-14   54.1   0.7   3.1   3   2   1   4   4   2   1 RanBD1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_031411 PE=4 SV=1
+tr|A0A498HG91|A0A498HG91_MALDO -          NUP50                PF08911.8      0.023   16.5   3.8     0.023   16.5   3.8   4.1   6   0   0   6   6   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007285 PE=3 SV=1
+tr|A0A498I6S4|A0A498I6S4_MALDO -          NUP50                PF08911.8       0.57   12.0   4.9      0.86   11.5   1.8   3.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040585 PE=3 SV=1
+tr|A0A498JW64|A0A498JW64_MALDO -          NUP50                PF08911.8        1.1   11.1   0.1       1.8   10.4   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007787 PE=4 SV=1
+tr|A0A498JY36|A0A498JY36_MALDO -          NUP50                PF08911.8        2.4   10.0   0.1         8    8.4   0.1   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010717 PE=4 SV=1
+tr|A0A498KD68|A0A498KD68_MALDO -          NUP50                PF08911.8        3.9    9.4   0.1        11    7.9   0.1   1.7   1   0   0   1   1   1   0 RNA_pol_sigma70 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006608 PE=3 SV=1
+tr|A0A498I7A0|A0A498I7A0_MALDO -          NUP50                PF08911.8        4.1    9.3   0.0        12    7.8   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_039808 PE=4 SV=1
+tr|A0A498IPD8|A0A498IPD8_MALDO -          NUP50                PF08911.8        5.8    8.8   0.2        13    7.6   0.2   1.6   1   0   0   1   1   1   0 GTD-binding domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002486 PE=4 SV=1
+tr|A0A498JDX0|A0A498JDX0_MALDO -          NUP50                PF08911.8        6.2    8.7   0.1       8.4    8.3   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016116 PE=4 SV=1
+tr|A0A498JUE3|A0A498JUE3_MALDO -          NUP50                PF08911.8        6.6    8.6   0.0        12    7.8   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007780 PE=3 SV=1
+tr|A0A498JL84|A0A498JL84_MALDO -          NUP50                PF08911.8          7    8.5   1.5   4.9e+02    2.6   0.1   3.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024328 PE=4 SV=1
+tr|A0A498HZ32|A0A498HZ32_MALDO -          NUP50                PF08911.8        7.2    8.5   0.7        51    5.8   0.3   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_029963 PE=4 SV=1
+tr|A0A498K994|A0A498K994_MALDO -          NUP50                PF08911.8        8.9    8.2   0.3        17    7.3   0.3   1.5   1   0   0   1   1   1   0 Pept_C1 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038272 PE=3 SV=1
+tr|A0A498JQ69|A0A498JQ69_MALDO -          NUP50                PF08911.8        8.9    8.2   0.2        13    7.7   0.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007911 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 17:13:22 2022
+# [ok]

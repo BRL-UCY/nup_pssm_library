@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D472|A0A2K3D472_CHLRE -          Nucleoporin_C        PF03177.11     0.011   14.5   0.0     0.017   13.9   0.0   1.1   1   0   0   1   1   1   0 Nucleoporin_N domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g521750v5 PE=3 SV=1
+tr|A0A2K3CNE6|A0A2K3CNE6_CHLRE -          Nucleoporin_C        PF03177.11      0.26   10.1   0.1      0.38    9.5   0.1   1.1   1   0   0   1   1   1   0 RAP domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_19g750747v5 PE=4 SV=1
+tr|A0A2K3E2E5|A0A2K3E2E5_CHLRE -          Nucleoporin_C        PF03177.11      0.38    9.5   0.1      0.49    9.1   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g103050v5 PE=4 SV=1
+tr|A0A2K3DAI9|A0A2K3DAI9_CHLRE -          Nucleoporin_C        PF03177.11      0.42    9.3   0.1       1.3    7.7   0.0   1.8   2   0   0   2   2   2   0 Nop domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g441400v5 PE=3 SV=1
+tr|A8I3T1|A8I3T1_CHLRE         -          Nucleoporin_C        PF03177.11      0.86    8.3   1.3       1.1    7.9   1.3   1.2   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g107950v5 PE=4 SV=1
+tr|A0A2K3CWT7|A0A2K3CWT7_CHLRE -          Nucleoporin_C        PF03177.11       3.3    6.4   0.1         5    5.8   0.1   1.1   1   0   0   1   1   1   0 RAP domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g638303v5 PE=4 SV=1
+tr|A0A2K3DIN7|A0A2K3DIN7_CHLRE -          Nucleoporin_C        PF03177.11       4.1    6.1   0.3       6.8    5.4   0.2   1.4   1   1   0   1   1   1   0 GOLD domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g315900v5 PE=3 SV=1
+tr|A9XPA7|A9XPA7_CHLRE         -          Nucleoporin_C        PF03177.11       4.5    5.9   2.8       5.9    5.6   0.1   2.2   2   1   1   3   3   3   0 Intraflagellar transport protein 144 OS=Chlamydomonas reinhardtii OX=3055 GN=IFT144 PE=2 SV=1
+tr|A0A2K3DJ54|A0A2K3DJ54_CHLRE -          Nucleoporin_C        PF03177.11       4.7    5.9   0.6       5.9    5.6   0.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g322750v5 PE=4 SV=1
+tr|A8IJG5|A8IJG5_CHLRE         -          Nucleoporin_C        PF03177.11       5.5    5.7   0.2       5.1    5.8   0.2   1.2   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g502750v5 PE=3 SV=1
+tr|A0A2K3CS83|A0A2K3CS83_CHLRE -          Nucleoporin_C        PF03177.11       5.9    5.6   0.2         9    5.0   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g747897v5 PE=4 SV=1
+tr|A0A2K3CSA0|A0A2K3CSA0_CHLRE -          Nucleoporin_C        PF03177.11       6.1    5.5   0.2       9.3    4.9   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g747897v5 PE=4 SV=1
+tr|A0A2K3D6H5|A0A2K3D6H5_CHLRE -          Nucleoporin_C        PF03177.11       6.4    5.4  16.7        10    4.8  16.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g546300v5 PE=3 SV=1
+tr|H9CTG6|H9CTG6_CHLRE         -          Nucleoporin_C        PF03177.11       6.7    5.4   1.1       9.1    5.0   0.2   1.7   2   0   0   2   2   2   0 Intraflagellar transport protein 122 homolog OS=Chlamydomonas reinhardtii OX=3055 GN=IFT122 PE=2 SV=1
+tr|A0A2K3DJD1|A0A2K3DJD1_CHLRE -          Nucleoporin_C        PF03177.11       7.5    5.2   0.4        12    4.6   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325718v5 PE=4 SV=1
+tr|A0A2K3DJE5|A0A2K3DJE5_CHLRE -          Nucleoporin_C        PF03177.11       7.6    5.2   0.4        12    4.6   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325718v5 PE=4 SV=1
+tr|A0A2K3DJC8|A0A2K3DJC8_CHLRE -          Nucleoporin_C        PF03177.11       7.7    5.2   0.4        11    4.7   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325718v5 PE=4 SV=1
+tr|A8ISZ5|A8ISZ5_CHLRE         -          Nucleoporin_C        PF03177.11       8.9    5.0   0.0       9.6    4.9   0.0   1.0   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g222850v5 PE=4 SV=1
+tr|A0A2K3D7F0|A0A2K3D7F0_CHLRE -          Nucleoporin_C        PF03177.11       9.3    4.9   0.0        13    4.4   0.0   1.1   1   0   0   1   1   1   0 ABC transporter domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467597v5 PE=3 SV=1
+tr|A0A2K3DR72|A0A2K3DR72_CHLRE -          Nucleoporin_C        PF03177.11       9.7    4.9   0.0        14    4.3   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g302850v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:25:42 2022
+# [ok]

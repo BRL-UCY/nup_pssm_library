@@ -1,0 +1,45 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D858|A0A2K3D858_CHLRE -          TPR_MLP1_2           PF07926.9    9.2e-08   32.3  13.5   9.2e-08   32.3  13.5  19.6   9   5   8  20  20  14   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g468356v5 PE=4 SV=1
+tr|A0A2K3D847|A0A2K3D847_CHLRE -          TPR_MLP1_2           PF07926.9    9.5e-08   32.2  13.5   9.5e-08   32.2  13.5  19.6   9   5  10  21  21  14   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g468356v5 PE=4 SV=1
+tr|A0A2K3E2H9|A0A2K3E2H9_CHLRE -          TPR_MLP1_2           PF07926.9     0.0016   18.5  21.1    0.0016   18.5  21.1  22.3   9   6  10  22  22  14   2 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g104150v5 PE=4 SV=1
+tr|A0A2K3DR24|A0A2K3DR24_CHLRE -          TPR_MLP1_2           PF07926.9     0.0051   16.9  11.3    0.0051   16.9  11.3   5.9   4   1   3   7   7   4   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g301150v5 PE=4 SV=1
+tr|A0A2K3DMK6|A0A2K3DMK6_CHLRE -          TPR_MLP1_2           PF07926.9     0.0065   16.6  25.5    0.0065   16.6  25.5  13.8   2   1   7  12  12  10   2 NAM-associated domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g259100v5 PE=4 SV=1
+tr|A0A2K3D8E2|A0A2K3D8E2_CHLRE -          TPR_MLP1_2           PF07926.9     0.0068   16.5  13.8    0.0068   16.5  13.8  11.7   6   3   7  13  13   5   1 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g477150v5 PE=4 SV=1
+tr|A0A2K3D9M9|A0A2K3D9M9_CHLRE -          TPR_MLP1_2           PF07926.9      0.012   15.8  21.5     0.012   15.8  21.5  10.4   2   1   8  11  11   7   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g428050v5 PE=4 SV=1
+tr|A8JDG7|A8JDG7_CHLRE         -          TPR_MLP1_2           PF07926.9      0.022   14.9   2.4      0.97    9.6   0.4   2.1   2   0   0   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g711950v5 PE=4 SV=1
+tr|A8IAS2|A8IAS2_CHLRE         -          TPR_MLP1_2           PF07926.9      0.025   14.7   6.8     0.025   14.7   6.8   2.8   1   1   0   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g434950v5 PE=4 SV=1
+tr|A8J0B1|A8J0B1_CHLRE         -          TPR_MLP1_2           PF07926.9      0.045   13.9  13.2      0.63   10.2   4.8   2.9   2   1   1   3   3   3   0 Low-CO2-inducible protein OS=Chlamydomonas reinhardtii OX=3055 GN=LCI9 PE=4 SV=1
+tr|A0A2K3DHA5|A0A2K3DHA5_CHLRE -          TPR_MLP1_2           PF07926.9      0.081   13.1   0.3      0.11   12.6   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g371840v5 PE=4 SV=1
+tr|A8IGN3|A8IGN3_CHLRE         -          TPR_MLP1_2           PF07926.9      0.081   13.1  31.4     0.064   13.4   6.4   2.4   1   1   1   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g435200v5 PE=4 SV=1
+tr|A0A2K3DEG4|A0A2K3DEG4_CHLRE -          TPR_MLP1_2           PF07926.9      0.083   13.0  54.8     0.038   14.1  27.6   2.5   1   1   1   2   2   2   0 CBM20 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394510v5 PE=4 SV=1
+tr|A0A2K3DSY0|A0A2K3DSY0_CHLRE -          TPR_MLP1_2           PF07926.9      0.098   12.8   8.8      0.16   12.1   7.9   1.7   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g237750v5 PE=4 SV=1
+tr|A0A2K3DZ55|A0A2K3DZ55_CHLRE -          TPR_MLP1_2           PF07926.9       0.11   12.6   2.4      0.99    9.5   0.2   2.1   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g204000v5 PE=4 SV=1
+tr|A8IR41|A8IR41_CHLRE         -          TPR_MLP1_2           PF07926.9       0.12   12.5   2.8      0.23   11.6   2.8   1.5   1   0   0   1   1   1   0 26S proteasome regulatory subunit OS=Chlamydomonas reinhardtii OX=3055 GN=RPT4 PE=3 SV=1
+tr|A0A2K3CSC4|A0A2K3CSC4_CHLRE -          TPR_MLP1_2           PF07926.9       0.17   12.0   2.4      0.32   11.1   2.4   1.4   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g694950v5 PE=4 SV=1
+tr|A8ILL2|A8ILL2_CHLRE         -          TPR_MLP1_2           PF07926.9       0.21   11.7  19.1     0.084   13.0  10.1   2.5   2   0   0   2   2   2   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g489950v5 PE=4 SV=1
+tr|A0A2K3DF82|A0A2K3DF82_CHLRE -          TPR_MLP1_2           PF07926.9       0.34   11.1  27.5      0.26   11.4  14.0   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g405350v5 PE=4 SV=1
+tr|A9CQL4|A9CQL4_CHLRE         -          TPR_MLP1_2           PF07926.9       0.34   11.0  55.8       0.5   10.5   1.8   4.8   1   1   5   6   6   6   0 Centriole protein OS=Chlamydomonas reinhardtii OX=3055 GN=CrSAS-6 PE=1 SV=1
+tr|A0A2K3DRU4|A0A2K3DRU4_CHLRE -          TPR_MLP1_2           PF07926.9       0.36   11.0  35.9      0.15   12.2  14.6   4.0   2   1   1   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g233100v5 PE=3 SV=1
+tr|A0A2K3DCC1|A0A2K3DCC1_CHLRE -          TPR_MLP1_2           PF07926.9       0.43   10.7  10.3      0.42   10.7   6.9   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g467000v5 PE=3 SV=1
+tr|A0A2K3DV03|A0A2K3DV03_CHLRE -          TPR_MLP1_2           PF07926.9       0.44   10.7  22.5      0.27   11.4  13.0   2.3   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g143807v5 PE=4 SV=1
+tr|A0A2K3DKL0|A0A2K3DKL0_CHLRE -          TPR_MLP1_2           PF07926.9        1.1    9.3  12.2      0.26   11.4   4.3   2.3   2   1   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g342250v5 PE=3 SV=1
+tr|A0A2K3DEF9|A0A2K3DEF9_CHLRE -          TPR_MLP1_2           PF07926.9        2.1    8.5  18.0       0.7   10.0   8.4   2.1   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g394547v5 PE=4 SV=1
+tr|A0A2K3DHP7|A0A2K3DHP7_CHLRE -          TPR_MLP1_2           PF07926.9        2.6    8.2  12.8       3.9    7.6  12.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g375676v5 PE=4 SV=1
+tr|A8JAH2|A8JAH2_CHLRE         -          TPR_MLP1_2           PF07926.9        3.7    7.7  11.3       7.2    6.7   7.1   2.2   1   1   1   2   2   2   0 Predicted protein (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g688975v5 PE=4 SV=1
+tr|A0A2K3E021|A0A2K3E021_CHLRE -          TPR_MLP1_2           PF07926.9        4.4    7.4  23.3      0.12   12.5   9.8   2.6   1   1   1   2   2   2   0 ACB domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g074650v5 PE=3 SV=1
+tr|A8JC54|A8JC54_CHLRE         -          TPR_MLP1_2           PF07926.9          5    7.3  27.6       5.3    7.2  24.3   2.1   1   1   1   2   2   2   0 Predicted protein (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g469150v5 PE=4 SV=1
+tr|A0A2K3D3W4|A0A2K3D3W4_CHLRE -          TPR_MLP1_2           PF07926.9        5.1    7.2  16.4       1.3    9.2   5.4   3.3   2   1   1   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g518050v5 PE=4 SV=1
+tr|A0A2K3DJH0|A0A2K3DJH0_CHLRE -          TPR_MLP1_2           PF07926.9          8    6.6  11.1       0.7   10.0   0.3   3.2   2   1   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325751v5 PE=4 SV=1
+tr|A0A2K3D7W7|A0A2K3D7W7_CHLRE -          TPR_MLP1_2           PF07926.9        9.1    6.4  17.8        27    4.9  12.2   2.4   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467749v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07926.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/mtor.txt --cpu 8 hmm_profiles/PF07926.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:23:00 2022
+# [ok]

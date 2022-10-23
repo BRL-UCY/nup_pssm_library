@@ -1,0 +1,19 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22NW0|Q22NW0_TETTS -          GLE1                 PF07817.10   3.7e-05   23.7   4.2   3.7e-05   23.7   4.2   2.6   3   0   0   3   3   3   1 N-acetyltransferase B complex (NatB) non catalytic subunit OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00418350 PE=3 SV=2
+tr|Q22D99|Q22D99_TETTS -          GLE1                 PF07817.10    0.0033   17.3   4.8      0.81    9.4   0.3   2.5   1   1   0   2   2   2   2 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00993040 PE=4 SV=3
+tr|Q22TE0|Q22TE0_TETTS -          GLE1                 PF07817.10      0.17   11.6   0.6      0.55   10.0   0.0   2.1   2   0   0   2   2   2   0 Heat shock-binding protein 70, ER luminal protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00171850 PE=3 SV=2
+tr|W7X2D8|W7X2D8_TETTS -          GLE1                 PF07817.10       2.4    7.9  16.4       3.4    7.4  15.5   1.6   1   1   1   2   2   2   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001196975 PE=4 SV=1
+tr|Q234B8|Q234B8_TETTS -          GLE1                 PF07817.10       7.2    6.3   9.2       1.4    8.7   4.9   1.8   1   1   1   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00106860 PE=4 SV=1
+tr|I7MH00|I7MH00_TETTS -          GLE1                 PF07817.10       7.6    6.3   9.2       1.8    8.3   3.1   2.8   2   0   0   2   2   2   0 Dynein heavy chain 1, axonemal protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00558640 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF07817.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/gle1.txt --cpu 8 hmm_profiles/PF07817.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:56:30 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7M7L9|I7M7L9_TETTS -          Nup54                PF13874.3    0.00041   21.0  12.9   0.00041   21.0  12.9  12.3   3   2   8  12  12  12   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522610 PE=4 SV=2
+tr|I7MHB9|I7MHB9_TETTS -          Nup54                PF13874.3      0.031   15.0   4.1     0.039   14.6   4.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00349060 PE=4 SV=2
+tr|Q22Z98|Q22Z98_TETTS -          Nup54                PF13874.3      0.031   15.0   1.9     0.031   15.0   1.9   4.7   4   1   1   5   5   5   0 Scp-like extracellular protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00112730 PE=4 SV=2
+tr|Q23FP3|Q23FP3_TETTS -          Nup54                PF13874.3       0.07   13.8  17.4        15    6.2  15.9   3.0   1   1   1   2   2   2   0 SNF7 family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00079720 PE=4 SV=1
+tr|I7MD43|I7MD43_TETTS -          Nup54                PF13874.3       0.36   11.5   7.7       1.6    9.4   7.7   1.9   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00442140 PE=4 SV=1
+tr|W7X9I2|W7X9I2_TETTS -          Nup54                PF13874.3       0.43   11.2  13.0      0.95   10.1  13.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000151729 PE=4 SV=1
+tr|I7M844|I7M844_TETTS -          Nup54                PF13874.3        3.6    8.3  11.8       9.4    6.9  10.6   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00476740 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 12:56:38 2022
+# [ok]

@@ -1,0 +1,32 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HES5|A0A498HES5_MALDO -          Big_2                PF02368.15   1.8e-17   64.2   0.3   8.1e-06   26.8   0.4   4.5   4   0   0   4   4   4   3 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037293 PE=3 SV=1
+tr|A0A498HTU6|A0A498HTU6_MALDO -          Big_2                PF02368.15      0.27   12.3   0.2       1.3   10.2   0.5   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012245 PE=3 SV=1
+tr|A0A498HW15|A0A498HW15_MALDO -          Big_2                PF02368.15      0.77   10.9   0.3      0.99   10.6   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016539 PE=4 SV=1
+tr|A0A498KQI8|A0A498KQI8_MALDO -          Big_2                PF02368.15       1.8    9.7   0.5       4.3    8.5   0.5   1.6   1   0   0   1   1   1   0 Phosphoenolpyruvate carboxykinase (ATP) OS=Malus domestica OX=3750 GN=DVH24_014531 PE=3 SV=1
+tr|A0A498IG06|A0A498IG06_MALDO -          Big_2                PF02368.15       1.9    9.6   0.3       6.6    7.9   0.2   2.0   2   0   0   2   2   1   0 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_036320 PE=4 SV=1
+tr|A0A498IZE5|A0A498IZE5_MALDO -          Big_2                PF02368.15       2.1    9.5   0.6        76    4.5   0.0   3.1   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000249 PE=3 SV=1
+tr|A0A498K2E1|A0A498K2E1_MALDO -          Big_2                PF02368.15         4    8.6   0.5        16    6.7   0.4   2.0   2   0   0   2   2   2   0 RING-type E3 ubiquitin transferase OS=Malus domestica OX=3750 GN=DVH24_014906 PE=4 SV=1
+tr|A0A498HKB2|A0A498HKB2_MALDO -          Big_2                PF02368.15       4.4    8.5   0.2   1.2e+02    3.9   0.0   2.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037177 PE=3 SV=1
+tr|A0A498KLM4|A0A498KLM4_MALDO -          Big_2                PF02368.15       4.9    8.3   0.5       8.8    7.5   0.5   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022520 PE=4 SV=1
+tr|A0A498HCT7|A0A498HCT7_MALDO -          Big_2                PF02368.15       5.3    8.2   0.8   1.8e+02    3.3   0.0   3.0   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_027375 PE=3 SV=1
+tr|A0A498H7T2|A0A498H7T2_MALDO -          Big_2                PF02368.15       5.7    8.1   0.3       6.9    7.8   0.3   1.2   1   0   0   1   1   1   0 t-SNARE coiled-coil homology domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_027573 PE=4 SV=1
+tr|A0A498I6B1|A0A498I6B1_MALDO -          Big_2                PF02368.15       6.5    7.9   0.7        16    6.7   0.1   1.9   2   0   0   2   2   2   0 High-affinity nitrate transporter OS=Malus domestica OX=3750 GN=DVH24_039685 PE=3 SV=1
+tr|A0A498KNX6|A0A498KNX6_MALDO -          Big_2                PF02368.15       7.7    7.7   1.3        12    7.0   0.1   1.9   2   0   0   2   2   2   0 t-SNARE coiled-coil homology domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_022278 PE=3 SV=1
+tr|A0A498JK43|A0A498JK43_MALDO -          Big_2                PF02368.15       8.6    7.5   0.1        16    6.7   0.1   1.5   1   0   0   1   1   1   0 TCP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007916 PE=4 SV=1
+tr|A0A498HLI7|A0A498HLI7_MALDO -          Big_2                PF02368.15       8.7    7.5   2.4        29    5.8   2.4   1.9   1   0   0   1   1   1   0 Female-specific protein transformer OS=Malus domestica OX=3750 GN=DVH24_025290 PE=4 SV=1
+tr|A0A498HPR0|A0A498HPR0_MALDO -          Big_2                PF02368.15       9.5    7.4   0.2        24    6.1   0.2   1.6   1   0   0   1   1   1   0 MATH domain-containing protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_015793 PE=4 SV=1
+tr|A0A498HL59|A0A498HL59_MALDO -          Big_2                PF02368.15       9.6    7.4   0.8        68    4.6   0.0   2.4   3   0   0   3   3   3   0 SHSP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_033754 PE=3 SV=1
+tr|A0A498K1K6|A0A498K1K6_MALDO -          Big_2                PF02368.15       9.7    7.4   0.2        30    5.8   0.2   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015399 PE=3 SV=1
+tr|A0A498IN53|A0A498IN53_MALDO -          Big_2                PF02368.15       9.9    7.3   0.0        39    5.4   0.0   2.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_005720 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:51:28 2022
+# [ok]

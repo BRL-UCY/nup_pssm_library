@@ -1,0 +1,23 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9USL4|NUP61_SCHPO -          NUP50                PF08911.8      1e-14   53.2   0.4     1e-14   53.2   0.4   3.7   4   1   0   4   4   4   1 Nucleoporin nup61 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=nup61 PE=1 SV=2
+sp|Q9UUG1|RPF2_SCHPO  -          NUP50                PF08911.8        1.4    7.9   0.0       4.3    6.3   0.0   1.8   1   0   0   1   1   1   0 Ribosome production factor 2 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC926.08c PE=1 SV=1
+sp|Q9UTC4|YIDF_SCHPO  -          NUP50                PF08911.8        2.1    7.3   0.0        12    4.9   0.0   2.3   1   0   0   1   1   1   0 Uncharacterized protein C227.15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC227.15 PE=4 SV=1
+sp|C6Y4C5|ECL2_SCHPO  -          NUP50                PF08911.8        2.5    7.0   0.0       3.2    6.7   0.0   1.1   1   0   0   1   1   1   0 Extender of the chronological lifespan protein 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ecl2 PE=2 SV=1
+sp|O74945|RIA1_SCHPO  -          NUP50                PF08911.8        2.8    6.9   0.1       6.5    5.7   0.1   1.6   1   0   0   1   1   1   0 Ribosome assembly protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=ria1 PE=3 SV=1
+sp|Q9UTA4|POPI_SCHPO  -          NUP50                PF08911.8        3.2    6.7   1.0       8.5    5.3   1.0   1.8   1   0   0   1   1   1   0 Ribonucleases P/MRP protein subunit pop1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pop1 PE=3 SV=1
+sp|P39750|FEN1_SCHPO  -          NUP50                PF08911.8        5.8    5.9   0.4        15    4.6   0.4   1.7   1   0   0   1   1   1   0 Flap endonuclease 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=rad2 PE=1 SV=1
+sp|G2TRU3|YJO7_SCHPO  -          NUP50                PF08911.8        6.1    5.8   0.2        13    4.7   0.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein PB16A4.07 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCPB16A4.07 PE=4 SV=1
+sp|O74399|ERB1_SCHPO  -          NUP50                PF08911.8        6.7    5.7   0.9        38    3.2   0.0   2.6   2   0   0   2   2   2   0 Ribosome biogenesis protein erb1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=erb1 PE=1 SV=2
+sp|O42958|PAT1_SCHPO  -          NUP50                PF08911.8        7.7    5.5   1.4        24    3.9   0.1   2.5   2   0   0   2   2   2   0 DNA topoisomerase 2-associated protein pat1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC19G7.10c PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/SPOM/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Fri Sep 16 10:24:21 2022
+# [ok]

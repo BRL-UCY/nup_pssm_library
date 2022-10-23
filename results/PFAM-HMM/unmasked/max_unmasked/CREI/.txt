@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3DUR3|A0A2K3DUR3_CHLRE -          IR1-M                PF12185.5       0.14   12.2   2.6       0.3   11.1   2.6   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g227900v5 PE=4 SV=1
+tr|A8ICA0|A8ICA0_CHLRE         -          IR1-M                PF12185.5       0.35   10.9   0.4      0.59   10.2   0.4   1.4   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g424650v5 PE=4 SV=1
+tr|A8IR41|A8IR41_CHLRE         -          IR1-M                PF12185.5        2.6    8.1   0.0         8    6.6   0.0   1.9   1   0   0   1   1   1   0 26S proteasome regulatory subunit OS=Chlamydomonas reinhardtii OX=3055 GN=RPT4 PE=3 SV=1
+tr|A0A2K3D5U0|A0A2K3D5U0_CHLRE -          IR1-M                PF12185.5        4.2    7.5   0.2        10    6.2   0.2   1.6   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g555800v5 PE=4 SV=1
+tr|A0A2K3DWG7|A0A2K3DWG7_CHLRE -          IR1-M                PF12185.5        4.3    7.4   0.0        13    5.9   0.0   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g161850v5 PE=4 SV=1
+tr|A0A2K3DJC7|A0A2K3DJC7_CHLRE -          IR1-M                PF12185.5        6.8    6.8   0.4        22    5.1   0.4   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g325721v5 PE=4 SV=1
+tr|A0A2K3DFZ9|A0A2K3DFZ9_CHLRE -          IR1-M                PF12185.5        7.9    6.6   0.1        22    5.2   0.1   1.8   1   0   0   1   1   1   0 J domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g416100v5 PE=4 SV=1
+tr|A0A2K3D3N7|A0A2K3D3N7_CHLRE -          IR1-M                PF12185.5        8.9    6.4   0.4        26    4.9   0.4   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g515050v5 PE=4 SV=1
+tr|A0A2K3E6R2|A0A2K3E6R2_CHLRE -          IR1-M                PF12185.5        9.6    6.3   0.1        80    3.4   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g030986v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:50:47 2022
+# [ok]

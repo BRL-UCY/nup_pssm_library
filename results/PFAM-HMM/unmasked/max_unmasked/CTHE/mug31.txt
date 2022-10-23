@@ -1,0 +1,24 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S7R3|POM34_CHATD  -          NPCC                 PF08058.8    1.7e-26   91.5   0.0     3e-26   90.7   0.0   1.4   1   0   0   1   1   1   1 Nucleoporin POM34 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=POM34 PE=3 SV=2
+tr|G0SHU0|G0SHU0_CHATD -          NPCC                 PF08058.8       0.72    8.6   0.8       4.4    6.1   0.1   2.2   2   0   0   2   2   2   0 GPI-anchored wall transfer protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0073350 PE=3 SV=1
+tr|G0S1T1|G0S1T1_CHATD -          NPCC                 PF08058.8        1.2    7.9   0.0       2.5    6.9   0.0   1.4   1   0   0   1   1   1   0 Aspartate-semialdehyde dehydrogenase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0014710 PE=3 SV=1
+tr|G0S7L9|G0S7L9_CHATD -          NPCC                 PF08058.8        2.6    6.8   0.0       4.9    5.9   0.0   1.4   1   0   0   1   1   1   0 Mitochondrial fission process protein 1 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0036800 PE=3 SV=1
+tr|G0S114|G0S114_CHATD -          NPCC                 PF08058.8        3.1    6.6   0.3       5.2    5.8   0.3   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011980 PE=4 SV=1
+tr|G0S0T0|G0S0T0_CHATD -          NPCC                 PF08058.8        3.8    6.3   0.3         6    5.7   0.3   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011120 PE=4 SV=1
+tr|G0SAZ3|G0SAZ3_CHATD -          NPCC                 PF08058.8        3.9    6.2   0.0        11    4.8   0.0   1.7   1   0   0   1   1   1   0 Autophagy-related protein 9 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0048320 PE=3 SV=1
+tr|G0RYF7|G0RYF7_CHATD -          NPCC                 PF08058.8          4    6.2   0.0        23    3.8   0.0   2.1   2   1   0   2   2   2   0 V-type proton ATPase subunit OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0006530 PE=3 SV=1
+tr|G0S2M5|G0S2M5_CHATD -          NPCC                 PF08058.8        6.2    5.6   0.0       9.6    5.0   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0017770 PE=4 SV=1
+tr|G0SEU7|G0SEU7_CHATD -          NPCC                 PF08058.8        8.7    5.1   0.0        22    3.8   0.0   1.6   1   0   0   1   1   1   0 tRNA (guanine(37)-N1)-methyltransferase OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=TRM5 PE=3 SV=1
+tr|G0S865|G0S865_CHATD -          NPCC                 PF08058.8         10    4.9   0.0        15    4.3   0.0   1.3   1   0   0   1   1   1   0 Guanine deaminase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037730 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CTHE/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:17:32 2022
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q9Y7Z5|TTS1_SCHPO   -          UPF0121              PF03661.10     5e-36  122.5  14.8   6.1e-36  122.2  14.8   1.0   1   0   0   1   1   1   1 Tetra-spanning protein 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=tts1 PE=1 SV=1
+sp|O14193|MUG69_SCHPO  -          UPF0121              PF03661.10         1    6.9   9.1       1.7    6.2   9.1   1.4   1   1   0   1   1   1   0 SRP-independent targeting protein 2 homolog OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mug69 PE=1 SV=4
+sp|P87041|GMS1_SCHPO   -          UPF0121              PF03661.10       1.3    6.5   0.4       3.3    5.2   0.4   1.6   1   0   0   1   1   1   0 UDP-galactose transporter OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=gms1 PE=2 SV=3
+sp|O13729|PUN1_SCHPO   -          UPF0121              PF03661.10       4.3    4.8   3.1        11    3.5   3.1   1.7   1   0   0   1   1   1   0 SUR7 family protein pun1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pun1 PE=3 SV=1
+sp|Q9Y7Q0|YQ66_SCHPO   -          UPF0121              PF03661.10       4.3    4.8   2.0       5.2    4.5   0.4   1.8   2   0   0   2   2   2   0 Uncharacterized protein C191.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC191.06 PE=4 SV=1
+sp|Q10151|ERD12_SCHPO  -          UPF0121              PF03661.10       5.7    4.4   0.9        11    3.5   0.9   1.5   1   0   0   1   1   1   0 Protein ERD1 homolog 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC1D4.05c PE=3 SV=1
+sp|Q92377|MDM12_SCHPO  -          UPF0121              PF03661.10       8.4    3.8   0.0        13    3.3   0.0   1.2   1   0   0   1   1   1   0 Mitochondrial distribution and morphology protein 12 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=mdm12 PE=3 SV=1
+sp|P87179|WSC1_SCHPO   -          UPF0121              PF03661.10       8.7    3.8   0.1        14    3.1   0.1   1.3   1   0   0   1   1   1   0 Cell wall integrity and stress response component 1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=wsc1 PE=1 SV=3
+sp|A6X969|YI9B_SCHPO   -          UPF0121              PF03661.10       9.2    3.7   0.6       9.5    3.7   0.6   1.1   1   0   0   1   1   1   0 Putative uncharacterized protein C806.11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC806.11 PE=4 SV=1
+sp|Q10085|YAO6_SCHPO   -          UPF0121              PF03661.10       9.4    3.7   0.3        28    2.1   0.3   1.8   1   0   0   1   1   1   0 Uncharacterized transporter C11D3.06 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC11D3.06 PE=3 SV=1
+sp|Q9USX0|PVG3_SCHPO   -          UPF0121              PF03661.10       9.6    3.7   0.1        20    2.6   0.1   1.5   1   0   0   1   1   1   0 Beta-1,3-galactosyltransferase pvg3 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=pvg3 PE=1 SV=1
+sp|O94695|YG1B_SCHPO   -          UPF0121              PF03661.10       9.9    3.6   0.1        47    1.4   0.1   2.0   1   0   0   1   1   1   0 Putative transporter C83.11 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPBC83.11 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03661.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/SPOM/krh2.txt --max --cpu 8 hmm_profiles/PF03661.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Fri Sep 16 10:24:02 2022
+# [ok]

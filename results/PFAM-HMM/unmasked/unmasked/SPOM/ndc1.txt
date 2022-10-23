@@ -1,0 +1,18 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O13961|NDC1_SCHPO  -          Ndc1_Nup             PF09531.7   1.3e-113  379.0  19.0  1.6e-113  378.8  19.0   1.0   1   0   0   1   1   1   1 Nuclear envelope protein ndc1 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=cut11 PE=2 SV=2
+sp|Q10988|UVE1_SCHPO  -          Ndc1_Nup             PF09531.7       0.31    7.9   6.1      0.43    7.5   6.1   1.1   1   0   0   1   1   1   0 UV-damage endonuclease OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=uve1 PE=2 SV=1
+sp|Q9P790|VPS72_SCHPO -          Ndc1_Nup             PF09531.7        1.3    5.9  10.1       1.8    5.5  10.1   1.1   1   0   0   1   1   1   0 SWR complex protein 2 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=swc2 PE=1 SV=1
+sp|O36029|YEKH_SCHPO  -          Ndc1_Nup             PF09531.7        2.2    5.1   8.5       2.5    5.0   8.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein C4F10.17 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPAC4F10.17 PE=4 SV=1
+sp|O74897|SWC5_SCHPO  -          Ndc1_Nup             PF09531.7        8.1    3.3  13.0       9.7    3.0  13.0   1.0   1   0   0   1   1   1   0 SWR1-complex protein 5 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=swc5 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF09531.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/SPOM/ndc1.txt --cpu 8 hmm_profiles/PF09531.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/SPOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:27:47 2022
+# [ok]

@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0S9A7|NU133_CHATD  -          Nucleoporin_C        PF03177.11  3.9e-175  582.7   0.0  4.6e-175  582.5   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin NUP133 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP133 PE=3 SV=1
+sp|G0S7B6|NU170_CHATD  -          Nucleoporin_C        PF03177.11   8.9e-51  172.0   0.4   1.5e-50  171.3   0.3   1.4   1   1   0   1   1   1   1 Nucleoporin NUP170 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP170 PE=1 SV=1
+tr|G0RY06|G0RY06_CHATD -          Nucleoporin_C        PF03177.11      0.19    9.1   0.4      0.21    9.0   0.4   1.0   1   0   0   1   1   1   0 EKC/KEOPS complex subunit GON7 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0004960 PE=3 SV=1
+tr|G0S4Q2|G0S4Q2_CHATD -          Nucleoporin_C        PF03177.11      0.29    8.5   0.8      0.33    8.3   0.8   1.0   1   0   0   1   1   1   0 Putative bud site selection protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0023130 PE=3 SV=1
+tr|G0SGF0|G0SGF0_CHATD -          Nucleoporin_C        PF03177.11       1.1    6.6   4.3       1.2    6.5   4.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0066090 PE=4 SV=1
+tr|G0S679|G0S679_CHATD -          Nucleoporin_C        PF03177.11       1.1    6.6   1.3       8.6    3.6   0.1   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0025790 PE=3 SV=1
+tr|G0S383|G0S383_CHATD -          Nucleoporin_C        PF03177.11       1.4    6.2   0.1       2.9    5.2   0.1   1.4   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit E OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=INT6 PE=3 SV=1
+tr|G0SHN1|G0SHN1_CHATD -          Nucleoporin_C        PF03177.11       1.6    6.1   5.7       2.5    5.4   5.7   1.3   1   0   0   1   1   1   0 Kri1_C domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0070630 PE=3 SV=1
+tr|G0S0Z7|G0S0Z7_CHATD -          Nucleoporin_C        PF03177.11       2.3    5.5   0.2       2.3    5.5   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011810 PE=4 SV=1
+tr|G0S7P7|G0S7P7_CHATD -          Nucleoporin_C        PF03177.11       3.5    4.9   0.0       4.9    4.4   0.0   1.1   1   0   0   1   1   1   0 Sensitive to high expression protein 9, mitochondrial OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0037090 PE=3 SV=1
+tr|G0SDI0|G0SDI0_CHATD -          Nucleoporin_C        PF03177.11       3.9    4.8   0.0       4.7    4.5   0.0   1.0   1   0   0   1   1   1   0 U1 small nuclear ribonucleoprotein C OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0051860 PE=3 SV=1
+tr|G0RZ89|G0RZ89_CHATD -          Nucleoporin_C        PF03177.11       4.8    4.5   0.5       6.4    4.1   0.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0002110 PE=4 SV=1
+tr|G0SGN6|G0SGN6_CHATD -          Nucleoporin_C        PF03177.11         6    4.2   0.0       9.8    3.5   0.0   1.2   1   0   0   1   1   1   0 DNA polymerase alpha-associated DNA helicase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0067000 PE=3 SV=1
+tr|G0SFF4|G0SFF4_CHATD -          Nucleoporin_C        PF03177.11       6.7    4.0   0.0        12    3.2   0.0   1.3   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0061850 PE=3 SV=1
+tr|G0SDN9|G0SDN9_CHATD -          Nucleoporin_C        PF03177.11       7.1    3.9   0.1       8.5    3.7   0.1   1.3   1   0   0   1   1   1   0 Coatomer subunit epsilon OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0052450 PE=3 SV=1
+tr|G0S8G6|G0S8G6_CHATD -          Nucleoporin_C        PF03177.11       7.1    3.9   1.6       9.5    3.5   0.3   1.6   1   1   1   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0029810 PE=3 SV=1
+tr|G0SA26|G0SA26_CHATD -          Nucleoporin_C        PF03177.11       7.1    3.9   0.0        11    3.3   0.0   1.2   1   0   0   1   1   1   0 UCR_hinge domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0040770 PE=3 SV=1
+tr|G0S8A3|G0S8A3_CHATD -          Nucleoporin_C        PF03177.11       7.3    3.9   0.0        11    3.3   0.0   1.2   1   0   0   1   1   1   0 Putative mRNA decapping protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0038110 PE=1 SV=1
+tr|G0S3A2|G0S3A2_CHATD -          Nucleoporin_C        PF03177.11       9.7    3.5   1.2        23    2.2   0.1   1.8   2   0   0   2   2   2   0 BRO1 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0020270 PE=4 SV=1
+tr|G0S2Q9|G0S2Q9_CHATD -          Nucleoporin_C        PF03177.11       9.7    3.5   0.0        12    3.1   0.0   1.2   1   0   0   1   1   1   0 Polysacc_synt_4 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0018130 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF03177.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CTHE/nup154.txt --max --cpu 8 hmm_profiles/PF03177.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:07:13 2022
+# [ok]

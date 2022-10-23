@@ -1,0 +1,46 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498IB10|A0A498IB10_MALDO -          Nucleoporin_N        PF08801.8    1.3e-82  279.2   0.0   1.8e-82  278.7   0.0   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040302 PE=3 SV=1
+tr|A0A498HHZ2|A0A498HHZ2_MALDO -          Nucleoporin_N        PF08801.8    1.1e-69  236.5   0.0   1.4e-69  236.2   0.0   1.1   1   0   0   1   1   1   1 Nucleoporin_N domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_007606 PE=4 SV=1
+tr|A0A498HC92|A0A498HC92_MALDO -          Nucleoporin_N        PF08801.8    2.4e-40  139.9   0.0   3.1e-40  139.5   0.0   1.1   1   0   0   1   1   1   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028051 PE=3 SV=1
+tr|A0A498JNF2|A0A498JNF2_MALDO -          Nucleoporin_N        PF08801.8    0.00011   22.3   0.2        14    5.5   0.0   5.3   3   2   3   6   6   6   0 Utp13 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_025058 PE=4 SV=1
+tr|A0A498J020|A0A498J020_MALDO -          Nucleoporin_N        PF08801.8     0.0002   21.5   5.2       1.5    8.7   0.1   4.8   1   1   4   5   5   5   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000235 PE=4 SV=1
+tr|A0A498K1C8|A0A498K1C8_MALDO -          Nucleoporin_N        PF08801.8    0.00036   20.6   0.7      0.35   10.8   0.1   3.9   1   1   0   3   3   3   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_021526 PE=4 SV=1
+tr|A0A498ICF9|A0A498ICF9_MALDO -          Nucleoporin_N        PF08801.8    0.00037   20.6   0.1       5.2    7.0   0.0   4.4   2   2   1   5   5   5   2 Target of rapamycin complex subunit LST8 OS=Malus domestica OX=3750 GN=DVH24_005060 PE=3 SV=1
+tr|A0A498J0V0|A0A498J0V0_MALDO -          Nucleoporin_N        PF08801.8     0.0015   18.6   1.3       1.5    8.7   0.1   4.1   2   2   2   4   4   4   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_042248 PE=4 SV=1
+tr|A0A498HZ65|A0A498HZ65_MALDO -          Nucleoporin_N        PF08801.8     0.0016   18.5   0.2         2    8.3   0.0   4.2   2   2   3   5   5   5   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019544 PE=3 SV=1
+tr|A0A498HQC8|A0A498HQC8_MALDO -          Nucleoporin_N        PF08801.8     0.0018   18.4   0.6       1.4    8.8   0.1   3.3   1   1   2   3   3   3   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015695 PE=4 SV=1
+tr|A0A498J452|A0A498J452_MALDO -          Nucleoporin_N        PF08801.8      0.002   18.2   0.6      0.99    9.3   0.3   3.1   2   1   0   3   3   3   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_000232 PE=4 SV=1
+tr|A0A498JMJ6|A0A498JMJ6_MALDO -          Nucleoporin_N        PF08801.8     0.0023   18.0   5.1      0.93    9.4   0.7   3.6   1   1   2   4   4   4   2 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_008799 PE=4 SV=1
+tr|A0A498JHE7|A0A498JHE7_MALDO -          Nucleoporin_N        PF08801.8     0.0056   16.7   0.5       1.9    8.4   0.0   3.2   2   1   1   3   3   3   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024674 PE=4 SV=1
+tr|A0A498KAE5|A0A498KAE5_MALDO -          Nucleoporin_N        PF08801.8     0.0081   16.2   1.0       2.4    8.1   0.1   3.0   1   1   2   3   3   3   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_006567 PE=4 SV=1
+tr|A0A498KSF8|A0A498KSF8_MALDO -          Nucleoporin_N        PF08801.8      0.013   15.5   1.3        14    5.5   0.0   3.6   1   1   2   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014539 PE=4 SV=1
+tr|A0A498HPZ6|A0A498HPZ6_MALDO -          Nucleoporin_N        PF08801.8      0.016   15.2   0.4      0.74    9.7   0.0   2.9   1   1   2   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025493 PE=3 SV=1
+tr|A0A498HDK8|A0A498HDK8_MALDO -          Nucleoporin_N        PF08801.8      0.016   15.2   7.3      0.27   11.2   0.3   4.3   1   1   3   4   4   4   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_031472 PE=4 SV=1
+tr|A0A498IDL7|A0A498IDL7_MALDO -          Nucleoporin_N        PF08801.8      0.017   15.2   8.2      0.03   14.3   0.3   3.2   1   1   2   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_040798 PE=4 SV=1
+tr|A0A498JKW0|A0A498JKW0_MALDO -          Nucleoporin_N        PF08801.8      0.025   14.6   0.9       2.3    8.1   0.1   2.8   1   1   2   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016028 PE=4 SV=1
+tr|A0A498KPG7|A0A498KPG7_MALDO -          Nucleoporin_N        PF08801.8      0.047   13.7   0.0       4.7    7.1   0.0   2.8   1   1   1   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_026319 PE=4 SV=1
+tr|A0A498HBP1|A0A498HBP1_MALDO -          Nucleoporin_N        PF08801.8      0.049   13.6   0.3       8.4    6.3   0.0   3.1   2   1   0   2   2   2   0 NLE domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_030782 PE=4 SV=1
+tr|A0A498KB64|A0A498KB64_MALDO -          Nucleoporin_N        PF08801.8       0.05   13.6   1.4      0.85    9.5   0.3   2.7   1   1   0   2   2   2   0 F-box domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_002841 PE=4 SV=1
+tr|A0A498IAP2|A0A498IAP2_MALDO -          Nucleoporin_N        PF08801.8      0.053   13.5   0.2       2.1    8.3   0.0   3.0   1   1   2   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041387 PE=3 SV=1
+tr|A0A498KJU8|A0A498KJU8_MALDO -          Nucleoporin_N        PF08801.8      0.064   13.3   0.1         6    6.8   0.0   3.1   3   1   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_022603 PE=4 SV=1
+tr|A0A498KIG0|A0A498KIG0_MALDO -          Nucleoporin_N        PF08801.8      0.078   13.0   0.2       5.3    6.9   0.0   2.9   3   2   1   4   4   4   0 NLE domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006619 PE=4 SV=1
+tr|A0A498KN09|A0A498KN09_MALDO -          Nucleoporin_N        PF08801.8      0.098   12.6   0.2        11    5.9   0.0   2.8   2   1   1   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009845 PE=4 SV=1
+tr|A0A498JG98|A0A498JG98_MALDO -          Nucleoporin_N        PF08801.8       0.15   12.0   0.0      0.37   10.7   0.0   1.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033317 PE=4 SV=1
+tr|A0A498HT92|A0A498HT92_MALDO -          Nucleoporin_N        PF08801.8       0.21   11.5   0.5       5.6    6.9   0.0   2.9   2   1   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012469 PE=4 SV=1
+tr|A0A498KIL5|A0A498KIL5_MALDO -          Nucleoporin_N        PF08801.8       0.26   11.2   0.0      0.78    9.7   0.0   1.6   1   1   1   2   2   2   0 Replication termination factor 2 OS=Malus domestica OX=3750 GN=DVH24_017627 PE=3 SV=1
+tr|A0A498K329|A0A498K329_MALDO -          Nucleoporin_N        PF08801.8       0.27   11.2   0.2      0.47   10.4   0.0   1.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015176 PE=4 SV=1
+tr|A0A498KHA0|A0A498KHA0_MALDO -          Nucleoporin_N        PF08801.8       0.31   11.0   0.1        50    3.7   0.0   3.1   2   1   0   3   3   3   0 ANAPC4_WD40 domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_006392 PE=4 SV=1
+tr|A0A498JA39|A0A498JA39_MALDO -          Nucleoporin_N        PF08801.8       0.38   10.7   0.0      0.38   10.7   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_020718 PE=4 SV=1
+tr|A0A498HSN1|A0A498HSN1_MALDO -          Nucleoporin_N        PF08801.8        0.4   10.6   0.0        10    6.0   0.0   2.2   1   1   1   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_012968 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08801.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup133.txt --cpu 8 hmm_profiles/PF08801.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:25:27 2022
+# [ok]

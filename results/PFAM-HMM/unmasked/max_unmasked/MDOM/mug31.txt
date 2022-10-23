@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JMN8|A0A498JMN8_MALDO -          NPCC                 PF08058.8      0.045   15.0   1.9       2.7    9.2   0.1   3.9   3   0   0   3   3   3   0 Protein kinase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_024546 PE=3 SV=1
+tr|A0A498K304|A0A498K304_MALDO -          NPCC                 PF08058.8        1.1   10.5   0.3        52    5.1   0.0   2.5   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030643 PE=3 SV=1
+tr|A0A498HFB0|A0A498HFB0_MALDO -          NPCC                 PF08058.8        1.2   10.4   0.0       2.6    9.3   0.0   1.5   1   0   0   1   1   1   0 HDAC_interact domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_037174 PE=4 SV=1
+tr|A0A498IQE3|A0A498IQE3_MALDO -          NPCC                 PF08058.8        1.3   10.3   0.3        50    5.2   0.0   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_009367 PE=3 SV=1
+tr|A0A498J480|A0A498J480_MALDO -          NPCC                 PF08058.8        2.3    9.5   0.1       6.8    8.0   0.0   1.8   2   0   0   2   2   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_031832 PE=4 SV=1
+tr|A0A498IRU9|A0A498IRU9_MALDO -          NPCC                 PF08058.8        2.8    9.2   0.7       4.8    8.5   0.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_027090 PE=4 SV=1
+tr|A0A498HK88|A0A498HK88_MALDO -          NPCC                 PF08058.8        2.8    9.2   0.0       3.2    9.0   0.0   1.3   1   1   0   1   1   1   0 ARMT1-like_dom domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018684 PE=4 SV=1
+tr|A0A498IGL1|A0A498IGL1_MALDO -          NPCC                 PF08058.8        2.9    9.2   0.1   1.5e+02    3.6   0.0   2.6   2   2   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_036661 PE=3 SV=1
+tr|A0A498IY38|A0A498IY38_MALDO -          NPCC                 PF08058.8          3    9.1   0.1       7.2    7.9   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028544 PE=4 SV=1
+tr|A0A498JK24|A0A498JK24_MALDO -          NPCC                 PF08058.8          3    9.1   0.1       4.2    8.7   0.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025049 PE=4 SV=1
+tr|A0A498HKZ8|A0A498HKZ8_MALDO -          NPCC                 PF08058.8        3.3    9.0   0.1       7.3    7.9   0.1   1.6   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033726 PE=4 SV=1
+tr|A0A498J138|A0A498J138_MALDO -          NPCC                 PF08058.8        3.4    9.0   7.7       3.1    9.1   2.5   2.5   1   1   1   2   2   2   0 FF domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_034413 PE=4 SV=1
+tr|A0A498KD31|A0A498KD31_MALDO -          NPCC                 PF08058.8        3.6    8.8   0.0       7.5    7.8   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018292 PE=3 SV=1
+tr|A0A498ITG3|A0A498ITG3_MALDO -          NPCC                 PF08058.8        4.7    8.5   0.2       7.6    7.8   0.2   1.4   1   0   0   1   1   1   0 ABC transmembrane type-1 domain-containing protein (Fragment) OS=Malus domestica OX=3750 GN=DVH24_021981 PE=4 SV=1
+tr|A0A498I837|A0A498I837_MALDO -          NPCC                 PF08058.8        4.9    8.4   1.9        15    6.9   1.8   1.9   1   1   0   1   1   1   0 Protein-S-isoprenylcysteine O-methyltransferase OS=Malus domestica OX=3750 GN=DVH24_040196 PE=3 SV=1
+tr|A0A498HY45|A0A498HY45_MALDO -          NPCC                 PF08058.8        5.4    8.3   0.4       9.1    7.6   0.4   1.5   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_019204 PE=4 SV=1
+tr|A0A498IHG7|A0A498IHG7_MALDO -          NPCC                 PF08058.8        6.1    8.1   3.5       5.3    8.3   0.1   2.0   2   0   0   2   2   2   0 CASP-like protein OS=Malus domestica OX=3750 GN=DVH24_034878 PE=3 SV=1
+tr|A0A498JSM2|A0A498JSM2_MALDO -          NPCC                 PF08058.8        6.6    8.0   0.0        81    4.5   0.0   2.1   2   1   0   2   2   2   0 CASP-like protein OS=Malus domestica OX=3750 GN=DVH24_009666 PE=3 SV=1
+tr|A0A498J4J2|A0A498J4J2_MALDO -          NPCC                 PF08058.8        6.7    8.0   0.0        13    7.1   0.0   1.4   1   0   0   1   1   1   0 acidPPc domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035292 PE=3 SV=1
+tr|A0A498K140|A0A498K140_MALDO -          NPCC                 PF08058.8        7.4    7.8   0.1        14    6.9   0.1   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_030514 PE=4 SV=1
+tr|A0A498HG53|A0A498HG53_MALDO -          NPCC                 PF08058.8        7.5    7.8   3.8       6.1    8.1   0.5   1.9   1   1   1   2   2   2   0 CASP-like protein OS=Malus domestica OX=3750 GN=DVH24_037088 PE=3 SV=1
+tr|A0A498IUI7|A0A498IUI7_MALDO -          NPCC                 PF08058.8        8.3    7.7   0.1        15    6.9   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041839 PE=4 SV=1
+tr|A0A498I8A8|A0A498I8A8_MALDO -          NPCC                 PF08058.8        8.5    7.6   0.1        29    5.9   0.1   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041135 PE=3 SV=1
+tr|A0A498K8G5|A0A498K8G5_MALDO -          NPCC                 PF08058.8          9    7.6   0.7        44    5.4   0.7   2.1   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_038834 PE=4 SV=1
+tr|A0A498HBV4|A0A498HBV4_MALDO -          NPCC                 PF08058.8        9.2    7.5   1.2        72    4.6   0.1   2.3   2   1   0   2   2   2   0 Reticulon-like protein OS=Malus domestica OX=3750 GN=DVH24_027901 PE=4 SV=1
+tr|A0A498IFX8|A0A498IFX8_MALDO -          NPCC                 PF08058.8        9.5    7.5   1.4   1.3e+02    3.8   0.2   2.3   2   0   0   2   2   2   0 Cation_ATPase_C domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004958 PE=4 SV=1
+tr|A0A498JCV7|A0A498JCV7_MALDO -          NPCC                 PF08058.8        9.8    7.5   0.0        48    5.2   0.0   1.9   2   0   0   2   2   2   0 Aldo_ket_red domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013562 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08058.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/mug31.txt --max --cpu 8 hmm_profiles/PF08058.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 17:17:02 2022
+# [ok]

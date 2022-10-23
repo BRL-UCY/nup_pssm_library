@@ -1,0 +1,40 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23V95|Q23V95_TETTS   -          POM121               PF15229.3      0.057   13.7   8.5      0.11   12.8   8.5   1.4   1   0   0   1   1   1   0 von willebrand factor type A domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01476530 PE=4 SV=2
+tr|Q22DB1|Q22DB1_TETTS   -          POM121               PF15229.3      0.088   13.1   2.3      0.22   11.8   2.3   1.6   1   0   0   1   1   1   0 START domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00992920 PE=4 SV=1
+tr|I7LZM6|I7LZM6_TETTS   -          POM121               PF15229.3       0.41   10.9   0.6      0.94    9.7   0.6   1.5   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00715960 PE=4 SV=1
+tr|Q23KA0|Q23KA0_TETTS   -          POM121               PF15229.3       0.43   10.8   1.7      0.98    9.7   1.0   1.8   1   1   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194350 PE=4 SV=1
+tr|Q24BA7|Q24BA7_TETTS   -          POM121               PF15229.3       0.49   10.7   5.7      0.75   10.0   5.7   1.3   1   0   0   1   1   1   0 Protein-tyrosine-phosphatase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01299700 PE=3 SV=1
+tr|I7M7A2|I7M7A2_TETTS   -          POM121               PF15229.3       0.56   10.5   0.6      0.95    9.7   0.6   1.3   1   0   0   1   1   1   0 E3 ubiquitin-protein ligase CHFR OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00143530 PE=3 SV=1
+tr|Q22AQ6|Q22AQ6_TETTS   -          POM121               PF15229.3       0.78   10.0   2.1       4.9    7.4   2.1   2.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01169470 PE=4 SV=2
+tr|I7MJI1|I7MJI1_TETTS   -          POM121               PF15229.3        2.9    8.1   0.3       6.5    7.0   0.3   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00189440 PE=4 SV=1
+tr|W7XG83|W7XG83_TETTS   -          POM121               PF15229.3        3.1    8.0   0.5       3.8    7.7   0.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000923053 PE=4 SV=1
+tr|W7XJD0|W7XJD0_TETTS   -          POM121               PF15229.3        3.2    8.0   3.4       4.1    7.6   3.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000476531 PE=4 SV=1
+tr|Q22TF0|Q22TF0_TETTS   -          POM121               PF15229.3        3.3    8.0   0.2       5.3    7.3   0.2   1.2   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00171750 PE=4 SV=1
+tr|I7LZH9|I7LZH9_TETTS   -          POM121               PF15229.3        3.8    7.7   3.5       8.1    6.7   3.5   1.5   1   0   0   1   1   1   0 Cytoplasmic dynein intermediate chain OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00773750 PE=4 SV=2
+tr|W7X4M2|W7X4M2_TETTS   -          POM121               PF15229.3        4.8    7.4   0.3       6.1    7.1   0.3   1.2   1   1   0   1   1   1   0 Zinc finger, C3HC4 type (RING finger) protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000446269 PE=4 SV=1
+tr|I7M994|I7M994_TETTS   -          POM121               PF15229.3        4.8    7.4   0.6       4.8    7.4   0.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00317190 PE=4 SV=1
+tr|I7M7P8|I7M7P8_TETTS   -          POM121               PF15229.3        5.5    7.2   2.1        15    5.7   1.2   2.1   1   1   0   1   1   1   0 Kinesin-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00266230 PE=3 SV=2
+tr|Q22SG7|Q22SG7_TETTS   -          POM121               PF15229.3        6.3    7.0   2.1        19    5.5   2.1   1.8   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00002690 PE=4 SV=2
+tr|I7M0X3|I7M0X3_TETTS   -          POM121               PF15229.3        6.7    6.9   0.3        13    6.0   0.3   1.4   1   0   0   1   1   1   0 Dynein light intermediate chain OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00294940 PE=3 SV=2
+tr|I7LUI4|I7LUI4_TETTS   -          POM121               PF15229.3        6.8    6.9  10.8         9    6.5  10.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00402060 PE=4 SV=1
+tr|W7X2T7|W7X2T7_TETTS   -          POM121               PF15229.3        7.3    6.8  10.7        17    5.6  10.7   1.5   1   0   0   1   1   1   0 Cation channel family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000252417 PE=4 SV=1
+tr|W7XE66|W7XE66_TETTS   -          POM121               PF15229.3        7.4    6.8   2.6        23    5.2   2.6   1.9   1   0   0   1   1   1   0 A C2HC-type zinc-finger protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000160849 PE=4 SV=1
+tr|I7MEI8|I7MEI8_TETTS   -          POM121               PF15229.3        7.5    6.8   4.8       9.4    6.5   4.8   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00191050 PE=4 SV=1
+tr|Q22GU0|Q22GU0_TETTS   -          POM121               PF15229.3        7.7    6.7   2.4        15    5.8   2.4   1.5   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00656160 PE=3 SV=2
+tr|I7M0P7|I7M0P7_TETTS   -          POM121               PF15229.3        8.1    6.7   0.1       8.2    6.6   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00705110 PE=4 SV=1
+tr|I7LVG5|I7LVG5_TETTS   -          POM121               PF15229.3        9.3    6.5   1.3        13    6.0   1.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00343860 PE=4 SV=2
+tr|Q224I2|Q224I2_TETTS   -          POM121               PF15229.3        9.6    6.4   1.8        15    5.8   1.8   1.3   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_02477160 PE=4 SV=2
+tr|Q22RT9|Q22RT9_TETTS   -          POM121               PF15229.3        9.7    6.4   0.0        16    5.7   0.0   1.2   1   0   0   1   1   1   0 Autophagocytosis associated protein, active-site protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00012980 PE=4 SV=2
+tr|Q239E8|Q239E8_TETTS   -          POM121               PF15229.3        9.7    6.4   0.5        33    4.7   0.5   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00448670 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF15229.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/pom121.txt --max --cpu 8 hmm_profiles/PF15229.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 11:31:56 2022
+# [ok]

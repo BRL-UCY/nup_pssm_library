@@ -1,0 +1,41 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JH97|A0A498JH97_MALDO -          IR1-M                PF12185.5       0.56   11.4   0.0        26    6.0   0.0   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024752 PE=4 SV=1
+tr|A0A498KEP7|A0A498KEP7_MALDO -          IR1-M                PF12185.5       0.74   11.0   1.9       8.5    7.6   0.1   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018130 PE=4 SV=1
+tr|A0A498JAC2|A0A498JAC2_MALDO -          IR1-M                PF12185.5       0.77   10.9   0.2       3.7    8.8   0.0   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020720 PE=4 SV=1
+tr|A0A498IDA9|A0A498IDA9_MALDO -          IR1-M                PF12185.5        1.2   10.3   0.1        19    6.4   0.0   2.4   2   0   0   2   2   2   0 DNA replication complex GINS protein SLD5 OS=Malus domestica OX=3750 GN=DVH24_041269 PE=3 SV=1
+tr|A0A498JW40|A0A498JW40_MALDO -          IR1-M                PF12185.5        1.8    9.7   0.0       4.8    8.4   0.0   1.7   1   0   0   1   1   1   0 AAA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_021412 PE=3 SV=1
+tr|A0A498K1C0|A0A498K1C0_MALDO -          IR1-M                PF12185.5        1.9    9.7   0.0       4.8    8.4   0.0   1.7   1   0   0   1   1   1   0 AAA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_014740 PE=3 SV=1
+tr|A0A498IY29|A0A498IY29_MALDO -          IR1-M                PF12185.5        2.1    9.6   0.0       5.3    8.2   0.0   1.7   1   0   0   1   1   1   0 AAA domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_042420 PE=3 SV=1
+tr|A0A498HLK4|A0A498HLK4_MALDO -          IR1-M                PF12185.5        2.5    9.3   0.0       4.5    8.5   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_007069 PE=3 SV=1
+tr|A0A498HLQ7|A0A498HLQ7_MALDO -          IR1-M                PF12185.5        3.2    9.0   0.0       6.2    8.0   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025360 PE=4 SV=1
+tr|A0A498KBK1|A0A498KBK1_MALDO -          IR1-M                PF12185.5        3.2    9.0   0.0   2.2e+02    3.1   0.0   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002920 PE=4 SV=1
+tr|A0A498HGP2|A0A498HGP2_MALDO -          IR1-M                PF12185.5        3.7    8.8   0.4   1.3e+02    3.8   0.5   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028370 PE=4 SV=1
+tr|A0A498ISL3|A0A498ISL3_MALDO -          IR1-M                PF12185.5        5.1    8.3   1.3        46    5.3   0.1   2.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_017303 PE=4 SV=1
+tr|A0A498HB76|A0A498HB76_MALDO -          IR1-M                PF12185.5        5.2    8.3   1.1       6.4    8.0   0.2   1.6   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028416 PE=3 SV=1
+tr|A0A498HY50|A0A498HY50_MALDO -          IR1-M                PF12185.5        5.3    8.3   0.2        12    7.1   0.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_029795 PE=3 SV=1
+tr|A0A498JHM6|A0A498JHM6_MALDO -          IR1-M                PF12185.5        5.8    8.1   0.0        12    7.2   0.0   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_024754 PE=4 SV=1
+tr|A0A498I1C3|A0A498I1C3_MALDO -          IR1-M                PF12185.5        5.9    8.1   0.0        11    7.2   0.0   1.5   1   0   0   1   1   1   0 Iron-sulfur cluster assembly protein OS=Malus domestica OX=3750 GN=DVH24_039609 PE=3 SV=1
+tr|A0A498HIR2|A0A498HIR2_MALDO -          IR1-M                PF12185.5          6    8.1   3.2        10    7.3   3.2   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037169 PE=4 SV=1
+tr|A0A498I955|A0A498I955_MALDO -          IR1-M                PF12185.5        6.4    8.0   0.1        21    6.3   0.1   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_002035 PE=4 SV=1
+tr|A0A498J6C2|A0A498J6C2_MALDO -          IR1-M                PF12185.5        6.5    8.0   0.0        14    6.9   0.0   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_035500 PE=3 SV=1
+tr|A0A498IIS4|A0A498IIS4_MALDO -          IR1-M                PF12185.5        6.7    7.9   0.1   4.2e+02    2.2   0.0   3.0   3   0   0   3   3   3   0 Protein kinase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_036366 PE=4 SV=1
+tr|A0A498IZW9|A0A498IZW9_MALDO -          IR1-M                PF12185.5        6.9    7.9   0.3        19    6.5   0.1   1.7   2   0   0   2   2   1   0 CN hydrolase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_000429 PE=4 SV=1
+tr|A0A498IEE5|A0A498IEE5_MALDO -          IR1-M                PF12185.5          7    7.9   0.0   2.2e+02    3.1   0.0   2.7   3   0   0   3   3   3   0 Fe2OG dioxygenase domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_004409 PE=4 SV=1
+tr|A0A498ILD8|A0A498ILD8_MALDO -          IR1-M                PF12185.5        7.5    7.8   2.6        37    5.6   0.1   2.5   2   0   0   2   2   2   0 PARP-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_026909 PE=4 SV=1
+tr|A0A498KKI2|A0A498KKI2_MALDO -          IR1-M                PF12185.5        7.6    7.8   2.5   1.1e+02    4.0   0.2   2.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_018174 PE=3 SV=1
+tr|A0A498JSK5|A0A498JSK5_MALDO -          IR1-M                PF12185.5        7.8    7.7   0.0        15    6.8   0.0   1.4   1   0   0   1   1   1   0 Iron-sulfur cluster assembly protein OS=Malus domestica OX=3750 GN=DVH24_008725 PE=3 SV=1
+tr|A0A498IHR3|A0A498IHR3_MALDO -          IR1-M                PF12185.5        8.4    7.6   3.9        12    7.2   3.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_035106 PE=4 SV=1
+tr|A0A498HXN4|A0A498HXN4_MALDO -          IR1-M                PF12185.5        9.5    7.5   0.0        17    6.6   0.0   1.4   1   0   0   1   1   1   0 Peptidyl-prolyl cis-trans isomerase (Fragment) OS=Malus domestica OX=3750 GN=DVH24_030110 PE=3 SV=1
+tr|A0A498K7J1|A0A498K7J1_MALDO -          IR1-M                PF12185.5        9.5    7.4   0.3        60    4.9   0.1   2.5   2   0   0   2   2   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015214 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF12185.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/MDOM/.txt --max --cpu 8 hmm_profiles/PF12185.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 17:03:29 2022
+# [ok]

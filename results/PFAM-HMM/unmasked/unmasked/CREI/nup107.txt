@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D9H2|A0A2K3D9H2_CHLRE -          Nup84_Nup100         PF04121.10   7.3e-32  110.5   0.0   9.5e-32  110.1   0.0   1.1   1   0   0   1   1   1   1 Nuclear pore complex protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g425675v5 PE=3 SV=1
+tr|A0A2K3CZZ4|A0A2K3CZZ4_CHLRE -          Nup84_Nup100         PF04121.10       0.2    9.9   1.3      0.26    9.5   1.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_13g575550v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF04121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/CREI/nup107.txt --cpu 8 hmm_profiles/PF04121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:23:13 2022
+# [ok]

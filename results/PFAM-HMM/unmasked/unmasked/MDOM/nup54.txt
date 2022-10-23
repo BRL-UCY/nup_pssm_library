@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498HS46|A0A498HS46_MALDO -          Nup54                PF13874.3    5.3e-28   99.1   2.7   7.5e-28   98.6   0.6   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033825 PE=4 SV=1
+tr|A0A498I9Q2|A0A498I9Q2_MALDO -          Nup54                PF13874.3    3.5e-27   96.4   2.2   3.5e-27   96.4   2.2   2.2   2   0   0   2   2   2   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_041037 PE=4 SV=1
+tr|A0A498JUJ2|A0A498JUJ2_MALDO -          Nup54                PF13874.3      0.002   19.4   3.6      0.21   12.9   0.0   2.3   2   0   0   2   2   2   2 GAGA-binding transcriptional activator OS=Malus domestica OX=3750 GN=DVH24_021351 PE=3 SV=1
+tr|A0A498KFZ8|A0A498KFZ8_MALDO -          Nup54                PF13874.3      0.023   16.0   2.7     0.039   15.3   2.7   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_025704 PE=4 SV=1
+tr|A0A498J9Z7|A0A498J9Z7_MALDO -          Nup54                PF13874.3      0.029   15.7   4.0     0.039   15.3   3.6   1.3   1   1   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_020570 PE=4 SV=1
+tr|A0A498JHB4|A0A498JHB4_MALDO -          Nup54                PF13874.3      0.062   14.6   6.7      0.15   13.4   6.7   1.6   1   0   0   1   1   1   0 PORR domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_013719 PE=4 SV=1
+tr|A0A498JFE8|A0A498JFE8_MALDO -          Nup54                PF13874.3       0.14   13.5   0.1      0.19   13.0   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_033358 PE=4 SV=1
+tr|A0A498KBK2|A0A498KBK2_MALDO -          Nup54                PF13874.3       0.56   11.5  12.3       1.3   10.4   8.7   2.9   1   1   1   2   2   2   0 RAB6-interacting golgin OS=Malus domestica OX=3750 GN=DVH24_039011 PE=3 SV=1
+tr|A0A498J7G7|A0A498J7G7_MALDO -          Nup54                PF13874.3       0.89   10.9  18.9         4    8.7   4.9   2.7   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020139 PE=4 SV=1
+tr|A0A498IN90|A0A498IN90_MALDO -          Nup54                PF13874.3        1.2   10.5  13.0       2.1    9.7   9.7   2.7   1   1   1   2   2   2   0 RAB6-interacting golgin OS=Malus domestica OX=3750 GN=DVH24_005750 PE=3 SV=1
+tr|A0A498KFU5|A0A498KFU5_MALDO -          Nup54                PF13874.3        2.2    9.6   9.3       2.2    9.6   0.6   2.9   3   1   0   3   3   3   0 Kinesin motor domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_018278 PE=3 SV=1
+tr|A0A498IS60|A0A498IS60_MALDO -          Nup54                PF13874.3          3    9.2  10.0       6.1    8.2  10.0   1.5   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_041763 PE=4 SV=1
+tr|A0A498KEV1|A0A498KEV1_MALDO -          Nup54                PF13874.3        3.4    9.0   9.4       7.1    7.9   9.4   1.4   1   0   0   1   1   1   0 BZIP domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_038346 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13874.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup54.txt --cpu 8 hmm_profiles/PF13874.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:26:12 2022
+# [ok]

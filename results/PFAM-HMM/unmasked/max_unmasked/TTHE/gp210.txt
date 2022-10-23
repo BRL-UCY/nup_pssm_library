@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q234T3|Q234T3_TETTS   -          Big_2                PF02368.15   0.00071   20.0   0.2   0.00071   20.0   0.2   6.7   7   1   0   7   7   7   1 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00101160 PE=3 SV=2
+tr|Q24I62|Q24I62_TETTS   -          Big_2                PF02368.15      0.17   12.4   0.2      0.74   10.3   0.2   2.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00569120 PE=4 SV=1
+tr|I7M1Q2|I7M1Q2_TETTS   -          Big_2                PF02368.15       1.6    9.3   0.1       2.6    8.6   0.1   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00338150 PE=3 SV=1
+tr|I7MAI2|I7MAI2_TETTS   -          Big_2                PF02368.15       2.4    8.7   0.1        23    5.5   0.1   2.6   2   0   0   2   2   2   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00241680 PE=4 SV=2
+tr|I7M610|I7M610_TETTS   -          Big_2                PF02368.15       3.1    8.3   2.6        20    5.7   0.6   2.4   2   0   0   2   2   2   0 Cyclic nucleotide-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760440 PE=4 SV=2
+sp|Q5Y2C3|H2AY_TETTS     -          Big_2                PF02368.15       3.6    8.1   7.7       4.2    7.9   6.9   1.6   1   1   0   1   1   1   0 Histone H2A.Y OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=HTAY PE=2 SV=2
+tr|Q23Q45|Q23Q45_TETTS   -          Big_2                PF02368.15       3.6    8.1   0.1       6.9    7.2   0.1   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00583440 PE=4 SV=2
+tr|I7MF40|I7MF40_TETTS   -          Big_2                PF02368.15       4.4    7.8   0.0       9.8    6.7   0.0   1.5   1   0   0   1   1   1   0 Leishmanolysin family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00290630 PE=3 SV=1
+tr|Q22PH3|Q22PH3_TETTS   -          Big_2                PF02368.15       4.7    7.7   1.5       9.2    6.8   1.5   1.4   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00361710 PE=4 SV=2
+tr|I7M1K8|I7M1K8_TETTS   -          Big_2                PF02368.15       6.1    7.4   0.2        22    5.6   0.2   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00192010 PE=4 SV=2
+tr|Q234T6|Q234T6_TETTS   -          Big_2                PF02368.15       6.6    7.3   0.2   3.7e+02    1.7   0.0   3.2   3   0   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00101130 PE=4 SV=2
+tr|I7MK22|I7MK22_TETTS   -          Big_2                PF02368.15       8.3    7.0   0.3   1.2e+02    3.2   0.1   3.2   2   0   0   2   2   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00497930 PE=4 SV=2
+tr|Q22Z08|Q22Z08_TETTS   -          Big_2                PF02368.15       8.6    6.9   2.2        61    4.2   0.1   2.4   2   0   0   2   2   2   0 Eukaryotic porin protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00117590 PE=4 SV=2
+tr|I7M3P7|I7M3P7_TETTS   -          Big_2                PF02368.15         9    6.8   0.9   1.3e+02    3.1   0.4   2.8   3   0   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00659030 PE=4 SV=1
+tr|I7M8F0|I7M8F0_TETTS   -          Big_2                PF02368.15         9    6.8   0.9   1.5e+02    2.9   0.3   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00283430 PE=4 SV=2
+tr|I7MLQ4|I7MLQ4_TETTS   -          Big_2                PF02368.15       9.3    6.8   0.0        33    5.0   0.0   1.9   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00353530 PE=4 SV=2
+tr|Q24C92|Q24C92_TETTS   -          Big_2                PF02368.15       9.9    6.7   0.3        67    4.0   0.1   2.2   2   0   0   2   2   2   0 Zinc carboxypeptidase family protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00695800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF02368.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/gp210.txt --max --cpu 8 hmm_profiles/PF02368.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Wed Oct 12 11:11:53 2022
+# [ok]

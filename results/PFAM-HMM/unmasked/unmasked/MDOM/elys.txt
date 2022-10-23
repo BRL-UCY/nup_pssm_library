@@ -1,0 +1,20 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JNT9|A0A498JNT9_MALDO -          ELYS                 PF13934.3    2.3e-53  182.7   0.2   5.4e-53  181.5   0.0   1.8   2   0   0   2   2   2   1 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_035888 PE=4 SV=1
+tr|A0A498JR90|A0A498JR90_MALDO -          ELYS                 PF13934.3     0.0081   17.4   0.0     0.053   14.7   0.0   2.3   1   1   1   2   2   2   1 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010784 PE=4 SV=1
+tr|A0A498JTT4|A0A498JTT4_MALDO -          ELYS                 PF13934.3      0.013   16.7   0.0     0.017   16.3   0.0   1.2   1   1   0   1   1   1   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010781 PE=4 SV=1
+tr|A0A498K1U4|A0A498K1U4_MALDO -          ELYS                 PF13934.3      0.018   16.2   0.1     0.057   14.6   0.1   1.8   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_037812 PE=4 SV=1
+tr|A0A498IAV1|A0A498IAV1_MALDO -          ELYS                 PF13934.3      0.025   15.8   0.0        26    5.9   0.0   4.0   4   0   0   4   4   4   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_004470 PE=4 SV=1
+tr|A0A498I6Q1|A0A498I6Q1_MALDO -          ELYS                 PF13934.3       0.24   12.6   0.4        35    5.5   0.0   2.9   3   0   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_014688 PE=4 SV=1
+tr|A0A498I635|A0A498I635_MALDO -          ELYS                 PF13934.3       0.39   11.9   0.0       2.6    9.2   0.0   2.4   2   1   0   2   2   2   0 RING-type domain-containing protein OS=Malus domestica OX=3750 GN=DVH24_023819 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/elys.txt --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:26:03 2022
+# [ok]

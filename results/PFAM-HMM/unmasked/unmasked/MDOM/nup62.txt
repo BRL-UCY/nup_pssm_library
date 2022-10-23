@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A498JCG1|A0A498JCG1_MALDO -          Nsp1_C               PF05064.10   1.3e-21   77.8   5.3   1.3e-21   77.8   5.3   1.9   2   0   0   2   2   2   1 Nucleoporin 62 OS=Malus domestica OX=3750 GN=DVH24_014004 PE=2 SV=1
+tr|A0A498JJ43|A0A498JJ43_MALDO -          Nsp1_C               PF05064.10      0.17   12.9   0.8      0.72   10.9   0.4   2.0   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_015850 PE=3 SV=1
+tr|A0A498J6P3|A0A498J6P3_MALDO -          Nsp1_C               PF05064.10      0.23   12.5  13.7      0.42   11.7   2.5   3.8   3   1   0   3   3   3   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_020462 PE=4 SV=1
+tr|A0A498HQ93|A0A498HQ93_MALDO -          Nsp1_C               PF05064.10      0.52   11.3   1.6      0.96   10.5   0.3   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_016448 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF05064.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/MDOM/nup62.txt --cpu 8 hmm_profiles/PF05064.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/MDOM.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 12:25:32 2022
+# [ok]

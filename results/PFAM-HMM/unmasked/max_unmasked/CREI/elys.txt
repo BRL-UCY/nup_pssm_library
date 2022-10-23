@@ -1,0 +1,33 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3CU26|A0A2K3CU26_CHLRE -          ELYS                 PF13934.3    3.8e-21   76.2   0.0   1.2e-20   74.6   0.0   1.8   2   0   0   2   2   2   1 ELYS domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_16g683437v5 PE=4 SV=1
+tr|A8HQS2|A8HQS2_CHLRE         -          ELYS                 PF13934.3       0.36   10.9   0.2      0.42   10.6   0.2   1.2   1   0   0   1   1   1   0 Mitochondrial inner membrane translocase OS=Chlamydomonas reinhardtii OX=3055 GN=TIM9 PE=4 SV=1
+tr|A0A2K3DL65|A0A2K3DL65_CHLRE -          ELYS                 PF13934.3       0.64   10.0   0.3       1.5    8.8   0.3   1.7   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g349450v5 PE=4 SV=1
+tr|A0A2K3E6H0|A0A2K3E6H0_CHLRE -          ELYS                 PF13934.3       0.75    9.8   0.2      0.88    9.6   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g026200v5 PE=4 SV=1
+tr|A0A2K3DIR6|A0A2K3DIR6_CHLRE -          ELYS                 PF13934.3        1.1    9.3   0.5       1.8    8.5   0.5   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g317350v5 PE=4 SV=1
+tr|A0A2K3DP68|A0A2K3DP68_CHLRE -          ELYS                 PF13934.3        1.2    9.1   1.2       3.9    7.5   0.1   2.1   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278225v5 PE=4 SV=1
+tr|A0A2K3CR94|A0A2K3CR94_CHLRE -          ELYS                 PF13934.3        1.3    9.0   1.8       3.8    7.5   1.8   1.9   1   1   0   1   1   1   0 CULLIN_2 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_17g734400v5 PE=3 SV=1
+tr|A0A2K3DIR9|A0A2K3DIR9_CHLRE -          ELYS                 PF13934.3        1.7    8.6   2.4       3.6    7.6   2.4   1.6   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_07g317450v5 PE=4 SV=1
+tr|A8IYF1|A8IYF1_CHLRE         -          ELYS                 PF13934.3        2.4    8.1   0.4       7.2    6.6   0.1   2.0   2   1   0   2   2   2   0 Bardet biedl syndrome 4 protein OS=Chlamydomonas reinhardtii OX=3055 GN=BBS4 PE=3 SV=1
+tr|A0A2K3DH99|A0A2K3DH99_CHLRE -          ELYS                 PF13934.3          3    7.8   0.4       9.4    6.2   0.2   2.1   1   1   1   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_08g372000v5 PE=4 SV=1
+tr|A0A2K3DY67|A0A2K3DY67_CHLRE -          ELYS                 PF13934.3        3.1    7.8   0.0       6.8    6.7   0.0   1.5   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g187300v5 PE=4 SV=1
+tr|A0A2K3D556|A0A2K3D556_CHLRE -          ELYS                 PF13934.3          4    7.4   1.0       6.1    6.8   1.0   1.3   1   0   0   1   1   1   0 J domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_12g535600v5 PE=4 SV=1
+tr|A8HNG7|A8HNG7_CHLRE         -          ELYS                 PF13934.3        4.3    7.3   1.4       5.4    7.0   1.4   1.1   1   0   0   1   1   1   0 Predicted protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g051450v5 PE=3 SV=1
+tr|A0A2K3DR30|A0A2K3DR30_CHLRE -          ELYS                 PF13934.3        4.6    7.2   0.7       8.2    6.4   0.1   1.4   1   1   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g302200v5 PE=4 SV=1
+tr|A0A2K3E1S8|A0A2K3E1S8_CHLRE -          ELYS                 PF13934.3        5.2    7.0   0.2        12    5.9   0.2   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_02g095116v5 PE=4 SV=1
+tr|A0A2K3DMI6|A0A2K3DMI6_CHLRE -          ELYS                 PF13934.3        5.3    7.0   0.4        18    5.3   0.4   1.8   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g258363v5 PE=4 SV=1
+tr|A8J2N4|A8J2N4_CHLRE         -          ELYS                 PF13934.3        7.7    6.5   0.0        14    5.6   0.0   1.4   1   0   0   1   1   1   0 Dual specificity protein phosphatase 8 (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=DSP8 PE=4 SV=1
+tr|A0A2K3DSU1|A0A2K3DSU1_CHLRE -          ELYS                 PF13934.3        8.5    6.3   5.5        67    3.4   0.1   3.4   3   0   0   3   3   3   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g236600v5 PE=4 SV=1
+tr|A0A2K3CY49|A0A2K3CY49_CHLRE -          ELYS                 PF13934.3        8.8    6.3   0.0        14    5.6   0.0   1.3   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_14g623000v5 PE=4 SV=1
+tr|A0A2K3DUG1|A0A2K3DUG1_CHLRE -          ELYS                 PF13934.3        9.7    6.2   0.2        15    5.6   0.2   1.2   1   0   0   1   1   1   0 CAP10 domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_04g224550v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF13934.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/elys.txt --max --cpu 8 hmm_profiles/PF13934.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:56:42 2022
+# [ok]

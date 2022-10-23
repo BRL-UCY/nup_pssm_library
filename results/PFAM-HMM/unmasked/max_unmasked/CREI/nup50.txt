@@ -1,0 +1,28 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A2K3D7Z2|A0A2K3D7Z2_CHLRE -          NUP50                PF08911.8        2.5    8.8   0.0       3.1    8.6   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_11g467771v5 PE=4 SV=1
+tr|A0A2K3DPA1|A0A2K3DPA1_CHLRE -          NUP50                PF08911.8        3.1    8.6   0.6        14    6.5   0.0   2.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g278253v5 PE=4 SV=1
+tr|A0A2K3CWJ3|A0A2K3CWJ3_CHLRE -          NUP50                PF08911.8        3.4    8.4   1.5       7.1    7.4   0.0   2.3   2   0   0   2   2   2   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_15g637000v5 PE=4 SV=1
+tr|A0A2K3DLZ8|A0A2K3DLZ8_CHLRE -          NUP50                PF08911.8        3.9    8.2   0.0       4.9    7.9   0.0   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g251850v5 PE=4 SV=1
+tr|A0A2K3D9C4|A0A2K3D9C4_CHLRE -          NUP50                PF08911.8        4.2    8.1   0.3        13    6.6   0.3   1.9   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g423150v5 PE=4 SV=1
+tr|A0A2K3E5M5|A0A2K3E5M5_CHLRE -          NUP50                PF08911.8        4.4    8.1   0.2        18    6.1   0.2   2.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_01g012750v5 PE=3 SV=1
+tr|A0A2K3DFE5|A0A2K3DFE5_CHLRE -          NUP50                PF08911.8        4.4    8.1   0.0        17    6.2   0.0   2.0   1   0   0   1   1   1   0 Tr-type G domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g408250v5 PE=4 SV=1
+tr|A0A2K3DZD0|A0A2K3DZD0_CHLRE -          NUP50                PF08911.8        4.9    7.9   3.3        24    5.7   3.3   2.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g201250v5 PE=4 SV=1
+tr|A0A2K3DQ10|A0A2K3DQ10_CHLRE -          NUP50                PF08911.8        6.3    7.6   1.8        35    5.2   1.8   2.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g286900v5 PE=4 SV=1
+tr|A0A2K3DN84|A0A2K3DN84_CHLRE -          NUP50                PF08911.8        7.2    7.4   0.5        30    5.4   0.1   2.2   2   0   0   2   2   2   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_06g269801v5 PE=4 SV=1
+tr|A0A2K3DZ10|A0A2K3DZ10_CHLRE -          NUP50                PF08911.8        7.6    7.3   0.3        49    4.7   0.3   2.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_03g206351v5 PE=4 SV=1
+tr|A0A2K3D9B9|A0A2K3D9B9_CHLRE -          NUP50                PF08911.8          8    7.2   0.6        25    5.7   0.6   1.8   1   0   0   1   1   1   0 Protein kinase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_10g423200v5 PE=4 SV=1
+tr|A8IRV6|A8IRV6_CHLRE         -          NUP50                PF08911.8          8    7.2   0.5        23    5.8   0.5   1.7   1   0   0   1   1   1   0 Eukaryotic translation initiation factor 3 subunit B OS=Chlamydomonas reinhardtii OX=3055 GN=EIF3B PE=3 SV=1
+tr|A8HPN4|A8HPN4_CHLRE         -          NUP50                PF08911.8        8.8    7.1   2.3        21    5.9   2.3   1.8   1   1   0   1   1   1   0 Plastid ribosomal protein S21 OS=Chlamydomonas reinhardtii OX=3055 GN=PRPS21 PE=4 SV=1
+tr|A0A2K3DSV1|A0A2K3DSV1_CHLRE -          NUP50                PF08911.8        9.4    7.0   0.1        48    4.7   0.1   2.3   1   0   0   1   1   1   0 N-acetyltransferase domain-containing protein OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_05g236878v5 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF08911.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CREI/nup50.txt --max --cpu 8 hmm_profiles/PF08911.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CREI.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 15:57:06 2022
+# [ok]

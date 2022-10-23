@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|G0SFH5|NU188_CHATD  -          Nup188               PF10487.6    1.2e-40  138.0   0.0   1.4e-28   98.0   0.0   2.6   2   1   0   2   2   2   2 Nucleoporin NUP188 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP188 PE=1 SV=1
+sp|G0S4T0|NU192_CHATD  -          Nup188               PF10487.6    5.7e-05   19.9   0.1   0.00066   16.4   0.1   2.1   2   0   0   2   2   2   1 Nucleoporin NUP192 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=NUP192 PE=1 SV=1
+tr|G0SCP4|G0SCP4_CHATD -          Nup188               PF10487.6      0.019   11.6   1.6     0.025   11.2   1.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0057950 PE=4 SV=1
+tr|G0S0J5|G0S0J5_CHATD -          Nup188               PF10487.6       0.21    8.1   0.1      0.31    7.6   0.1   1.1   1   0   0   1   1   1   0 ZT_dimer domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0010240 PE=4 SV=1
+tr|G0SB52|G0SB52_CHATD -          Nup188               PF10487.6       0.28    7.7   0.0      0.61    6.6   0.0   1.5   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0048920 PE=4 SV=1
+tr|G0SEQ4|G0SEQ4_CHATD -          Nup188               PF10487.6          2    4.9   0.0       2.6    4.5   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0059320 PE=4 SV=1
+tr|G0SA15|G0SA15_CHATD -          Nup188               PF10487.6        2.6    4.5   0.2       3.5    4.1   0.2   1.1   1   0   0   1   1   1   0 Aminopeptidase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0040650 PE=3 SV=1
+tr|G0RXV7|G0RXV7_CHATD -          Nup188               PF10487.6        3.1    4.3   0.0        13    2.2   0.0   1.7   2   0   0   2   2   2   0 UNC45-central domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0004450 PE=4 SV=1
+tr|G0SHP9|G0SHP9_CHATD -          Nup188               PF10487.6        4.3    3.8   0.4       5.6    3.4   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0072940 PE=4 SV=1
+tr|G0SE67|G0SE67_CHATD -          Nup188               PF10487.6        4.3    3.8   0.7       6.4    3.2   0.2   1.4   2   0   0   2   2   2   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062650 PE=3 SV=1
+tr|G0SAV3|G0SAV3_CHATD -          Nup188               PF10487.6        4.3    3.8   0.0       4.9    3.6   0.0   1.0   1   0   0   1   1   1   0 MARVEL domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0047900 PE=4 SV=1
+tr|G0SHU2|G0SHU2_CHATD -          Nup188               PF10487.6        4.4    3.8   0.0       6.1    3.3   0.0   1.1   1   0   0   1   1   1   0 Polysaccharide synthase-like protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0073370 PE=4 SV=1
+tr|G0SC19|G0SC19_CHATD -          Nup188               PF10487.6          5    3.6   0.0       6.7    3.2   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0055590 PE=3 SV=1
+tr|G0SB47|G0SB47_CHATD -          Nup188               PF10487.6        6.6    3.2   0.0       7.2    3.1   0.0   1.0   1   0   0   1   1   1   0 Ribosome assembly protein 3 OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0048870 PE=3 SV=1
+tr|G0RYH1|G0RYH1_CHATD -          Nup188               PF10487.6        6.8    3.1   6.5       9.2    2.7   6.5   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0006670 PE=4 SV=1
+tr|G0SE92|G0SE92_CHATD -          Nup188               PF10487.6          8    2.9   0.3        11    2.5   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0062920 PE=4 SV=1
+tr|G0S4X5|G0S4X5_CHATD -          Nup188               PF10487.6        8.4    2.8   0.1        20    1.6   0.1   1.5   1   0   0   1   1   1   0 SEC7 domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0032010 PE=4 SV=1
+tr|G0SCJ5|G0SCJ5_CHATD -          Nup188               PF10487.6        8.5    2.8   0.3        10    2.6   0.3   1.2   1   0   0   1   1   1   0 Prohibitin OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0057460 PE=3 SV=1
+tr|G0S557|G0S557_CHATD -          Nup188               PF10487.6        9.4    2.7   0.1        19    1.6   0.1   1.4   1   0   0   1   1   1   0 Sister chromatid cohesion protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0032310 PE=1 SV=1
+tr|G0S0Y8|G0S0Y8_CHATD -          Nup188               PF10487.6        9.6    2.6   0.1        19    1.7   0.1   1.4   1   0   0   1   1   1   0 Importin N-terminal domain-containing protein OS=Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX=759272 GN=CTHT_0011710 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles/PF10487.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/CTHE/nup188.txt --max --cpu 8 hmm_profiles/PF10487.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/CTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles
+# Date:            Thu Sep 15 16:09:01 2022
+# [ok]
