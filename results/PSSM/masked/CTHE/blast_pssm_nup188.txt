@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q5SRE5|NU188_HUMAN Nucleoporin NUP188 homolog OS=Homo sapiens GN=NUP188 PE=1 SV=1
+# Database: DB_masked/CTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q5SRE5|NU188_HUMAN	sp|G0SFH5|NU188_CHATD	1.26e-05	48.5	407	971	558	1183
+sp|Q5SRE5|NU188_HUMAN	tr|G0S4T8|G0S4T8_CHATD	0.51	33.5	1466	1569	452	562
+sp|Q5SRE5|NU188_HUMAN	tr|G0RY05|G0RY05_CHATD	1.6	31.9	863	1009	690	841
+sp|Q5SRE5|NU188_HUMAN	tr|G0S206|G0S206_CHATD	5.5	30.0	1457	1494	621	658
+# BLAST processed 1 queries

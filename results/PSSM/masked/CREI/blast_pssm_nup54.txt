@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9V6B9|NUP54_DROME Probable nucleoporin Nup54 OS=Drosophila melanogaster GN=Nup54 PE=2 SV=1
+# Database: DB_masked/CREI_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+sp|Q9V6B9|NUP54_DROME	tr|A0A2K3D6R8|A0A2K3D6R8_CHLRE	3.88e-14	74.8	165	602	3	443
+sp|Q9V6B9|NUP54_DROME	tr|A0A2K3E0Z7|A0A2K3E0Z7_CHLRE	2.46e-10	64.1	9	291	18	311
+sp|Q9V6B9|NUP54_DROME	tr|A0A2K3E0Y8|A0A2K3E0Y8_CHLRE	5.21e-08	56.4	9	350	18	369
+# BLAST processed 1 queries

@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1YK02|A1YK02_DROME Nucleoporin 75kD OS=Drosophila melanogaster GN=Nup75 PE=1 SV=1
+# Database: DB_masked/CREI_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+tr|A1YK02|A1YK02_DROME	tr|A0A2K3DI91|A0A2K3DI91_CHLRE	1.26e-12	71.2	1	510	1	616
+tr|A1YK02|A1YK02_DROME	tr|A0A2K3DGM1|A0A2K3DGM1_CHLRE	0.23	35.0	454	666	886	1108
+tr|A1YK02|A1YK02_DROME	tr|A0A2K3D1H8|A0A2K3D1H8_CHLRE	2.3	31.5	438	480	4140	4181
+tr|A1YK02|A1YK02_DROME	tr|A0A2K3D1G5|A0A2K3D1G5_CHLRE	2.3	31.5	438	480	4140	4181
+# BLAST processed 1 queries

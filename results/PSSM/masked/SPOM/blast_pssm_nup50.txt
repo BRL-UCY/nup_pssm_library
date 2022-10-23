@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1
+# Database: DB_masked/SPOM_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|Q7K0D8|Q7K0D8_DROME	sp|Q9USL4|NUP61_SCHPO	1.52e-20	92.7	121	561	17	541
+tr|Q7K0D8|Q7K0D8_DROME	sp|Q09717|RANG_SCHPO	5.58e-07	48.4	451	562	88	204
+# BLAST processed 1 queries

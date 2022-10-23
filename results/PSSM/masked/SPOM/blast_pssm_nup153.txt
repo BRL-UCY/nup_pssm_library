@@ -1,0 +1,13 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9VXE6|NU153_DROME Nuclear pore complex protein Nup153 OS=Drosophila melanogaster GN=Nup153 PE=1 SV=4
+# Database: DB_masked/SPOM_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 6 hits found
+sp|Q9VXE6|NU153_DROME	sp|Q09904|NU124_SCHPO	2.41e-16	83.2	1184	1797	555	1147
+sp|Q9VXE6|NU153_DROME	sp|Q09847|NU146_SCHPO	4.43e-08	56.2	1566	1868	468	766
+sp|Q9VXE6|NU153_DROME	sp|Q09793|NUP45_SCHPO	2.56e-04	43.1	1639	1868	2	228
+sp|Q9VXE6|NU153_DROME	sp|O74423|ENT1_SCHPO	0.002	40.8	1585	1869	300	576
+sp|Q9VXE6|NU153_DROME	sp|O13801|DRI1_SCHPO	0.009	38.5	1001	1062	335	396
+sp|Q9VXE6|NU153_DROME	sp|Q9UT42|LSB6_SCHPO	0.25	33.5	1018	1087	204	262
+# BLAST processed 1 queries

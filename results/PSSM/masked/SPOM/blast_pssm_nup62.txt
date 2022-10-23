@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q7JXF5|Q7JXF5_DROME GH12838p OS=Drosophila melanogaster GN=Nup62 PE=1 SV=1
+# Database: DB_masked/SPOM_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|Q7JXF5|Q7JXF5_DROME	sp|Q10168|NSP1_SCHPO	1.32e-50	177	3	378	228	589
+tr|Q7JXF5|Q7JXF5_DROME	sp|Q09904|NU124_SCHPO	4.04e-05	43.4	10	155	988	1127
+# BLAST processed 1 queries

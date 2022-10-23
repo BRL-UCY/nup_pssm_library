@@ -1,0 +1,8 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1Z6H7|A1Z6H7_DROME Gp210 ortholog, isoform A OS=Drosophila melanogaster GN=Gp210 PE=1 SV=1
+# Database: DB_masked/CTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 1 hits found
+tr|A1Z6H7|A1Z6H7_DROME	tr|G0S6T5|G0S6T5_CHATD	2.9	31.1	1130	1185	639	694
+# BLAST processed 1 queries

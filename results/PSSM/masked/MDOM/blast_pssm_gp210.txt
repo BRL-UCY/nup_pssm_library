@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1Z6H7|A1Z6H7_DROME Gp210 ortholog, isoform A OS=Drosophila melanogaster GN=Gp210 PE=1 SV=1
+# Database: DB_masked/MDOM_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+tr|A1Z6H7|A1Z6H7_DROME	tr|A0A498HES5|A0A498HES5_MALDO	0.0	1127	3	1867	975	2961
+tr|A1Z6H7|A1Z6H7_DROME	tr|A0A498J352|A0A498J352_MALDO	5.49e-36	137	5	166	105	241
+tr|A1Z6H7|A1Z6H7_DROME	tr|A0A498KKC6|A0A498KKC6_MALDO	1.5	33.8	772	911	58	213
+tr|A1Z6H7|A1Z6H7_DROME	tr|A0A498IKL3|A0A498IKL3_MALDO	4.0	32.7	103	160	844	900
+# BLAST processed 1 queries

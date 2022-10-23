@@ -1,0 +1,8 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VWS2|Q9VWS2_DROME Nucleoporin NUP53 OS=Drosophila melanogaster GN=CG6540 PE=1 SV=1
+# Database: DB_masked/TTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 1 hits found
+tr|Q9VWS2|Q9VWS2_DROME	tr|Q23DH4|Q23DH4_TETTS	0.025	36.3	184	253	69	144
+# BLAST processed 1 queries

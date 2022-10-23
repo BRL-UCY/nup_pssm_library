@@ -1,6 +1,0 @@
-# PSIBLAST 2.7.1+
-# Iteration: 1
-# Query: sp|Q5SRE5|NU188_HUMAN Nucleoporin NUP188 homolog OS=Homo sapiens GN=NUP188 PE=1 SV=1
-# Database: DB_masked/PFAL_db
-# 0 hits found
-# BLAST processed 1 queries

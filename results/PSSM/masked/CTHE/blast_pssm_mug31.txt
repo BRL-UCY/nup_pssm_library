@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q9US56|MUG31_SCHPO Meiotically up-regulated gene 31 protein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=mug31 PE=1 SV=1
+# Database: DB_masked/CTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+sp|Q9US56|MUG31_SCHPO	sp|G0S7R3|POM34_CHATD	3.14e-32	117	76	226	9	174
+sp|Q9US56|MUG31_SCHPO	tr|G0SCG1|G0SCG1_CHATD	0.29	30.4	159	203	576	642
+sp|Q9US56|MUG31_SCHPO	tr|G0S1T1|G0S1T1_CHATD	3.3	27.0	164	190	117	143
+# BLAST processed 1 queries

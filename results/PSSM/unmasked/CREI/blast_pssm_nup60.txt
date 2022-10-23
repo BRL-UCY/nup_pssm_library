@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|O74500|NUP60_SCHPO Nucleoporin nup60 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=nup60 PE=1 SV=1
+# Database: DB_unmasked/CREI_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+sp|O74500|NUP60_SCHPO	tr|A0A2K3DGR9|A0A2K3DGR9_CHLRE	1.62e-06	51.8	274	662	217	606
+sp|O74500|NUP60_SCHPO	tr|A0A2K3E0D9|A0A2K3E0D9_CHLRE	3.2	31.4	480	658	2093	2271
+sp|O74500|NUP60_SCHPO	tr|A0A2K3CT35|A0A2K3CT35_CHLRE	9.0	29.9	457	676	714	933
+# BLAST processed 1 queries

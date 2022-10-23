@@ -1,0 +1,6 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1Z6H7|A1Z6H7_DROME Gp210 ortholog, isoform A OS=Drosophila melanogaster GN=Gp210 PE=1 SV=1
+# Database: DB_masked/CREI_db
+# 0 hits found
+# BLAST processed 1 queries

@@ -1,0 +1,8 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1YK02|A1YK02_DROME Nucleoporin 75kD OS=Drosophila melanogaster GN=Nup75 PE=1 SV=1
+# Database: DB_masked/TTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 1 hits found
+tr|A1YK02|A1YK02_DROME	tr|Q23DA2|Q23DA2_TETTS	0.77	33.5	436	589	812	966
+# BLAST processed 1 queries

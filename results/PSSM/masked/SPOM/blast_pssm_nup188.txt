@@ -1,0 +1,11 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: sp|Q5SRE5|NU188_HUMAN Nucleoporin NUP188 homolog OS=Homo sapiens GN=NUP188 PE=1 SV=1
+# Database: DB_masked/SPOM_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 4 hits found
+sp|Q5SRE5|NU188_HUMAN	sp|Q9P7M8|NU184_SCHPO	1.22e-35	146	65	1048	69	1084
+sp|Q5SRE5|NU188_HUMAN	sp|Q9US14|IPMK_SCHPO	3.8	29.2	921	995	172	244
+sp|Q5SRE5|NU188_HUMAN	sp|O42938|PFKA_SCHPO	3.9	29.6	947	971	718	742
+sp|Q5SRE5|NU188_HUMAN	sp|Q09884|DCR1_SCHPO	9.4	28.5	1037	1144	1128	1228
+# BLAST processed 1 queries

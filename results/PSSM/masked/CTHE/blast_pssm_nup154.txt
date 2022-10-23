@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9V463|Q9V463_DROME Nucleoporin 154kD, isoform A OS=Drosophila melanogaster GN=Nup154 PE=1 SV=1
+# Database: DB_masked/CTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|Q9V463|Q9V463_DROME	sp|G0S7B6|NU170_CHATD	0.0	760	1	1324	66	1332
+tr|Q9V463|Q9V463_DROME	tr|G0SHY8|G0SHY8_CHATD	1.3	31.5	325	460	24	150
+# BLAST processed 1 queries

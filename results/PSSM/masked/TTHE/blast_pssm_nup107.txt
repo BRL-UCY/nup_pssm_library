@@ -1,0 +1,9 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|A1YK54|A1YK54_DROME Nup107 OS=Drosophila melanogaster GN=Nup107 PE=4 SV=1
+# Database: DB_masked/TTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 2 hits found
+tr|A1YK54|A1YK54_DROME	tr|Q22MB7|Q22MB7_TETTS	3.0	31.9	482	677	559	747
+tr|A1YK54|A1YK54_DROME	tr|I7MJN9|I7MJN9_TETTS	4.7	30.8	799	837	133	171
+# BLAST processed 1 queries

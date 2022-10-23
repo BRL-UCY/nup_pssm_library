@@ -1,8 +1,0 @@
-# PSIBLAST 2.7.1+
-# Iteration: 1
-# Query: tr|Q9VFE7|Q9VFE7_DROME GH01087p OS=Drosophila melanogaster GN=Nup93-2 PE=1 SV=1
-# Database: DB_masked/PFAL_db
-# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
-# 1 hits found
-tr|Q9VFE7|Q9VFE7_DROME	tr|Q9U0I1|Q9U0I1_PLAF7	2.4	29.8	83	110	491	517
-# BLAST processed 1 queries

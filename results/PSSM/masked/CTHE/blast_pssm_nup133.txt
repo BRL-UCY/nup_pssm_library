@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VCW3|Q9VCW3_DROME LP09464p OS=Drosophila melanogaster GN=Nup133 PE=1 SV=2
+# Database: DB_masked/CTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+tr|Q9VCW3|Q9VCW3_DROME	sp|G0S9A7|NU133_CHATD	5.67e-167	530	6	1157	22	1262
+tr|Q9VCW3|Q9VCW3_DROME	sp|G0S7B6|NU170_CHATD	1.2	31.6	88	134	130	174
+tr|Q9VCW3|Q9VCW3_DROME	tr|G0S3U5|G0S3U5_CHATD	2.2	30.8	607	866	563	838
+# BLAST processed 1 queries

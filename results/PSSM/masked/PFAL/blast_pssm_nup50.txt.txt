@@ -1,9 +1,0 @@
-# PSIBLAST 2.7.1+
-# Iteration: 1
-# Query: tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1
-# Database: DB_masked/PFAL_db
-# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
-# 2 hits found
-tr|Q7K0D8|Q7K0D8_DROME	tr|Q76NN6|Q76NN6_PLAF7	7.86e-10	58.4	444	561	20	147
-tr|Q7K0D8|Q7K0D8_DROME	tr|Q8IL08|Q8IL08_PLAF7	3.45e-06	48.8	223	425	1358	1555
-# BLAST processed 1 queries

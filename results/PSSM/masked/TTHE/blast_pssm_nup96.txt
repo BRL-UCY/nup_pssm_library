@@ -1,0 +1,12 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q9VCH5|Q9VCH5_DROME Nucleoporin 98-96kD, isoform A OS=Drosophila melanogaster GN=Nup98-96 PE=1 SV=3
+# Database: DB_masked/TTHE_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 5 hits found
+tr|Q9VCH5|Q9VCH5_DROME	tr|I7LTE8|I7LTE8_TETTS	3.84e-25	115	882	1040	780	935
+tr|Q9VCH5|Q9VCH5_DROME	tr|Q22C10|Q22C10_TETTS	8.90e-15	80.6	881	1015	798	929
+tr|Q9VCH5|Q9VCH5_DROME	tr|W7XKR1|W7XKR1_TETTS	1.88e-12	72.9	886	1028	678	815
+tr|Q9VCH5|Q9VCH5_DROME	tr|Q22UB5|Q22UB5_TETTS	3.63e-06	51.7	478	605	145	286
+tr|Q9VCH5|Q9VCH5_DROME	tr|I7MHJ5|I7MHJ5_TETTS	0.041	39.4	893	940	984	1029
+# BLAST processed 1 queries

@@ -1,0 +1,10 @@
+# PSIBLAST 2.7.1+
+# Iteration: 1
+# Query: tr|Q7K0D8|Q7K0D8_DROME LD27030p OS=Drosophila melanogaster GN=Nup50 PE=1 SV=1
+# Database: DB_masked/CREI_db
+# Fields: query id, subject id, evalue, bit score, q. start, q. end, s. start, s. end
+# 3 hits found
+tr|Q7K0D8|Q7K0D8_DROME	tr|A0A2K3DD98|A0A2K3DD98_CHLRE	1.83e-07	52.6	383	555	4	193
+tr|Q7K0D8|Q7K0D8_DROME	tr|A0A2K3CWV1|A0A2K3CWV1_CHLRE	6.96e-05	45.7	285	531	161	424
+tr|Q7K0D8|Q7K0D8_DROME	tr|A0A2K3CWV4|A0A2K3CWV4_CHLRE	6.14e-04	42.6	285	531	161	401
+# BLAST processed 1 queries
