@@ -1,0 +1,19 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q236B6|Q236B6_TETTS   -          krh2                 -            1.1e-06   28.5   3.2   1.7e-06   28.0   3.2   1.3   1   0   0   1   1   1   1 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00091770 PE=3 SV=1
+tr|W7XJQ0|W7XJQ0_TETTS   -          krh2                 -               0.23   11.1   0.1      0.26   11.0   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000113249 PE=4 SV=1
+tr|W7XKH5|W7XKH5_TETTS   -          krh2                 -                2.3    7.9   2.0       2.8    7.6   2.0   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000361358 PE=4 SV=1
+tr|Q22UJ3|Q22UJ3_TETTS   -          krh2                 -                5.1    6.8   0.0       7.9    6.1   0.0   1.2   1   0   0   1   1   1   0 Tyrosine/nicotianamine aminotransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00554320 PE=3 SV=1
+tr|W7X972|W7X972_TETTS   -          krh2                 -                7.6    6.2   0.4        15    5.2   0.4   1.4   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000161789 PE=4 SV=1
+tr|I7MHZ3|I7MHZ3_TETTS   -          krh2                 -                7.7    6.2   0.1        13    5.4   0.1   1.2   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00475290 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/krh2.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/krh2.txt --max --cpu 8 hmm_profiles_from_msa/krh2.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:02:23 2022
+# [ok]

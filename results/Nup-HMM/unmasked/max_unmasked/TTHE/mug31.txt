@@ -1,0 +1,37 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7LXW8|I7LXW8_TETTS   -          mug31                -               0.14   12.1   0.3      0.14   12.1   0.3   2.1   2   1   0   2   2   2   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00332180 PE=4 SV=2
+tr|W7X6B0|W7X6B0_TETTS   -          mug31                -               0.26   11.3   4.6      0.45   10.5   4.6   1.4   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000038988 PE=4 SV=1
+tr|W7XCN0|W7XCN0_TETTS   -          mug31                -                1.4    8.9   2.1         2    8.4   1.7   1.5   1   1   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000697529 PE=4 SV=1
+tr|Q24C68|Q24C68_TETTS   -          mug31                -                1.8    8.6   1.4       3.3    7.7   1.4   1.4   1   0   0   1   1   1   0 NRAMP (Natural resistance-associated macrophage protein) metal ion transporter family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00697030 PE=4 SV=1
+tr|Q22YK6|Q22YK6_TETTS   -          mug31                -                2.5    8.1   0.5       2.9    7.9   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00602890 PE=4 SV=2
+tr|I7LU48|I7LU48_TETTS   -          mug31                -                2.6    8.0   2.6       4.5    7.2   2.6   1.4   1   0   0   1   1   1   0 p1/s1 nuclease OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00559790 PE=3 SV=1
+tr|Q234A3|Q234A3_TETTS   -          mug31                -                2.8    7.9   0.4       7.7    6.5   0.4   1.8   1   0   0   1   1   1   0 Lipase maturation factor 2 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00107010 PE=3 SV=2
+tr|Q23EG3|Q23EG3_TETTS   -          mug31                -                  3    7.8   1.9       8.8    6.3   1.9   1.7   1   0   0   1   1   1   0 Nucleolar GTP-binding protein 2 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01028770 PE=3 SV=2
+tr|Q22NE4|Q22NE4_TETTS   -          mug31                -                  3    7.8   7.0      0.21   11.6   0.2   2.7   2   0   0   2   2   1   0 Phosphatidylinositol 3-and 4-kinase family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00203010 PE=4 SV=2
+tr|Q23G71|Q23G71_TETTS   -          mug31                -                3.4    7.7   7.3       6.3    6.8   7.3   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00075940 PE=4 SV=2
+tr|Q245X9|Q245X9_TETTS   -          mug31                -                3.5    7.6   0.1       5.6    6.9   0.1   1.3   1   0   0   1   1   1   0 Synaptobrevin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00245190 PE=3 SV=1
+tr|I7M957|I7M957_TETTS   -          mug31                -                3.7    7.5   0.4        13    5.7   0.4   2.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00310000 PE=4 SV=2
+tr|I7MJD7|I7MJD7_TETTS   -          mug31                -                  4    7.4   2.5         2    8.4   0.1   1.7   2   0   0   2   2   2   0 Integral membrane protein DUF6 containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00325630 PE=4 SV=1
+tr|Q23KL2|Q23KL2_TETTS   -          mug31                -                4.2    7.4   0.4       6.9    6.7   0.4   1.2   1   0   0   1   1   1   0 Pyruvate dehydrogenase E1 component subunit alpha OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00193230 PE=4 SV=2
+tr|W7XL72|W7XL72_TETTS   -          mug31                -                4.3    7.3   7.0        13    5.7   7.0   1.8   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000113344 PE=4 SV=1
+tr|W7X027|W7X027_TETTS   -          mug31                -                4.5    7.2   0.3       7.6    6.5   0.3   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000530018 PE=4 SV=1
+tr|I7MEW0|I7MEW0_TETTS   -          mug31                -                6.9    6.6   0.2        18    5.3   0.2   1.7   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00279910 PE=4 SV=1
+tr|W7XCH8|W7XCH8_TETTS   -          mug31                -                7.9    6.4   2.8        17    5.4   2.8   1.6   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000192149 PE=4 SV=1
+tr|I7LXA8|I7LXA8_TETTS   -          mug31                -                8.3    6.4   5.5       3.1    7.8   1.7   2.3   2   0   0   2   2   2   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00299970 PE=4 SV=2
+tr|W7XCA7|W7XCA7_TETTS   -          mug31                -                8.7    6.3   0.4        15    5.5   0.4   1.4   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000852739 PE=4 SV=1
+tr|W7X6Y4|W7X6Y4_TETTS   -          mug31                -                8.9    6.3   0.3       8.9    6.3   0.3   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001100343 PE=4 SV=1
+tr|Q237A7|Q237A7_TETTS   -          mug31                -                8.9    6.3   0.1   1.9e+02    1.9   0.0   2.3   2   0   0   2   2   2   0 Lysozyme protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00083420 PE=4 SV=2
+tr|Q231C6|Q231C6_TETTS   -          mug31                -                9.6    6.2   2.7       8.8    6.3   1.6   1.5   1   1   0   1   1   1   0 Tyrosine phosphatase, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00431330 PE=4 SV=2
+tr|Q22UW2|Q22UW2_TETTS   -          mug31                -                9.8    6.1   3.0        26    4.8   2.9   1.8   2   0   0   2   2   2   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00577410 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:23:54 2022
+# [ok]

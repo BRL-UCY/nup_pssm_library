@@ -1,0 +1,24 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MDB6|I7MDB6_TETTS   -          nup188               -                0.4    8.1   1.1      0.56    7.6   1.1   1.1   1   0   0   1   1   1   0 MIF4G domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00053900 PE=4 SV=1
+tr|Q22VX8|Q22VX8_TETTS   -          nup188               -                1.8    5.9   0.3       2.4    5.5   0.3   1.0   1   0   0   1   1   1   0 Histidine phosphatase family (Branch protein 1) OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00161560 PE=4 SV=3
+tr|I7MMJ5|I7MMJ5_TETTS   -          nup188               -                  2    5.7   0.3       2.7    5.3   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00686200 PE=4 SV=2
+tr|Q235V8|Q235V8_TETTS   -          nup188               -                4.7    4.5   0.6         7    3.9   0.6   1.1   1   0   0   1   1   1   0 Serine/Threonine kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00094330 PE=4 SV=2
+tr|I7MEX7|I7MEX7_TETTS   -          nup188               -                5.2    4.4   1.6       6.6    4.0   1.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00283850 PE=4 SV=1
+tr|I7MAJ5|I7MAJ5_TETTS   -          nup188               -                6.4    4.1   0.2       8.7    3.6   0.2   1.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00242360 PE=4 SV=2
+tr|I7MMG4|I7MMG4_TETTS   -          nup188               -                7.3    3.9   0.0        10    3.4   0.0   1.0   1   0   0   1   1   1   0 G-patch domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00467540 PE=3 SV=2
+tr|Q22TT4|Q22TT4_TETTS   -          nup188               -                7.9    3.8   0.5        12    3.2   0.5   1.1   1   0   0   1   1   1   0 ABC transporter C family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00964340 PE=4 SV=2
+tr|Q22CK1|Q22CK1_TETTS   -          nup188               -                8.3    3.7   0.7        10    3.4   0.7   1.1   1   0   0   1   1   1   0 Amine-terminal domain cyclin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01043080 PE=3 SV=2
+tr|Q24I01|Q24I01_TETTS   -          nup188               -                9.2    3.5   0.8        13    3.0   0.8   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00571730 PE=4 SV=2
+tr|W7XDF1|W7XDF1_TETTS   -          nup188               -                9.5    3.5   0.5        11    3.3   0.5   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000616289 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup188.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup188.txt --max --cpu 8 hmm_profiles_from_msa/nup188.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:47:37 2022
+# [ok]

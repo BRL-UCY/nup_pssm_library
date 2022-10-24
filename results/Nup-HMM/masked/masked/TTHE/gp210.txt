@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q234T3|Q234T3_TETTS -          gp210                -           2.4e-185  618.7  37.5  7.6e-108  361.8  19.9   2.9   2   1   0   2   2   2   2 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00101160 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:44:50 2022
+# [ok]

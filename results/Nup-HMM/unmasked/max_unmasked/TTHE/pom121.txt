@@ -1,0 +1,20 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23V95|Q23V95_TETTS   -          pom121               -               0.56    8.5  10.4      0.75    8.1  10.4   1.0   1   0   0   1   1   1   0 von willebrand factor type A domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01476530 PE=4 SV=2
+tr|W7XIX7|W7XIX7_TETTS   -          pom121               -                2.3    6.4   3.0       2.4    6.4   3.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000720140 PE=4 SV=1
+tr|Q24F02|Q24F02_TETTS   -          pom121               -                4.1    5.6   1.1       4.9    5.4   1.1   1.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01147120 PE=4 SV=2
+tr|Q23YW0|Q23YW0_TETTS   -          pom121               -                4.2    5.6   4.0       4.7    5.4   4.0   1.0   1   0   0   1   1   1   0 LITAF-like zinc ribbon domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00857980 PE=3 SV=3
+tr|I7M6J7|I7M6J7_TETTS   -          pom121               -                6.5    5.0   2.6       9.6    4.4   2.6   1.3   1   0   0   1   1   1   0 SGS domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00471060 PE=3 SV=2
+tr|Q245B5|Q245B5_TETTS   -          pom121               -                7.5    4.8   5.6        11    4.2   5.6   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00693010 PE=4 SV=1
+tr|Q245U1|Q245U1_TETTS   -          pom121               -                9.2    4.5   1.1        14    3.9   1.1   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00245580 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom121.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/pom121.txt --max --cpu 8 hmm_profiles_from_msa/pom121.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:40:45 2022
+# [ok]

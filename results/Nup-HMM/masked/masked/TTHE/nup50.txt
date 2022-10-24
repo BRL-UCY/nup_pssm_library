@@ -1,0 +1,14 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22WD0|Q22WD0_TETTS -          nup50                -            9.9e-05   21.7   0.0   0.00013   21.3   0.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 2, Ran-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00158040 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup50.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/nup50.txt --cpu 8 hmm_profiles_from_msa/nup50.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:44:46 2022
+# [ok]

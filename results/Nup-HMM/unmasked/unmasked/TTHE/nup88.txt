@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23K67|Q23K67_TETTS -          nup88                -            0.00014   20.7   0.9     0.021   13.6   0.0   2.5   2   1   0   2   2   2   2 Probable cytosolic iron-sulfur protein assembly protein CIAO1 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194680 PE=3 SV=2
+tr|Q22KK4|Q22KK4_TETTS -          nup88                -             0.0016   17.3   0.3    0.0035   16.2   0.1   1.7   2   1   0   2   2   2   1 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00312770 PE=4 SV=2
+tr|I7M6F2|I7M6F2_TETTS -          nup88                -             0.0024   16.7   0.3     0.011   14.6   0.0   2.1   3   0   0   3   3   3   1 Peroxin-7 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00530540 PE=3 SV=1
+tr|I7MHB9|I7MHB9_TETTS -          nup88                -              0.012   14.4   4.8     0.015   14.1   4.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00349060 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup88.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup88.txt --cpu 8 hmm_profiles_from_msa/nup88.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:43:31 2022
+# [ok]

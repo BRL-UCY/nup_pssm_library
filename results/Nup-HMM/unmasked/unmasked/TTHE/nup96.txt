@@ -1,0 +1,32 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MHJ5|I7MHJ5_TETTS -          nup96                -            5.9e-50  170.5 398.9   8.3e-33  113.6 176.7   4.4   2   2   1   3   3   3   3 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00071070 PE=1 SV=1
+tr|I7LTE8|I7LTE8_TETTS -          nup96                -            3.4e-38  131.5  33.8   2.5e-33  115.4  24.9   5.3   4   1   1   5   5   3   2 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00530720 PE=4 SV=2
+tr|W7XKR1|W7XKR1_TETTS -          nup96                -            3.1e-28   98.5 120.5   3.7e-15   55.1   2.1   2.5   2   1   0   2   2   2   2 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000293459 PE=4 SV=1
+tr|Q22C10|Q22C10_TETTS -          nup96                -            1.4e-24   86.4   1.8   1.4e-24   86.4   1.8   3.6   2   1   2   4   4   1   1 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01080600 PE=4 SV=4
+tr|Q22UB5|Q22UB5_TETTS -          nup96                -            5.3e-07   28.1  38.8   5.3e-07   28.1  38.8   2.0   1   1   1   2   2   1   1 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00260700 PE=4 SV=2
+tr|Q23S21|Q23S21_TETTS -          nup96                -            9.7e-06   23.9  72.7   1.3e-05   23.5  72.7   1.2   1   0   0   1   1   1   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01122680 PE=4 SV=2
+tr|Q23K55|Q23K55_TETTS -          nup96                -            0.00092   17.3  32.4    0.0014   16.7  32.4   1.3   1   0   0   1   1   1   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194800 PE=4 SV=3
+tr|I7M3D0|I7M3D0_TETTS -          nup96                -               0.16    9.9  72.6      0.22    9.4  72.6   1.1   1   0   0   1   1   1   0 MORN motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00492700 PE=4 SV=2
+tr|I7MFZ9|I7MFZ9_TETTS -          nup96                -               0.43    8.5  24.1       0.6    8.0  24.1   1.1   1   0   0   1   1   1   0 NPL domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00648920 PE=4 SV=1
+tr|I7M1A5|I7M1A5_TETTS -          nup96                -               0.86    7.5  62.8       1.2    7.0  62.8   1.1   1   0   0   1   1   1   0 PID domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00125180 PE=4 SV=2
+tr|A4VEU2|A4VEU2_TETTS -          nup96                -                2.2    6.1  47.5       2.6    5.9  47.5   1.1   1   0   0   1   1   1   0 RING-type E3 ubiquitin transferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00069368 PE=4 SV=2
+tr|Q23DE5|Q23DE5_TETTS -          nup96                -                3.6    5.4  23.4       4.6    5.1  23.4   1.0   1   0   0   1   1   1   0 Protein MAK16 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00047460 PE=3 SV=2
+tr|I7M105|I7M105_TETTS -          nup96                -                5.7    4.8  49.6       6.3    4.6  49.6   1.0   1   0   0   1   1   1   0 RNA recognition motif protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00399550 PE=4 SV=2
+tr|Q22B41|Q22B41_TETTS -          nup96                -                6.2    4.6  10.5       6.2    4.6  10.5   1.0   1   0   0   1   1   1   0 SRP40, carboxy-terminal domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01123970 PE=4 SV=1
+tr|I7MH53|I7MH53_TETTS -          nup96                -                6.3    4.6  28.4       7.5    4.4  28.4   1.0   1   0   0   1   1   1   0 FHA domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00548310 PE=4 SV=1
+tr|Q23C25|Q23C25_TETTS -          nup96                -                7.8    4.3  13.9        12    3.7  13.9   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00224580 PE=4 SV=2
+tr|Q236D1|Q236D1_TETTS -          nup96                -                9.4    4.0 284.3     0.066   11.2  78.8   3.4   1   1   2   3   3   2   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00091620 PE=4 SV=2
+tr|I7ML08|I7ML08_TETTS -          nup96                -                9.5    4.0  33.0        13    3.6  33.0   1.1   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00309940 PE=4 SV=2
+tr|I7MCK9|I7MCK9_TETTS -          nup96                -                9.9    4.0  20.7        18    3.1  20.7   1.3   1   0   0   1   1   1   0 Cyclic nucleotide-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00723270 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup96.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup96.txt --cpu 8 hmm_profiles_from_msa/nup96.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:43:51 2022
+# [ok]

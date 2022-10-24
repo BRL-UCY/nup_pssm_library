@@ -1,0 +1,28 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7LT04|I7LT04_TETTS -          nup160               -            4.3e-05   21.8   0.8       2.2    6.2   0.0   3.7   3   1   1   4   4   4   3 Lissencephaly-1 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760520 PE=3 SV=1
+tr|Q23BW6|Q23BW6_TETTS -          nup160               -            0.00053   18.1   1.7     0.036   12.1   0.0   2.9   2   1   1   3   3   3   2 Transcription initiation factor TFIID subunit 5 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00227160 PE=4 SV=1
+tr|W7XKA0|W7XKA0_TETTS -          nup160               -            0.00078   17.6   0.6       1.6    6.7   0.0   3.1   3   0   0   3   3   3   2 Required for amino acid permease transport from the to the cell surface protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000227669 PE=3 SV=1
+tr|Q247R1|Q247R1_TETTS -          nup160               -             0.0017   16.5   0.8      0.14   10.1   0.2   3.2   2   1   2   4   4   4   1 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00994360 PE=4 SV=1
+tr|Q24C92|Q24C92_TETTS -          nup160               -             0.0047   15.0   0.4      0.83    7.6   0.1   2.1   2   0   0   2   2   2   2 Zinc carboxypeptidase family protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00695800 PE=4 SV=1
+tr|Q23YA8|Q23YA8_TETTS -          nup160               -             0.0064   14.6  19.1       0.7    7.8   0.1   7.3   6   3   3   9   9   9   3 WD40 repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00899550 PE=4 SV=2
+tr|W7X974|W7X974_TETTS -          nup160               -             0.0068   14.5   0.5      0.12   10.4   0.0   2.0   2   0   0   2   2   2   1 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000954319 PE=4 SV=1
+tr|I7LXH1|I7LXH1_TETTS -          nup160               -              0.016   13.2   0.1     0.023   12.7   0.1   1.0   1   0   0   1   1   1   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00241520 PE=4 SV=2
+tr|Q22CP3|Q22CP3_TETTS -          nup160               -              0.019   13.0   0.1      0.54    8.2   0.0   2.2   2   0   0   2   2   2   0 Striatin-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01026360 PE=4 SV=2
+tr|I7M448|I7M448_TETTS -          nup160               -              0.025   12.6   0.7      0.91    7.4   0.1   2.7   1   1   2   3   3   3   0 Pre-mRNA-splicing factor prp46 OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00684450 PE=3 SV=1
+tr|I7MLQ3|I7MLQ3_TETTS -          nup160               -              0.048   11.7   0.1     0.072   11.1   0.1   1.2   1   0   0   1   1   1   0 HELP domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00353480 PE=3 SV=1
+tr|I7LV71|I7LV71_TETTS -          nup160               -              0.075   11.0   0.0      0.17    9.8   0.0   1.5   2   0   0   2   2   2   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00338170 PE=4 SV=2
+tr|I7MMK9|I7MMK9_TETTS -          nup160               -              0.077   11.0   0.1        22    2.9   0.0   3.2   2   1   1   3   3   3   0 Outer row dynein assembly-like protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00762930 PE=4 SV=1
+tr|Q22KL7|Q22KL7_TETTS -          nup160               -              0.094   10.7   0.1       2.8    5.8   0.0   1.9   1   1   1   2   2   2   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00312640 PE=4 SV=2
+tr|I7LVU1|I7LVU1_TETTS -          nup160               -               0.11   10.5   0.7       4.6    5.1   0.0   2.0   2   0   0   2   2   2   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00591550 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup160.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_masked/TTHE/nup160.txt --cpu 8 hmm_profiles_from_msa/nup160.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:44:39 2022
+# [ok]

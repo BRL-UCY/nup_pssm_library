@@ -1,0 +1,27 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22WD0|Q22WD0_TETTS -          nup358               -            3.1e-42  144.5  11.0   3.4e-42  144.4  11.0   1.0   1   0   0   1   1   1   1 Ran-binding protein 2, Ran-binding domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00158040 PE=4 SV=1
+tr|I7LUN3|I7LUN3_TETTS -          nup358               -            6.1e-15   54.0  45.2   0.00061   17.5   1.8  13.1  10   3   4  14  14  14  10 Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00518520 PE=4 SV=2
+tr|Q24FG4|Q24FG4_TETTS -          nup358               -              4e-10   38.0  94.8     0.052   11.1   0.1  23.0  19   5   6  25  25  25  13 Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00864990 PE=4 SV=1
+tr|Q23K93|Q23K93_TETTS -          nup358               -            8.9e-06   23.6   6.6   8.9e-06   23.6   6.6   1.7   1   1   0   1   1   1   1 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194420 PE=4 SV=1
+tr|Q24CU7|Q24CU7_TETTS -          nup358               -            1.2e-05   23.1  68.8      0.43    8.0   0.1  17.8  20   0   0  20  20  20   9 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00713550 PE=4 SV=1
+tr|I7LTQ4|I7LTQ4_TETTS -          nup358               -            1.7e-05   22.7   4.6   0.00046   17.9   0.0   2.5   2   1   0   2   2   2   2 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00420690 PE=4 SV=1
+tr|Q24CU0|Q24CU0_TETTS -          nup358               -            0.00034   18.3  28.5       0.3    8.5   0.1   9.8  10   1   1  11  11  11   4 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00713620 PE=4 SV=3
+tr|I7MAN6|I7MAN6_TETTS -          nup358               -               0.37    8.2  25.3       2.4    5.6   0.1   7.9   8   1   0   8   8   8   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00685910 PE=4 SV=1
+tr|I7M344|I7M344_TETTS -          nup358               -               0.76    7.2  14.5       2.7    5.4   0.0   5.2   7   0   0   7   7   7   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00557980 PE=4 SV=2
+tr|I7MDN7|I7MDN7_TETTS -          nup358               -                2.1    5.7  39.5       2.3    5.6  39.5   1.1   1   0   0   1   1   1   0 YEATS domain protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00561450 PE=4 SV=2
+tr|I7M3G0|I7M3G0_TETTS -          nup358               -                4.6    4.6  56.1         7    4.0  56.1   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00444620 PE=4 SV=1
+tr|Q22A14|Q22A14_TETTS -          nup358               -                5.3    4.4  27.5       6.5    4.1  27.5   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01298510 PE=4 SV=1
+tr|I7LZJ1|I7LZJ1_TETTS -          nup358               -                7.1    4.0  15.6       7.5    3.9  15.6   1.0   1   0   0   1   1   1   0 Inhibitor of apoptosis-promoting Bax1 protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760770 PE=3 SV=1
+tr|W7XAX1|W7XAX1_TETTS -          nup358               -                7.4    3.9  65.9       9.2    3.6  65.9   1.0   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000388619 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup358.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup358.txt --cpu 8 hmm_profiles_from_msa/nup358.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:43:21 2022
+# [ok]

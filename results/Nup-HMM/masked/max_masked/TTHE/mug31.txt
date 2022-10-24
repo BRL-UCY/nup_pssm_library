@@ -1,0 +1,16 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22NE4|Q22NE4_TETTS   -          mug31                -               0.84    9.6   0.3       1.8    8.6   0.3   1.4   1   0   0   1   1   1   0 Phosphatidylinositol 3-and 4-kinase family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00203010 PE=4 SV=2
+tr|W7XF31|W7XF31_TETTS   -          mug31                -                2.6    8.0   0.4       3.7    7.5   0.4   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000101149 PE=4 SV=1
+tr|Q22YK6|Q22YK6_TETTS   -          mug31                -                7.2    6.6   0.2         8    6.4   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00602890 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/mug31.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/mug31.txt --max --cpu 8 hmm_profiles_from_msa/mug31.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:53:04 2022
+# [ok]

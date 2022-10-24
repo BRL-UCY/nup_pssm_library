@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23S21|Q23S21_TETTS -          nup62                -            6.1e-07   29.2  50.8   2.6e-06   27.2  50.8   2.2   1   1   0   1   1   1   1 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01122680 PE=4 SV=2
+tr|Q235Y3|Q235Y3_TETTS -          nup62                -                0.2   11.1   0.4      0.32   10.4   0.4   1.3   1   0   0   1   1   1   0 Vesicle transport V-SNARE protein amine-terminal protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00094080 PE=3 SV=3
+tr|W7XG36|W7XG36_TETTS -          nup62                -                2.2    7.7   3.2         3    7.2   3.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000151708 PE=4 SV=1
+tr|Q248F2|Q248F2_TETTS -          nup62                -                7.5    5.9  31.8       9.8    5.5  31.8   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00532150 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup62.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup62.txt --cpu 8 hmm_profiles_from_msa/nup62.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:43:30 2022
+# [ok]

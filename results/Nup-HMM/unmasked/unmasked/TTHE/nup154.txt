@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MCI3|I7MCI3_TETTS -          nup154               -            1.2e-38  133.1  53.4   1.6e-13   49.9   1.1   7.7   6   2   0   7   7   7   6 Nucleoporin_N domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760460 PE=4 SV=2
+tr|Q234P8|Q234P8_TETTS -          nup154               -               0.27    9.3  12.7      0.37    8.9  12.7   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00101510 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/nup154.txt --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:44:00 2022
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23KI3|Q23KI3_TETTS -          nup58                -                1.1    8.2   0.1       1.6    7.6   0.1   1.1   1   0   0   1   1   1   0 Dynein heavy chain, amine-terminal region protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00193520 PE=4 SV=2
+tr|Q22Z63|Q22Z63_TETTS -          nup58                -                2.7    6.9   0.4       3.8    6.4   0.4   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00113080 PE=4 SV=2
+tr|I7M612|I7M612_TETTS -          nup58                -                  3    6.8   0.2       5.1    6.0   0.0   1.4   2   0   0   2   2   2   0 MAP kinase kinase 1 interacting protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760540 PE=3 SV=2
+tr|Q22N72|Q22N72_TETTS -          nup58                -                3.8    6.4   0.0       5.1    6.0   0.0   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00213630 PE=4 SV=1
+tr|Q22XS0|Q22XS0_TETTS -          nup58                -                6.2    5.7   0.1       8.4    5.3   0.1   1.1   1   0   0   1   1   1   0 D-beta-hydroxybutyrate dehydrogenase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01005260 PE=4 SV=1
+tr|W7XA48|W7XA48_TETTS -          nup58                -                8.1    5.3   0.8        12    4.8   0.8   1.1   1   0   0   1   1   1   0 von willebrand factor type A domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000490749 PE=4 SV=1
+tr|Q233K6|Q233K6_TETTS -          nup58                -                8.6    5.2   0.0        12    4.7   0.0   1.2   1   0   0   1   1   1   0 Thiamine pyrophosphokinase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00391440 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup58.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup58.txt --max --cpu 8 hmm_profiles_from_msa/nup58.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:53:28 2022
+# [ok]

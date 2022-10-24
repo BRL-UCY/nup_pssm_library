@@ -1,0 +1,17 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MKK8|I7MKK8_TETTS -          pom152               -                1.5    7.1   0.0       2.2    6.6   0.0   1.1   1   0   0   1   1   1   0 Kinase domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00136380 PE=3 SV=2
+tr|W7WY36|W7WY36_TETTS -          pom152               -                2.4    6.5   0.1       3.1    6.1   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000238748 PE=4 SV=1
+tr|I7M9K6|I7M9K6_TETTS -          pom152               -                  6    5.2   0.0       6.3    5.1   0.0   1.1   1   0   0   1   1   1   0 Emp24/gp25L/p24 family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00502100 PE=3 SV=1
+tr|Q229U9|Q229U9_TETTS -          pom152               -                8.4    4.7   0.0        11    4.3   0.0   1.1   1   0   0   1   1   1   0 Calmodulin-domain kinase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01333220 PE=3 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/pom152.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/pom152.txt --max --cpu 8 hmm_profiles_from_msa/pom152.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:54:43 2022
+# [ok]

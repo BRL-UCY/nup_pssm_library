@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q241A4|Q241A4_TETTS   -          nup93                -              0.042   12.4   0.6     0.071   11.6   0.6   1.2   1   0   0   1   1   1   0 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00622800 PE=4 SV=1
+tr|Q22A40|Q22A40_TETTS   -          nup93                -              0.056   11.9   0.0     0.075   11.5   0.0   1.1   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01289010 PE=3 SV=1
+tr|I7LVZ7|I7LVZ7_TETTS   -          nup93                -               0.14   10.7   0.3       1.3    7.4   0.0   2.4   2   0   0   2   2   2   0 Intraflagellar transporter OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00220810 PE=4 SV=1
+tr|I7MLC4|I7MLC4_TETTS   -          nup93                -               0.47    8.9   0.2      0.64    8.4   0.2   1.1   1   0   0   1   1   1   0 GDSL-like lipase/acylhydrolase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00563920 PE=4 SV=1
+tr|Q22Z91|Q22Z91_TETTS   -          nup93                -               0.52    8.7   0.0      0.79    8.1   0.0   1.2   1   0   0   1   1   1   0 Serine/threonine-protein phosphatase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00112800 PE=3 SV=2
+tr|Q22AU9|Q22AU9_TETTS   -          nup93                -                1.4    7.3   0.4         2    6.8   0.4   1.1   1   0   0   1   1   1   0 Normocyte-binding protein 2a, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01151610 PE=4 SV=2
+tr|I7LV64|I7LV64_TETTS   -          nup93                -                  2    6.8   0.1       2.3    6.6   0.1   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00335740 PE=4 SV=1
+tr|Q22BP2|Q22BP2_TETTS   -          nup93                -                2.1    6.7   2.2       5.6    5.3   0.1   2.5   3   0   0   3   3   3   0 WD40 repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01093530 PE=4 SV=2
+tr|Q236H1|Q236H1_TETTS   -          nup93                -                2.4    6.5   1.4       9.9    4.5   0.1   2.4   2   0   0   2   2   2   0 Intraflagellar transporter, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00089240 PE=4 SV=2
+tr|Q22AU5|Q22AU5_TETTS   -          nup93                -                4.3    5.7   0.3     1e+02    1.2   0.1   3.1   3   0   0   3   3   3   0 Probable UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase SPINDLY OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01156780 PE=4 SV=2
+tr|I7MAN6|I7MAN6_TETTS   -          nup93                -                5.1    5.5   0.1        13    4.1   0.1   1.6   1   0   0   1   1   1   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00685910 PE=4 SV=1
+tr|Q23K93|Q23K93_TETTS   -          nup93                -                5.7    5.3   1.1       5.9    5.3   0.2   1.4   2   0   0   2   2   2   0 Tetratricopeptide repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00194420 PE=4 SV=1
+tr|I7M601|I7M601_TETTS   -          nup93                -                7.6    4.9   0.0        11    4.4   0.0   1.1   1   0   0   1   1   1   0 NLI interacting factor-like phosphatase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00773590 PE=4 SV=2
+tr|Q22QR4|Q22QR4_TETTS   -          nup93                -                7.7    4.9   0.2        10    4.5   0.2   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01269140 PE=4 SV=3
+tr|I7MA15|I7MA15_TETTS   -          nup93                -                8.4    4.7   0.1        12    4.3   0.1   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00535480 PE=4 SV=1
+tr|I7M0P5|I7M0P5_TETTS   -          nup93                -                9.2    4.6   0.0        12    4.2   0.0   1.1   1   0   0   1   1   1   0 S-adenosylmethionine-dependent methyltransferase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00561790 PE=4 SV=1
+tr|Q247Z9|Q247Z9_TETTS   -          nup93                -                9.2    4.6   0.0        17    3.8   0.0   1.3   1   0   0   1   1   1   0 Corvet complex core vacuolar protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00532700 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup93.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup93.txt --max --cpu 8 hmm_profiles_from_msa/nup93.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:56:52 2022
+# [ok]

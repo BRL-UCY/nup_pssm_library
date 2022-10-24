@@ -1,0 +1,16 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q234T3|Q234T3_TETTS -          gp210                -           2.2e-229  764.7  50.9    2e-131  439.9  29.2   2.9   2   1   0   2   2   2   2 Nucleoporin, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00101160 PE=3 SV=2
+tr|Q230V2|Q230V2_TETTS -          gp210                -               0.11    9.8   0.5      0.14    9.4   0.5   1.0   1   0   0   1   1   1   0 Ribosomal protein S9 component of cytosolic 80S ribosome and 40S small subunit OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00434070 PE=1 SV=3
+tr|Q23C08|Q23C08_TETTS -          gp210                -               0.19    9.0   1.3      0.25    8.6   1.3   1.1   1   0   0   1   1   1   0 Protein YIPF OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00225740 PE=3 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/gp210.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_unmasked/TTHE/gp210.txt --cpu 8 hmm_profiles_from_msa/gp210.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:44:16 2022
+# [ok]

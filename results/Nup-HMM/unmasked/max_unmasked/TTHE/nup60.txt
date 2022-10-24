@@ -1,0 +1,31 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q22B41|Q22B41_TETTS   -          nup60                -                1.2    8.6  16.0       1.5    8.3  16.0   1.2   1   0   0   1   1   1   0 SRP40, carboxy-terminal domain protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01123970 PE=4 SV=1
+tr|Q23QE3|Q23QE3_TETTS   -          nup60                -                1.3    8.5   1.1       1.4    8.4   1.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01211800 PE=4 SV=2
+tr|W7XJV8|W7XJV8_TETTS   -          nup60                -                2.5    7.5   9.3       2.5    7.5   9.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000881349 PE=4 SV=1
+tr|I7M7B1|I7M7B1_TETTS   -          nup60                -                2.9    7.3   3.4       6.2    6.2   3.4   1.5   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00145010 PE=1 SV=2
+tr|Q22ZB6|Q22ZB6_TETTS   -          nup60                -                3.5    7.0   5.0         5    6.5   5.0   1.1   1   0   0   1   1   1   0 Pyridine-binding domain transketolase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00112550 PE=4 SV=2
+tr|Q22SC0|Q22SC0_TETTS   -          nup60                -                3.7    6.9  20.9      0.11   12.1  13.8   1.9   2   0   0   2   2   2   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00006160 PE=4 SV=1
+tr|Q23BX7|Q23BX7_TETTS   -          nup60                -                3.9    6.9   1.6       4.6    6.6   1.6   1.1   1   0   0   1   1   1   0 Peptidylprolyl isomerase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00227050 PE=4 SV=2
+tr|W7WXX6|W7WXX6_TETTS   -          nup60                -                  4    6.9   2.6       4.8    6.6   2.6   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000755821 PE=4 SV=1
+tr|Q237T8|Q237T8_TETTS   -          nup60                -                4.7    6.6   0.3       7.1    6.0   0.3   1.3   1   0   0   1   1   1   0 Acyl-CoA-binding protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00319970 PE=4 SV=2
+tr|W7X8L5|W7X8L5_TETTS   -          nup60                -                5.6    6.4   1.9       6.7    6.1   1.9   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000558438 PE=4 SV=1
+tr|Q22VA7|Q22VA7_TETTS   -          nup60                -                7.3    6.0  10.9        13    5.2  10.9   1.3   1   0   0   1   1   1   0 Phosphodiesterase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01216060 PE=3 SV=2
+tr|I7MLB3|I7MLB3_TETTS   -          nup60                -                7.7    5.9  35.3        10    5.5  35.3   1.1   1   0   0   1   1   1   0 Translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00931950 PE=3 SV=1
+tr|W7XBA3|W7XBA3_TETTS   -          nup60                -                8.2    5.8   2.0       9.7    5.6   2.0   1.0   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000205206 PE=4 SV=1
+tr|Q23QW7|Q23QW7_TETTS   -          nup60                -                8.6    5.8   4.8       9.9    5.6   4.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00249660 PE=4 SV=1
+tr|Q22UC2|Q22UC2_TETTS   -          nup60                -                8.7    5.7   5.4       9.7    5.6   5.4   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00259640 PE=4 SV=1
+tr|W7XHV5|W7XHV5_TETTS   -          nup60                -                8.7    5.7   1.6       8.7    5.7   1.6   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000499609 PE=4 SV=1
+tr|W7XFT5|W7XFT5_TETTS   -          nup60                -                9.3    5.6  19.3        11    5.4  19.3   1.0   1   0   0   1   1   1   0 Programmed DNA degradation protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_001109990 PE=4 SV=1
+tr|I7M646|I7M646_TETTS   -          nup60                -                9.7    5.6   5.3        12    5.2   5.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00715660 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup60.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_unmasked/TTHE/nup60.txt --max --cpu 8 hmm_profiles_from_msa/nup60.hmm /Users/Andreas/Desktop/Project/Proteomes/unmasked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 23:24:35 2022
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MCI3|I7MCI3_TETTS   -          nup154               -            5.1e-32  111.1  18.6   5.2e-08   31.6   1.1   6.8   7   0   0   7   7   7   6 Nucleoporin_N domain-containing protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760460 PE=4 SV=2
+tr|W7XH62|W7XH62_TETTS   -          nup154               -                1.1    7.3   0.1       1.6    6.8   0.1   1.1   1   0   0   1   1   1   0 Calpain family cysteine protease OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000058888 PE=4 SV=1
+tr|I7MIS9|I7MIS9_TETTS   -          nup154               -                1.5    6.9   0.1       2.1    6.4   0.1   1.1   1   0   0   1   1   1   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00522930 PE=4 SV=1
+tr|I7MJZ7|I7MJZ7_TETTS   -          nup154               -                  2    6.4   0.0       2.7    6.0   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00338310 PE=4 SV=1
+tr|I7LXU1|I7LXU1_TETTS   -          nup154               -                3.7    5.6   0.0       3.5    5.6   0.0   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00326760 PE=4 SV=1
+tr|Q23CW2|Q23CW2_TETTS   -          nup154               -                4.2    5.4   0.0       6.4    4.8   0.0   1.1   1   0   0   1   1   1   0 EF hand protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00052280 PE=3 SV=2
+tr|I7M5X2|I7M5X2_TETTS   -          nup154               -                4.3    5.3   0.0         6    4.9   0.0   1.1   1   0   0   1   1   1   0 WD regulatory protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00825380 PE=3 SV=1
+tr|A4VCU5|A4VCU5_TETTS   -          nup154               -                6.7    4.7   0.2       9.1    4.3   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00467738 PE=4 SV=1
+tr|I7LT04|I7LT04_TETTS   -          nup154               -                  8    4.5   0.0        15    3.6   0.0   1.3   1   0   0   1   1   1   0 Lissencephaly-1 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760520 PE=3 SV=1
+tr|I7MME8|I7MME8_TETTS   -          nup154               -                8.7    4.3   0.3        14    3.7   0.3   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00242350 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup154.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup154.txt --max --cpu 8 hmm_profiles_from_msa/nup154.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:58:26 2022
+# [ok]

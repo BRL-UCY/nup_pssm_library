@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7MLZ6|I7MLZ6_TETTS -          elys                 -                0.4    8.0   0.0      0.53    7.6   0.0   1.0   1   0   0   1   1   1   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00474420 PE=4 SV=2
+tr|Q23KF6|Q23KF6_TETTS -          elys                 -                1.1    6.5   0.0       1.5    6.1   0.0   1.0   1   0   0   1   1   1   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00193790 PE=4 SV=2
+tr|Q247S7|Q247S7_TETTS -          elys                 -                2.7    5.2   0.0       3.9    4.7   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00994200 PE=4 SV=1
+tr|I7MF10|I7MF10_TETTS -          elys                 -                4.7    4.5   0.7       6.6    4.0   0.7   1.1   1   0   0   1   1   1   0 Transmembrane protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00346700 PE=4 SV=2
+tr|I7M3C6|I7M3C6_TETTS -          elys                 -                8.4    3.6   0.5        11    3.3   0.5   1.0   1   0   0   1   1   1   0 WD domain, G-beta repeat protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00492490 PE=4 SV=2
+tr|Q22AI4|Q22AI4_TETTS -          elys                 -                8.5    3.6   0.0        11    3.2   0.0   1.0   1   0   0   1   1   1   0 Vacuolar protein sorting-associated protein 11 homolog OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01205260 PE=3 SV=1
+tr|Q228P3|Q228P3_TETTS -          elys                 -                8.6    3.6   0.3        11    3.2   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01526440 PE=4 SV=2
+tr|W7X489|W7X489_TETTS -          elys                 -                9.5    3.5   0.1        14    2.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_002653365 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/elys.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/elys.txt --max --cpu 8 hmm_profiles_from_msa/elys.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:52:19 2022
+# [ok]

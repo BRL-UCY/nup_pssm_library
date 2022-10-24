@@ -1,0 +1,19 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23EG4|Q23EG4_TETTS   -          nup75                -                0.2   10.4   0.7      0.29    9.9   0.7   1.2   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01028760 PE=4 SV=3
+tr|W7XH59|W7XH59_TETTS   -          nup75                -                0.4    9.4   0.3      0.48    9.2   0.3   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000059189 PE=4 SV=1
+tr|W7XBP6|W7XBP6_TETTS   -          nup75                -                1.7    7.4   0.1       2.3    6.9   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000753349 PE=4 SV=1
+tr|Q23VE3|Q23VE3_TETTS   -          nup75                -                5.1    5.8   0.0         7    5.3   0.0   1.1   1   0   0   1   1   1   0 Small guanosine triphosphatase family Ras family protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00957580 PE=4 SV=1
+tr|I7M7D7|I7M7D7_TETTS   -          nup75                -                6.1    5.5   0.2       8.2    5.1   0.2   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00146440 PE=4 SV=1
+tr|Q22GD1|Q22GD1_TETTS   -          nup75                -                6.9    5.4   0.1        10    4.8   0.1   1.2   1   0   0   1   1   1   0 EF-hand pair protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00703920 PE=4 SV=3
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup75.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup75.txt --max --cpu 8 hmm_profiles_from_msa/nup75.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:52:59 2022
+# [ok]

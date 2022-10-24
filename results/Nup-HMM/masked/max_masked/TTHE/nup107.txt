@@ -1,0 +1,20 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q23FY6|Q23FY6_TETTS   -          nup107               -               0.93    8.0   0.0         1    7.9   0.0   1.0   1   0   0   1   1   1   0 Prefoldin OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00077790 PE=3 SV=1
+tr|Q22MB7|Q22MB7_TETTS   -          nup107               -                4.3    5.8   0.9        56    2.1   0.0   2.6   3   0   0   3   3   3   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00037020 PE=4 SV=2
+tr|I7MJN9|I7MJN9_TETTS   -          nup107               -                4.5    5.8   0.0       6.2    5.3   0.0   1.1   1   0   0   1   1   1   0 FAD/FMN-binding family oxidoreductase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00842650 PE=4 SV=2
+tr|I7MIG8|I7MIG8_TETTS   -          nup107               -                4.9    5.6   0.3       5.4    5.5   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00614840 PE=4 SV=1
+tr|Q22B62|Q22B62_TETTS   -          nup107               -                8.6    4.8   0.0        11    4.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01109930 PE=4 SV=1
+tr|Q22P41|Q22P41_TETTS   -          nup107               -                9.8    4.6   0.1        12    4.3   0.1   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00414500 PE=4 SV=1
+tr|W7XB57|W7XB57_TETTS   -          nup107               -                9.9    4.6   0.2        10    4.6   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_000581749 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup107.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup107.txt --max --cpu 8 hmm_profiles_from_msa/nup107.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:53:58 2022
+# [ok]

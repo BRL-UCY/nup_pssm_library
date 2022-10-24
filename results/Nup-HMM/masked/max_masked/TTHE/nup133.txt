@@ -1,0 +1,18 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name            accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#    ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I7LXZ5|I7LXZ5_TETTS   -          nup133               -               0.22    9.6   0.2      0.31    9.2   0.2   1.0   1   0   0   1   1   1   0 Uncharacterized protein (Fragment) OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00842720 PE=4 SV=2
+tr|I7M0X5|I7M0X5_TETTS   -          nup133               -                1.1    7.3   0.1       1.7    6.7   0.1   1.2   1   0   0   1   1   1   0 AAA family ATPase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00295050 PE=4 SV=2
+tr|I7LZI8|I7LZI8_TETTS   -          nup133               -                3.1    5.8   0.1       4.1    5.4   0.1   1.0   1   0   0   1   1   1   0 Proline iminopeptidase OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00760600 PE=3 SV=1
+tr|Q228L5|Q228L5_TETTS   -          nup133               -                  4    5.5   0.3       4.2    5.4   0.3   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_01541730 PE=4 SV=1
+tr|Q22NU3|Q22NU3_TETTS   -          nup133               -                8.4    4.4   0.0        10    4.1   0.0   1.1   1   0   0   1   1   1   0 Transcription factor iib protein, putative OS=Tetrahymena thermophila (strain SB210) OX=312017 GN=TTHERM_00418580 PE=4 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      hmm_profiles_from_msa/nup133.hmm
+# Target file:     /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta
+# Option settings: hmmsearch --tblout proteomes_max_masked/TTHE/nup133.txt --max --cpu 8 hmm_profiles_from_msa/nup133.hmm /Users/Andreas/Desktop/Project/Proteomes/masked/TTHE.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/compare_profiles_new_hmms
+# Date:            Mon Oct 24 22:57:23 2022
+# [ok]
