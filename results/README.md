@@ -12,3 +12,5 @@ Detection of nucleoporins in proteomes using HMMSEARCH and the PFAM HMM library 
 Detection of nucleoporins in proteomes using HMMSEARCH and our Nup-HMM library of profiles.  
 5) [Execution performance](./Performance/)\
 Statistics of the execution time of the 3 detection methods.
+6) [Figures](./figures/)\
+Publication figures in original quality
