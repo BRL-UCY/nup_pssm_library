@@ -16,7 +16,7 @@ library(stringr)
 #####################
 # Import data
 #####################
-times <- read_excel("/Users/Andreas/Desktop/Project/compare_profiles/Times/Times.xlsx", sheet="Merged")
+times <- read_excel("/Users/Andreas/Desktop/Project/compare_profiles/Times/Execution_times.xlsx", sheet="Merged")
 df = subset(times, select = -c(Start,End) )
 
 #####################
@@ -152,7 +152,7 @@ dev.off()
 #####################
 # Import data
 #####################
-timesorg <- read_excel("/Users/Andreas/Desktop/Project/compare_profiles/Times/Times.xlsx", sheet="Organisms")
+timesorg <- read_excel("/Users/Andreas/Desktop/Project/compare_profiles/Times/Execution_times.xlsx", sheet="Organisms")
 df3 <- timesorg
 #####################
 # Create the plots
@@ -206,7 +206,7 @@ p4 <- ggplot(df3 %>% filter(str_detect(Profile,"NUP-HMM_HeuristicsOff")), aes(x 
         #axis.ticks.y=element_blank(),
         axis.title.y = element_blank()
   )+
-  scale_y_continuous(breaks = seq(0, 1500, by=300), limits=c(0,1500)) +
+  scale_y_continuous(breaks = seq(0, 2500, by=300), limits=c(0,2500)) +
   ggtitle("NUP-HMM  (Heuristics off)")+ 
   labs(y = "Time (s)") + 
   coord_flip()
