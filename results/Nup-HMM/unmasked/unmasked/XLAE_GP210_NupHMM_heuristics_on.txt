@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8JH73|Q8JH73_XENLA         -          gp210                -            5.9e-39  134.1   0.1   7.4e-39  133.7   0.1   1.0   1   0   0   1   1   1   1 Integral membrane nucleoporin gp210 (Fragment) OS=Xenopus laevis OX=8355 PE=2 SV=1
+tr|Q5IRN1|Q5IRN1_XENLA         -          gp210                -            6.7e-33  114.0   0.4     8e-33  113.7   0.4   1.0   1   0   0   1   1   1   1 Nuclear pore protein gp210 (Fragment) OS=Xenopus laevis OX=8355 PE=2 SV=1
+tr|A0A1L8GPY6|A0A1L8GPY6_XENLA -          gp210                -              0.073   11.1   0.1      0.09   10.8   0.1   1.0   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18024015mg PE=4 SV=1
+tr|A0A1L8GG48|A0A1L8GG48_XENLA -          gp210                -               0.21    9.6   0.4      0.29    9.1   0.4   1.1   1   0   0   1   1   1   0 Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18025342mg PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      ../../../../compare_profiles_nup_hmms/hmm_profiles_from_msa/gp210.hmm
+# Target file:     ../../../../Proteomes/unmasked/XLAE_withGP210.fasta
+# Option settings: hmmsearch --tblout XLAE_GP210_NupHMM_heuristics_on.txt --cpu 8 ../../../../compare_profiles_nup_hmms/hmm_profiles_from_msa/gp210.hmm ../../../../Proteomes/unmasked/XLAE_withGP210.fasta 
+# Current dir:     /Users/Andreas/Desktop/Project/files/PSSMs Paper/Revision/GP210_XLAE
+# Date:            Sat Nov  5 19:40:37 2022
+# [ok]
